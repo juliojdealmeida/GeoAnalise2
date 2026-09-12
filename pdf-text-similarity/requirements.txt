@@ -1,0 +1,6 @@
+pymupdf
+scikit-learn
+python-docx
+sentence-transformers
+transformers
+# Nota: `sentence-transformers` normalmente requer `torch`. Instale-o conforme sua plataforma.

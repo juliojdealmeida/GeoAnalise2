@@ -1,0 +1,25 @@
+name: Build LaTeX PDF
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build LaTeX (xu-cheng/latex-action)
+        uses: xu-cheng/latex-action@v2
+        with:
+          root_file: pdf-text-similarity/main.tex
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: isvt-pdf
+          path: pdf-text-similarity/main.pdf

@@ -1,0 +1,16 @@
+# Ignore large data directories and virtual environment
+pdf-text-similarity/ARTIGOS/
+pdf-text-similarity/ARTIGOS_TXT/
+pdf-text-similarity/.venv/
+
+# Editor and build artifacts
+.vscode/
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
