@@ -1,0 +1,394 @@
+2025 Policy Bulletin: Climate 
+Finance for Development
+Empowering the Ecosystem of Public 
+Development Banks
+February 2025
+Presented by: Climate Policy Initiative (CPI), Third Generation Environmentalism 
+(E3G), Germanwatch, Institute for Climate Economics (I4CE), and the Public Banking 
+Project (PBP), with individual author contributions from Valerie Laxton (WRI) and 
+Imogen Outlaw (NewClimate Institute).1 
+1  The opinions and views presented are of the authors alone and do not necessarily represent opinions and views of the World Resources Institute or 
+NewClimate Institute.
+
+2
+ABOUT CLIMATE POLICY INITIATIVE 
+CPI is an analysis and advisory organization with deep expertise in finance and policy. Our mission is to help 
+governments, businesses, and financial institutions drive economic growth while addressing climate change. 
+CPI has seven offices around the world in Brazil, India, Indonesia, the South Africa, United Kingdom, and the 
+United States. 
+www.climatepolicyinitiative.org
+ABOUT E3G 
+E3G is an independent climate change think tank with a global outlook. We work on the frontier of the 
+climate landscape, tackling the barriers and advancing the solutions to a safe climate. Our goal is to translate 
+climate politics, economics and policies into action. 
+E3G builds broad-based coalitions to deliver a safe climate, working closely with like-minded partners in 
+government, politics, civil society, science, the media, public interest foundations and elsewhere to leverage 
+change. 
+www.e3g.org
+ABOUT GERMANWATCH
+Following the motto of Observing. Analysing. Acting. Germanwatch has been actively promoting global 
+equi ty and livelihood preservation since 1991. We focus on the politics and economics of the Global North 
+and their world-wide consequences. The situation of marginalised people in the Global South is the starting 
+point for our work. Together with our members and supporters, and with other actors in civil society, we 
+strive to serve as a strong lobbying force for sustainable development. We aim at our goals by advocating 
+for prevention of dangerous climate change and its negative impacts, for guaranteeing food security, and for 
+corporate compliance with human rights standards.
+www.germanwatch.org
+ABOUT THE INSTITUTE FOR CLIMATE ECONOMICS (I4CE)
+The Institute for Climate Economics (I4CE) is a non-profit research organization that provides independent 
+policy analysis on climate change mitigation and adaptation. We promote climate policies that are effective, 
+efficient, and socially fair. Our experts engage with national and local governments, the EU, international 
+financial institutions, civil society organizations, and the media.
+www.i4ce.org
+ABOUT THE PUBLIC BANKING PROJECT
+The Public Banking Project, McMaster University, has three core aims: to provide theoretically informed and 
+empirically rich understandings; to strengthen the interface between public banking scholars, policymakers, 
+practitioners, and communities; and to train a new generation of public banking scholars.
+www.publicbanking.mcmaster.ca
+3
+2025 Policy Bulletin: Climate Finance for Development
+BULLETIN OVERVIEW
+2025 is a pivotal year for the interlocking global agendas of climate and sustainable development, 
+highlighted by major convenings such as the 5th Finance in Common Summit (FiCS), the 4th International 
+Conference on Financing for Development (FfD4), the G20 Summit under South Africa’s presidency, and the 
+UNFCCC COP30. Public development banks (PDBs) will feature prominently across these events, given their 
+integral role in implementing these critical agendas through financial support and stakeholder mobilization. 
+This policy bulletin summarizes recent research on how PDBs’ contribution to low-emissions and 
+climate-resilient development can be accelerated and scaled to make progress toward the global agenda 
+for sustainable development. Bolstering domestic markets and sourcing local finance is key to addressing 
+the availability and the delivered cost of capital, as well as to reaching decarbonization, adaptation, and 
+sustainability goals. To transition to just, net zero, and climate-resilient economies, a bottom-up approach 
+will significantly accelerate change and effectiveness. Countries and domestic institutions need to be 
+involved at the onset of reforms, to ensure ownership and alignment.
+In particular, this bulletin synthesizes key findings across publications from our respective organizations to 
+provide PDBs, shareholder governments, and other relevant stakeholders with actionable recommendations 
+across the following topics:
+• Operationalizing Paris Alignment and Impact Measurement
+• “Public-Public” Collaborations for Climate Finance
+• Mobilizing Private Finance to Meet Climate Investment Gaps
+• Building Platforms for Just Transition and Sustainable Development
+• Financing the Energy Transition
+• Other Emerging Themes (e.g., nature finance, carbon markets, digital technology)
+On an ongoing basis, this document will be updated as a reference point for evidence-based discussions 
+on each of these topics, bringing together practitioners, policymakers, investors, and the broader research 
+community to coordinate activities and develop solutions around common understanding and objectives.
+OPERATIONALIZING PARIS ALIGNMENT AND IMPACT 
+MEASUREMENT
+KEY FINDINGS
+Global uptake of Paris alignment commitments has struggled to make headwind in emerging markets 
+and developing economies (EMDEs), despite being widely recognized as both urgent and necessary. 
+• Recent tracking of PDB climate ambition indicates that only a minority of PDBs have explicitly committed 
+to Paris alignment, and that the adoption rate of new climate commitments among PDBs has slowed 
+since 2022 (CPI 2024).
+• While providing support to individual financial institutions to align with the Paris Agreement is key, 
+voluntary approaches will not be sufficient to align financial systems in developing countries (I4CE & 
+NewClimate Institute 2023).
+4
+2025 Policy Bulletin: Climate Finance for Development
+• While recent years have seen significant progress across important aspects of Paris alignment among 
+members of the joint reporting multilateral development bank (MDB) group, in some cases, bilateral 
+development finance institutions (DFIs) have exhibited leading approaches of their own, albeit faced 
+with notably different operating contexts and constraints (E3G ongoing).
+Paris alignment methodology development among PDBs varies widely, based on individual PDB contexts 
+and in the absence of global criteria. While this individual development better accounts for national 
+needs, it has also led to financing gaps, particularly around adaptation and a just transition.
+• Where PDBs have started to implement Paris alignment, they have used a number of different project- 
+and portfolio-level benchmarks to assess alignment (CPI & I4CE 2024). Alignment cannot be assessed 
+by any single indicator and is an ongoing process that requires support from PDB governance structures 
+and shareholders.
+• When PDBs align with the Paris Agreement, they are supporting commitments made by their 
+shareholders — i.e., governments —to achieve climate adaptation and mitigation goals in a fair and 
+just manner that underpins these countries’ social contracts (E3G, Germanwatch, I4CE, & NewClimate 
+Institute 2024).
+• MDBs and NDBs often differ in their approaches to Paris alignment. These differences can be attributed 
+to variation in three key areas; (1) political economy and governance; (2) public finance mandates; and 
+(3) institutional capacity and expertise (CPI & E3G 2023). 
+• MDBs’ Joint Reports on Climate Finance show that while the delivery of more international public 
+climate finance is promising, finance for adaptation is lagging, there remains a dearth of information 
+about how much is still being invested in fossil fuels, and the characteristics and terms of the financing 
+for climate purposes are also crucial (WRI 2024; previous versions 2016-2023). 
+• A review of MDBs’ methodologies found that they still focus more on doing no harm than on proactively 
+supporting the transformation. Methodological gaps relating to activities with corporate counterparties 
+and financial intermediaries lead to a risk of misalignment of such investments. Additionally, the 
+MDBs’ list of activities considered universally aligned with the mitigation goals of the Paris Agreement 
+needs revision and just transition considerations are not sufficiently mainstreamed in Paris alignment 
+methodologies (Germanwatch 2024).
+Governance and transparency still have room for improvement across all actor types.
+• MDBs do not consistently publish all Paris alignment assessments of sovereign projects, falling short on 
+transparency and accountability (Germanwatch 2024).
+• Current practices and procedures for risk screening in policy-based operations are not suited to prevent 
+policy actions from undermining government capability to promote long-term macro-fiscal stability and 
+a just transition to climate neutrality by 2050 (WRI, Germanwatch, & NewClimate Institute 2022).
+RECOMMENDATIONS
+For convening & engagement towards collective Paris alignment: 
+1. PDBs need to consider their investments from the standpoint of systematic alignment, engaging with 
+shareholders, sovereign clients, financial intermediaries and corporates, other PDBs, and civil society 
+to identify opportunities to address greenhouse gas (GHG) emissions and improve climate resilience, 
+5
+2025 Policy Bulletin: Climate Finance for Development
+whilst managing financial risks – physical and transition – associated with climate change, ensuring that 
+engagement informs country dialogue process and programmatic work.
+2. Specifically, PDBs should leverage external engagement strategies, particularly counterparty-based 
+approaches, to support their counterparties’ Paris alignment, further driving transformative action 
+beyond the scope of their direct financing activities.
+3. MDBs should scale up proactive exchanges on best practices for climate mainstreaming at the 
+institutional level. This should include engaging with the wider PDB ecosystem (such as through 
+regional networks) to share lessons learned, as well as to draw on practical experience and expertise 
+from institutions closer to local contexts and with different operational approaches. As a specific 
+facilitation method, MDBs should introduce a phased technical assistance approach and contribute to 
+the development of a public, searchable database of available technical assistance programmes and 
+support, leveraging existing platforms (e.g., the Global Capacity Building Coalition, IDFC, and FiCS) for 
+maximizing engagement.
+For Paris alignment methodology development:
+4. It is key to provide Paris alignment methodologies with sufficient weight in PDBs’ governance structures 
+to facilitate mainstreaming and necessary internal changes, as well as an authoritative backbone to 
+support Paris-aligned financing decisions. 
+5. Public development institutions—both MDBs and the wider PDB universe—should focus beyond climate 
+finance flows to a wider Paris alignment approach, which not only operationalizes the “do no harm” 
+principle but also seeks to maximize ambition for climate action. This includes incorporating national 
+climate plans and global climate goals into investment decisions to account for both national needs and 
+global climate goals or directly supporting implementation programs with policy-based operations. 
+For governance and transparency:
+6. PDBs should disclose their full Paris alignment assessments and results. They should agree on a 
+coherent joint standard for publishing such assessments and Paris alignment methodologies should 
+include a minimum commitment to public disclosure.
+“PUBLIC-PUBLIC” COLLABORATIONS FOR CLIMATE FINANCE
+KEY FINDINGS
+Partnerships between PDBs and other public sector entities show promise but still face substantial 
+hurdles that impede scaling and impact.
+• NDBs have a track record of collaborating with MDBs to access climate finance and increase their 
+capacity. MDBs and NDBs have both financial and technical assistance collaborations (public-public 
+collaborations), which are guided by mutual benefits. A key aspect of financial collaboration for global 
+South NDBs is gaining access to hard currencies via MDBs and bilateral DFIs. These collaborations are 
+highly cost- and risk- sensitive; as such, cost-benefit calculations are paramount for the NDBs  (Marois 
+et al. 2025).
+• On collaboration to finance adaptation between MDBs/DFIs and NDBs, MDBs, and DFIs face challenges 
+including differing adaptation definitions, complex fund applications, and ticket size misalignment. 
+2025 Policy Bulletin: Climate Finance for Development
+NDBs struggle with limited capacity to track adaptation finance, a weak pipeline of bankable projects, 
+perceived low returns of such projects, and local currency risk (CPI 2024). 
+• From 2015 to 2022, MDBs provided around USD 7 billion to NDBs in the form of loans, grants, and 
+technical assistance, which was then utilized to fund climate projects in EMDEs (CPI & E3G 2023). This 
+figure is small relative to total MDB finance over the period, and further collaboration between MDBs 
+and NDBs appears to have been impeded by barriers related to political economy and governance, policy 
+mandates, and institutional capacity and expertise.
+RECOMMENDATIONS
+For structuring partnerships between PDBs:
+1. MDBs should look to partner with NDBs to progress on their own climate finance and sustainable 
+development objectives, with the latter acting as a local intermediary and facilitating project pipeline 
+development. That is, MDBs should proactively develop tailored cooperation offers catering for the 
+varied and, in some cases,sector -specific mandates of NDBs. If NDBs do not have any climate-related 
+policies or strategies, and respective state regulation is absent, MDB cooperation can start with capacity 
+building support to identify Paris-aligned projects.
+2. MDBs, multilateral climate funds, and their governing boards must significantly expand low-risk, 
+affordable, genuinely concessional, and transparent climate financing and grant funding to NDBs. NDB 
+access to highly concessional MDB and multilateral climate financing and grants needs to be delivered 
+faster and under less restrictive conditions.
+3. To specifically address collaboration barriers on adaptation finance, PDBs should leverage blended 
+finance expertise to bolster the adaptation business case and support regional development banks as 
+adaptation hubs. PDBs of all sizes and jurisdictions should jointly develop complementary adaptation 
+taxonomies to reach a shared understanding of eligible projects, promote the development of country 
+platform approaches, and enhance capacity-building and knowledge-sharing initiatives on adaptation 
+finance. 
+4. MDBs and bilateral DFIs need to rethink technical assistance (financial and non-financial) to make it fit-
+for-purpose for the domestic financing of green and just transitions vis-à-vis specific national contexts. 
+That is, public-public collaborations need to be flexible, oriented toward fostering better MDB-NDB 
+relations, and sensitive to local conditions. 
+For PDB collaboration with other public entities:
+5. PDBs should develop climate-focused engagement and capacity building strategies with relevant 
+governmental agencies to foster the integration of climate considerations into national regulation 
+and supervision. This would contribute to creating a supportive enabling environment, and could be 
+operationalized through policy-based loans, including a technical assistance offering.
+6. MDBs can offer support to partner governments where NDBs are in the process of updating mandates 
+towards Paris alignment, to better utilize NDBs’ potential as important actors in the country’s climate 
+transformation. This would enable partner countries to 1) ensure coherence with national climate goals, 
+2) make use of NDBs’ ability to reach their specific target groups for the climate transformation, and 3) 
+facilitate NDBs’ climate-related cooperation with MDBs.
+7
+2025 Policy Bulletin: Climate Finance for Development
+For accelerating UNFCCC implementation:
+7. Acting as both PDB shareholders and UN member states, national governments should call on both 
+NDBs and MDBs to foster a global PDB ecosystem grounded in accountable public-public collaborations. 
+To address systemic challenges such as climate change, key stakeholders from governments, economic 
+and financial institutions, and the broader climate community must make mutually reinforcing 
+contributions, because effective solutions require the resources, perspectives, and expertise of all 
+sides—to ultimately decide on shared goals and effective means of achievement.
+8. When countries integrate commitments from Nationally Determined Contributions (NDCs) and Long-
+term Strategies (LTSs) into core economic/development and sectoral planning, policy, and financing 
+(including through country platforms), NDBs should have a role to (1) help identify enabling, policy and 
+institutional reforms, and (2) develop investible pipelines. MDBs can support this role through capacity 
+building if needed. Specifically, to support the achievement of NDC and LTS objectives, NDBs need to 
+take responsibility for building a more substantive pipeline of commercially attractive climate and just 
+transition projects.
+MOBILIZING PRIVATE FINANCE TO MEET CLIMATE INVESTMENT 
+GAPS
+KEY FINDINGS
+PDBs have the tools to massively accelerate private capital flows to close current climate finance 
+shortfalls, particularly in EMDEs. 
+• Guarantees can play a key role in mobilizing private capital for the climate transition, particularly in 
+EMDEs. Despite their potential to leverage significantly more investment for climate projects than 
+other financial instruments, guarantees remain underutilized due to structural barriers such as complex 
+application processes, limited technical assistance, high costs, misaligned timelines, and insufficient 
+stakeholder collaboration (CPI 2024).
+• MDBs can mitigate risks both at the portfolio level by shifting it to private investors and at the project 
+level by sharing it with private investors. At the project level, MDBs’ policies and financial tools can help 
+manage political and regulatory risks. These measures can significantly enhance the risk-return profile of 
+climate projects and bring additional private capital and expertise (WRI 2023).
+RECOMMENDATIONS
+For growing investment-ready project pipelines:
+1. MDBs should increasingly consider financial de-risking mechanisms at the portfolio level. They should 
+help transform entire sectors by addressing risks across projects within a sector, rather than focusing 
+solely on individual assets (a “wholesale” vs. “retail” approach). Leveraging local knowledge, networks, 
+and investors is key to this approach.
+2. MDBs, bilateral DFIs, and regional PDBs should lead efforts to increase data accessibility and 
+transparency, such as the Global Emerging Markets (GEMs) Risk Database consortium, by broadening 
+access to more granular credit and default probability data. This will streamline project and program 
+design, assessment, and decision-making processes.
+8
+2025 Policy Bulletin: Climate Finance for Development
+3. PDB guarantors should simplify eligibility and reporting requirements across similarly structured 
+guarantee products. They should also establish and/or expand technical assistance facilities to support 
+local actors developing bankable climate projects. PDBs should also reduce the cost of obtaining and 
+implementing guarantees: In the short term this could include cost-sharing, fee-subsidies, or donor-
+funded facilities. It will also be important to structure guarantees to align with extended project lifespans 
+and to increase collaboration between private and public sectors.
+BUILDING PLATFORMS FOR JUST TRANSITION AND 
+SUSTAINABLE DEVELOPMENT
+KEY FINDINGS
+As country platforms emerge into actionable frameworks, PDBs have a large role to play in both 
+establishing guidance and leading implementation.
+• The next generation of country platforms (CPs) represent a critical opportunity for a revamped model 
+for delivering climate-positive growth and development outcomes at the country level. To fulfil their 
+potential, CPs must be both context-specific and anchored in a set of core principles. If designed 
+well, they can enhance country-level collaboration across the full range of national and international 
+development and climate actors, improve access to all forms of finance, and ultimately serve as a key 
+implementation mechanism for national planning (E3G 2024).
+• PDBs play a vital role in supporting countries in crafting Paris-aligned, long-term, low-emission 
+development strategies that enable fossil fuel phase-out (NewClimate Institute & I4CE 2024).).
+• For example, South Africa’s Presidential Climate Commission initiated its country platform development 
+process with an emphasis on collaboration between numerous stakeholders—both within and outside 
+the government (WRI 2022). The resulting Just Transition Framework outlines a clear pathway for 
+mobilizing finance for a national-scale just transition, leveraging multiple sources of support, which 
+include both domestic and donor PDBs (WRI 2024).
+RECOMMENDATIONS
+For supporting platform development and implementation:
+1. PDBs should assist countries in defining Paris-aligned long-term low-emissions development strategies 
+and national energy plans and support governments in building capacity to plan and implement early 
+retirement initiatives. They can also facilitate knowledge-sharing platforms that enable stakeholders, 
+including country governments and PDBs, to exchange best practices for implementing a just transition 
+strategy.
+2. NDBs should participate in both the upstream and downstream structuring of country platforms (CPs) 
+to support national ownership and policy coherence. These institutions bring significant value-add such 
+as local knowledge, and this helps to align international goals with national investment priorities, project 
+origination, local currency financing, and domestic private capital mobilization.    
+3. Both MDBs and bilateral PDBs should aim to support country-level climate ambition through financial, 
+technical, and policy support. In the context of CPs, they should collaborate and utilize their convening 
+9
+2025 Policy Bulletin: Climate Finance for Development
+power to provide financial resources, deploy innovative mechanisms that can unlock private investment, 
+and serve as a knowledge hub to facilitate coherence and exchange of lessons learned across the PDB 
+ecosystem. While existing instruments and policies can help to increase both public and private finance 
+for climate action, identifying and leveraging the right tools remains a challenge. The Paying for Paris 
+Resource Hub bridges this gap with information and real-world testimonials on the strategies available 
+to countries to achieve their climate finance goals.
+FINANCING THE ENERGY TRANSITION
+KEY FINDINGS
+Facilitation of the energy transition intersects with PDBs’ broader mandate of delivering finance for 
+sustainable development.
+• PDBs support key energy sector stakeholders in overcoming transition barriers. However, in developing 
+financing vehicles for transition they must carefully navigate the associated risks, which could delay 
+coal phase-out or create perverse incentives that undermine progress toward a low-emission future 
+(NewClimate Institute & I4CE 2024).
+In some contexts, this means taking an active role in managing the private and social costs of shifting to 
+low-carbon energy sources.
+• In coal-dependent, resource-strapped nations, retiring fossil fuels without harming communities or 
+economies is not just a complex social and political challenge; it is also a financial one. These countries 
+need more financing and alternative energy solutions, while at the same time, many have young coal 
+fleets and new plants still under development. These plants are expected to operate for decades and risk 
+becoming “stranded assets” if they retire early  (WRI, 2023).
+Finally, PDBs can catalyze adoption of energy transition technologies via targeted financing programs 
+and market building.
+• MDBs and other PDBs can play a key role in de-risking and financing emerging energy transition 
+technologies, such as green hydrogen. The existing MDB climate finance and strategy toolkit can be 
+adapted to not only support the development of a global green hydrogen market, but also to capture 
+sustainable development benefits for producers in the Global South (NewClimate Institute 2024).
+• Many countries in South/Southeast Asia lack the right ingredients to attract clean energy investment: 
+A supportive and predictable policy environment, enabling financial systems, and modern grid 
+infrastructure that can handle renewables. MDBs can help overcome these barriers to help unlock more 
+finance and catalyze the region’s clean energy transition (WRI 2024).
+• The Solar Finance Roadmap provides recommendations for mobilizing a massive equitable scale-up 
+of investment in solar energy by 2030, including specific analysis of the role PDBs play in supporting 
+market development. The solution pathways and recommendations in the paper focus on tackling policy 
+and market barriers in all solar market segments, reducing investment risk in developing and emerging 
+economies, and spurring a new level of international collaboration to overcome global investment 
+challenges at scale (WRI 2022).
+• Showcasing innovative PDB support for energy transition, WRI and the EBRD have co-developed 
+a method to quantify physical climate risks for power generation projects at the portfolio level, 
+10
+2025 Policy Bulletin: Climate Finance for Development
+the approach is designed to be flexible enough to work with portfolios with different levels of data 
+availability, leverage the latest science in climate and hydrology, and use machine-learning techniques 
+(WRI 2021).
+RECOMMENDATIONS
+For strengthening linkages between the energy transition and PDB policy mandates:
+1. PDBs should balance their dual mandates of promoting the clean energy transition and championing 
+sustainable development in partner countries. They must lead by example through responsible 
+lending practices that go beyond the “do no harm” principle, emphasizing value creation and fostering 
+lasting development outcomes. Specific actions include: (1) Supporting projects to modernize grids 
+and transmission infrastructure; (2) Reducing investment risks to attract more private finance; (3) 
+Working with governments to enable country-level energy transitions; and (4) Improving international 
+coordination to bolster clean energy investments. 
+For facilitating equitable fossil fuel phase out:
+2. It is crucial that PDBs establish high standards and safeguards to support utilities and independent 
+power producers in retiring coal plants early, minimizing the risk of creating perverse incentives. Their 
+support should focus on transforming utility business models to attract private financing for renewable 
+energy projects. 
+3. Financing mechanisms should only be used to buy out coal plants owned by independent power 
+producers in jurisdictions where governments have formally committed to phasing out coal, ensuring 
+alignment with long-term decarbonization goals. It is important for PDBs to exercise caution in financing 
+solutions like co-firing, and retrofitting, which do not result in complete emission reductions and shift the 
+focus away from early retirement. They should also carefully approach transition (carbon) credits due to 
+current double counting risks and environmental integrity issues.
+4. Case studies on coal retirement and JET-Ps provide evidence that coal-dependent countries need 
+financial assistance. Younger coal fleets pose unique challenges, however, and coal plant ownership 
+must be considered in financing agreements while keeping coal retirement plans on track to support 
+Just Energy Transition. To be successful, therefore, coal retirement plans must be tailored to national 
+contexts, keeping not only political stakeholders in mind but financial ones, too.
+For accelerating investment in renewable energy:
+5. The Solar Finance Roadmap identifies both near-term actions and broader collaborative efforts to 
+overcome barriers to scaling solar. To address these barriers, governments can act immediately in 
+partnership with commercial and national banks and DFIs to adopt enabling policies and regulations 
+that are conducive to replicating and scaling solar investment. In parallel, DFIs can lead on standardizing 
+and scaling up the provision of blended finance, concessional credit lines, and other risk mitigation 
+instruments to pave the way for private investment.
+11
+2025 Policy Bulletin: Climate Finance for Development
+OTHER EMERGING THEMES
+KEY FINDINGS
+PDBs have an opportunity to incubate emerging mechanisms for climate investment, such as carbon 
+markets and nature finance.
+• Carbon markets have the potential to help mobilize finance for EMDEs, and PDBs can play a crucial 
+role in supporting development of these markets domestically. However, a lack of national capacity and 
+comprehensive development and climate strategies, limited PDB resources and staff time, and demand- 
+and supply-side restrictions limit the market implementation. PDBs of all shapes and sizes can help 
+bridge these gaps and facilitate more efficient and impactful markets (CPI forthcoming 2025).
+• PDBs can play a pivotal role in increasing the attractiveness of debt-for-climate swaps by providing credit 
+enhancements like guarantees, insurance, and local currency solutions, while also addressing gaps in 
+sovereign and catastrophic risk coverage. They can also support bilateral swaps and subnational debt 
+mechanisms, mobilizing private capital and reducing foreign exchange risks (CPI forthcoming 2025).
+RECOMMENDATIONS
+For developing innovative financial instruments:
+1. PDBs can support governments in establishing domestic carbon markets by providing strategic 
+and technical assistance, working with potential suppliers of credits (projects that reduce or avoid 
+emissions), and supporting regulators to improve credit integrity. They can help to reduce risk by 
+piloting innovative (financial) projects that focus on de-risking and leveraging carbon revenues. 
+PDBs can also coordinate between themselves, including working on policy proposals and innovative 
+projects, convening relevant stakeholders, and sharing best practices from previous projects and market 
+implementations. 
+2. PDBs should prioritize aligning financial products with nature conservation goals, standardizing 
+key performance indicators, and building government capacity through technical, legal, and project 
+management expertise to ensure successful negotiation and implementation of debt-for-climate swaps 
+if these are suitable for the country.
+Copyright © 2025 Climate Policy Initiative climatepolicyinitiative.org. All rights reserved. CPI welcomes the use of its material for noncommercial 
+purposes, such as policy discussions or educational activities, under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC 
+BY-NC-SA 4.0) License. For commercial use, please contact adminsf@cpiglobal.org.

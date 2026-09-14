@@ -1,0 +1,751 @@
+AS CONCEPÇÕES TEÓRICO-ANALÍTICAS E AS PROPOSIÇÕES DE POLÍTICA
+ECONÔMICA DE KEYNES
+Fernando Ferrari Filho*
+Resumo
+O presente texto mostra, de forma cronológi ca, como a natureza revolucionária das
+concepções e proposições teóricas de Keynes é desenvolvida ao longo de sua obra.
+Palavras-Chave
+Keynes, Revolução Keynesiana, Economia Monetária
+Abstract
+This article shows, in a chronologica l time, how the Keynesian revolutionary
+conceptions and theoretical proposals were developed in the main Keynes`s works.
+Key words
+Keynes, Keynesian Revolution, Monetary Economy
+JEL
+B2; B22
+1. Introdução
+Como se sabe, as análises e proposiçõe s de política econômica de Keynes enquanto
+ele era policy adviser do Tesouro Britânico e as concepçõ es teóricas e as prescrições
+econômicas contidas em seus artigos e livros, dentre os quais o de maior repercussão, qual
+seja, The General Theory of Employment, Interest and Money , de agora em diante
+denominando GT, influenciaram o rumo do capitali smo e revolucionaram o estudo da
+Economia moderna.
+Desde o primeiro livro, Indian Currency and Finance, escrito em 1913, até o último
+artigo, The Balance of Payments of the United States , publicado em junho de 1946, após a
+sua morte, Keynes sempre centrou suas atenções  e energias em (i) entender a natureza dos
+problemas econômicos das economias empresariais modernas, economias monetárias 1, tais
+como instabilidades do nível de preços, flutuações cíclicas dos níveis de produto e emprego
+e crises monetário-financeiras, e (ii) aprese ntar soluções para os referidos problemas, que
+vão, via de regra, na direção da regulação do capitalismo por parte do Estado e na busca da
+arquitetura de uma nova ordem econômica mundial.
+                                                
+* Professor titular do Departamento de Ciências Econômicas da UFRGS e pesquisador do CNPq.
+1 Conforme Keynes (1964, p.vii), uma “monetary econo my ... is essentially one in which changing views
+about the future are capable of influencing the quantity of employment and not merely its direction”. Em
+outras palavras, em economias monetárias, moeda nunca é neutra.
+2
+O presente texto mostra, de forma cronológi ca, como a natureza revolucionária das
+concepções e proposições teóricas de Keyne s é desenvolvida ao l ongo de sua obra. Nesse
+sentido, a “revolução” keynesiana é analis ada a partir de uma dinâmica em que,
+inicialmente, Keynes questiona os fundament os teóricos da Economia Clássica, quais
+sejam, regime monetário à la padrão-ouro, Lei de Say e teoria quantitativa da moeda, e, a
+posteriori, ao rejeitar esses fundamentos, apre senta uma concepção teórico-analítica
+criativa e revolucionária para  entender e intervir no mundo r eal. Para tanto, o texto, além
+desta breve introdução, está dividido em duas seções: a seção que segue, apresenta e analisa
+a (r)evolução da teoria de Keynes e, em seguida, são apresentadas as conclusões.
+2. Das críticas ao capitalismo liberal à co mpreensão da dinâmica das economias
+monetárias: a construção da revolução keynesiana
+Em seus trabalhos iniciais, dentre os quais, Indian Currency and Finance , as
+reflexões econômicas de Keynes concentram-s e em apresentar um sistema monetário-
+financeiro mais racional e estável do que o regime padrão-ouro. No  referido livro, por
+exemplo, Keynes argumenta que o regime pa drão-ouro não propiciava a elasticidade
+necessária para dinamizar as relações comerc iais e financeiras em nível mundial. Partindo
+de uma minuciosa análise comparativa dos sistemas monetários gold standard e gold-
+exchange standard, em que são mostradas suas vantag ens e desvantagens, Keynes expressa
+seu ceticismo em relação à utilização do ouro  como principal ativo de pagamentos e
+reservas internacionais. Nesse sentido, tendo como refe rência seus sólidos conhecimentos
+sobre o sistema monetário-financeiro indiano 2, Keynes apresenta uma proposição de
+reforma do sistema monetário-financeiro inte rnacional com características semelhantes às
+do gold-exchange standard , visando, com isso, expandir a elasticidade da moeda de
+liquidez internacional. Para Keynes, a liquidez do sistema monetário-financeiro
+internacional não poderia continuar sendo dinamizada úni ca e exclusivamente pela
+mercadoria ouro, visto que suas reservas  dependiam do comportamento de “a lucky
+prospector, a new chemical process, or a change of ideas in Asia” (Keynes, 1913, p.101),
+                                                
+2 Ao ingressar no serviço público inglês na metade dos anos 1900, Keynes trabalhou no Departamento da
+Índia, tornando-se, mais tarde, membro da Real Comissão de Finanças e Moeda da Índia. Veja, para tanto,
+Skidelsky, 1983, Capítulo 11.
+3
+mas, sim, deveria ser constituída por ouro e por moedas de conversibilidade internacional.
+Em outras palavras, Keynes propunha reformar o sistema monetário-financeiro nos moldes
+de um padrão fiduciário internacional, em que moedas conversíveis e administradas pelos
+bancos centrais pudessem ser lastreadas em ouro.
+Uma vez reestruturado o sistema monetári o-financeiro intern acional conforme a
+sistemática do regime gold-exchange standard , de modo que o ouro fosse gradualmente
+substituído como ativo de liquidez intern acional, Keynes conclui que “local currency
+artificially maintained at par with the international currency or standard of value … is the
+ideal currency of the future” (Ibid., p.36, itálicos adicionados).
+ Quais motivos teriam levado Keynes a propor um regime monetário internacional à
+la gold-exchange standard ? Provavelmente, os motivos que o fizeram propor a
+reformulação do sistema monetário-internaci onal conforme a sistemática do regime gold-
+exchange standard foram os que seguem: (i) tornar ma is elástica a liquidez internacional,
+visto que essa é imprescindível para expand ir os volumes de comércio e de produção
+mundiais, (ii) fazer com que a política monetá ria pudesse ser mais ativa e, por conseguinte,
+eficiente, seja para estabilizar os níveis de preços, seja para, de forma contra-cíclica,
+dinamizar os níveis de renda e emprego 3 e (iii) seu ceticismo acerca do mecanismo de
+ajustamento automático do balanço de pagamentos sob as regras do regime padrão-ouro4.
+A partir de então, as crí ticas ao regime padrão-ouro, fundamentadas nas inúmeras
+propostas de reforma do sistema monetário-financeiro internacional formuladas por Keynes
+– diga-se de passagem, essas têm como ponto central a rejeição do ouro como principal
+international asset e a administração da moeda de c onversibilidade – tornam-se freqüentes
+nas reflexões e análises econômicas de Keynes,  tanto em seus trabalhos acadêmicos quanto
+em suas discussões e proposições de políticas econômicas como policy adviser do Tesouro
+Britânico.
+                                                
+3 Não é demais lembrar que pelo regime padrão-ouro a política monetária é totalmente passiva, uma vez que a
+expansão e a contração da oferta monetária doméstica e,  por conseguinte, as vola tilidades das taxas de juros
+dependem dos ingressos e saídas de reservas internacionais, ouro, respectivamente.
+4 Segundo o mecanismo de ajustamento automático do balanço de pagamentos sob as regras do regime
+padrão-ouro, países com superávits (déficits) de ba lanço de pagamentos acumulariam (reduziriam) reservas
+internacionais, expandindo (contraindo), assim, a oferta monetária doméstica. A expansão (contração) desta
+ocasionaria o aumento (a queda) dos preços domésticos, tornando os produtos comercializáveis no mercado
+internacional menos (mais) competitivos. Esta menor (maior) competitividade dos produtos no mercado
+internacional teria como conseqüência a redução (expan são) das exportações, fazendo com que os equilíbrios
+de balanço de pagamentos fossem restaurados.
+4
+The Economic Consequences of the Peace , publicado em 1919, além de tornar
+Keynes mundialmente famoso, principalmente pelo fato de que nesse livro são apresentadas
+veementes críticas às cláusu las do Tratado de Versailles 5, apresenta, em nosso ponto de
+vista, alguns importantes insights do processo de transição das idéias de Keynes
+identificadas com os princípios do capitali smo liberal para suas concepções teóricas
+revolucionárias acerca tanto da compreensão da dinâmica do capitalismo moderno quanto
+da necessidade de administrá-lo.
+Preocupado com os rumos que a Europa pode ria seguir diante de um contexto de
+recorrentes crises monetárias e de desemp rego elevado, Keynes apresenta um argumento
+que vai ao encontro de uma frase atribuída a Lenin, qual seja, a de que a melhor maneira de
+destruir o sistema capitalista é a destruição de sua moeda. Lenin, escreve Keynes (1988,
+p.236), “was certainly right. There is no subtler, nor surer means of overturning the existing
+of basis of society than to debauch the currency”.
+No entender de Keynes, as crises monetá rias (inflacionárias ) decorriam tanto dos
+crônicos desequilíbrios fiscais – cujas conseqüências eram emissões monetárias – e
+comerciais dos países – cujos resultados eram as volatilidades abruptas das taxas de câmbio
+– quanto da adoção de políticas protecionist as por parte dos gover nos nacionais, sejam de
+cunho comercial, sejam cambiais. Essas crises, por sua vez, afetavam a base institucional
+do capitalismo, ou seja, as relações cont ratuais entre os agentes econômicos e as
+instituições.
+Pois bem, objetivando a estabilidad e da economia européia e do próprio
+capitalismo, Keynes apresenta uma proposição  de reestruturação da ordem econômica
+mundial centrada nos seguintes pontos: revisão do Tratado de  Versailles, principalmente
+das questões pertinentes às reparações de  Guerra – mais, especificamente, Keynes
+propunha o cancelamento das dívidas de guerra ; reorganização do comércio internacional
+em conformidade com as sistemáticas do li vre-comércio; e reforma monetário-financeira
+internacional para assegurar maior elasticida de da liquidez internacional e estabilizar as
+taxas de câmbio.
+                                                
+5 Segundo Keynes, que havia sido Chefe do Tesouro Br itânico na Conferência de Paz, as indenizações de
+guerra impostas pelos aliados à Alemanha não somente sucumbiria a economia alemã, mas, também, poria em
+xeque a recuperação e prosperidade da economia eu ropéia. Detalhes sobre a participação de Keynes na
+Conferência de Paz podem ser encontrados em Skidelsky, 1983, Capítulo 16.
+5
+Se as referidas medidas, ou variantes de las, não fossem adotadas, escreve Keynes
+(Ibid., p.296), “[t]he bankruptcy a nd decay of Europe ... will affect every one in the long-
+run, but perhaps not in a way that is striking or immediate”.
+Apesar de sua preocupação com a possibili dade de haver, em um futuro próximo,
+uma grave crise européia de naturezas política, econômica e social, Keynes, otimista quanto
+às perspectivas de mudanças de mentalidad e política e filosófica da sociedade como um
+todo, dedicou seu livro à “true voice of the new generation has not yet spoken, and silent
+opinion is not yet formed” (Ibid., p.298).
+Em suma, em The Economic Consequences of the Peace, Keynes deixa clara a idéia
+de que a reconstrução da ordem econômica e social mundial dependia da “administração”
+do capitalismo.
+Em 1921, Keynes publica A Treatise on Probability . Nesse livro, ele apresenta um
+conceito de probabilidade que, anos mais tarde, mais especificamente na GT, será de suma
+importância para sua definição de incerteza.
+A Treatise on Probability mostra que o conhecimento intuitivo é fundamental para a
+formação de uma crença racional. Nesse sent ido, a probabilidade é definida como uma
+relação lógica na qual
+we are claiming, in fact, to recogni ze correctly a lo gical connection
+between one set of propositions wh ich we call our evidence and which
+we suppose ourselves to know, and another set which we call our
+conclusions, and to which we attach more or less weight according to
+the grounds supplied by the first (Keynes, 1973a, p.6).   
+Pela passagem acima, percebe-se que Keynes discute probabilidade como um
+conhecimento que é obtido por argumentos em que os termos certo e provável descrevem
+os graus de crença racional. Em outras pala vras, a teoria da probabilidade de Keynes
+consiste de uma lógica na qual o grau de crença racional é sustentado em determinadas
+circunstâncias, devido ao peso do argumento6.
+                                                
+6 Conforme Skidelsky (1983, p.22, itálicos adicionados), Keynes “regarded both probability theory and
+economics methods as branches of logic, not of mathematics, which should employ methods of reasoning
+appropriate to the former, incl uding and judgment, and incorporating a wide knowledge of non-numerical
+facts”. Nesse sentido, a probabilidade condicionada de Keynes vai de encontro à teoria de probabilidade
+vigente em sua época, qual seja, a teoria da freqüên cia em que a probabilidade está relacionada à ocorrência
+tão-somente dos fatos.
+6
+Nesse particular, Dequech (1998) argumenta que há um paralelo entre A Treatise on
+Probability e a GT: no primeiro, tem-se o binômio proba bilidade-peso, ao passo que na GT
+é acentuado o binômio expectativas-estado de confiança. Assim sendo, incerteza e processo
+de decisão sob condições de incerteza, que são fundamentais na teoria de Keynes, estão
+tanto no A Treatise on Probability quanto na GT.   
+Ao longo da década de 1920, as análises e proposições de políticas econômicas de
+Keynes têm como objetivos centrais questionar e rejeitar a concepção tradicional da teoria
+quantitativa da moeda7 e criticar a lógica de funcionamento do capitalismo liberal.
+Em A Tract on Monetary Reform , livro publicado em 1923, Keynes, ao apresentar
+uma análise detalhada sobre as causas e as co nseqüências das crises monetárias e cambiais
+da Europa no período pós-Primeira Guerra Mundi al, elabora uma interessante análise sobre
+teoria e política monetárias, a partir da re-interpretaç ão da equação quantitativa de
+Cambridge8.
+Inicialmente, Keynes mostra quais são os impactos econômicos e sociais sobre as
+classes sociais quando ocorrem variações no valor da moeda, uma vez que
+when the value of money changes, it does not change equally for all
+persons or for all purposes …Thus a change in prices and rewards, as
+measured in money, generally af fects different classes unequally,
+transfers wealth from one to anoth er, bestows affluence here and
+embarrassment there, and redistributes Fortune’s favours so as to
+frustrate design and disappoint expectation (Keynes, 1971, p.1).
+Nesse particular, a conclusão de Keynes é a que segue:
+Each process, inflation and deflation alike, has inflicted great injuries.
+Each has an effect in altering the distribution of wealth between
+different classes, inflation in this respect being the worse of the two.
+Each has also an effect in ov erstimulating or retarding the production
+of wealth, though here deflation is the more injurious (Ibid., p.3).
+                                                
+7 Conforme a teoria quantitativa da moeda tradicional, existe uma relação direta e proporcional entre meios de
+pagamentos e nível de preços. Em outras palavras, moeda não afeta as variáveis reais.
+8 Analiticamente, a equação quantitativa de Cambridge pode ser expressa como M = P.y.1/k, em que M é a
+oferta de moeda, P é o nível geral de preços, y é o produto real e k é a constante marshalliana, isto é, o inverso
+da velocidade de circulação da moed a. Assim como atesta a teoria qu antitativa da moeda tradicional, essa
+equação diz que, sendo y e k relativamente estáveis, M e P são diretamente proporcionais.
+7
+Pois bem, se, segundo Keynes, variações no valor da moeda afetam as naturezas
+distributiva e produtiva da economia, o passo seguinte é mostrar que, pelo menos no curto
+prazo, a teoria quantitativa da moeda apresent a uma inconsistência teórica, qual seja, nem
+sempre moeda afeta tão-somente o nível geral de  preços, conforme ates ta a referida teoria.
+Essa questão é desenvolvida ao longo do Capítulo 3.
+O fato de mostrar que, no curto praz o, a teoria quantitativa da moeda é
+inconsistente, não quer dizer, todavia, qu e Keynes a rejeita. Muito pelo contrário, segundo
+ele, “[t]his theory is  fundamental. Its corres pondence with fact is not open to question “
+(1971, p.61, itálico adicionado).
+Para fundamentar seu argumento de que no curto prazo não necessariamente há uma
+proporcionalidade entre oferta de moeda e ní vel de preços, Keynes reestrutura a equação
+quantitativa de Cambridge como segue:
+n = p(k + k’.r) (1),
+em que n é a oferta de moeda, p é o níve l geral de preços, k é a demanda por moeda
+em poder do público, k’ é a demanda por moeda em termos de moeda bancária e r é a razão
+reservas bancárias/depósitos à vista.
+Partindo da referida equação e considera ndo a idéia de que a “teoria quantitativa da
+moeda é fundamental”, Keynes diz que “an arb itrary doubling of n, sin ce this in itself is
+assumed not to affect k, r, and k’, must have the effect of raising p to double ... Now ´in the
+long run` this is probably true” (Ibid., p.65).
+Todavia, para mostrar que há uma inconsistência da teoria quantitativa da moeda no
+curto prazo, a equação (1) mostra que a veloci dade de circulação da moeda é endógena, ou
+seja, ela é determinada tanto pelos háb itos do público em demandar moeda quanto pelo
+comportamento do sistema bancário em altera r a razão reservas ba ncárias/depósitos, e,
+portanto, acaba afetando a oferta de crédito  da economia. Assim sendo, não somente a
+oferta de moeda afeta o nível geral de preços, mas, também, a velocidade de circulação da
+moeda passa a influenciá-lo. Em outras pala vras, no curto prazo, a proporcionalidade entre
+oferta de moeda e nível geral de preços, essência da teoria quantitativa da  moeda, deixa  de
+8
+ser válida9.
+Indo ao encontro da idéia acima, Keynes diz que: “[o] long run is a misleading
+guide to current affairs. In the long run we are all dead” (Ibid., p.65). A metáfora utilizada
+por ele, sinaliza que, no cu rto prazo, variações no estoque de moeda influenciam as
+expectativas do público e do sistema bancário em relação às suas decisões de demanda por
+moeda e de expansão da oferta de crédito, respectivamente, afetando, assim, o nível geral
+de preços. Especificamente, Keynes escreve que
+after, during, and ... before a change in the value of n, there will be
+some reaction on the values of k, k’, and r, with the result that the
+change in the value of p, at least temporarily and perhaps permanently
+… will not be precisely in proportion to the change in n (Ibid., pp.66-
+67).
+the price level is not mysterious, but is governed by a few, definite,
+analyzable influences. Two of thes e, n and r, are under the direct
+control  … of the central banking authorities. The third, namely k and
+k’, is not directly controllable, and depends on the mood of the public
+and the business world (Ibid., p.68).
+Se moeda importa, pelo menos no curto prazo, então regras de administração
+monetária são necessárias para “preservi ng the stability of business ... and employment”
+(Ibid., p.138). Para tanto, conclui Keynes,  “[t]he main point is that the objective of the
+authorities, pursued with such means as are at their command, should be stability of prices”
+(Ibid., p.149).
+Face ao exposto, as conclusões de Keyne s sugerem a rejeição do regime padrão-
+ouro, visto que esse regime não assegurava a estabilidade dos preços domésticos devido,
+principalmente, ao fato da taxa de câmb io ser relativamente fixa. Assim sendo, em um
+contexto de trade-off entre estabilidade de preços e  estabilidade cambial, Keynes entendia
+que a prioridade era estabilizar os preços,  pois esses eram fundamentais para a formação
+                                                
+9 É importante mencionar que ao endogenizar a velocidade de circulação da moeda, Keynes introduziu um
+elemento na teoria quantitativa da moeda que será de suma importância para o desenvolvimento de sua teoria
+monetária da produção nos anos 1930, qual seja, o papel das expectativas no processo de tomada de decisão
+dos agentes econômicos.
+9
+das expectativas dos agentes econômicos que, por conseguinte,  acabavam afetando as
+dinâmicas produtiva e distributiva.
+A cruzada de Keynes contra o regime padrão-ouro tornou-se mais contundente
+quando o Ministro das Finanças da Inglaterra, Winston Churchill, decidiu restabelecer, em
+abril de 1925, o regime padrão-ouro na Ingl aterra, à paridade vigente no período pré-
+Primeira Guerra Mundial, qual seja 4,86 dóla res norte-americanos por uma libra esterlina.
+A reação de Keynes foi imediata: em ju lho ele escreve um artigo, intitulado The Economic
+Consequences of Mr.Churchill, criticando, veementemente, tal decisão.
+O principal argumento de Keynes era que  a referida decisão do governo inglês
+resultaria na sobrevalorização da libra este rlina, em torno de 10,0%, cujas conseqüências
+seriam “a general fall of al l internal prices and wage s” (Keynes, 1972, p.208) e, por
+conseguinte, uma situação “to encourage impor ts and to discourage exports, thus turning
+the balance trade against us [Inglaterra]” (Ibid., p.216). Em suma, para Keynes a depressão
+e o desemprego na Inglaterra agravar-se-iam.
+Naquela ocasião, a solução apresentada por Keynes para evitar as referidas
+conseqüências foi na direção de  que Inglaterra deveria, uma vez por todas, abandonar o
+regime monetário padrão-ouro. Apesar desta solução não se constituir em novidade, uma
+vez que há anos Keynes vinha sendo crítico do regime padrão-ouro, seu argumento para a
+Inglaterra abandonar o regime padrão-ouro foi original e “revol ucionário”, pois, segundo
+Keynes, esse regime monetário somente era compatível em um contexto de capitalismo à la
+laissez-faire, que, naturalmente, não era a lógica do capitalismo vigente nos anos 1920. A
+passagem que segue ilustra essa idéia:
+The gold standard, with its dependen ce on pure chance, its faith “in
+automatic adjustments”, and its ge neral regardlessness of social
+detail, is an essential emblem and idol of those who sit in the top tier of
+the machine. I think that they are immensely rash in their
+regardlessness, in their vague op timism and comfortable belief that
+nothing really serious ever happens.  Nine times out of ten, nothing
+really serious does happen – merely a little distress to individuals or to
+groups. But we run a risk of the te nth …if we continue to apply the
+principles of an economics, which was worked out on the hypotheses of
+10
+laissez-faire and free competition, to a society which is rapidly
+abandoning these hypotheses (Ibid., p.224). 
+   Ainda na linha de suas críticas ao  capitalismo liberal, em 1926 Keynes escreve
+The End of Laissez-Faire. Neste artigo, ele, ao mostrar que o laissez-faire não conciliava os
+interesses individuais com os sociais 10, bem como ao dizer que os principais problemas
+econômicos, sociais e políticos decorriam, em grande parte, dos “risk, uncertainty, and
+ignorance” (Ibid., p.291), argumenta que a regul ação do capitalismo é cap az de assegurar a
+estabilidade econômica e a harmonia social. As citações a seguir vão nessa direção:
+I believe that the cure for these things [desemprego e desigualdade da
+renda] is partly to be sought in the de liberate control of the currency
+and of credit by a ce ntral institution … [minhas] reflections have been
+directed towards possible improvem ents in the technique of modern
+capitalism by the agency of collective action  (Ibid., pp.292-293).
+I think that capitalism, wisely  managed, can probably be made more
+efficient for attaining economic ends than any alternative system in
+sight ... Our problem is to work out a social organization which shall
+be as efficient as possible w ithout offending our notions of a
+satisfactory way of life (Ibid., p.294).
+Além do mais, Keynes argumenta que “doctr inaire State Socialism … is, in fact,
+little better than a dusty survival of a plan to met the problems of fifty years ago, based on a
+misunderstanding of what someone said  a hundred years ago” (Ibid., pp.290-291).
+Explorando um pouco mais a referida passa gem, Keynes deixa claro que sua crítica ao
+socialismo não era “because it seeks to enga ge men`s altruistic impulses in the service of
+society, or because it departs from laissez-faire, or because it takes away from man`s
+natural liberty to make a million, or because it  has courage for bold experiments. All these
+thing I applaud” (Ibid., p.290), escreve Keynes.
+   Em suma, em The End of Laissez-Faire  Keynes tem ciência de que a sobrevivência
+do capitalismo deveria passar pela “mão vi sível” do Estado, de maneira a regular as
+disfunções sócio-econômicas protagonizadas pelo mercado.
+                                                
+10 Nas palavras de Keynes (1972, pp.287-288), “[t]he world is not so governed from above that private and
+social interest always coincide ... It is not a correct deduction from the principles of economics that
+enlightened self-interest always operates in the public interest”.
+11
+No final dos anos 1920, as atenções e ener gias de Keynes estão divididas entre suas
+atividades na Comissão Macmillan – Comissão que reunia um conjunto de economistas e
+técnicos do governo inglês com a finalidade de encontrar estratégias alternativas de política
+econômica para re-dinamizar a economia inglesa 11 – e a elaboração de seu livro A Treatise
+on Money, dividido em dois volumes, publicado em 1930.
+Na referida Comissão, Keynes aprese nta um conjunto de proposições para
+solucionar o desemprego na Inglaterra que não somente vão de encontro à condução da
+política econômica daquela época, mas iriam in fluenciar os rumos da revolução keynesiana
+nos anos subseqüentes. Para Keynes, um a vez que a operacionalização de políticas
+monetária e cambial era limitada, pois a Inglaterra estava atrelada ao regime padrão-ouro, o
+desemprego poderia ser combatido através de investimentos públicos, programas sociais e
+políticas protecionistas.
+No primeiro volume de A Treatise on Money, Keynes elabora uma teoria de escolha
+de ativos, conectando os lados real e mone tário da economia, visando, com isso, descrever
+o funcionamento de uma economia quando ocorre m mudanças de expectativas dos preços
+dos ativos, pois essas afetam as decisões de  gastos dos indivíduos e, por conseguinte, os
+níveis de produção e de emprego.
+O ponto de partida da análise de Ke ynes é suas equações fundamentais 12, que
+analisam a teoria quantitativa da moeda marshalliana em termos dinâmicos. Pelas equações
+fundamentais – elas expressam as relações en tre custos de produção e preços de mercado
+e/ou poupança e investimento –, partindo de um a situação em que os custos de produção
+são relativamente estáveis no curto prazo, a economia encontra-se em desequilíbrio, em
+contextos tanto de deflação e de desemprego quanto de inflação e de produção operando
+acima do pleno emprego, quando o volume de poupança é maior do que o montante de
+investimento, e vice-versa, respectivament e. Em outras palavras, os desequilíbrios
+manifestam-se quando há uma disposição do públ ico em manter (ou não) moeda em seus
+encaixes reais.
+Mas o que faz a economia afastar-se de uma posição de equi líbrio inicial, por
+exemplo, de pleno emprego?  No Capítulo 13, Keynes analisa o papel que a taxa de juros
+                                                
+11 As discussões e proposições de Keynes na Comissão Macmillan podem ser encontradas em Keynes, 1981.
+12 Veja, para tanto, Keynes, 1976, Capítulo 10.
+12
+exerce na condição de equilíbrio das equaçõ es fundamentais. Nas palavras de Keynes
+(1976, p.185),
+bank-rate … is the instrument by  which a disturbance is set up or
+equilibrium restored between the rates of Saving and of Investment;
+for to raise it stimulat es the one and retards th e other, and conversely
+if it is reduced.
+A idéia de Keynes é mostrar que a taxa de juros tem um efeito psicológico sobre os
+agentes econômicos, pois ela influencia suas  expectativas. Segundo Ke ynes, os efeitos da
+taxa de juros são diversos, quais sejam,
+ generally speaking ... we may expect the dire ct and primary effects of
+a rise of bank-rate to be a fall in  the price of fi xed capital and,
+therefore ... the price-level of investment-goods, and an increase of
+saving ... What are its secondary effects? The fall in the attractiveness
+of fixed capital at the existi ng price will make it impossible for
+producers of capital-goods to ma rket their output on terms as
+satisfactory as before in relation to their cost of production ... At the
+same time, any increase of saving must mean a diminution in the flow
+of income directed towards the purchase of liquid consumption-goods
+... What will be the tertiary effect s of the rise of  bank-rate which we
+have been considering? The decline in the rate of investment will
+cause a fall in P additional to an y fall caused by the increase of
+savings …Thus a state of unemploym ent may be expected to ensure,
+and to continue, until the rise in bank-rate is reversed  (Ibid., pp.204-
+206).
+A passagem acima sinaliza que a elevação da taxa de juros reduz os recursos
+destinados para a circulação industrial do capital, ao passo que os  recursos  destinados para
+13
+a circulação financei ra do capital crescem 13, pois as expectativas que os agentes
+econômicos têm em relação à futura “precificação ” da taxa de juros e, principalmente, dos
+preços dos ativos reais acabam afetando seus encaixes reais de moeda, isto é, eles
+entesouram moeda. Em suma, a idéia de Ke ynes é mostrar que uma parte substancial da
+poupança é entesourada para fins de especulação face à incerteza acerca do valor futuro dos
+preços dos ativos.
+Uma vez que as expectativas condiciona m os encaixes reais de moeda, logo o
+volume de recursos destinados à circulação  financeira do capital passa a depender dos
+comportamentos especulativos dos agentes ec onômicos nos próprios mercados financeiros.
+Os agentes econômicos no mercado fina nceiro, por sua vez, comportam-se à la  bear
+(aqueles que têm posições pessimistas e apostam na alta da taxa de juros e, por conseguinte,
+na queda dos preços dos títulos financeiros, o que acaba ocasionando a retenção de moeda,
+levando, assim, a economia à depressão) e bull (agentes que têm posições otimistas e
+acreditam na queda da taxa de juros e, por c onseqüência, na elevação dos preços dos títulos
+financeiros, resultando, assim, na redução do entesouramento da riqueza monetária e no
+boom da atividade econômica).
+Pois bem, tendo como referência as idéias  e as definições acima, Keynes conclui
+que são as flutuações na circulação financ eira do capital que desequilibram o sistema
+econômico. Em outras palavras, não há uma rela ção proporcional entre oferta monetária e
+nível de preços, conforme atesta a teoria  quantitativa da moeda marshalliana, pois a
+demanda por moeda (velocidade de circulação da  moeda) não é constante. Nas palavras de
+Keynes (Ibid., p.254),
+changes in the financial situation are capable of causing changes in
+the value of money in two ways. Th ey have the effect of altering the
+quantity of money available for th e Industrial Circulation; and they
+may have the effect of altering the attractiveness of Investment ... If the
+                                                
+13 Por circulação industrial do capital entende-se o volume de moeda destinado ao processo produtivo (moeda
+como meio de troca), ao passo que a circulação financei ra do capital diz respeito ao montante de moeda que
+tem como destino dinamizar as atividades do sistema monetário-financeiro (moeda como reserva de valor).
+Nas palavras de Keynes (1976, p.243), “[b]y Industry we mean the business of maintaining the normal
+process of current output, distribution and exchange an d paying the factors of pr oduction their incomes ... By
+Finance, on the other hand, we mean the business of holding and exchanging existing titles to wealth ...
+including Stock Exchange and Money Market transactions, speculation and the process of conveying current
+savings and profits into the hands of entrepreneurs”.
+14
+Bank increases the volume of Bank -money so as to avoid any risk of
+the Financial Circulation stealing resources from the Industrial
+Circulation, it will encourage the ‘ bull’ market continue ... which will
+lead to over-investment later on; whereas if it refuses to increase the
+volume of Bank-money, it may so  diminish the amount of money
+available for Industry, or so enhance th e rate of interest at which it is
+available, as to have an immediately deflationary tendency.
+Em suma, posições de retenção da mo eda (especulativas) afetam os preços dos
+ativos e, portanto, as variáveis reais (renda e emprego).
+O que fazer? Para Keynes, por um la do, a política monetária tem que ser
+operacionalizada de maneira a propiciar o equilí brio entre a taxa natural de juros (retorno
+do investimento) e a taxa de mercado (det erminada pelo Banco Central e o sistema
+financeiro), pois, assim sendo, os volumes de poupança e investimento tendem a se igualar.
+Por outro, em um contexto no qual a polític a monetária é impotente para restaurar o
+equilíbrio econômico, políticas públicas devem ser implementadas.
+No segundo volume de A Treatise on Money , pelo menos dois capítulos chamam a
+atenção, quais sejam, 30 e 38, pois neles Keynes desenvolve uma idéia revolucionária sobre
+a relação de causalidade entre poupança e i nvestimento e apresenta uma proposição de
+reforma monetário-financeira internacional. A idéia revolucionária acerca da causalidade
+entre poupança e investimento é de fundamental importância para a compreensão do
+princípio da demanda ef etiva, elaborado na GT, e a proposição de reforma monetário-
+financeira internacional alic erça sua principal proposição de  re-arquitetura da ordem
+econômica mundial, intitulada Proposals for an International Clearing Union  (Keynes,
+1980).
+No Capítulo 30, a ruptura de Keynes co m a Economia Clássica é observada quando
+ele discute a relação de causalidade entr e poupança e investimento. Ao contrário dos
+economistas clássicos que atestavam ser a poupa nça imprescindível para a realização do
+investimento e, por conseguinte, o cresci mento tanto da produção quanto do emprego,
+Keynes argumenta que poupança não precede o investimento. Nas palavras dele (Ibid.,
+pp.148-149):
+15
+It has been usual to think of the accumulated wealth of the world as
+having been painfully built up out of that voluntary abstinence of
+individuals from the immediate en joyment of consumption which we
+call Thrift. But is should be obvious that mere abstinence is not enough
+by itself to build cities or drain fens … It is enterprise which builds and
+improves the world´s possessi ons … the engine which drives
+Enterprise is not Thrift , but Profit.
+ No Capítulo 38, Keynes elabora uma propos ição de reforma monetário-financeira
+internacional que consiste na criação de um banco central mundial, denominado
+Supernational Bank-Money (SBM), cujas funções seriam: c ontrolar o volume de liquidez e
+de crédito internacionais; administrar e esta bilizar o valor das reservas internacionais;
+realizar políticas de open-market, visando à regulação da liquidez internacional; assegurar a
+rigidez relativa das taxas de câmbio; e zelar pela estabilidade do valor da moeda de liquidez
+internacional, evitando, assim,  processos inflacionário e deflacionário na economia
+mundial. Em suma, a proposição de Keynes reje itava, definitivamente, o regime padrão-
+ouro como mecanismo de arranjo monetário-financeiro internacional.
+A reação no meio acadêmico em relação ao A Treatise on Money  frustrou as
+expectativas iniciais de Keynes: o livro não obteve êxito comercial, bem como foi alvo de
+inúmeras críticas. Entre essas, as apresent adas por um grupo de jovens economistas, tais
+como Joan Robinson, James Meade, Rich ard Khan, Piero Sra ffa e Roy Harrod, que
+integravam o chamado “Cambridge Circus”14, foram de fundamental importância para que
+Keynes começasse a trabalhar naquela que constituir-se-ia, em 1936, no seu principal livro,
+qual seja, GT .
+O projeto de Keynes na GT consiste em, por um lado, mostrar a lógica de
+funcionamento de uma economia monetária, negando, assim, o princípio de mercados auto-
+equilibrantes e auto-regulados, e, por ou tro, propor medidas econômicas que evitem as
+flutuações cíclicas dos níveis de produto e de emprego.
+Para Keynes, flutuações de demanda efetiva e no nível de emprego ocorrem porque,
+em um mundo no qual o futuro é incerto e desconhecido, os indivíduos preferem reter
+moeda e, por conseguinte, suas decisões  de gastos, sejam de consumo, sejam de
+                                                
+14 Sobre o “Cambridge Circus”, veja, para tanto, Skidelsky, 1992, Capítulo 13.
+16
+investimento, são postergadas. Nas palavras de Keynes (1973b, p.411, itálicos
+adicionados), “booms and depressions are phe nomena peculiar to an economy in which …
+money is not neutral”.
+Por que, na Economia de Keynes, moeda de ixa de ser neutra? Em outras palavras,
+por que a retenção de moeda, por parte dos  indivíduos, se constitui em uma forma de
+segurança contra a incerteza em relação ao s seus planos de transações e produção,
+condicionando, assim, a dinâmica do processo  produtivo? A explicação encontra-se em
+dois capítulos específicos da GT: 12 e 17.
+No Capítulo 12, Keynes mostra que as  expectativas dos indivíduos, mais
+especificamente dos investidores, são determinadas pelos seus instintos, animal spirits , e
+não necessariamente pelo rendimento esperado de um ativo, uma vez que as informações
+necessárias à formação dessas podem não existir 15. Para Keynes, a atividade econômica é
+operacionalizada conforme o calendário de um tempo histórico: as decisões dos agentes
+econômicos são realizadas tendo como refe rência a irreversib ilidade do passado e a
+imprevisibilidade e o desconhecimento do fu turo. Nesse sentido, em um mundo no qual os
+indivíduos não conseguem prever o futuro,
+previous expectations are liable to disappointment and expectations
+concerning the future a ffect what we do to-day . It is when we have
+made this transition that the pecu liar properties of  money as a link
+between the present and the future mu st enter into our  calculations …
+Money … is, above all, a subtle device for linking the present to the
+future; and we cannot even begin to  discuss the effect of changing
+expectations on current activities except in monetary terms … So long
+as there exists any durable asset, it is capable of possessing monetary
+attributes and, therefore, of giving ri se to the characteristic problems
+of a monetary economy (Keynes, 1964, pp.293-294).
+No Capítulo 17, Keynes mostra que a moeda é um ativo que se diferencia dos
+demais devido às suas propriedades essenciais , quais sejam: por um lado, sua elasticidade
+de produção é zero – isto é, moeda não é produz ida pela quantidade de trabalho que o setor
+                                                
+15 Segundo Keynes (1964, pp.162-163), “human decisions affecting the future, whether personal or political
+or economic, cannot depend on strict mathematical expectation, since the basis for making such calculations
+does not exist”.
+17
+privado incorpora no processo produtivo; por ou tro, a elasticidade-substituição da moeda é
+nula, o que quer dizer que nenhum outro ati vo, não-líquido, exerce as funções de unidade
+de conta, meio de troca e reserva de valor que são desempenhadas pela moeda.
+As referidas propriedades da moeda são fundamentais para caracterizar a
+importância que a moeda exerce em uma econo mia monetária: ao ser a segurança contra a
+incerteza, ela aproxima, através dos contra tos monetários, passado, presente e futuro,
+coordenando, assim, a atividade econômica.
+Pois bem, o princípio da demanda efe tiva, essência da revolução da teoria
+keynesiana, é desenvolvido a partir da idéia de não-neutralidade monetária: existe
+insuficiência de demanda efetiva devido ao fato de que os indi víduos alocam renda na
+forma de riqueza não-reprodutível, ao invés de alocá-la para a aquisição de bens produzidos
+por trabalho. Em outras palavras, pelo princípi o da demanda efetiva, as crises econômicas
+se manifestam porque moeda é uma forma alternativa de riqueza.
+Qual é a solução de Keynes para a insu ficiência de demanda efetiva? Em um
+contexto no qual, por um lado, a política m onetária não consegue induzir os agentes
+econômicos a se livrarem de riqueza monetária, revertendo, assim, suas decisões de gastos
+(Ibid., p.267) e, por outro, a flexibilidade dos sa lários nominais não é condição necessária e
+nem suficiente para manter a economia em  pleno emprego (Ibid., p.257), a intervenção do
+Estado, seja em termos de a tividade produtiva e de  políticas públicas, seja no sentido de
+criar mecanismos que propiciem um ambiente  institucional favorável às tomadas de
+decisões dos agentes econômicos, constitui-se na solução para as crises de demanda efetiva.
+Na palavras de Keynes (Ibid., p.378),
+State will have to exercise a gui ding influence on th e propensity to
+consume … [na] optimum rate of investment … [Além do mais] a
+somewhat comprehensive socialisa tion of investment will prove the
+only means of securing an approximation to full employment.
+Essa “socialização do investimento”, por sua vez, “would mean the euthanasia of
+the rentier, and, consequent ly, the euthanasia of the cumulative oppressive power of
+capitalist to exploit the scarcity-value of capital” (Ibid., p.376).
+No final dos anos 1930 e durante a Segunda  Guerra Mundial, Keynes, ao passar a
+assessorar o Tesouro Britânico nas principais  ações de política ec onômica, elaborou duas
+18
+propostas, How to Pay for the War e Proposals for an International Clearing Union , que,
+de certa maneira, acabariam contribuindo para  consolidar os fundamentos do capitalismo
+administrado, a partir dos anos 1950.
+Em How to Pay for the War, escrito em 1939, Keynes objetiva responder à seguinte
+pergunta: como é possível financiar os gast os da Guerra sem, contudo, criar pressões
+inflacionárias na economia? Em outras palavras, para Keynes, com a Segunda Guerra
+Mundial o problema da economia inglesa não era o desemprego, mas, sim, a inflação.
+Ciente de que, naquele período, as restrições não eram de demanda – muito pelo contrário,
+o problema era de oferta –, Keynes apresenta uma proposta, denominada compulsory
+saving, em que parte da renda das classes mais  abastadas da sociedade seria enxugada por
+imposto progressivo, sendo que o retorno do re ferido imposto seria devolvido em módicas
+prestações ao final da Guerra 16. A despeito das reações contrárias à sua proposta, uma vez
+que ela impunha sacrifícios à maioria da  população, a “poupança compulsória” foi
+experimentada durante a Segunda Guerra Mundi al e a inflação manteve-se sob controle
+(Skidelsky, 2000, Capítulo 3).
+Em Proposals for an International Clearing Union , proposta que se constitui na
+proposição inglesa apresentada quando das disc ussões que antecederam a Conferência de
+Bretton Woods, Conferência essa que reestrut urou o sistema monetário-financeiro mundial
+após a Segunda Guerra Mundial, Keynes, preocupando-se que houvesse “the substitution of
+an expansionist, in place of a contracti onist, pressure on world trade” (Keynes, 1980,
+p.176), sugere a arquitetura de uma ordem ec onômica mundial articulada em torno de um
+banco central internacional, Clearing Union , emissor de uma moeda de conversibilidade
+internacional autônoma, denominada bancor. Segundo Keynes, o banco central
+internacional deveria ser capaz de (i) expand ir a demanda efetiva global, (ii) prover um
+mecanismo que restaurasse, autonomamente, os equilíbrios de balanço de pagamentos dos
+países17, (iii) estabelecer controles sobre os m ovimentos de capitais, essencialmente de
+portfólio e (iv) manter estável, seja através da rigidez relativa das taxas de câmbio, seja pela
+                                                
+16 Pela proposta de Keynes, as classes sociais mais  pobres seriam compensadas sob a forma de subsídios.
+Veja, para tanto, Keynes, 1972.
+17 Para Keynes, os custos de ajustes de balanço de  pagamentos deveriam recair tanto sobre os países
+deficitários quanto sobre os países superavitários.
+19
+regulação da oferta monetária, a moeda de liq uidez internacional. Nas palavras de Keynes
+(Ibid., pp.168-169):
+We need an  instrument of internati onal currency having general
+acceptability between nations … We need an orderly and agreed
+method of determining the relati ve exchange values of national
+currency units … We need a quantum of international currency, which
+is neither determined in an unpr edictable and irrelevant manner …
+nor subject to large variations depending on the gold reserve policies
+of individual countries; but is governed by the actual current
+requirements of world commerce, and is also capable of deliberate
+expansion and contraction to offs et deflationary and inflationary
+tendencies in effective demand worl d. We need a system possessed of
+an international stabilizing mechanism, by which pressure is exercised
+on any country whose balance of payments with the rest of the world is
+departing from equilibrium in eith er position, so as to prevent
+movements which must create fo r its neighbours an equal but opposite
+want of balance … We need a centr al institution … to aid and support
+other international institutions.
+A passagem acima parece sinalizar que a proposta de Keynes objetivava reduzir as
+incertezas dos agentes econômicos em relação às suas decisões de gastos futuros. Essa idéia
+fica clara quando as atenções são voltadas para a natureza da moeda de liquidez
+internacional sugerida por ele, pois essa não seria passível de retenção por dos agentes
+econômicos18.
+Uma vez implementado este conjunto de me didas, Keynes, otimista em relação à
+dinâmica da economia mundial, acreditava que a Clearing Union poderia tornar-se, após a
+Segunda Guerra Mundial, em um instrumento de fundamental importância para “use its
+influence and its power to maintain stability of  prices and to control the trade cycle” (Ibid.,
+pp.190-191).
+Apesar da proposta de Ke ynes não ter tido êxito – a proposição alternativa da
+delegação norte americana, baseada nas idéias de Harry White, acabou predominando
+                                                
+18 Sobre essa idéia, veja Ferrari Filho (1999).
+20
+durante a Conferência de Bretton Woods 19 – seus argumentos teóricos acabaram
+influenciando a articulação da nova ordem econômica mundial erigida após a Segunda
+Guerra Mundial e vigente até o início dos anos 1970.
+No ano de 1946, em um artigo publicado no Economic Journal após sua morte –
+abril de 1946 –, intitulado The Balance of Payments of the United States, Keynes apresenta
+algumas reflexões e argumentos que seriam um presságio da crise e da ruptura do sistema
+monetário-internacional de Bretton W oods na década de 1970. Nesse artigo, Keynes
+argumenta que a liquidez e a estabilidade do regime padrão -ouro-dólar de Bretton Woods
+somente se sustentariam se os Estados Uni dos tivessem disciplina fiscal e equilíbrio do
+balanço de pagamentos. Os argumentos de Keynes – diga-se de passagem, eles vão ao
+encontro do que os livros-texto de macroeconomia ensinam – eram de que, por um lado, em
+uma situação de equilíbrio fiscal, não haveri a receio de uma elevação da taxa de juros
+norte-americana e, por conseguinte, a relação  de conversibilidade ouro-dólar manter-se-ia
+estável; por outro, em um cont exto no qual as contas externas dos Estados Unidos fossem
+equilibradas, a relação de conversibilidade ouro-dólar permaneceria inalterada.
+Pois bem, os anos 1960 mostraram que Keynes estava certo: naquele período os
+Estados Unidos passaram a apresentar recorrent es déficits fiscais – em grande parte devido
+aos gastos com a Guerra do Vietnã – e comerciais – decorrentes da perda de
+competitividade dos produtos norte-americanos no mercado externo – que acabariam
+influenciando, de forma pessimista, a formação de expectativas por parte dos agentes
+econômicas acerca do comportamento futuro tant o da taxa de juros norte-americana quanto
+do mecanismo de conversibilidade dólar-our o. Essas expectativas confirmar-se-iam no
+início dos anos 1970, pois os Estados Unidos , não tendo outra altern ativa a não ser buscar
+os equilíbrios fiscal e exter no, elevou a taxa de juros domés tica e desvalorizou o dólar. Em
+suma, os Estados Unidos romperam unilateralmente com as regras acordadas no regime de
+Bretton Woods.
+3. À guisa de conclusão
+A internacionalização da economia e a gl obalização do capital em curso ao longo
+das últimas décadas têm alterado substancialmente a natureza e os determinantes da
+                                                
+19 Veja, por exemplo, Skidelsky, 2000, Capítulo 6 e capítulo 7.
+21
+dinâmica econômica mundial: a abertura das economias, a liberalização das contas de
+capitais e, por conseguinte, a livre mobilidade de capitais de portifólio, a
+desregulamentação dos mercados financeiros e as inovações financeiras, as reformas
+estruturais liberalizantes – tais como, a patrim onial, a previdenciária e a trabalhista – e a
+ausência de regras monetárias e cambiais para evitar as volatilidades das taxas de juros e de
+câmbio têm, por um lado, limitado a ação da s políticas macroeconômicas dos Estados
+Nacionais e, por outro, sido responsáveis – pelo menos para algumas correntes do
+pensamento econômicos e alguns estadistas – ta nto pelas freqüentes crises de balanço de
+pagamentos e de ataques especulativos às  moedas nacionais quanto pelas flutuações
+cíclicas das economias e, por conseguinte, elevação das taxas de desemprego 20. Em suma,
+desde o colapso do regime de Bretton Woods, os rumos trilhados pela economia mundial,
+quais sejam, capitalismo neo-liberal e “fin anceirização” do capital, têm gerado resultados
+pouco auspiciosos nos indicadores de pr odução, bem como vêm impondo dificuldades
+adicionais à geração do emprego e à distribuição da riqueza global. Nesse particular,
+Keynes diz que “[w]hen the capital developm ent of a country becomes a by-product of
+activities of a casino, the job is likely to be ill-done” (Keynes, 1964, p.159)
+Na GT, Keynes (Ibid., p.372) escreveu que “[ t]he outstanding faults of economic
+society in which we live are it s failure to provide for full em ployment and its arbitrary and
+inequitable distribution of wealth and incomes”.
+A passagem acima é pertinente, pois este texto mostrou que as concepções teóricas
+e as proposições de política econômica de Keyne s voltaram-se, em grande parte, para a
+solução do desemprego e a eqüidade da renda. Ao explorar diferentes temas de natureza
+econômica, tais como (i) causas e conseqüência s das crises monetárias , (ii) flutuações de
+demanda efetiva e desemprego, (iii) regime monetário-cambial apropriado às circunstâncias
+internacionais e (iv) arquitetura da ordem econômica m undial, a análise revolucionária de
+Keynes foi uma característica essencial. Keyne s não queria que o capitalismo sucumbisse,
+muito pelo contrário, queria salvá-lo. Para tanto, rejeitando o capitalismo à la laissez-faire,
+Keynes propõe um capitalismo administrado – li beral socialismo –, em que as disfunções
+                                                
+20 As crises monetárias dos últimos anos – tais como  européia em 1992-1993, me xicana de 1994-1995, leste
+da Ásia de 1997, russa de 1998, brasileira de 1998-1999 e Argentina em 2001 – e seus desdobramentos sobre
+os níveis de produção, emprego e distribuição da renda são uma clara ilustração deste processo.
+22
+do mercado fossem supridas pela intervenção do Estado, através tanto de políticas públicas
+quanto de naturezas normativas imprescindíve is para a construção de um ambiente
+institucional favorável às tomadas de decisão dos agentes econômicos. Mas em que
+consiste o capitalismo administrado pr oposto por Keynes? Segundo O`Donnell (1989,
+p.293), Keynes tinha em mente um liberal-soc ialismo em que “the ultimate goal was a
+decidedly non-capitalist utopia, a form of society with greater similarities to communist or
+left-wing utopias than to ideal societies built on capitalist or free market norms”.
+Nesse sentido, tendo-se ciência de que dos anos imediatamente após a Segunda
+Guerra Mundial até o início da década de 1970 a economia mundial apresentou estabilidade
+de preços e registrou um expressivo boom econômico, bem como sabendo que ao longo do
+referido período as políticas ke ynesianas, sejam fiscais ativ as, sejam de operacionalização
+de políticas monetárias contra-cíclicas, fizeram parte das prescrições econômicas dos
+policymakers, é preocupante que a Teoria Econômica e as autoridades monetárias tenham
+negligenciado as políticas keynesianas e, em contrapartida, implementado políticas
+econômicas liberais ao longo das últimas décadas.
+Pois bem, buscar resgatar os mecanismos que assegurem trajetórias de crescimento
+econômico sustentável e desenvolvimento social harmônico deve ser os esforços daqueles
+que não cometem os erros dos pessimistas, conforme escreveu Keynes (1972, p.322):
+pessimism of the revolutionaries who think that things are so bad that
+nothing can save us but violent change, and the pessimism of the
+reactionaries who consider the balance of our economic and social life
+so precarious that we must risk no experiments.
+Referências bibliográficas
+DEQUECH, D. Rationality and Institutions Under Uncertainty . Cambridge: Ph.D. Thesis,
+1998.
+FERRARI FILHO, F. A moeda internacional na Economia de Keynes. In: Lima, G.T.;
+Paula, L.F.; Sicsú, J. Macroeconomia Moderna: Keynes e a Economia Contemporânea.
+Rio de janeiro: Campus, pp.328-339.
+KEYNES, J.M. Indian Currency and Finance. London: Macmillan, 1913
+23
+_____. The Balance of Payments of the United States. Economic Journal , v.LVI (222),
+pp.172-187, June, 1946.
+_____. The General Theory of Employment, Interest and Money . New York: HBJ Book,
+1964.
+_____. A Tract on Monetary Reform . London: Macmillan (The Co llected Writings of John
+Maynard Keynes, v.4), 1971.
+_____. A Treatise on Probability . London: Macmillan (The Collected Writings of John
+Maynard Keynes, v.8), 1973a.
+_____. The General Theory and After: Preparation . London: Macmillan (The Collected
+Writings of John Maynard Keynes, v.13), 1973b.
+_____. A Treatise on Money. New York: AMS Press, 1976.
+_____. Activities 1940-1944: Shaping the Post-Wa r World – The Clearing Union . London:
+Macmillan (The Collected Writings of John Maynard Keynes, v.25), 1980.
+_____. Activities 1929-1931: Rethinking Employ ment and Unemployment Policies .
+London: Macmillan (The Collected Writings of John Maynard Keynes, v.20), 1981.
+_____. The Economic Consequences of the Peace. New York: Penguin Books, 1988.
+_____. Essays in Persuasion . London: Macmillan (The Collected Writings of John
+Maynard Keynes, v.9), 1972.
+O`DONNELL, R.M. Keynes: Philoshophy, Economics and Politics. New York: St.Martin`s
+Press, 1989.
+SKIDELSKY, R. John Maynard Keynes: Hopes and Betrayed, 1883-1920 . London:
+Macmillan, 1983.
+SKIDELSKY, R. John Maynard Keynes: The Ec onomist as Saviour, 1920-1937 . London:
+Macmillan, 1992.
+SKIDELSKY, R. John Maynard Keynes: Fi ghting for Britain, 1937-1946 . London:
+Macmillan, 2000.
+           

@@ -1,0 +1,2477 @@
+Received: 27 August 2025
+Revised: 23 September 2025
+Accepted: 3 October 2025
+Published: 10 October 2025
+Citation:
+Peng, J.; Li, J.; Peng, L.;
+Zhang, Y. Forest Ecosystem
+Conservation Through Rural Tourism
+and Ecosystem Services: A Systematic
+Review. Forests 2025, 16, 1559.
+https://doi.org/10.3390/f16101559
+Copyright: © 2025 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license
+(https://creativecommons.org/
+licenses/by/4.0/).
+Systematic Review
+Forest Ecosystem Conservation Through Rural Tourism and
+Ecosystem Services: A Systematic Review
+Jing Peng 1,2, Jiangfeng Li 1,3,*, Liu Peng 4 and Yuzhou Zhang 2
+1
+Department of Land Resource Management, School of Public Administration, China University of
+Geosciences, No. 388, Lumo Road, Wuhan 430074, China; pjlae@cug.edu.cn
+2
+Hubei Key Laboratory of Biological Resources Protection and Utilization, Hubei Minzu University,
+Enshi 445000, China; 2013021@hbmzu.edu.cn
+3
+Key Labs of Law Evaluation of Ministry of Land and Resources of China, No. 388, Lumo Road,
+Wuhan 430074, China
+4
+School of Humanities and Education, Enshi Polytechnic, No. 122 Xueyuan Road, Enshi 445000, China;
+18600470708@163.com
+*
+Correspondence: jfli0524@163.com
+Abstract
+This systematic review examines the role of rural tourism in promoting sustainable de-
+velopment, focusing on its interaction with forest ecosystems and the essential ecosystem
+services they provide. A comprehensive literature search across Scopus, PubMed, and
+Google Scholar identified 142 peer-reviewed articles, analyzed through qualitative syn-
+thesis and bibliometric mapping. The review highlights four thematic clusters in rural
+tourism research: impacts on rural areas, destination management, resident perspectives
+and cultural sustainability, and emerging themes like place attachment. It emphasizes
+the reliance of rural tourism on ecosystem services, including provisioning, regulating,
+cultural, and supporting, especially those linked to forest ecosystems. Examples from
+Monteverde, Costa Rica, and Tuscany, Italy, illustrate the role of rural tourism in supporting
+biodiversity conservation, habitat restoration, and sustainable agriculture. However, un-
+controlled tourism in forested regions can lead to deforestation and ecosystem degradation,
+as seen in the Lake District, Masai Mara, and Rajasthan. The review stresses the need for
+sustainable practices to mitigate the negative impacts of tourism, advocating for an inte-
+grated sustainability framework that balances economic, environmental, and governance
+aspects. Best practices include eco-friendly infrastructure, community participation, and
+environmental education. The potential of emerging technologies, such as eco-certification
+systems and smart tourism, is explored to reduce the environmental footprint of tourism.
+The review calls for stronger policy integration, equitable benefit-sharing, capacity building,
+and longitudinal research to ensure resilient rural tourism that harmonizes ecosystem con-
+servation with socio-economic development. In conclusion, the integration of sustainable
+practices and community involvement is crucial for aligning rural tourism with forest
+ecosystem conservation.
+Keywords: forests; rural tourism; ecosystem services; sustainable development; socio-economic
+development; community-based tourism; sustainable resource management; tourism policy
+1. Introduction
+Rural tourism involves traveling to rural areas to experience local culture, heritage,
+and lifestyle, offering visitors the opportunity to connect with nature, engage in outdoor
+Forests 2025, 16, 1559
+https://doi.org/10.3390/f16101559
+
+
+Forests 2025, 16, 1559
+2 of 40
+activities, and immerse themselves in the authenticity of rural communities [1]. This form of
+tourism provides a peaceful escape from urban life, allowing individuals to relax and reju-
+venate in natural surroundings [1,2]. In recent years, rural tourism has grown in popularity
+as travelers increasingly seek immersive and authentic experiences. This trend benefits
+both visitors and rural communities, generating economic advantages by creating jobs,
+stimulating local businesses, and preserving cultural heritage [3,4]. Furthermore, it helps
+ease the pressure on popular tourist destinations, promotes sustainable tourism practices,
+and supports environmental health [5]. Rural tourism encompasses various activities, such
+as farm stays [6], wildlife watching [7], hiking [8], and cultural experiences [9]. Beyond
+relaxation, rural tourism contributes to local economies, preserves traditional ways of life,
+and promotes environmental conservation [10]. It plays a significant role in sustainable
+development, enhancing the quality of life in rural areas and ensuring their vitality for
+future generations [11,12].
+Ecosystem services are central to rural tourism, with forests playing a key role in
+providing essential services such as carbon sequestration, soil formation, and water reg-
+ulation [13,14]. These services enhance the attractiveness of rural areas, offering scenic
+landscapes and opportunities for nature-based activities like hiking, bird watching, and
+eco-tourism [15]. Ecosystem services are benefits humans derive from natural ecosystems
+and are crucial for supporting rural tourism [16]. These services are categorized into provi-
+sioning, regulating, cultural, and supporting services [17]. Provisioning services provide
+essential resources such as food, freshwater, and raw materials [18]. Regulating services
+help control climate, water, and pollination processes [19]. Cultural services include the
+aesthetic, recreational, and spiritual benefits derived from natural environments, while
+supporting services ensure the production of other ecosystem services, such as nutrient
+cycling and soil formation. These services are vital for human life, economic activity, and
+environmental sustainability. In rural tourism, ecosystem services contribute to the appeal
+of rural areas by supporting local economies, preserving cultural heritage, and facilitating
+recreational activities [20–23]. Clean air, water, and scenic landscapes attract tourists seek-
+ing tranquility, while healthy ecosystems with diverse flora and fauna offer opportunities
+for wildlife viewing and nature-based activities [24–28]. Moreover, the connection between
+ecosystems and local cultural heritage adds depth to the rural tourism experience, allowing
+tourists to engage with local traditions [29]. Rural tourism driven by ecosystem services
+benefits local economies by generating income for small businesses, creating jobs, and
+promoting conservation, ultimately ensuring the sustainability of natural resources and
+wildlife habitats for future generations. While substantial research exists on the economic
+benefits of rural tourism and its environmental impacts, there is a lack of comprehensive
+studies that integrate socio-economic, cultural, and ecological perspectives, especially in
+forested regions. This review fills that gap by synthesizing the diverse dimensions of rural
+tourism and its relationship with ecosystem services, offering a more holistic understanding
+of its implications.
+This review aims to systematically analyze the relationship between rural tourism and
+ecosystem system services, focusing on socio-economic, cultural, and ecological perspec-
+tives. The review moves beyond previous studies that isolated aspects such as economic
+contributions or environmental concerns [30–33], by presenting a broader view of both
+positive and negative impacts. This study aims to fill the gap in the literature by synthesiz-
+ing findings from 142 peer-reviewed articles, offering a comprehensive understanding of
+the interaction between rural tourism and ecosystem services. The theoretical framework
+for this review is rooted in the Ecosystem Services Framework (ESF), which categorizes
+ecosystem services into provisioning, regulating, cultural, and supporting services [17].
+This framework allows for a deeper exploration of the ways in which rural tourism both
+
+
+Forests 2025, 16, 1559
+3 of 40
+benefits from and affects these services. By applying this framework, the review aims to
+identify the key drivers, challenges, and opportunities associated with the relationship of
+rural tourism with ecosystem services. Data collection was conducted through a compre-
+hensive search and analysis of the existing literature across three major databases—Scopus,
+PubMed, and Google Scholar—using keywords related to rural tourism, forest ecosystems,
+and ecosystem services. A total of 142 peer-reviewed articles were selected based on specific
+inclusion and exclusion criteria. These articles were analyzed using qualitative synthesis
+and bibliometric mapping to identify key themes and trends in the literature. The research
+also included examples from Monteverde, Costa Rica, and Tuscany, Italy, to illustrate the
+practical implications of rural tourism in forested regions. This review concludes that
+rural tourism can serve as a powerful tool for promoting sustainable development and
+protecting ecosystems, provided that it is managed responsibly. The review proposes an in-
+tegrated sustainability framework that emphasizes eco-friendly infrastructure, community
+involvement, and environmental education. Emerging approaches, such as smart tourism
+technologies and adaptive management, are explored as tools to enhance sustainability.
+The review also calls for strengthened policy integration, equitable benefit-sharing, and
+further research to ensure the long-term sustainability of rural tourism while protecting
+ecosystems and supporting local communities.
+2. Review Methodology
+This review systematically analyzes and synthesizes existing literature on rural
+tourism, including its various types and economic, social, and environmental impacts
+on forest ecosystems. This was achieved through a structured literature search across three
+databases (Scopus, PubMed, and Google Scholar) using predefined keywords related to
+rural tourism, forest ecosystems, and ecosystem services. The selection process followed
+specific inclusion and exclusion criteria, ensuring a focus on relevant empirical and non-
+empirical studies. Data analysis involved the use of Covidence software for screening [34],
+with independent reviews by three authors to ensure consistency and rigor in the selection
+of 142 relevant papers. By examining the relationship between rural tourism and ecosystem
+services, particularly in forested regions, this review highlights the ways in which tourism
+activities in forests can both support and challenge the sustainability of these ecosystems.
+The methodology described below outlines the search strategy, inclusion and exclusion
+criteria, and data analysis procedures used to identify and evaluate relevant studies. In
+this context, studies focusing on eco-tourism and forest conservation were given particular
+emphasis, offering valuable insights into the ways in which rural tourism can either support
+or threaten the resilience of forest ecosystems. Searches were conducted using specific key-
+words across three databases. Retrieved papers were compared across databases, and any
+duplicates (i.e., papers found in more than one database) were identified and appropriately
+assigned to a single database to avoid redundancy.
+2.1. Search Strategy
+A comprehensive literature search was performed across multiple databases to collect
+relevant articles according to the PRISMA methodology [35–37]. The primary databases
+searched were Scopus, PubMed, and Google Scholar, selected for their extensive coverage
+of peer-reviewed journals and conference proceedings in tourism, social sciences, and
+environmental studies. To capture a broad range of studies on rural tourism and its
+impacts, specific search terms were developed. These included: rural tourism, forest
+ecotourism, adventure tourism, cultural tourism, and agro-tourism, and a combination of
+terms such as rural tourism and ecosystem services. These terms were chosen to reflect the
+various types of rural tourism and to encompass research addressing both its positive and
+
+
+Forests 2025, 16, 1559
+4 of 40
+negative economic, social, and environmental effects. Searches were limited to the title,
+abstract, and keywords fields of peer-reviewed empirical and non-empirical articles, with
+no restrictions on publication date or location.
+2.2. Inclusion and Exclusion Criteria
+Articles were selected based on specific criteria to ensure the relevance of the studies
+included in this review. First, the title, abstract, or keywords needed to contain keywords
+including rural tourism, forest ecotourism, or agro-tourism. Additionally, the abstract
+was required to address at least one of the following areas: the types of rural tourism
+(including ecotourism, adventure tourism, or cultural tourism), the positive or negative
+impacts of rural tourism on economic, social, or environmental factors on forest ecosystems,
+or examples and evidence related to rural tourism.
+Studies were excluded from this review if they did not meet the established inclusion
+criteria or were deemed irrelevant to the topic of rural tourism. Specifically, articles not
+published in English or not peer-reviewed were excluded. Studies that focused exclusively
+on urban tourism or other unrelated tourism sectors were also removed. Additionally,
+articles that lacked sufficient information in the title or abstract regarding the impacts of
+rural tourism, or that failed to address key concepts such as types of tourism, their impacts,
+or ecosystem services, were excluded.
+This systematic approach—combining a thorough search with clear inclusion and
+exclusion criteria—ensured that the final selection of articles was both focused and compre-
+hensive, encompassing a wide range of studies relevant to rural tourism and its economic,
+social, and environmental impacts.
+2.3. Data Collection and Analysis
+The literature search identified a total of 554 records (Figure 1 and Table 1). After the
+initial search, all retrieved papers were screened for their relevance based on the inclusion
+and exclusion criteria. The abstracts were reviewed to identify those papers that specifically
+focused on rural tourism, its types, and its impacts on economic, social, or environmental
+domains. Using Covidence (https://www.covidence.org/terms/ accessed on 5 April 2025),
+a web-based software platform for managing systematic reviews, was used in the screening
+process [38]. Thirteen duplicate records were removed, leaving 541 papers for screening.
+Three authors—JP, JL, and LP—each with expertise in systematic review methodology and
+content, independently screened the titles, abstracts, and keywords of these 541 papers.
+Papers were excluded based on predefined exclusion criteria. For full-text screening,
+135 papers were retrieved and independently reviewed by JP, LP, and YZ, with JL providing
+additional review and content expertise. Additionally, manual searching identified seven
+more relevant papers. Finally, a total of 142 papers were included in the study for analysis
+based on the predefined inclusion and exclusion criteria and manual search.
+Table 1. Number of papers retrieved from database searches by search terms ‘rural tourism, eco-
+tourism, adventure tourism, cultural tourism, and agro-tourism’, and combination of terms such as
+‘rural tourism, forest ecosystems, and ecosystem services’ across Scopus, PubMed, and Google Scholar.
+Database
+Search Terms
+Total Papers
+Retrieved Papers
+Scopus
+Rural tourism
+88
+16
+Ecotourism
+103
+19
+Rural tourism and forest ecosystem services
+24
+8
+Adventure tourism
+17
+8
+Cultural tourism
+55
+11
+Agro-tourism
+14
+2
+
+
+Forests 2025, 16, 1559
+5 of 40
+Table 1. Cont.
+Database
+Search Terms
+Total Papers
+Retrieved Papers
+PubMed
+Rural tourism
+33
+6
+Ecotourism
+14
+4
+Rural tourism and forest ecosystem services
+13
+5
+Adventure tourism
+25
+8
+Cultural tourism
+5
+3
+Agro-tourism
+6
+1
+Google Scholar
+Rural tourism
+59
+14
+Ecotourism
+15
+3
+Rural tourism and forest ecosystem services
+26
+9
+Adventure tourism
+23
+6
+Cultural tourism
+24
+7
+Agro-tourism
+12
+5
+Figure 1. PRISMA flow diagram of study selection showing the identification, screening, eligibility,
+and inclusion of studies.
+3. Results
+The systematic search retrieved 554 records across Scopus, PubMed, and Google Scholar
+using predefined terms ‘rural tourism, ecotourism, adventure tourism, cultural tourism, and agro-
+tourism’, and combination of terms such as ‘rural tourism, forest ecosystems, and ecosystem
+services’. After screening and applying inclusion/exclusion criteria in Covidence software,
+
+
+Forests 2025, 16, 1559
+6 of 40
+406 records were excluded. Full-text assessment of 135 articles identified 142 eligible studies,
+including seven additional articles found through manual searching, forming the dataset for
+further bibliometric and thematic analysis (Figure 1). The search for rural tourism yielded
+36 papers (16 from Scopus, 6 from PubMed, 14 from Google Scholar), revealing that tourism
+in rural areas often causes land-use changes, resource depletion, and disruption of ecosystem
+services. These findings highlight the need for sustainable practices to mitigate deforesta-
+tion and habitat loss. For ecotourism, 26 papers (19 from Scopus, 4 from PubMed, 3 from
+Google Scholar) emphasized balancing conservation with tourism development in ecologi-
+cally sensitive regions, supporting sustainable practices that protect forest ecosystems and
+contribute to local economies. The search on rural tourism and forest ecosystem services
+returned 22 papers (8 from Scopus, 5 from PubMed, 9 from Google Scholar), highlighting the
+positive and negative effects of tourism on biodiversity, water quality, and soil health. This
+highlights the importance of impact of managing tourism on natural resources. Adventure
+tourism studies (22 papers, including 8 from each of Scopus and PubMed, 6 from Google
+Scholar) showed that, while it drives economic growth, it also contributes to environmental
+pressures such as soil erosion and wildlife disturbance, emphasizing the need for sustainable
+tourism management. Cultural tourism (21 papers, including 11 from Scopus, 3 from PubMed,
+7 from Google Scholar) focused on preserving cultural heritage in rural areas, particularly
+in forest regions, and protecting traditional knowledge while supporting local livelihoods.
+Finally, agro-tourism was explored in 8 papers (2 from Scopus, 1 from PubMed, 5 from Google
+Scholar), highlighting its potential to engage tourists with agricultural heritage and promote
+sustainable farming practices, supporting both agriculture and conservation.
+The VOSviewer (v 1.6.20) (i.e., visualization of similarities viewer) software, a tool used
+for visualizing bibliometric networks (keyword co-occurrence networks, co-authorship,
+citation), was utilized to analyze the co-occurrence of keywords related to tourism, sus-
+tainable development, community, and cultural heritage. The resulting visualizations,
+presented in Figure 2, reveal distinct thematic clusters and their interrelationships within
+the research corpus. By analyzing the 142 systematically selected studies, the bibliometric
+clustering not only highlighted dominant research trends but also contextualized them
+within the broader body of evidence identified through the PRISMA process. This en-
+sures that the network visualizations reflect a balanced synthesis of both quantitative
+and qualitative literature on rural tourism and forest ecosystems. The clusters highlight
+the complexity of rural tourism research, where key themes like environmental impact,
+community engagement, and sustainable development converge, especially in forested
+and ecologically sensitive areas. Figure 2A displays a network visualization where nodes
+represent keywords, sized according to their frequency or importance, and edges indicate
+the relationships or co-occurrences between them. The keywords are grouped into several
+distinct clusters, each represented by a different color. The first cluster (green) focuses on
+the impact of tourism on rural areas, with key terms such as ‘tourism’, ‘land-use’, ‘village’,
+and ‘impact’. This cluster reflects a significant research interest in the impact of tourism
+activities on forested landscapes, resulting in changes in land-use, resource depletion, and
+the degradation of ecosystem services. This aligns with studies emphasizing the social
+and ecological consequences of tourism in rural settings, particularly in forested regions,
+where land-use changes may result in deforestation, habitat loss, and disrupted ecosystem
+functions [39]. In similar studies employing cluster analysis, Zhao et al. [40] conducted
+a co-evolution and driving mechanism analysis of ecosystem services value and tourism
+economic resilience across 286 cities in China, utilizing cluster analysis to explore regional
+patterns and dynamics. Their study highlighted the spatial distribution of ecosystem service
+value and tourism economic resilience, revealing regional disparities and the key driving
+factors influencing their relationship, ultimately supporting regional tourism economic
+
+
+Forests 2025, 16, 1559
+7 of 40
+planning and ecosystem management strategies. Likewise, Zhang et al. [41] employed
+cluster analysis in the karst peak-cluster depression region of southwestern China to map
+ecosystem service clusters and investigate their trade-offs and synergies. Their findings
+demonstrated significant clustering effects and highlighted the role of both natural and
+social factors in shaping the distribution of ecosystem services, emphasizing the need
+for coordinated development. Additionally, Guo et al. [42] utilized exploratory spatial
+data analysis and geographical detector models to assess the spatiotemporal evolution
+of forest tourism development in Henan Province, identifying the driving forces behind
+the changes in forest tourism levels. Their study found a shift in the dominant drivers
+from environmental to economic factors, further supporting the idea that tourism activities
+can significantly influence both the economic and ecological dynamics of forested regions.
+The second cluster (blue) centers around rural tourism development and destination man-
+agement. Keywords like ‘destination’, ‘framework’, ‘innovation’, and ‘factor’ indicate a
+strong emphasis on strategic planning, innovation, and competitiveness in rural tourism.
+Sustainable forest tourism management is a crucial aspect within this cluster, as innovative
+frameworks are needed to ensure that tourism in forested regions does not compromise
+the ecological integrity of these valuable ecosystems. This aligns with literature exploring
+sustainable development frameworks and the management of rural tourism destinations
+to foster economic growth and sustainability [43]. The third cluster (red) highlights the
+importance of resident perspectives and cultural sustainability in rural tourism. Terms such
+as ‘resident’, ‘community’, ‘sustainability’, ‘cultural tourism’, and ‘awareness’ suggest that
+local communities’ involvement and cultural heritage preservation are critical themes. In
+forest-based rural tourism, community involvement is particularly vital, as local knowledge
+can contribute to forest management, conservation efforts, and the preservation of cultural
+landscapes tied to forest ecosystems. These findings are in line with previous research
+findings that highlight community participation and the protection of cultural assets as key
+components of sustainable rural tourism [44]. A smaller, more peripheral cluster in yellow
+includes concepts such as ‘place attachment’, ‘resilience’, and ‘commercialization’, pointing
+to emerging topics related to the emotional connections of residents with their environment
+and the challenges posed by the commercialization of rural tourism. In forested areas,
+this cluster underscores the emotional connection that both locals and tourists have to
+natural environments, particularly forests, and the resilience of these areas to pressures
+from tourism. These areas add depth to the understanding of rural tourism by addressing
+both psychological factors and economic pressures. The cluster density (Figure 2B) and
+item density (Figure 2C) visualizations further confirm that terms like ‘tourism’, ‘rural
+tourism’, and ‘resident’ are central to the field, indicating these are focal points of current
+research. The centrality of these terms also suggests that research is increasingly focused
+on the impact of tourism on both social structures and ecosystems, including forests, in
+rural areas. The network structure demonstrates a multidisciplinary approach that inte-
+grates social, environmental, and economic perspectives, reflecting the complexity of rural
+tourism as a research area. This multidisciplinary approach is crucial for understanding the
+ways in which rural tourism can support sustainable forest management while benefiting
+local communities and preserving ecosystem services. This bibliometric analysis confirms
+that rural tourism research is a vibrant and multifaceted field centered on sustainability,
+community participation, and strategic destination development. The identification of
+emerging themes, such as place attachment and resilience, reflects an evolving research
+outline that addresses both human and economic dimensions of rural tourism. Future
+studies should further explore the role of forests in rural tourism, focusing on sustain-
+able tourism practices that preserve forest ecosystems while supporting the well-being
+of local communities. To advance the field, future studies should adopt interdisciplinary
+
+
+Forests 2025, 16, 1559
+8 of 40
+approaches that deepen understanding of the ways in which innovation and community
+resilience can mitigate challenges of tourism while promoting sustainable development.
+This holistic perspective will be crucial for informing policies and practices that support
+the long-term sustainability of rural tourism and the well-being of rural communities. This
+holistic perspective will be crucial for informing policies and practices that protect forest
+ecosystems, enhance biodiversity, and ensure the long-term sustainability of rural tourism.
+ 
+Figure 2. Visualization of keyword co-occurrence networks in sustainable rural tourism research
+based on a comprehensive literature search. Relevant articles were collected from multiple databases,
+including Scopus, PubMed, and Google Scholar. The search employed terms such as ‘Rural tourism’,
+‘Ecotourism’, ‘Adventure tourism’, ‘Cultural tourism’, ‘Agro-tourism’, and combinations of terms
+such as ‘Rural tourism and forest ecosystem services’, to capture diverse types of rural tourism and
+their impacts on economic, social, and environmental domains. (A) Network visualization showing
+clusters of keywords colored by their respective groups, with node size indicating the frequency of
+keyword occurrences and links representing co-occurrence relationships. The four main clusters
+identified are related to tourism and its effects on rural areas (green), rural tourism development and
+destination management (blue), resident perspectives and cultural sustainability (red), and peripheral
+concepts such as place attachment and commercialization (yellow). (B) Cluster density visualization
+highlighting areas of high keyword occurrence and co-occurrence intensity, with warmer colors
+indicating higher density. (C) Item density visualization reflecting the concentration of keywords
+within the network, where yellow areas denote a high density of research focus, and blue areas
+indicate lower concentration. All visualizations were generated using VOSviewer software.
+
+
+Forests 2025, 16, 1559
+9 of 40
+4. Literature Review and Discussion
+4.1. Bridging Nature, Culture, and Sustainability in Forest Destinations
+Rural tourism encompasses tourism activities that take place in rural areas known
+for their natural beauty, cultural heritage, and traditional lifestyles [45]. It includes a wide
+range of activities aimed at connecting tourists with rural environments and promoting
+sustainable tourism. Various types of rural tourism include agro-tourism, eco-tourism,
+adventure tourism, and cultural tourism (Table 2). Rural tourism, as explored in the bib-
+liometric analysis, is not only a catalyst for cultural exchange but also a key factor in
+promoting sustainable environmental practices in rural landscapes. Agro-tourism involves
+tourists engaging directly with agricultural practices, such as farming, harvesting, and
+animal husbandry [46]. Visitors may stay on farms, assist with daily tasks, harvest crops,
+and learn traditional farming techniques. Activities such as farm tours, farm-to-table ex-
+periences, and workshops on organic farming support local farmers economically while
+promoting sustainability and education about rural life [47,48]. The bibliometric analysis
+highlighted the economic importance of agro-tourism, particularly its contributions to
+local economies and its integration with sustainable farming practices. The bibliometric
+search revealed 8 papers on agro-tourism, showing its potential for engaging tourists in
+agricultural heritage and promoting sustainable farming practices. Agro-tourism can also
+extend to forest-based activities, where tourists learn about sustainable forest management,
+agroforestry, and the role of forests in food and timber production. As highlighted by the
+bibliometric analysis, agro-tourism has the potential to engage tourists with agricultural
+heritage and promote sustainable farming practices. This integration of agro-tourism with
+forest management further emphasizes the importance of holistic environmental steward-
+ship in rural tourism. Eco-tourism focuses on responsible travel to natural areas with an
+emphasis on environmental conservation and sustainability [49,50]. It includes activities
+like wildlife safaris, bird watching, hiking, and tree planting, encouraging travelers to
+engage in conservation efforts [51,52]. A total of 26 papers were identified on eco-tourism,
+emphasizing its role in preserving forest ecosystems and educating tourists on sustainabil-
+ity. Eco-tourism in forested areas emphasizes the protection of forests, wildlife habitats, and
+biodiversity, offering opportunities for tourists to learn about the role of forests in climate
+regulation, water purification, and carbon sequestration [53]. Eco-tourism also provides ed-
+ucational experiences on sustainability, renewable energy, and biodiversity, aiming to foster
+a deeper understanding of nature while preserving it [54]. The analysis also emphasizes the
+increasing importance of balancing conservation with tourism development in ecologically
+sensitive areas. This aligns with the bibliometric findings that point to the necessity of
+sustainable practices in eco-tourism to mitigate potential environmental pressures. Ad-
+venture tourism is centered on thrill-seeking and physical challenges, attracting travelers
+interested in adrenaline-pumping activities like mountain biking, zip-lining, hiking, and
+water sports [55,56]. It often takes place in rugged landscapes and emphasizes personal
+achievement, resilience, and exploration of remote areas [56]. Many adventure tourism
+activities take place in forested regions, where sustainable tourism practices are essential
+to ensure minimal impact on natural habitats and biodiversity. The bibliometric search
+returned 22 papers on adventure tourism, highlighting the need for sustainable manage-
+ment practices in adventure tourism, particularly in forest ecosystems. Furthermore, the
+bibliometric network analysis indicates that adventure tourism can contribute to environ-
+mental pressures, such as soil erosion and wildlife disturbance, which highlights the need
+for integrating environmental conservation efforts into adventure tourism management.
+Cultural tourism immerses visitors in the cultural practices and heritage of rural commu-
+nities. Activities include participating in local festivals, learning traditional crafts, and
+living with local families [57]. Cultural tourism preserves and promotes cultural heritage,
+
+
+Forests 2025, 16, 1559
+10 of 40
+offering economic benefits and fostering a deeper understanding of local traditions [58,59].
+A total of 21 papers were included in the analysis on cultural tourism, emphasizing the
+relationship between cultural heritage and the environment, particularly in forested areas.
+In forested rural areas, cultural tourism often involves showcasing the relationship between
+local communities and the forests, highlighting traditional forest-based livelihoods, crafts,
+and cultural practices tied to the natural environment. The bibliometric study reinforces
+the vital role of cultural tourism in preserving cultural heritage while supporting local
+livelihoods. This supports the growing interest in the connection between cultural sustain-
+ability and the conservation of forest ecosystems. Each type of rural tourism contributes
+to the economic development of rural areas, promotes sustainability, and offers tourists
+unique, enriching experiences [60]. Through the bibliometric analysis, keywords like ‘com-
+munity’, ‘sustainability’, and ‘economic development’ emerged as central to the discourse
+on rural tourism, further corroborating the broad socio-economic benefits of these tourism
+types. The bibliometric analysis identified key emerging themes that further support these
+contributions. Notably, the analysis highlighted the central role of tourism in economic
+diversification, job creation, and community empowerment. The growing research interest
+in community participation and sustainable tourism practices, as evidenced by the key-
+word co-occurrence analysis, highlights the importance of local engagement in ensuring the
+long-term success of rural tourism ventures. Keywords such as ‘community’, ‘tourism’, and
+‘rural development’ were found to be highly central in the research corpus, emphasizing the
+socio-economic benefits of rural tourism. The results of the keyword co-occurrence network
+further confirm that rural tourism fosters local economic growth through activities such as
+eco-tourism, farm stays, and local product promotion, which align with sustainable tourism
+principles. Additionally, the analysis emphasized the significance of cultural sustainability
+and community engagement in forest-based rural tourism, where local knowledge and
+cultural heritage contribute to both tourism experiences and forest conservation efforts.
+This bibliometric network analysis highlights the value of integrated tourism strategies that
+simultaneously foster economic, cultural, and environmental sustainability, particularly in
+forested rural areas where these aspects are tightly interwoven.
+Rural tourism has notable socio-economic and environmental impacts, offering both
+benefits and challenges (Table 3). Economically, it diversifies rural economies, creates jobs
+in hospitality, retail, and services, and drives infrastructure development like roads and
+utilities [61–64]. It also promotes local crafts and products. However, jobs can be seasonal
+and low-paying, leading to instability, while increased demand may cause inflation, af-
+fecting affordability for locals. In forested areas, rural tourism can provide sustainable
+income streams for local communities through activities such as eco-tourism, forest tours,
+and forest product sales. According to the results from the bibliometric analysis, keywords
+such as ‘eco-tourism’ and ‘sustainable tourism’ were identified as significant, indicating
+that the economic contributions of rural tourism are increasingly tied to sustainability and
+environmental conservation. Socially, rural tourism encourages cultural exchange and
+community empowerment, fostering cultural appreciation and participation [65]. How-
+ever, it may also lead to the commercialization of local traditions and exacerbate social
+inequalities [66]. In forested regions, the commercialization of forest-based traditions and
+products can lead to the depletion of local resources and undermine cultural practices tied
+to sustainable forest management practices. The bibliometric analysis results, particularly
+the identification of keywords like ‘community participation’ and ‘sustainability’, suggest
+that local engagement in tourism development is crucial for maintaining the integrity of
+cultural practices and ensuring that tourism benefits are distributed equitably. The integra-
+tion of sustainable tourism practices, as emphasized in the bibliometric study, is crucial
+for balancing the economic and cultural benefits of rural tourism with the need to pre-
+
+
+Forests 2025, 16, 1559
+11 of 40
+serve forest ecosystems and the associated community-based practices. Environmentally,
+tourism can fund conservation efforts and raise awareness of sustainable practices [67], but
+it can also result in environmental degradation, such as habitat destruction, pollution, and
+resource depletion [68]. Increased demand for local resources like water and energy can
+lead to unsustainable consumption patterns. In forest ecosystems, tourism may contribute
+to deforestation, soil erosion, and habitat degradation [69,70]. Thus, sustainable forest
+management is essential to mitigate these adverse effects [71,72]. The bibliometric analysis
+corroborates these findings, revealing the growing concern within the research community
+about the ecological consequences of tourism, particularly in forested areas. Keywords
+such as ‘ecosystem services’ and ‘sustainable development’ were prominent in the analysis,
+highlighting the need for integrated management strategies that balance tourism growth
+with ecological preservation.
+Table 2. Overview of rural tourism types, activities, benefits, and role in sustainable tourism.
+Type of Rural
+Tourism
+Description
+Activities
+Benefits
+References
+Agro-tourism
+Visitors engage
+directly in agricultural
+activities, providing a
+firsthand experience of
+rural life and
+farming practices
+Farm stays, harvesting
+crops, workshops, farm
+tours, farm-to-table
+experiences
+Economic support for
+local farmers, education
+on sustainable farming
+practices, promotion of
+local food and products
+[73,74]
+Eco-tourism
+Focuses on
+environmental
+conservation,
+sustainability, and
+awareness of the
+natural world, with
+minimal
+environmental impact
+Wildlife viewing,
+conservation projects,
+workshops, and
+environmental
+education
+Encouragement of
+natural resource
+conservation, economic
+benefits for local
+communities, and
+increased awareness of
+environmental issues
+[75,76]
+Adventure tourism
+Promotes physical
+fitness, offers
+adrenaline-pumping
+experiences, and
+showcases the
+ruggedness of
+rural landscapes
+Hiking and trekking,
+mountain biking,
+zip-lining, rock climbing
+and abseiling,
+water sports
+Promote physical fitness
+and outdoor activity,
+offer adrenaline-
+pumping experiences
+and personal challenges,
+and showcase the
+natural beauty and
+ruggedness of
+rural areas
+[77,78]
+Cultural tourism
+Immerses visitors in
+the cultural heritage,
+traditions, and
+practices of rural
+communities, focusing
+on cultural experiences
+Participation in local
+festivals, traditional
+dances, and religious
+ceremonies, homestays,
+workshops on learning
+traditional crafts,
+cooking activities for
+preparing traditional
+dishes using local food
+items, and historical
+site visits
+Preserve and promote
+cultural heritage,
+provide a deeper
+understanding of local
+customs and traditions,
+and create economic
+opportunities for rural
+communities through
+tourism
+[79,80]
+Source: Table generated by the authors.
+
+
+Forests 2025, 16, 1559
+12 of 40
+Table 3.
+Economic, social, and environmental impacts of rural tourism with improvement
+recommendations.
+Impact Category
+Positive Impacts
+Negative Impacts
+Recommendations
+References
+Economic
+Increased income for
+local businesses
+Inflation of local
+goods and
+services prices
+Sustainable pricing
+strategies and provide
+support for local businesses
+to manage growth
+[81,82]
+Job creation
+Seasonal
+employment
+Develop year-round
+tourism opportunities and
+reduce reliance on
+seasonal employment
+[83]
+Diversification of the
+local economy
+Dependence on
+tourism
+Promote alternative
+industries and
+small enterprises
+[84]
+Infrastructure
+development
+Economic leakage
+(profits going to
+external investors)
+Ensure the benefits of
+infrastructure development
+to the local community and
+sustainable practices to
+prevent economic leakage
+[85]
+Social
+Cultural exchange
+and preservation
+Loss of local culture
+and traditions
+Protect and promote local
+culture and traditions, and
+involve the local
+community in
+tourism planning
+[86]
+Improved
+community services
+and facilities
+Overcrowding and
+social stress
+Plan and manage tourism
+growth to prevent
+overcrowding and ensure
+adequate facilities for
+handling increased demand
+[87]
+Strengthening of
+local communities
+Displacement of
+local populations
+Community-led tourism
+initiatives and policies, and
+equal distribution of
+tourism benefits to
+the community
+[88]
+Educational
+opportunities
+Inequitable
+distribution of
+tourism benefits
+Training and educational
+programs for local
+communities, enhance the
+skills of local communities,
+and ensure the benefit of
+tourism to the
+local community
+[89]
+Environmental
+Promotion of
+conservation efforts
+Habitat destruction
+and biodiversity loss
+Integrate tourism with
+conservation projects and
+develop eco-tourism
+models to
+protect biodiversity
+[90]
+Increased awareness
+of environmental
+issues
+Pollution (air,
+water, noise)
+Conduct educational
+campaigns targeting both
+tourists and locals, reduce
+pollution, and encourage
+environmentally
+friendly practices
+[91]
+
+
+Forests 2025, 16, 1559
+13 of 40
+Table 3. Cont.
+Impact Category
+Positive Impacts
+Negative Impacts
+Recommendations
+References
+Environmental
+Support for
+sustainable practices
+Increased waste
+generation
+Establish waste
+management programs and
+enforce regulations to
+minimize
+environmental impact
+[92]
+Preservation of
+natural landscapes
+Overuse of natural
+resources
+Implement strict land-use
+policies to protect natural
+landscapes and prevent
+overuse of natural resources
+[93]
+Source: Table generated by the authors.
+4.2. Balancing Ecosystem Services for Sustainability in Forests
+Ecosystem services are benefits humans derive from natural ecosystems, supporting
+well-being [94–96]. Rapid land-use changes from rural development and urbanization have
+altered perceptions of these services, affecting sustainability and human well-being [97].
+The role of forests in this context is pivotal, as they provide a range of services, from
+carbon sequestration to biodiversity conservation, which are integral to ecosystem stability.
+Among the selected 142 studies, several are related to the ecosystem services and forests,
+highlighting the critical role forests play in providing these services. The ESF offers a
+valuable approach to understanding the complex relationship between nature and society,
+as evidenced by the bibliometric analysis. The analysis highlighted key themes such as
+‘carbon sequestration’, ‘biodiversity conservation’, and ‘sustainable forest management’,
+which are central to discussions of balancing ecosystem services in forested areas [98].
+Prominent since the 2005 Millennium Ecosystem Assessment, ecosystem services are
+categorized into provisioning, regulating, cultural, and supporting services, each with
+positive and negative impacts, as discussed in Table 4.
+Provisioning services are the tangible outputs that humans derive directly from nature,
+such as food, water, timber, and medicinal resources. These resources are the foundation of
+human survival and economic activity [16]. The bibliometric analysis included 36 papers
+on rural tourism associated with ecosystem services, with provisioning services often dis-
+cussed in the context of forests providing timber, non-timber forest products, and medicinal
+plants, supporting local economies and rural livelihoods. However, the exploitation of
+these services, often driven by unsustainable practices, has led to the depletion of natural
+resources, threatening food security and access to clean water [99]. The challenge lies in
+balancing resource extraction with conservation efforts to ensure long-term availability for
+future generations. The bibliometric analysis confirmed that ‘sustainability’ and ‘resource
+management’ are frequently discussed themes in research, emphasizing the importance
+of balancing provisioning services with conservation practices. Key metrics for evalua-
+tion includes the sustainability index of resource extraction rates, the generation capacity
+of forests, and biodiversity indicators, which can help determine whether provisioning
+services are being used at a sustainable rate. Forests also offer regulating services, such
+as water filtration and climate stabilization, which are essential to the sustainability of
+agricultural and rural communities [100]. Regulating services encompass natural processes
+that help maintain environmental stability, including climate regulation, disease control,
+water purification, and pollination [101]. For instance, wetlands act as natural water filters,
+while forests sequester carbon, mitigating climate change [102]. Forests play a crucial role in
+regulating water cycles and stabilizing local climates, benefiting both human communities
+and wildlife. The bibliometric analysis revealed that 26 studies focused on carbon seques-
+
+
+Forests 2025, 16, 1559
+14 of 40
+tration and climate regulation as central research topics in forest-based ecosystem services.
+Metrics of evaluation for these services include carbon sequestration rates, water quality
+indices, and climate variability reduction measures, which can help assess the efficiency
+of forest ecosystems in maintaining these regulating functions. The degradation of these
+ecosystems can disrupt these services, leading to increased climate variability, the spread
+of diseases, and reduced agricultural productivity. The bibliometric results suggest a grow-
+ing emphasis on the integration of economic valuation into policy-making for regulating
+services, which are often undervalued in decision-making processes. A critical issue here is
+the lack of economic valuation for these services, which often leads to their undervaluation
+and neglect in policy-making [103]. Sustainable forest management practices can enhance
+the regulatory services provided by forests, ensuring a balance between human needs
+and environmental health [104]. Cultural services offer non-material benefits that enrich
+human lives, including recreation, aesthetic pleasure, spiritual enrichment, and educa-
+tion [105,106]. The analysis of 21 papers on cultural tourism reflected a growing interest
+in preserving cultural connections to forests and integrating cultural sustainability with
+ecosystem service discussions. These services are deeply intertwined with human cultures
+and identities. Forests contribute significantly to these cultural services, offering spaces for
+spiritual activities, recreation, and connection with nature. However, rapid urbanization,
+habitat destruction, and climate change threaten these experiences, disconnecting people
+from nature. The bibliometric analysis highlighted emerging topics like ‘cultural sustain-
+ability’ and ‘community engagement’, reflecting a growing research interest in preserving
+cultural connections to forests. This disconnection can lead to a loss of cultural identity
+and decreased public support for conservation efforts. Evaluation metrics for cultural
+services could include visitor satisfaction surveys, cultural engagement indicators, and
+community-based monitoring programs, all of which measure the level of cultural value
+derived from forest ecosystems. Supporting services are the fundamental processes that
+underpin all other ecosystem services, such as nutrient cycling, soil formation, and primary
+production [107]. The bibliometric search identified 22 papers focusing on supporting
+services, such as nutrient cycling and soil fertility. These processes maintain the conditions
+necessary for life on Earth. The importance of these services cannot be overstated, as they
+form the basis of all ecosystems. Forests, as a key component of ecosystems, support vital
+supporting services, such as nutrient cycling and soil formation, which sustain agricultural
+productivity and biodiversity. Yet, their invisible nature often results in their undervalua-
+tion. The bibliometric analysis found that supporting services, such as ‘nutrient cycling’
+and ‘soil fertility’, are critical yet underemphasized in both research and policy discussions.
+Metrics for evaluation of supporting services include soil fertility levels, nutrient cycling
+efficiency, and biodiversity assessments, which can help track the health of foundational
+processes that sustain forest ecosystems. Human activities like deforestation, intensive
+agriculture, and urbanization have significantly altered these processes, leading to soil
+degradation, loss of biodiversity, and diminished ecosystem resilience [107–109].
+In conclusion, ecosystem services are essential to human well-being, providing critical
+resources, stability, and cultural value. The bibliometric analysis revealed that the research
+community is increasingly focusing on integrating ecosystem service evaluations into
+forest management and urban planning. Forests are at the heart of these services, offering
+essential benefits such as climate regulation, biodiversity, and cultural experiences, making
+them indispensable to sustainable development. However, rapid land-use changes driven
+by urbanization and unsustainable practices have disrupted these services, threatening
+both environmental sustainability and human quality of life. The bibliometric analysis
+corroborates this, revealing that current research is increasingly focused on the integration
+of ecosystem service evaluation into forest management and urban planning. ESF offers a
+
+
+Forests 2025, 16, 1559
+15 of 40
+valuable approach to understanding the complex relationship between nature and society.
+It is crucial to recognize the interconnectedness of provisioning, regulating, cultural, and
+supporting services, and to take action that balances resource extraction with conservation.
+Evaluation metrics such as sustainability indices, carbon sequestration rates, soil fertility
+measures, and biodiversity indicators are necessary tools for ensuring the long-term health
+of ecosystems. To ensure the long-term health of ecosystems and the benefits they provide,
+we must prioritize the economic valuation of these services, promote sustainable practices,
+and foster a deeper connection between people and nature.
+Table 4. Ecosystem services in rural tourism: impacts and improvement recommendations.
+Ecosystem
+Service
+Positive Impacts
+Negative Impacts
+Recommendations
+References
+Benefits
+Target Items
+Issues
+Reason
+Provisioning
+services
+Increased
+income
+Local food
+production
+and
+handicrafts
+Overexploitation
+of local
+resources
+Overfishing
+and
+deforestation
+Promote sustainable
+harvesting practices
+and eco-certification
+[99,110,111]
+Regulating
+services
+Preservation
+of natural
+landscapes
+Eco-friendly
+tourism
+practices
+Pollution and
+waste
+accumulation
+Increased
+tourist activities
+Implement strict waste
+management practices
+and educate tourists on
+low-impact activities
+[112,113]
+Cultural
+services
+Enhancement
+of cultural
+heritage
+Tourism-
+related
+activities
+Cultural
+erosion and
+commodifica-
+tion of
+traditions
+Lack of
+knowledge and
+the importance
+of local
+cultural values
+Support
+community-based
+tourism that respects
+and preserves
+local traditions
+[105,114,115]
+Supporting
+services
+Conservation
+of
+biodiversity
+Protected
+areas and
+reserves
+Habitat
+fragmentation
+and loss of
+biodiversity
+infrastructure
+development
+Encourage responsible
+infrastructure
+development and
+support conservation
+initiatives
+[116,117]
+Water
+services
+Investment in
+local water
+infrastructure
+High tourism
+demand
+Water scarcity
+and
+degradation of
+water quality
+Overuse and
+contamination
+Promote water
+conservation practices
+and sustainable water
+management policies
+[118,119]
+Soil services
+Promotion of
+organic
+farming and
+sustainable
+land-use
+Eco-tourism
+Soil erosion and
+degradation
+Increased foot
+traffic and
+construction
+Implement land-use
+planning and soil
+conservation measures
+[120,121]
+Source: Table generated by the authors.
+4.3. Rural Tourism and Ecosystem Services: Balancing Impact in Forests
+Rural tourism and ecosystem services are closely connected, with each influencing the
+other. Rural tourism depends on ecosystem services like clean water, biodiversity, and fer-
+tile soil, which support activities such as nature walks and agro-tourism [122,123]. Among
+the selected studies, several focused on the relationship between tourism and ecosystem
+services. Forests play a central role in providing these ecosystem services, offering habitats
+for wildlife, regulating water cycles, and contributing to carbon sequestration [124]. In
+return, tourism can promote conservation, support local economies, and raise environ-
+mental awareness. However, if not managed sustainably, tourism can harm ecosystems
+through overuse, pollution, and habitat degradation. The bibliometric analysis highlighted
+the key role of ‘sustainable tourism’ and ‘biodiversity conservation’, which were frequently
+discussed themes in current research on rural tourism and ecosystems. Research showed
+
+
+Forests 2025, 16, 1559
+16 of 40
+that balancing tourism impacts requires implementing sustainable practices, with an em-
+phasis on monitoring ecosystem health and tourism’s environmental footprint through
+metrics like biodiversity indices and soil erosion rates. Uncontrolled tourism in forested
+areas, for example, can lead to deforestation, soil erosion, and loss of biodiversity. This
+supports the need for evaluation metrics, such as visitor impact assessments and ecosystem
+health indicators, which were found to be central in the research network for guiding the
+sustainable management of tourism in forested landscapes. A total of 36 papers explored
+the importance of sustainable practices in balancing rural tourism and ecosystem service
+impacts, highlighting the need for careful management in forested areas. Sustainable
+practices are crucial to balancing these relationships, ensuring tourism benefits ecosystems
+while maintaining the appeal of rural destinations (Figure 3).
+Figure 3. Association of rural tourism and ecosystem services, highlighting positive (conservation,
+sustainability) and negative impacts (biodiversity loss, pollution). Source: Figure developed by
+the authors.
+Rural tourism can significantly bolster conservation initiatives, as tourist revenues
+often contribute to funding biodiversity protection, habitat restoration, and conservation-
+focused projects. In forested areas, eco-tourism funds are frequently allocated to reforesta-
+tion and wildlife protection programs. The bibliometric analysis revealed that keywords
+such as ‘conservation funding’ and ‘eco-tourism’ were central to the discussion on the
+role of tourism in supporting environmental protection. In areas with eco-tourism pro-
+grams, funds collected through entry fees, guided tours, and conservation donations are
+frequently reinvested in protecting local ecosystems [125,126]. The bibliometric results
+identified 26 studies that discussed the role of eco-tourism in funding conservation projects
+and supporting local economies. Metrics identified in the literature, such as the amount
+
+
+Forests 2025, 16, 1559
+17 of 40
+of revenue allocated to conservation and reforestation success rates, provide insight into
+the effectiveness of tourism-driven conservation efforts. This financial support enables
+conservation groups and local communities to monitor and manage ecosystems actively,
+contributing to the sustainable maintenance of biodiversity and ecosystem resilience. To
+evaluate the effectiveness of such financial investments, metrics like the amount of revenue
+allocated to conservation, reforestation success rates, and wildlife population recovery
+rates can provide insight into the positive impacts of tourism. In forested landscapes, this
+support can help mitigate the negative effects of logging and deforestation. Rural tourism
+often encourages sustainable resource use and environmental stewardship. The bibliomet-
+ric analysis emphasized sustainable resource practices, with ‘eco-friendly practices’ and
+‘environmental stewardship’ highlighted as crucial for reducing tourism’s ecological impact.
+A total of 22 studies focused on eco-friendly practices in rural tourism, showing their role
+in reducing the tourism footprint. Tour operators and local communities may implement
+eco-friendly practices, such as water conservation, waste management, and renewable
+energy usage, to reduce the tourism industry’s ecological footprint [127]. Such practices
+contribute to the maintenance of regulating services like clean water, soil conservation,
+and climate stability [128,129]. The research network suggests that the implementation of
+these practices should be evaluated using metrics such as water usage efficiency, waste
+reduction rates, and carbon footprint calculations to measure the success of sustainability
+tourism operations. Sustainable forest management practices are often promoted within
+these eco-friendly initiatives, aiming to balance the needs of tourism with the protection
+of vital forest resources. In addition, tourist education programs help increase awareness
+about the importance of sustainable resource use, encouraging both tourists and residents
+to adopt environmentally friendly behaviors. Keywords like ‘educational programs’ and
+‘sustainability awareness’ were identified as central themes, reflecting the importance of
+fostering understanding about the role of forests in providing ecosystem services. The
+bibliometric analysis identified 19 papers focusing on the educational role of tourism in
+promoting sustainability awareness and resource conservation. These programs often
+highlight the importance of forests in providing ecosystem services such as carbon stor-
+age, water regulation, and biodiversity conservation. To assess the effectiveness of these
+educational programs, metrics like changes in visitor knowledge, behavioral shifts, and
+participation in conservation activities can provide valuable insights. Through tourism-
+driven conservation initiatives, degraded lands are sometimes restored to enhance their
+appeal to tourists. The bibliometric analysis emphasized the positive role of tourism in land
+restoration, identifying ‘reforestation’ and ‘soil restoration’ as key areas of focus for the
+contribution of tourism to ecosystem services. Reforestation, soil restoration, and habitat
+protection programs not only improve aesthetic appeal but also strengthen supporting
+ecosystem services like nutrient cycling, soil formation, and water retention [51,52]. The
+bibliometric analysis confirmed that 22 studies focused on the impact of tourism in sup-
+porting restoration projects and improving ecosystem health. Metrics such as soil health
+indicators, biodiversity assessments, and water retention capacity measurements are crucial
+for evaluating the long-term benefits of these restoration efforts, both for ecosystems and
+tourism. For instance, replanting native vegetation can stabilize soil, reduce erosion, and
+restore biodiversity, enhancing ecosystem health and resilience. The bibliometric analysis
+emphasized that these restoration activities are frequently cited as examples of successful
+integration of tourism and ecosystem service preservation. In forested areas, reforestation
+efforts can directly improve habitat quality for wildlife, increase carbon sequestration, and
+enhance water retention. Rural tourism can heighten appreciation for cultural ecosystem
+services by preserving traditional knowledge, landscapes, and practices that are integral to
+rural identity [130,131]. Cultural heritage sites, scenic landscapes, and traditional agricul-
+
+
+Forests 2025, 16, 1559
+18 of 40
+tural practices are often preserved and promoted to attract tourists, thereby maintaining the
+cultural ecosystem services they provide [22,23,132]. The bibliometric analysis identified
+21 studies on the role of cultural heritage preservation in rural tourism, emphasizing the
+importance of maintaining cultural connections to ecosystems. Forests contribute to these
+cultural services by being an integral part of rural traditions, such as forest-based harvest-
+ing practices, indigenous knowledge of forest management, and the cultural significance
+of natural landscapes. The preservation of these elements fosters a connection to nature
+among visitors and residents, reinforcing the societal value of conservation. The results
+indicated that ‘cultural heritage preservation’ and ‘community involvement’ are key themes
+in sustainable rural tourism, highlighting the need to maintain cultural values alongside
+environmental sustainability. Metrics for cultural service evaluation could include the
+preservation of traditional practices, the number of cultural heritage sites maintained, and
+community involvement in cultural tourism to ensure that cultural values are upheld
+alongside environmental sustainability.
+In conclusion, rural tourism plays a crucial role in supporting conservation efforts
+by generating funds for biodiversity protection and habitat restoration. The bibliometric
+analysis reaffirmed that rural tourism, especially in forested areas, promotes sustainable
+forest management, reforestation, and wildlife protection, contributing to both environmen-
+tal protection and local economic growth. Tourism in forested areas is especially effective
+in promoting sustainable forest management, reforestation, and wildlife protection. It
+promotes sustainable resource use and environmental stewardship through eco-friendly
+practices and educational programs, which help reduce the ecological impact of tourism.
+The bibliometric findings confirm that sustainable tourism in forested areas supports these
+goals by integrating community-based practices and environmental education into tourism
+development. Through eco-tourism, forest landscapes can be restored, contributing to
+both ecosystem resilience and the long-term sustainability of rural tourism. By preserving
+cultural heritage and landscapes, it fosters a deeper connection between visitors and the
+environment, reinforcing the importance of conservation. Ultimately, rural tourism can be
+a powerful tool for balancing economic development with ecological preservation. Ulti-
+mately, rural tourism can be a powerful tool for balancing economic development with
+ecological preservation, provided that it is guided by clear evaluation metrics to monitor
+its sustainability.
+Rural tourism can also affect ecosystem services through various negative impact
+mechanisms, as illustrated in Figure 4. For instance, high tourist activity can damage fragile
+natural habitats, particularly in ecologically sensitive areas such as wetlands, forests, and
+coastal zones. The results from the bibliometric analysis emphasize that ‘tourism impacts’
+and ‘ecosystem degradation’ are frequently discussed themes in the literature, highlight-
+ing the growing concern about the environmental pressures caused by tourism activities.
+Among the selected 142 studies, several discussed the impact of tourism on ecosystems,
+emphasizing the need for sustainable tourism practices. In forests, increased foot traffic can
+compact soil, damage tree roots, and disturb understory vegetation, reducing the forest’s
+capacity to provide critical services such as carbon sequestration and biodiversity support.
+The research results highlighted that keywords such as ‘soil compaction’, ‘erosion’, and
+‘habitat degradation’ are closely linked to the negative effects of tourism, particularly in
+forested regions, emphasizing the need for sustainable management practices. Increased
+foot traffic and vehicle use can lead to soil compaction, erosion, and vegetation loss, which
+reduce the effectiveness of ecosystem services such as soil fertility, water filtration, and
+flood control [16,133,134]. The bibliometric analysis further indicated that ‘soil fertility’
+and ‘water quality’ were commonly identified metrics used in research to evaluate the
+degradation caused by tourism. In forested areas, soil compaction reduces water infiltra-
+
+
+Forests 2025, 16, 1559
+19 of 40
+tion, increases surface runoff, and contributes to erosion, which disrupts nutrient cycling
+and water retention. Metrics like ‘water infiltration rates’ and ‘runoff levels’ were identi-
+fied as key indicators in research for assessing the impact of tourism on soil health and
+water cycles. The bibliometric results showed that 36 studies mentioned the importance
+of monitoring soil and water metrics to assess tourism impacts. In extreme cases, this
+degradation can lead to habitat fragmentation, threatening local wildlife and biodiversity
+and diminishing the capacity of ecosystems to support diverse life forms. The analysis
+revealed a growing emphasis on ‘habitat fragmentation’ and its consequences for wildlife
+in tourism-focused research. A total of 26 papers discussed habitat fragmentation as a
+significant consequence of tourism development, particularly in forests. Fragmentation
+of forest habitats due to tourism infrastructure, such as roads and resorts, isolates wildlife
+populations, limiting their access to resources and disrupting migratory patterns. Tourism
+can also place considerable pressure on local resources like water, land, and energy, of-
+ten leading to their depletion [68,135]. For instance, areas experiencing high volumes of
+tourism may face excessive water extraction to cater to hotels, restaurants, and recreational
+facilities, impacting local communities’ and agricultural needs [136]. In the bibliometric
+analysis, ‘water depletion’ and ‘resource overuse’ were identified as significant concerns
+in regions heavily impacted by tourism, with particular attention to the pressure placed
+on forested watersheds. The analysis revealed that 22 studies highlighted the impact of
+tourism on local resources, including water, land, and energy. In forested regions, overuse
+of water for tourism-related activities can deplete freshwater sources that rely on forested
+watersheds, undermining water quality and availability. This resource overuse can impair
+provisioning services such as freshwater availability and food production, affecting both
+human communities and ecosystem health. Likewise, waste generation and pollution
+are common byproducts of rural tourism, particularly in areas with inadequate waste
+management infrastructure [137]. The results from the network analysis revealed that
+‘pollution’ and ‘waste management’ are major research themes, highlighting the negative
+environmental impact of tourism infrastructure on forest ecosystems. A total of 19 stud-
+ies discussed waste management and pollution as central challenges in tourism-related
+research. Littering, improper sewage disposal, and pollution from vehicles and boats can
+contaminate water bodies and soil, impacting regulating services like water purification
+and air quality. In forest ecosystems, waste can accumulate in sensitive habitats, damaging
+soil and water quality, and affecting the flora and fauna that rely on these habitats. Metrics
+for evaluating waste-related impacts include ‘waste reduction rates’ and ‘pollution concen-
+tration levels’, which are commonly referenced in the literature assessing the environmental
+footprint of tourism. Pollutants can disrupt aquatic ecosystems, harm wildlife, and even
+pose health risks to local residents, decreasing the sustainability and appeal of tourism
+destinations [138]. The development of tourism infrastructure—such as roads, hotels, and
+recreational facilities—often requires the conversion of natural land [62]. The findings of
+this study corroborate that ‘land conversion’ is a critical issue in tourism-related research,
+with increasing concerns about the environmental consequences of converting forests for
+tourism development. A total of 21 studies discussed land conversion in the context of
+tourism, underlining the importance of sustainable land-use planning. This transformation
+can lead to habitat loss, soil degradation, and disruption of ecosystem services such as car-
+bon sequestration, climate regulation, and pollination. Forest land conversion for tourism
+development often results in the loss of critical habitats for pollinators, seed dispersers,
+and other keystone species, which further threatens biodiversity and ecosystem stability.
+The results indicate a growing emphasis on sustainable land-use planning in tourism, with
+keywords like ‘land-use planning’ and ‘habitat preservation’ central to discussions about
+mitigating the effects of infrastructure development on ecosystems. Urbanization in rural
+
+
+Forests 2025, 16, 1559
+20 of 40
+areas for tourism purposes can also cause the loss of agricultural lands, impacting local
+food production and displacing local communities [139,140]. The influx of tourists and the
+associated noise, light, and activity can disrupt wildlife patterns, causing species to alter
+their natural behaviors or migrate away from disturbed areas [107–109]. The bibliometric
+analysis highlighted ‘noise pollution’ and ‘wildlife disturbance’ as significant factors af-
+fecting the behavior and migration patterns of species in forest ecosystems, indicating a
+need for more sustainable tourism practices to minimize such impacts. The bibliometric
+results showed that 18 studies focused on wildlife disturbance and noise pollution as major
+issues in tourism research. In forests, noise pollution from tourism can disturb the natural
+behavior of wildlife, leading to changes in breeding, feeding, and migration patterns, which
+disrupt the functioning of forest ecosystems. The results indicated that noise pollution
+metrics and wildlife behavior studies are becoming increasingly important in tourism re-
+search, helping to assess the broader ecological effects of tourism on forested environments.
+This disturbance can negatively affect species that are crucial for ecosystem functions, like
+pollinators and seed dispersers, thereby reducing the resilience of ecosystems. Moreover,
+invasive species can be introduced unintentionally through tourism, threatening local bio-
+diversity and altering ecosystem dynamics. The bibliometric analysis identified ‘invasive
+species’ as a major theme, pointing to the role of tourism in the spread of non-native species
+and its detrimental effects on native ecosystems. A total of 17 studies discussed the role of
+tourism in the spread of invasive species, highlighting the importance of managing this
+risk. Tourists may inadvertently introduce non-native species into forested ecosystems
+through hiking gear, vehicles, or plant material, leading to invasive species that compete
+with native flora and fauna. In conclusion, while rural tourism can bring economic benefits,
+it also poses significant risks to ecosystem services. The results of the bibliometric analysis
+reinforce the importance of sustainable tourism practices to balance economic growth with
+environmental protection. The results confirmed that research increasingly focuses on de-
+veloping evaluation metrics and management practices to ensure that rural tourism remains
+environmentally sustainable. The bibliometric analysis revealed that many studies focused
+on developing metrics and practices for assessing and mitigating environmental impacts
+of tourism. The pressure from tourism on forests, wetlands, and other ecosystems can de-
+grade critical services like carbon sequestration, water filtration, and habitat provision. The
+analysis confirmed that research increasingly focuses on developing evaluation metrics and
+management practices to ensure that rural tourism remains environmentally sustainable.
+The negative impacts on fragile habitats, resource depletion, pollution, and habitat loss can
+severely degrade the environmental foundations that support both human and ecological
+well-being. Research trends indicate that monitoring systems for ecosystem health, such
+as biodiversity assessments and soil quality measurements, are essential tools for guiding
+the sustainability of tourism. Tourism infrastructure and increased human activity often
+disrupt natural processes, diminish biodiversity, and threaten the sustainability of local
+ecosystems. Therefore, it is crucial to adopt sustainable tourism practices that prioritize
+conservation, minimize environmental footprints, and promote the long-term health of
+ecosystems to ensure that rural tourism remains a viable and responsible endeavor.
+In conclusion, rural tourism presents both opportunities and challenges in terms of
+its impact on ecosystem services. On the positive side, it supports conservation efforts,
+promotes sustainable resource use, and raises environmental awareness, ultimately con-
+tributing to the preservation of biodiversity and the restoration of degraded lands. The
+results of the bibliometric analysis emphasized the critical role of rural tourism in sup-
+porting conservation efforts, particularly in forested areas, where eco-tourism can fund
+reforestation projects and wildlife habitat protection. The bibliometric analysis revealed
+that among the selected 142 eligible studies, several focused on the positive impacts of
+
+
+Forests 2025, 16, 1559
+21 of 40
+rural tourism, especially in forested regions, highlighting the role of eco-tourism in funding
+reforestation and wildlife protection. Rural tourism, particularly in forested areas, can
+play a critical role in enhancing forest conservation and supporting reforestation projects,
+which restore ecosystem services like carbon sequestration and biodiversity. The analysis
+emphasized the role of eco-tourism revenues in supporting sustainable forest management
+and ecosystem restoration. Through eco-tourism initiatives and financial investments in
+conservation, rural tourism can enhance the resilience of ecosystems and strengthen the
+connection between people and nature. The bibliometric results highlighted ‘sustainable
+forest management’ and ‘ecosystem resilience’ as central themes, with research showing
+that eco-tourism funding can contribute to forest health and biodiversity restoration. In
+forested regions, eco-tourism revenues can fund critical initiatives such as wildlife habitat
+protection, forest restoration, and sustainable forest management, all of which bolster
+forest ecosystem health and resilience. However, the growth of tourism also carries risks,
+including habitat degradation, resource depletion, pollution, and the disruption of natural
+processes. The bibliometric analysis highlighted the need for sustainable management prac-
+tices to balance these risks, including the use of monitoring systems to assess the impacts
+of tourism on forest ecosystems. A total of 26 papers discussed the need for monitoring
+systems to evaluate the ecological impacts of tourism, especially in forested landscapes. In
+forests, increased tourism activity can lead to soil compaction, habitat fragmentation, and
+disturbances to wildlife, undermining the very ecosystems that attract tourists. Metrics like
+‘biodiversity indices’, ‘soil health’, and ‘wildlife disturbance’ were identified as essential
+tools for evaluating and mitigating the negative effects of tourism on forested ecosystems.
+To balance these impacts, it is essential to implement sustainable tourism practices that
+mitigate negative effects while maximizing the benefits of rural tourism. In forested areas,
+sustainable practices such as eco-friendly infrastructure, responsible waste management,
+and the promotion of low-impact activities like hiking and bird watching can help protect
+natural habitats. Research suggests that tourism can also promote sustainable practices like
+water conservation, waste reduction, and carbon footprint management, helping reduce
+the ecological impact of tourism activities. With careful management, rural tourism can
+continue to thrive as a tool for both economic development and environmental steward-
+ship, ensuring the long-term health of ecosystems and the well-being of local communities.
+The findings of this study emphasize that integrating sustainable forest management into
+tourism strategies is crucial to fostering a mutually beneficial relationship between local
+communities, tourists, and the ecosystems they rely on. By integrating sustainable for-
+est management into tourism strategies, rural tourism can foster a mutually beneficial
+relationship between local communities, tourists, and the ecosystems they rely on.
+4.4. Examples of Rural Tourism and Ecosystem Services in Forests
+Rural tourism has become a key driver of conservation efforts and sustainable devel-
+opment, with forests playing a central role in providing vital ecosystem services. Several
+examples illustrate the positive influence of rural tourism on forest conservation, while also
+highlighting the challenges that must be addressed for sustainability. Examining specific
+examples provides valuable insights into the interdependencies between rural tourism
+and ecosystem services and illustrates best practices for balancing economic growth with
+environmental sustainability. Table 5 provides examples of the interplay between rural
+tourism and ecosystem services.
+4.4.1. Biodiversity Conservation Through Eco-Tourism in Monteverde Cloud Forest
+Reserve, Costa Rica
+The Monteverde Cloud Forest Reserve is a notable example of eco-tourism promoting
+biodiversity conservation [141]. The financial resources generated from eco-tourism have
+
+
+Forests 2025, 16, 1559
+22 of 40
+supported local conservation efforts, benefitting the local communities and enhancing
+ecosystem services. Through activities like guided walks and birdwatching, eco-tourism
+has been designed to minimize environmental impact. This model has not only con-
+tributed to the preservation of biodiversity but also reinforced ecosystem services such
+as water regulation, carbon sequestration, and soil fertility. These conservation-driven
+efforts discourage land-use practices like deforestation and agricultural expansion, which
+often degrade these vital services. The interrelationship between eco-tourism and ecosys-
+tem services in Monteverde highlights that when rural tourism is managed to prioritize
+environmental sustainability, it can directly support conservation goals while offering
+socio-economic benefits.
+ 
+Figure 4. Illustration of positive and negative impact mechanisms of rural tourism on ecosystem
+services. Source: Figure developed by the authors.
+
+
+Forests 2025, 16, 1559
+23 of 40
+4.4.2. Sustainable Agricultural Tourism in Tuscany, Italy
+In Tuscany, agro-tourism promotes traditional farming and sustainable land-use,
+directly enhancing ecosystem services [142]. By staying on operational farms, tourists
+support the local economy, allowing farmers to maintain traditional agricultural practices
+that benefit soil fertility, water conservation, and landscape aesthetics. The promotion of
+organic farming and sustainable practices in agro-tourism enhances ecosystem services
+by preserving soil health, reducing water runoff, and maintaining the scenic landscape,
+all of which attract tourism. Tuscany exemplifies the ways in which rural tourism, when
+integrated with local farming traditions, can reinforce ecosystem services, offering lessons
+on strengthening the link between tourism and sustainable land management practices.
+4.4.3. Water Scarcity in Rajasthan, India
+Rural tourism in Rajasthan exemplifies the adverse impact on ecosystem services when
+tourism demand strains local resources [143,144]. The heavy water usage by hotels and
+resorts in this arid region exacerbates local water scarcity, affecting community access to
+water and agricultural needs. This imbalance not only compromises ecosystem services like
+water regulation and provision but also causes social conflicts. Rajasthan’s case highlights
+the critical need for water resource management strategies in areas where tourism and
+limited natural resources intersect, reinforcing the lesson that sustainable tourism requires
+prioritizing local resource needs [145,146].
+4.4.4. Human–Wildlife Conflicts in the Masai Mara, Kenya
+In the Masai Mara, Kenya, tourism infrastructure development has led to habitat
+fragmentation and wildlife disturbances [147,148]. The construction of lodges and roads
+within the reserve has disrupted migration patterns and heightened human–wildlife con-
+flicts [149]. These impacts have adverse effects on biodiversity conservation, recreation,
+and cultural services tied to wildlife, illustrating the complex trade-offs between tourism
+infrastructure development and ecosystem health. Masai Mara’s example stresses the need
+to carefully manage tourism infrastructure to avoid disrupting key ecosystem services and
+highlights the importance of prioritizing habitat connectivity in planning.
+4.4.5. The Lake District, UK
+The Lake District, UK, also demonstrates the potential of rural tourism to drive
+conservation, while also posing risks [150]. The area’s woodlands, vital for regulating
+water cycles and supporting wildlife, are a key attraction for tourists. Revenue from
+tourism is reinvested in forest restoration projects, including tree planting and habitat
+protection. However, the influx of tourists can strain local resources and contribute to
+habitat destruction, pollution, and resource depletion if sustainable management practices
+are not in place [151].
+
+
+Forests 2025, 16, 1559
+24 of 40
+Table 5. Examples of rural tourism and ecosystem services: impacts and improvement recommendations.
+Examples
+Ecosystem Services
+Positive Impacts
+Negative Impacts
+Recommendations
+Ref.
+Monteverde Cloud
+Forest Reserve, Costa Rica
+ 
+Resources like timber,
+non-timber forest products
+(e.g., medicinal plants),
+biodiversity conservation,
+water regulation, carbon
+sequestration, forest
+management, and
+nutrient recycling
+Financial resources for
+conservation, support for
+local communities, and
+minimal environmental
+impact activities
+Deforestation and
+water scarcity
+Continue promoting
+eco-tourism with strict
+environmental
+guidelines to prevent
+over-tourism
+[129,141]
+Tuscany, Italy
+ 
+Timber and forest
+products, soil fertility,
+water conservation, carbon
+storage, nutrient recycling,
+and landscape aesthetics
+Preservation of traditional
+farming, support for the
+local economy, and
+promotion of
+organic farming
+Soil erosion and
+damage to
+vegetation and
+forest
+Encourage sustainable
+agricultural practices
+and maintain
+small-scale tourism to
+avoid landscape
+degradation
+[152,153]
+Amazon Rainforest, Brazil
+ 
+Food, timber, and
+medicinal plants,
+regulation of global
+climate, carbon dioxide
+storage, freshwater
+availability, forest
+biodiversity, preservation
+of species, and
+nutrient recycling
+Revenue generation,
+education and cultural
+exchange programs,
+protection of illegal
+logging, promotion of
+restoration of degraded
+areas, and
+climate regulation
+Challenges of
+preventing illegal
+logging, mining,
+and agricultural
+practices
+jeopardize of
+sustainability of
+the forest
+and tourism
+Enforce strict laws
+against illegal logging
+and mining, promote
+sustainable tourism,
+restore degraded areas,
+and enhance climate
+regulation and
+biodiversity protection.
+[154]
+
+
+Forests 2025, 16, 1559
+25 of 40
+Table 5. Cont.
+Examples
+Ecosystem Services
+Positive Impacts
+Negative Impacts
+Recommendations
+Ref.
+Black Forest, Germany
+ 
+Timber, medicinal plants,
+freshwater resources,
+mitigating floods, carbon
+sequestration, biodiversity,
+and maintaining
+soil health
+Sustainable forest
+management practices,
+generating revenue,
+reforestation and
+biodiversity protection,
+preservation of resources
+and habitats
+Environmental
+footprints
+Implement sustainable
+forest management,
+promote reforestation,
+protect biodiversity,
+reduce environmental
+footprints, and
+preserve resources and
+habitats for
+long-term benefits.
+[155,156]
+Tongariro National Park, New Zealand
+ 
+Timber, food, water
+resources, soil
+preservation, biodiversity,
+and ecosystem health
+Forest conservation,
+economic benefits,
+reforestation projects and
+native species protection,
+and management of
+tourist flow and
+tourism activities
+Challenges of
+tourism growth
+affecting
+conservation
+efforts, habitat
+degradation, and
+resource depletion
+Promote sustainable
+forest conservation,
+enhance reforestation
+projects, manage
+tourism flow to
+minimize habitat
+degradation, and
+protect native species
+while balancing
+economic benefits.
+[157]
+Borneo, Malaysia
+ 
+Food, timber, medicinal
+plants, water conservation,
+mitigate natural disasters,
+biodiversity support of
+endemic species, and
+carbon sequestration
+Forest conservation,
+economic contribution,
+reforestation,
+anti-poaching, habitat
+restoration, protection of
+wildlife, and
+Borneo’s rainforests
+Prevention of
+deforestation,
+illegal logging,
+and palm oil
+plantation, habitat
+fragmentation,
+and
+environmental
+degradation
+Promote forest
+conservation,
+strengthen
+anti-poaching efforts,
+support reforestation,
+enforce stricter laws
+against deforestation,
+and protect
+wildlife habitats.
+[158,159]
+
+
+Forests 2025, 16, 1559
+26 of 40
+Table 5. Cont.
+Examples
+Ecosystem Services
+Positive Impacts
+Negative Impacts
+Recommendations
+Ref.
+Lake District, Finland
+ 
+Soil fertility, water
+regulation, and habitat
+provision
+Investment in agricultural
+projects and support for
+local flora and fauna
+Over-tourism
+leads to soil
+erosion,
+vegetation
+damage, and
+disturbance to
+wildlife
+Develop and enforce
+visitor caps, improve
+infrastructure, and
+promote
+off-season tourism
+[160]
+Lake District, UK
+ 
+Timber, food resources,
+sustainability, water
+regulation, carbon storage,
+resource efficiency, and
+climate change mitigation
+Sustainable energy
+solutions and reduce
+reliance on fossil fuels,
+waste recovery,
+and utilization
+Negative
+environmental
+impact of material
+sourcing and
+production, high
+initial cost of
+thermoelectric
+materials, leading
+to resource
+depletion
+Use of eco-friendly
+materials, developing
+cost-effective methods,
+recycling, and
+sustainable waste
+disposal methods
+[161,162]
+Lakes in Rajasthan, India
+ 
+Medicinal plants, food
+resources, water
+regulation and provision,
+maintain biodiversity,
+support pollinators and
+other local species
+Introduction of water
+supply projects and job
+opportunities to
+local communities
+Overuse of water
+resources, conflict
+over water, and
+impact on local
+communities and
+agriculture
+Implement water
+conservation measures,
+encourage water
+recycling in tourism
+facilities, and regulate
+water usage
+[143,144]
+
+
+Forests 2025, 16, 1559
+27 of 40
+Table 5. Cont.
+Examples
+Ecosystem Services
+Positive Impacts
+Negative Impacts
+Recommendations
+Ref.
+Masai Mara, Kenya
+ 
+Timber, non-timber
+products, medicinal plants,
+biodiversity conservation
+and cultural services,
+water and climate
+regulation, flood control
+Investment in wildlife
+projects and job
+opportunities for
+local communities
+Habitat
+fragmentation,
+disturbance to
+wildlife, and
+human–wildlife
+conflicts
+Limit construction
+within reserves,
+develop wildlife
+corridors, and enforce
+strict land-use
+planning
+[147,148]
+Source: Table generated by the authors.
+
+
+Forests 2025, 16, 1559
+28 of 40
+The statistics shown in Figure 5 reveal that rural tourism research has a notable geo-
+graphical bias, with Europe and Asia dominating the examples. Africa, South America, and
+Oceania have far fewer studies, indicating potential underrepresentation in these regions.
+A possible reason for this imbalance could be limited infrastructure, low investment in rural
+tourism, and a lack of awareness about the potential economic and environmental benefits
+in these areas. In Africa, for example, rural tourism may not be a widespread practice due
+to historical factors such as economic constraints and limited governmental support for
+tourism-related conservation initiatives [163]. Additionally, local communities may not be
+sufficiently engaged or empowered to develop sustainable tourism ventures that can also
+enhance ecosystem services. To encourage research and the development of rural tourism
+in these underrepresented regions, several steps can be taken. First, governments and
+local stakeholders should invest in improving the infrastructure and accessibility of rural
+areas, making them more attractive to tourists [164]. Second, collaborative research efforts
+between international organizations, local researchers, and government agencies could help
+raise awareness and build capacity for sustainable tourism practices [165]. Third, examples
+focusing on the specific needs and challenges of these regions should be developed to
+create region-specific guidelines for balancing tourism with ecosystem service conservation.
+Finally, it is essential to engage local communities in the planning and implementation
+of rural tourism initiatives, ensuring that they benefit directly from sustainable tourism
+revenues while also safeguarding the environment.
+ 
+Figure 5. Continent-wise distribution of rural tourism examples. Source: Figure developed by
+the authors.
+4.5. Conservation Practices for Sustainable Rural Tourism
+Best practices for conservation in rural tourism are crucial for protecting natural ecosys-
+tems and ensuring sustainability. Key practices include eco-friendly accommodations, such
+as renewable energy [166], water-saving technologies [167], and waste management sys-
+
+
+Forests 2025, 16, 1559
+29 of 40
+tems [168,169]. The bibliometric analysis confirmed that ‘sustainable accommodation’
+and ‘eco-friendly infrastructure’ are key themes in research focused on minimizing the
+environmental footprint of tourism. A total of 36 studies emphasized the role of sustain-
+able infrastructure in reducing environmental impact of tourism, particularly in forested
+areas, where eco-friendly accommodations help minimize deforestation, reduce waste,
+and promote sustainable forest management practices. Recent findings from the keyword
+co-occurrence network analysis indicate that the focus on ‘sustainable forest management’
+and ‘eco-tourism practices’ is expanding, particularly in forested regions where tourism
+can have significant environmental impacts. Low-impact activities like nature walks and
+non-motorized water sports reduce ecological footprints. Tourism in forested areas can
+be particularly sensitive, so promoting non-invasive activities such as bird watching and
+forest hiking helps protect delicate ecosystems. The results from the VOSviewer anal-
+ysis emphasize that ‘low-impact tourism activities’ and ‘visitor behavior’ are central to
+discussions about reducing tourism’s negative environmental effects. The bibliometric
+analysis found that 28 studies explored low-impact tourism activities, with a particular
+focus on their role in protecting forest ecosystems. Strict regulations in protected areas,
+like limiting visitors and offering educational programs, help maintain ecological integrity.
+The analysis also highlighted ‘visitor impact management’ as a growing research focus,
+pointing to the importance of limiting tourist numbers and regulating behavior to ensure
+that tourism does not harm sensitive ecosystems. Community involvement strengthens
+conservation efforts by incorporating local knowledge. In forest regions, involving indige-
+nous and local communities in forest management and conservation strategies ensures that
+traditional knowledge is integrated with modern eco-tourism practices. The bibliometric
+results showed that ‘community-based conservation’ and ‘local knowledge integration’ are
+emerging themes in forest tourism research, underlining the importance of collaborative
+conservation efforts. A total of 22 studies emphasized the importance of community in-
+volvement, particularly in forest regions, where local knowledge is integrated into modern
+eco-tourism practices. Costa Rica’s national parks are a successful example of integrating
+eco-tourism and conservation through well-managed visitor programs [129]. Best practices
+for conservation in rural tourism are mitigating negative effects of rural tourism require
+a balanced approach between development and environmental protection. In forested
+regions, balancing eco-tourism development with forest conservation requires zoning reg-
+ulations to protect critical habitats and restrict tourism to sensitive areas. The keyword
+co-occurrence analysis revealed that ‘zoning regulations’ and ‘tourism management’ are
+central to forest conservation discussions, suggesting that careful planning is necessary to
+protect ecosystems from tourism overuse. A total of 19 studies discussed zoning regula-
+tions in the context of sustainable tourism management, highlighting the importance of
+planning to prevent overdevelopment and preserve ecosystems. Strategies include zon-
+ing regulations to prevent overdevelopment, promoting local resources to reduce carbon
+footprints, and educating tourists on sustainable practices. Research highlighted ‘car-
+bon footprint reduction’ and ‘sustainability education’ as important tools for minimizing
+tourism’s environmental impact. A total of 26 papers identified carbon footprint reduction
+as a key strategy in sustainable tourism, with a focus on promoting eco-friendly practices.
+Investments in infrastructure, such as waste treatment and sustainable transportation, also
+help manage tourism impacts. The analysis indicated that investments in ‘sustainable
+infrastructure’ and ‘green transportation’ are frequently cited in the literature as effective
+strategies to reduce the environmental footprint of tourism. The bibliometric results showed
+24 studies focused on sustainable infrastructure development, including renewable energy,
+waste management, and green transportation systems, as essential components of sustain-
+able tourism. In forests, eco-friendly infrastructure such as low-impact trails, sustainable
+
+
+Forests 2025, 16, 1559
+30 of 40
+waste management systems, and renewable energy sources helps reduce tourism’s environ-
+mental footprint. Engaging local communities in tourism planning fosters ownership of
+conservation efforts, while monitoring systems ensure continuous environmental impact
+assessment [170–172]. The bibliometric analysis revealed that ‘monitoring systems’ and
+‘environmental impact assessments’ are key components in the sustainable management of
+tourism in forested areas, ensuring that tourism does not exceed ecosystem capacity. A total
+of 30 studies discussed the importance of monitoring and assessing environmental impacts,
+focusing on the role of these tools in ensuring sustainable tourism practices. Local commu-
+nities play a critical role in forest conservation, as their participation in forest management
+programs helps safeguard biodiversity and maintain ecosystem services. Research findings
+highlight the importance of ‘community involvement’ and ‘local stewardship’ in sustain-
+able tourism, indicating that local participation is essential for successful conservation
+outcomes. Twenty-two studies emphasized the importance of local stewardship in forest
+conservation and sustainable tourism. Government policies and regulations play a crucial
+role in promoting sustainable rural tourism. Policies should include land-use planning to
+balance tourism with conservation, enforce environmental impact assessments, and provide
+incentives for eco-friendly practices [173–175]. The VOSviewer analysis highlighted the
+importance of ‘policy frameworks’ and ‘regulatory enforcement’ in fostering sustainable
+tourism practices, with a strong focus on ensuring that tourism development aligns with
+environmental protection goals. The bibliometric analysis revealed that 19 studies focused
+on the role of government policies in promoting sustainable tourism, underlining the im-
+portance of regulatory frameworks to support eco-friendly practices. Government policies
+in forested areas should prioritize protecting forest ecosystems, preventing illegal logging,
+and promoting sustainable forest tourism to enhance both environmental protection and
+community well-being. Recent research findings emphasize that ‘policy incentives’ and
+‘legal frameworks’ are critical for ensuring sustainable forest tourism that benefits both the
+environment and local communities. Governments can promote sustainable infrastructure
+development, including renewable energy, water conservation, and waste management
+systems [176–178]. Costa Rica’s environmental policies serve as a model for integrating
+tourism with conservation [129]. Community engagement and participation are vital for
+sustainable tourism. Involving locals in tourism planning ensures that development re-
+flects their values and needs. The bibliometric analysis reinforced that ‘community-based
+tourism’ and ‘participatory planning’ are central to ensuring that rural tourism is aligned
+with local priorities. A total of 24 studies emphasized the importance of participatory
+planning and community-based tourism, highlighting its role in ensuring that tourism
+development aligns with local values and supports conservation. In forest tourism, commu-
+nity involvement is essential for ensuring that forest conservation aligns with the economic
+and social needs of local communities. Community-based tourism initiatives empower res-
+idents, providing economic benefits and fostering environmental responsibility [179–181].
+The analysis identified ‘economic empowerment’ and ‘environmental responsibility’ as
+key outcomes of community-based tourism, highlighting the role of tourism in supporting
+both conservation and local livelihoods. In forested regions, community-based tourism can
+help conserve forests, provide alternative livelihoods, and strengthen local environmental
+stewardship. Research showed that ‘alternative livelihoods’ and ‘biodiversity conservation’
+are frequently associated with successful community-based tourism initiatives. A total
+of 18 studies highlighted the importance of alternative livelihoods in community-based
+tourism, showing the role of tourism in supporting both economic development and envi-
+ronmental protection. Equitable benefit-sharing mechanisms help reduce social inequalities
+and ensure fair economic distribution from tourism. The literature suggests that ‘equi-
+
+
+Forests 2025, 16, 1559
+31 of 40
+table benefit-sharing’ is a critical factor in making rural tourism a sustainable and socially
+responsible endeavor.
+5. Conclusions, Limitations, and Recommendations
+This review examines the relationship between rural tourism and ecosystem services,
+emphasizing both benefits and challenges. Rural tourism supports local economies, cul-
+tural preservation, and development, but can strain natural resources, leading to habitat
+degradation and biodiversity loss if unmanaged. The bibliometric analysis confirmed that
+‘sustainable tourism’ and ‘ecosystem services’ are central to understanding the impact of
+tourism on ecosystems, particularly in forested areas. A total of 142 studies discussed
+the impacts of rural tourism on forest ecosystems and ecosystem services, highlighting
+both positive and negative effects. In forested regions, unmanaged tourism can lead to
+deforestation, soil erosion, and the degradation of vital ecosystem services such as carbon
+sequestration and water filtration. Ecosystem services, essential for tourism, may dimin-
+ish without sustainable practices. Research indicates that eco-tourism and agro-tourism
+offer viable models for balancing tourism with ecosystem protection, highlighting the
+potential for these approaches to enhance both conservation and local economic stability.
+The bibliometric results identified 36 papers that discussed eco-tourism and agro-tourism
+as effective models for balancing economic growth with ecosystem service preservation,
+particularly in forested areas. Forests, in particular, provide crucial ecosystem services
+that sustain tourism, including biodiversity support, climate regulation, and recreational
+opportunities. An integrated approach, combining conservation and community involve-
+ment, is needed. Community-based forest management and sustainable forest tourism are
+essential to balance the demands of tourism with the need to protect forest ecosystems.
+The results show that community-based tourism and local stewardship are key strategies
+to ensure the long-term health of forest ecosystems. A total of 22 studies highlighted the
+role of community-based tourism in conserving forest ecosystems and supporting local
+livelihoods. Eco-tourism, agro-tourism, and community-based tourism offer sustainable
+models, as demonstrated in Costa Rica and Italy. These initiatives generate revenue for con-
+servation and sustainable farming, suggesting their potential to enhance ecosystem services
+and economic stability in rural areas. The bibliometric analysis indicated that ‘community
+engagement’ and ‘sustainable land management’ are central to promoting these models.
+In forested areas, eco-tourism and agro-tourism initiatives can promote sustainable land
+management practices, supporting both conservation goals and local livelihoods.
+This review has several limitations. It only includes peer-reviewed articles published
+in English, potentially overlooking relevant studies in other languages or grey literature
+such as reports and unpublished data. The search was confined to three databases, which
+may have excluded important research from other sources. The analysis did not account for
+emerging research in grey literature, which could provide valuable insights into the impacts
+of rural tourism. The reviewed studies vary widely in geographic focus and methodology,
+limiting the generalizability of the findings. Further research should include examples from
+diverse ecosystems, including forests, to provide a more holistic understanding of rural
+tourism’s impacts on ecosystem services. The results from the bibliometric analysis showed
+that studies focusing on forest ecosystems are underrepresented, emphasizing the need
+for more research in this area. Additionally, most studies are short-term, restricting insight
+into the long-term impacts of rural tourism on ecosystems and communities. Longitudinal
+studies focused on forest ecosystems are particularly needed to understand the impact of
+tourism on forest health, biodiversity, and ecosystem services over time. The findings of the
+bibliometric analysis highlighted the need for long-term studies to track the evolution of
+tourism impacts on forest ecosystems. The review relies on a few well-known examples that
+
+
+Forests 2025, 16, 1559
+32 of 40
+may not represent all rural tourism contexts. Furthermore, there is a lack of quantitative
+meta-analysis to robustly assess the relationships discussed. Finally, rapidly evolving
+factors like climate change and technological innovation may not be fully reflected due
+to the time lag in published research. Climate change, especially its effects on forest
+ecosystems, is a crucial area for future research, as it could further alter the sustainability
+of rural tourism. The growing concern about ‘climate change’ in the bibliometric analysis
+suggests that future studies should address its role in shaping the future of rural tourism.
+The future of rural tourism lies in creating sustainable, community-centered models
+through technology, policy, and education. Innovations like ‘smart tourism technologies’
+and eco-certification systems, identified in the analysis, can help monitor environmental
+impacts and promote responsible tourism practices. Governments should strengthen poli-
+cies that integrate tourism and ecosystem conservation, offering incentives for sustainable
+practices. In forested areas, governments should prioritize policies that promote sustainable
+forest management, integrate eco-tourism practices, and prevent deforestation. The results
+of the analysis highlighted that ‘policy frameworks’ and ‘eco-certification’ are essential for
+guiding sustainable tourism development in forested regions. Community-based tourism
+can empower local populations and ensure equitable benefits, while capacity-building pro-
+grams should enhance local involvement. In forest regions, empowering local communities
+through forest stewardship programs and promoting sustainable tourism can enhance
+both conservation and economic development. The bibliometric analysis reinforced the
+importance of ‘community-based tourism’ and ‘local empowerment’ for achieving sustain-
+ability in rural tourism. Resource management strategies, such as water conservation and
+renewable energy adoption, are crucial for sustainability. Sustainable forest management
+practices, such as selective logging, reforestation, and conservation of key wildlife corridors,
+are vital for maintaining ecosystem services in rural tourism areas. The analysis confirmed
+that ‘sustainable forest management practices’ and ‘carbon footprint reduction’ are key
+strategies for minimizing tourism’s environmental impact. Addressing climate resilience is
+also vital, with adaptive infrastructure minimizing carbon footprints. In forested regions,
+adaptive tourism infrastructure that minimizes environmental impact, such as low-carbon
+accommodation and eco-friendly transportation, can help reduce tourism’s carbon foot-
+print. Long-term studies should assess socio-economic and environmental impacts, while
+educational campaigns can raise awareness on sustainable tourism practices. The analysis
+further emphasizes the role of ‘educational campaigns’ in promoting sustainable behavior
+among tourists and residents. By focusing on these areas, rural tourism can thrive as a
+strategy for both environmental conservation and local economic development. By inte-
+grating forest ecosystem management into rural tourism, the sustainability of both local
+economies and ecosystems can be ensured. The analysis highlighted that integrating forest
+management into tourism planning is essential for achieving a balanced and sustainable
+future for rural tourism.
+Author Contributions: Conceptualization, J.P., J.L., L.P., and Y.Z.; software, J.P., L.P., and Y.Z.;
+validation, J.P., and J.L., formal analysis, J.P., and Y.Z.; investigation, J.P., L.P., and Y.Z.; resources, J.L.,
+data curation, J.P., and L.P.; writing—original draft preparation, J.P., L.P., and Y.Z.; writing—review
+and editing, J.L.; supervision, J.L.; project administration, J.L.; funding. J.L. All authors have read and
+agreed to the published version of the manuscript.
+Funding: This study was financially supported by the Western Ecological Culture Tourism Research
+Center of Hubei Province and the National Key Research Base on Rural Poverty in Extremely Poor
+Areas (Wuling Mountain Area) (No. PT072109).
+Data Availability Statement: No new data were created or analyzed in this study. Data sharing is
+not applicable to this article.
+
+
+Forests 2025, 16, 1559
+33 of 40
+Acknowledgments: The authors acknowledge the Western Ecological Culture Tourism Research
+Center of Hubei Province and the National Key Research Base on Rural Poverty in Extremely Poor
+Areas (Wuling Mountain Area) for financially supporting this study.
+Conflicts of Interest: The authors declare no conflicts of interest.
+References
+1.
+Rosalina, P.D.; Dupre, K.; Wang, Y. Rural Tourism: A Systematic Literature Review on Definitions and Challenges. J. Hosp. Tour.
+Manag. 2021, 47, 134–149. [CrossRef]
+2.
+Yang, J.; Yang, R.; Chen, M.-H.; Su, C.-H.J.; Zhi, Y.; Xi, J. Effects of Rural Revitalization on Rural Tourism. J. Hosp. Tour. Manag.
+2021, 47, 35–45. [CrossRef]
+3.
+Wijijayanti, T.; Agustina, Y.; Winarno, A.; Istanti, L.N.; Dharma, B.A. Rural Tourism: A Local Economic Development. Australas.
+Account. Bus. Financ. J. 2020, 14, 5–13. [CrossRef]
+4.
+Liu, Y.-L.; Chiang, J.-T.; Ko, P.-F. The Benefits of Tourism for Rural Community Development. Humanit. Soc. Sci. Commun. 2023,
+10, 137. [CrossRef]
+5.
+An, W.; Alarcón, S. How Can Rural Tourism Be Sustainable? A Systematic Review. Sustainability 2020, 12, 7758. [CrossRef]
+6.
+Cheng, H.; Yang, Z.; Liu, S.-J. Rural Stay: A New Type of Rural Tourism in China. J. Travel Tour. Mark. 2020, 37, 711–726. [CrossRef]
+7.
+Aquino, J.F.; Burns, G.L.; Granquist, S.M. A Responsible Framework for Managing Wildlife Watching Tourism: The Case of Seal
+Watching in Iceland. Ocean Coast. Manag. 2021, 210, 105670. [CrossRef]
+8.
+Poulaki, P.; Bouzis, S.; Vasilakis, N.; Valeri, M. Hiking Tourism in Greece. In Sport and Tourism; Valeri, M., Ed.; Emerald Publishing
+Limited: Leeds, UK, 2023; pp. 95–112, ISBN 978-1-83753-241-4.
+9.
+Ma, X.; Wang, R.; Dai, M.; Ou, Y. The Influence of Culture on the Sustainable Livelihoods of Households in Rural Tourism
+Destinations. J. Sustain. Tour. 2021, 29, 1235–1252. [CrossRef]
+10.
+Li, X.; Abbas, J.; Dongling, W.; Baig, N.U.A.; Zhang, R. From Cultural Tourism to Social Entrepreneurship: Role of Social Value
+Creation for Environmental Sustainability. Front. Psychol. 2022, 13, 925768. [CrossRef]
+11.
+López-Sanz, J.M.; Penelas-Leguía, A.; Gutiérrez-Rodríguez, P.; Cuesta-Valiño, P. Rural Tourism and the Sustainable Development
+Goals. A Study of the Variables That Most Influence the Behavior of the Tourist. Front. Psychol. 2021, 12, 722973. [CrossRef]
+12.
+Iannucci, G.; Martellozzo, F.; Randelli, F. Sustainable Development of Rural Areas: A Dynamic Model in between Tourism
+Exploitation and Landscape Decline. J. Evol. Econ. 2022, 32, 991–1016. [CrossRef]
+13.
+Raihan, A. A Review on the Integrative Approach for Economic Valuation of Forest Ecosystem Services. J. Environ. Sci. Econ.
+2023, 2, 1–18. [CrossRef]
+14.
+Ge, B.; Wang, C.; Song, Y. Ecosystem Services Research in Rural Areas: A Systematic Review Based on Bibliometric Analysis.
+Sustainability 2023, 15, 5082. [CrossRef]
+15.
+Bartolini, F.; Vergamini, D. Trade-Offs and Synergies between Ecosystem Services Provided by Different Rural Landscape.
+Agronomy 2023, 13, 977. [CrossRef]
+16.
+Li, J.; Bai, Y.; Alatalo, J.M. Impacts of Rural Tourism-Driven Land Use Change on Ecosystems Services Provision in Erhai Lake
+Basin, China. Ecosyst. Serv. 2020, 42, 101081. [CrossRef]
+17.
+Ali, M.A.; Kamraju, M. Ecosystem Services. In Natural Resources and Society: Understanding the Complex Relationship Between
+Humans and the Environment; Earth and Environmental Sciences Library; Springer Nature: Cham, Switzerland, 2023; pp. 51–63,
+ISBN 978-3-031-46719-6.
+18.
+Thorn, J.P.R.; Thornton, T.F.; Helfgott, A.; Willis, K.J. Indigenous Uses of Wild and Tended Plant Biodiversity Maintain Ecosystem
+Services in Agricultural Landscapes of the Terai Plains of Nepal. J. Ethnobiol. Ethnomed. 2020, 16, 33. [CrossRef]
+19.
+Almenar, J.B.; Elliot, T.; Rugani, B.; Philippe, B.; Gutierrez, T.N.; Sonnemann, G.; Geneletti, D. Nexus between Nature-Based
+Solutions, Ecosystem Services and Urban Challenges. Land Use Policy 2021, 100, 104898. [CrossRef]
+20.
+McCartney, M.; Dickens, C. Landscape Regeneration and the Role of Water. In Clean Water and Sanitation; Leal Filho, W., Azul,
+A.M., Brandli, L., Lange Salvia, A., Wall, T., Eds.; Encyclopedia of the UN Sustainable Development Goals; Springer International
+Publishing: Cham, Switzerland, 2020; pp. 1–10, ISBN 978-3-319-70061-8.
+21.
+Heino, J.; Alahuhta, J.; Bini, L.M.; Cai, Y.; Heiskanen, A.; Hellsten, S.; Kortelainen, P.; Kotamäki, N.; Tolonen, K.T.; Vihervaara,
+P.; et al. Lakes in the Era of Global Change: Moving beyond Single-lake Thinking in Maintaining Biodiversity and Ecosystem
+Services. Biol. Rev. 2021, 96, 89–106. [CrossRef]
+22.
+Pinheiro, R.O.; Triest, L.; Lopes, P.F. Cultural Ecosystem Services: Linking Landscape and Social Attributes to Ecotourism in
+Protected Areas. Ecosyst. Serv. 2021, 50, 101340. [CrossRef]
+23.
+Ramírez-Guerrero, G.; García-Onetti, J.; Arcila-Garrido, M.; Chica-Ruiz, J.A. A Tourism Potential Index for Cultural Heritage
+Management through the Ecosystem Services Approach. Sustainability 2021, 13, 6415. [CrossRef]
+
+
+Forests 2025, 16, 1559
+34 of 40
+24.
+Brambilla, M.; Ronchi, S. Cool Species in Tedious Landscapes: Ecosystem Services and Disservices Affect Nature-Based Recreation
+in Cultural Landscapes. Ecol. Indic. 2020, 116, 106485. [CrossRef]
+25.
+Randler, C.; Tryjanowski, P.; Jokimäki, J.; Kaisanlahti-Jokimäki, M.-L.; Staller, N. SARS-CoV2 (COVID-19) Pandemic Lockdown
+Influences Nature-Based Recreational Activity: The Case of Birders. Int. J. Environ. Res. Public Health 2020, 17, 7310. [CrossRef]
+26.
+Xu, X.; Chen, M.; Yang, G.; Jiang, B.; Zhang, J. Wetland Ecosystem Services Research: A Critical Review. Glob. Ecol. Conserv. 2020,
+22, e01027. [CrossRef]
+27.
+Ba¸skent, E.Z. Assessment and Valuation of Key Ecosystem Services Provided by Two Forest Ecosystems in Turkey. J. Environ.
+Manag. 2021, 285, 112135. [CrossRef]
+28.
+Li, Z.; Zhang, X.; Yang, K.; Singer, R.; Cui, R. Urban and Rural Tourism under COVID-19 in China: Research on the Recovery
+Measures and Tourism Development. Tour. Rev. 2021, 76, 718–736. [CrossRef]
+29.
+Strzelecka, M.; Prince, S.; Boley, B.B. Resident Connection to Nature and Attitudes towards Tourism: Findings from Three
+Different Rural Nature Tourism Destinations in Poland. J. Sustain. Tour. 2023, 31, 664–687. [CrossRef]
+30.
+Sgroi, F. Forest Resources and Sustainable Tourism, a Combination for the Resilience of the Landscape and Development of
+Mountain Areas. Sci. Total Environ. 2020, 736, 139539. [CrossRef] [PubMed]
+31.
+Sharpley, R.; Roberts, L. Rural Tourism—10 Years On. Int. J. Tour. Res. 2004, 6, 119–124. [CrossRef]
+32.
+Saarinen, J. What Are Wilderness Areas for? Tourism and Political Ecologies of Wilderness Uses and Management in the
+Anthropocene. In Anthropocene Ecologies; Routledge: Abingdon, UK, 2020; pp. 51–66.
+33.
+Wardle, C.; Buckley, R.; Shakeela, A.; Castley, J.G. Ecotourism’s Contributions to Conservation: Analysing Patterns in Published
+Studies. J. Ecotourism 2021, 20, 99–129. [CrossRef]
+34.
+Moberg, K.; Gornitzki, C. Combining Search Filters for Randomized Controlled Trials with the Cochrane RCT Classifier in
+Covidence: A Methodological Validation Study. Res. Synth. Methods 2025, 1–8. [CrossRef]
+35.
+Mir, M.A.M.; Shelley, B.; Ooi, C.-S. Uses of Tourism Resources for Educational and Community Development: A Systematic
+Literature Review and Lessons. Tour. Manag. Perspect. 2024, 53, 101278. [CrossRef]
+36.
+Yaohong, W.; Firdaus, R.R.; Xu, J.; Dharejo, N.; Jun, G. China’s Rural Revitalization Policy: A PRISMA 2020 Systematic Review of
+Poverty Alleviation, Food Security, and Sustainable Development Initiatives. Sustainability 2025, 17, 569. [CrossRef]
+37.
+Nathalie, L.-B. A Regional Systematic Review on Gender and Agritourism in Critical Pandemic Scenarios (2019–2023) Using the
+PRISMA Approach. Int. J. Environ. Sci. 2025, 11, 1053–1071.
+38.
+Downey, H.; Spelten, E.; Holmes, K.; Van Vuuren, J. A Rapid Review of Recreational, Cultural, and Environmental Meanings of
+Water for Australian River Communities. Soc. Nat. Resour. 2022, 35, 556–574. [CrossRef]
+39.
+Liasidou, S.; Stylianou, C.; Berjozkina, G.; Garanti, Z. Residents’ Perceptions of the Environmental and Social Impact of Tourism
+in Rural Areas. Worldw. Hosp. Tour. Themes 2021, 13, 731–743. [CrossRef]
+40.
+Zhao, S.; Yu, Z.; Liu, W. The Co-Evolution and Driving Mechanism Analysis of Ecosystem Services Value and Tourism Economic
+Resilience from 286 Cities in China. Sci. Rep. 2025, 15, 16311. [CrossRef]
+41.
+Zhang, X.; Xie, B.; Zhou, K.; Li, J.; Yuan, C.; Xiao, J.; Xie, J. Mapping Ecosystem Service Clusters and Exploring Their Driving
+Mechanisms in Karst Peak-Cluster Depression Regions in China. Ecol. Indic. 2024, 158, 111524. [CrossRef]
+42.
+Guo, E.; Liang, J.; Yuan, Y.; Xie, P.; Hou, H.; Yang, X.; Dong, X. Spatiotemporal Evolution and Driving Mechanisms of Forest
+Tourism in Henan, Central China. Forests 2025, 16, 483. [CrossRef]
+43.
+Ivona, A. Sustainability of Rural Tourism and Promotion of Local Development. Sustainability 2021, 13, 8854. [CrossRef]
+44.
+Sugiama, A.G. The Sustainable Rural Tourism Asset Development Process Based on Natural and Cultural Conservation. In
+Proceedings of the International Conference on Applied Science and Technology 2019-Social Sciences Track (iCASTSS 2019), Bali,
+Indonesia, 24–25 October 2019; Atlantis Press: Dordrecht, The Netherlands, 2019; pp. 152–156.
+45.
+Tajima, Y.; Hashimoto, S.; Dasgupta, R.; Takahashi, Y. Spatial Characterization of Cultural Ecosystem Services in the Ishigaki
+Island of Japan: A Comparison between Residents and Tourists. Ecosyst. Serv. 2023, 60, 101520. [CrossRef]
+46.
+Hatan, S.; Fleischer, A.; Tchetchik, A. Economic Valuation of Cultural Ecosystem Services: The Case of Landscape Aesthetics in
+the Agritourism Market. Ecol. Econ. 2021, 184, 107005. [CrossRef]
+47.
+Yamagishi, K.; De Ocampo, M.; Ocampo, L. Revisit Intention of Tourists in Farm Tourism Sites. Curr. Issues Tour. 2024, 27,
+3529–3556. [CrossRef]
+48.
+Busby, G.; Rendle, S. The Transition from Tourism on Farms to Farm Tourism. Tour. Manag. 2000, 21, 635–642. [CrossRef]
+49.
+Abas, A.; Aiyub, K.; Idris, N.A. Systematic Review on Ecosystem Services (Es) of Ecotourism in South-East Asia (Asean). Probl.
+Ekorozwoju 2021, 16, 113–121. [CrossRef]
+50.
+Arnegger, J.; Herz, M.; Campbell, M. Mass Ecotourism, Media, and Wildlife Experience. J. Outdoor Recreat. Tour. 2024, 45, 100732.
+[CrossRef]
+51.
+Elshaer, I.A.; Azazz, A.M.; Ameen, F.A.; Fayyad, S. Sustainable Horticulture Practices to Predict Consumer Attitudes towards
+Green Hotel Visit Intention: Moderating the Role of an Environmental Gardening Identity. Horticulturae 2022, 9, 31. [CrossRef]
+
+
+Forests 2025, 16, 1559
+35 of 40
+52.
+Vukovi´c, P.; Roljevi´c-Nikoli´c, S.M. Partnership of Rural Tourism and Organic Farming to Achieve Goals of Green Economy: Rural
+Tourism and Organic Farming. In Research Anthology on Strategies for Achieving Agricultural Sustainability; IGI Global: Hershey, PA,
+USA, 2022; pp. 864–881.
+53.
+Li, X.; Ning, Z.; Yang, H. A Review of the Relationship between China’s Key Forestry Ecology Projects and Carbon Market under
+Carbon Neutrality. Trees For. People 2022, 9, 100311. [CrossRef]
+54.
+Yee, J.Y.; Loc, H.H.; Le Poh, Y.; Vo-Thanh, T.; Park, E. Socio-Geographical Evaluation of Ecosystem Services in an Ecotourism
+Destination: PGIS Application in Tram Chim National Park, Vietnam. J. Environ. Manag. 2021, 291, 112656. [CrossRef]
+55.
+Deb, R.; Kondasani, R.K.R.; Das, A. Adventure Tourism: Current State and Future Research Direction. Tour. Rev. 2023. [CrossRef]
+56.
+Janowski, I.; Gardiner, S.; Kwek, A. Dimensions of Adventure Tourism. Tour. Manag. Perspect. 2021, 37, 100776. [CrossRef]
+57.
+McKercher, B. Cultural Tourism Market: A Perspective Paper. Tour. Rev. 2020, 75, 126–129. [CrossRef]
+58.
+Csurgó, B.; Smith, M.K. Cultural Heritage, Sense of Place and Tourism: An Analysis of Cultural Ecosystem Services in Rural
+Hungary. Sustainability 2022, 14, 7305. [CrossRef]
+59.
+Yang, W.; Fan, B.; Tan, J.; Lin, J.; Shao, T. The Spatial Perception and Spatial Feature of Rural Cultural Landscape in the Context of
+Rural Tourism. Sustainability 2022, 14, 4370. [CrossRef]
+60.
+Kumar, S.; Valeri, M. Understanding the Relationship among Factors Influencing Rural Tourism: A Hierarchical Approach. J.
+Organ. Change Manag. 2022, 35, 385–407. [CrossRef]
+61.
+Hutchings, K.; Moyle, C.; Chai, A.; Garofano, N.; Moore, S. Segregation of Women in Tourism Employment in the APEC Region.
+Tour. Manag. Perspect. 2020, 34, 100655. [CrossRef]
+62.
+Almeida, A.; Machado, L.P. Rural Development and Rural Tourism: The Impact of Infrastructure Investments. Peripher. Territ.
+Tour. Reg. Dev. 2021, 1–16. [CrossRef]
+63.
+´Curˇci´c, N.; Mirkovi´c Svitlica, A.; Brankov, J.; Bjeljac, Ž.; Pavlovi´c, S.; Jandžikovi´c, B. The Role of Rural Tourism in Strengthening
+the Sustainability of Rural Areas: The Case of Zlakusa Village. Sustainability 2021, 13, 6747. [CrossRef]
+64.
+Madanaguli, A.; Kaur, P.; Mazzoleni, A.; Dhir, A. The Innovation Ecosystem in Rural Tourism and Hospitality–a Systematic
+Review of Innovation in Rural Tourism. J. Knowl. Manag. 2022, 26, 1732–1762.
+65.
+Scheyvens, R.; Laeis, G. Linkages between Tourist Resorts, Local Food Production and the Sustainable Development Goals. In
+Recentering Tourism Geographies in the ‘Asian Century’; Routledge: Abingdon, UK, 2022; pp. 139–161.
+66.
+Alamineh, G.A.; Hussein, J.W.; Mulu, Y.E.; Taddesse, B. The Negative Cultural Impact of Tourism and Its Implication on
+Sustainable Development in Amhara Regional State. Cogent Arts Humanit. 2023, 10, 2224597. [CrossRef]
+67.
+Meimand, S.E.; Khalifah, Z.; Zavadskas, E.K.; Mardani, A.; Najafipour, A.A.; Ahmad, U.N.U. Residents’ Attitude toward Tourism
+Development: A Sociocultural Perspective. Sustainability 2017, 9, 1170. [CrossRef]
+68.
+Moraru, R.-A.; Simeanu, C.; S, umovschi, D.-C. The Environmental Impacts of Rural Tourism. 2022. Available online: https:
+//repository.iuls.ro/handle/20.500.12811/3273 (accessed on 3 July 2025).
+69.
+Nolander, C.; Lundmark, R. A Review of Forest Ecosystem Services and Their Spatial Value Characteristics. Forests 2024, 15, 919.
+[CrossRef]
+70.
+Li, C.; Zong, Z.; Qie, H.; Fang, Y.; Liu, Q. CiteSpace and Bibliometric Analysis of Published Research on Forest Ecosystem Services
+for the Period 2018–2022. Land 2023, 12, 845. [CrossRef]
+71.
+Telbisz, T.; Imecs, Z.; Máthé, A.; Mari, L. Empirical Investigation of the Motivation and Perception of Tourists Visiting the Apuseni
+Nature Park (Romania) and the Relationship of Tourism and Natural Resources. Sustainability 2023, 15, 4181. [CrossRef]
+72.
+Velasco-Muñoz, J.F.; Aznar-Sánchez, J.A.; Schoenemann, M.; López-Felices, B. An Analysis of the Worldwide Research on the
+Socio-Cultural Valuation of Forest Ecosystem Services. Sustainability 2022, 14, 2089. [CrossRef]
+73.
+Ma, D.; Sun, D.; Wang, Z. Exploring the Rural Revitalization Effect under the Interaction of Agro-Tourism Integration and
+Tourism-Driven Poverty Reduction: Empirical Evidence for China. Land 2024, 13, 60. [CrossRef]
+74.
+Mahida, R.G. Agro-Tourism as a Catalyst for Rural Development: A Comprehensive Analysis of Trends, Benefits, and Challenges
+from 2018 to 2024. Vidhyayana Int. Multidiscip. Peer-Rev. E J. 2025, 10, 1037–1057. [CrossRef]
+75.
+Cossengue, P.R.; Brea, J.F.; Tavares, F.O. The Transformative Power of Ecotourism: A Comprehensive Review of Its Economic,
+Social, and Environmental Impacts. Land 2025, 14, 1531. [CrossRef]
+76.
+Guerrero-Moreno, M.A.; Oliveira-Junior, J.M.B. Approaches, Trends, and Gaps in Community-Based Ecotourism Research: A
+Bibliometric Analysis of Publications between 2002 and 2022. Sustainability 2024, 16, 2639. [CrossRef]
+77.
+Deb, R.; Kondasani, R.K.R.; Das, A. Package Adventure Tourism Motivation: Scale Development and Validation. Tour. Recreat.
+Res. 2025, 50, 786–798. [CrossRef]
+78.
+Orden-Mejía, M.; Carvache-Franco, M.; Palomino, O.; Carvache-Franco, O.; Minchenkova, L.; Núñez-Naranjo, A.; Minchenkova,
+A.; Carvache-Franco, W. Motivations, Quality, and Loyalty: Keys to Sustainable Adventure Tourism in Natural Destinations.
+Sustainability 2025, 17, 5789. [CrossRef]
+79.
+Lin, X.; Shen, Z.; Teng, X.; Mao, Q. Cultural Routes as Cultural Tourism Products for Heritage Conservation and Regional
+Development: A Systematic Review. Heritage 2024, 7, 2399–2425. [CrossRef]
+
+
+Forests 2025, 16, 1559
+36 of 40
+80.
+Zubiaga, M.; Sopelana, A.; Gandini, A.; Aliaga, H.M.; Kalvet, T. Sustainable Cultural Tourism: Proposal for a Comparative
+Indicator-Based Framework in European Destinations. Sustainability 2024, 16, 2062. [CrossRef]
+81.
+Yu, Z.; Ning, Z.; Zhang, H.; Yang, H.; Chang, S.J. A Generalized Faustmann Model with Multiple Carbon Pools. For. Policy Econ.
+2024, 169, 103363. [CrossRef]
+82.
+Yu, Z.; Ning, Z.; Chang, W.-Y.; Chang, S.J.; Yang, H. Optimal Harvest Decisions for the Management of Carbon Sequestration
+Forests under Price Uncertainty and Risk Preferences. For. Policy Econ. 2023, 151, 102957. [CrossRef]
+83.
+Raso, G.; Cherubini, D. The Sport Tourism and Regional Economic Development: A Systematic Review. Sci. J. Sport Perform. 2024,
+3, 108–121. [CrossRef]
+84.
+Bortolotti, A.; Jreij, A.; Mazza, F.; Vecchi, V. Sports as Well-Being Practice: The Diversification of Tourism Through the Integration
+of Sport, Wellness, and Health. In Beyond the 2026 Winter Olympic Games; Arcidiacono, A., Di Vita, S., Eds.; Mega Event Planning;
+Springer Nature: Singapore, 2024; pp. 63–81, ISBN 978-981-99-8091-8.
+85.
+Kulakov, K.Y.; Uvarova, S.S.; Orlov, A.K.; Kankhva, V.S.; Sudakova, A.A. Determining the Level of and Potential for the
+Development of Tourism Clusters, Taking into Account Infrastructure and Urban Planning Factors. Sustainability 2024, 16, 8660.
+[CrossRef]
+86.
+Pai, C.-H.; Zhang, Y.; Wang, Y.-L.; Li, K.; Shang, Y. Current Challenges and Opportunities in Cultural Heritage Preservation
+through Sustainable Tourism Practices. Curr. Issues Tour. 2025, 1–19. [CrossRef]
+87.
+Zhao, Y.; Shang, W.; Qin, X.; Li, K. Developing an Evaluation Model for Urban Tourism Competitiveness: Combining Community
+Construction and Community Service to Foster Sustainable Development of Cities. Front. Public Health 2024, 12, 1435291.
+[CrossRef]
+88.
+Suardana, W.; Astuti, P.P.; Jaya, R.; Taufik, M. Building Sustainable Tourism and Strengthening Local Economies in Tourism
+Villages Through Homestay and Stakeholder Participation. J. Econ. Educ. Entrep. Stud. 2024, 5, 502–516. [CrossRef]
+89.
+Brooks, C.; Waterton, E.; Saul, H.; Renzaho, A. Exploring the Relationships between Heritage Tourism, Sustainable Community
+Development and Host Communities’ Health and Wellbeing: A Systematic Review. PLoS ONE 2023, 18, e0282319. [CrossRef]
+90.
+Yi, Y.; Siow, M.L.; Ibrahim, R.; Abdul Aziz, F. Understanding the Role of Tourist-Oriented Villages in Promoting Rural Tourism in
+China: Integrating Rural Landscapes and Tourist Services. J. Qual. Assur. Hosp. Tour. 2024, 1–41. [CrossRef]
+91.
+Fan, P.; Ren, L.; Zeng, X. Resident Participation in Environmental Governance of Sustainable Tourism in Rural Destination.
+Sustainability 2024, 16, 8173. [CrossRef]
+92.
+Kumar, V.; Agarwala, T.; Kumar, S. Rural Tourism as a Driver of Sustainable Development: A Systematic Review and Future
+Research Agenda. Tour. Rev. 2025. [CrossRef]
+93.
+Rybárová, J.; Rybár, R.; Tometzová, D.; Wittenberger, G. The Use of Cultural Landscape Fragmentation for Rural Tourism
+Development in the Zemplín Geopark, Slovakia. Sustainability 2024, 16, 4011. [CrossRef]
+94.
+Müller, F.; Burkhard, B. The Indicator Side of Ecosystem Services. Ecosyst. Serv. 2012, 1, 26–30. [CrossRef]
+95.
+La Notte, A.; D’Amato, D.; Mäkinen, H.; Paracchini, M.L.; Liquete, C.; Egoh, B.; Geneletti, D.; Crossman, N.D. Ecosystem Services
+Classification: A Systems Ecology Perspective of the Cascade Framework. Ecol. Indic. 2017, 74, 392–402. [CrossRef]
+96.
+Millennium Ecosystem Assessment, M.E.A. Ecosystems and Human Well-Being; Island Press: Washington, DC, USA, 2005; Volume 5.
+97.
+de Castro-Pardo, M.; Azevedo, J.C.; Fernández, P. Ecosystem Services, Sustainable Rural Development and Protected Areas. Land
+2021, 10, 1008. [CrossRef]
+98.
+Ram, Y.; Kay Smith, M. An Assessment of Visited Landscapes Using a Cultural Ecosystem Services Framework. Tour. Geogr. 2022,
+24, 523–548. [CrossRef]
+99.
+Karabulut, A.; Egoh, B.N.; Lanzanova, D.; Grizzetti, B.; Bidoglio, G.; Pagliero, L.; Bouraoui, F.; Aloe, A.; Reynaud, A.; Maes, J.
+Mapping Water Provisioning Services to Support the Ecosystem–Water–Food–Energy Nexus in the Danube River Basin. Ecosyst.
+Serv. 2016, 17, 278–292. [CrossRef]
+100. Taye, F.A.; Folkersen, M.V.; Fleming, C.M.; Buckwell, A.; Mackey, B.; Diwakar, K.C.; Le, D.; Hasan, S.; Saint Ange, C. The
+Economic Values of Global Forest Ecosystem Services: A Meta-Analysis. Ecol. Econ. 2021, 189, 107145. [CrossRef]
+101. Wang, J.; Han, G.; You, J.; Zhu, L.; Li, Y.; Zhou, X. Analysis of the Spatial Relationship between Ecosystem Regulation Services
+and Rural Tourism. Int. J. Environ. Res. Public Health 2023, 20, 3888. [CrossRef]
+102. Aazami, M.; Shanazi, K. Tourism Wetlands and Rural Sustainable Livelihood: The Case from Iran. J. Outdoor Recreat. Tour. 2020,
+30, 100284. [CrossRef]
+103. Pérez-Sánchez, D.; Montes, M.; Cardona-Almeida, C.; Vargas-Marín, L.A.; Enríquez-Acevedo, T.; Suarez, A. Keeping People in
+the Loop: Socioeconomic Valuation of Dry Forest Ecosystem Services in the Colombian Caribbean Region. J. Arid Environ. 2021,
+188, 104446. [CrossRef]
+104. Hua, F.; Bruijnzeel, L.A.; Meli, P.; Martin, P.A.; Zhang, J.; Nakagawa, S.; Miao, X.; Wang, W.; McEvoy, C.; Peña-Arancibia, J.L.;
+et al. The Biodiversity and Ecosystem Service Contributions and Trade-Offs of Forest Restoration Approaches. Science 2022, 376,
+839–844. [CrossRef]
+
+
+Forests 2025, 16, 1559
+37 of 40
+105. Tang, M.; Xu, H. Cultural Integration and Rural Tourism Development: A Scoping Literature Review. Tour. Hosp. 2023, 4, 75–90.
+[CrossRef]
+106. Št’astná, M.; Vaishar, A.; Brychta, J.; Tuzová, K.; Zloch, J.; Stodolová, V. Cultural Tourism as a Driver of Rural Development. Case
+Study: Southern Moravia. Sustainability 2020, 12, 9064. [CrossRef]
+107. Chin, C.-H.; Lo, M.-C. Rural Tourism Quality of Services: Fundamental Contributive Factors from Tourists’ Perceptions. Asia Pac.
+J. Tour. Res. 2017, 22, 465–479. [CrossRef]
+108. Bakhmatova, G. Development Prospect of Agro-Tourism and Positive Effects of Tourism Activities in Rural Regions. In
+Proceedings of the E3S Web of Conferences, Sanya, China, 28–29 August 2021; EDP Sciences: Les Ulis, France, 2021; Volume 273,
+p. 09001.
+109. Romanenko, Y.O.; Boiko, V.O.; Shevchuk, S.M.; Barabanova, V.V.; Karpinska, N.V. Rural Development by Stimulating Agro-
+Tourism Activities. Int. J. Manag. (IJM) 2020, 11, 605–613.
+110. Vogel, J.; Steinberger, J.K.; O’Neill, D.W.; Lamb, W.F.; Krishnakumar, J. Socio-Economic Conditions for Satisfying Human Needs
+at Low Energy Use: An International Analysis of Social Provisioning. Glob. Environ. Change 2021, 69, 102287. [CrossRef]
+111. Linders, T.E.; Bekele, K.; Schaffner, U.; Allan, E.; Alamirew, T.; Choge, S.K.; Eckert, S.; Haji, J.; Muturi, G.; Mbaabu, P.R. The
+Impact of Invasive Species on Social-Ecological Systems: Relating Supply and Use of Selected Provisioning Ecosystem Services.
+Ecosyst. Serv. 2020, 41, 101055. [CrossRef]
+112. Liu, C.; Dou, X.; Li, J.; Cai, L.A. Analyzing Government Role in Rural Tourism Development: An Empirical Investigation from
+China. J. Rural Stud. 2020, 79, 177–188.
+113. Jia, Z.; Gao, M.; Xu, S.; Lyu, Y.; Feng, J.; Zhou, Z.; Yu, T.; Wu, W. Sociocultural Vitality versus Regulation Policy and Tourism
+Development in Preservation of Traditional Rural Landscape: A Case from Guizhou, China. Int. J. Sustain. Dev. World Ecol. 2021,
+28, 179–192. [CrossRef]
+114. Jelinˇci´c, D.A.; Mansfeld, Y. Applying Cultural Tourism in the Revitalisation and Enhancement of Cultural Heritage: An Integrative
+Approach. In Cultural Urban Heritage; Obad Š´citaroci, M., Bojani´c Obad Š´citaroci, B., Mr ¯da, A., Eds.; The Urban Book Series;
+Springer International Publishing: Cham, Switzerland, 2019; pp. 35–43. ISBN 978-3-030-10611-9.
+115. Lenao, M.; Saarinen, J. Integrated Rural Tourism as a Tool for Community Tourism Development: Exploring Culture and Heritage
+Projects in the North-East District of Botswana. S. Afr. Geogr. J. 2015, 97, 203–216. [CrossRef]
+116. Ingram, J.C.; Wilkie, D.; Clements, T.; McNab, R.B.; Nelson, F.; Baur, E.H.; Sachedina, H.T.; Peterson, D.D.; Foley, C.A.H. Evidence
+of Payments for Ecosystem Services as a Mechanism for Supporting Biodiversity Conservation and Rural Livelihoods. Ecosyst.
+Serv. 2014, 7, 10–21. [CrossRef]
+117. Schwoerer, T.; Dawson, N.G. Small Sight—Big Might: Economic Impact of Bird Tourism Shows Opportunities for Rural
+Communities and Biodiversity Conservation. PLoS ONE 2022, 17, e0268594. [CrossRef]
+118. Taylor, M.A.; Beecham, S.; Holyoak, N.; Hassanli, A. Local Infrastructure in Australian Tourist Destinations: Modelling Tourism
+Demand and Estimating Costs of Water Provision and Operation. Ph.D. Thesis, Sustainable Tourism CRC, Gold Coast, QLD,
+Australia, 2010.
+119. Sauer, J. The Efficiency of Rural Infrastructure-Water Supply in Rural Areas of Transition. 2003. Available online: https:
+//www.econstor.eu/handle/10419/116205 (accessed on 3 July 2025).
+120. Shen, C.-C.; Chang, Y.-R.; Liu, D.-J. Rural Tourism and Environmental Sustainability—A Study on a Model for Assessing the
+Developmental Potential of Organic Agritourism. Sustainability 2020, 12, 9642. [CrossRef]
+121. Xue, L.-L.; Chang, Y.-R.; Shen, C.-C. The Sustainable Development of Organic Agriculture-Tourism: The Role of Consumer
+Landscape and pro-Environment Behavior. Sustainability 2020, 12, 6264. [CrossRef]
+122. Chen, S.; Sotiriadis, M.; Shen, S. The Influencing Factors on Service Experiences in Rural Tourism: An Integrated Approach. Tour.
+Manag. Perspect. 2023, 47, 101122. [CrossRef]
+123. Kotsiuk, V.; Rogova, N.; Medvid, L.; Popovych, O. Ecological Rural Tourism: Sustainable Use of Natural Resources and
+Ecosystems. 2023. Available online: http://dspace-s.msu.edu.ua:8080/handle/123456789/9914 (accessed on 3 July 2025).
+124. Yousaf, S.; Noor, H.A.; Ullah, M.W.; Noorpoor, A.; Tahir, A.A.; Siddique, M.; Khan, R. Comparative Analysis of the Efficiencies of
+Two Low Cost Adsorbents for Carbon Dioxide Capture. Int. J. Environ. Res. 2025, 19, 164. [CrossRef]
+125. Kiss, A. Is Community-Based Ecotourism a Good Use of Biodiversity Conservation Funds? Trends Ecol. Evol. 2004, 19, 232–237.
+[CrossRef]
+126. Samal, R.; Dash, M. Ecotourism, Biodiversity Conservation and Livelihoods: Understanding the Convergence and Divergence.
+Int. J. Geoheritage Parks 2023, 11, 1–20. [CrossRef]
+127. Ramaano, A.I. The Economic-Administrative Role of Geographic Information Systems in Rural Tourism and Exhaustive Local
+Community Development in African Marginalized Communities. Arab. Gulf J. Sci. Res. 2022, 40, 180–195. [CrossRef]
+128. Custódio, M.; Villasante, S.; Calado, R.; Lillebø, A.I. Valuation of Ecosystem Services to Promote Sustainable Aquaculture Practices.
+Rev. Aquac. 2020, 12, 392–405. [CrossRef]
+
+
+Forests 2025, 16, 1559
+38 of 40
+129. Araya, J.D.; Hernando, A.; Tejera, R.; Velázquez, J. Sustainable Tourism around Ecosystem Services: Application to a Case in
+Costa Rica Using Multi-Criteria Methods. Land 2023, 12, 628. [CrossRef]
+130. Csurgó, B.; Smith, M.K. The Value of Cultural Ecosystem Services in a Rural Landscape Context. J. Rural Stud. 2021, 86, 76–86.
+131. Ruiz-Real, J.L.; Uribe-Toril, J.; De Pablo Valenciano, J.; Gázquez-Abad, J.C. Rural Tourism and Development: Evolution in
+Scientific Literature and Trends. J. Hosp. Tour. Res. 2022, 46, 1322–1346. [CrossRef]
+132. Pellaton, R.; Lellei-Kovács, E.; Báldi, A. Cultural Ecosystem Services in European Grasslands: A Systematic Review of Threats.
+Ambio 2022, 51, 2462–2477. [CrossRef]
+133. Rolo, V.; Roces-Diaz, J.V.; Torralba, M.; Kay, S.; Fagerholm, N.; Aviron, S.; Burgess, P.; Crous-Duran, J.; Ferreiro-Dominguez, N.;
+Graves, A. Mixtures of Forest and Agroforestry Alleviate Trade-Offs between Ecosystem Services in European Rural Landscapes.
+Ecosyst. Serv. 2021, 50, 101318. [CrossRef]
+134. He, Y.; Zhan, S.; Aziz, N. Quantifying the Contribution of Rural Residents’ Participation in the Cultural Tourism Industry to
+Improve the Soil Erosion Control Effect in Ecologically Fragile Areas: A Case Study in the Shaanxi–Gansu–Ningxia Border
+Region, China. Land 2023, 12, 734.
+135. Zhou, J. Status, Causes and Countermeasures of Environmental Pollution in China’s Rural Tourism Development. Nat. Environ.
+Pollut. Technol. 2018, 17, 543–549.
+136. Ghasemi, M.; Charrahy, Z.; González-García, A. Mapping Cultural Ecosystem Services Provision: An Integrated Model of
+Recreation and Ecotourism Opportunities. Land Use Policy 2023, 131, 106732. [CrossRef]
+137. Ekka, P.; Patra, S.; Upreti, M.; Kumar, G.; Kumar, A.; Saikia, P. Land Degradation and Its Impacts on Biodiversity and Ecosystem
+Services. In Land and Environmental Management Through Forestry; Raj, A., Jhariya, M.K., Banerjee, A., Nema, S., Bargali, K., Eds.;
+Wiley: Hoboken, NJ, USA, 2023; pp. 77–101, ISBN 978-1-119-91040-4.
+138. Manoj, P.K. Impact of Rural Tourism on the Environment and Society: Evidence from Kumbalangi in Kerala, India. Int. J. Adv.
+Res. Comput. Sci. Manag. Stud. 2016, 4, 148–159.
+139. Foley, J.A.; DeFries, R.; Asner, G.P.; Barford, C.; Bonan, G.; Carpenter, S.R.; Chapin, F.S.; Coe, M.T.; Daily, G.C.; Gibbs, H.K.; et al.
+Global Consequences of Land Use. Science 2005, 309, 570–574. [CrossRef]
+140. Xie, G.; Zhang, C.; Zhen, L.; Zhang, L. Dynamic Changes in the Value of China’s Ecosystem Services. Ecosyst. Serv. 2017, 26,
+146–154. [CrossRef]
+141. Newcomer, Q.; Camacho Céspedes, F.; Stallcup, L. The Monteverde Cloud Forest: Evolution of a Biodiversity Island in Costa Rica.
+In Biodiversity Islands: Strategies for Conservation in Human-Dominated Environments; Montagnini, F., Ed.; Topics in Biodiversity and
+Conservation; Springer International Publishing: Cham, Switzerland, 2022; Volume 20, pp. 237–278. ISBN 978-3-030-92233-7.
+142. Schwarz, M.; Preti, F.; Giadrossich, F.; Lehmann, P.; Or, D. Quantifying the Role of Vegetation in Slope Stability: A Case Study in
+Tuscany (Italy). Ecol. Eng. 2010, 36, 285–291. [CrossRef]
+143. Reddy, V.R. Water Sector Performance under Scarcity Conditions: A Case Study of Rajasthan, India. Water Policy 2010, 12, 761–778.
+[CrossRef]
+144. Tiwari, K.; Goyal, R.; Sarkar, A.; Munoth, P. Integrated Water Resources Management with Special Reference to Water Security in
+Rajasthan, India. Discovery 2015, 41, 93–101.
+145. Singh, S. Crisis of Water and Water in Crisis: Some Reflections from India. In Reflections on 21st Century Human Habitats in India;
+Jaglan, M.S., Rajeshwari, Eds.; Advances in 21st Century Human Settlements; Springer: Singapore, 2021; pp. 143–166, ISBN
+9789811630996.
+146. Rosalina, P.D.; Dupre, K.; Wang, Y.; Putra, I.N.D.; Jin, X. Rural Tourism Resource Management Strategies: A Case Study of
+Two Tourism Villages in Bali. Tour. Manag. Perspect. 2023, 49, 101194. [CrossRef]
+147. Juma, L.O.; Khademi-Vidra, A. Nature Interpretation as an Environmental Educational Approach in Visitor Management; the
+Application Dilemma for Different Target Groups at Masai Mara National Reserve, Kenya. Sustainability 2022, 14, 2935. [CrossRef]
+148. Maina, L.M.; Maingi, N.; Waruiru, R.M.; Gakuya, F. Diversity, Prevalence, and Intensity of Gastrointestinal Helminth Infections in
+Migratory, Resident, and Sedentary Plains Zebras (Equus Quagga) in Masai Mara National Reserve and Lake Nakuru National
+Park, Kenya. Vet. Parasitol. Reg. Stud. Rep. 2022, 33, 100750. [CrossRef]
+149. Xiao, M.; Wang, Y.; Ma, W. GIS-Based Analysis of Wildlife Habitat Suitability and Conservation Strategies in Maasai Mara Reserve.
+Highlights Sci. Eng. Technol. 2023, 67, 154–161. [CrossRef]
+150. Philips, I.; Brown, L.; Cass, N. E-Bike Use and Ownership in the Lake District National-Park UK. J. Transp. Geogr. 2024, 115, 103813.
+[CrossRef]
+151. Gregory, I.N.; Smail, R.; Taylor, J.E.; Butler, J.O. Exploring Qualitative Geographies in Large Volumes of Digital Text: Placing
+Tourists, Travelers, and Inhabitants in the English Lake District. Ann. Am. Assoc. Geogr. 2024, 114, 1985–2009. [CrossRef]
+152. Randelli, F.; Romei, P.; Tortora, M. An Evolutionary Approach to the Study of Rural Tourism: The Case of Tuscany. Land Use
+Policy 2014, 38, 276–281. [CrossRef]
+153. Randelli, F.; Martellozzo, F. Is Rural Tourism-Induced Built-up Growth a Threat for the Sustainability of Rural Areas? The Case
+Study of Tuscany. Land Use Policy 2019, 86, 387–398. [CrossRef]
+
+
+Forests 2025, 16, 1559
+39 of 40
+154. Brouwer, R.; Pinto, R.; Dugstad, A.; Navrud, S. The Economic Value of the Brazilian Amazon Rainforest Ecosystem Services: A
+Meta-Analysis of the Brazilian Literature. PLoS ONE 2022, 17, e0268425. [CrossRef]
+155. Almeida, I.; Rösch, C.; Saha, S. Converting Monospecific into Mixed Forests: Stakeholders’ Views on Ecosystem Services in the
+Black Forest Region. Ecol. Soc. 2021, 26, 592. [CrossRef]
+156. Gebhardt, C.; Almeida, M.; Etzkowitz, H. Triple Helix Twins: Operationalizing the Sustainability Agenda in the Northern Black
+Forest National Park in Germany. Triple Helix 2022, 9, 184–215. [CrossRef]
+157. Carpenter, B.; Kiddle, R.; Southcombe, M. Overtourism and Colonisation in Tongariro National Park. Landsc. Rev. 2022, 19, 76–86.
+158. Lefeuvre, N.B.; Keller, N.; Plagnat-Cantoreggi, P.; Godoong, E.; Dray, A.; Philipson, C.D. The Value of Logged Tropical Forests: A
+Study of Ecosystem Services in Sabah, Borneo. Environ. Sci. Policy 2022, 128, 56–67. [CrossRef]
+159. Kamlun, K.U.; Bürger-Arndt, R.; Fatah, F.A. Mapping the Demand for Ecosystem Services in Human-Dominated Topical Forest
+of Sabah, Malaysia. For. Soc. 2024, 8, 218–248. [CrossRef]
+160. Hiltunen, M.J. Environmental Impacts of Rural Second Home Tourism–Case Lake District in Finland. Scand. J. Hosp. Tour. 2007, 7,
+243–265. [CrossRef]
+161. Porter, N. Strategic Planning and Place Branding in a World Heritage Cultural Landscape: A Case Study of the English Lake
+District, UK. Eur. Plan. Stud. 2020, 28, 1291–1314. [CrossRef]
+162. Winfield, I.J.; Fletcher, J.M.; James, J.B. An Overview of Fish Species Introductions to the English Lake District, UK, an Area of
+Outstanding Conservation and Fisheries Importance: Fish Species Introductions in the UK. J. Appl. Ichthyol. 2010, 26, 60–65.
+[CrossRef]
+163. Haulle, E.; Nchimbi, C.S.; Ndimbo, G.K. Engendering Rural Tourism as a Viable Strategy for Poverty Alleviation and Rural
+Development in the Southern Tourist Circuit of Tanzania. Sage Open 2024, 14, 21582440241285496. [CrossRef]
+164. Giddy, J.K.; Rogerson, C.M.; Rogerson, J.M. Rural Tourism Firms in the COVID-19 Environment: South African Challenges. Geo J.
+Tour. Geosites 2022, 41, 343–353. [CrossRef]
+165. Valderrama, E.-L.; Polanco, J.-A. Understanding How Collaborative Governance Mediates Rural Tourism and Sustainable
+Territory Development: A Systematic Literature Review. Tour. Recreat. Res. 2024, 49, 888–904. [CrossRef]
+166. Hailiang, Z.; Chau, K.Y.; Waqas, M. Does Green Finance and Renewable Energy Promote Tourism for Sustainable Development:
+Empirical Evidence from China. Renew. Energy 2023, 207, 660–671. [CrossRef]
+167. Doel, P.P. Showering Smartly. Exploring Tourism Accommodation Guests’ Environmental Values, Inconvenience, Smart Water-
+Saving Technology and Persuasive Communication. Ph.D. Thesis, University of Surrey, London, UK, 2021.
+168. Mihai, F.-C.; Gündo˘gdu, S.; Markley, L.A.; Olivelli, A.; Khan, F.R.; Gwinnett, C.; Gutberlet, J.; Reyna-Bensusan, N.; Llanquileo-
+Melgarejo, P.; Meidiana, C. Plastic Pollution, Waste Management Issues, and Circular Economy Opportunities in Rural Communi-
+ties. Sustainability 2021, 14, 20. [CrossRef]
+169. Irawan, N.C.; Hartoyo, E. Environmental Management and Stakeholder Roles in Sustainable Tourism Development: A Feasibility
+Study. IOP Conf. Ser. Earth Environ. Sci. 2022, 1108, 012068. [CrossRef]
+170. Smith, A.; Robbins, D.; Dickinson, J.E. Defining Sustainable Transport in Rural Tourism: Experiences from the New Forest. J.
+Sustain. Tour. 2019, 27, 258–275. [CrossRef]
+171. Vinodan, A.; Meera, S. Exploring the Role of Non-Formal Education in Tourism Resource Management. Aust. J. Environ. Educ.
+2024, 40, 662–675. [CrossRef]
+172. Mukhambetova, Z.S.; Mataeva, B.T.; Zhuspekova, A.K.; Zambinova, G.K.; Omarkhanova, Z.M. Green Economy in Rural Tourism.
+Soc. Hum. Sci. 2019, 6, 65–69.
+173. Parte, L.; Alberca, P. Business Performance and Sustainability in Cultural and Rural Tourism Destinations. Mathematics 2021,
+9, 892. [CrossRef]
+174. Canteiro, M.; Córdova-Tapia, F.; Brazeiro, A. Tourism Impact Assessment: A Tool to Evaluate the Environmental Impacts of
+Touristic Activities in Natural Protected Areas. Tour. Manag. Perspect. 2018, 28, 220–227. [CrossRef]
+175. Zhang, Y.; Wang, L.; Zheng, Y.; Tian, F. Cooperation, Hotspots and Prospects for Tourism Environmental Impact Assessments.
+Heliyon 2023, 9, e17109. [CrossRef] [PubMed]
+176. Lin, H.-H.; Lee, S.-S.; Perng, Y.-S.; Yu, S.-T. Investigation about the Impact of Tourism Development on a Water Conservation Area
+in Taiwan. Sustainability 2018, 10, 2328. [CrossRef]
+177. Li, W.; He, B.-J.; Qi, J.; Dong, J. Water Conservation Scenic Spots in China: Developing the Tourism Potential of Hydraulic Projects
+and Water Resources. Sustainability 2018, 10, 4509. [CrossRef]
+178. Weyland, F.; Colacci, P.; Cardoni, A.; Estavillo, C. Can Rural Tourism Stimulate Biodiversity Conservation and Influence Farmer’s
+Management Decisions? J. Nat. Conserv. 2021, 64, 126071. [CrossRef]
+179. Moayerian, N.; McGehee, N.G.; Stephenson Jr, M.O. Community Cultural Development: Exploring the Connections between
+Collective Art Making, Capacity Building and Sustainable Community-Based Tourism. Ann. Tour. Res. 2022, 93, 103355.
+[CrossRef]
+
+
+Forests 2025, 16, 1559
+40 of 40
+180. Kayat, K.; Zainuddin, N.F.A. Community-Based Tourism Initiative in Rural Malaysia: Is It a Success? Int. Rev. Manag. Mark. 2016,
+6, 242–249.
+181. Mora, J.A.; Yamova, O.; Murtuzalieva, T. Community-Based Tourism as the Leading Approach to the Rural Development. In
+Sustainable Leadership for Entrepreneurs and Academics; Strielkowski, W., Ed.; Springer Proceedings in Business and Economics;
+Springer International Publishing: Cham, Switzerland, 2019; pp. 503–510. ISBN 978-3-030-15494-3.
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

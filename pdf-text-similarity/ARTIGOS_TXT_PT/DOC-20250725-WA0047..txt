@@ -1,0 +1,2988 @@
+Fundamentos de Economia 
+Lásara Fabrícia Rodrigues 
+Cuiabá-MT
+2012
+
+RIO GRANDE
+DO SUL
+INSTITUTO
+FEDERAL
+Presidência da República Federativa do Brasil
+Ministério da Educação
+Secretaria de Educação Profissional e Tecnológica
+Equipe de Elaboração
+Universidade Federal de Mato Grosso – UFMT
+Coordenação Institucional
+Carlos Rinaldi
+Coordenação de Produção de Material 
+Didático Impresso
+Pedro Roberto Piloni
+Designer Educacional
+Daniela Mendes
+Designer Master
+Marta Magnusson Solyszko
+Ilustração
+Éder Júnio Gonçalves
+Diagramação
+Tatiane Hirata
+Revisão de Língua Portuguesa
+Marcy Monteiro Neto
+Revisão Técnica e Científica
+Francisco Rodrigues dos Santos
+Instituto Federal de Educação, Ciência e 
+Tecnologia de Minas Gerais – Ouro Preto 
+– MG
+Coordenador Geral
+Reginato Fernandes dos Santos
+Diretor de Ensino
+Valério Augusto Lopes Passos
+Coordenador do Curso
+Marinalva Maria de Brito
+Ficha Catalográfica
+© Universidade Federal de Mato Grosso
+Este caderno foi elaborado em parceria entre o IFMG – Instituto Federal de 
+Educação, Ciência e Tecnologia de Minas Gerais - Ouro Preto - MG, o Ministério da 
+Educação e a Universidade Federal de Mato Grosso para o Sistema Escola Técnica 
+Aberta do Brasil – e-Tec Brasil.
+Projeto Gráfico
+Rede e-Tec Brasil/UFMT
+3
+Prezado estudante,
+Bem-vindo à Rede  e-Tec Brasil!
+Você faz parte de uma rede nacional pública de ensino, a Rede e-Tec Brasil, instituída pelo 
+Decreto nº 7.589/2011, com o objetivo de democratizar o acesso ao ensino técnico público, 
+na modalidade a distância. O programa é resultado de uma parceria entre o Ministério da 
+Educação, por meio da Secretaria de Educação Profissional e Tecnológica (Setec), as universi-
+dades e escolas técnicas estaduais e federais.
+A educação a distância no nosso país, de dimensões continentais e grande diversidade regio-
+nal e cultural, longe de distanciar, aproxima as pessoas ao garantir acesso à educação de qua-
+lidade, e promover o fortalecimento da formação de jovens moradores de regiões distantes, 
+geograficamente ou economicamente, dos grandes centros.
+A Rede e-Tec Brasil leva os cursos técnicos a locais distantes das instituições de ensino e para 
+a periferia das grandes cidades, incentivando os jovens a concluir o ensino médio. Os cursos 
+são ofertados pelas instituições públicas de ensino e o atendimento ao estudante é realizado 
+em escolas-polo integrantes das redes públicas municipais e estaduais.
+O Ministério da Educação, as instituições públicas de ensino técnico, seus servidores técnicos 
+e professores acreditam que uma educação profissional qualificada – integradora do ensino 
+médio e educação técnica, – é capaz de promover o cidadão com capacidades para produzir, 
+mas também com autonomia diante das diferentes dimensões da realidade: cultural, social, 
+familiar, esportiva, política e ética.
+Nós acreditamos em você!
+Desejamos sucesso na sua formação profissional!
+Ministério da Educação
+Maio de 2012
+Nosso contato
+etecbrasil@mec.gov.br
+Apresentação e-Tec Brasil
+
+Os ícones são elementos gráficos utilizados para ampliar as formas de  
+linguagem e facilitar a organização e a leitura hipertextual.
+Atenção: indica pontos de maior relevância no texto.
+Saiba mais: oferece novas informações que enriquecem o 
+assunto ou “curiosidades” e notícias recentes relacionadas ao 
+tema estudado.
+Glossário: indica a definição de um termo, palavra ou expressão 
+utilizada no texto.
+Mídias integradas: remete o tema para outras fontes: livros, 
+filmes, músicas, sites, programas de TV.
+Atividades de aprendizagem: apresenta atividades em 
+diferentes níveis de aprendizagem para que o estudante possa 
+realizá-las e conferir o seu domínio do tema estudado. 
+Reflita: é o momento de uma pausa na leitura para refletir/
+escrever sobre pontos importantes e/ou questionamentos. 
+Indicação de ícones
+e-Tec Brasil
+5
+
+Palavra da professora-autora
+e-Tec Brasil
+7
+“É através das pequenas iniciativas, dos pequenos passos, das pequenas 
+descobertas que se chega à construção e à produção do conhecimento. O 
+simples desvela a essência da verdade: é radical. Do simples, do pequeno, 
+constitui-se o cotidiano, o ato, a práxis, a teoria, a realidade”. 
+Jussara Hoffmann
+Prezado (a) estudante,
+É preciso acreditar em você. Acredite na sua capacidade de vencer, de cons-
+truir o sucesso, de transformar a realidade. Deixe de lado todo o negativis-
+mo. Deixe de lado o ceticismo. Abandone a descrença e seja entusiasmado 
+com sua vida e principalmente com você. 
+Interaja, participe das atividades, explore a plataforma e o caderno. Utilize 
+esse caderno como ferramenta de transformação. 
+Você verá a diferença. 
+Sucesso.
+Lásara Fabrícia Rodrigues 
+
+A disciplina Fundamentos de Economia no curso Técnico de Serviços Públi-
+cos proporcionará o entendimento da economia e a familiarização com os 
+termos envolvidos na área de economia. Além disso, você poderá identificar 
+esses conceitos em situações cotidianas e num contexto profissional.
+A disciplina Fundamentos de Economia é dividida em Introdução e Teoria 
+Econômica. Na Introdução, serão apresentados os problemas econômicos 
+(Aula 1) e os sistemas econômicos (Aula 2). A Teoria Econômica pode ser 
+dividida em dois ramos básicos: a macroeconomia (Aula 3, 4, 5, 6 e 7) e a 
+microeconomia (8, 9 e 10).
+Apresentação da disciplina
+e-Tec Brasil
+9
+Fundamentos de Economiae-Tec Brasil
+10
+
+Sumário
+C
+Aula 1 - A economia e os problemas de natureza econômica 15
+1.1 O que é Economia?  16
+1.2 Do que trata a lei da escassez? 17
+1.2.1 O que produzir?  18
+1.2.2 Quanto produzir? 19
+1.2.3 Como produzir? 20
+1.2.4 Para quem produzir? 21
+1.3 Os problemas econômicos fundamentais e os tipos de economia 21
+1.4 Curva de possibilidade de produção 22
+1.4.1 A curva de possibilidade de produção pode ser alterada? 23
+1.4.1.2 Quando acontece crescimento da economia ou mudança 
+tecnológica 24
+1.5 Macroeconomia e Microeconomia 25
+1.4.1.1 Quando ocorre uma retração da economia 24
+Aula 2 - Sistema Econômico 29
+2.1 O que é um Sistema Econômico? 29
+2.2 Setores da Atividade Econômica 32
+2.3 Como o Sistema Econômico funciona? 33
+Aula 3 - Contabilidade Nacional 37
+3.1 O que é Contabilidade Nacional? 37
+3.2 Como medir a produção realizada por um sistema econômico? 38
+3.2.1 Ótica do Produto 39
+3.2.2 Ótica da Renda   39
+3.3 Principais agregados macroeconômicos 40
+3.3.1 Produto Interno Bruto (PIB) 40
+3.3.2 Produto Nacional Bruto (PNB) 41
+3.3.3 Produto Nacional Líquido (PNL) 41
+3.3.4 Renda Nacional (RN) 42
+e-Tec Brasil
+11
+
+3.3.5 Renda Pessoal (RP) e Renda Pessoal Disponível (RD) 42
+Aula 4 - Consumo, Poupança, Renda e Nível de Atividade 47
+4.1 Qual a relação entre consumo e poupança? 48
+4.2 O que as pessoas fazem com a sua poupança? 50
+4.3 Qual a relação entre demanda e nível de atividade? 51
+4.4 Como funcionam os sistemas econômicos? 51
+4.4.1 Exemplo 54
+Aula 5 - Teoria Monetária e Sistema Financeiro 57
+5.1 Origens da moeda 58
+5.2 Funções da Moeda 61
+5.3 Por que as pessoas e empresas demandam e retêm moeda? 63
+5.4 Demanda de Moeda 64
+5.5 Exemplo 64
+5.6 Oferta de Moeda 65
+5.7 Taxa de juros de equilíbrio 66
+5.8 Sistema financeiro 67
+5.9 Crédito 69
+Aula 6 - Inflação 73
+6.1 O que é Inflação? 73
+6.2 Então, por que o governo emite moeda? 75
+6.3 Quais são as consequências da inflação? 75
+6.4 A inflação no Brasil 76
+Aula 7 - Economia Internacional 79
+7.1 Do que trata a Economia Internacional? 79
+7.2 O que é a Teoria das Vantagens Comparativas? 80
+7.2.1 Exemplo 81
+7.3 Balanço de pagamentos  82
+7.3.1 Estrutura do balanço de pagamentos 83
+7.3.2 Exemplo 84
+7.4 Taxa de câmbio  86
+Aula 8 - Teoria da Demanda 91
+8.1 O que é demanda? 92
+8.2 Como a demanda se comporta? 94
+8.3.1 Exemplo 97
+8.4 O que são bens complementares e bens substitutos? 98
+8.4.1 Como a elasticidade pode ajudar a identificar os bens comple-
+mentares e substitutos? 99
+Aula 9 - Teoria da Produção 103
+9.1 Do que trata a oferta? 104
+9.3 O que é a curva de oferta? 105
+9.4.1 Exemplo 107
+Aula 10 - Mercado 111
+10.1 O que é mercado? 111
+10.2 Como podemos classificar esses mercados? 113
+10.2.1 Concorrência pura ou perfeita 114
+10.2.2 Monopólio puro  114
+10.2.3 Oligopólio  115
+10.2.4 Concorrência monopolística  115
+Palavras finais 119
+GUIA DE SOLUÇÕES 120
+Referências 126
+Currículo da professora-autora   127
+e-Tec Brasil
+13
+
+e-Tec Brasil
+Aula 1 - A economia e os problemas 
+de natureza econômica
+Nessa aula vamos iniciar o estudo da economia e dos problemas econômi-
+cos. É importante que você ao estudar essas informações relacione os con-
+ceitos apresentados com situações cotidianas e com o exercício profissional.
+Objetivos: 
+1. Definir economia;
+2. Identificar os problemas de natureza econômica e relacioná-los 
+com situações do dia a dia;
+3. Relacionar recursos escassos e necessidades ilimitadas;
+4. Entender a curva de possibilidade de produção;
+5. Diferenciar microeconomia de macroeconomia.
+e-Tec BrasilAula 1 - A economia e os problemas de natureza econômica
+15
+ 1.1 O que é Economia? 
+Muitas mudanças vêm acontecendo na sociedade. Avanços têm ocorrido 
+em diversas áreas levando ao aumento dos níveis de consumo, aumento da 
+quantidade de produtos disponíveis para os consumidores, maiores investi-
+mentos em tecnologia e comunicação, dentre outros.
+Mesmo com todos os avanços que vêm acontecendo nessas e em outras 
+áreas, problemas, como a falta de acesso aos bens e à tecnologia, ainda 
+continuam a existir, ou seja, mesmo tendo um maior número de produtos 
+disponíveis, pessoas continuam não tendo acesso a esses produtos.
+O conceito de economia é importante para todos nós, tanto no ambiente 
+de trabalho quanto no dia a dia doméstico. Isso acontece porque os proble-
+mas econômicos estão presentes em todos os instantes de nossas vidas. Por 
+exemplo, às vezes nos deparamos com questões como: 
+•	 Por que mesmo ganhando mais tenho a impressão que consigo comprar 
+menos?
+•	 Por que os preços do supermercado e do combustível variam?
+•	 Por que o imposto de renda vai passar a incidir sobre a caderneta de 
+poupança?
+•	 Por que o preço dos alimentos diminui em períodos de safra e aumenta 
+na entressafra?
+Imposto
+São valores pagos por pessoas 
+físicas ou jurídicas (empresas). 
+Esses valores são arrecadados 
+pelo estado (governo federal, 
+estadual e municipal) e são 
+utilizados para custear gastos 
+públicos (saúde, educação, 
+segurança, etc) e para a 
+realização de investimentos em 
+obras públicas (hospitais, escolas, 
+estradas, etc).
+Imposto de Renda:
+É um tipo de imposto que incide 
+sobre a renda de qualquer 
+natureza. É pago tanto por 
+pessoas físicas (Imposto de 
+Renda Pessoa Física – IRPF) 
+quanto por pessoas jurídicas 
+(Imposto de Renda Pessoa 
+Jurídica – IRPJ).
+Como surgiu a economia?
+Na condição de uma disciplina 
+científica, a economia é bem 
+recente. Tornou-se costumeiro 
+datar seu início com a 
+publicação do livro a Riqueza 
+das nações, de Adam Smith, 
+em 1776 (COUTINHO, 1993). É 
+claro que isto não quer dizer que 
+anteriormente não tenha existido 
+algum tipo de reflexão sobre os 
+assuntos econômicos. 
+O termo economia se originou 
+da palavra grega oikosnomos 
+(oikos = casa ou família e 
+nomos = lei), e significava a 
+arte de administrar uma casa 
+ou um Estado. (VASCONCELOS; 
+GARCIA, 2004)
+Fundamentos de Economiae-Tec Brasil
+16
+De modo geral, há uma escassez de recursos diante das necessidades ilimi-
+tadas e renovadas constantemente, impondo a necessidade de decidir quais 
+necessidades serão satisfeitas. Assim, surge o objeto da ciência econômica: 
+o estudo da escassez e dos problemas relacionados à escassez.
+1.2 Do que trata a lei da escassez?
+Para satisfazer as necessidades materiais e não-materiais de uma sociedade é ne-
+cessário produzir bens e serviços. Para isso, empregam-se os recursos produtivos.
+Esses recursos podem ter usos alternativos, isto é, podem ser utilizados para 
+produzir diferentes produtos. Por exemplo, um produtor rural pode utilizar 
+suas terras para produzir soja ou milho e uma indústria automobilística pode 
+produzir tratores ou ônibus. 
+•	 Por que existem pessoas desempregadas?
+•	 Por que a água é barata, mesmo sendo necessária à vida, e os diamantes 
+são caros, mesmo não sendo essenciais?
+•	 Por que a renda per capita no sudeste é maior do que a no nordeste?
+A economia nos ajuda a entender essas e muitas outras questões e como elas 
+influenciam as nossas vidas, ou seja, ajuda a analisar os problemas enfrentados 
+pelas pessoas e empresas e como esses problemas podem ser contornados.
+O objetivo da economia é organizar políticas que articulem produção, distri-
+buição e consumo de bens e serviços, com a finalidade de minimizar os pro-
+blemas e maximizar os benefícios em favor da qualidade de vida da sociedade.
+Economia é a “[...] ciência que estuda o emprego de recursos escassos entre 
+diferentes usos possíveis, com o fim de obter os melhores resultados, seja na 
+produção de bens, ou na prestação de serviços” (SOUZA, 2007, p.2).
+A economia estuda como devem ser utilizados os recursos produtivos escas-
+sos na produção das diversas categorias de bens e serviços, colocados no 
+mercado com o intuito de satisfazer suas infinitas necessidades (OLIVEIRA et 
+al., 2006). Além disso, segundo Silva e Luiz (2001), a economia se ocupa das 
+questões relativas à satisfação das necessidades dos indivíduos (necessidades 
+individuais) e da sociedade (necessidades coletivas).
+Recursos produtivos:
+São os elementos básicos 
+utilizados na produção de bens e 
+serviços destinados a atender à 
+demanda. São também conheci-
+dos como fatores de produção.
+Exemplos: mão de obra, matéri-
+as-primas, máquinas, prédios e 
+capital financeiro.
+e-Tec BrasilAula 1 - A economia e os problemas de natureza econômica
+17
+Como os recursos que essas empresas dispõem são limitados, nem sempre a pro-
+dução de todos os bens pode ser aumentada ao mesmo tempo, no curto prazo.
+A necessidade humana vem da sensação de carência ou do desejo de obter 
+algum produto. As necessidades humanas básicas são: alimentação, vestu-
+ário, transporte, educação e cultura, saúde, segurança e lazer. Essas neces-
+sidades são consideradas ilimitadas, pois estamos sempre desejando possuir 
+mais do que temos.
+Souza (2007) sinaliza que essas necessidades são limitadas pela renda do 
+indivíduo, ou seja, as quantidades demandadas dos diferentes bens são li-
+mitadas pela renda dos indivíduos. Como as necessidades são ilimitadas, os 
+consumidores, baseados em sua renda, estabelecem prioridades para seus 
+gastos. Essas prioridades são subjetivas e baseadas nas preferências ou ne-
+cessidades do consumidor.
+A escassez ocorre porque as necessidades humanas excedem a capacidade 
+de produção possível com a utilização dos recursos limitados disponíveis. 
+A lei da escassez analisa a utilização dos recursos escassos, escolhendo entre 
+usos alternativos, para produzir bens e serviços úteis para a satisfação das 
+necessidades dos consumidores.
+Vasconcellos e Garcia (2004) afirmam que a relação entre os recursos escas-
+sos e as necessidades ilimitadas acaba originando os problemas econômicos 
+fundamentais, isto é, por não termos os recursos suficientes para atender 
+todas as necessidades é necessário fazer escolhas sobre o que, quanto, como 
+e para quem produzir. 
+1.2.1 O que produzir? 
+Recursos limitados:
+Recursos são insuficientes para 
+produzir o volume de bens e ser-
+viços necessários para satisfazer 
+as necessidades de todas as 
+pessoas. Também são chamados 
+de recursos escassos.
+Curto prazo:
+Recursos são insuficientes para 
+produzir o volume de bens e ser-
+viços necessários para satisfazer 
+as necessidades de todas as 
+pessoas. Também são chamados 
+de recursos escassos.
+A decisão de o que produzir é influenciada pelas necessidades dos consu-
+midores, ou seja, pela demanda. O nível de renda da população também 
+Fundamentos de Economiae-Tec Brasil
+18
+influencia quais produtos ela irá consumir. Quanto maior for a renda maiores 
+serão as quantidades de produtos e serviços consumidos. Além disso, ao au-
+mentar essa renda os consumidores passam a consumir não só uma maior 
+quantidade de produtos, mas também produtos de melhor qualidade. 
+Em relação às empresas, ao deixar de produzir um produto para produzir ou-
+tro, elas têm um custo de oportunidade. O custo de oportunidade é o custo 
+da oportunidade perdida, ou seja, ao deixar de produzir um produto para 
+produzir outro, os ganhos que poderiam ser obtidos com o novo produto 
+que não foi produzido deixam de ser obtidos.
+Segundo Vasconcellos e Garcia (2004), esse custo também é chamado de 
+custo alternativo, pois representa o custo da produção alternativa sacrificada.
+Um maior benefício associado à opção não escolhida pode representar o 
+custo da alternativa escolhida.
+1.2.2 Quanto produzir?
+O quanto produzir é a decisão de qual quantidade de cada um dos produtos 
+será produzida. Essa quantidade é fixada pela interação entre a oferta (pro-
+dutor) e a demanda (mercado consumidor), ou seja, quanto mais pessoas 
+quiserem comprar um produto, mais ele será produzido. 
+A quantidade consumida (demanda) também é influenciada pelo nível de ren-
+da e a quantidade produzida (oferta) pela escassez dos recursos produtivos.
+e-Tec BrasilAula 1 - A economia e os problemas de natureza econômica
+19
+1.2.3 Como produzir?
+Segundo Souza (2007), o como produzir está relacionado com a tecnologia 
+utilizada. E, ao escolher entre essas diferentes tecnologias disponíveis, as 
+empresas devem procurar obter a máxima eficiência. 
+Complementando a questão do como produzir, Vasconcellos e Garcia (2004) 
+argumentam que é necessário decidir dentre as diferentes opções os recur -
+sos de produção que deverão ser empregados para a obtenção de um deter-
+minado bem ou serviço. Esse conhecimento pode ser comprado de outros 
+países através do pagamento de direitos (royalties) ou obtido a partir do de-
+senvolvimento de produtos e processos de produção ou do aperfeiçoamento 
+de produtos e processos existentes através de investimentos em pesquisa e 
+desenvolvimento (P&D). 
+Ao decidir entre as diferentes opções de recursos deve-se levar em conside-
+ração o preço dos recursos. Por exemplo, em países onde a mão de obra é 
+barata, geralmente prefere-se utilizar processos de produção mais manuais. 
+Em países onde a mão de obra é cara, as empresas tendem a investir em me-
+canização para utilizar uma menor quantidade de mão de obra. Em geral, as 
+empresas investem cada vez mais em tecnologia, pois devido à globalização 
+da produção em nível mundial, as empresas precisam reduzir custos, para 
+poder competir.
+Royalties:
+Valor pago ao proprietário de 
+uma patente, marca, produto, 
+processo de produção, obra 
+original para permitir seu uso ou 
+comercialização.
+Existe relação entre os 
+investimentos em P&D e o 
+crescimento econômico?
+Empresas investem grandes 
+somas de recursos em pesquisa 
+e desenvolvimento (P&D) de 
+novos produtos e processos de 
+produção. Os resultados desses 
+investimentos são o atendimento 
+de necessidades ainda não 
+satisfeitas dos consumidores 
+levando essas empresas a obter 
+grandes lucros.
+Os investimentos em P&D 
+concentram-se principalmente 
+em países desenvolvidos, 
+como Estados Unidos, Japão e 
+os países membros da União 
+Europeia. Entretanto, nas 
+últimas décadas países em 
+desenvolvimento como Brasil, 
+Índia e, principalmente, China 
+têm apresentado significativo 
+aumento nesses investimentos.
+Não por acaso, a China é o 
+país que apresenta as maiores 
+taxas de crescimento econômico 
+atualmente.
+Fundamentos de Economiae-Tec Brasil
+20
+1.2.4 Para quem produzir?
+O para quem produzir inclui a definição de quais setores serão beneficiados 
+pelos resultados da produção, determinando o acesso das pessoas a um 
+conjunto de bens ou serviços, de acordo com os níveis de renda. 
+De acordo com Souza (2007), do ponto de vista das empresas a decisão 
+de para quem produzir é tomada em função da expectativa de obter lucro, 
+ou seja, como utilizar os recursos que ela tem disponível para aumentar 
+seu lucro. Por exemplo, uma empresa automobilística pode escolher entre 
+produzir carros populares ou carros de luxo ou, ainda, uma combinação 
+desses dois tipos de produto.
+1.3 Os problemas econômicos fundamentais e 
+os tipos de economia
+Em economias de mercado, esses problemas (o que produzir, quanto produ-
+zir, como produzir, para quem produzir) são resolvidos pelos mecanismos de 
+preços atuando por meio da oferta (produção) e da demanda (consumido-
+res), ou seja, o aumento da oferta implica na redução dos preços e o aumen-
+to da demanda implica no aumento dos preços.
+Nas economias centralizadas, essas questões são decididas por um órgão cen-
+tral de planejamento, a partir do levantamento dos recursos de produção dis-
+poníveis e das necessidades do país, e não pela oferta e demanda no mercado.
+Economia de Mercado:
+Ocorre quando os agentes 
+econômicos agem de forma livre, 
+sem a intervenção dos governos. 
+Nesse tipo de sistema predomina 
+a livre iniciativa e a propriedade 
+privada dos recursos produtivos.
+Economia de mercado é asso-
+ciada ao sistema capitalista.
+Economias centralizadas:
+Ocorre quando as questões 
+econômicas fundamentais 
+são resolvidas por um órgão 
+central de planejamento. Nesse 
+tipo de sistema predomina a 
+propriedade pública dos recursos 
+produtivos.
+Economias centralizadas são as-
+sociadas a sistemas socialistas.
+e-Tec BrasilAula 1 - A economia e os problemas de natureza econômica
+21
+ 
+0
+10
+20
+30
+40
+50
+60
+0 20 40 60 80 100 120
+A 
+B 
+Soja 
+Milho 
+R 
+S 
+1.4 Curva de possibilidade de produção
+É preciso escolher entre os diferentes tipos de bens e as quantidades a 
+serem produzidas de cada um deles. Por exemplo, um agricultor precisa 
+decidir quais quantidades de soja e milho serão plantadas, ou seja, ele 
+precisa escolher uma alternativa produtiva entre as possíveis combinações. 
+Na verdade, o que ocorre é que esse agricultor dispõe de um conjunto de 
+recursos produtivos (terra, capital, mão de obra, etc) e deve decidir quais 
+desses recursos serão utilizados para produzir soja e quais serão utilizados 
+para produzir milho.
+De acordo com Silva e Luiz (2001), a curva de possibilidade de produção 
+mostra combinações produtivas tecnicamente eficientes na produção de 
+dois bens, isto é, indica as possíveis combinações de dois bens utilizando 
+todos os recursos produtivos. Nessa curva, todos os recursos produtivos são 
+plenamente empregados e a produção total obtida é a máxima possível. 
+Assim, qualquer ponto sobre a curva representa que a economia irá operar 
+com plena capacidade utilizando todos os fatores de produção disponíveis 
+(VASCONCELLOS; GARCIA, 2004).
+O ponto final de equilíbrio dependerá dos preços de mercado ou de deci-
+sões políticas. Em outras palavras, se o preço do milho aumentar e o preço 
+da soja permanecer constante, aumentará a produção de milho em relação 
+à produção de soja. 
+Na figura abaixo, temos um exemplo de curva de possibilidade de produ-
+ção para o exemplo da soja e do milho. No eixo das abscissas (horizontal) 
+representamos a quantidade de soja que pode ser produzida. No eixo das orde-
+nadas (vertical) representamos a quantidade de milho que pode ser produzida.
+Fundamentos de Economiae-Tec Brasil
+22
+ 
+Milho 
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+0 20 40 60 80 100 120 
+A 
+B 
+Soja 
+R 
+S 
+C 
+D 
+A linha que une os pontos R e S é chamada curva de possibilidade de produção. 
+Essa curva indica as diferentes quantidades dos dois bens (milho e soja) que po-
+dem ser produzidos, quando são utilizados todos os recursos disponíveis.
+Vamos inicialmente analisar a situação mostrada pelo ponto A. Nesse ponto, 
+são produzidas 20 milhões de toneladas de soja e 40 milhões de toneladas 
+de milho. Se o consumo de soja aumentar será necessário aumentar a pro-
+dução de soja e, por consequência, será necessário reduzir a produção de 
+milho, pois os recursos que eram utilizados na produção de milho passam 
+a ser utilizados na produção de soja. Por exemplo, ao produzir 40 milhões 
+de toneladas de soja e 30 milhões de toneladas de milho. Essa situação é 
+representada no gráfico pelo ponto B.
+A linha que une os pontos R e S representa o limite máximo de disponibilida-
+de dos recursos produtivos, ou seja, a disponibilidade de recursos produtivos 
+permite que se produza, no máximo, a quantidade representada na curva. 
+Logo, os pontos acima dessa linha, como o ponto C no gráfico abaixo, não 
+representam combinações possíveis de produção de soja e milho. Já o ponto 
+D é uma combinação possível, mas há recursos produtivos que não estão 
+sendo utilizados, ou seja, a produção é menor do que poderia ser.
+1.4.1 A curva de possibilidade de produção pode ser 
+alterada?
+Em algumas situações ela pode ser alterada. Ela é alterada quando ocorre 
+retração da economia, crescimento da economia ou mudança tecnológica.
+e-Tec BrasilAula 1 - A economia e os problemas de natureza econômica
+23
+1.4.1.1 Quando ocorre uma retração da economia
+Retração da economia significa, para nós, a diminuição da quantidade de 
+recursos disponíveis. Nesse caso, ocorre deslocamento da curva para a es-
+querda, como é mostrado no gráfico abaixo.
+ 
+0
+10
+20
+30
+40
+50
+60
+0 20 40 60 80 100 120
+Milho 
+Soja 
+1.4.1.2 Quando acontece crescimento da economia ou mudança 
+tecnológica
+Crescimento da economia ou mudança tecnológica significa, para nós, o 
+aumento da quantidade de recursos disponíveis ou da produtividade dos 
+recursos. Nesse caso, Vasconcellos e Garcia (2004) afirmam que ocorre des-
+locamento da curva para a direita, como é mostrado no gráfico abaixo, per-
+mitindo que a economia obtenha maiores quantidades de ambos os bens.
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+0 20 40 60 80 100 120 140
+Soja 
+Milho 
+Vasconcellos e Garcia (2004) e Oliveira et al. (2006) concordam que o cresci-
+mento econômico é gerado por:
+•	 Aumento dos recursos produtivos (recursos minerais, financeiros, etc.).
+•	 Melhor aproveitamento dos recursos existentes, em função de progresso 
+tecnológico, qualificação da mão de obra e melhor utilização dos recursos.
+Fundamentos de Economiae-Tec Brasil
+24
+Resumo
+Como os recursos produtivos são escassos, os agentes econômicos precisam 
+utilizá-los de forma racional, de modo a obter os melhores resultados em 
+termos de quantidade e qualidade. O produtor precisa minimizar custos e 
+vender seus produtos aos preços mais altos possível. O consumidor, pelo 
+contrário, precisa obter o máximo de produtos, pensando em suas preferên-
+cias (gosto), com um mínimo de gasto.
+Atividades de aprendizagem
+1. Um laticínio é uma unidade produtora que recebe o leite do produtor ru-
+ral e o beneficia, transformando-o em diversos produtos como iogurtes, 
+queijos, leite pasteurizado, ricotas, etc. 
+Analisando um laticínio e a definição de recurso produtivo apresentada nessa 
+aula, marque a alternativa que não contiver um exemplo de recurso produtivo:
+a) (     ) Mão de obra (funcionários).
+Teoria Econômica
+Microeconomia
+Macroeconomia
+1.5 Macroeconomia e Microeconomia
+A teoria econômica pode ser dividida em dois ramos básicos: a microecono-
+mia e a macroeconomia (SILVA; LUIZ, 2001). 
+A microeconomia estuda os agentes econômicos (como empresa e consumi-
+dor) individualmente, isto é, estuda a maneira como o consumidor gasta sua 
+renda ou uma empresa emprega seus recursos produtivos.
+A macroeconomia estuda os agentes econômicos em seu conjunto, o conjunto 
+de consumidores e o conjunto de empresas, dando ênfase à análise do produto 
+nacional, nível de renda, inflação, desemprego, taxa de juros e taxa de câmbio. 
+e-Tec BrasilAula 1 - A economia e os problemas de natureza econômica
+25
+b) (     ) Queijo.
+c) (     ) Máquinas.
+d) (     ) Leite in natura (trazido do produtor rural).
+2. Explique o que significam recursos limitados (escassos), necessidades ili-
+mitadas e como eles se relacionam.
+3. Associe as colunas a seguir de modo que melhor explique cada uma das 
+quatro questões básicas ligadazs à Lei da Escassez.
+COLUNA 1 COLUNA 2
+(A) O que produzir?
+(    ) É influenciado pela questão técnica, que 
+indica que há várias maneiras  de se combi-
+nar os recursos produtivos.
+(B) Quanto produzir?
+(    ) Envolve a distribuição dos bens e dos 
+serviços produzidos entre os elementos da 
+sociedade.
+(C) Como produzir?
+(    ) Reconhece que os recursos produtivos 
+apresentam caráter limitado, ou seja, é limi-
+tado pela quantidade de recursos disponível.
+(D) Para quem produzir?
+(    ) Indica que é necessário identificar a 
+natureza das necessidades humanas, para 
+saber quais os bens e serviços a produzir.
+4. A curva de possibilidade de produção a seguir mostra diferentes combi-
+nações produtivas de caminhões e ônibus que uma indústria automobi-
+lística está analisando.
+Essa empresa precisa saber quais dos pontos mostrados na curva (pontos 
+A, B e C) representam combinações possíveis de ônibus e caminhões. 
+Justifique sua resposta.
+ 
+B 
+C 
+A 
+Caminhões 
+Ônibus 
+Fundamentos de Economiae-Tec Brasil
+26
+Caro (a) estudante
+Passaremos, na Aula 2, a estudar o Sistema Econômico, seu funcionamento 
+e a atuação dos agentes econômicos nesses sistemas.
+A microeconomia e a macroeconomia também serão estudadas mais deta-
+lhadamente nas próximas aulas. A macroeconomia será estudada nas Aulas 
+3, 4, 5, 6 e 7 e, a microeconomia, nas Aulas 8, 9 e 10.
+Não deixe de realizar as atividades propostas e continue atento ao conteúdo 
+que você tem pela frente.
+e-Tec BrasilAula 2 - Sistema Econômico
+27
+Fundamentos de Economiae-Tec Brasil
+28
+
+Objetivos:
+1. Definir e identificar os elementos de um sistema econômico;
+2. Classificar os bens e serviços;
+3. Diferenciar os setores da atividade econômica;
+4. Entender o funcionamento de um sistema econômico.
+Nessa aula vamos discutir o funcionamento do sistema econômico e a inte-
+ração entre os agentes econômicos. Podemos, com isso, entender relações 
+ou fluxos entre empresas e pessoas. 
+2.1 O que é um Sistema Econômico?
+Uma pessoa consome um conjunto de bens e serviços produzidos em diver-
+sas áreas da atividade econômica. Essa pessoa, para poder consumir esse 
+Aula 2 - Sistema Econômico
+e-Tec BrasilAula 2 - Sistema Econômico
+29
+
+conjunto de bens e serviços, troca sua força de trabalho por um salário. O 
+salário pago ao trabalhador pelo empresário permite que ele adquira os bens 
+e serviços que necessita.
+Essa interação entre pessoas, ou famílias, e empresas ocorre no mercado. As 
+empresas definem o que produzir, quanto produzir, como produzir e para 
+quem produzir a partir das necessidades das pessoas (mercado consumidor) 
+e da disponibilidade de recursos produtivos.
+Em economias de mercado, a regulação dessa interação é fornecida pela 
+concorrência entre empresas e pelo sistema de preços. Quanto maior for a 
+oferta de produtos, menores serão seus preços e quanto mais escassos esse 
+produtos forem maiores serão seus preços. Pelo lado da demanda, quanto 
+mais os produtos são procurados (demanda), mais eles serão valorizados e 
+quanto menos forem procurados menores serão seus preços. Esse tipo de 
+economia é caracterizada pela livre concorrência entre produtores e consu-
+midores, o que estabelece os preços pelos quais os produtos serão vendidos. 
+Nas economias centralizadas, a regulação é responsabilidade de um órgão 
+central que define os rumos da economia.
+Um sistema econômico é a maneira como a sociedade se organiza visando 
+solucionar a forma como utilizará seus recursos produtivos (trabalho, capital, 
+recursos naturais, etc) para produzir bens e serviços para atender as necessi-
+dades da sociedade. Engloba o tipo de propriedade, a gestão da economia, 
+os processos de circulação das mercadorias, o consumo e os níveis de desen-
+volvimento tecnológico e da divisão do trabalho. 
+As empresas organizam seus recursos produtivos para que possam ser pro-
+duzidos os bens e os serviços. Essas empresas são conhecidas como uni-
+dades produtoras. São exemplos de unidades produtoras: um laticínio, um 
+fabrica de ração, uma escola, uma confecção de roupas, etc.
+Conforme Souza (2007), os bens produzidos nessas unidades produtoras 
+podem ser classificados em:
+•	 Bens e serviços de consumo: são bens e serviços destinados ao atendimen-
+to direto das necessidades das pessoas, ou seja, não precisam de nenhuma 
+transformação para ser utilizados pelos consumidores. De acordo com sua 
+durabilidade, podem ser classificados como duráveis (geladeiras, fogões, 
+Fundamentos de Economiae-Tec Brasil
+30
+automóveis) ou como não-duráveis (alimentos, produtos de limpeza).   
+•	 Bens e serviços intermediários: são bens e serviços utilizados na produção 
+de outros bens e serviços. Exemplos desse tipo de bens incluem insumos, 
+matérias-primas e componentes, como chapas de aço, serviços de com-
+putação, minério de ferro, leite in natura, etc.
+• Bens de capital: são bens utilizados na fabricação de outros bens, 
+aumentando a eficiência do trabalho humano. Entretanto, não se desgastam 
+totalmente no processo produtivo. São exemplos: máquinas, equipamentos, 
+instalações, edifícios, computadores, estradas, etc.
+e-Tec BrasilAula 2 - Sistema Econômico
+31
+2.2 Setores da Atividade Econômica
+A atividade econômica concretiza-se pela produção de um conjunto diver -
+sificado de bens e serviços, cujo objetivo é satisfazer as necessidades das 
+pessoas. Silva e Luiz (2001) e Souza (2007) dividem essas atividades econô-
+micas em três grandes setores da economia de acordo com as características 
+fundamentais de sua produção:
+•	  Setor primário: é constituído pelas unidades produtoras que utilizam in-
+tensamente recursos naturais. Envolve as atividades agrícolas, pesquei-
+ras, pecuárias, extração vegetal, reflorestamento e mineração.
+•	 Setor secundário: é constituído pelas unidades produtoras dedicadas às 
+atividades industriais através das quais os bens são transformados. Inclui 
+a produção de veículos automotores, materiais de construção, produtos 
+químicos e farmacêuticos, plásticos, eletrodomésticos, tratores, produtos 
+alimentares, etc.
+Fundamentos de Economiae-Tec Brasil
+32
+•	 Setor terciário: é formado pelas unidades produtoras que prestam ser -
+viços, tais como bancos, empresas de transporte, hospitais, comércio, 
+turismo, meios de comunicação, etc.
+2.3 Como o Sistema Econômico funciona?
+O funcionamento do sistema econômico ocorre da seguinte forma: 
+•	 As unidades produtoras (empresas), para produzir os bens e serviços, uti-
+lizam os recursos produtivos. Essas unidades remuneram esses recursos 
+através de salários (pago aos trabalhadores), aluguéis (pago pelas instala-
+ções), juros (pago pelos financiamentos) e lucros (pago aos proprietários).
+•	 A remuneração obtida proporciona às pessoas a possibilidade de adquirir 
+os bens e os serviços produzidos pelas unidades produtoras. Em outras 
+palavras, ela usa seu salário para comprar os bens que necessita como 
+alimentos, roupas, etc.
+Essa interação entre o público (as pessoas) e as unidades produtoras (em-
+presas) resulta, de acordo com Luiz e Silva (2001), em dois fluxos em um 
+sistema econômico: um fluxo de bens e serviços e, de outro lado, um fluxo 
+monetário.
+O fluxo de bens e serviços é conhecido como fluxo real ou fluxo do produto e 
+representa a totalidade dos bens e serviços finais produzidos pelas unidades 
+produtoras. Esse fluxo constitui a oferta da economia, ou seja, todos os bens 
+e serviços produzidos pela economia.
+O fluxo monetário ou nominal inclui a totalidade da remuneração dos re-
+cursos produtivos empregados pelas unidades produtoras, que incluem as 
+e-Tec BrasilAula 2 - Sistema Econômico
+33
+Mercado
+Setor Primário
+Setor Secundário
+Setor Terciário
+Salários
+Juros
+Lucros
+Aluguel
+Alimentos
+Roupas
+Serviços
+Máquinas
+etc.
+FLUXO MONETÁRIO
+DEMANDA
+FLUXO REAL
+OFERTA
+rendas e despesas das famílias e os custos e receitas das empresas (SOUZA, 
+2007). Esse fluxo constitui a demanda ou procura da economia.
+A interação entre a oferta e a demanda de produtos determina os preços 
+de mercado de cada bem ou serviço. Essas duas funções (oferta e demanda) 
+são as mais importantes de um sistema econômico e formam o mercado, ou 
+seja, o mercado é formado pelos fluxos real e monetário, respectivamente, a 
+oferta e a demanda da economia.
+A figura abaixo mostra os fluxos monetário e real do sistema econômico e a 
+formação do mercado.
+Fundamentos de Economiae-Tec Brasil
+34
+ 
+Fluxo real Fluxo monetário 
+Aparelho 
+Produtivo 
+Bens e 
+Serviços Famílias 
+Mercado 
+De acordo com Vasconcellos e Garcia (2004), o sistema econômico é carac-
+terizado pela circulação dos fluxos real e monetário. Essa circulação entre as 
+entidades do sistema econômico permite-lhe cumprir adequadamente o seu 
+papel.
+A figura abaixo mostra a circulação no sistema econômico.
+e-Tec BrasilAula 2 - Sistema Econômico
+35
+Resumo
+O sistema econômico é composto pelos agentes econômicos (empresas, pes-
+soas, etc). A atuação de todos os agentes econômicos (empresas, pessoas, 
+etc) possibilita o funcionamento de um sistema econômico. O fluxo real ou 
+de produtos (oferta) define quais bens e serviços estarão disponíveis e o 
+fluxo monetário (demanda) constitui a remuneração de trabalhadores, pro-
+prietários, etc.
+Atividades de aprendizagem
+1.  Em relação ao sistema econômico, marque V (se a afirmação for verda-
+deira) ou F (se a afirmação for falsa).
+a) (     ) No sistema econômico existe apenas o fluxo de bens e serviços, 
+também conhecido como fluxo nominal.
+b) (     ) O funcionamento do sistema econômico depende das unidades 
+produtoras e do consumo das pessoas.
+c) (     ) O fluxo monetário é formado pelos salários, juros, lucros e alu-
+guéis.
+2.  Classifique os bens e serviços listados abaixo em bens de consumo, bens 
+de capital e bens intermediários.
+Automóvel, máquina de costura em uma confecção de roupas, geladeira, 
+transporte coletivo, estradas, petróleo e trigo.
+3.   Marque no caça palavras as atividades que são do setor secundário.
+
+Fundamentos de Economiae-Tec Brasil
+36
+Prezado (a) estudante
+Você teve oportunidade de conhecer nesta aula elementos do sistema eco-
+nômico que são importantes para poder prosseguir nesta disciplina. Na Aula 
+3 vamos iniciar o estudo da Macroeconomia. A macroeconomia analisa os 
+agentes econômicos em seu conjunto. Começaremos pelo estudo da Con-
+tabilidade Nacional, uma forma de medir as transações (de bens e serviços) 
+realizadas em uma nação durante um período de tempo.
+Continue separando algum tempo do seu dia para estudar o que está expos-
+to e realizar as atividades de aprendizagem.
+Aula 3 - Contabilidade Nacional
+e-Tec BrasilAula 3 - Contabilidade Nacional
+37
+Objetivos:
+1. Definir contabilidade nacional;
+2. Determinar como medir a produção em um sistema econômico;
+3. Listar e calcular os principais agregados macroeconômicos.
+Nessa aula, vamos discutir porque é importante medir as transações dentro 
+de um sistema econômico ao longo do tempo. Essas medidas (agregados 
+macroeconômicos) mostram o comportamento desses sistemas econômicos.
+3.1 O que é Contabilidade Nacional?
+A partir dos levantamentos de Souza (2007), podemos entender que os con-
+ceitos fundamentais de Contabilidade Nacional se desenvolveram a partir de 
+Keynes em 1936 e após alguns acontecimentos históricos (principalmente, 
+Fundamentos de Economiae-Tec Brasil
+38
+a Crise de 1929 e as duas Guerras Mundiais) foi necessário criar meios que 
+permitissem comparações internacionais.
+Assim surgiu a Contabilidade Nacional, também chamada de Contabilidade 
+Social, como uma forma de medir todas as transações (de bens e serviços) 
+que compõem a vida econômica de uma nação (VASCONCELLOS, 2002).
+A Contabilidade Nacional mostra todas as operações efetuadas pelos agen-
+tes econômicos em um determinado período de tempo. Conforme Souza 
+(2007), os agentes econômicos são as famílias (unidades consumidoras), as 
+empresas (unidades produtoras), o governo (federal, estadual e municipal) e 
+o resto do mundo (agentes econômicos residentes no exterior).
+A Contabilidade Nacional mostra o desempenho global de uma economia 
+em termos quantitativos e fornece os meios para a análise do conjunto da 
+economia de uma sociedade.
+A partir dessa definição, nos deparamos com uma pergunta: 
+3.2 Como medir a produção realizada por um 
+sistema econômico?
+Inicialmente, é necessário estabelecer o período de tempo para medir o total de 
+bens e de serviços produzidos. O período considerado atualmente é um ano.
+Em seguida, precisa-se estabelecer a unidade de medida utilizada, pois os 
+produtos são medidos em diferentes unidades. Exemplos dessas unidades 
+e-Tec BrasilAula 3 - Contabilidade Nacional
+39
+de medida são as medidas da carne em arrobas, da energia elétrica em qui-
+lowatts e dos automóveis em unidades. Por esse motivo, é importante que 
+os valores estejam em unidades monetárias, ou seja, em termo do seu preço.
+Finalmente, é necessário estabelecer, segundo Silva e Luiz (2001), a ótica 
+segundo a qual a atividade econômica pode ser examinada e medida (ótica 
+do produto e ótica da renda).
+3.2.1 Ótica do Produto
+A ótica do produto considera o preço e a quantidade produzida dos bens 
+e dos serviços, mas apenas daqueles voltados para o consumo final. Essa 
+ótica deriva da definição de produto que afirma que produto são os valores 
+monetários de todos os bens e serviços finais produzidos por um país num 
+determinado período de tempo, ou seja, o produto é o total de vendas (re-
+ceita dos empresários) somadas aos estoques avaliados a preço de mercado 
+(SILVA e LUIZ, 2001).
+Por exemplo, para produzir uma mesa de madeira são utilizados muitos bens 
+e serviços (madeira, serra, lixadeira, verniz, etc). Esses bens e serviços não são 
+computados no cálculo do produto da economia, pois são bens e serviços 
+intermediários. Segundo essa ótica, apenas o número de mesas produzidas 
+multiplicada pelo seu preço entrará no cálculo, evitando o problema da du-
+pla contagem, já que os preços dos bens e serviços intermediários (madeira, 
+serra, etc) estão incluídos no preço do produto final (mesa).
+3.2.2 Ótica da Renda  
+Em relação à renda, ela pode ser definida como a soma das remunerações fei-
+tas aos recursos produtivos durante um determinado período de tempo, ou 
+seja, com a receita obtida os empresários remuneram os recursos produtivos 
+através de salários (pagos aos trabalhadores), de aluguéis (pago ao proprie-
+tário), de juros (pago ao dono do capital) e dos lucros (pago ao empresário). 
+Assim, conforme Silva e Luiz (2001), podemos dizer que as receitas, ou o 
+produto da economia, são totalmente utilizadas para a remuneração dos 
+recursos produtivos. Como a renda é a remuneração desses recursos produ-
+tivos, podemos chegar à conclusão que a renda é igual ao produto. Pode-
+mos chegar a essa conclusão considerando um sistema econômico simples 
+composto apenas de empresas e consumidores. Neste caso, não estão sendo 
+Fundamentos de Economiae-Tec Brasil
+40
+considerados o setor público (impostos e taxas), nem o resto do mundo (im-
+portação e exportação de bens e serviços). Além disso, para que a igualdade 
+(renda = produto) seja verdadeira, é necessário que as pessoas gastem toda a 
+sua renda na aquisição de bens e serviços, ou seja, que não façam poupança.
+O objetivo principal da Contabilidade Nacional é representar e quantificar a 
+atividade econômica de um país. Para isso, ela utiliza um conjunto de agre-
+gados macroeconômicos.
+3.3 Principais agregados macroeconômicos
+Os agregados macroeconômicos ajudam a entender o comportamento da 
+economia como um todo e auxiliam no estudo e acompanhamento da evo-
+lução do sistema econômico ao longo do tempo.
+Os principais agregados macroeconômicos e que explicam o fluxo do produ-
+to (bens e serviços) e da renda (salários, aluguéis, juros e lucro) são:
+3.3.1 Produto Interno Bruto (PIB)
+Conforme Mankiw (2009), o PIB é o valor de mercado de todos os bens 
+finais produzidos durante um determinado período de tempo (por exemplo, 
+um ano ou um trimestre) em uma determinada região (por exemplo, um país 
+ou um estado), ou seja, é o preço de mercado multiplicado pela quantidade 
+de todos os bens e serviços produzidos na economia. 
+O PIB é um importante indicador da atividade econômica de uma região, 
+pois representa o produto da economia. 
+Rendas líquidas enviadas 
+para o exterior (RLEE)
+É a diferença entre o pagamento 
+pelo uso de fatores de produção 
+estrangeiros utilizados interna-
+mente e o pagamento recebido 
+pelo uso de fatores nacionais no 
+exterior. Renda Líquida Enviada 
+ao Exterior = Renda Enviada ao 
+Exterior - Renda Recebida do 
+Exterior. A renda líquida enviada 
+para o exterior esta relacio-
+nada à presença de empresas 
+estrangeiras no país, e à atuação 
+de empresas nacionais em ter-
+ritórios estrangeiros.
+Depreciação
+É a parcela do produto que se 
+destina à reposição ou reparos 
+dos equipamentos.
+e-Tec BrasilAula 3 - Contabilidade Nacional
+41
+O gráfico abaixo mostra a taxa de crescimento (variação, aumento e diminui-
+ção) percentual do PIB brasileiro entre os anos de 1980 e 2008. Por exemplo, 
+no ano de 1994 o PIB foi de 5,33%. Isso significa que, em relação ao ano de 
+1993, o PIB aumentou 5,33%.
+3.3.2 Produto Nacional Bruto (PNB)
+O Produto Nacional Bruto (PNB) é obtido retirando do Produto Interno 
+Bruto  (PIB) a parcela correspondente às rendas líquidas enviadas para o 
+exterior (RLEE). 
+Por exemplo, em uma região com um PIB de R$ 500 bilhões e com uma 
+renda líquida enviada para o exterior de R$ 100 bilhões, o Produto Nacional 
+Bruto (PNB) será de R$ 400 bilhões.
+PNB = PIB – RLEE
+PNB = 500 – 100
+PNB = R$ 400 bilhões
+3.3.3 Produto Nacional Líquido (PNL)
+O Produto Nacional Líquido (PNL) é o Produto Nacional Bruto (PNB) menos a 
+parcela correspondente à Depreciação. 
+Fonte: http://ipeadata.gov.br
+PNB = PIB – RLEE
+Fundamentos de Economiae-Tec Brasil
+42
+Continuando o exemplo anterior, em uma região com um Produto Nacional 
+Bruto (PNB) de R$ 400 bilhões, as máquinas e equipamentos apresentaram 
+uma depreciação de R$ 50 bilhões. Assim, o PNL é:
+PNL = PNB – Depreciação
+PNL = 400 – 50 
+PNL = R$ 350 bilhões
+3.3.4 Renda Nacional (RN)
+A Renda Nacional (RN) é igual ao Produto Nacional Liquido (PNL) menos os 
+impostos indiretos das firmas. 
+Do exemplo anterior, na região com um Produto Nacional Líquido (PNL) de 
+R$ 350 bilhões, os impostos indiretos das firmas somaram R$ 40 bilhões. 
+Assim, a Renda Nacional (RN) é:
+RN = PNL – Impostos Indiretos das Firmas
+RN = 350 – 40
+RN = R$ 310 bilhões
+3.3.5 Renda Pessoal (RP) e Renda Pessoal Disponível (RD)
+A Renda Pessoal (RP) é igual à Renda Nacional (RN) menos lucros retidos 
+pelas empresas, menos impostos diretos sobre as empresas, menos outras 
+receitas do governo (contribuição previdenciária, FGTS, etc), mais as trans-
+ferências governamentais (aposentadorias, seguro desemprego, etc) 
+Renda Pessoal (RP) é igual à renda familiar. Através do conceito de renda 
+familiar, podemos também definir Renda Pessoal Disponível (RD), que é 
+igual à Renda Pessoal (RP) menos o imposto direto sobre a família.   
+PNL = PNB – Depreciação
+RN = PNL – Impostos Indiretos das Firmas
+e-Tec BrasilAula 3 - Contabilidade Nacional
+43
+RP = RN – Lucros retidos pelas Empresas – Imposto Diretos sobre as Empre-
+sas – Outras Receitas do Governo (Contribuição Previdenciária, FGTS, etc) + 
+Transferências Governamentais (Aposentadorias, seguro desemprego, etc)
+Continuando o exemplo anterior, a região com uma Renda Nacional (RN) de 
+R$ 310 bilhões, os lucros retidos pelas empresas e os impostos diretos sobre 
+as empresas somaram, respectivamente R$ 20 bilhões e R$ 10 bilhões. Já 
+outras receitas do governo são de R$ 5 bilhões, as transferências governa-
+mentais são de R$ 15 bilhões e os impostos diretos sobre as famílias são de 
+R$ 25 bilhões. Assim, a RP e a RD são:
+RP = 310 – 20 – 10 – 5 +15
+RP = R$ 290 bilhões
+RD = RP - Imposto Diretos Sobre as Famílias
+RP = 290 – 25
+RP = R$ 265 bilhões
+Através dos agregados macroeconômicos é possível avaliar o papel do go-
+verno, do setor externo e das empresas na economia.
+Os agregados permitem ter uma ideia aproximada do progresso do país ao 
+se observar as taxas de crescimento do produto. Entretanto, não revela de 
+que forma o produto é distribuído entre os habitantes do país, ou seja, uma 
+economia pode apresentar altas taxas de crescimento e isso não ser distribu-
+ído igualmente entre as pessoas. Exemplo disso ocorre na China nos últimos 
+anos. O país apresentou um dos mais altos índices de crescimento econômi-
+co, mas esse crescimento não foi distribuído igualmente à população.
+RD = RP - Imposto Diretos Sobre as Famílias
+RP = RN – Lucros retidos pelas Empresas – Imposto Diretos so-
+bre as Empresas – Outras Receitas do Governo (Contribuição 
+Previdenciária, FGTS, etc) + Transferências Governamentais 
+(Aposentadorias, seguro desemprego, etc)
+Fundamentos de Economiae-Tec Brasil
+44
+Resumo
+A contabilidade nacional tem se mostrado útil para analisar o funcionamen-
+to do sistema econômico como um todo. Os agregados macroeconômicos 
+são importantes indicadores para avaliar o papel do governo (por exemplo, 
+analisando o papel dos impostos pagos por pessoas e empresas), do setor 
+externo (por exemplo, comparando a renda enviada e a recebido do exterior) 
+e das empresas na economia (por exemplo, analisando o produto gerado 
+pela economia, o PIB).
+Atividades de aprendizagem
+1. Marque V, se a afirmação for verdadeira, e F, se for falsa.
+a)    (     ) A Contabilidade Nacional mede a atividade econômica e é im-
+portante para comparações internacionais, ou seja, entre países.
+b) (     ) O PIB (Produto Interno Bruto) é um dos principais agregados 
+macroeconômicos. Ele é calculado subtraindo o valor do imposto de ren-
+da pago por pessoas e empresas.
+c) (     ) O agregado PNL (Produto Nacional Líquido) considera a intera-
+ção entre os países, pois considera em seus cálculos a renda enviada ao 
+exterior e a renda recebida do exterior.
+d) (     ) É importante medir a produção em termos monetários, pois os 
+produtos utilizam diferentes unidades de medida (por exemplo, unidades, 
+quilogramas, toneladas, arrobas, quilowatts, etc).
+2. Complete as lacunas abaixo:
+a) O __________________ é a soma dos valores monetários de todos os 
+bens e serviços finais produzidos por um país em um determinado período 
+de tempo.
+b) A _________________ é a soma das remunerações feitas aos recursos 
+produtivos (salários, alugueis, lucro e juros) em um determinado período 
+de tempo.
+c) Ao admitirmos que a __________________ é igual ao _________________, 
+estamos considerando que toda a receita gerada pela economia é utili-
+zada para remunerar os recursos produtivos e que as pessoas não fazem 
+e-Tec BrasilAula 3 - Contabilidade Nacional
+45
+__________________, ou seja, que as pessoas gastam toda a sua renda 
+adquirindo bens e serviços.
+3. Vamos imaginar um país que apresentou no ano de 2010 um PIB (Pro-
+duto Interno Bruto) de R$ 600 bilhões. Esse mesmo país apresentou os 
+seguintes resultados:
+- Depreciação: R$ 20 bilhões
+- Renda enviada ao exterior: R$ 40 bilhões
+- Renda recebida do exterior: R$ 30 bilhões
+- Impostos indiretos das firmas: R$ 50 bilhões
+- Lucros retidos pelas empresas: R$ 10 bilhões
+- Impostos diretos sobre as empresas: R$ 50 bilhões
+- Receita do governo com contribuição previdenciária e FGTS: R$ 5 bi-
+lhões
+- Transferências governamentais através de aposentadorias: R$ 15 bilhões
+- Impostos diretos sobre as famílias: R$ 20 bilhões 
+Calcule os seguintes agregados macroeconômicos desse país no ano de 
+2008:
+a) PNB (Produto Nacional Bruto).
+b) PNL (Produto Nacional Líquido).
+c) RN (Renda Nacional).
+d) RP (Renda Pessoal).
+e) RD (Renda Pessoal Disponível). 
+Fundamentos de Economiae-Tec Brasil
+46
+Prezado (a) estudante (a)
+Finalizamos a Aula 3. Retorne ao início e verifique se você conseguiu alcan-
+çar os objetivos propostos para construção do seu conhecimento. Na Aula 
+4 vamos estudar alguns conceitos fundamentais da economia: consumo, 
+poupança, renda, investimento, nível de atividade, demanda, orçamento do 
+governo e balança comercial.
+Fique atento às atividades de aprendizagem propostas.
+e-Tec BrasilAula 4 - Consumo, Poupança, Renda e Nível de Atividade
+47
+Objetivos:
+1. Relacionar renda, consumo e poupança;
+2. Definir e exemplificar investimento;
+3. Relacionar nível de atividade e demanda;
+4. Calcular a renda, a demanda e a poupança do sistema econô-
+mico;
+5. Entender o orçamento do governo e balança comercial;
+6. Relacionar poupança e investimento.
+Nessa aula, buscaremos identificar alguns conceitos fundamentais da econo-
+mia, sendo que é muito importante relacionar esses conceitos com situações 
+práticas. Fique atento aos objetivos propostos, pois eles são norteados de 
+onde seu aprendizado precisa estar focado. Bons estudos e siga em frente.
+Aula 4 - Consumo, Poupança, Renda 
+e Nível de Atividade
+Fundamentos de Economiae-Tec Brasil
+48
+4.1 Qual a relação entre consumo e poupança?
+Os agentes econômicos (trabalhadores, empresários, etc) têm que decidir 
+como será usada sua renda. A renda do trabalhador é o seu salário, a do 
+empresário é o lucro . A renda desses agentes econômicos pode ser usada 
+para o consumo ou para a poupança.
+As pessoas precisam atender as suas necessidades através do consumo de 
+bens e serviços. De acordo com Silva e Luiz (2001), esses bens e serviços 
+podem ser classificados em:
+•	 Bens de consumo não duráveis: são os bens de consumo que apresentam 
+vida útil curta. São exemplos desse tipo de bens: roupas e alimentos.
+•	 Serviços de consumo: são as despesas feitas pelas pessoas com serviços 
+prestados por outras pessoas ou equipamentos, com vistas à satisfação 
+de suas necessidades. Exemplos desses serviços incluem aluguel, médico, 
+transporte.
+
+e-Tec BrasilAula 4 - Consumo, Poupança, Renda e Nível de Atividade
+49
+•	 Bens de consumo duráveis: são os bens que apresentam vida útil longa. 
+São exemplos desse tipo de bens os automóveis e os eletrodomésticos.
+O consumo do sistema econômico é a soma das despesas de consumo reali-
+zadas por cada uma das pessoas, por período de tempo.
+A parte da renda das pessoas que não é gasta com o consumo (compra de 
+produtos e serviços) é destinada à poupança. A poupança é a parte da renda 
+que as pessoas poupam, ou seja, para realizar a poupança as pessoas não 
+gastam toda a sua renda em consumo.
+Para calcular a poupança utiliza-se a seguinte expressão:
+Essa equação significa que a poupança (P) é a diferença entre a renda (R) e 
+o consumo (C).
+Para exemplificar, imagine que uma pessoa tenha uma renda, ou um salário, 
+de R$ 1.000,00. Para sobreviver, ela gasta R$ 800,00 com alimentação, ves-
+tuário, transporte, energia elétrica, telefone, etc. Utilizando a equação acima 
+para calcular a poupança, temos:
+Esse resultado significa que com a renda que essa pessoa tem disponível (R$ 
+1.000,00) e como os gastos que ela realiza (R$ 800,00) para a sua sobrevi-
+vência, sobram R$ 200,00 para a poupança.
+P = R – C      
+Onde: P = poupança;  
+R = renda;   
+C = consumo.
+P = R – C      
+P = 1000 – 800
+P = R$ 200
+Fundamentos de Economiae-Tec Brasil
+50
+A soma das poupanças de cada uma das pessoas é igual à poupança do 
+sistema econômico.
+4.2 O que as pessoas fazem com a sua poupança?
+Quando estudamos como medir a produção realizada por um sistema eco-
+nômico (Aula 3), chegamos à conclusão que a renda era igual ao produto. 
+Para que isso acontecesse, era necessário que toda a renda fosse gasta (con-
+sumo), ou seja, que não fosse realizada poupança.
+Agora, analisando a possibilidade da existência de poupança, como uma 
+parte da renda não será utilizada para o consumo, uma parte do produto 
+(bens e serviços) não será vendida. Essa parte que não for vendida será trans-
+formada no estoque do sistema econômico. O estoque é a parcela dos bens 
+que não é vendida no período em que foi produzida. 
+Analisando o sistema econômico, esse estoque (parcela não vendida) é igual 
+à poupança no mesmo período, ou seja, o valor que corresponde à parcela 
+da renda que não foi utilizada para o consumo.
+Em relação ao sistema econômico, Silva e Luiz (2001) afirmam que a formação 
+desse estoque (poupança) significa investimento. O investimento não signi-
+fica somente variação (aumento) de estoques, pois é formado também por 
+despesas como compra de máquinas e equipamentos e construção de novas 
+unidades produtivas que visam aumentar a capacidade produtiva das empre-
+sas (VASCONCELLOS; GARCIA, 2004). Não são considerados investimentos as 
+despesas que as empresas têm com manutenção e reparos, pois investimentos 
+são gastos realizados para aumentar a capacidade produtiva das empresas.
+Em outras palavras, afirmar que a poupança é igual ao investimento no mes-
+mo período é uma definição fundamental da macroeconomia.
+P = I
+Onde: P = poupança; 
+  I = investimento.
+e-Tec BrasilAula 4 - Consumo, Poupança, Renda e Nível de Atividade
+51
+4.3 Qual a relação entre demanda e nível de ati-
+vidade?
+Segundo Silva e Luiz (2001), os economistas, até o início do século XX, acre-
+ditavam que a oferta ou a produção criava sua própria demanda, ou seja, 
+para produzir as empresas contratavam os recursos produtivos, os remune-
+ravam (pagavam salários aos trabalhadores, juros ao dono do capital, etc) 
+e a remuneração desses recursos formava a demanda pelos bens e serviços 
+produzidos (consumo). Isso ficou conhecido como Lei da Say. 
+Essa lei tinha implícita a ideia do pleno emprego, onde todos os fatores pro-
+dutivos estão ocupados na produção dos bens e serviços que formam a renda.
+Entretanto, essa lógica de funcionamento não explicava as crises econômi-
+cas, a recessão e o desemprego. Acreditava que ao utilizar todos os recursos 
+produtivos, a remuneração desses recursos se dirigia ao mercado, ou seja, 
+era utilizada para adquirir bens e serviços. Mas, nós sabemos que isso não 
+acontece dessa forma, pois as pessoas não usam toda a sua renda para ad-
+quirir bens e serviços (consumo).
+De acordo com Silva e Luiz (2001), na década de 30, os economistas Keynes 
+e Kalecki desenvolveram ao mesmo tempo uma nova lógica que invertia a Lei 
+da Say. Essa nova lógica ficou conhecida como o Princípio da Demanda Efetiva 
+e afirmava que a demanda determina o nível de produção ou de atividade.
+Essa nova lógica admitia que nem toda a remuneração dos recursos se trans-
+formava em demanda. Essa parte da remuneração que não se transformava 
+em demanda ficou conhecida como vazamentos do sistema. Esses vazamen-
+tos levavam as empresas a não venderem todos os seus produtos formando 
+estoques e por consequência a reduzir a sua produção gerando demissões, 
+redução da compra de matéria-prima, etc. Keynes propunha, para solucio-
+nar os vazamentos, a intervenção governamental na economia como forma 
+de retomar uma nova etapa de crescimento, reaquecendo uma economia 
+estagnada ou em recessão, o que não poderia acontecer no pleno emprego, 
+já que este estava baseado nos mecanismos autorreguladores do mercado. 
+4.4 Como funcionam os sistemas econômicos?
+Os sistemas econômicos são formados por agentes econômicos. Vascon-
+cellos e Garcia (2004) afirmam que esses agentes são os trabalhadores, os 
+empresários, o governo e o resto do mundo.
+Exportações
+País vende parte de seu produto 
+(bens e serviços) para outros 
+países.
+Importações
+País compra parte dos bens e 
+serviços produzidos por outros 
+países
+Fundamentos de Economiae-Tec Brasil
+52
+Os sistemas econômicos encontrados tipicamente em vários países são eco-
+nomias abertas e com governo. Economias abertas consideram a existência 
+de setor externo (resto do mundo), ou seja, mantêm relações comerciais e 
+financeiras com outros países. Essas relações acontecem por meio de expor-
+tações e importações.
+A economia com governo considera a existência do setor público. Esse agen-
+te (governo) interfere na divisão do produto e na demanda do sistema eco-
+nômico. Em relação à divisão do produto, trabalhadores recebem sua parte 
+da renda através dos salários; empresários, através dos lucros; e o governo 
+recebe sua parte através dos impostos. Em relação à demanda, o governo 
+gasta com compras feitas junto à empresa e com os salários de seus funcio-
+nários. Os gastos do governo serão chamados de G.
+O produto ou renda (R) dessa economia é distribuído sob a forma de salários 
+aos trabalhadores (S), lucros aos empresários (L), impostos ao governo (T) e 
+importações ao setor externo (M). A renda (R) é calculada através da seguin-
+te equação:
+A demanda (D) dessa economia é formada pelo consumo dos trabalhadores 
+(CS), pelo consumo dos empresários (CL), pela parte da renda dos empresá-
+rios que não foi consumida (poupança) e foi destinada a aumentar o tama-
+   
+ R = S + L + T + M
+   Onde: R = renda; 
+          S = salários; 
+          L = lucros; 
+          T = impostos; 
+          M = importações.
+e-Tec BrasilAula 4 - Consumo, Poupança, Renda e Nível de Atividade
+53
+nho e capacidade produtiva das empresas através de investimentos (I), pelos 
+gastos do governo (G) e pelas exportações (X). 
+A parcela da renda do empresário que não é utilizada para investimento, a 
+poupança dos empresários, é denominada vazamento do sistema econômico. 
+A demanda (D) é calculada através da seguinte equação:
+Aplicando o Princípio da Demanda Efetiva, onde o nível de produto ou a ren-
+da (R) é determinado pela demanda (D), e fazendo algumas manipulações 
+obtemos a igualdade fundamental da macroeconomia:
+A relação entre os gastos do governo (G) e o que ele arrecada com imposto 
+(T) é o orçamento do governo (G – T). 
+•	 Quando os gastos públicos (G) são maiores do que as receitas com os im-
+postos (T), o governo está com um déficit (G – T > 0), ou seja, o governo 
+gasta mais do que arrecada. 
+•	 Quando os gastos públicos (G) são menores do que as receitas com os 
+impostos (T), o governo está com um superávit, ou seja, arrecada mais 
+do que gasta (G – T < 0). 
+•	 Quando os gastos públicos (G) são iguais às receitas com os impostos (T), 
+P = I + (G – T) + (X – M)
+          Onde: P = Poupança; 
+          I = investimento; 
+          G = gastos do governo; 
+          T = impostos; 
+          X = exportações; 
+          M = importações.
+D = CS + CL + I + G + X
+Onde: D = Demanda; 
+CS = Consumo dos trabalhadores; 
+CL = Consumo dos empresários; 
+I = investimento; 
+G = gastos do governo; 
+X = exportações.
+Fundamentos de Economiae-Tec Brasil
+54
+o orçamento do governo está em equilíbrio (G – T = 0), ou seja, o gover-
+no gasta o mesmo que arrecada.
+•	 A relação entre exportação (X) e importação (M) é o saldo da balança 
+comercial (X – M).
+•	 Quando as exportações (X) são maiores do que as importações (M), a 
+balança comercial está com superávit (X – M > 0). Isso significa que o país 
+exportou mais do que importou, ou seja, vendeu a outros países mais do 
+comprou de outros países.
+•	 Quando as exportações (X) são menores do que as importações (M), a 
+balança comercial está com déficit (X – M < 0). Significa que o país im-
+portou mais do que exportou, ou seja, comprou de outros países mais do 
+que vendeu a outros países.
+•	 Quando as exportações (X) são iguais às importações (M), a balança co-
+mercial está equilibrada (X – M = 0). Significa que o país comprou de 
+outros países e vendeu a outros países a mesma quantidade. 
+O superávit da balança comercial e o déficit do governo interferem no desti-
+no da poupança. Em muitos casos, a poupança é usada para financiar o setor 
+público e pagar credores externos ao invés de se destinar aos investimentos.
+4.4.1 Exemplo
+Vamos imaginar um país onde os investimentos são de R$ 10 bilhões, os gas-
+tos do governo são de R$ 20 bilhões, a arrecadação com impostos de R$ 15 
+bilhões, as exportações de R$ 30 bilhões e as importações de R$ 22 bilhões.
+P = 10 + (20-15) + (30 – 22)
+P = 10 + 5 + 8
+P = R$ 23 bilhões
+A poupança será de R$ 23 bilhões.
+Esses resultados mostram um déficit no orçamento do governo (G – T) de 
+R$ 5 bilhões e um superávit na balança comercial (X – M) de R$ 8 bilhões. 
+Dessa forma, os investimentos tiveram que ser menores para restabelecer o 
+equilíbrio macroeconômico e financiar o setor público e a balança comercial.
+P = I + (G – T) + (X – M) 
+e-Tec BrasilAula 4 - Consumo, Poupança, Renda e Nível de Atividade
+55
+Resumo
+O consumo do sistema econômico é a soma das despesas de consumo reali-
+zadas por todas as pessoas. A poupança do sistema econômico é a soma das 
+poupanças dessas pessoas. A poupança da economia é igual ao investimen-
+to, que é formado pela variação nos estoques e pelos gastos dos empresários 
+para aumentar a capacidade produtiva da economia. Entretanto, nem toda 
+a renda gerada durante o processo de produção retorna ao mercado sob a 
+forma de demanda (poupança), ocorrendo os chamados vazamentos.
+Os sistemas econômicos são influenciados pelo setor externo, através das 
+exportações e das importações (balança comercial), e pelo governo através 
+do orçamento do governo (gastos do governo e impostos).
+Atividades de aprendizagem
+1. Complete as lacunas:
+a) A ________________ é dividida em ________________, formado pelos 
+gastos com os bens e serviços que as pessoas realizam para sua sobre-
+vivência, e _________________, formada pela parcela que não é gasta.
+b) O orçamento do governo depende dos __________________ e dos 
+_________________. 
+c) A balança comercial depende das ____________________ e 
+___________________ .
+2.  Não é exemplo de investimento:
+a) (     ) Aquisição de máquinas e equipamentos, aumentando a capaci-
+dade produtiva.
+b) (     ) Formação ou acúmulo de estoques.
+c) (     ) Troca de máquinas e equipamentos, sem aumentar a capacida-
+de produtiva.
+d) (     ) Compra de unidades industriais.
+3.  Vamos imaginar que no ano 2000 o Brasil exportou R$ 40 bilhões e im-
+portou R$ 30 bilhões. Calcule e explique o saldo da balança comercial.
+Fundamentos de Economiae-Tec Brasil
+56
+Caro (a) estudante
+Na aula 5 estudaremos a evolução da moeda e o funcionamento do sistema 
+financeiro. Esse sistema financeiro é responsável pela intermediação da mo-
+eda entre os agentes econômicos. 
+Vamos continuar nossos estudos? Lembre-se de sempre revisar o conteúdo 
+anterior antes de passar para a próxima aula. Você é o maior responsável 
+pelo seu sucesso!
+e-Tec BrasilAula 5 - Teoria Monetária e Sistema Financeiro
+57
+Objetivos:
+1. Descrever a evolução histórica da moeda;
+2. Listar as funções da moeda;
+3. Reconhecer os motivos da retenção de moeda;
+4. Relacionar oferta e demanda de moeda;
+5. Definir e explicar o funcionamento do sistema financeiro;
+Nessa aula vamos estudar a moeda e suas funções, o sistema financeiro e o 
+crédito. Afinal, é impossível imaginarmos a sociedade que vivemos hoje sem 
+as moedas e as instituições financeiras. Você consegue imaginar a nossa so-
+ciedade atual sem a organização que o sistema financeiro e o uso da moeda 
+nos possibilita? Pense nisso.
+Aula 5 - Teoria Monetária e Sistema 
+Financeiro
+Fundamentos de Economiae-Tec Brasil
+58
+5.1 Origens da moeda
+Segundo Silva e Luiz (2001), a moeda surgiu na antiguidade para solucionar 
+problemas relacionados às trocas no sistema econômico. Nesse período, os 
+bens produzidos em quantidades maiores do que as suas necessidades eram 
+utilizados em trocas por outros bens ou para o pagamento de dívidas. Esse 
+sistema de trocas ficou conhecido como escambo. Por exemplo, o agricultor 
+que produzia arroz trocava o arroz que ele tinha produzido em excesso com 
+o agricultor que produzia trigo. Esse sistema apresentava um grave incon-
+veniente, pois nem sempre quem possuía um bem encontrava aqueles que 
+desejassem seu produto para realizar a troca. 
+Quando a produção excedente passou a ser vendida no mercado surgiu a ne-
+cessidade de utilização de “moeda”.  Os mais estranhos objetos e até mesmo 
+animais eram utilizados como moeda (sal, bambu, fios de seda, couros, gado, 
+fumo, cobre, prata, ouro, bebidas, peixe seco, peles, arroz, entre outras). 
+A moeda resolveu, em parte, os problemas das trocas diretas ou em espé-
+cies. Entretanto, surgiram problemas com as mercadorias que serviam de 
+moeda. Esses problemas eram principalmente a divisibilidade (alguns tipos 
+de moeda eram difíceis de dividir. Como dividir um gado?), a estocagem (era 
+necessário armazenar esses produtos) e perecividade (alguns desses produ-
+tos, como bebidas e arroz, eram perecíveis.).
+A utilização da moeda proporcionou a dissociação do ato de vender do ato 
+de comprar, ou seja, era possível vender algo sem necessariamente comprar 
+um outro produto. Resolveu-se com isso o problema citado anteriormente de 
+Padrão-ouro
+Sistema monetário em que o 
+papel-moeda emitido pelas 
+autoridades monetárias tem uma 
+relação com a quantidade de 
+ouro que o país possui. Atual-
+mente, não é mais seguido.
+e-Tec BrasilAula 5 - Teoria Monetária e Sistema Financeiro
+59
+encontrar alguém que quisesse trocar os produtos que você tinha pelo que ela 
+tinha. Passou a ser necessário apenas encontrar alguém que quisesse comprar 
+os seus produtos e depois com a “moeda” em mãos essa pessoa comprava os 
+produtos que precisava. Essa é a situação que vivemos atualmente.
+À medida que a civilização se desenvolveu, os metais preciosos (ouro e prata) 
+se tornaram o meio de troca mais comum. Isso ocorreu devido à facilidade 
+de reconhecimento, ao baixo peso, à possibilidade de divisão e à oferta limi-
+tada (escassos). A utilização de metais resolveu os problemas da perecivida-
+de e da divisibilidade que os outros objetos tinham. 
+As moedas metálicas com o formato que conhecemos hoje começaram a 
+ser utilizadas nessa época. Essas moedas eram cunhadas em metal precioso 
+e traziam impresso o seu peso. Atualmente, as moedas são cunhadas em 
+metal não precioso, trazendo impresso o seu valor.
+A utilização de metais preciosos tinha dois inconvenientes: o custo de trans-
+porte e o risco de assaltos. Devido a esses problemas, as pessoas passaram a 
+deixar o seu ouro aos cuidados de ourives. Os ourives emitiam recibos para 
+as pessoas como garantia. Esses recibos passaram progressivamente a ser 
+usados como moeda, sem que os depósitos que funcionavam como garantia 
+fossem tocados. Dessa forma, surgiu o papel-moeda ou moeda fiduciária, 
+cuja característica era ser integralmente lastreada em metal precioso. Esse 
+sistema era conhecido como padrão-ouro. O banqueiro precisava manter 
+em caixa um volume suficiente de moeda metálica para atender a possíveis 
+retiradas, mediante a apresentação dos recibos.
+Fundamentos de Economiae-Tec Brasil
+60
+Atualmente o papel-moeda  e o dinheiro em forma de moeda são emitidos 
+pelos bancos centrais de cada país. Os países não emitem moeda baseado 
+na quantidade de ouro que possuem, mas na quantidade suficiente para o 
+funcionamento do sistema econômico.
+O valor da moeda está na confiança que cada indivíduo tem de que ela 
+será aceita como meio de pagamento. Junto com o papel-moeda nasceu a 
+atividade bancária. A emissão de certificados em valores superiores à quanti-
+dade de ouro acumulada permitia que seus emissores realizassem operações 
+lucrativas, como aquisição de títulos e ações ou a concessão de empréstimos 
+que rendiam juros. 
+Outra evolução foi o surgimento da moeda bancária ou moeda escritural criada 
+pelo sistema bancário. Essa moeda é transmitida por cheque, ordens eletrônicas 
+de pagamento, etc. Com o cheque, não é necessário ir aos bancos para retirar 
+dinheiro e efetuar seus pagamentos. As desvantagens do uso de cheques são a 
+possibilidade de fraudes (falsificação) e a sua não aceitação no exterior. 
+
+Transferência Eletrônica 
+Disponível (TED)
+Foi criada no Brasil em 2002. 
+Através da TED, é possível trans-
+ferir eletronicamente entre ban-
+cos valores iguais ou superiores 
+a R$ 5.000. Essas transferências 
+são rápidas, econômicas e 
+seguras.
+e-Tec BrasilAula 5 - Teoria Monetária e Sistema Financeiro
+61
+Conforme Souza (2007), os cartões de crédito e débito surgiram nos Estados 
+Unidos na década de 50. Com seu uso, no momento da compra, o usuário 
+pode efetuar pagamentos sem o uso de papel-moeda.
+A utilização da internet, os terminais de transferência eletrônica de fundos 
+instalados em pontos comerciais (caixas eletrônicos) e a transferência eletrô-
+nica disponível (TED) são também formas eletrônicas de pagamento (SOU-
+ZA, 2007). Essas novas possibilidades fizeram com que o cartão deixasse de 
+ser meramente uma forma de obter dinheiro para se tomar seu substituto.
+A moeda desenvolveu as transações econômicas por sua aceitação generali-
+zada. Entretanto, a moeda é um produto como qualquer outro. As moedas 
+mais procuradas apresentam maior valor, ocorrendo o inverso com as moe-
+das menos confiáveis e menos procuradas.
+5.2 Funções da Moeda
+Silva e Luiz (2001) e Souza (2007) concordam que as principais funções 
+da moeda são:
+•	 Intermediação de troca é a função principal da moeda. O dinheiro é um 
+meio de troca aceito para a realização de transações e pagamento de 
+dívidas e que evita a troca direta em espécie. Como intermediária das 
+trocas, a moeda reduz o tempo e facilita as transações.
+•	 Unidade de conta serve para calcular quanto valem bens e serviços e para 
+comparar o valor de mercadorias. Além disso, a moeda resolve o proble-
+ma de pessoas e empresas ao registrarem suas operações e transações 
+em uma medida comum a todos os bens e serviços. Funciona como uma 
+Fundamentos de Economiae-Tec Brasil
+62
+referência única. Muitas vezes isso é importante, pois os produtos são 
+medidos em unidades diferentes, por exemplo, o minério em toneladas e 
+a energia elétrica em quilowatts.
+•	 Reserva de valor, famílias e empresas podem manter parte do seu patri-
+mônio em forma de dinheiro. Isso ocorre porque o dinheiro pode ser tro-
+cado facilmente por bens, a qualquer momento. Se a economia estiver 
+em processo inflacionário, o valor do dinheiro se deteriora, fazendo com 
+que esta função não se cumpra.
+•	 Padrão para pagamentos diferidos, ou seja, pagamentos que se realizarão 
+no futuro. Por exemplo, os salários acertados entre patrões e empregados 
+são pagos após a execução dos serviços e quase sempre antes de os produ-
+e-Tec BrasilAula 5 - Teoria Monetária e Sistema Financeiro
+63
+tos serem vendidos. Desse modo, a moeda facilita o crédito e a distribuição 
+dos pagamentos no tempo, beneficiando os devedores e credores. Ela viabi-
+liza gastos nem sempre sincronizados com as rendas recebidas.
+5.3 Por que as pessoas e empresas demandam e 
+retêm moeda?
+As pessoas e empresas demandam moeda em excesso em relação às transa-
+ções do período. Isso acontece porque elas precisam da moeda pelos seguin-
+tes motivos (SILVA e LUIZ, 2001; VASCONCELLOS, 2002):
+•	 Demanda de moeda para transações: como os recebimentos e paga-
+mentos não acontecem ao mesmo tempo, as pessoas precisam reter 
+moeda para pagar suas despesas. Incluem despesas do período como 
+alimentação, matérias-primas, aluguéis, luz, água, etc. Por exemplo, um 
+trabalhador recebe seu salário no dia 5 de cada mês e até o recebimento 
+do próximo salário ele utiliza o salário recebido para se alimentar, pagar 
+transporte, aluguel e suas outras despesas.
+•	 Demanda de moeda por precaução: refere-se àquela parte da renda das 
+pessoas retida para atender a despesas inesperadas do período e para a 
+“realização de compras vantajosas”. 
+•	 Demanda de moeda para especulação: ocorre quando uma parcela da 
+renda das pessoas é colocada em aplicações financeiras novas, de curtís-
+simo prazo, em função da expectativa de ganhos extraordinários.
+Fundamentos de Economiae-Tec Brasil
+64
+5.4 Demanda de Moeda
+A demanda de moeda é influenciada pela taxa de juros. Quem define as 
+taxas de juros são as autoridades monetárias. No caso do Brasil, é definido 
+pelo Copom (Comitê de Política Monetária do Banco Central).
+Taxa de juros é o preço da moeda, ou seja, o preço do dinheiro no mercado 
+financeiro (SILVA e LUIZ, 2001).  
+Souza (2007) afirma que quanto maior a taxa de juros, menor é a quanti-
+dade de moeda demandada e retida para especulação e vice-versa, ou seja, 
+existe uma relação inversa entre a taxa de juros do mercado e a demanda 
+especulativa por moeda.
+Assim, autores como Silva e Luiz (2001) e Souza (2007) concordam ao expor 
+que a demanda por moeda tem um componente influenciado pela taxa de 
+juros (demanda especulativa) e um componente que não depende de juros 
+(demanda para transações e por precaução). Essa parcela que não depende 
+da taxa de juros depende renda.      
+          
+5.5 Exemplo
+Vamos supor que um investidor está analisando a possibilidade de comprar 
+títulos. Imagine que ele dispõe de duas opções:
+•	 Na opção 1, o preço do título é de $200,00 e este título será resgatado 
+depois de 1 ano por $250,00. 
+•	 Na opção 2, o preço do título é também de $200,00, mas ele será resga-
+tado depois de 1 ano por $300,00. 
+Nesse caso parece óbvio que a opção 2 é a melhor alternativa, mas por que isso 
+acontece?
+Para entender, vamos calcular a taxa de juros de cada uma das opções.
+•	 Taxa de juros da opção 1:
+•	 Taxa de juros de opção 2:
+A melhor opção para o investidor é a que apresenta a maior taxa de juros (Op-
+e-Tec BrasilAula 5 - Teoria Monetária e Sistema Financeiro
+65
+ção 2).
+No mercado financeiro, onde se encontra a oferta e a demanda por dinheiro, 
+o dinheiro se transforma em mercadoria, cujo preço é a taxa de juros.
+Esse gráfico mostra a relação entre a demanda por moeda (eixo horizontal) 
+e a taxa de juros (eixo vertical). O segmento IS, no eixo horizontal, é a soma 
+da demanda de transação e da demanda por precaução, que não depende 
+da taxa de juros. A partir do ponto S, a demanda é influenciada pela taxa de 
+juros, correspondendo à demanda especulativa.
+Podemos entender que a demanda de moeda para transações e por precau-
+ção não dependem da taxa de juros e sim da renda. Já a demanda especula-
+tiva depende da taxa de juros.
+5.6 Oferta de Moeda
+As autoridades monetárias decidem a quantidade de moeda que será emi-
+tida pelo governo em um determinado período. Essas autoridades emitem 
+uma quantidade de moeda suficiente para garantir o funcionamento do sis-
+tema econômico.
+Segundo Silva e Luiz (2001), a oferta de moeda não depende da taxa de 
+juros, mas da política econômica do governo, que determina a quantidade 
+de moeda emitida por período de tempo.
+Se a autoridade monetária é quem emite moeda, por que não emitir di-
+nheiro para tornar a sociedade mais rica? A resposta está no equilíbrio que 
+deve haver entre emissão de moeda e produto da economia. A quantidade 
+de moeda emitida depende do produto da economia. Se a quantidade de 
+Fonte: Silva e Luiz, 2001.
+Mercado Monetário
+É onde se encontram a oferta 
+e a demanda por moeda e se 
+determina a taxa de juros de 
+equilíbrio.
+Liquidez
+É a relação entre a quantidade 
+de moeda em circulação e a 
+quantidade de bens e serviços 
+produzidos, num período de 
+tempo.
+Fundamentos de Economiae-Tec Brasil
+66
+moeda emitida for superior ao crescimento do produto ocorrerá excesso de 
+liquidez e podemos ter inflação. Em outras palavras, quando se tem muita 
+moeda disponível, a moeda assim como os demais produtos se desvaloriza 
+ocasionando aumento dos preços. 
+No sentido contrário, se a quantidade de moeda emitida for inferior ao cres-
+cimento do produto ocorrerá falta de liquidez, podendo ocasionar crise eco-
+nômica, dificuldade de realizar as transações e queda no produto. 
+O gráfico abaixo mostra a oferta de moeda. No eixo horizontal é representa-
+da a moeda e no eixo vertical a taxa de juros. O seguimento IR representa a 
+quantidade de moeda emitida pelo governo, ou seja, a oferta de moeda. O 
+fato da reta O ser paralela ao eixo vertical (taxa de juros) mostra que a oferta 
+não é influenciada pela taxa de juros.
+5.7 Taxa de juros de equilíbrio
+De acordo com Silva e Luiz (2001), a taxa de juros de equilíbrio é resultado 
+da oferta e da demanda de moeda, ou seja, a taxa de juros de equilíbrio é 
+determinada no mercado monetário, onde a oferta de moeda se iguala à sua 
+demanda. Todas as transações financeiras da economia são realizadas com 
+base nessa taxa.
+A moeda, como os demais produtos, se acontecer uma grande procura (deman-
+da de moeda), ela se tornará mais cara (aumento da taxa de juros). Por outro 
+lado, se a procura diminuir, ela se tornará mais barata (redução da taxa de juros).
+A taxa de juros é o preço da moeda, ou seja, é o preço que pagamos para ter 
+a moeda disponível. Ao pegar um empréstimo no banco, pagamos um preço 
+para ter esse empréstimo. Esse preço é a taxa de juros.
+Fonte: Silva e Luiz, 2001.
+e-Tec BrasilAula 5 - Teoria Monetária e Sistema Financeiro
+67
+O gráfico abaixo mostra a oferta e a demanda de moeda. A demanda de moeda 
+é representada pela letra D e a oferta pela letra O. O ponto E é o ponto onde a 
+oferta e a demanda de moeda são iguais. Esse ponto corresponde a uma taxa 
+de juros i (projetada no eixo vertical). Essa é a taxa de juros de equilíbrio.
+Podem ocorrer variações nas taxas de juros ao longo do tempo. Isso pode 
+ocorrer devido a variações na demanda ou na oferta de moeda (SILVA e LUIZ, 
+2001). As variações na demanda podem acontecer devido a variações na 
+taxa de juros ou na renda das pessoas ou empresas. Já as variações na oferta 
+são definidas pelo governo.
+5.8 Sistema financeiro
+As economias necessitam de um sistema que organize e facilite a circulação 
+da moeda pelo sistema econômico. Esse papel é desempenhado pelo siste-
+ma financeiro, responsável pela intermediação da moeda entre os agentes 
+econômicos.
+Mankiw (2009) afirma que o sistema financeiro é composto por instituições que 
+promovem o encontro das pessoas que poupam com aquelas que investem.
+O sistema financeiro é formado pelos bancos comerciais, pelos bancos de 
+investimento, pelas sociedades de crédito, financiamento e investimento e 
+pelas bolsas de valores (SILVA e LUIZ, 2001).
+Fonte: Silva e Luiz, 2001.
+Fonte: Silva e Luiz, 2001.
+Agentes superavitários 
+São os agentes (pessoas, 
+empresas, países, etc) que não 
+gastam toda a sua renda.
+Agentes deficitários
+São os agentes que gastam uma 
+quantia maior do que sua renda.
+Fundamentos de Economiae-Tec Brasil
+68
+O sistema financeiro é composto por um conjunto de instituições privadas 
+(por exemplo, Banco Itaú e Banco Santander) e públicas (por exemplo, Banco 
+Nacional de Desenvolvimento Econômico e Social – BNDES-, Banco do Brasil 
+e Caixa Econômica Federal) que transferem recursos dos agentes superavitá-
+rios para os agentes deficitários.
+O sistema financeiro realiza esse processo de intermediação financeira entre 
+agentes superavitários e agentes deficitários. Em outras palavras, as pessoas, 
+empresas e até países que não gastam tudo o que recebem emprestam, 
+através do sistema financeiro, para os que gastam mais do que recebem.
+A figura abaixo ilustra o fluxo dos agentes superavitários para os agentes 
+deficitários.
+Mas por que os agentes superavitários (pessoas, empresas, etc) se interes-
+sam em transferir recursos para os agentes deficitários? Em outras palavras, 
+por que é interessante para os agentes (pessoas, empresas) transferir os re-
+cursos que não foram gastos para outros agentes?
+Credor
+É o agente (pessoa, empresa, 
+etc) que empresta a quantia em 
+moeda, mediante promessa de 
+recebimento futuro. 
+Devedor
+É o agente (pessoa, empresa, etc) 
+que deve pagar o empréstimo.
+e-Tec BrasilAula 5 - Teoria Monetária e Sistema Financeiro
+69
+Os agentes superavitários (quem empresta) transferem recursos para os 
+agentes deficitários porque recebem para isso. A remuneração dessa trans-
+ferência é denominada taxa de juros. Os juros constituem a sua remunera-
+ção. Essa remuneração é feita pelo sistema financeiro, que dessa maneira 
+consegue atrair e captar recursos. De posse dos recursos, o sistema financei-
+ro empresta esses recursos para os agentes deficitários (quem pega empres-
+tado) e cobra juros e comissões por esse serviço.
+A remuneração do sistema financeiro é denominada spread bancário. O ter-
+mo spread vem do inglês e pode ser traduzido como margem adicional. 
+Spread bancário é a diferença entre a taxa de juros paga aos poupadores 
+(agentes superavitários) e a taxa de juros cobrada dos tomadores de emprés-
+timo (agentes deficitários). 
+Por exemplo, imagine que João (agente superavitário) depositou o dinheiro 
+que sobrou do seu salário na caderneta de poupança e recebe por isso 0,8% 
+ao mês. Já Maria precisou pedir um empréstimo ao banco, que cobrou 3% 
+ao mês para lhe emprestar o dinheiro. O spread bancário, nesse exemplo 
+simples, seria de 2,2% (3% - 0,8%).
+5.9 Crédito
+O sistema econômico é influenciado pela quantidade de crédito disponível, 
+pois o aumento de crédito leva ao aumento da atividade econômica. Exem-
+plo disso é a possibilidade que temos, hoje no Brasil, de comprar um auto-
+móvel e dividir o pagamento em mais de 80 meses. Esse aumento do crédito 
+levou ao aumento das vendas.
+Silva e Luiz (2001) definem crédito como a troca de um bem, ou a concessão 
+de uma quantia de moeda, pela promessa de pagamento futuro.
+No caso do sistema financeiro, o que ocorre é a troca de dinheiro (pelo cre-
+dor) pela promessa de pagamento futuro do devedor. 
+
+Fundamentos de Economiae-Tec Brasil
+70
+Quando o devedor recebe diretamente o bem sem que circule dinheiro, essa 
+modalidade de crédito é chamada financiamento. Já no caso do empréstimo 
+(outra modalidade de crédito) o devedor recebe o dinheiro e pode dispor do 
+bem a qualquer momento.
+Resumo
+A moeda em suas diversas formas e dentro de cada período foi e é fun-
+damental para o funcionamento do sistema econômico. Da forma como 
+vivemos hoje, é impossível imaginar o sistema de trocas que era feito na 
+antiguidade (escambo).
+O governo de cada país define através das autoridades monetárias a oferta 
+de moeda. A demanda de moeda é influenciada pela taxa de juros e pela 
+renda das pessoas. No mercado monetário, a oferta e a demanda de moeda 
+se encontram e é definida a taxa de juros de equilíbrio.
+Atividades de aprendizagem
+1.  Complete a cruzadinha com termos relacionados à moeda:
+1.Tipo de moeda criada pelo sistema bancário e transmitida através de 
+cheques e ordens eletrônicas de pagamento.
+2.É um tipo de moeda também chamada de papel-moeda. Atualmente, 
+é a moeda emitida pelos bancos centrais de cada país.
+3.Tipo de moeda que, atualmente, não é mais cunhada em metal precio-
+so. Traz impresso o seu valor.
+4.Sistema monetário em que o papel-moeda emitido pelas autoridades 
+monetárias tem uma relação com a quantidade de ouro que o país pos-
+sui. Não é utilizado atualmente.
+e-Tec BrasilAula 5 - Teoria Monetária e Sistema Financeiro
+71
+2.  Quais são os principais motivos que levam as pessoas e as empresas a 
+demandar e reter moeda?
+3.   São funções desempenhadas pela moeda:
+a) (     ) Meio de troca.
+b) (     ) Resolver o problema da escassez.
+c) (     ) Unidade de conta.
+d) (     ) Padrão para pagamentos diferidos.
+e) (     ) Definir quais produtos e a quantidade que será produzida.
+4.  Um empresário está analisando duas alternativas de investimento. Ele 
+escolherá a alternativa que lhe der maior lucro, ou seja, a que apresentar a 
+maior taxa de juros.
+•	 Alternativa 1 será aplicado R$ 1000,00 e ao final de um ano será reti-
+rado R$ 1100,00.
+•	 Alternativa 2  será aplicado R$ 1500,00 e ao final de um ano será re-
+tirado R$ 1600,00
+Qual é a melhor alternativa?
+Fundamentos de Economiae-Tec Brasil
+72
+Caro (a) estudante 
+Na próxima aula vamos estudar a inflação. Índices elevados de inflação tra-
+zem consequências à distribuição de renda, balança comercial, entre outras 
+que você terá oportunidade de conhecer no conteúdo a seguir.  
+e-Tec BrasilAula 6 - Inflação
+73
+Objetivos: 
+1. Conceituar inflação;
+2. Relacionar inflação e emissão de moeda;
+3. Listar as consequências da inflação;
+4. Descrever a evolução da inflação no Brasil.
+Nessa aula discutiremos o conceito de inflação e seus principais efeitos na 
+economia. Preste atenção na sua caminhada, você pode retornar nas infor -
+mações das Aulas anteriores sempre que uma duvida lhe vier à mente. É 
+super importante a revisão dos conceitos. Boa sorte e bons estudos.
+6.1 O que é Inflação?
+Vasconcellos e Garcia (2004) definem inflação como um processo onde ocor-
+re um aumento persistente e generalizado dos preços dos bens e serviços, 
+ou seja, a inflação ocorre quando acontece aumento contínuo de preços. 
+Esses aumentos de preços não podem ser confundidos com variações de 
+Aula 6 - Inflação
+Fundamentos de Economiae-Tec Brasil
+74
+preços de alguns produtos (por exemplo, a variação de preços de produtos 
+agrícolas nos períodos de safra e entressafra), que são comuns na economia. 
+A inflação é caracterizada pelo aumento de preço de todos os bens produ-
+zidos pela economia.
+A inflação tem diversos pontos negativos. Um dos principais pontos nega-
+tivos é a contínua perda do poder aquisitivo da moeda. Um trabalhador 
+recebe um salário de R$ 1.000,00 no início do mês. Com esse salário ele 
+consegue pagar o aluguel, a alimentação, o transporte e suas demais despe-
+sas. Agora vamos imaginar que no próximo mês aquele mesmo salário não 
+consiga pagar as suas despesas. O trabalhador continua recebendo o mesmo 
+salário, o que ocorreu foi a perda do poder aquisitivo da moeda, ou seja, o 
+trabalhador com a mesma quantidade de moeda (no caso, R$ 1.000,00) não 
+consegue mais adquirir todos os bens que adquiriu no mês anterior.
+Segundo Souza (2007), a inflação é medida pela variação dos índices de 
+preços. Estes permitem calcular a média da variação relativa dos preços de 
+um conjunto de bens e serviços em uma sequência de períodos de tempo. 
+A taxa de inflação é a variação percentual no nível geral de preços medido, 
+geralmente, ao longo de um mês.
+Atualmente, o governo do país é o único que pode emitir moeda. Muitas 
+vezes essa emissão é feita para estimular a atividade econômica em períodos 
+de recessão. Entretanto, a emissão de moeda provoca perda de seu valor. A 
+persistência em continuar emitindo moeda provoca o processo inflacionário. 
+e-Tec BrasilAula 6 - Inflação
+75
+6.2 Então, por que o governo emite moeda?
+O governo emite moeda mesmo sabendo que a sua emissão, em descom-
+passo com o tamanho do produto da economia, causa inflação. 
+A emissão de moeda, no entanto, se faz necessária porque precisamos da 
+moeda para realizar as trocas na economia. Imagine como seria difícil a nos-
+sa vida de hoje se não tivéssemos moeda. Você teria que trocar o que produz 
+com outro produtor. Não seria fácil encontrar alguém disposto a trocar o 
+arroz que você precisa pelo feijão que você produz e, além disso, trocar nas 
+quantidades que você precisar. A emissão de moeda só causa inflação se a 
+oferta de moeda crescer mais depressa que a procura.
+6.3 Quais são as consequências da inflação?
+As consequências da inflação dependem de quais são os índices de inflação, 
+ou seja, as consequências em uma economia que enfrenta uma inflação de 
+5% ao ano são diferentes de uma que enfrenta uma inflação de 100% ao 
+ano.
+A inflação traz algumas consequências graves. Segundo Silva e Luiz (2001), 
+essas incluem:
+•	 Sobre a distribuição de renda: os trabalhadores que recebem rendimen-
+tos fixos são os mais prejudicados, pois têm sua participação na renda 
+reduzida. Os proprietários, empresários, profissionais liberais e até o go-
+verno têm condições de repassar os aumentos causados pela inflação 
+para o consumidor final através do aumento de preços.
+•	 Sobre a balança comercial: com a inflação, os preços dos bens e serviços 
+tendem a ficar mais caros que os importados, fazendo com que as pes-
+soas aumentem suas compras de mercadorias importadas. A alta taxação 
+desses produtos, através dos impostos, é uma forma do governo evitar 
+esse desequilíbrio. A inflação alta desestimula as exportações, pois com o 
+aumento de preços os produtos se tornam caros e, por isso, menos com-
+petitivos internacionalmente. A inflação então estimula as importações e 
+desestimula as exportações tornando a balança comercial desfavorável.
+•	 Sobre as expectativas: incerteza dos empresários a respeito das taxas de 
+lucro futuras faz com que diminuam os investimentos, reduzindo a capa-
+cidade produtiva do sistema econômico.
+Fundamentos de Economiae-Tec Brasil
+76
+•	 Sobre a arrecadação do governo: a inflação tende a corroer o valor da 
+arrecadação fiscal do governo devido à defasagem existente entre o mo-
+mento que ocorre o fato gerador (fato que leva à incidência de imposto) 
+e o momento do recolhimento efetivo do imposto. Quanto maior a infla-
+ção, menor a arrecadação real do governo.
+6.4 A inflação no Brasil
+De acordo com Vasconcellos e Garcia (2004), a inflação não é recente no 
+Brasil. Na década de 50 já representava um grave problema. Entre os anos 
+de 1968 e 1973, a inflação se reduziu devido às altas taxas de crescimento 
+da economia brasileira. 
+Depois de 1973, a economia brasileira passou a apresentar taxas de inflação 
+crescente. Nesse período, Silva e Luiz (2001) afirmam que foram implanta-
+dos vários planos econômicos (Plano Cruzado, Plano Bresser, Plano Verão e 
+Plano Collor). Esses planos eram baseados em congelamento de preços e 
+salários, bloqueio de dinheiro nos bancos, etc.
+Em 1994, foi implantado o Plano Real e lançada uma nova moeda que pos-
+suía o mesmo nome do plano, o Real (R$). Esse plano reconheceu que as 
+causas da inflação brasileira estavam no desequilíbrio do setor público e nos 
+mecanismos de indexação e procurou equilibrar o orçamento público, desin-
+
+e-Tec BrasilAula 6 - Inflação
+77
+dexar a economia através da mudança de moeda e modernizar a economia, 
+principalmente o setor público.
+O gráfico abaixo mostra a evolução da inflação no Brasil (IGP-DI) em porcen-
+tagem entre os anos de 1945 e 2009.
+É interessante inserir os autores consultados no corpo do texto, assim como 
+já foi feito em algumas partes desse material. Esses autores dão credibilidade 
+e incentivam o aluno a buscar na fonte o complemento para seus estudos.
+Resumo
+A inflação afeta todos os setores da sociedade (empresas, trabalhadores, 
+governo, etc). Entretanto, essa inflação afeta mais quem recebe rendimentos 
+fixos (geralmente trabalhadores assalariados e pequenos produtores rurais), 
+pois esses não conseguem se resguardar dos seus efeitos. 
+A inflação pode ser causada pela emissão de moeda pelo governo se a oferta 
+de moeda crescer mais do que o produto da economia. Muita moeda dispo-
+nível no mercado leva à desvalorização dessa moeda.
+Atividades de aprendizagem
+1.  Reescreva as frases, completando as lacunas:
+a)  A inflação tem consequências sobre a ___________________________. 
+Os ____________________ são os mais prejudicados, pois seus salários 
+não são reajustados periodicamente.
+Fonte: http://ipeadata.gov.br
+Fundamentos de Economiae-Tec Brasil
+78
+b) A inflação favorece as ____________________ e desestimula as 
+__________________ fazendo com que a balança comercial fique des-
+favorável.
+2. Um trabalhador recebia um salário de R$ 1.200,00 no ano de 2008. 
+No ano de 2009, recebeu uma proposta de aumentar seu salário em R$ 
+160,80, passando então a receber R$ 1.360,80. Nesse mesmo período, 
+a taxa de inflação foi de 5% ao ano. Qual foi o aumento real no salário?
+Caro (a) estudante
+Você finalizou mais uma etapa do curso que está realizando. Agora já co-
+nhece o conceito de inflação, a evolução da mesma em nosso país, bem 
+como suas consequências. Mas para continuar se preparando para a função 
+que pretende desempenhar é preciso continuar agregando mais conheci-
+mentos aos que você já possui. Na próxima aula vamos estudar a Teoria das 
+Vantagens Comparativas, o Balanço de Pagamentos e a Taxa de Câmbio na 
+Economia Internacional. Continue estudando sempre.
+e-Tec BrasilAula 7 - Economia Internacional
+79
+Objetivos: 
+1. Entender as relações comerciais entre países;
+2. Descrever e exemplificar a teoria das vantagens comparativas;
+3. Definir e calcular o balanço de pagamentos;
+4. Definir, diferenciar e determinar as taxas de câmbio.
+Nessa aula estudaremos as relações comerciais entre as nações, os motivos 
+dessas relações e como é controlado o fluxo de pagamentos e recebimentos 
+realizados entre as nações no comércio internacional. Preparado para mais in-
+formações? Permaneça atento para melhor compreender este novo conteúdo.
+7.1 Do que trata a Economia Internacional?
+Segundo Silva e Luiz (2001), a Economia Internacional estuda as relações 
+comerciais entre as nações. Essas relações são chamadas de comércio in-
+ternacional. Esse comércio entre as nações não é uma coisa recente. Ele já 
+acontecia desde a antiguidade e, nos dias atuais, ele é ainda mais forte.
+Aula 7 - Economia Internacional
+Fundamentos de Economiae-Tec Brasil
+80
+Ao iniciarmos o estudo da Economia Internacional, Silva e Luiz (2001) apre-
+sentam duas questões principais a serem discutidas: por que os países co-
+mercializam entre si? E, como são escolhidos os bens e serviços que farão 
+parte do fluxo de mercadorias do comércio internacional?
+A resposta mais óbvia para essas perguntas é que os países não produzem 
+tudo que seus habitantes necessitam. Antigamente, essas necessidades 
+eram muito relacionadas a fatores climáticos (por exemplo, a agricultura nos 
+países tropicais) e a especialização histórica (por exemplo, os temperos na 
+Índia). Atualmente, além desses fatores existe a questão da dependência de 
+tecnologia existente entre países. Essa dependência acontece principalmen-
+te nos setores de alta tecnologia (por exemplo, os setores farmacêutico, de 
+informática e eletrônica) devido às barreiras para entrada nesse setor. As 
+barreiras incluem altos investimentos em pesquisa e desenvolvimento, em 
+pagamentos de royalties, etc.
+Conforme Vasconcellos e Garcia (2004), os economistas clássicos fornecem 
+a explicação teórica básica para o comércio internacional através da Teoria 
+das Vantagens Comparativas.
+7.2 O que é a Teoria das Vantagens Comparativas?
+A Teoria das Vantagens Comparativas sugere que cada país deva se especia-
+lizar na produção daquela mercadoria em que é relativamente mais eficiente 
+(ou que tenha um custo relativamente menor), ou seja, deve especializar-se 
+na produção de bens e serviços em que possuem vantagens comparativas 
+(VASCONCELLOS, 2002).
+Esta mercadoria em que ele se especializou será a mercadoria exportada e, por 
+outro lado, este país deverá importar aqueles bens cuja produção, em território 
+nacional, implicaria em um custo relativamente maior. Dessa maneira, aumenta-
+-se o nível de bem estar dos países envolvidos no comércio internacional.
+Por exemplo, o Brasil se especializaria na produção de minério de ferro e a 
+China na produção de tecidos. O Brasil venderia minério de ferro para China 
+e compraria os tecidos chineses.
+Esses países podem apresentar essas vantagens comparativas devido aos re-
+cursos produtivos que o país possui, às condições climáticas, aos recursos 
+naturais, à tecnologia, à cultura, etc.
+e-Tec BrasilAula 7 - Economia Internacional
+81
+A Teoria das Vantagens Comparativas não deve ser usada para justificar polí-
+ticas de longo prazo, pois o bem-estar da população dos países que têm van-
+tagens comparativas na produção de produtos agrícolas tende a diminuir. 
+7.2.1 Exemplo
+Vamos imaginar que existem dois países, o Brasil e o Japão, e que em cada 
+um deles são produzidos apenas dois bens: soja e televisores.
+No Brasil, se as pessoas resolverem produzir apenas soja, seria possível pro-
+duzir 2 milhões de toneladas de soja. Como todos os recursos seriam utiliza-
+dos para produzir soja, nenhum televisor seria produzido. Por outro lado, se 
+o Brasil decidisse produzir apenas televisores, produziria 100.000 televisores.
+                  Produtos
+País Soja Televisores
+Brasil 2 milhões de toneladas ou 100 mil televisores
+Japão 200 mil toneladas ou 400 mil televisores
+O Brasil tem vantagem na produção de soja, pois produziria 2 milhões de 
+toneladas contra 200.000 toneladas do Japão. Por outro lado, o Japão teria 
+vantagens na produção de televisores, pois poderia produzir 400.000 televi-
+sores, enquanto o Brasil apenas 100.000 televisores.
+Se Brasil se especializar na produção de soja e o Japão na de televisores, ou 
+seja, o Brasil produzir somente soja e o Japão somente televisores, aumen-
+taria o bem-estar nos dois países. Os países exportarão e se especializarão 
+na produção dos bens cujo custo for comparativamente menor em relação 
+àqueles existentes, para os mesmos bens, nos demais países exportadores.
+Fundamentos de Economiae-Tec Brasil
+82
+7.3 Balanço de pagamentos 
+Em consequência do comércio entre os países, surge a necessidade de esta-
+belecer um controle sobre o fluxo de pagamentos e recebimentos realizados 
+nas relações comerciais internacionais. Esse controle é realizado através do 
+balanço de pagamentos.
+O balanço de pagamentos é o registro contábil de todas as transações reali-
+zadas entre os residentes do país com os residentes dos demais países num 
+determinado período de tempo (SOUZA, 2007).
+Vasconcellos (2002) afirma que são registradas no balanço de pagamentos 
+todas as importações e exportações de mercadorias realizadas pelo país e o 
+pagamento e recebimento de fretes, juros, royalties, patentes, seguros, em-
+préstimos obtidos no exterior, etc.
+Todas as transações de um país com o exterior envolvem a compra e a venda 
+de moedas estrangeiras, que chamaremos de divisas. A moeda mais utilizada 
+internacionalmente é o dólar americano. No Brasil, o órgão que faz a troca 
+de moeda é o Banco Central.
+O critério de registro utilizado é lançar as saídas de divisas a débito e a en-
+trada de divisas a crédito. O saldo do balanço de pagamentos será igual ao 
+total de crédito menos o total de débito.
+
+e-Tec BrasilAula 7 - Economia Internacional
+83
+7.3.1 Estrutura do balanço de pagamentos
+Vasconcellos e Garcia (2004) apresentam a seguinte divisão da estrutura do 
+balanço de pagamentos:
+a) Balança comercial (registra importações e exportações)
+Débito Crédito
+Importações (compra de divisas = saída de 
+divisas)
+Exportações (venda de divisas = entrada de 
+divisas)
+b) Balança de serviços (pagamento e recebimento de fretes, seguros, 
+juros e royalties)
+Débito Crédito
+Fretes pagos
+Seguros pagos
+Juros pagos
+Royalties pagos
+Fretes recebidos
+Seguros recebidos
+Juros recebidos
+Royalties recebidos
+c) Transferências unilaterais (transações sem contrapartida)
+Débito Crédito
+Donativos enviados Donativos recebidos
+d) Balança de transações correntes (transações realizadas com bens 
+e serviços)
+Resultado Líquido de A + B + C
+Fundamentos de Economiae-Tec Brasil
+84
+e) Balança de Capitais (transações que envolvem saída e entrada de 
+divisas, mas não significam recebimento e envio de mercadorias ou 
+serviços)
+Débito Crédito
+Empréstimos efetuados
+Investimentos nacionais no exterior
+Amortização dos empréstimos
+Empréstimos recebidos
+Investimentos estrangeiros no país
+7.3.2 Exemplo
+Vamos imaginar que o Brasil em um determinado ano tenha exportado US$ 
+38 milhões de dólares em mercadorias e importado US$ 35 milhões de dóla-
+res em mercadorias. Nesse mesmo período, o Brasil pagou US$ 2 milhões de 
+dólares de frete, US$ 1 milhão de seguros e US$ 3 milhões de juros. Navios 
+brasileiros receberam US $ 1 milhão de dólares de frete. Além disso, o país 
+recebeu US$ 1 milhão de dólares em donativos.
+O balanço de pagamentos nesse ano fica de seguinte forma:
+a) Balança comercial (registra importações e exportações)
+Débito Crédito
+Importações                                        35
+Saldo Credor                                        3
+Exportações                                        38
+b) Balança de serviços (pagamento e recebimento de fretes, seguros, 
+juros e royalties)
+Débito Crédito
+Fretes pagos                                           2 Fretes recebidos                                   1
+Seguros pagos                                        1       Seguros recebidos
+Juros pagos                                            3        Juros recebidos     
+     Saldo Devedor                                                            5
+e-Tec BrasilAula 7 - Economia Internacional
+85
+c) Transferências unilaterais (transações sem contrapartida)
+Débito Crédito
+Donativos enviados
+Saldo Credor                                         1
+Donativos recebidos                                 1 
+d)  Balança de transações correntes (transações realizadas com bens e 
+serviços)
+Resultado Líquido de A + B + C
+Débito Crédito
+Saldo Devedor                                                                 1 
+A balança comercial apresentou um saldo credor de US$ 3 milhões de dó-
+lares, que somado com o saldo devedor da balança de serviços de US$ 5 
+milhões de dólares e com o saldo credor das transações unilaterais de US$ 1 
+milhão de dólares chegou a um saldo devedor de US$ 1 milhão de dólares 
+(balança de transações correntes).
+Continuando o balanço de pagamentos, vamos imaginar que empresas es-
+trangeiras decidiram investir US$ 1 milhão de dólares no país e que as em-
+presas brasileiras tomaram US$ 1 milhão de dólares em empréstimos no 
+exterior. A balança de capitais fica da seguinte forma:
+e) Balança de Capitais (transações que envolvem saída e entrada de 
+divisas, mas não significam recebimento e envio de mercadorias ou 
+serviços)
+Débito Crédito
+Empréstimos efetuados Empréstimos recebidos                           1
+Investimentos nacionais no exterior Investimentos estrangeiros no país          1
+Amortização dos empréstimos
+Saldo Credor                                          2
+Fundamentos de Economiae-Tec Brasil
+86
+O saldo devedor da balança de transações correntes é compensado pelo sal-
+do credor da balança de capital. Isso faz com que o balanço de pagamentos 
+feche com saldo credor de US$ 1 milhão de dólares nesse período.
+7.4 Taxa de câmbio 
+Taxa de câmbio é o preço das moedas estrangeiras em relação à moeda na-
+cional, ou seja, é a medida de conversão da moeda nacional em moeda de 
+outros países. Por exemplo, se o dólar custa 1,92 de real, isso significa trocar 
+US$ 1,00 por R$ 1,92.
+De acordo com Vasconcellos e Garcia (2004), a determinação da taxa de 
+câmbio ocorre geralmente de dois modos:
+•	 Taxas fixas de câmbio: quando as autoridades econômicas (governo) de-
+finem ou fixam as taxas de câmbio.
+•	  Taxas flutuantes: quando a taxa de câmbio depende do funcionamento 
+do mercado, flutuando automaticamente em decorrência das pressões 
+de oferta e demanda por divisas estrangeiras (moeda estrangeira). Nesse 
+caso, a determinação da taxa de câmbio ocorre pela oferta e pela procura 
+de divisas. O gráfico abaixo mostra o ponto de equilíbrio, onde a oferta 
+(O) é igual à demanda (D) originando uma taxa de câmbio (T).
+
+e-Tec BrasilAula 7 - Economia Internacional
+87
+Uma taxa elevada de câmbio significa que o preço da divisa estrangeira está 
+alto, ou que a moeda nacional está desvalorizada. 
+Os exportadores e as divisas oriundas da contratação de empréstimos exter-
+nos e investimentos feitos em nosso país pelas multinacionais constituem a 
+oferta de moeda no mercado de divisas.
+Os importadores e o pagamento de empréstimos externos constituem a de-
+manda por moeda estrangeira no mercado de divisas.
+Resumo
+ A Economia Internacional analisa as relações econômicas do país com o 
+resto do mundo. Não é possível pensar o mundo que vivemos hoje sem o 
+comércio internacional. O balanço de pagamentos é uma forma de controlar 
+as entradas e saídas de divisas de um país, ou seja, o fluxo financeiro entre 
+os países.
+As taxas de câmbio influenciam o comércio internacional. Muitas vezes al-
+guns produtos de alguns países perdem competitividade internacional por se 
+tornarem mais caros devido ao câmbio desfavorável.
+Atividades de aprendizagem
+1.   A Teoria das Vantagens Comparativas é utilizada para explicar o comércio    
+internacional. Essa teoria consiste em:
+a) (      ) Cada país deve tentar produzir todos os produtos que seus ha-
+bitantes necessitam.
+b) (      ) Cada país deve especializar-se na produção das mercadorias em 
+que é mais eficiente.
+c) (      ) Registrar as transações realizadas entre os países.
+d) (      ) O governo, através das autoridades monetárias,  define a taxa 
+de câmbio mais adequada.
+Fundamentos de Economiae-Tec Brasil
+88
+2. Dadas as seguintes informações sobre o Balanço de Pagamentos, em mi-
+lhões   de reais:
+Importações                                                                     90 
+Exportações                                                                   120 
+Fretes Pagos                                                                    30 
+Empréstimos Externos Recebidos                                  50 
+Donativos Recebidos                                                      20 
+Juros Pagos                                                                     10 
+Empréstimos efetuados                                                 30 
+Calcule:
+a) Saldo da Balança Comercial
+b) Saldo da Balança de Transações Correntes
+c) Saldo do Balanço de Pagamentos
+3. Marque, nos parêntesis, V (se considerar a alternativa correta) e F (se con-
+siderar a alternativa incorreta):
+a) (    ) As taxas de câmbio são medidas usadas para converter as moe-
+das de um país na moeda de outro país.
+b) (      ) Taxas de câmbio flutuantes dependem das autoridades mone-
+tárias, ou seja, essas autoridades monetárias definem as taxas de câmbio.
+c) (      ) Quando é utilizado o sistema de taxas de câmbio flutuantes a 
+oferta e a demanda de moeda determinam qual será a taxa de câmbio.
+d) (     ) Taxa de câmbio elevada significa somente que a moeda nacional 
+está desvalorizada. Não tem nenhuma relação com a política econômica.
+e-Tec BrasilAula 7 - Economia Internacional
+89
+Prezado (a) estudante
+Nas próximas aulas estudaremos a Microeconomia. A Microeconomia estuda 
+o comportamento do consumidor (Teoria da Demanda), das empresas (Te-
+oria da Produção) e como se relacionam a demanda e a oferta (Mercado). 
+Não deixe de fazer as atividades e se tiver alguma dúvida volte ao conteúdo 
+estudado.
+
+e-Tec BrasilAula 8 - Teoria da Demanda
+91
+Objetivos: 
+1. Definir demanda;
+2. Listar os elementos que influenciam a demanda;
+3. Explicar a curva de demanda;
+4. Relacionar preço e quantidade demandada;
+5. Conceituar e aplicar o conceito de elasticidade;
+6. Diferenciar bens complementares de bens substitutos.
+Nessa aula vamos discutir o comportamento do consumidor, ou seja, como 
+a demanda (quantidade demandada do bem) se comporta em relação à 
+variação no preço desse bem na curva de demanda.
+Aula 8 - Teoria da Demanda
+Fundamentos de Economiae-Tec Brasil
+92
+8.1 O que é demanda?
+A demanda ou procura é a quantidade de um determinado bem ou serviço 
+que o consumidor está disposto a consumir em determinado período de 
+tempo (VASCONCELLOS; GARCIA, 2004).
+A quantidade demandada está sempre relacionada com um período de tem-
+po. Por exemplo, a quantidade de arroz que uma família irá consumir em 
+uma semana é diferente da que ela irá consumir em um mês.
+De acordo com Silva e Luiz (2001), a demanda pelos bens e serviços é in-
+fluenciada por diversos fatores:
+•	 Renda ou orçamento do consumidor: a renda é utilizada para adquirir 
+os bens e serviços. A renda limita a quantidade de bens e serviços que 
+o consumidor pode adquirir. É lógico pensar que quanto maior a renda, 
+maiores poderão ser as quantidades consumidas dos bens e serviços. 
+Além disso, com uma renda maior podem ser consumidos produtos mais 
+“caros”, que também têm seu consumo limitado pela renda.
+•	 Preço do bem: naturalmente, quanto maior for o preço do bem menos 
+ele será demandado e quanto menor for o seu preço mais ele será de-
+mandado. Isto se deve ao fato de os indivíduos estarem, geralmente, 
+mais dispostos a comprar quando os preços estão mais baixos. Por exem-
+plo, ao reduzir o preço do óleo, os consumidores estarão dispostos a 
+aumentar a quantidade adquirida do produto.
+e-Tec BrasilAula 8 - Teoria da Demanda
+93
+•	 Preço de outros bens: os preços dos outros bens que uma pessoa con-
+some influenciam a demanda pelo bem. Ao gastar mais com os outros 
+bens, sobra menos dinheiro para gastar com o bem. Por exemplo, o au-
+mento do preço do arroz e do óleo influenciam a demanda por batata.
+•	 Gosto ou preferência do consumidor: o consumidor escolhe determina-
+das quantidades de bens, que formará sua cesta de consumo. Essa esco-
+lha é influenciada por uma escala de preferência, em função de seu gosto 
+e dos preços dos bens. Essa cesta é formada no sentido de maximizar a 
+sua satisfação com um mínimo de gasto, ou seja, adquirir o máximo de 
+produtos gastando o mínimo possível. Entretanto, os gastos são limita-
+dos pela renda do consumidor. Deve ficar claro para nós que a utilidade 
+do bem é diferente de pessoa para pessoa. Uma pessoa pode preferir 
+suco a refrigerante e outra refrigerante a suco, por exemplo.
+Fundamentos de Economiae-Tec Brasil
+94
+8.2 Como a demanda se comporta?
+A teoria da demanda é baseada em análise do comportamento do consumi-
+dor, analisando qual quantidade de cada bem ele irá adquirir, tendo em vista 
+as limitações impostas pela sua renda. Por esse motivo, é conhecida também 
+como teoria do consumidor.
+É razoável pensarmos que o consumidor escolhe as quantidades dos bens que 
+lhe fornecem maior satisfação, pois seu orçamento é limitado e ele não pode 
+comprar todas as unidades de bens que deseja. Não é assim que nós agimos?
+Como já falamos anteriormente, a demanda do bem (Dx) é influenciada por 
+diversos fatores [renda (R), preço do bem (px), preço dos outros bens (p1, 
+p2,......, pn) e gosto ou preferência (G)]. Podemos expressar essa relação 
+através da função abaixo:
+Essa função mostra que a quantidade demandada do bem X (Dx) depende 
+de seu preço (px), dos preços dos outros bens que essa pessoa consome (p1, 
+p2,......, pn), de sua renda (R) e de sua preferência ou pela utilidade que esse 
+bem proporciona (G). 
+Dx = f (px, p1, p2,......, pn, R, G)
+Onde: Dx: quantidade demandada do bem X; 
+px: preço do bem X;
+p1, p2,......, pn: preço dos outros bens consumidos 
+pela pessoa;
+R: renda do consumidor;
+G: gosto ou preferência do consumidor pelo bem.
+Condição Ceteris paribus
+É uma expressão em Latim que 
+significa tudo o mais constante. 
+Essa condição é usada na econo-
+mia para analisar a influência de 
+um fator sobre outro, sem que os 
+demais fatores sofram alterações.
+e-Tec BrasilAula 8 - Teoria da Demanda
+95
+É difícil estabelecer a quantidade demandada de um bem em função de tan-
+tas variáveis. Devido a esse motivo, os economistas supõem apenas a varia-
+ção do preço do bem que está sendo estudado, permanecendo constantes 
+os preços dos outros bens, a renda e as preferências do consumidor. Essa 
+condição ficou conhecida como condição ceteris paribus, onde é analisada 
+a relação entre apenas duas variáveis, permanecendo “todo o mais constan-
+te” ou “mantidas inalteradas todas as outras coisas”.
+Essa condição estabelece uma relação entre a demanda do bem e seu preço, 
+admitindo que os outros fatores não se alterassem, isto é, permanecessem 
+constantes. Essa relação é expressa através de:
+Essa relação ou função mede o efeito das variações do preço do bem (px) em 
+sua demanda (Dx). Essa função dá origem à curva de demanda.
+A curva de demanda é a representação gráfica das diferentes quantidades 
+de um bem que os consumidores estão dispostos a comprar aos diferentes 
+preços por unidade de tempo.
+O gráfico abaixo mostra a relação entre as quantidades demandadas e os 
+preços do quilograma de carne. O gráfico mostra que com um preço de R$ 
+8,00 a quantidade demandada é de 20 quilogramas (Ponto A) e com um 
+preço de R$ 6,00 a quantidade demandada é de 35 quilogramas (Ponto B).
+Dx = f (px)
+Onde: Dx: quantidade demandada do bem X;
+           px: preço do bem X.
+Fundamentos de Economiae-Tec Brasil
+96
+Como podemos observar a partir do gráfico, existe uma relação inversa entre 
+a quantidade demandada de um bem (Dx) e o seu preço (px). Essa relação 
+ficou conhecida como lei da demanda ou lei da procura.
+A lei da demanda indica que quanto maior for o preço de um bem (px), menor 
+será a quantidade demandada desse bem (Dx). Essa é uma situação típica que 
+reflete o comportamento do consumidor no mercado. Não é assim que nos 
+comportamos? Quando o preço de um produto sobe não compramos menos?
+Até aqui entendemos que o preço do bem (px) é inversamente proporcional 
+à quantidade demanda (Dx). Mas, como podemos usar a lei da demanda?  
+Como ocorre a variação no preço do bem (px) e na sua quantidade demanda-
+da (Dx)? Qual a dimensão do aumento do preço do bem (px) e da quantidade 
+demandada (Dx)?
+Para discutirmos essas questões, é necessário explicarmos o conceito de elastici-
+dade.
+8.3 O que é elasticidade?                                            
+A elasticidade mede a reação dos consumidores a uma variação de preço 
+de um bem em termos percentuais, ajudando a entender as influências do 
+preço no consumo de um bem ou serviço.
+A elasticidade-preço da demanda mede os efeitos de mudança dos preços 
+sobre as quantidades demandadas, ou seja, mede a reação dos consumido-
+res às variações de preços (VASCONCELLOS; GARCIA, 2004). Formalmente, 
+a elasticidade é o quociente da variação percentual da quantidade demanda-
+da de um bem pela variação percentual no preço do mesmo bem.
+A elasticidade-preço da demanda é calculada através da seguinte fórmula:
+Onde: ep: elasticidade-preço da demanda;
+ΔQ: variação na quantidade demandada;
+Q: quantidade demandada;
+ΔP: variação no preço do bem;
+P: preço do bem.
+Q
+Q
+P
+P
+e =P
+e-Tec BrasilAula 8 - Teoria da Demanda
+97
+Segundo Souza (2007), com base no valor da elasticidade-preço da deman-
+da, sem considerarmos o sinal (positivo ou negativo), a demanda dos bens 
+pode ser classificada em:
+•	 Demanda com elasticidade unitária: ocorre quando a elasticidade-preço 
+da demanda é igual a 1 (ep =1).
+•	 Demanda elástica: ocorre quando a elasticidade-preço da demanda é 
+maior do que 1 (ep >1).
+•	 Demanda inelástica: ocorre quando a elasticidade-preço da demanda é 
+menor do que 1 (ep < 1).
+O valor da elasticidade é um critério interessante para se diferenciar os bens.
+Os bens essenciais apresentam demanda inelástica (ep < 1), ou seja, as pes-
+soas não reduzirão o consumo com o aumento do preço. Exemplo desse tipo 
+de bem são alimentos e antibióticos.
+Os bens supérfluos ou que existem substitutos apresentam demanda elásti-
+ca, ou seja, ocorre redução no consumo com aumento do preço ou existên-
+cia de bens substitutos. Exemplo são viagens de turismo, eletrodoméstico e 
+carnes “de primeira” como filé e picanha.
+Silva e Luiz (2001) afirmam que entender a elasticidade-preço da demanda 
+de um bem é fundamental para o empresário que o produz, pois esse co-
+nhecimento lhe dará os reflexos das variações de preço sobre a demanda 
+pelo seu produto.
+8.3.1 Exemplo
+Considere a curva de demanda a seguir, que representa a demanda por filé 
+mignon.
+
+Fundamentos de Economiae-Tec Brasil
+98
+Imagine que uma família compre, ao preço de R$ 8,00, 20 quilogramas de 
+filé mignon por mês (Ponto A). Se o preço aumentar para R$ 10,00 o quilo, 
+a quantidade adquirida cairá para 12 quilogramas por mês (Ponto B).
+Responda:
+a) Qual é a elasticidade-preço da demanda por filé mignon?
+ 
+Q
+Q
+P
+P
+e =P =
+20
+12-20
+10-8
+8
+= -1,6
+b)De que tipo é a demanda?
+A demanda é elástica, pois a elasticidade-preço da demanda é maior do que 
+1 (ep >1). 
+8.4 O que são bens complementares e bens 
+substitutos?
+Alguns bens são consumidos juntamente com outros bens para gerar a sa-
+tisfação máxima para as pessoas. Esses bens são chamados de complemen-
+tares. Exemplos são o pão com a manteiga e o arroz com o feijão.
+Essa sensação de satisfação ao consumir dois produtos juntos depende dos 
+hábitos das pessoas. Por exemplo, João come biscoito tipo água e sal apenas 
+com margarina e Maria come o mesmo tipo de biscoito sem margarina. Para 
+João, esse tipo de biscoito e margarina são complementares e para Maria 
+não são.
+Outros bens podem ser substituídos no consumo, gerando satisfação igual 
+ou semelhante para o consumidor. Esses bens são chamados de substitutos. 
+Nesse caso, o consumidor pode deixar de consumir um bem para consumir 
+o outro. Exemplos disso são manteiga e margarina, café e chá. 
+Da mesma forma que os bens complementares, a substituição dos bens de-
+pende dos hábitos das pessoas.
+e-Tec BrasilAula 8 - Teoria da Demanda
+99
+8.4.1 Como a elasticidade pode ajudar a identificar os 
+bens complementares e substitutos?
+Para identificar os bens complementares e substitutos precisamos entender 
+um novo conceito: a elasticidade cruzada da procura ou elasticidade cruzada 
+da demanda ou, simplesmente, elasticidade cruzada.
+A elasticidade cruzada mede os reflexos da variação do preço de um bem 
+sobre a quantidade demandada de outro bem.
+De acordo com Silva e Luiz (2001), a única diferença entre a elasticidade-
+-preço da demanda (ep) e a elasticidade cruzada (ec) é que a elasticidade 
+cruzada se refere a dois bens, enquanto a elasticidade-preço da demanda se 
+refere a um mesmo bem.
+A elasticidade cruzada é obtida a partir da equação abaixo: 
+                    Onde: ec: elasticidade cruzada;
+                      ΔQA: variação na quantidade demandada do bem A;
+                      QA: quantidade demandada do bem A;
+                      ΔPB: variação no preço do bem B;
+                      PB: preço do bem B.
+A elasticidade cruzada, assim como a elasticidade-preço da demanda, pode 
+ser utilizada para diferenciar bens. Nesse caso, será utilizado apenas o sinal 
+da elasticidade cruzada para identificar bens substitutos e complementares.
+•	 Bens substitutos: o sinal da elasticidade cruzada é positivo (ec > 0). O 
+aumento do preço do bem B levará ao aumento do consumo do bem 
+A. E a diminuição do preço do bem B levará à diminuição do consumo 
+do bem A. Por exemplo, o aumento do preço do chá pode levar ao au-
+mento do consumo de café.
+•	 Bens complementares: o sinal da elasticidade cruzada é negativo (ec < 
+0). O aumento do preço do bem A provocará redução na demanda do 
+bem B e vice-versa. Por exemplo, o aumento do preço do pão pode levar 
+à redução no consumo de margarina.
+e =C
+P
+PB
+B
+Q
+Q A
+A
+Fundamentos de Economiae-Tec Brasil
+100
+•	 Bens independentes: A elasticidade cruzada é igual a zero (ec = 0). Não 
+existe relação entre os bens. A variação de preço de um dos bens não 
+causa modificações na demanda pelo outro.
+Resumo
+A teoria da demanda analisa o comportamento do consumidor, verificando 
+qual quantidade de cada bem ele irá adquirir, tendo em vista as limitações 
+impostas pela sua renda. Por esse motivo, é conhecida também como teoria 
+do consumidor. 
+A elasticidade analisa a relação entre a variação de preço e o seu reflexo na 
+quantidade demandada. A elasticidade-preço da demanda analisa essa rela-
+ção para o mesmo bem e a elasticidade cruzada para bens diferentes.
+Atividades de aprendizagem
+1. Quais são os principais elementos na determinação da demanda de um 
+bem?
+2. Considerando a curva de demanda a seguir, responda às questões:
+a) Que quantidade é demandada no Ponto A da curva de demanda? E 
+a que preço?
+b) Que quantidade é demandada no Ponto B da curva de demanda? E 
+a que preço?
+c)     Ao passar do ponto A para o ponto B, qual é a elasticidade-preço 
+de demanda pelo bem X?
+d) De que tipo é a demanda pelo bem X?
+
+e-Tec BrasilAula 8 - Teoria da Demanda
+101
+3. Reescreva as frases, completando as lacunas:
+a) Os ________________________ são consumidos juntos, para gerar 
+maior satisfação. Já os _____________________ são consumidos sepa-
+radamente.
+b) A _____________________________ analisa o reflexo do aumento 
+do preço na demanda pelo mesmo bem. A ________________________ 
+analisa o reflexo no aumento do preço de um bem na demanda de outro 
+bem.
+Caro (a) estudante (a)
+Na próxima aula vamos estudar a teoria da produção, ou seja, como as em-
+presas se comportam em relação à variação no preço dos bens que elas 
+produzem. Bons estudos e siga em frente!
+Fundamentos de Economiae-Tec Brasil
+102
+
+e-Tec BrasilAula 9 - Teoria da Produção
+103
+Objetivos: 
+1. Definir oferta;
+2. Relacionar lucro, receita e custo de produção;
+3. Explicar a curva de oferta;
+4. Relacionar preço e quantidade ofertada;
+5. Conceituar e aplicar o conceito de elasticidade.
+Nessa aula estudaremos o comportamento das empresas. A curva de oferta 
+apresenta a relação entre a quantidade dos bens produzidos pelas empresas 
+e seus preços. Prepare-se para receber novas informações que devem fazer 
+parte do seu processo de aprendizagem.
+Aula 9 - Teoria da Produção
+Empresa
+Nesse caso, pode ser definida 
+como uma unidade técnica que 
+combina os fatores de produção 
+para produzir bens e serviços. 
+Também pode ser chamada de 
+firma.
+Fundamentos de Economiae-Tec Brasil
+104
+9.1 Do que trata a oferta?
+A oferta descreve o comportamento dos produtores ou vendedores, mos-
+trando o quanto estariam dispostos a vender, a um determinado preço. Em 
+outras palavras, mostra o comportamento das empresas no mercado.
+Ao comparar o comportamento dos produtores (oferta) com o comporta-
+mento dos consumidores (demanda) notamos que eles são diferentes em 
+relação aos preços altos. Os preços altos desestimulam os consumidores e 
+estimulam os vendedores a produzir e vender mais. Portanto, quanto maior 
+o preço maior a quantidade ofertada.
+A decisão das empresas sobre o que produzir e sobre as quantidades depen-
+de dos preços e das vendas esperadas, ou seja, a quantidade de um bem que 
+uma empresa irá produzir depende do preço desse bem.
+Segundo Silva e Luiz (2001), para produzir, essas empresas usam um conjun-
+to de fatores de produção para criar os bens e serviços que serão vendidos 
+no mercado. Fatores de produção são os elementos transformados durante 
+o processo de produção. São classificados em três categorias: 
+•	 Trabalho: formado por todos os serviços das pessoas empregadas na pro-
+dução. Incluem os operários, os gerentes, os auxiliares, etc.
+•	 Capital: formado por todas as máquinas, equipamentos e instalações 
+empregados na produção.
+•	 Recursos naturais: formado pela terra, água e matérias-primas. 
+9.2 Como as empresas utilizam os fatores pro-
+dutivos para obter o produto? 
+As empresas utilizam uma função que associa as diferentes quantidades de 
+fatores de produção empregados no processo produtivo às quantidades pro-
+duzidas de bens ou de serviços. Essa função é denominada função produção 
+ou função oferta e é representada pela seguinte expressão:
+Onde: Q: quantidade produzida do bem;
+    K: quantidade empregada de fator capital;
+       L: quantidade empregada de fator trabalho. 
+Q = f (k, L)
+Custos de produção
+Custo de produção:
+É a despesa do empresário 
+com a aquisição dos fatores de 
+produção necessários ao desen-
+volvimento de suas atividades.
+Receita
+É a quantidade produzida mul-
+tiplicada pelo preço de mercado 
+do bem.
+e-Tec BrasilAula 9 - Teoria da Produção
+105
+Essa função mostra que a quantidade produzida do bem depende das quan-
+tidades empregadas dos fatores capital (K) e trabalho (L). Por exemplo, para 
+produzir uma mesa são necessários R$ 80,00 de fator capital (inclui utiliza-
+ção de equipamentos, máquinas e instalações) e R$ 50,00 de fator trabalho 
+(inclui salários dos operários).
+A função produção não se preocupa com o fator de produção recursos na-
+turais, pois este representa os menores custos para as empresas (LUIZ; SILVA, 
+2001).
+Para produzir os produtos determinados pela função produção, as empresas 
+apresentam custos. Esses custos são chamados de custos de produção.
+Ao vender os produtos produzidos, as empresas recebem dos clientes uma 
+quantia como pagamento pelos bens e serviços. Essa quantia chama-se receita.
+O lucro é a remuneração do empresário. É o que estimula o empresário a 
+produzir. O lucro é a diferença entre a receita do empresário e o seu custo 
+de produção, ou seja, é a diferença entre as entradas (vendas) e as saídas.
+A curva de oferta, como veremos a seguir, relaciona a quantidade ofertada 
+de um bem com o seu preço. Entretanto, é fundamental conhecer também 
+os custos para se calcular o lucro.
+9.3 O que é a curva de oferta?
+A curva de oferta é a relação entre as quantidades de um bem ou de um 
+serviço (Qx) que os empresários estão dispostos a ofertar e seus diversos pre-
+ços (px). A relação entre o preço do bem e a quantidade ofertada é direta, 
+ou seja, quanto maior o preço de um bem, maior é a quantidade ofertada e 
+quanto menor o preço de um bem, menor é a quantidade ofertada.
+
+Fundamentos de Economiae-Tec Brasil
+106
+Do ponto de vista do empresário, quanto maior for o preço de uma merca-
+doria, maior será o interesse desse empresário em produzir, pois aumentan-
+do sua receita aumentará também o seu lucro.
+A curva de oferta pode ser representada pelo gráfico abaixo.
+No gráfico, temos no eixo horizontal a quantidade do bem X (Qx) e no eixo 
+vertical o preço do bem X (Px). Esse gráfico mostra que, ao aumentar o preço 
+de R$ 4,00 (Ponto A) para R$10,00 (Ponto B), a quantidade ofertada (produ-
+ção) cresce de 20 unidades (Ponto A) para 40 unidades (Ponto B). 
+9.4 Como a elasticidade pode ser usada na curva 
+de oferta?        
+A elasticidade também pode ser utilizada na curva de oferta para medir a 
+reação dos empresários às variações de preço dos bens que eles produzem. 
+Esse tipo de elasticidade é chamado de elasticidade-preço da oferta.
+A elasticidade-preço da oferta é o quociente da variação percentual na 
+quantidade ofertada de um bem pela variação percentual no preço desse 
+bem (SOUZA, 2007). 
+A elasticidade-preço da oferta é calculada da seguinte forma:
+         Onde: ep: elasticidade-preço da oferta;
+         ΔQ: variação na quantidade ofertada;
+         Q: quantidade ofertada;
+         ΔP: variação no preço do bem;
+         P: preço do bem.
+Q
+Q
+P
+P
+e =P
+e-Tec BrasilAula 9 - Teoria da Produção
+107
+De acordo com Luiz e Silva (2001), a curva de oferta pode ser classificada em 
+três categorias ao desconsiderarmos o sinal (positivo ou negativo):
+•	 Oferta com elasticidade unitária: ocorre quando os preços variam na 
+mesma proporção das quantidades ofertadas. A elasticidade-preço da 
+oferta é igual a 1 (ep = 1).
+•	 Oferta inelástica: ocorre quando as quantidades ofertadas variam per -
+centualmente menos do que os preços. A elasticidade-preço da oferta é 
+menor do que 1 (ep < 1).
+•	 Oferta elástica: ocorre quando as quantidades ofertadas variam percen-
+tualmente mais do que os preços. A elasticidade-preço da oferta é maior 
+do que 1 (ep > 1).
+9.4.1 Exemplo
+Um empresário que produz fogões apresenta a seguinte curva de oferta:
+Essa curva de oferta mostra que atualmente o empresário encontra-se no 
+ponto A, com uma produção 1.000 fogões, cada um com um preço de R$ 
+400,00. Supondo que o preço dos fogões passe para R$ 500,00, o empre-
+sário passará a produzir 1.200 fogões, passando do ponto A para o ponto B 
+no gráfico acima.
+Para calcular a elasticidade-preço da oferta temos:
+ 
+Q
+Q
+P
+P
+e =P =
+1000
+1200-1000
+500-400
+400
+= 0,8
+Fundamentos de Economiae-Tec Brasil
+108
+A oferta de fogões é inelástica (ep < 1). A quantidade ofertada variou per -
+centualmente menos que o preço dos fogões.
+Resumo
+A teoria da produção analisa a oferta de produtos pelos empresários. Pen-
+sando do ponto de vista dos empresários, quanto maior for o preço que ele 
+conseguir vender os seus produtos, maior será seu lucro e maior interesse ele 
+terá em produzir o bem. A curva de oferta mostra essa relação.
+O conceito de elasticidade também pode ser utilizado na curva de oferta. A 
+elasticidade-preço da oferta mede a reação dos empresários às variações de 
+preço dos bens que eles produzem.
+Atividades de aprendizagem 
+1. Complete as lacunas:
+a) A curva de __________________ mostra a relação entre as 
+_________________ de um bem que os empresários estão dispostos a 
+ofertar e seus diversos _______________.
+b) Ao decidir o que produzir e em que quantidade, o empresário é esti-
+mulado pelo lucro. O lucro é a diferença entre a __________________ do 
+empresário e os seus __________________.
+2. Considerando a curva de oferta abaixo, responda as seguintes questões:
+a) Qual é a quantidade ofertada do produto X e a que preço, no ponto A?
+b) Qual é a quantidade ofertada do produto X e a que preço, no ponto B?
+
+e-Tec BrasilAula 9 - Teoria da Produção
+109
+c) Ao passar do ponto A para o ponto B, qual é a elasticidade-preço de 
+oferta do produto X?
+d) De que tipo é a oferta do produto X?
+Caro (a) estudante
+ Esta aula abordou a teoria de produção e você agora já pode definir oferta, 
+bem como relacionar lucro, receita e custo de produção. Na próxima aula 
+poderemos visualizar a relação entre a demanda e a oferta no mercado.  
+Poderemos identificar no mercado o ponto de equilíbrio entre a oferta e a 
+demanda e, com isso, o preço de equilíbrio. Não desanime e continue aten-
+to. Você já está chegando ao fim desta disciplina.
+Fundamentos de Economiae-Tec Brasil
+110
+
+e-Tec BrasilAula 10 - Mercado
+111
+Objetivos: 
+1. Conceituar mercado;
+2. Obter o preço de equilíbrio;
+3. Diferenciar os tipos de mercado.
+Nessa aula vamos estudar o comportamento da demanda e da oferta no 
+mercado e os tipos de mercado de acordo com a importância da empresa 
+nesses mercados e a homogeneidade do produto ofertado.
+10.1 O que é mercado?
+O mercado é formado pelos consumidores que querem comprar e pelos em-
+presários que desejam vender determinados produtos. O comportamento 
+do consumidor é representado pela curva de demanda (como vimos na Aula 
+8) e o comportamento do empresário pela curva da oferta (Aula 9).
+Aula 10 - Mercado
+
+Fundamentos de Economiae-Tec Brasil
+112
+Mercado é onde convergem a procura e a oferta de um bem e onde se de-
+termina o preço e a quantidade pelo qual esse bem será vendido (SILVA e 
+LUIZ, 2001).
+A curva de oferta é analisada conjuntamente com a curva de demanda, para 
+que se possa visualizar o funcionamento do mercado. Então, podemos dizer 
+que no mercado ocorre o encontro da oferta com a demanda.
+O encontro entre a oferta e a demanda determina o preço e quantidade do 
+produto. Isso ocorre porque não é possível determinar a quantidade e o pre-
+ço analisando isoladamente as curvas de oferta ou demanda.
+O encontro entre a oferta e a demanda significa o ponto onde a oferta 
+será igual à demanda. Esse ponto é chamado de ponto de equilíbrio. Esse 
+ponto de equilíbrio mostra o preço e as quantidades que atendem às aspira-
+ções dos empresários e dos consumidores simultaneamente.  De acordo com 
+Mankiw (2009), esse preço é chamado de preço de equilíbrio e a quantidade 
+de quantidade de equilíbrio.
+O gráfico abaixo mostra o funcionamento desse mercado. O produto X, que 
+no caso são pizzas, tem sua oferta representada pela reta O e sua demanda 
+representada pela reta D. No eixo horizontal temos a quantidade do produto 
+X (Qx) e no eixo vertical o preço do produto X (Px). 
+
+e-Tec BrasilAula 10 - Mercado
+113
+Analisando o gráfico:
+•	 Ao preço de R$ 10,00, os consumidores estão dispostos a adquirir 20 
+unidades do produto X (Ponto A) e os produtores dispostos a vender 40 
+unidades (Ponto B). Nesse caso, a oferta é maior que a demanda então 
+esse não é o ponto de equilíbrio.
+•	 Ao preço de R$ 6,00, os consumidores estão dispostos a adquirir 40 
+unidades do produto X (Ponto D) e os produtores dispostos a vender 20 
+unidades (Ponto C). Nesse caso, a demanda é maior que a oferta então 
+esse também não é o ponto de equilíbrio. 
+•	 Ao preço de R$ 8,00, os consumidores estão dispostos a adquirir 30 
+unidades e os produtores a vender 30 unidades (Ponto E). A demanda 
+é igual à oferta então esse é o ponto de equilíbrio. O mercado está em 
+equilíbrio no Ponto E. O preço de equilíbrio é R$ 8,00 e a quantidade é 
+de 30 unidades.
+10.2 Como podemos classificar esses mercados?
+O mercado de um bem é formado pela oferta de todos os produtores e por 
+todos os consumidores que estão dispostos a adquiri-lo.
+As características do mercado para cada produto variam de país para país 
+e até de região para região e essas informações são fundamentais para a 
+atuação das empresas.
+Fundamentos de Economiae-Tec Brasil
+114
+O tamanho do mercado depende tanto do número de consumidores quanto 
+da renda desses consumidores. É lógico pensar que o mercado norte-ameri-
+cano é bem maior que o mercado uruguaio, por exemplo.
+Segundo Silva e Luiz (2001), os mercados podem ser classificados em Con-
+corrência pura ou perfeita, Monopólio puro, Oligopólio e Concorrência mo-
+nopolística. Vamos entender melhor cada uma dessas classificações.
+10.2.1 Concorrência pura ou perfeita
+Na concorrência pura ou perfeita existe um grande número de empresas 
+oferecendo um mesmo produto. Como existe um grande número de empre-
+sas, cada uma delas representa uma pequena parcela do mercado, ou seja, 
+contribui com pouco para a oferta total.
+Segundo Souza (2007), o produto produzido nesse tipo de mercado é ho-
+mogêneo, isto é, o bem produzido por uma empresa é igual ao bem pro-
+duzido por outra. O consumidor não percebe a diferença entre os produtos 
+oferecidos pelas diferentes empresas e não consegue determinar em qual 
+empresa ele foi produzido.
+Exemplos que mais se aproximam desse tipo de mercado são os produtos agríco-
+las. O tomate, a laranja, a batata, etc. O consumidor não associa os produtos ao 
+produtor. Você sabe quem produziu a laranja que você comprou na feira?
+10.2.2 Monopólio puro 
+No monopólio puro apenas uma empresa oferece um bem, para o qual não 
+existem produtos substitutos satisfatórios (SOUZA, 2007). Essa empresa con-
+trola todo o mercado, pois é a única que produz o bem. Nesse caso, se essa 
+empresa deixar de produzir o produto, o mercado deixará de existir.
+De acordo com Silva e Luiz (2001), os produtos não são homogêneos, são 
+diferenciados. E, além de diferenciado, o produto não pode ser substituído 
+por outro.
+Exemplos desse tipo de mercado são encontrados principalmente no setor 
+público, como o abastecimento de água e energia elétrica.
+e-Tec BrasilAula 10 - Mercado
+115
+10.2.3 Oligopólio 
+Segundo Souza (2007), no Oligopólio existe um grande número de compra-
+dores e um pequeno número de vendedores (empresas). Geralmente, pou-
+cas empresas dominam a maior parte do mercado, de forma que as ações de 
+uma empresa afetam as outras. 
+Essas empresas produzem bens diferenciados, mas que podem ser substitu-
+ídos entre si. O consumidor sabe exatamente qual empresa produziu deter -
+minado produto.
+Exemplos desse tipo de mercado incluem bens de consumo como automó-
+veis, eletrodomésticos, sabão em pó, pasta de dente, etc.
+10.2.4 Concorrência monopolística 
+Na concorrência monopolística existe um número razoavelmente grande de 
+empresas produzindo um mesmo bem, de modo que cada produtor indivi-
+dualmente não é importante (SILVA; LUIZ, 2001).
+Os produtos produzidos pelas empresas nesse tipo de mercado são os mes-
+mos, mas os consumidores os consideram diferenciados.
+Esse tipo de mercado apresenta características da concorrência perfeita (nú-
+mero de empresas produzindo o mesmo bem) e do oligopólio (cada produ-
+tor é diferente dos demais).
+Exemplos desse mercado são fábricas de roupas de moda, produtos têxteis, 
+prestação de serviços como encanador em grandes cidades, etc.
+Conseguiu perceber as principais características de cada classificação? 
+Então vamos revisar nossa aula. Quando aparecer uma dúvida, releia seu 
+conteúdo, troque ideias com seus colegas, entre em contato com seu 
+tutor presencial ou on-line. 
+Resumo
+O mercado é formado pela oferta (empresas) e pela demanda (consumidores) 
+e tem o preço como elemento fundamental em seu processo.
+Existem diferentes tipos de mercado, diferenciados pelo tipo de produto (ho-
+mogêneo ou diferenciado) e pelo número de empresas no mercado. De acor-
+Fundamentos de Economiae-Tec Brasil
+116
+do com Silva e Luiz (2001), esses tipos de mercado são a concorrência pura 
+ou perfeita, o monopólio puro, o oligopólio e a concorrência monopolística.
+Atividades de aprendizagem
+1. Considerando o gráfico abaixo, qual é o preço de equilíbrio e a sua res-
+pectiva quantidade? Justifique sua resposta.
+2. Complete a cruzadinha com os tipos de mercado:
+1.Existe um grande número de empresas oferecendo um produto. Esse 
+produto é homogêneo.
+2.Apenas uma empresa oferece o produto. Não existem produtos subs-
+titutos.
+3.Grande número de compradores e um pequeno número de vendedo-
+res. Empresas produzem bens diferenciados e identificados pela marca.
+4.Grande número de empresas oferece o produto e cada produtor é di-
+ferente dos demais.
+
+e-Tec BrasilAula 10 - Mercado
+117
+Caro (a) estudante 
+Chegamos ao final dessa disciplina. Essa aula mostrou como a oferta e a de-
+manda se relacionam no mercado. Revise os conteúdos estudados e refaça 
+as atividades para melhorar o aprendizado e esclarecer as dúvidas.
+Fundamentos de Economiae-Tec Brasil
+118
+
+e-Tec BrasilAula 10 - Mercado
+119
+Palavras finais
+Caro (a) estudante, 
+Você, como centro do processo ensino-aprendizagem, é merecedor (a) dessa 
+tão importante conquista!
+Finalizamos mais um componente curricular e foi uma excelente caminhada.
+Vivemos momentos intensos, mas em compensação tivemos momentos 
+inesquecíveis!
+Você conseguiu assimilar os pontos mais importantes das aulas? Faça revisão 
+dos objetivos e perceba o quanto aprendeu. Diagnostique os pontos que 
+você precisa rever.
+Leve os conhecimentos adquiridos no curso para sua vida. Continue seus 
+estudos tendo em mente que sempre é tempo de aprender.
+Busque novas oportunidades. Novas conquistas virão.
+Considere-se dotado(a) de uma capacidade incrível!
+Espero ter contribuído para sua formação.
+Fundamentos de Economiae-Tec Brasil
+120
+GUIA DE SOLUÇÕES
+ 
+Aula 1
+1. b) Queijo
+2. Os recursos são limitados quando dispomos de quantidades insuficientes 
+para produzir os bens e serviços necessários. Já as necessidades são ilimita-
+das porque sempre desejamos ter mais do que temos.
+Como temos recursos limitados e necessidades ilimitadas, é necessário esco-
+lher o que produzir, quanto produzir, para quem produzir e como produzir 
+para satisfazer as necessidades das pessoas.
+3. (C)
+(D)
+(B) 
+(A)
+4. Ponto A  É uma combinação possível. Os pontos em cima da curva indi-
+cam que todos os recursos produtivos estão sendo utilizados.
+Ponto B  É uma combinação possível, mas há recursos produtivos que não 
+estão sendo utilizados.
+Ponto C Não representa uma combinação possível de produção, pois está 
+acima da curva de possibilidade de produção.
+Aula 2
+1.  a) (F) 
+b) (V) 
+c) (V) 
+e-Tec BrasilAula 10 - Mercado
+121
+2. Bens de consumo Automóvel, geladeira e transporte coletivo.
+Bens de capital  Máquina de costura em uma confecção de roupas e 
+estradas.
+Bens intermediários Petróleo e trigo.
+3. 
+Aula 3
+1.  a) (V)
+b) (F)
+c) (V)
+d) (V)
+2. Produto – Renda – Renda – Produto - Poupança
+3.  a) PNB = R$ 590 bilhões
+b) PNL = R$ 570 bilhões
+c) RN = R$ 520 bilhões
+d) RP = R$ 470 bilhões
+e) RD = R$ 450 bilhões
+
+Fundamentos de Economiae-Tec Brasil
+122
+Aula 4
+1. Renda – Consumo - Poupança
+Gastos do governo – Impostos – Exportações – Importações
+2. c) Troca de máquinas e equipamentos, sem aumentar a capacidade pro-
+dutiva.
+3. O Brasil apresentou um superávit de R$ 10 bilhões na balança comercial. 
+Isso significa que exportou para outros países R$ 10 bilhões a mais do que 
+importou de outros países.
+Aula 5
+1. 
+2. Demanda de moeda para transações o pagamento de despesas não 
+acontece ao mesmo tempo do recebimento.
+Demanda de moeda por precaução para atender situações imprevistas ou 
+inesperadas.
+Demanda de moeda para especulação acúmulo de moeda em função de 
+expectativa de ganhos extraordinários.
+
+e-Tec BrasilAula 10 - Mercado
+123
+3.  a – c – d
+4. Alternativa 1
+Aula 6
+1. Distribuição de renda – Trabalhadores
+Importações - Exportações
+2. R$ 100,80 ou 8,4%
+Aula 7
+1. b)
+2. a) Saldo Credor = R$ 30 milhões de reais.
+b) Saldo Credor = R$ 10 milhões de reais
+c) Saldo Credor = R$ 30 milhões de reais
+3. a) (V)
+b) (F)
+c) (V)
+d) (F)
+Aula 8
+1. Renda do consumidor, preço do bem, preço dos outros bens e o gosto ou 
+preferência do consumidor.
+Fundamentos de Economiae-Tec Brasil
+124
+2. a) Ponto A  Demanda = 10 unidades
+                         Preço = R$ 20,00
+b) Ponto B  Demanda = 12 unidades
+                     Preço = R$ 12,00
+c) Elasticidade-preço da demanda (ep) = - 0,5
+d) A demanda é inelástica (ep < 1). As pessoas não reduzirão o consu-
+mo com o aumento do preço.
+3. Bens complementares – Bens substitutos
+Elasticidade-preço da demanda – Elasticidade cruzada
+Aula 9
+1. Oferta – quantidades – preços
+Receita – Custos de produção
+2. a) Ponto A  Oferta = 1500 unidades
+                          Preço = R$ 80,00
+b) Ponto B  Oferta = 2000 unidades
+                          Preço = R$ 100,00
+c) Elasticidade-preço da oferta (ep) = 1,33
+d) A oferta é elástica (ep > 1). A quantidade ofertada varia percentual-
+mente mais do que o preço.
+e-Tec BrasilAula 10 - Mercado
+125
+Aula 10
+1. Preço de Equilíbrio = R$ 15,00
+Quantidade = 200 unidades
+O ponto de equilíbrio é o ponto onde a oferta é igual à demanda. Nesse 
+caso, o ponto de equilíbrio é ponto onde a quantidade é de 200 unidades 
+e o preço é de R$ 15,00.
+2.   
+
+Fundamentos de Economiae-Tec Brasil
+126
+Referências
+COUTINHO, Maurício C. Lições de Economia Política Clássica, São Paulo: Hucitec, 1993. 
+220 p.
+MANKIW, N. Gregory. Introdução à Economia, São Paulo: Cengage Learning, 2009. 838 p.
+OLIVEIRA, Jayr Figueiredo de; PIRES, Marcos Cordeiro; SANTOS, Sérgio Antonio dos. 
+Economia para Administradores. 1. ed. São Paulo: Saraiva, 2005. 424 p.
+PRESIDÊNCIA DA REPÚBLICA DO BRASIL. Disponível em: http://ipeadata.gov.br. Acesso 
+em: 15 de jul. 2009.
+SILVA, César Roberto Leite da; LUIZ, Sinclayr. Economia e mercados: introdução à economia. 
+18. ed. São Paulo: Saraiva, 2001. 220 p. 
+SOUZA, Nali de Jesus de. Economia Básica. 1. ed. São Paulo: Atlas, 2007. 280 p.
+VASCONCELLOS, Marco Antônio Sandoval de. Economia: Micro e Macro, São Paulo: Atlas, 
+2002. 439 p.
+VASCONCELLOS, Marco Antônio Sandoval de; GARCIA, Manuel Enriquez. Fundamentos 
+de Economia, São Paulo: Saraiva, 2004. 246 p.
+e-Tec BrasilAula 10 - Mercado
+127
+Currículo da professora-autora  
+Graduada em Engenharia de Produção pela Universidade Federal de Ouro 
+Preto (UFOP) e Mestre em Engenharia de Produção pela Universidade Federal 
+de Minas Gerais (UFMG). Atualmente, cursa doutorado em Engenharia de 
+Produção pela Universidade Federal de São Carlos (UFSCar).
+Professora do Departamento de Engenharia de Produção da Universidade 
+Federal de Ouro Preto (UFOP) e do Centro de Educação Aberta e a Distância 
+(CEAD) do Instituto Federal Minas Gerais (IFMG).
+Desenvolve projetos e pesquisa temas relacionado com as áreas de Pesquisa 
+Operacional, Planejamento e Controle da Produção e Engenharia Econômica.

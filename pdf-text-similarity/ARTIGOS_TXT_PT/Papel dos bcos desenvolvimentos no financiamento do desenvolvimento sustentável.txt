@@ -1,0 +1,1523 @@
+ 
+ 
+Cadernos do Desenvolvimento, v. 18, n. 35, p. 15-54, maio-ago. 2023. 
+Dossiê 
+ 
+ 
+ 
+ 
+15 
+ 
+* Professor Adjunto da Universidade Federal d o Rio de Janeiro, Instituto de Economia. Doutor 
+em Ciência Econômica pela Universidade Estadual de Campinas; Mestre em Engenharia de 
+Produção pela Universidade Federal do Rio de Janeiro; graduado em Economia pela 
+Universidade do Estado do Rio de Janeiro. P rofessor Titular aposentado da Universidade do 
+Estado do Rio de Janeiro.  E-mail:  luiz.fpaula@ie.ufrj.br  
+  http://lattes.cnpq.br/3378141737377054    https://orcid.org/0000 -0001 -9770 -516X   
+ 
+** Doutorando em Políticas Públicas, Estratégias e Desenvolvimento pela Universidade Federal do 
+Rio de Janeiro. Mestre em Políticas Públicas, Estratégias e Desenvolvimento pela Universidade 
+Federal do Rio de Janeiro; Mestre em Financial Markets and Finance e graduado em Business 
+Administration pela Universita di Bologna, Itália . E-mail: andrea.raccichini@pped.ie.ufrj.br  
+  http://lattes.cnpq.br/0448554608623803    https://orcid.org/0009 -0008 -4597 -1456   
+ 
+*** Mestranda em Economia da Indústria e da Tecnologia pela Universidade Federal do Rio de 
+Janeiro. Graduada em Ciências Econômicas pela Universidade Federal do Rio de Janeiro . E-mail: 
+marina.bastos@ppge.ie.ufrj.br  
+  http://lattes.cnpq.br/5909827950805519    https://orcid.org/0009 -0009 -2329 -3508   
+ 
+ 
+Luiz Fernando Rodrigues de Paula* 
+Universidade Federal do Rio de Janeiro 
+Rio de Janeiro, Rio de Janeiro, Brasil 
+ 
+Andrea Raccichini** 
+Universidade Federal do Rio de Janeiro 
+Rio de Janeiro, Rio de Janeiro, Brasil 
+ 
+Marina das Neves Bastos*** 
+Universidade Federal do Rio de Janeiro 
+Rio de Janeiro, Rio de Janeiro, Brasil 
+ 
+ 
+ 
+Papel dos bancos de desenvolvimento 
+no financiamento do desenvolvimento 
+sustentável no Brasil 
+ 
+Recebido em:  14 set. 2023  Aprovado em:  26 nov. 2023  Publicado em:  27 set. 2024 
+ 
+DOI:  https://doi.org/10.29327/2148384.18.35-1  
+ 
+  
+
+ 
+ 
+Cadernos do Desenvolvimento, v. 18, n. 35, p. 15-54, maio-ago. 2023. 
+Dossiê 
+ 
+ 
+ 
+ 
+16 
+Resumo 
+ 
+O objetivo deste artigo é analisar a problemática do financiamento do desenvolvimento 
+sustentável, com foco no papel e contribuição dos bancos de desenvolvimento. Para 
+tanto, o artigo se propõe a dar duas contribuições: por um lado, desenvolver um 
+arcabouço teórico heterodoxo, incluindo elementos da abordagem pós -keynesiana, 
+neoshumpeteriana e hirschmaniana que permita analisar esta problemática; por outro, 
+analisar a experiência de alguns bancos de desenvolvimento no Brasil – BNDES, BDMG 
+e BNB – em dar sustentação financeira a programas e projetos sustentáveis. O artigo 
+sustenta que o sistema financeiro privado por si só não é capaz de mobilizar os recursos 
+em montantes e condições adequadas para dar suporte a transição verde, sendo 
+necessário o envolvimento do Estado, como planejador, e em particular, os bancos de 
+desenvolvimento, enquanto braço financeiro de políticas públicas voltadas para a 
+sustentabilidade socioambiental e econômica.  
+ 
+Palavras-chave: Mudança Climática. Desenvolvimento Sustentável. Financiamento 
+Verde. Bancos de Desenvolvimento. 
+ 
+  
+  
+ 
+ 
+Cadernos do Desenvolvimento, v. 18, n. 35, p. 15-54, maio-ago. 2023. 
+Dossier 
+ 
+ 
+ 
+17 
+ 
+* Professor at the Federal University of Rio de Janeiro, Institute of Economics. PhD in Economics from 
+the State University of Campinas; M Sc in Production Engineering from the Federal University of Rio 
+de Janeiro; BSc  in Economics from the State University of Rio de Janeiro. Retired Full Professor at the 
+State University of Rio de Janeiro. E -mail: luiz.fpaula@ie.ufrj.br  
+  http://lattes.cnpq.br/3297278885331709    https://orcid.org/0000 -0001 -9770 -516X  
+ 
+** PhD candidate  in Public Policy, Strategies and Development at the Federal University of Rio de 
+Janeiro. M Sc in Public Policy, Strategies and Development at the Federal University of Rio de Janeiro; 
+MSc in Financial Markets and Finance and a BSc  in Business Administration from the University of 
+Bologna, Italy. E -mail: andrea.raccichini@pped.ie.ufrj.br  
+  http://lattes.cnpq.br/0448554608623803    https://orcid.org/0009 -0008 -4597 -1456  
+ 
+*** Master's student in Industrial and Technological Economics at the Federal University of Rio de 
+Janeiro. BSc  in Economics from the Federal University of Rio de Janeiro. E -mail: 
+marina.bastos@ppge.ie.ufrj.br  
+  http://lattes.cnpq.br/5909827950805519     https://orcid.org/0009 -0009 -2329 -3508   
+ 
+Luiz Fernando Rodrigues de Paula* 
+Federal University of Rio de Janeiro 
+Rio de Janeiro, Rio de Janeiro, Brazil 
+ 
+Andrea Raccichini** 
+Federal University of Rio de Janeiro 
+Rio de Janeiro, Rio de Janeiro, Brazil 
+ 
+Marina das Neves Bastos*** 
+Federal University of Rio de Janeiro 
+Rio de Janeiro, Rio de Janeiro, Brazil 
+ 
+ 
+ 
+Role of development banks in financing 
+sustainable development in Brazil 
+ 
+Received:  14th June 2022  Approved:  26th Nov. 2023  Published:  27th Sept. 2024. 
+ 
+DOI:  https://doi.org/10.29327/2148384.18.35-1 
+ 
+  
+
+ 
+ 
+Cadernos do Desenvolvimento, v. 18, n. 35, p. 15-54, maio-ago. 2023. 
+Dossier 
+ 
+ 
+ 
+18 
+Abstract 
+ 
+This paper aims to analyze the issues surrounding sustainable development financing, 
+with a focus on the role and contribution of development banks. To achieve this, the 
+article aims to make two contributions: on the one hand, to develop a heterodox 
+theoretical framework, including elements of the post-Keynesian, neo-Schumpeterian, 
+and Hirschmanian approaches, that contributes for the analysis of sustainable 
+development financing; on the other hand, to examine the experience of some 
+development banks in Brazil – BNDES, BDMG, and BNB – in providing financial support 
+to sustainable programs and projects. The paper argues that the private financial 
+system alone cannot mobilize resources sufficiently and under suitable conditions to 
+support the green transition. Therefore, the involvement of the State, as a planner, and 
+particularly development banks, as the financial arm of public policies focused on socio-
+environmental and economic sustainability, is deemed necessary. 
+ 
+Keywords: Climate Change. Sustainable Development. Green Finance, Development 
+Banks. 
+ 
+  
+  
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+19 
+1. Introdução 
+ 
+Desde a segunda metade do século XX, vem se consolidando um novo 
+“imperativo” no debate epistêmico e social sobre o funcionamento da 
+economia: desenvolvimento sustentável. A economia capitalista é contestada 
+em função de frágeis desempenhos sociais (alta desigualdade) e ecológicos 
+(mudanças climáticas e perda de biodiversidade). Na entrada do século XXI, 
+este debate fortaleceu -se, ganhando momentum, até chegar a uma 
+institucionalização global que tomou forma principalmente no Acordo de Paris 
+e a Agenda para o Desenvolvimento Sustentável de 2020, com 17 Objetivos 
+de Desenvolvimento Sustentável (ODS), que servem de referência no 
+enfrentamento da mudança climática no mundo. Como se sabe, um aumento 
+de 1,5º na temperatura global eleva sobremaneira os riscos ecológicos, com 
+fortes efeitos sobre a economia. No caso do Brasil tais riscos podem atingir 
+dramaticamente vários setores, como o setor agrícola, aumentando a pobreza 
+e insegurança alimentar. 
+O desenvolvimento sustentável está moldando as instituições a fim de 
+mobilizar recursos e capacidades para reformular os processos de produção 
+e consumo das sociedades. É implícito o surgimento de uma nova moralidade 
+dos atores sociais (Estado, setor privado e sociedade civil) para contribuírem 
+ao desenvolvimento sustentável. Um dos grandes desafios da transição 
+climática é a mobilização de recursos para conversão da economia e apoio a 
+setores e projetos ecologicamente sustentáveis. Neste contexto, o sistem a 
+financeiro tem um papel fundamental em dar sustentação financeira para 
+impulsionar grandes volumes de recursos necessários para a transformação 
+estrutural da economia.  
+Sustentamos neste artigo que o sistema financeiro privado por si só 
+não é capaz de mobilizar os recursos em montantes e condições adequadas 
+para dar suporte a transição climática e verde, sendo necessário o 
+envolvimento do Estado, como planejador, e em par ticular, os bancos de 
+desenvolvimento, enquanto braços financeiros de políticas públicas voltadas 
+para a mudança estrutural. Em particular, o Brasil conta com conjunto de 
+bancos públicos e de desenvolvimento – BNDES, BNB, Banco da Amazonia, 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+20 
+BDMG, entre outros – com expertise acumulada – sendo um ativo valioso 
+para tornar o sistema financeiro mais funcional frente aos desafios colocados 
+pela transição verde sustentável, mobilizando recursos em prazo compatível 
+com a maturidade dos projetos de investimento. 
+O objetivo principal do artigo é analisar o financiamento do 
+desenvolvimento sustentável e da mudança climática, com foco na 
+contribuição dos bancos de desenvolvimento. Para tanto, o artigo se propõe 
+a dar duas contribuições: por um lado, desenvolver um ar cabouço teórico 
+heterodoxo, incluindo elementos da abordagem pós-keynesiana de incerteza 
+radical e do circuito finance-funding, o enfoque neoschumpeteriano sobre 
+inovações, sistema nacional de inovação, e mais recentemente de políticas 
+orientadas por missõ es, uma abordagem keynesiana -institucionalista sobre 
+convenções e uma perspectiva hirschmaniana de desenvolvimento 
+desequilibrado, que permita analisar a problemática do financiamento do 
+desenvolvimento sustentável e da transição climática, De outro, anali sara 
+experiência de alguns bancos de desenvolvimento no Brasil – BNDES, BDMG 
+e BNB - em dar sustentação financeira a programas e projetos sustentáveis. 
+O artigo está estruturado em três seções, além desta introdução. Na 
+seção 2 se desenvolve uma abordagem teórica que analisa a problemática da 
+transição para o desenvolvimento sustentável, as dificuldades e desafios para 
+financiamento deste processo e o papel dos bancos de desenvolvimento. A 
+seção 3, por sua vez, analisa a experiência  de alguns bancos de 
+desenvolvimento no Brasil – BNDES, BDMG e BNB, em dar sustentação 
+financeira a projetos ecologicamente sustentáveis, incluindo a questão da 
+transição energética. Por fim, a seção 4. 
+ 
+2. Abordagem teórica 
+ 
+2.1 A redução da incerteza para garantir o financiamento do 
+desenvolvimento: o papel dos bancos de desenvolvimento 
+ 
+Em uma economia monetária, os agentes tomam decisões sob 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+21 
+incerteza não-probabilística, isto é, sob cenários cuja probabilidade não pode 
+ser calculada, o futuro é incerto ontologicamente. Nesses termos, incerteza 
+significa a impossibilidade de se determinar a priori o quadro relevante de 
+influências que atuarão entre a decisão de se implementar um determinado 
+plano e a obtenção efetiva de resultados, dificultando a previsão segura que 
+serviria de base para decisão racional (Carvalho, 2020). 
+Keynes (1936) na sua Teoria Geral faz distinção entre decisões de 
+produção, que não implicam em comprometimentos irreversíveis de recursos 
+e podem ser checadas depois de pequenos intervalos, via método de 
+“tentativa e erro” e decisões de investimento, que estão sujeitas a alterações 
+súbitas e violentas no estado de expectativas dos empresários. No longo 
+prazo, não é possível calcular probabilidades de eventos que podem ter 
+consequências adversas ou não sobre a realização dos investimentos, bem 
+como a informação disponível é insuficiente para tomar uma decisão 
+estritamente racional (Carvalho, 2014).  
+Portanto, para a expansão da capacidade de produção, de acordo com 
+Paula (2014), o investimento é determinado pela expectativa de expectativas 
+de longo prazo empresarial sobre o futuro, com base no animal spirit dos 
+empresários e também na disposição do setor bancário disponibilizar crédito. 
+Nessa linha de argumentação, Minsky (1978) destaca que a demanda de 
+investimento é afetada pelas expectativas de longo prazo não apenas dos 
+empresários, mas também da comunid ade financeira. Finanças e mercados 
+financeiros entram de forma essencial na geração da demanda efetiva.  
+Nesse contexto, é relevante destacar o circuito pós -keynesiano de 
+financiamento investimento-poupança-funding (Studart, 1993) – ou circuito 
+finance-funding – que expressa o papel da contribuição do sistema financeiro 
+para promover investimentos na economia real, isto é, para o 
+desenvolvimento. A questão fundamental aqui é em que medida o sistema 
+financeiro é funcional ou não em dar suporte ao desenvolvimento, entendido 
+um sistema funcional como aquele que desempenha da melhor forma possível 
+as funções finance (criação de liquidez para sancionar decisões de 
+investimento dos agentes) e funding (criação de instrumentos financeiros em 
+condições compatíveis com maturidade do projeto de investimento), com a 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+22 
+menor fragilidade financeira possível. 
+No contexto de tomada de decisões sob incerteza e de discussão sobre 
+a funcionalidade do sistema financeiro é relevante ressaltar dois aspectos. 
+Numa perspectiva de longo prazo, as instituições financeiras tendem a ter um 
+comportamento defensivo frente a i ncerteza; quanto maior a incerteza 
+percebida menor a disponibilidade de crédito, em função da maior preferência 
+pela liquidez de tais instituições, levando a um racionamento e piora nas 
+condições de oferta crédito ( Paula, 2014; Campiglio, 2016). Logo, dada s as 
+expectativas dos agentes, a preferência de liquidez é outro elemento chave 
+para descrever o comportamento do sistema financeiro para financiar 
+projetos de desenvolvimento. 
+O segundo aspecto é da pró -ciclicidade dos comportamentos dos 
+agentes econômicos ao longo do ciclo econômico. Nesse sentido, a hipótese 
+de fragilidade financeira do Minsky (1992a) vem em auxilio. O primeiro 
+teorema desta hipótese, é que a economia tem regi mes financeiros estáveis 
+(hedge) e instáveis (especulação e ponzi). O segundo teorema, que a 
+complementa, é que durante longos períodos de prosperidade a economia 
+transita de regimes financeiros estáveis para instáveis, já que a “estabilidade 
+é instabilizante”. Para o autor existe uma tendência inerente das estruturas 
+financeiras capitalistas em se moverem de estado de robustez para um estado 
+de fragilidade ao longo do tempo, em função de um lento processo de 
+deterioração das margens de segurança dos agente s. Neste contexto, o 
+comportamento dos bancos tender a ser marcadamente pró -cíclico, com 
+crescimento endógeno da oferta de crédito na expansão cíclica e contração 
+da oferta de crédito na desaceleração e crise, em função da maior preferência 
+pela liquidez dos bancos.  
+Expectativas de longo prazo, preferência de liquidez e pró -ciclicidade 
+dos agentes econômicos, a interação destes aspectos, sobretudo na tomada 
+de decisão de investimentos com maturidades de longo prazo, pode criar 
+situações de falta de disponibilidade de financiamento em condições 
+adequadas. Isto gera entraves para alcançar níveis de desenvolvimento dos 
+sistemas capitalistas. Os sistemas financeiro e produtivo privado sofrem, 
+então, de um limite endógeno para desenvolvimento da atividade econômica. 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+23 
+Maiores níveis de incerteza travam a realização de investimentos. Seria 
+possível reduzir as incertezas que permeiam as decisões das agentes (bancos, 
+empresas, etc.) em uma economia monetária?  
+Sistemas financeiros precisam ser regulados para se manterem com 
+regimes financeiros estáveis, estimulando o investimento na economia real 
+tendo em vista alcançar níveis superiores de desenvolvimento, seguindo 
+aquilo que Keynes chamava de “socialização dos  investimentos”, ou seja, 
+sustentar o investimento total (público e privado) e promover a estabilidade 
+econômica (Pessoa et al., 2022). A múltipla atuação do Estado é então crucial 
+para a redução de graus de incerteza onde se cria um ambiente mais 
+favorável para fomentar investimentos de longo prazo em prol do 
+desenvolvimento, já que ele pode estar mais disposto a assumir maiores 
+riscos associados a empreendimentos inovadores e ser paciente para alcançar 
+metas de longo prazo. Em particular, o Estado pode at uar de diversas 
+maneiras por meio da regulação – para moldar os comportamentos dos 
+agentes econômicos – da realização de investimentos públicos (orçamento 
+público) e da atuação de bancos públicos, em especial os bancos de 
+desenvolvimento.  
+Os bancos de desenvolvimento, com suas estratégias, competências e 
+instrumentos, bem como em função de sua estrutura financeira mais estável 
+e diversificada, são capazes de contribuir para atenuar a incerteza 
+estimulando a realização investimentos de longo  prazo em diversos setores 
+estratégicos da economia, em particular aqueles mais relacionados ao 
+desenvolvimento sustentável (Ferraz et al., 2013). Neste sentido, eles atuam 
+como elo entre a atuação do Estado e o sistema produtivo privado, garantindo 
+liquidez quando o mercado privado não estaria disponível para tal, em função 
+da preferência de liquidez e pró-ciclicidade do setor bancário. Podem, assim, 
+contribuir para um processo de crowding in no sistema financeiro e no setor 
+privado para a viabilização de investimentos de longo prazo. Neste sentido, 
+Pessoa et al.  (2022, p.9) assinalam que “o planejamento econômico do 
+Estado deve ser o principal instrumento para mudar a estrutura e o 
+funcionamento dos mercados e redirecionar os investimentos do setor 
+privado”.  
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+24 
+Especificamente, de acordo com Mazzucato e Penna (2016b) e Ferraz 
+et al. (2022), os bancos de desenvolvimento contribuem para criar e moldar 
+mercados através da sua atuação. Esta atuação é caracterizada por 
+Mazzucato e Penna (2016b) em quatro funções: i) papel contracíclico; ii) 
+desenvolvimento do capital; iii) apoio de novos empreendimentos (venture 
+capital); iv) orientação por desafios ( challenge-led). Nessa linha de 
+argumentação, os bancos de desenvolvimento também podem operar como 
+braço financeiro de p olítica pública ( Feil; Feijo , 2021), devendo o 
+financiamento de projetos de longo prazo ser coordenado através do 
+planejamento do estado, das instituições públicas e das políticas 
+macroeconômicas, podendo tais bancos concebidos como Big Smart 
+Government Bank  (Feil; Feijo , 2021). Outro aspecto relevante é o 
+desenvolvimento das capacidades dinâmicas estatais para conceber, elaborar 
+e implementar políticas públicas de acordo com as necessidades da sociedade 
+(Kattel et al., 2022). Assim, os bancos de desenvolvi mento podem, além de 
+financiar, impulsionar e apoiar os atores sociais tomadores de crédito que 
+possuem algum grau de dificuldade para a elaboração de projetos para se 
+tornem efetivamente viáveis e financiáveis (Marodon, 2022). 
+Finalmente, dada a incerteza em que é intrínseca a tomada de decisões 
+dos agentes, os bancos de desenvolvimento têm a capacidade de criar e 
+moldar mercados em um horizonte temporal largo, para promover mudanças 
+estruturais de um país em prol da resolução d e grandes desafios da 
+sociedade. Ele podem assim ser utilizados para desenvolver principalmente a 
+função de funding e apoio em particular de setores de elevada externalidade 
+na economia (infraestrutura, projetos ambientais, etc.), garantindo que o 
+investimento não seja refém dos comportamentos defensivos do setor 
+financeiro privado, além de cumprir importante papel contracíclico em 
+momentos de desaceleração econômica, quando o setor bancário tende a 
+contrair a oferta de crédito. 
+  
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+25 
+2.2 Financiamento de longo prazo para qual desenvolvimento? 
+Convenção de desenvolvimento sustentável, processo de inovação e 
+desequilíbrio 
+ 
+Na seção anterior, sustentou -se que o Estado, por meio da ação do 
+banco de desenvolvimento – entre outras formas de atuação do poder público 
+– pode contribuir para a redução da incerteza e a formação de mercados, 
+atuando para a “socialização do investimento” (Feil; Feijó, 2021). No entanto, 
+também o Estado, se encontra enraizado dentro do cenário de incerteza 
+radical, mesmo aportando uma contribuição crucial para o desencadeamento 
+do processo de desenvolvimento. Portanto, como se comportam os atores 
+sociais perante a incerteza?  
+Keynes apresenta o conceito de comportamento convencional na sua 
+obra Teoria Geral (TG) em 1936. Neste ponto, Carvalho (2014, p.238) 
+destaca que o comportamento convencional é entendido como “formas de 
+ação individual que seguiriam padrões coletivos”; isto é, Keynes usa a 
+expressão convencional para “distinguir precisamente as formas de 
+comportamento resultantes da aceitação da convenção dominante em um 
+dado momento”. O que é uma convenção?  
+A partir da noção sugerida por Keynes na TG, uma convenção “constitui 
+mais uma pressuposição do que experiência historicamente comprovada” 
+(Vinha, 2000; Vinha et al., 2018). Neste sentido, Vinha et al. (2018, p.275) 
+apontam que  
+ 
+os atores sociais estabelecem convenções para enfrentar 
+um ambiente caracterizado por um alto grau de incerteza 
+e risco, as quais, uma vez generalizadas, funcionam como 
+parâmetros relativamente flexíveis que sinalizam o 
+provável cenário do futuro, novo amb iente no qual as 
+ações econômicas se moverão. 
+ 
+A convenção gera uma rotina que “complementa” as projeções e os 
+cálculos de teor racional strictu sensu. Com efeito, Pech e Milan (2009, p.895) 
+sustentam que “essas atitudes levam à formação de hábitos, que são usados 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+26 
+para substituir o uso de procedimentos complicados de otimização.” 
+Vinha (2003) ressalta que conceitos como reciprocidade, confiança, 
+credibilidade e cooperação, quando aplicados à análise econômica, numa 
+ótica keynesiana, podem funcionar como mecanismos de criação de 
+convenções. Nessa linha de argumentação, Carvalho (2014, p.248) descreve 
+convenção como “crença compartilhada por um certo número de indivíduos”.  
+Neste ponto cabe destacar a contribuição do Erber (2011) sobre o 
+conceito de convenção. Carvalho (2014) explicita que o autor utiliza a 
+definição de convenção no sentido de Keynes, entretanto, se Keynes era 
+interessado na convenção dominante em um determinado momento histórico, 
+a preocupação central de Erber era aquela de identificar outras convenções 
+além daquela dominante, bem como a competição, convivência e eventual 
+substituição entre elas.  
+Fico claro então que os atores sociais, perante a incerteza se 
+comportam através do uso de convenções sobre o futuro para orientarem 
+suas decisões. Os atores sociais possuem diversas convenções que competem 
+entre si. Feil (2021), Castro (1993) apontam para  a existência de uma 
+convenção do crescimento e de estabilidade descrevendo os períodos de 
+desempenho da economia brasileira, onde a primeira convenção ganhou 
+centralidade no pós -guerra até fim dos anos 80, a segunda convenção 
+estabeleceu-se a partir da década de 90. Erber (2011), por sua vez, descreve 
+dois modelos de atuação estatal brasileiro durante o primeiro governo Lula: 
+convenção institucional restrita (teor neoclássico) e a convenção neo -
+desenvolvimentista.  
+Neste debate, vale ressaltar a criação de uma nova convenção de 
+desenvolvimento: a “convenção de desenvolvimento sustentável” (CDS). De 
+acordo com Vinha et al.  (2018) esta convenção, “assim como outras 
+convenções, nasceu a partir de uma crença difundida na sociedade de que a 
+sustentabilidade ambiental é um imperativo para a sobrevivência do atual 
+padrão de desenvolvimento econômico”. Esta nova convenção se const ruiu, 
+com maior força, ao longo dos últimos 50 anos através de um amplo debate 
+na comunidade epis têmica e na sociedade at large . Desde 1972, quando 
+houve a primeira conferência internacional das Nações Unidas sobre o Meio 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+27 
+Ambiente, tem crescido com mais força a pauta ambiental a nível global, em 
+diversos níveis da sociedade, se tornando um tema crucial nas relações 
+internacionais, diplomáticas, econômicas e sociais. A sucessão de 
+conferências das Nações Unidas sobre o tema,  trouxe diversos avanços em 
+termos sociais e ambientais, culminando na recente conferência realizada em 
+2022 na Suécia “Estocolmo + 50”.  
+Esta nova convenção de desenvolvimento sustentável se tornou 
+estratégica nos debates sobre futuro da economia e definição de políticas 
+públicas, como por exemplo, se pode observar nas inciativas do bloco Europeu 
+(European Green Deal) e dos Estados Unidos (Infrastructure Investment and 
+Jobs Act e o Inflation Reduction Act ). Ainda, no âmbito empresarial e 
+financeiro, de acordo com Vinha et al. (2018), existem inúmeras iniciativas e 
+ações tomadas para tal fim (ex. Ecoeficiência, auto-regulação, Environmental, 
+Social and Governance  – ESG, Responsabilidade Social Corporativa, entre 
+outros).  
+Levar em conta a Convenção do Desenvolvimento Sustentado (CDS) 
+requer transitar de uma economia convencional para uma economia voltada 
+para o desenvolvimento sustentável, isto é, requer um processo de transição 
+e mudança estrutural, que engloba incerteza e  oportunidades. Neste 
+contexto, o sistema financeiro deve financiar a transição para uma economia 
+de baixo carbono através da disponibilidade de financiamento ao sistema 
+produtivo para que possam ser realizados investimentos de longo prazo 
+orientados para tal convenção. Como vimos, o sistema financeiro privado fica 
+sujeito a altos níveis de incerteza, elevada preferência de liquidez dos bancos 
+e sua própria pró -ciclicidade, criando um gap de financiamento para a 
+transição rumo à uma economia sustentável.  
+Nesse cenário, a CDS pode fazer com que setores econômicos cessem 
+de existir, outros se transformem com inovações de processo e outros se 
+criem, com inovações radicais, uma verdadeira destruição criativa a la 
+Schumpeter (1942). Nesse sentido, a teoria schu mpeteriana de 
+desenvolvimento possui poder explicativo, já que as atividades de setores 
+ligados à sustentabilidade apresentam alguma semelhança com o setor de 
+infraestrutura e de inovação. Ademais, a dinâmica do processo de 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+28 
+desenvolvimento schumpeteriano é similar na ótica pós -keynesiana, já que 
+ambos consideram a tomada de decisões sob condições de incerteza não -
+probabilística (Dosi, 1988; Paula, 2014).  
+Logo, para enfrentar e solucionar os desafios da CDS os sistemas 
+produtivos precisam se transformar através de processos de inovação. Neste 
+sentido, economistas neoshumpeterianos contribuem para ampliar o 
+entendimento sobre o papel do empreendedor na inova ção, levando em 
+consideração os sistemas nacionais de inovação dentro de uma ótica de 
+inovação sistêmica. Este conceito considera que a inovação depende das 
+características dos sistemas de inovação nacionais, que englobam diversos 
+aspectos científicos, tecnológicos, econômicos, sociais e institucionais de cada 
+país. A abordagem sistêmica da inovação leva em consideração a 
+heterogeneidade dos processos de aprendizado internos e externos à firma 
+(Freeman, 1995), os conhecimentos tácitos e codificados, bem como as forças 
+econômicas e fatores sociais e institucionais que para Dosi (1982) possuem 
+também um papel crucial na seleção de paradigmas tecnológicos e na difusão 
+das inovações quando entram no mercado.  
+Mazzucato e Penna (2016a) definem um sistema nacional de inovação 
+(SNI) como aquele composto por quatro subsistemas: produção e inovação; 
+pesquisa e educação; finanças e funding; políticas públicas e regulação. No 
+SNI a relação Mercado/Estado é cooperativa, onde o Estado desenvolve um 
+papel relevante de formulação de políticas públicas de inovação que “tem o 
+papel de identificar e articular novos desafios que possam estimular nov os 
+padrões de produção, distribuição e consumo entre diferentes setores 
+industriais” ( Mazzucato; Penna , 2016c; p.5). Os autores apontam para a 
+necessidade do Estado formular e implementar políticas “ mission-oriented” 
+que são definidas como “políticas públicas sistêmicas na fronteira do 
+conhecimento para atingir metas específicas ou a grande ciência para 
+enfrentar os grandes problemas" (Idem, p.5).  
+Com efeito, a CDS necessita um sistema produtivo renovado para 
+atender aos desafios da sustentabilidade. Cabe, aqui, expandir o poder 
+explicativo teórico sobre a dinâmica do processo de desenvolvimento. Na 
+abordagem hirschmaniana de desenvolvimento, este s e comporta de forma 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+29 
+desequilibrada – um unbalanced growth. Hirschman (1984) sustenta que o 
+desenvolvimento desigual dos diversos setores gera frequentemente 
+condições para um desenvolvimento rápido: setores mais desenvolvidos 
+incentivam o crescimento de outros setores por meio da presença de 
+encadeamentos entre eles. A complementaridade entre setores permite que 
+investimento de um setor incentive o investimento em outros setores, 
+desencadeando uma série de acontecimentos subsequentes, além de 
+gerarem externalidades na economia . Ainda, Hirschman apresenta esta 
+dinâmica do processo de desenvolvimento como de antagonistic unbalanced 
+growth: além de o desenvolvimento ser ‘desigual’, este evolui de forma 
+errática com a criação de tensões entre objetivos sociais, estabilidade, 
+equidade, crescimento. Este tipo de comportamento é encontrado tanto em 
+economias avançadas quanto em desenvolvimento.  
+A CDS pede uma transformação de longo prazo do sistema de produção 
+que se comporta com uma dinâmica em ciclos econômicos, baseados na 
+inovação, como também em trajetórias de desenvolvimento desigual no 
+sentido hirschmaniano. O desafio é orientar o sistema produtivo para o 
+desenvolvimento sustentável de forma estrutural; isto é, além de considerar 
+aspectos econômico -financeiros nos processos de tomada de decisão da 
+produção, levar em conta elementos sociais – a fim de reduzir desigualdades 
+– e elementos ecológicos – para combater as mudanças do clima e reduzir as 
+perdas de biodiversidade. 
+Logo, o sistema financeiro se depara com a necessidade de financiar 
+investimentos de longo prazo que visam expandir a capacidade produtiva da 
+economia em coerência com a CDS, através do SNI que estimulam processos 
+de inovação evolucionários e processos de desenvolvimento desequilibrados. 
+Assim, em termos de financiamento a CDS cria um novo entendimento sobre 
+o que financiar no longo prazo; isto significa que os atores sociais do sistema 
+financeiro enfrentam elevados graus de incerteza onde se comportam de 
+forma defensiva tendo em vista suas preferências de liquidez e 
+comportamento pró-ciclico.  
+Carney (2015), no debate sobre o financiamento da sustentabilidade, 
+associa o descasamento das necessidades de passivos de longo prazo para o 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+30 
+financiamento de ativos no longo prazo como a "tragédia do horizonte 
+temporal": há um descompasso entre a maturidade de um projeto 
+sustentável e o período em que os investidores privados esperam os retornos 
+do projeto. De fato, as soluções baseadas somente  no mercado – como o 
+mercado de carbono, green bonds - são insuficientes para atingir os objetivos 
+de sustentabilidade delineados no Acordo de Paris ou nos Objetivos de 
+Desenvolvimento Sustentável das Nações Unidas (CEPAL, 2023; Campiglio, 
+2016). Lidar com  investimentos relacionados com a transição sustentável 
+demanda uma orientação que os mercados financeiros privados não são 
+capazes de proporcionar, em função de elevados níveis de incerteza 
+associados aos investimentos de inovação sustentáveis, além das p róprias 
+características deste tipo de inovação. 
+É nesse contexto que os bancos de desenvolvimento podem ter um 
+papel fundamental no financiamento para o desenvolvimento sustentável pela 
+sua capacidade de mobilizar recursos significativos para projetos com 
+horizontes temporais mais longos ( Ferraz, 2023). Não se trata de um mero 
+papel de corrigir falhas de mercado, mas de um papel ativo, atuando como 
+braço financeiro de políticas públicas que direcionem recursos para o processo 
+de transição sustentável ( Feil; Feijo, 2021), ou nos termos de Mazzucato e 
+Penna (2016b), como promotores de uma “política de inovação orientada para 
+uma missão”. De fato, esses autores ressaltam que os bancos de 
+desenvolvimento têm um importante papel na transição climática e no apoio 
+a projetos ecologicamente sustentáveis uma vez q ue têm capacidade e 
+conhecimento técnico acumulados para avaliar a viabilidade econômica e 
+sustentabilidade ambiental dos projetos, além de atuarem tradicionalmente 
+no segmento de crédito de longo prazo. 
+A próxima seção analisa a experiência da atuação de alguns bancos de 
+desenvolvimento em prol do desenvolvimento sustentável no Brasil, 
+notadamente o Banco Nacional de Desenvolvimento Econômico e Social 
+(BNDES), Banco de Desenvolvimento de Minas Gerais (BDM G) e Banco do 
+Nordeste do Brasil (BNB). 
+  
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+31 
+3. Transição climática, desenvolvimento sustentável 
+e bancos de desenvolvimento no Brasil 
+ 
+A Agenda 2030 foi criada pela Organização das Nações Unidas (ONU) 
+em 2015 com a finalidade de estruturar metas para o desenvolvimento 
+sustentável nos âmbitos econômico, social e ambiental. Foram definidos 17 
+objetivos de desenvolvimento sustentável (ODS), que orientam ações de 
+todos os setores da sociedade. 
+Contudo, os investimentos necessários para alcançar essas metas são 
+volumosos e incertos, o que aponta para a necessidade da participação de 
+diversos agentes no financiamento da transição climática. Nesse contexto, a 
+atuação dos bancos de desenvolvimento é  imprescindível, porque podem 
+atender segmentos que não recebem atenção adequada do setor privado, 
+como projetos de longo prazo ou com execução de longa duração, 
+empreendimentos de alto risco ligados à inovação, projetos em regiões pouco 
+desenvolvidas ou d istantes; e atores pequenos sem históricos de crédito 
+(Chan; Freitas, 2021). Como já assinalado, a atuação dessas instituições não 
+é limitada a complementar a atuação das instituições privadas, ou seja, 
+cumprir demandas de falhas de mercado: elas têm o poder de criar mercados 
+e atuar de forma anti -cíclica, garantindo que o  processo de transição verde 
+sustentável não fique refém da instabilidade dos ciclos financeiros.  
+Segundo Chan e Freitas (2021), o Relatório de Investimento Mundial 
+da Conferência das Nações Unidas sobre Comércio e Desenvolvimento de 
+2014 estimou a necessidade de investimentos globais em cerca de US$6 
+trilhões por ano para atingir os ODS até 2030. Para  os países em 
+desenvolvimento, seriam necessários investimentos anuais de US$ 3,3 
+trilhões a US$ 4,5 trilhões, voltados principalmente para infraestrutura 
+básica, segurança alimentar, mitigação e adaptação às mudanças climáticas, 
+além de saúde e educação. 
+Em contrapartida, há uma lacuna de investimento de US$ 2,5 trilhões 
+anuais nos países em desenvolvimento, em setores relevantes para os ODS, 
+em relação às metas da Agenda 2030. A versão de 2020 do relatório da 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+32 
+ 
+1 A De acordo com McCauley e Heffronb (2018, p. 74), “a transição justa capta o processo ‘justo’ 
+quando as sociedades se movem em direção a uma economia livre de emissões de CO2”.  
+ 
+UNCTAD apontou que, "embora mais de 150 países tenham adotado 
+estratégias nacionais de desenvolvimento sustentável, poucos têm roteiros 
+concretos para promovê -lo, e menos da metade dos Estados -membros da 
+ONU contam com ferramentas específicas para realizar  os investimentos 
+necessários" (Chan; Freitas, 2021, p. 25). 
+Dessa forma, é fundamental analisar a atuação dos bancos de 
+desenvolvimento no Brasil em termos de contribuição para a transição 
+climática. Selecionamos três estudos de caso: Banco Nacional de 
+Desenvolvimento Econômico e Social - BNDES, Banco de Desenvolvimento de 
+Minas Gerais - BDMG e Banco d o Nordeste do Brasil – BNB; um banco 
+nacional, um estadual e outro regional. 
+ 
+3.1 Banco de desenvolvimento nacional: o caso do BNDES 
+ 
+BNDES é o maior banco de desenvolvimento do país, com atuação 
+ampla no território nacional, e um dos maiores do mundo. De acordo com 
+Neiva (2022), o banco atua em duas frentes: o BNDES atua na concessão de 
+crédito, enquanto o BNDESPAR, sua subsidiária, ope racionaliza a compra de 
+ações. Diferentemente do BNDES, que pertence à União, o BNDESPAR é uma 
+empresa pública de personalidade jurídica de direito privado, cujo único 
+acionista é o Governo. 
+As duas empresas são as principais financiadoras da economia 
+brasileira. Nesse sentido, são decisivas para conduzir a transição justa nos 
+diversos setores do mercado.1 Apesar disso, o BNDESPAR não inclui critérios 
+climáticos em sua política de atuação, nem divulga informações sobre 
+emissões de gases de efeito estufa relacionadas à sua carteira de 
+investimentos (Neiva, 2022). 
+O BNDES tem desenvolvido iniciativas para considerar a transição 
+climática na sua carteira de financiamentos, mas a carteira de investimentos 
+do BNDESPAR, por sua vez, é constituída de grandes emissores de gases de  
+ 
+  
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+33 
+efeito estufa em variados setores econômicos – especialmente os de petróleo 
+e gás, frigoríficos, mineração e energia elétrica. Nenhum movimento de 
+transição tem sido observado, em relação a investimentos e 
+desinvestimentos, para induzir o alinhamento dos principais setores 
+emissores às metas climáticas brasileiras (Neiva, 2022). 
+Em seu planejamento estratégico de longo prazo (BNDES, 2023a), o 
+BNDES desenvolveu sete missões que respondem aos desafios do 
+desenvolvimento brasileiro. Todas apresentam contribuições para os ODS, 
+exceto a de sustentabilidade financeira: (i) infraestrutura econômica e social; 
+(ii) desenvolvimento produtivo e inovação; (iii) comércio exterior; (iv) MPME 
+e cooperativismo; (v) sustentabilidade financeira; (vi) social e inclusão 
+produtiva; e (vii) ambiental e clima. 
+Em 2019, o BNDES criou o Painel ODS, uma página eletrônica no site 
+do Banco, para demonstrar resultados de operações relacionadas aos ODS. O 
+painel consiste em um mapa interativo do Brasil, no qual é possível selecionar 
+um ODS e observar os valores desembolsados relativos a ele em cada estado. 
+Os dados partem do ano de 2015, quando os ODS foram lançados. Além 
+disso, estão disponíveis, na mesma página, os valores totais anuais 
+desembolsados para cada ODS.  
+Chan e Freitas (2021) desenvolvem uma análise comparativa entre os 
+objetivos do Painel ODS: consideram o valor desembolsado para cada ODS 
+pelo Banco no período de 2015 a 2020 em relação aos desembolsos totais, o 
+que permite identificar a participação de cada um relativamente aos demais. 
+De acordo com as autoras, realizar um estudo a partir de números absolutos 
+poderia gerar um viés por conta de variações nos investimentos gerais da 
+instituição. 
+Na Figura 1 são apresentados os ODS e a numeração correspondente. 
+  
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+34 
+Figura 1 – Objetivos de Desenvolvimento Sustentável. 
+ 
+ 
+Fonte: ONU, 2023. 
+ 
+ 
+Em adição, os valores investidos pelo Banco entre os anos 2015 e 2020 
+são apresentados do Gráfico 1. 
+ 
+  
+
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+35 
+Gráfico 1 – Histórico de desembolsos do BNDES (R$ bilhões) 
+ 
+ 
+Fonte: BNDES, 2022. 
+ 
+ 
+As autoras concluem que o BNDES apresenta contribuição relevante 
+para os ODS 9 (com participação de 30% nos desembolsos totais no período), 
+8 (22%) e 7 (11%), que tratam respectivamente dos investimentos em 
+indústria, inovação e infraestrutura; trabalho decente e crescimento 
+econômico; e energia limpa e acessí vel. Essa atuação é compatível com a 
+expectativa de contribuição de um banco de desenvolvimento, porque está 
+relacionada às falhas de mercado mais tradicionais, ou seja, ao 
+“financiamento a projetos de longo prazo, como os de infraestrutura (que 
+também abrangem os investimentos em energia limpa), e a atores pequenos 
+e sem histórico de crédito, responsáveis pela manutenção de grande parte 
+dos empregos” ( Chan; Freitas, 2021, p. 49). Uma análise mais detalhada, 
+entretanto, demonstrou que o ODS 9 apresentou queda, enquanto os ODS 8 
+e 7 registraram tendência de alta nos últimos anos. 
+Cabe destacar, contudo, que se tratam, em geral, de objetivos 
+135,9
+88,3
+70,8 69,3
+55,3
+64,9
+0
+20
+40
+60
+80
+100
+120
+140
+160
+2015 2016 2017 2018 2019 2020
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+36 
+relacionados frequentemente a setores mais maduros. Outros setores devem 
+também ser priorizados: considerando o investimento relativo, além de 
+outros fatores, como entregas prioritárias para a sociedade, foram 
+identificados como desafiadores os ODS 3, 4, 1 0 e 13, os quais visam maior 
+impacto social, redução de desigualdades e melhoria da qualidade de vida da 
+população (Chan; Freitas, 2021). 
+O BNDES é um dos financiadores de energias renováveis mais 
+importantes do mundo e um dos principais apoiadores da agenda florestal no 
+Brasil. Em setembro de 2022, o Banco direcionava 41% de sua carteira de 
+crédito para economia verde. Além disso, foi pioneiro em iniciativas climáticas 
+inovadoras, como o Fundo Clima (BNDES, 2022). 
+Nos últimos anos, a preocupação com os aspectos ambientais, sociais 
+e climáticos ganhou importância dentro da estratégia do Banco por meio de 
+ajustes em seu propósito, missão e visão, na estrutura organizacional e em 
+comitês. Ademais, as políticas de suste ntabilidade foram revisadas para 
+reforçar o compromisso com os ODS e com as contribuições nacionalmente 
+determinadas (NDC, na sigla em inglês) brasileiras. A carteira de produtos foi 
+aperfeiçoada de modo a potencializar o estímulo ao desenvolvimento 
+sustentável e também foram estruturados procedimentos internos de gestão 
+de risco socioambiental e climático (BNDES, 2022). 
+O Banco tem desenvolvido, ainda, métodos de mensuração da emissão 
+de gases de efeito estufa relacionada às suas atividades diretas, mas também 
+da emissão relacionada às suas carteiras de investimento. Nesse contexto, 
+procura aprofundar a incorporação do ri sco climático em suas operações 
+(BNDES, 2022). 
+Para alcançar os compromissos estabelecidos para a transição 
+climática, foram traçadas estratégias transversais e estratégias específicas 
+para setores -chave. Entre as estratégias transversais, estão: a busca do 
+engajamento das empresas e instituições finan ceiras repassadoras dos 
+recursos do BNDES na transição climática; a oferta de produtos financeiros 
+que promovam investimentos sustentáveis; e incorporação de aspectos 
+climáticos na estruturação de projetos de infraestrutura e desestatização 
+(BNDES, 2022). 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+37 
+As estratégias setoriais incluem o setor de energia por meio de: apoio 
+à descarbonização da matriz energética brasileira; produção e 
+aproveitamento de biogás e biometano; geração por fontes renováveis; e 
+promoção de tecnologias de captura e estocagem de ca rbono nas atividades 
+de biogás/biometano. No setor de logística e mobilidade urbana, a 
+eletrificação e o uso de fontes renováveis será prioridade, assim como o 
+transporte urbano de baixa emissão, a infraestrutura cicloviária e a logística 
+de baixo carbono. Outros setores mobilizados são: mudança de uso da terra 
+e florestas; agropecuária, indústrias e saneamento (BNDES, 2022). 
+Chan e Freitas (2021) e Ferraz et al. (2022) destacam a importância 
+que o BNDES tem no setor de energias renováveis, em especial no setor de 
+energia eólica, sendo, portanto, o principal agente no mercado de 
+financiamento do setor no Brasil, e, como já assinalado, um dos principais do 
+mundo. T odavia, a crise econômica de 2015 -2016, e sua consequente 
+retração da taxa de investimento da economia, assim como a opção política 
+de redução da atuação do Banco, a partir de 2016 com o Governo Temer, 
+resultou numa sig nificativa redução dos financiamentos aos projetos 
+relacionados a atividades de baixo carbono. 
+Contudo, para além dos esforços no setor produtivo, é preciso garantir 
+que o BNDESPAR adote critérios climáticos nas decisões de investimento e 
+desinvestimento e acompanhe o progresso, em termos de redução de 
+emissões, das empresas que fazem parte de sua carteira. De acordo com 
+Neiva (2022), o BNDESPAR deve fazer um Plano de Redução de Emissões de 
+Gases do Efeito Estufa que garanta alinhamento de atuação às metas de 
+transição climática do Brasil, por meio de participação efetiva de 
+representantes da sociedade civil. É preciso, ainda, que o BNDESPAR preveja 
+compensações socioambientais sempre que as metas não forem atendidas. 
+Para garantir o financiamento da transição climática, o BNDES conta 
+com algumas modalidades de captação de recursos. Em 2017, tornou -se o 
+primeiro banco brasileiro a emitir títulos verdes no mercado internacional. O 
+título de US$1 bilhão tem prazo de sete anos e foi listado na Bolsa Verde de 
+Luxemburgo. Esses recursos destinam -se a financiar projetos de energia 
+eólica e solar. Em 2020, o Banco foi pioneiro no lançamento de uma Letra 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+38 
+Financeira Verde no mercado nacional, no valor de R$1 bilhão e prazo de dois 
+anos, também para financiar energia eólica e solar. Em 2021, o BNDES 
+divulgou seu Sustainability Bond Framework, o que ampliou as possibilidades 
+de captação do Banco por meio de títulos verdes, sociais e sustentáveis no 
+Brasil e no exterior (BNDES, 2023b). 
+Em relação às modalidades de financiamento, as opções oferecidas pelo 
+BNDES incluem crédito, garantias, serviços, não reembolsáveis e 
+participações. O banco disponibiliza em relatório (2022) uma tabela com 
+todas as suas linhas de financiamento e os respect ivos produtos 
+contemplados, entre outras informações. Por exemplo, dentro de 
+financiamento e crédito, estão iniciativas como o Fundo Clima. 
+ 
+ 
+Quadro 1 – Linhas de financiamento do BNDES 
+ 
+ Família Financiamento e Crédito 
+Programa, Linha 
+ou Produto 
+Fundo Clima Fundo Clima - Máquinas e 
+Equipamentos Eficientes 
+ Objetivo, 
+Condições e 
+Fontes de 
+Recursos 
+Viabilizar projetos relacionados à 
+redução de emissões de GEE e à 
+adaptação às mudanças do clima. 
+Concede financiamento direto para 
+implantação de empreendimentos, 
+aquisição de máquinas e 
+equipamentos e desenvolvimento 
+tecnológico relacionados ao tema, 
+com taxas reduzidas e prazos de 
+até 25 anos. Utiliza recursos do 
+Fundo Clima do Governo Federal 
+Estimular o uso de máquinas e 
+equipamentos com maiores índices de 
+eficiência energética ou que contribuam 
+para a redução de emissão de GEE. 
+Utiliza recursos do Fundo Clima do 
+Governo Federal para conceder 
+financiamento direto com o BNDES e 
+indireto por meio de agentes financeiros 
+credenciados. 
+Itens 
+Financiáveis por 
+setor/tema 
+ 
+ Agropecuária, 
+Mudanças de 
+uso da terra e 
+Florestas 
+Projetos de replantio de florestas 
+nativas; gestão e serviços de 
+carbono (para geração de 
+créditos); e inovação relacionado 
+ao clima. 
+Caminhões elétricos ou híbridos; 
+máquinas e equipamentos eficientes; 
+sistemas geradores fotovoltaicos; 
+aerogeradores de até 110 kw. 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+39 
+ Energia Projetos de energias renováveis; 
+gestão de serviços de carbono 
+(compra de créditos provenientes 
+do setor de energia); e inovação 
+relacionada ao clima. 
+Sistemas geradores fotovoltaicos; 
+aerogeradores de até 110 kw; motores 
+movidos a biogás, inversores ou 
+conversores de frequência, 
+coletores/aquecedores solares e 
+luminárias de LED para iluminação 
+pública; serviços de instalação dos bens 
+de que tratam os itens acima, exceto 
+luminárias de LED para iluminação 
+pública (observando o limite máximo de 
+30% do valor total financiado). 
+ Indústria Projetos de melhoria de eficiência e 
+sustentabilidade; carvão vegetal; 
+gestão e serviço de carbono 
+(compra de créditos provenientes 
+do setor industrial); cidades 
+sustentáveis; e inovação 
+relacionado ao clima. 
+Máquinas e equipamentos cadastrados 
+no Programa Brasileiros de Etiquetagem 
+(PBE) ou com selo Procel. No caso das 
+máquinas e dos equipamentos para os 
+quais o PBE fornecer a classificação de 
+eficiência energética, serão aceitos 
+apenas os de classificação A ou B. 
+Logística e 
+Mobilidade 
+Urbana 
+Projetos de mobilidade urbana; 
+gestão e serviço de carbono 
+(compra de créditos provenientes 
+do setor de transportes); cidades 
+sustentáveis; e inovação 
+relacionada ao clima. 
+Ônibus e caminhões elétricos ou 
+híbridos, com energia de tração provida 
+por dispositivos elétricos ou por 
+combinação de dispositivos elétricos e 
+motor d combustão interna; e ônibus 
+movidos a etanol. 
+Saneamento Projetos de resíduos sólidos; 
+gestão e serviço de carbono 
+(compra de créditos provenientes 
+do setor de resíduos); cidades 
+sustentáveis; e inovação 
+relacionada ao clima. 
+Grupos geradores de energia a biogás; 
+máquinas e equipamentos eficientes. 
+Adaptação Reforço da resiliência e da 
+capacidade de adaptação dos 
+estados e municípios a riscos 
+relacionados ao clima e às 
+catástrofes naturais; produção de 
+máquinas e equipamentos 
+eficientes; recuperação de florestas 
+e proteção de nascentes. 
+ 
+ 
+Fonte: BNDES, 2022. 
+ 
+ 
+O Fundo foi relançado em 2023 pelo BNDES e pelo Ministério do Meio 
+Ambiente e Mudança do Clima (MMA), por meio do qual R$10 bilhões serão 
+destinados ao financiamento de projetos de desenvolvimento sustentável. 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+40 
+Esse programa é um instrumento da Política Nacional sobre Mudança do Clima 
+e tem por finalidade financiar projetos, estudos e empreendimentos que 
+visem à redução de emissões de gases de efeito estufa e à adaptação aos 
+efeitos da mudança do clima (Sinimbú , 2023). Vinculado ao Ministério do Meio 
+Ambiente, o Fundo Clima disponibiliza recursos em duas modalidades: 
+reembolsável e não -reembolsável. Os recursos reembolsáveis são 
+administrados pelo BNDES, enquanto os não -reembolsáveis são operados 
+pelo MMA. É adm inistrado por um Comitê Gestor presidido pelo Secretário -
+Executivo do MMA (Idem). 
+ 
+3.2 Bancos de Desenvolvimento Regionais - o caso do BDMG 
+ 
+De acordo com o próprio, o Banco de Desenvolvimento de Minas Gerais 
+(BDMG) é uma instituição financeira controlada pelo Estado de Minas Gerais, 
+que atua em Minas Gerais e em estados limítrofes. A função do Banco é 
+promover o bem -estar social por meio da of erta de serviços e produtos 
+financeiros voltados para o desenvolvimento socioeconômico (BDMG, 2020). 
+Em 2021, foi aprovada a Política de Responsabilidade Social, Ambiental 
+e Climática (PRSAC) do BDMG. “A PRSAC consiste em um conjunto de 
+princípios e de diretrizes de natureza social, ambiental e climática a ser 
+observado pelo Banco na condução da sua estratégia, dos seus negócios, das 
+suas atividades e dos seus processos, bem como na sua relação com as partes 
+interessadas, para promover o desenvolvimento socioeconômico sustentável 
+de Minas Gerais” (BDMG, 2023).  
+Após a aprovação da PRSAC, foi traçado um Plano de Ação norteado 
+pelas agendas globais em prol da sustentabilidade, como a Agenda 2030 da 
+ONU, o Acordo de Paris, a Agenda de Ação Adis Abeba, além de outras 
+iniciativas de âmbito nacional e estadual. O Plano  de Ação é composto por 
+quatro pilares que direcionam ações para os três anos seguintes: i. ações 
+estratégicas e impacto; ii. ações corporativas; iii. negócios sustentáveis e iv. 
+cultura e transparência (BDMG, 2023). 
+Em 2022, o volume total de desembolso para micro e pequenas 
+empresas aumentou 20%, totalizando R$363,1 milhões. Desse valor, 93% 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+41 
+representam demandas da plataforma BDMG Digital, criada para facilitar a 
+análise e a concessão de crédito. Em relação a médias empresas, foram 
+desembolsados R$576,9 milhões, enquanto para as grandes empresas, o 
+montante foi de R$1.302,6 milhões. Essas médias e grandes empresas estão 
+situadas em 138 municípios, e 60% desses possuem IDH abaixo da média 
+brasileira (BDMG, 2023). 
+Com o objetivo de apoiar as micro e pequenas empresas controladas 
+por mulheres, o BDMG criou as linhas de financiamento Empreendedoras de 
+Minas e Pronampe Mulheres. Ao todo, foram liberados, por essas linhas de 
+financiamento, R$41,6 milhões em 2022, atende ndo a 673 empresas com 
+esse perfil (BDMG, 2023). 
+Em relação ao setor público, em 2022, o BDMG ampliou as linhas 
+permanentes de financiamento da infraestrutura municipal, além de passar a 
+oferecer crédito ao setor público de forma online via plataforma BDMG Digital. 
+Ao longo do ano, foram desembolsados R$ 173,7 milhões para projetos de 
+240 municípios mineiros e 1 consórcio intermunicipal. Desse montante, 
+R$16,5 milhões foram destinados a projetos do Programa de Coleta e 
+Tratamento de Esgoto e Destinação de Resíduos Sólidos, em parceria com a 
+Fundação Renova (BDMG, 2023). 
+O apoio à constituição de cidades sustentáveis – infraestrutura com 
+ênfase em redução de emissões, tratamento de resíduos e iluminação com 
+redução de consumo de energia – acontece tanto diretamente, na forma de 
+crédito ao ente municipal, quanto indiretamen te, por meio de parcerias 
+público-privadas (PPPs) (Suchodolski et al., 2021). 
+Além disso, o BDMG tem participação importante na recuperação de 
+municípios após desastres. Em 2022, foram liberados R$31 milhões para 452 
+clientes, o que representa um crescimento de 318% em relação ao ano de 
+2021. O BDMG participa, ainda, do Programa de Coleta e Tratamento de 
+Esgoto e Destinação de Resíduos Sólidos, o qual forneceu R$16,5 milhões, 
+em 2022, para 26 clientes, apresentando um crescimento de 13,7% no 
+desembolso, em relação a 2021 (BDMG, 2023). Além do financiamento, são 
+feitos esforços de sup orte na estruturação de projetos junto a prefeituras, 
+empresas e setores atingidos. Por exemplo, desde 2017, o BDMG tem atuado 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+42 
+em programas socioeconômicos relacionados à dinamização econômica da 
+região do Rio Doce, nos 35 municípios mineiros atingidos pelo rompimento 
+de barragem da Samarco. Em 2020, os desembolsos totalizaram R$27,25 
+milhões, crescimento de 31% em relação ao ano de 2019 (Suchodolski et al., 
+2021). 
+Ainda em consonância com a Agenda 2030 e com as metas 
+estabelecidas no Acordo de Paris, o BDMG ampliou seus investimentos em 
+projetos de eficiência energética e geração de energias renováveis, que 
+receberam R$ 234,7 milhões do BDMG em 2022, o que represent a um 
+aumento de 39% em comparação a 2021. Esse montante foi distribuído para 
+77 clientes em 66 municípios. O destaque é o desembolso de mais de R$ 150 
+milhões para os projetos de energia solar fotovoltaica, que tiveram aumento 
+de 168% em comparação com 2021. Para além disso, foi realizado o primeiro 
+desembolso destinado a projetos de geração de energia a partir de biomassa 
+(BDMG, 2023). Fica evidente, assim, a valorização do potencial mineiro de 
+geração de energia solar, uma vez que o estado apresenta eleva do índice 
+solarimétrico anual (Suchodolski et al., 2021). 
+A agricultura pode ser considerada outra vocação de Minas Gerais, uma 
+vez que a participação do estado é mais intensa que no país. A atividade está 
+presente em todo o território e envolve diversas culturas, além de diversos 
+graus de impacto sobre o meio am biente, constituindo um potencial e um 
+desafio. Em parceria com instituições técnicas locais, o banco busca desenhar 
+um projeto que associa crédito e assistência técnica para estimular práticas 
+sustentáveis (Suchodolski et al., 2021). A ideia é viabilizar investimentos em 
+inovação que garantam níveis altos de produtividade e contribuam para a 
+regeneração do solo, para a biodiversidade e para a redução das emissões de 
+Gases de Efeito Estufa (BDMG, 2023). 
+Cerca de 83% dos municípios apoiados pelo BDMG possuem IDH abaixo 
+da média brasileira, o que indica a relevância da instituição na alocação de 
+recursos para a geração de impacto econômico, social e ambiental nesses 
+locais. O volume liberado para esses muni cípios cresceu 31% em relação a 
+2021 (BDMG, 2023). 
+Além do esforço de captação de novas operações de crédito e parcerias, 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+43 
+o Banco assumiu, em 2020, um mecanismo de certificação da carteira já 
+colocada em termos de impactos sociais e ambientais. A avaliação dos 
+impactos dos créditos já concedidos funciona como parâmetros para a 
+concessão de novos créditos. Assim, o Banco pode induzir o comportamento 
+empresarial a identificar e realizar contribuições sustentáveis (Suchodolski et 
+al., 2021). 
+Também em 2020, em parceria com o BID, o BDMG concluiu o 
+desenvolvimento de uma calculadora de CO2. A ferramenta visa avaliar as 
+emissões, remoções, estoque de carbono florestal e as reduções de emissões 
+das operações financiadas pelo Banco (Suchodolski et al., 2021). Em 2022, o 
+BDMG criou um "Score de Impacto", ferramenta que gera uma pontuação 
+resultante da combinação de diferentes atributos de impacto de cada 
+financiamento (BDMG, 2023). 
+Desde 2020, a carteira de financiamento do Banco reflete o esforço de 
+apoio à transição climática. Em 2021, essa carteira era 50% sustentável, ou 
+seja, alinhada aos ODS. O Banco emitiu, internacionalmente, cinquenta 
+milhões de dólares em títulos sustentáve is em 2020 ( Suchodolski et al ., 
+2021). 
+ 
+3.3 Bancos de Desenvolvimento Regionais: o caso do Banco do 
+Nordeste do Brasil (BNB) 
+ 
+O Banco do Nordeste do Brasil é um banco múltiplo que atua tanto 
+como banco comercial como banco de desenvolvimento na região Nordeste 
+do país, sendo responsável pelo maior programa de microcrédito produtivo 
+orientado da América do Sul, o CrediAmigo, cuja metodologia de formação de 
+grupos solidários dispensa apresentação de garantias. Apesar de atuar 
+também como banco comercial, seu principal funding é o Fundo 
+Constitucional do Nordeste (FNE), com o objetivo de apoiar, por meio de sua 
+ação creditícia e de fomento, empreendimentos produtivos e políticas públicas 
+que impactam as comunidades urbanas e rurais nordestinas.  
+O BNB, tal como outros bancos de desenvolvimento no Brasil, adota 
+um conjunto de práticas de Responsabilidade ambiental, que inclui a gestão 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+44 
+sustentável de papel, copos descartáveis, energia elétrica, água, 
+combustíveis, além de gestão de efluentes e resíduos sólidos. Ainda de forma 
+a fortalecer o tema da sustentabilidade na instituição , em 2021 foi efetuada 
+uma reestruturação na Superintendên cia de Políticas de Desenvolvimento – 
+que passou a ser denominada Superintendência de Políticas de 
+Desenvolvimento Sustentável –, culminando na criação da Célula de 
+Estratégias de Sustentabilidade e da Célula de Gestão Ambiental, integrantes 
+do novo Ambiente de Políticas de Desenvolvimento Sustentável, responsável 
+também pela programação e pelo monitoramento da execução da 
+Programação do FNE. 
+Na área ambiental do BNB administra o Programa de Financiamento à 
+Sustentabilidade Ambiental (FNE -Verde), utilizando para tantos recursos 
+provenientes do Fundo Constitucional de Financiamento do Nordeste (FNE). 
+Este programa objetiva desenvolver empreendim entos e atividades 
+econômicas que propiciam a preservação, a conservação, o controle e a 
+recuperação do meio ambiente, com foco na sustentabilidade e na 
+competitividade das empresas e cadeias produtivas. Seu financiamento tem 
+prazo de 8 a 12 anos e carência de 3 a 4 anos. Esta linha de financiamento é 
+voltada para um leque amplo de iniciativas: uso sustentável de recursos 
+florestais, sem supressão de mata nativa; recuperação ambiental e 
+convivência com o semiárido; produção de base agroecológica, sistemas 
+orgânicos de produção agrícola ou pecuária e transição agroecológica; 
+controle e prevenção da poluição e da degradação ambiental em suas diversas 
+formas, além da redução de emissão de gases do efeito estufa; energias 
+renováveis e eficiência energética; eficiência no uso de materiais, abrangendo 
+sistemas, produção, comercialização ou prestação de serviços relacionados 
+ao uso eficiente de materiais e recursos naturais, obras civis sustentáveis ou 
+ecológicas; etc. 
+Por meio deste fundo o BNB foi responsável por cerca de 53,3% dos 
+projetos de energia eólica financiados no país no período 2018 -2021, 
+totalizando um montante da ordem de R$ 16,6 bilhões, se destacando como 
+o maior financiador nesse setor, que por conta das características geográficas 
+do Nordeste, tem forte presença na região (Gráfico 2). Em 2021, de um total 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+45 
+de empréstimos de R$ 25,9 bilhões por parte do BNB, R$ 6,2 bilhões (24% 
+do total) foram destinados a projetos de geração centralizada de energia - 
+eólica e solar (BNB, 2022). Considerando que no ano de 2016 o BNB tinha 
+uma participação nula nesse mercado, chama atenção resultados no referido 
+quadriênio. De fato, com o enfraquecimento do BNDES a partir de 2016, o 
+mercado de financiamento de longo prazo e, em particular, o de infraestrutura 
+e o de energias renováveis passou a recorrer a outras fontes, como o mercado 
+de capitais e pelo Banco do Nordeste do Brasil (BNB) (Teixeira, 2023). A partir 
+de 2016, o mercado de capitais, sobretudo por meio das debêntures de 
+infraestrutura, aumentou significativamente sua participação no mercado de 
+financiamento de longo prazo do país: enquanto em 2015 sua participação 
+era de 3,8%, em 2016 p assou a ser de 17% e no triênio 2017 -2019, 
+respondeu respectivamente, por 11,5% em 2017, 30,6% em 2018 e 29,5% 
+em 2019. Ao mesmo tempo, houve uma forte redução da participação do 
+BNDES: em 2016, o Banco respondia por 65,3% do total dos financiamentos 
+de longo prazo, ao passo que no triênio seguinte, por 59,3% em 2017, 40,6% 
+em 2018 e 37,9% em 2019, respectivamente (Vieira, 2023). 
+  
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+46 
+Gráfico 2 - Financiamento de energia eólica no Brasil (em R$ milhões)  
+ 
+ 
+Fonte: Vieira (2023, p. 8). Dados de ANBIMA, Ministério da Fazenda e BNDES.  
+ 
+ 
+Esses dados parecem evidenciar ter havido algum tipo de substituição 
+da atuação dos BDs pelo mercado de capitais. Contudo, ao se observar a 
+participação do BNDES e do BNB em conjunto, nota -se apenas uma ligeira 
+queda da participação desse segmento no mercado de financiamento de longo 
+prazo. O BNB, em 2016, tinha participação nula no financiamento de longo 
+prazo; já no triênio seguinte (2017 -2019), o Banco passou a responder por 
+5,2%, 20,6% e 26,3%, respectivamente (Vieira, 2023). Essa pequena queda 
+da parti cipação dos BDs no período citado é revertida por um substancial 
+aumento no ano de 2020, quando BNDES e BNB somados responderam por 
+aproximadamente 80% do financiamento de longo prazo do país (BNDES 40% 
+e BNB 39,7%), segundo os dados de project finance da Anbima, o que parece 
+não dar sustentação a tese de estaria havendo substituição dos BDs pelo 
+mercado de capitais. 
+  
+
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+47 
+4. Considerações Finais 
+ 
+Este artigo sustentou que o sistema financeiro privado por si só não é 
+capaz de mobilizar os recursos em montantes e condições adequadas para 
+dar suporte a transição climática e verde, sendo necessário o envolvimento 
+do Estado, como planejador, e em particular, os bancos de desenvolvimento, 
+enquanto braço financeiro de políticas públicas voltadas para a mudança 
+estrutural rumo à sustentabilidade socioambiental e econômica.  
+Nesse sentido, a leitura dos estudos de caso aqui investigados – 
+BNDES, BDMG e BNB – à luz do arcabouço teórico proposto, traz alguns 
+indícios para confirmar o envolvimento crucial dos bancos de 
+desenvolvimento para o financiamento da transição climática verde no Brasil, 
+ainda que algumas contradições tenham sido assinaladas, como no caso da 
+política de aquisição de ações por parte do BANESPAR, onde se observa 
+ausência de critérios de sustentabilidade nas decisões de investimento. Neste 
+contexto, se observa que os bancos de desenvolvimento estão moldando suas 
+estratégias, estruturas, competências e instrumentos de financiamento em 
+função da CDS, bem como apoiam processos estruturantes de 
+desenvolvimento ligados a políticas públicas nacionais e regionais. Ist o é, 
+apoiam processos de desenvolvimento neoschumpeterianos e 
+hirschmanianos voltados para sustentabilidade. No entanto, esta mudança 
+observada nos bancos de desenvolvimento, ocorre de forma gradual e 
+transformativa, com velocidades ‘múltiplas’ e é ainda incompleta. 
+Em especial, se destacam três considerações principais: 
+(1) A convecção de desenvolvimento sustentável está moldando o  
+sistema financeiro – em específico aqui os bancos de desenvolvimento – tanto 
+em gerar mudanças institucionais e organizacionais dos próprios bancos 
+(“práticas sustentáveis”), quanto para orientar recursos financeiros 
+finalizados ao financiamento da transição sustentável e da mudança climática. 
+Se confirma aqui o papel dos bancos de desenvolvimento como potenciais 
+criadores de mercados. Neste sentido, o financiamento – que segue 
+orientações sustentáveis – estimula o setor produtivo à busca de novos 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+48 
+produtos e serviços adequados às necessidades da sustentabilidade; um tema 
+relevante nesse sentido é a criação de métricas e indicadores que objetivam 
+o que é sustentável em cada setor econômico. 
+(2) A relação entre bancos de desenvolvimento e setores produtivos,  
+faz com que os bancos apoiem políticas públicas de reindustrialização e que 
+participem das idiossincrasias, oportunidades e desafios de processos de 
+desenvolvimento evolucionários e desiguais no sentido hirschmaniano. Esta 
+participação ocorre com a criação de novos instrumentos de financiamentos, 
+de acordo com as características dos setores e das exigências de 
+sustentabilidade relacionadas. 
+(3) Sob uma perspectiva do circuito de finance-funding, os bancos de 
+desenvolvimento desempenham principalmente, mas não somente, a função 
+de funding de longo prazo para apoiar o processo de transição para o 
+desenvolvimento sustentável e da mudança climática.  
+Entretanto, mesmo reconhecendo o papel do banco de 
+desenvolvimento como financiador de longo prazo e de redutor da incerteza 
+ligada o processo de transição para o desenvolvimento sustentável e da 
+mudança climática, se observa que os bancos de desenvolvimento financiam 
+maiores volumes para setores já maduros (ex. energias renováveis) e que 
+financiam em menores quantidades setores cuja incerteza nos retornos é 
+maior, tais como ações ligadas a gestão de recursos florestais e naturais e 
+uso sustentável da terra . Esta evidência pode assinalar que também os 
+bancos de desenvolvimento têm maior propensão em financiar projetos em 
+setores mais maduros e, financiar menos, setores que se encontram em 
+momentos menos maduros, isto é, com maiores níveis de incerteza. Poderia, 
+assim, ser visto como tendo um comportamento similar ao setor privado, 
+embora, evidentemente, com menor intensidade. Outra hipótese é que se 
+tenha menos projetos em setores como a recursos florestais e naturais e uso 
+sustentável da terra, e que também os volumes destes projetos, em níveis 
+absolutos, são de menor tamanho comparados com aqueles de energia por 
+exemplo. Para avaliar este impasse empírico há necessidade de maiores 
+pesquisas qualitativas e quantitativas mais detalhadas das carteiras de 
+financiamento dos bancos de desenvolvimento.  
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+49 
+De toda forma, este impasse mostra a relevância de considerar os 
+projetos de sustentabilidade como projetos de inovação e que é necessário 
+ter instrumentos de financiamento adequados e resilientes à incerteza para 
+dar apoio ao processo de desenvolvimento s ustentável. Senão, pode acabar 
+financiando somente projetos que seguem determinadas trajetórias de 
+setores mais maduros – mostrando assim uma dependência da trajetória e 
+não uma ruptura inovadora. Há ainda muito para avançar na agenda do 
+financiamento sustentável no Brasil, contando com um compromisso maior 
+dos bancos públicos para dar sustentação a esta agenda. 
+  
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+50 
+Referências 
+ 
+ 
+BDMG. Relatório de Sustentabilidade do Banco de Desenvolvimento de Minas 
+Gerais.  2022. Disponível em: https://bdmg.mg.gov.br/relatório . Acesso em: 04 
+set. 2023.  
+ 
+BDMG. US$ 50 milhões: BDMG conclui emissão de Título Sustentável inédito na 
+Bolsa de NY . BDMG, 2020. Disponível em: https://www.bdmg.mg.gov.br/us -50-
+milhoes -bdmg-conclui -emissao -de-titulo -sustentavel -inedito -na-bolsa -de-ny/. 
+Acesso em: 13 set. 2023.  
+ 
+BNB. Relatório de Sustentabilidade 2021 . Fortaleza: BNB, 2022.  
+ 
+BNDES. Soluções de Finanças Sustentáveis . 2023 b. Disponível em: 
+https://www.bndes.gov.br/wps/portal/site/home/desenvolvimento -
+sustentavel/solucoes -de-financas -sustentaveis/ . Acesso em: 13 set . 2023b.  
+ 
+BNDES. Relatório Anual BNDES 2022 . Mai o 2023a. Disponível em: 
+https://www.bndes.gov.br/wps/portal/site/home/transparencia/prestacao -de-
+contas/relatorio -anual-integrado . Acesso em: 13 set . 2023.  
+ 
+BNDES. Relatório BNDES. Clima e Desenvolvimento: a Contribuição do BNDES 
+para uma Transição Justa . Nov. 2022. Disponível em: 
+https://bndes.gov.br/wps/portal/site/home/desenvolvimento -
+sustentavel/clima/clima -e-desenvolvimento/ . Acesso em: 13 set. 2023.  
+ 
+BRUNI , L.; SANTORI , P.; ZAMGNI , S. Lezioni di storia del pensiero economico, un 
+percorso dall’antichità al Novecento . [S. L.]: Città Nuova, 2021.  
+ 
+CAMPIGLIO, E. Beyond carbon pricing: The role of banking and monetary policy 
+in financing the transition to a low -carbon economy. Ecological Economics , v. 
+121, p. 220 -230, 2016.  
+ 
+CARNEY M. Breaking the tragedy of the horizon – climate change and financial 
+stability . 2015. Disponível em: https://www.bis.org/review/r151009a.pdf . 
+Acesso em: 13 set. 2023.  
+ 
+CARVALHO, F.  J. C. Expectativas, incerteza e convenções. In MONTEIRO FILHA, 
+D. M.; PRATO, L.  C.; LASTRES, H. ( Orgs.). Estratégias de Desenvolvimento, 
+  
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+51 
+política Industrial e Inovação: ensaios em memória de Fabio Erber . Rio de 
+Janeiro: BNDES, 2014.  
+ 
+CASTRO, A.  B. Renegate  development: Rise and demise of state -led development 
+in Brazil. In: SMITH, W.; ACUÑA, C.; GAMARRA, E. (Org s.). Democracy, Markets 
+and Structural Reform in Latin America . [S. l.]: North -South Center, 1993.  
+ 
+CEPAL. Financiando o Big Push:  caminhos para destravar a transição social e 
+ecológica no Brasil. Brasília: CEPAL, 2023.  
+ 
+CHAN, I; FREITAS, M. O papel dos bancos de desenvolvimento na Agenda 2030: 
+o caso do BNDES. Revista do BNDES , v. 28, n. 56, p. 11 -54, dez. 2021.  
+ 
+DOSI, G. Finance, innovation and industrial change. Journal of Economic Behavior 
+and Organization , v. 13, p. 299 -319, 1990.  
+ 
+DOSI, G. Technological paradigms and technological trajectories. Research Policy , 
+v. 11, n.  3, p. 147 -162, 1982.  
+ 
+ERBER, F. As convenções de desenvolvimento no Governo Lula: Um ensaio de 
+economia política. Revista de Economia Política, v. 31, n. 1, p. 31 -55, 2011.  
+ 
+FEIL, F. State -owned financial institutions as an arm of public policy for 
+sustainable development . 2021.  Tese (Doutorado em Economia) – Universidade 
+Federal Fluminense, Niterói (RJ), 2021.  
+ 
+FEIL F.; FEIJÓ C. Development banks as an arm of economic policy: Promoting 
+sustainable structural change. International Journal of Political Economy , v. 50, 
+n. 1, p. 44 -59, 2021.  
+ 
+FEIL, F; FEIJÓ, C. Bancos de desenvolvimento como braço de política pública para 
+transição verde sustentável. A Economia em Revista , v. 30, n. 3, p. 1 -10, set .-
+dez. 2022.  
+ 
+FERRAZ , J. C. Development finance institutions for sustainable industrial 
+development. Policy Brief Series: Insight on Industrial Development , United 
+Nations Industrial Development Organization , issue n. 3, Apr . 2023. 
+ 
+FERRAZ , J. C.; ALÉM , A. C.; MADEIRA , R. F. A contribuição dos bancos de 
+desenvolvimento para o financiamento de longo prazo. Revista do BNDES , v. 
+40, p. 5 -42, dez . 2013. 
+ 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+52 
+FERRAZ , J. C.; RAMOS , L.; PLATTEK , B. Development finance innovations and 
+conditioning factors: The case of the Brazilian Development Bank and 
+sustainable industries. Brazilian Journal of Political Economy , v. 42, n.  4, 2022.  
+ 
+FREEMAN, C. The National System of Innovation’ in historical perspective’. 
+Journal of Economics , v. 19, p. 5 -24, 1995.  
+ 
+HIRSCHMANN, A. A dissenter’s confession: “The Strategy of Economic 
+Development ” revisited. In.: MEIER, G.; SEERS, D. ( Orgs.). Pioneers in 
+Development . Oxford: Oxford University Press, 1984.  
+ 
+KATTEL R. et al. How to Make an Entrepreneurial State. Why Innovation Needs 
+Bureaucracy . New Haven: Yale University Press, 2022.  
+ 
+MARODON , R. Can Development banks step up to the challenge of sustainable 
+development? Review of Political Economy , v. 34, n.  2, p. 268 -285, 2022.  
+ 
+MAZZUCATO , M; PENNA , C. Beyond market failures: the market creating and 
+shaping roles of state investment banks . Journal of Economic Policy Reform , v. 
+19, n.  4, p. 305 -326, 2016b.  
+ 
+MAZZUCATO, M.; PENNA, C. The Brazilian Innovation System:  A Mission -Oriented 
+Policy Proposal. Brasilia: Centro de Gestão e Estudos Estratégicos, 2016a.  
+ 
+MAZZUCATO, M.; PENNA, C. The Brazilian Innovation System: A Mission -Oriented 
+Policy Proposal. (Sumário Executivo ). Brasília : Centro de Gestão e Estudos 
+Estratégicos, 2016c.  
+ 
+MINSKY , H. P. The capital development of the economy and the structure of 
+financial institutions. Working Paper , The Jerome Levy Economics Institute of 
+Bard College, n. 72, 1992b.  
+ 
+MINSKY , H. P. The financial instability hypothesis. Working Paper , The Jerome 
+Levy Economics Institute of Bard College, n. 74, 1992a.  
+ 
+MINSKY , H. P. Uncertainty and the institutional structure of capitalist economies. 
+Paper  Series , The Jerome Levy Economics Institute of Bard College, n. 24, 1996.  
+ 
+MINSKY, H.  P. The financial instability hypothesis: A restatement. Paper Series, 
+Hyman P. Minsky Archive, n.  180, 1978 . Available: 
+http://digitalcommons.bard.edu/hm_archive/180 . Access: 13 Sept. 2023.  
+ 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+53 
+NEIVA, J. Bancos de desenvolvimento e mudanças climáticas: a necessidade de 
+incorporar critérios climáticos na carteira de investimento do BNDESPAR. 
+Diálogos Soberania e Clima,  v. 1, n. 7, p. 5 -14, 2022. 
+ 
+PAULA, L.  F. Sistema Financeiro, Bancos e Sistema Financeiro: Uma Abordagem 
+Keynesiana.  Rio de Janeiro: Campus, 2014.  
+ 
+PECH, W.; MILAN, M. . Behavioral economics and the economics of Keynes. The 
+Journal of Socio -Economics , v. 38, p. 891 -902, 2009.  
+ 
+PESSOA , L., FEIJÓ , C.; FEIL , F. Planejamento Estatal e convenções de 
+desenvolvimento para a transição verde sustentável . Researchgate.net , 2022.  
+ 
+SINIMBÚ , Fabíola . Governo Relança Fundo Clima com 10 Bilhões para Financiar 
+Projetos Sustentáveis. Um Só Planeta . O Globo, 25 ago. 2023.  Disponível em: 
+https://umsoplaneta.globo.com/clima/noticia/2023/08/25/governo -relanca -
+fundo -clima -com-r-10-bilhoes -para-financiar -projetos -sustentaveis.ghtml . 
+Acesso em: 13 set. 2023. 
+ 
+STUDART , R. O sistema financeiro e o financiamento do crescimento: uma 
+alternativa pós -keynesiana à visão convencional. Revista de Economia Política , 
+v. 13, n.  1, p. 110 -129, 1993.  
+ 
+STUDART, R. Investiment Finance in Economic Development . London : Routledge, 
+1995. 
+ 
+SUCHODOLSKI, S;  et al.  O Papel do Sistema Financeiro na Agenda de 
+Desenvolvimento Sustentável e o Exemplo do Banco de Desenvolvimento de 
+Minas Gerais. Economia e Políticas Públicas , v. 9, n. 1, p. 9 -31. 2021.  
+ 
+TEIXEIRA, F.  A. Estado e mercado nos arranjos de financiamento à infraestrutura 
+pós-2008 no Brasil . 2023. Tese (Doutorado  em Economia) – Universidade 
+Federal Fluminense,  Niterói  (RJ), 2023.  
+ 
+VIEIRA, F.  C. Financiando a transição: três ensaios sobre bancos de 
+desenvolvimento e transição verde no Brasil.  2023. Projeto de Tese (Doutorado  
+em Economia) – Universidade Federal do Rio de Janeiro,  2023. 
+ 
+VINHA, V.  G. da. A convenção do desenvolvimento sustentável e as empresas 
+eco-comprometidas . 2000. Tese (Doutorado  em Economia) – Universidade 
+Federal Rural do Rio de Janeiro, Rio de Janeiro,  2000. 
+ 
+ 
+ 
+Papel dos bancos de desenvolvimento no financiamento do desenvolvimento... 
+ 
+54 
+VINHA, V.  G. da. Polanyi e a Nova Sociologia Econômica: uma aplicação 
+contemporânea do conceito de enraizamento social. Econômica,  v. 3, n. 2, p. 
+207-230, 2001.  
+ 
+VINHA, V.  G. da; DUARTE , F. J. M.; DABUL, M.  S. As empresas e o 
+desenvolvimento sustentável: a trajetória da construção de uma convenção. In 
+MAY, P. H. (Org.). Economia do Meio Ambiente: Teoria e Prática . Rio de Janeiro: 
+Elsevier, 2018.  

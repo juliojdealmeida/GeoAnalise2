@@ -1,0 +1,1379 @@
+315
+capítulo
+07
+A DIMENSÃO INTERNACIONAL 
+DAS INDÚSTRIAS CUL TURAIS 
+E CRIATIVAS: ECONOMIA 
+INTERNACIONAL E 
+INDÚSTRIAS CRIATIVAS
+Luiza Peruffo
+316
+317
+INTRODUÇÃO
+Luiza Peruffo1
+O capítulo aborda o papel dos setores culturais e criativos no comércio interna -
+cional, com ênfase na experiência brasileira. A primeira seção introduz conceitos 
+básicos de comércio internacional e apresenta os principais dados para o Brasil 
+e para o mundo. A segunda seção apresenta os dados de comércio internacional 
+para os setores culturais e criativos, com ênfase no caso brasileiro. A terceira seção 
+apresenta a dimensão internacional das indústrias criativas no contexto das trans-
+formações recentes da economia global, caracterizada por fluxos mais intensos 
+de comércio, finanças, tecnologias e ideias. A quarta seção discute a relação entre 
+comércio internacional e desenvolvimento econômico, enfatizando a posição dos 
+países em desenvolvimento nas Cadeias Globais de Valor (CGV). A quinta seção 
+conclui o capítulo, apontando oportunidades, desafios e tendências globais para os 
+setores culturais e criativos.
+1 PhD pela Universidade de Cambridge e professora do Departamento de Economia e Relações Internacionais da 
+Universidade Federal do Rio Grande do Sul (UFRGS). Pesquisadora do Núcleo de Estudos em Economia Criativa 
+e da Cultura (NECCUL T). E-mail: luiza.peruffo@ufrgs.br. A autora agradece a generosa e competente assistência 
+de pesquisa de Larissa Couto da Silva. Eventuais erros ou imprecisões são de responsabilidade da autora.  
+
+319
+1. COMÉRCIO INTERNACIONAL: 
+CONCEITOS FUNDAMENTAIS & 
+DADOS PARA O BRASIL E O MUNDO
+Quando falamos na abertura econômica de um país para o resto do mundo, exis-
+tem duas dimensões principais: a comercial e a financeira. A dimensão comercial 
+diz respeito aos bens e serviços que são produzidos domesticamente e vendidos 
+para o resto do mundo – as exportações – e os bens e serviços que são produzidos 
+no exterior e consumidos domesticamente – as importações. Ou seja, a abertura 
+do mercado de bens e serviços significa que os consumidores e as empresas podem 
+escolher entre produtos nacionais e produtos estrangeiros. Similarmente, a abertu-
+ra financeira significa que os investidores podem diversificar seus portfólios entre 
+ativos nacionais e estrangeiros. 
+Esta divisão entre a dimensão comercial e a dimensão financeira está refle-
+tida inclusive na maneira como o registro das transações entre residentes e não 
+residentes são feitas no balanço de pagamentos de cada país. Os registros de 
+trocas de bens e serviços entre residentes e não residentes é feito na conta corren-
+te, enquanto o registro da aquisição e alienação de ativos e passivos financeiros é 
+feito na conta financeira. Neste momento, é importante reter apenas que vender 
+um projeto de design para um cliente que mora em Paris (um serviço) ou pegar um 
+financiamento de um banco em Londres (um passivo financeiro) para viabilizar 
+uma mostra de dança em São Paulo são assuntos tão diferentes que pertencem a 
+contas diferentes nos registros das transações internacionais de um país. Além da 
+conta corrente e da conta financeira, a terceira conta no balanço de pagamentos é 
+a conta capital, que registra aquisições e alienações de ativos não financeiros não 
+produzidos, incluindo ativos de marketing, locações e licenças.  
+Além desta divisão básica entre as aberturas comercial e financeira de um 
+país para o resto mundo, é possível incluirmos também a dimensão do mercado 
+de fatores, ou seja, da produção, que vai estar relacionada com a liberdade das 
+empresas em escolher aonde elas vão produzir e dos trabalhadores em escolher 
+aonde eles vão trabalhar. Isto vai estar muito relacionado com os acordos de inte-
+320
+gração econômica, como a União Europeia e o Mercosul, por exemplo. No caso 
+do Mercosul, em 1991, Brasil, Argentina, Uruguai e Paraguai assinaram o Tratado 
+de Assunção visando aumentar a movimentação de mercadorias, pessoas, força 
+de trabalho e capitais entre os membros do bloco. Na prática, isso significa que, 
+enquanto os brasileiros que quiserem ir trabalhar nos Estados Unidos precisam 
+individualmente negociar uma permissão (um visto) com as autoridades america-
+nas, que vão analisar caso a caso, aqueles brasileiros que quiserem ir trabalhar em 
+qualquer um dos países do Mercosul não precisam fazê-lo, já que este direito foi 
+previamente negociado pelos países membros do bloco. Da mesma maneira, os ar-
+gentinos, uruguaios e paraguaios têm autorização para morar e trabalhar no Brasil, 
+enquanto indivíduos de outras nacionalidades precisarão consultar as autoridades 
+brasileiras diretamente. 
+ Assim, em termos econômicos, a dimensão internacional envolve aspectos 
+comerciais, financeiros e de produção, que por sua vez se desdobram em mui -
+tos outros assuntos. Neste capítulo nos debruçaremos especialmente sobre os as-
+pectos relacionados ao comércio internacional de bens e serviços, que é o mais 
+relevante para discutirmos a dimensão internacional das indústrias culturais e 
+criativas. De qualquer forma, é importante notar que o comércio internacional 
+é apenas um aspecto de um tema muito mais complexo, que envolve elementos 
+para além da economia. Perceba que quando falamos de “uma abertura para o 
+exterior”, o “exterior” é tudo aquilo que vai além das fronteiras físicas do Brasil e 
+que os “residentes” são as pessoas (físicas ou jurídicas) que tenham o Brasil como 
+seu principal centro de interesse. Ou seja, a discussão da dimensão internacional 
+parte da unidade básica dos Estados – os indivíduos e as empresas fazem parte 
+de um, ou mais, Estados, que negociam as regras que regem as relações na esfera 
+internacional, inclusive as econômicas. Por isso, parte importante da nossa análise 
+envolverá comparações entre os países e como suas indústrias culturais e criativas 
+se posicionam no comércio internacional.
+A abertura do mercado de bens e serviços, ou a liberalização comercial, diz 
+respeito a políticas do governo que estabeleçam a não discriminação entre aquilo 
+que é produzido no Brasil e a aquilo que é produzido no exterior. A diferenciação 
+entre produtos nacionais e estrangeiros pode ser feita através da imposição de 
+321
+barreiras tarifárias ou não tarifárias aos produtos estrangeiros, o que na prática 
+faz com que eles tenham uma desvantagem na concorrência no mercado domésti-
+co. Políticas que buscam eliminar este tipo de barreira são usualmente chamadas 
+de políticas de livre comércio. A perspectiva teórica por trás das políticas de livre 
+comércio é que haveria uma melhor alocação dos recursos se eles pudessem circu-
+lar livremente. Ou seja, as empresas seriam mais eficientes, porque elas estariam 
+expostas à concorrência internacional, e os consumidores alcançariam um maior 
+bem-estar, porque eles poderiam consumir produtos melhores e mais baratos. 
+Existe um debate muito intenso entre os economistas sobre as vantagens e 
+desvantagens da liberalização comercial. Em síntese, a perspectiva alternativa en-
+fatiza que, por motivos econômicos e não econômicos, é importante que os países 
+produzam bens e serviços com relativo grau de sofisticação e valor adicionado. 
+Para isso acontecer, argumenta-se que a imposição de algumas barreiras à 
+produção estrangeira pode ser necessária, pelo menos durante algum tempo, para 
+que a produção doméstica consiga se consolidar antes de enfrentar a concorrência 
+externa. Esta discussão sobre a liberalização comercial encontra eco no debate do 
+desenvolvimento econômico, notadamente nas políticas adotadas pelas economias 
+hoje desenvolvidas e nas suas recomendações para os países mais pobres e econo-
+mias em desenvolvimento. Voltaremos a este assunto quando discutirmos as Ca-
+deias Globais de Valor (CGV) na seção 4 deste capítulo. Antes, vejamos quais paí-
+ses se destacam no comércio internacional e qual o papel do Brasil nesta dinâmica. 
+Atualmente, os Estados Unidos e a China disputam a liderança no comércio 
+mundial de bens e serviços, conforme ilustra o Figura 1. De acordo com dados do 
+Banco Mundial, em 2018, a China era o maior exportador mundial de bens e ser-
+viços, totalizando US$2,7 trilhões em exportações, superando os US$2,5 trilhões 
+exportados pelos Estados Unidos. Os Estados Unidos lideravam nas importações, 
+tendo consumido US$3,2 trilhões em bens e serviços estrangeiros em 2018, sig -
+nificativamente acima dos US$2,6 trilhões consumidos pela China. Portanto, em 
+termos de fluxo comercial, que corresponde à soma das exportações e importa-
+ções de bens e serviços, os Estados Unidos ainda ocupam o topo do ranking mun-
+dial. Outros países importantes no comércio internacional são Alemanha (US$3,5 
+trilhões em fluxo comercial), Japão (US$1,9 trilhão), França (US$1,8 trilhão) e Rei-
+322
+no Unido (US$1,8 trilhão), Países Baixos (US$1,4 trilhão), Coreia do Sul (US$1,4 
+trilhão), Hong Kong (US$1,3 trilhão) e Itália (US$1,2 trilhão). O Brasil ocupa a 24ª 
+posição entre os exportadores (US$280 bilhões em 2018) e a 23ª entre os impor-
+tadores (US$262 bilhões), ficando na 23ª posição em termos de fluxo comercial.
+FIGURA 1. PRINCIPAIS PAÍSES EXPORTADORES E IMPORTADORES E BRASIL (2018)FLUXO COMERCIAL EM US/dollar.lin TRILHÕES
+Reino 
+Unido
+Países 
+Baixos
+Coreia 
+do Sul
+Hong 
+Kong, 
+China
+Itália BrasilAlemanha Japão França
+Exportação Importação
+7
+6
+5
+4
+3
+1
+2
+0
+Estados 
+Unidos
+China
+Fonte: World Bank Data, Exports of goods and services. Elaboração própria e reajuste pelo IPC de 2019.
+As estatísticas de comércio exterior são divididas entre o comércio de bens 
+e o comércio de serviços. De maneira geral, a disponibilidade de séries históri -
+cas para o comércio de bens é maior do que para o comércio de serviços. No 
+caso do Brasil, o Ministério da Indústria, Comércio Exterior e Serviços (MDIC), 
+atualmente parte do Ministério da Economia, é responsável por compilar estes 
+dados. Os dados mais atualizados para o comércio de bens (1997-2019) e serviços 
+(2014-2018) são apresentados nas Figuras 2 e 3. Conforme ilustrado na Figura 2, o 
+Brasil acumula superávits comerciais (exportações maiores do que importações) 
+no comércio de bens desde 2001, com exceção de 2014, quando se registrou um 
+déficit comercial (importações maiores do que as exportações) de US$4 bilhões. 
+Em 2019, o superávit no comércio de bens totalizou US$48 bilhões, correspon -
+dendo à diferença no valor dos US$225 bilhões exportados e dos US$177 bilhões 
+importados pelo país. Como ilustrado pela Figura 3, a situação se inverte no caso 
+do comércio de serviços, em que o Brasil acumulou déficits em todos os anos da 
+323
+série histórica. Em 2018, o déficit no comércio exterior de serviços foi de US$15 
+bilhões, correspondendo à diferença entre os US$29,7 bilhões exportados e os 
+US$44,9 bilhões importados. Cabe notar que, entre 2016 e 2018, o superávit do 
+comércio de bens superou consideravelmente o déficit no comércio de serviços, 
+de modo que o resultado final foi de um superávit do comércio exterior brasileiro. 
+Isto reflete em parte o fato que o fluxo comercial de bens é muito maior do que 
+o fluxo comercial de serviços no caso do Brasil, US$428 bilhões e US$74 bilhões 
+em 2018, respectivamente.
+FIGURA 2. BRASIL: COMÉRCIO EXTERNO DE BENS (1997-2019)
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+20072008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+20162017
+2018
+2019
+300
+250
+200
+150
+100
+50
+0
+Exportação Importação
+US/dollar.lin BILHÕES
+Fonte: MDIC, Comex Stat. Elaboração própria e reajuste pelo IPC de 2019.
+324
+FIGURA 3. BRASIL: COMÉRCIO EXTERNO DE SERVIÇOS (2014-2018)
+2014
+2016
+2017
+2018
+2015
+Exportação Importação
+60
+50
+40
+30
+20
+10
+0
+US/dollar.lin BILHÕES
+Fonte: MDIC, Comex Stat. Elaboração própria e reajuste pelo IPC de 2019.
+A posição do Brasil no comércio internacional contrasta com o tamanho da 
+economia brasileira. O tamanho das economias é usualmente dado pelo Produto 
+Interno Bruto (PIB), que corresponde à soma de todos os bens e serviços finais 
+produzidos por um país durante determinado período de tempo. Este resultado, 
+medido originalmente na moeda de cada país, é convertido para uma unidade co-
+mum, normalmente o dólar americano, para fins de comparações internacionais. 
+Em dólares, o PIB do Brasil foi de US$1,8 trilhão em 2019, deixando o Brasil na 
+nona posição no ranking das maiores economias, liderado por Estados Unidos 
+(US$21 trilhões), China (US$14 trilhões) e Japão (US$5 trilhões). Como você pode 
+imaginar, esta conversão pode causar algumas distorções, pois o valor do real com 
+relação ao dólar (a taxa de câmbio) varia muito ao longo do tempo. Por este mo-
+tivo, é comum utilizar o cálculo da Paridade de Poder de Compra (PPC), que se 
+propõe a eliminar as distorções do câmbio para o resultado do PIB dos países, ain-
+da que também apresente uma série de limitações. Para o cálculo da PPC, alguns 
+325
+produtos são escolhidos para formar uma “cesta básica” em cada país cujo preço é 
+comparado ao preço da mesma cesta em dólares, a moeda de referência (note que 
+o PIB dos Estados Unidos é o único com o mesmo valor na Tabela 1). Pela PPC, 
+que leva em conta o poder de compra entre uma economia e outra, o PIB do Brasil 
+foi de US$3,2 trilhões em 2019, ficando na décima posição no ranking das maiores 
+economias, liderado por China (US$23 trilhões), Estados Unidos (US$21 trilhões) 
+e Índia (US$9 trilhões).
+TABELA 1. RANKING DAS MAIORES ECONOMIAS (2019)
+RANKING PIB (US$ CORRENTE, 
+EM TRILHÕES)
+PIB, PPC ($ INTERNACIONAL, 
+EM TRILHÕES)
+1 Estados Unidos 21,427 China 23,460
+2 China 14,342 Estados Unidos 21,427
+3 Japão 5,081 Índia 9,611
+4 Alemanha 3,845 Japão 5,459
+5 Índia 2,875 Alemanha 4,659
+6 Reino Unido 2,827 Rússia 4,281
+7 França 2,715 Indonésia 3,329
+8 Itália 2,001 França 3,315
+9 Brasil 1,839 Reino Unido 3,255
+10 Canadá 1,736 Brasil 3,220
+Fonte: World Bank Data. Elaboração própria.
+A relação entre o fluxo comercial e o tamanho da economia é dada pelo grau 
+de abertura econômica ou coeficiente de abertura comercial , que mostra 
+quanto que determinada economia exporta e importa em relação à sua dimensão 
+econômica, e não em valores absolutos. Vale dizer, o grau de abertura econômica é 
+calculado a partir da soma das exportações e importações em relação ao PIB. Em 
+2018, o grau de abertura econômica do Brasil era de 29%, significando que o fluxo 
+de comércio exterior representou quase um terço da produção doméstica do país. 
+Desde os anos 1990, o Brasil vem experimentando um aumento gradual de sua 
+abertura comercial, mas que é baixo em comparação com outras economias, como 
+326
+mostra a Figura 4. O grau de abertura da Alemanha, por exemplo, foi de 93% em 
+2018, contra 50% da China e 46% dos Estados Unidos. Isto significa que, sob o 
+ponto de vista comercial, a economia brasileira é relativamente fechada. 
+FIGURA 4. GRAU DE ABERTURA ECONÔMICO BRASIL, CHINA, 
+ALEMANHA E ESTADOS UNIDOS (1997 - 2018) (EM %)
+120
+100
+80
+60
+40
+20
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+0
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Brasil China Alemanha Estados Unidos
+Fonte: World Bank Data. Elaboração própria.
+Tendo apresentado os conceitos fundamentais e os principais dados de comér-
+cio exterior para o Brasil e o mundo, a próxima seção aprofunda a discussão de comér-
+cio internacional para os setores culturais e criativos, com ênfase no caso brasileiro. 
+327
+2. A DIMENSÃO INTERNACIONAL DOS 
+SETORES CULTURAIS E CRIATIVOS
+Os protagonistas do comércio internacional coincidem com aqueles que em geral 
+também se destacam nas indústrias criativas (ver Tabela 2 para classificação dos 
+países e Tabela 3 para classificação dos setores criativos). De acordo com dados 
+da Conferência das Nações Unidas sobre Comércio e Desenvolvimento (UNC -
+TAD, na sigla em inglês), em 2015, a China era de longe o principal exportador de 
+bens das indústrias criativas, tendo exportado US$181 bilhões, ultrapassando em 
+mais de quatro vezes o valor exportado pelos Estados Unidos (US$43 bilhões), 
+que ocupavam o segundo lugar no ranking internacional. Na análise por setor, a 
+China liderava o ranking em quatro dos sete setores criativos na classificação da 
+UNCTAD: artesanato (US$18,7 bilhões), design (US$131,9 bilhões), novas mídias 
+(US$15,2 bilhões) e artes performáticas (US$1,6 bilhões). A China também aparece 
+como o quarto maior exportador nos setores de publicações (US$3,4 bilhões) e 
+artes visuais (US$9,5 bilhões). A China não integra o ranking dos cinco principais 
+exportadores apenas no setor de audiovisuais, no qual liderou como principal país 
+importador em 2015 (US$3,2 bilhões). Com exceção do setor de audiovisuais, a 
+China não se destaca como um grande importador das indústrias criativas. 
+Os Estados Unidos se destacam tanto como exportadores (2º lugar, US$43 
+bilhões exportados em 2015) quanto como importadores (1º lugar, US$114 bilhões 
+importados). Apesar de não liderar em nenhum dos setores, os Estados Unidos 
+estão entre os cinco principais exportadores em seis dos sete setores criativos 
+da UNCTAD: audiovisuais (3º lugar, US$2,4 bilhões), design (4º lugar, US$18,2 
+bilhões), novas mídias (3º lugar, US$3,9 bilhões), artes performáticas (2º lugar, 
+US$613 milhões), publicações (2º lugar, US$4,2 bilhões) e artes visuais (2º lugar, 
+US$ 12,6 bilhões). Do lado das importações, além do ranking geral, os Estados 
+Unidos também lideram as importações em cinco setores: artesanato (US$8,4 bi-
+lhões), design (US$70,4 bilhões), novas mídias (US$12,4 bilhões), artes perfor -
+máticas (US$1,2 bilhões) e publicações (US$4,8 bilhões). Além disso, os Estados 
+Unidos são o segundo maior importador de artes visuais (US$15,2 bilhões) e o 
+328
+quarto maior de audiovisuais (US$1,3 bilhão), estando, portanto, entre os cinco 
+maiores importadores em todos os setores criativos.
+Além da China e dos Estados Unidos, outros grandes participantes do co -
+mércio mundial também se destacam nas indústrias criativas. A França, quinto 
+país em termos de fluxos comerciais mundiais, é o terceiro maior exportador 
+(US$37 bilhões) e o segundo maior importador (US$44,7 bilhões) nos setores 
+criativos. A França é o maior exportador e o maior importador do setor de artes 
+visuais (US$15,7 bilhões e US$19,5 bilhões, respectivamente) e também se des -
+taca no setor de design (5º lugar nas exportações, US$17,3 bilhões, e 3º lugar nas 
+importações, US$18,6 bilhões). Além disso a França também é o quinto maior 
+importador dos setores de artes performáticas (US$271 milhões) e de publicações 
+(US$2 bilhões). Hong Kong, uma das regiões administrativas especiais da China, 
+que ocupa a nona posição em termos de fluxos comerciais mundiais, é o quarto 
+maior exportador dos setores criativos (US$30 bilhões) e o terceiro maior impor-
+tador (US$35,8 bilhões). Hong Kong figura entre os cinco maiores participantes 
+nos setores de artesanato (3º exportador e 4º importador), design (3º exportador e 
+2º importador) e novas mídias (4º exportador e 2º importador), sendo também o 
+quarto maior importador do setor de artes visuais (US$2,8 bilhões). 
+Alguns países destacam-se mais enquanto exportadores ou importadores 
+dos setores criativos. A Itália, décimo país em termos de fluxos comerciais mun -
+diais, é o quinto maior exportador dos setores criativos, destacando-se como se -
+gundo maior exportador setor de design (US$25,4 bilhões). O Reino Unido, sexto 
+país em termos de fluxos comerciais, é o quarto maior importador dos setores 
+criativos, estando entre os cinco maiores importadores em todos os sete setores, 
+apesar de não liderar nenhum. Nas exportações, o Reino Unido se destaca como 
+o terceiro maior exportador nos setores de publicações (US$3,8 bilhões) e artes 
+visuais (US$10,1 bilhões). A Alemanha, terceiro país em termos de fluxos comer-
+ciais, é o quinto maior importador dos setores criativos (US$28 bilhões), sendo o 
+segundo de audiovisuais (US$2 bilhões) e artes performáticas (US$561 milhões), 
+o terceiro de artesanato (US$1,6 bilhões) e publicações (US$2,5 bilhões), o quarto 
+de novas mídias (US$3,2 bilhões) e o quinto de design (US$16,7 bilhões). Apesar 
+de não entrar na lista dos cinco principais exportadores dos setores criativos, a 
+329
+Alemanha lidera as exportações dos setores de audiovisuais (US$3,4 bilhões) e de 
+publicações (US$4,4 bilhões), além de ser o terceiro exportador de artes perfor -
+máticas (US$554 milhões) e o quinto de novas mídias (US$2,3 bilhões). Os dados 
+completos dos principais exportadores e importadores das indústrias criativas es-
+tão na Tabela 2 abaixo.
+TABELA 2. PRINCIPAIS PAÍSES EXPORTADORES E IMPORTADORES 
+DE BENS DAS INDÚSTRIAS CRIATIVAS (UNCTAD, 2015)
+SETOR 
+CRIATIVO
+PRINCIPAIS 
+EXPORTADORES
+US$ 
+MILHÕES
+PRINCIPAIS 
+IMPORTADORES
+US$ 
+MILHÕES
+Todos os bens 
+criativos
+1º - China 181.759,41 1º - Estados Unidos 114.057,03
+2º - Estados Unidos 43.689,13 2º - França 44.712,25
+3º - França 37.155,07 3º - Hong Kong, China 35.830,03
+4º - Hong Kong, China 30.064,30 4º - Reino Unido 34.134,50
+5º - Itália 28.769,87 5º - Alemanha 28.413,83
+Artesanato
+1º - China 18.750,30 1º - Estados Unidos 8.455,21
+2º - Turquia 2.970,32 2º - Reino Unido 2.064,54
+3º - Hong Kong, China 1.897,39 3º - Alemanha 1.632,45
+4º - Índia 1.716,82 4º - Hong Kong, China 1.440,55
+5º - Bélgica 1.688,92 5º - Japão 1.133,68
+Audiovisuais
+1º - Alemanha 3.406,90 1º - China 3.218,45
+2º - Singapura 3.173,19 2º - Alemanha 2.034,65
+3º - Estados Unidos 2.486,22 3º - Reino Unido 1.374,59
+4º - Japão 1.754,61 4º - Estados Unidos 1.369,91
+5º - Países Baixos 1.478,62 5º - Tailândia 1.220,59
+Design
+1º - China 131.979,47 1º - Estados Unidos 70.457,01
+2º - Itália 25.445,98 2º - Hong Kong, China 24.698,78
+3º - Hong Kong, China 21.203.58 3º - França 18.651,17
+4º - Estados Unidos 18.229.12 4º - Reino Unido 17.967,24
+5º - França 17.342.12 5º - Alemanha 16.756,13
+Novas Mídias
+1º - China 15.205,33 1º - Estados Unidos 12.401,59
+2º - Taiwan, China 5.391,85 2º - Hong Kong, China 4.883,28
+3º - Estados Unidos 3.959,33 3º - China 3.740,23
+4º - Hong Kong, China 3.081,31 4º - Alemanha 3.285,92
+5º - Alemanha 2.304,64 5º - Reino Unido 2.605,75
+330
+Artes 
+Performáticas
+1º - China 1.616,44 1º - Estados Unidos 1.253,53
+2º - Estados Unidos 613,34 2º - Alemanha 561,43
+3º - Alemanha 554,19 3º - Japão 394,09
+4º - Japão 516,15 4º - Reino Unido 306,82
+5º - Países Baixos 278,92 5º - França 271,10
+Publicações
+1º - Alemanha 4.455,42 1º - Estados Unidos 4.897,62
+2º - Estados Unidos 4.264,95 2º - Reino Unido 2.676,91
+3º - Reino Unido 3.814,04 3º - Alemanha 2.575,91
+4º - China 3.436,16 4º - Canadá 2.267,83
+5º - Canadá 2.622,95 5º - França 2.050,62
+Artes Visuais
+1º - França 15.684,71 1º - França 19.543,45
+2º - Estados Unidos 12.627,01 2º - Estados Unidos 15.222,16
+3º - Reino Unido 10.174,94 3º - Reino Unido 7.138,65
+4º - China 9.593,90 4º - Hong Kong, China 2.832,36
+5º - Suíça 1.989,00 5º - Suíça 2.808,56
+Fonte: UNCTAD Stat. Elaboração própria e reajuste pelo IPC de 2019.
+TABELA 3. CLASSIFICAÇÃO DOS SETORES CRIATIVOS PELA UNCTAD
+SETORES CRIATIVOS BENS
+Artesanato Artigos de papel, celebração, fio, outros artesanatos, tapetes, vime
+Audiovisuais CDs, DVDs, fitas, filmes
+Design Artquitetura, artigos de vidro, brinquedos, interiores, joias, moda
+Novas Mídias Mídias gravadas, videogames
+Artes Performáticas Instrumentos musicais, música impressa
+Publicações Jornais, livros, outros impressos
+Artes Visuais Antiguidades, escultura, fotografia e pintura
+Fonte: UNCTAD Stat. Elaboração própria.
+A participação do Brasil nas exportações e importações das indústrias cria-
+tivas é relativamente menor do que a sua participação no comércio global. Ocu -
+pando a 23ª posição em termos de fluxo comercial, o Brasil foi apenas o 35º maior 
+exportador (US$952 milhões) e o 29º maior importador (US$2,5 bilhões) das in -
+331
+dústrias criativas (ver Tabela 4). Em termos de valores comercializados, o Brasil 
+se destaca no setor de design, que representou mais de dois terços do total expor-
+tado (US$604 milhões) e mais da metade do total importado (US$1,4 bilhão). No 
+ranking geral, o Brasil se destaca nas exportações do setor de artes visuais, ficando 
+na 19ª posição com US$135 milhões exportados, que representaram cerca de 15% 
+das exportações brasileiras de bens dos setores criativos. Nas importações, o Brasil 
+foi o 14º maior importador de artes performáticas, ainda que em termos de valor 
+os US$81 milhões importados tenham representado apenas 3% do total, e o 18º 
+de artesanato (US$387 milhões).
+TABELA 4. POSIÇÃO DO BRASIL NAS EXPORTAÇÕES E 
+IMPORTAÇÕES DAS INDÚSTRIAS CRIATIVAS (UNCTAD, 2015)
+SETOR CRIATIVO
+POSIÇÃO DO 
+BRASIL NAS 
+EXPORTAÇÕES
+US$ MILHÕES
+POSIÇÃO DO 
+BRASIL NAS 
+IMPORTAÇÕES
+US$ 
+MILHÕES
+Todos os bens criativos 35º 952,37 29º 2.557,27
+Artesanato 31º 72,18 18º 387,34
+Audiovisuais 48º 8,50 52º 28,10
+Design 33º 604,24 30º 1.456,95
+Novas Mídias 31º 104,42 33º 201,72
+Artes Performáticas 45º 1,32 14º 81,02
+Publicações 51º 26,39 27º 316,90
+Artes Visuais 19º 135,30 28º 85,25
+Fonte: UNCTAD Stat. Elaboração própria e reajuste pelo IPC de 2019.
+A UNCTAD concentra importantes dados de comparação mundial sobre 
+as indústrias criativas e sua metodologia é relevante para as comparações interna-
+cionais feitas nesta seção. Ainda assim, os dados disponíveis são limitados apenas 
+para os bens comercializados, já que as estatísticas para serviços são incompletas 
+para vários países que se destacam nos mercados internacionais. Por isso, a com-
+paração internacional de serviços é inviabilizada por essa base de dados. Além 
+disso, os dados em geral são relativamente defasados, atualizados até 2015 para 
+332
+bens e até 2012 para serviços. É interessante notar também que a metodologia da 
+UNCTAD atribui um peso expressivo para o setor de design, que correspondeu 
+a 62% do total das exportações dos setores criativos em 2015. Neste sentido, a 
+performance dos países neste setor acaba influenciando fortemente suas posições 
+no ranking geral. 
+Para a análise específica do Brasil, o MDIC compila dados do comércio 
+internacional de bens e serviços criativos na base Comex Stat. Os dados estão 
+disponíveis de 1997 até 2019 para os bens e de 2014 até 2018 para serviços. Na clas-
+sificação do MDIC, as atividades criativas estão divididas em onze setores, sendo 
+dois setores de bens (moda e atividades artesanais) e nove de serviços (editorial; 
+cinema, fotografia, rádio e TV; tecnologia da informação; arquitetura; publicida -
+de e serviços empresariais; design; artes cênicas e artes visuais; museus e patri -
+mônio; e direitos autorais) (ver Tabela 5 para classificação dos setores criativos; 
+ver Anexos 1 e 2 para detalhamento dos códigos NCM e NBS de cada setor). É 
+importante notar que apesar de muitos setores serem os mesmos da classificação da 
+UNCTAD, como “artes visuais” por exemplo, a UNCTAD está considerando os 
+bens deste setor (antiguidades, escultura, fotografia e pintura), enquanto o MDIC 
+está considerando os serviços deste setor (atividades de produção, promoção e 
+apresentações artísticas ao vivo). Neste sentido, coincidem apenas os setores de 
+artesanato e moda (que está dentro da categoria “design” na UNCTAD) entre as 
+duas bases de dados. Definir e mensurar os setores criativos é um grande desafio 
+na medida em que, no limite, todos os bens e serviços possuem algum grau de 
+criatividade humana. Assim, para complementar os dados da UNCTAD, apresen-
+tamos a seguir os dados para o Brasil conforme a classificação do MDIC.
+333
+TABELA 5. CLASSIFICAÇÃO DOS SETORES CRIATIVOS PELO MDIC
+SETORES CRIATIVOS BENS E SERVIÇOS 
+Moda Comercialização de bens têxteis
+Atividades Artesanais
+Confecção de bens de maneira artesanal, com 
+utilização de matérias primas como pedras preciosas, 
+bijuterias e diversos materiais para confecção
+Editorial Serviços de impressão, reprodução, editoração, intérprete e tradução
+Cinema, fotografia, rádio e TV 
+Serviços voltados para a programação e difusão do audiovisual, 
+além de sua produção e distribuição. Também compreende 
+os serviços voltados para as atividades de fotografia
+Tecnologia da informação Serviços de agências de notícias e do setor 
+de tecnologia da informação
+Arquitetura Prestação de serviços de arquitetura
+Publicidade e serviços empresariais Serviços de propaganda e agências de modelo
+Design Serviços de projetos de design
+Artes cênicas e artes visuais Atividades de produção, promoção e apresentações artísticas ao 
+vivo. Além de outras formas de entretenimento ao vivo semelhante
+Museus e patrimônio Atividades de museus, bibliotecas, arquivos e preservação histórica
+Direitos autorais Serviços de licenciamento e cessão de direitos 
+de autor e direitos conexos
+Fonte: MDIC. Elaboração própria.
+De acordo com a classificação e os dados do MDIC, as exportações bra -
+sileiras se concentram nos setores de tecnologia da informação (31,9%, US$3,4 
+bilhões), moda (30,9%, US$3,3 bilhões), e atividades artesanais (30,2%, US$3,2 
+bilhões) (ver Tabela 6). Em 2018, os outros oito setores corresponderam por ape-
+nas 7% do total exportado nos setores criativos. As importações brasileiras se con-
+centram nos setores de moda (39,9%, US$5,9 bilhões); direitos autorais (28,8%, 
+US$4,3 bilhões); tecnologia da informação (18,7%, US$2,7 bilhões), e publicidade 
+e serviços empresariais (10,2%, US$1,5 bilhões). Em 2018, os outros sete setores 
+corresponderam por apenas 2,3% do total importado nos setores criativos. 
+334
+TABELA 6. COMPOSIÇÃO DAS EXPORTAÇÕES E IMPORTAÇÕES BRASILEIRAS 
+DE BENS E SERVIÇOS CRIATIVOS POR SETOR (MDIC, 2018)
+SETOR
+EXPORTAÇÃO IMPORTAÇÃO
+% US$ milhões % US$ milhões
+Tecnologia da 
+Informação 31,9% 3.460,80 18,7% 2.793,46
+Moda 30,9% 3.349,03 39,9% 5.975,10
+Atividades 
+Artesanais 30,2% 3.268,89 1,6% 234,28
+Direitos Autorais 3,1% 337,31 28,8% 4.315,26
+Publicidade 
+e Serviços 
+Empresariais
+3,1%
+337,21
+10,2%
+1.533,94
+Cinema, Música, 
+Fotografia, 
+Rádio e TV
+0,5%
+53,66
+0,3%
+52,92
+Editorial 0,2% 19,20 0,1% 17,86
+Design 0,05% 5,08 0,04% 5,97
+Arquitetura 0,02% 2,67 0,01% 2,09
+Artes Cênicas e 
+Artes Visuais 0,02% 1,78 0,22% 33,32
+Museus e 
+Patrimônio - - 0,01% 1,75
+Fonte: MDIC, Estatísticas do Comércio Exterior de Serviços. Elaboração própria.
+A Figura 5 mostra a evolução do comércio externo brasileiro para os setores 
+criativos considerando a análise conjunta de bens e serviços. Nesta análise agrega-
+da, o Brasil é um importador líquido de bens e serviços criativos. Como veremos 
+a seguir, este resultado reflete em grande parte o resultado também deficitário 
+do comércio exterior de serviços, já que o comércio exterior de bens nos últimos 
+anos tem apresentado um super ávit tímido, quase equilibrado (US$139 milhões 
+em 2019). Entre 2014 e 2018, as exportações brasileiras dos setores criativos cres-
+ceram de US$8 bilhões para US$10,8 bilhões, enquanto as importações caíram de 
+US$16,8 bilhões para US$14,9 bilhões. Em 2014, 72% do total exportado e 49% 
+do total importado correspondiam aos bens dos setores criativos. Já em 2018, o 
+percentual dos serviços aumentou para 39% no caso das exportações e para 58% 
+no caso das importações. Como a série histórica de serviços é restrita ao período 
+335
+2014-2018, a análise agregada do fluxo de comércio e bens e serviços criativos 
+também é comprometida para apenas estes anos.
+FIGURA 5. COMÉRCIO EXTERNO NOS SETORES 
+CUL TURAIS (BENS E SERVIÇOS) (2014 - 2018)
+US/dollar.lin BILHÕES
+181614121086420
+Exportação Importação
+2014
+2015
+2016
+2017
+2018
+Fonte: MDIC, Estatísticas do Comércio Exterior de Serviços e Comex 
+Stat. Elaboração própria e reajuste pelo IPC de 2019.
+A série histórica mais longa para o comércio exterior de bens permite inferir 
+uma tendência mais clara sobre o fluxo de comércio externo nos setores criativos, 
+como mostra a Figura 6. De 1997 até 2009, a balança comercial dos setores criati-
+vos manteve-se superavitária, mesmo diante de uma tendência de crescimento tan-
+to das exportações quanto das importações. O resultado da balança comercial se 
+inverteu entre 2010 e 2015, motivado pela forte expansão das importações frente a 
+uma tendência de estabilidade no nível de exportações. A balança comercial ficou 
+novamente superavitária entre 2016 e 2019, ainda que por uma margem menor do 
+que no início dos anos 2000. Em 2019, tanto as exportações quanto as importa -
+ções dos setores criativos caíram para quase a metade do valor de 2018: US$6,6 bi-
+lhões para US$3,6 bilhões no caso das exportações e US$6,2 bilhões para US$3,5 
+bilhões no caso das importações (redução de 44% e 43% respectivamente). 
+Os dados para o comércio externo de serviços do Brasil nos setores criativos 
+são ilustrados pela Figura 7. Entre 2014 e 2018, a balança comercial de serviços 
+manteve-se deficitária, apesar de as exportações terem quase dobrado de valor 
+enquanto as importações se mantiveram praticamente constantes. O valor das ex-
+portações aumentou de US$2,3 bilhões para US$4,2 bilhões e o valor das impor-
+336
+tações aumentou apenas de US$8,6 bilhões para US$8,7 bilhões. O resultado das 
+importações apresentou forte queda em 2015 (US$7,6 bilhões) e vem aumentando 
+desde então. As exportações têm crescido consistentemente desde 2014, com o 
+maior aumento ocorrendo em 2018 (44%).
+FIGURA 6. COMÉRCIO EXTERNO DE BENS NOS SETORES CRIATIVOS (1997-2019)
+US/dollar.lin BILHÕES
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+Exportação
+Importação
+Linear (Exportação)
+Linear (Importação)
+Fonte: MDIC, Comex Stat. Elaboração própria e reajuste pelo IPC de 2019.
+FIGURA 7. COMÉRCIO EXTERNO DE SERVIÇOS 
+NOS SETORES CRIATIVOS (2014-2018)US/dollar.lin BILHÕES
+Exportação
+Importação
+Linear (Exportação)
+Linear (Importação)
+7
+8
+9
+6
+5
+4
+3
+1
+2
+0
+2014
+2015
+2016
+2017
+2018
+Fonte: MDIC, Comex Stat. Elaboração própria e reajuste pelo IPC de 2019.
+337
+Em relação às exportações e importações totais do Brasil, os setores criati -
+vos têm aumentado sua participação em termos de serviços, mas representam uma 
+parcela muito pequena do comércio exterior de bens (Figuras 8 e 9). Em 2019, as 
+exportações de bens representaram apenas 2% do total exportado, uma queda da 
+participação relativa em comparação com o início da série 1997, quando os bens 
+criativos representaram 5% do total exportado. No mesmo período, a participação 
+relativa das importações de bens dos setores criativos também declinou, de 4% em 
+1997 para 2% em 2019. O comércio exterior de serviços, em contraste, tem uma 
+maior importância relativa. Entre 2014 e 2018, as exportações de serviços passa -
+ram de 10% para 14% do total exportado, enquanto as importações aumentaram 
+de 16% para 19% do total importado.
+FIGURA 8. RELAÇÃO SETORES CRIATIVOS/TOTAL BENS (1997-2019)
+6%
+5%
+4%
+3%
+2%
+1%
+0%
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Exportação Importação
+Fonte: MDIC, Comex Stat. Elaboração própria e reajuste pelo IPC de 2019.
+338
+FIGURA 9. RELAÇÃO SETORES CRIATIVOS/TOTAL SERVIÇOS (2014-2018)
+25%
+20%
+15%
+10%
+5%
+0%
+Exportação Importação
+2014
+2015
+2016
+2017
+2018
+Fonte: MDIC, Comex Stat. Elaboração própria e reajuste pelo IPC de 2019.
+A partir desta visão geral dos principais participantes no comércio exterior 
+dos setores criativos e da posição ocupada pelo Brasil, discutiremos a seguir o ce-
+nário mais amplo de transformações na economia global e como estes movimen-
+tos têm afetado os setores criativos de maneira geral. Esta análise inclui a questão 
+comercial, mas também engloba outros aspectos da dimensão internacional, tanto 
+econômicos (como a questão das finanças, por exemplo), quanto elementos não 
+econômicos (como a evolução tecnológica e o aumento do fluxo de ideias).
+339
+3. DIMENSÃO INTERNACIONAL 
+DAS INDÚSTRIAS CRIATIVAS: O 
+CONTEXTO DA GLOBALIZAÇÃO 
+“Globalização” é como se convencionou chamar a maior conexão do mundo desde 
+o final dos anos 1980 possibilitada, por um lado, pelo avanço tecnológico e, por 
+outro, por um conjunto de ideias que priorizam a abertura no contexto multilateral, 
+presente grosso modo desde o pós-Guerra e concretizado com o fim da Guerra 
+Fria nos anos 1990. Neste sentido, um aspecto da maior integração dos mercados 
+é o tecnológico: o avanço nos transportes significou uma redução nos custos de 
+transportar bens para serem comercializados com parceiros distantes, o avanço nas 
+comunicações permitiu estabelecer conexões em tempo real com o resto do mun-
+do, os meios de pagamento se digitalizaram permitindo que as transações sejam 
+executadas instantaneamente mesmo que as partes estejam geograficamente em 
+lados opostos do globo. Ou seja, houve uma redução geral de custos de transação 
+associada às novas tecnologias que ampliou a capacidade de as empresas condu -
+zirem negócios ao redor do mundo. Contudo, a tecnologia em si não se traduz 
+automaticamente no fenômeno da globalização. Este aspecto tecnológico precisou 
+encontrar eco no ambiente político das relações entre os Estados que prevaleceu no 
+final do século XX para consolidar seu potencial de integração global.
+A desintegração da União Soviética em 1991 simbolizou o fim de uma era 
+de polarização do mundo em dois grandes blocos. Na prática, o fim desta divisão 
+significou que a grande maioria dos países passou gradualmente a operar seguindo 
+o mesmo conjunto de regras e ideias, que em grande parte derivaram do arranjo 
+desenhado pelos Estados Unidos e seus aliados no final da Segunda Guerra Mun-
+dial. Este arranjo está consubstanciado em instituições que foram criadas naquela 
+época e que ainda hoje desempenham um papel importante no ordenamento in -
+ternacional, como a Organização das Nações Unidas (ONU) (pilar político), o 
+Fundo Monetário Internacional (FMI) e o Banco Mundial (os pilares econômico-
+-financeiros criados da Conferência de Bretton Woods), e o Acordo Geral de Tari-
+fas e Comércio (GATT, na sigla em inglês), que hoje é a Organização Mundial do 
+340
+Comércio (OMC) (pilar comercial). Estas instituições são multilaterais por natu -
+reza: elas reúnem os países para criar as regras que deverão ser seguidas por todos. 
+Neste sentido, a integração de uma série de países antes excluídos da ordem 
+multilateral a partir dos anos 1990 é um ângulo possível para entendermos o com-
+plexo fenômeno da globalização. Dos atuais 189 membros do FMI, por exemplo, 
+41 ingressaram depois de 1990.2 No caso do comércio, as negociações evoluíram 
+da primeira rodada do GATT em Genebra em 1947 com apenas 23 países discu-
+tindo essencialmente a redução de tarifas, para reunir 123 países durante quase 
+uma década (1986-1994) na rodada do Uruguai e discutir não apenas a redução 
+de tarifas, mas também a liberalização de novos setores econômicos, o reforço de 
+medidas antidumping, subsídios, salvaguardas e a própria criação da OMC. A Chi-
+na, hoje o maior exportador do mundo, só conseguiu ingressar na OMC em 2001. 
+Quinze anos de negociações foram necessários para que a China fosse considerada 
+pelos membros da OMC como um país que opera dentro das regras multilaterais, 
+aberto o suficiente para a concorrência internacional. O caso da China na OMC 
+ajuda a ilustrar as dificuldades políticas de se construir uma ordem multilateral, e a 
+reforçar que a globalização não é uma decorrência automática do avanço tecnoló-
+gico nem uma “evolução natural” da polarização da Guerra Fria. 
+A globalização foi acompanhada também por uma difusão de acordos de 
+integração econômica regionais entre determinados grupos de países. Observar 
+estes processos de aproximação regional permite entender alguns aspectos impor-
+tantes, e por vezes contraditórios, da globalização. Por exemplo, quase que ime -
+diatamente após a dissolução da União Soviética, um grupo das antigas repúblicas 
+soviéticas se reagrupou sob a Comunidade dos Estados Independentes (CIS, na 
+sigla em inglês). Tal qual o Mercosul estabelecido em 1991, ao longo dos anos 
+1990, outros arranjos econômicos ao redor do mundo também foram criados ou 
+fortalecidos com o objetivo de, em maior ou menor grau, criar um ambiente livre 
+de movimentação de bens, serviços, empresas e pessoas. Ou seja, a ordem global 
+multilateral que se conforma com o fim da Guerra Fria, liderada por instituições 
+globais como a ONU, o FMI, o Banco Mundial e a OMC, contém também um 
+2 V eja a lista completa em https://www.imf.org/external/np/sec/memdir/memdate.htm. Acesso em 11 de agosto de 2020.
+341
+componente regional, que ao longo dos anos tem servido tanto para se contrapor 
+quanto para reforçar os princípios de uma ordem liberal. 
+O acordo mais ambicioso neste sentido é o da União Europeia, que atual -
+mente reúne 27 países, 16 dos quais ingressaram depois de 1995. 3 A origem da 
+União Europeia data do acordo inicial entre Bélgica, Países Baixos e Luxemburgo 
+em 1943, que evoluiu para uma cooperação econômica com Alemanha, França 
+e Itália em 1951, e que vem se expandindo em número de membros e de áreas 
+de cooperação desde então. Mesmo que a aproximação política e econômica dos 
+países europeus anteceda em muito a era da globalização, ela ocorreu baseada 
+nos mesmos princípios liberais de não discriminação, ainda que restritos para a 
+área do bloco. Ou seja, os valores da União Europeia são em certo sentido os 
+valores de uma ordem liberal, pois a União Europeia busca eliminar as barreiras 
+internas entre os membros do bloco e também as barreiras externas, ainda que 
+em um ritmo mais lento em relação à sua dinâmica interna. Por um lado, é claro 
+que esta diferenciação entre membros e não membros pode ser percebida como 
+incompatível com a ideia de uma ordem multilateral, na qual todos estão sujeitos 
+às mesmas regras. Por outro lado, a União Europeia e outros blocos econômicos 
+podem ser entendidos como uma maneira de instrumentalizar as negociações in-
+ternacionais da ordem multilateral, que se tornaram cada vez mais complexas com 
+o aumento do número de participantes e temas de interesse. Neste sentido, a saída 
+do Reino Unido da União Europeia em janeiro de 2020 vai no sentido contrário 
+do multilateralismo aberto que em princípio caracteriza aquilo que chamamos de 
+globalização.
+Os eventos políticos recentes na direção de nacionalismos, populismos e cres-
+centes fechamentos das economias em certas partes do globo servem, mais uma 
+vez, para percebermos que a globalização enquanto ordem multilateral não é um 
+corolário da tecnologia, nem a última maneira de os Estados organizarem suas rela-
+ções econômicas. Esta questão tem um elemento fundamental na ascensão da China 
+e na reação dos Estados Unidos, que têm adotado políticas fortemente nacionalistas 
+3 V eja a lista completa em https://europa.eu/european-union/about-eu/countries_en#tab-0-1. Acesso em 11 de 
+agosto de 2020.
+342
+e que de alguma forma desmontam a arquitetura criada pelos próprios Estados Uni-
+dos no pós-Guerra. Algumas mudanças no sentido de um maior protecionismo já 
+estão em curso, como no caso da substituição Tratado de Livre Comércio da Amé-
+rica do Norte (NAFTA, na sigla em inglês) pelo Acordo entre os Estados Unidos, 
+México e Canadá (USMCA, na sigla em inglês) em julho de 2020. Além disso, tanto 
+os Estados Unidos quanto a China também têm imposto um crescente número 
+de barreiras ao comércio, as quais são constantemente denunciadas pelos relatórios 
+da União Europeia e outros parceiros comerciais. Existem também aspectos mais 
+subjetivos por trás da guerra comercial entre os dois países, notadamente o papel 
+desempenhado pela taxa de câmbio na competitividade das exportações.
+Estas são algumas questões que se apresentam como pano de fundo para 
+entendermos as oportunidades e os desafios enfrentados pelos setores criativos 
+no ambiente internacional. De um lado, a indústria criativa pode se beneficiar do 
+cenário de rápidas transformações tecnológicas, que tem servido como plataforma 
+para divulgação digital do trabalho criativo de diversos artistas. A cantora brasi -
+leira Anitta, por exemplo, utiliza largamente as mídias digitais para promover seu 
+trabalho, angariando fãs no Brasil e no exterior de uma maneira que provavel -
+mente não seria possível sem aplicativos como Instagram, YouTube e Spotify. No 
+início de 2020, Anitta acumulava 47 milhões de seguidores no Instagram (sendo 
+atualmente a famosa mais seguida no Instagram brasileiro), mais de 4,5 bilhões de 
+visualizações em seus vídeos no YouTube e mais de 434 milhões de reproduções 
+de sua música mais ouvida no Spotify, Downtown. 4 A cantora construiu parce -
+rias musicais com diversos artistas internacionalmente famosos, passou a produzir 
+conteúdo em inglês e espanhol, e conquistou seu espaço fora do Brasil. Atualmen-
+te, seu cachê é pelo menos R$250 mil e uma campanha publicitária com ela custa 
+em torno de R$5 milhões. Em 2019, Anitta chegou a acumular, simultaneamente, 
+18 contratos de publicidade. Outra trajetória de destaque no cenário musical a 
+nível mundial é o DJ Alok, primeiro brasileiro a ter mais de um bilhão de repro -
+4 V eja mais em https://veja.abril.com.br/entretenimento/as-estrategias-de-anitta-para-conquistar-a-america/. Aces-
+so em 11 de agosto de 2020.
+343
+duções na plataforma Spotify. 5 Além disso, é o único DJ brasileiro a integrar a 
+lista de Billboard dos 100 melhores DJs do mundo. Seu sucesso “Hear Me Now”, 
+parceria com Bruno e Zeeba, atingiu o primeiro lugar no Spotify em diversos paí-
+ses e integrou o Top 20 Mundial na plataforma. Além disso, o artista conquistou 
+importantes mercados mundiais, expandindo seu sucesso para os competitivos 
+mercados da China, Estados Unidos e Europa. 
+De outro lado, o avanço tecnológico tem alterado a indústria como um todo, 
+em um fenômeno que se convencionou chamar de Quarta Revolução Industrial, 
+ou Indústria 4.0, e que vai muito além da esfera das indústrias criativas. Algumas 
+áreas das indústrias criativas, sobretudo aquelas que envolvem algum conteúdo di-
+gital, estão no centro desta transformação que envolve sistemas ciber-físicos (CPS, 
+na sigla em inglês), a internet das coisas (IoT, na sigla em inglês) e computação em 
+nuvem. De acordo com estudo comissionado pela Confederação Internacional das 
+Sociedades de Autores e Compositores e (CISAC, na sigla em inglês) e produzido 
+pela consultoria Ernst & Young (EY 2015, p. 20), as indústrias culturais e criativas 
+geraram cerca de US$200 bilhões para a economia digital em 2013. Destes, US$85 
+bilhões foram em anúncios online para as agências de publicidade; US$66 bilhões 
+em vendas B2C (“Business to Consumer” ou “Empresa para Consumidor”) de 
+bens digitais como eBooks, música, vídeo e jogos; US$26,3 bilhões em vendas de 
+bens culturais e ingressos de eventos; e US$21,7 bilhões corresponderam a receitas 
+em publicidade para mídia online e sites de streaming grátis como o YouTube (EY 
+2015, p. 20). 
+Estas transformações têm exigido uma adaptação rápida e generalizada dos 
+participantes, em um processo que deve gerar ganhadores e perdedores. O setor da 
+música é emblemático neste sentido, tendo experimentado um vigoroso processo 
+de reestruturação de sua cadeia produtiva desde o início dos anos 2000, quando a 
+disseminação do acesso à internet reduziu bruscamente as vendas de CDs e, con-
+sequentemente, a receita das gravadoras.6 A lógica tradicional da indústria da músi-
+5 V eja mais em http://aloklive.com.br/. Acesso em 11 de agosto de 2020.
+6 Este parágrafo, incluindo os dados citados, tem como base a seção “Os Desafios da Era Digital: A Aproximação entre 
+Artistas e Consumidores e a Reinvenção das Gravadoras” em Peruffo, Silva, Batistella e Alonso (2020, pp. 22-36).
+344
+ca de produção, voltada a produtos físicos, tem sido radicalmente perturbada pela 
+era digital, que oferece maiores desafios para evitar o compartilhamento ilegal dos 
+produtos criados bem como menores barreiras a novos entrantes ao proporcionar 
+um canal direto entre artistas e consumidores de música. Estas transformações 
+resultaram em um crescimento negativo do setor da música entre 1999 e 2014. 
+A tendência de queda foi revertida a partir de 2015, no entanto, especialmente 
+em função do aumento das receitas com streaming, e cada vez mais também em 
+função das receitas advindas dos “direitos de apresentação”. Isto sugere que as gra-
+vadoras têm reinventado seu modelo de negócios para permanecerem relevantes 
+na era digital, focando nos elos de distribuição, comercialização e de contenção da 
+pirataria digital. É possível que outros setores também enfrentem a destruição de 
+antigos modelos de negócios, sem que os participantes em si sejam substituídos, 
+como parece ser o caso das gravadoras no mercado da música, ainda que transfor-
+mações mais radicais não devam ser descartadas a priori.
+Na medida em que a concorrência entre os diversos participantes econômi-
+cos ocorre a nível global em mercados cada vez mais conectados e que se transfor-
+mam rapidamente pelo avanço da tecnologia, o domínio das ferramentas digitais 
+parece ser um elemento importante para determinar quem ganha e quem perde 
+com o rearranjo das cadeias produtivas globais. Não por acaso, o acesso à tecno-
+logia da informação, à internet, já pode ser considerado a “quinta utilidade”, junto 
+com o acesso à luz elétrica, água, telefone e gás. Em outras palavras, existe um 
+elemento relacionado ao desenvolvimento econômico dos países que influencia a 
+maneira como a sua indústria (não apenas a criativa) se integra nas Cadeias Globais 
+de Valor (CGV). Países desenvolvidos, com um maior nível de educação e maior 
+capacidade de financiamento e investimento em pesquisa e desenvolvimento, con-
+seguem se adaptar e se reposicionar mais rapidamente do que países mais pobres, 
+que não apenas saem em desvantagem na cadeia produtiva global como também 
+operam com uma maior escassez de recursos (humanos e financeiros). Esta rela-
+ção entre a competitividade dos países no comércio internacional e seu nível de 
+desenvolvimento econômico é analisado a seguir a partir da experiência dos países 
+em desenvolvimento nas CGV.
+345
+4. COMÉRCIO INTERNACIONAL E 
+DESENVOLVIMENTO ECONÔMICO: 
+OS PAÍSES EM DESENVOLVIMENTO 
+NAS CADEIAS GLOBAIS DE VALOR
+A integração aos mercados globais tem uma influência importante sobre o desem-
+penho econômico dos países. Participar do mercado internacional, por um lado, 
+significa ter acesso a um maior número bens, conhecimento e avanços tecnológicos 
+para além daquilo que é produzido domesticamente, tanto em termos de produtos 
+finais quanto de insumos. Esta participação também abre espaço para as empresas 
+domésticas conquistarem novos mercados, permitindo que elas aumentem a escala 
+da sua produção, potencialmente melhorando sua eficiência e conduzindo a um 
+maior crescimento econômico. Por outro lado, estas vantagens teóricas da integra-
+ção comercial não se concretizam automaticamente. Mais do que isso, na medida 
+em que ocorre uma internacionalização da produção com cada etapa do processo 
+produtivo ocorrendo uma região diferente, existe um desafio para os países se in-
+serirem nas Cadeias Globais de Valor (CGV) como uma forma de promover seu 
+desenvolvimento econômico.
+O conceito de CGV diz respeito à fragmentação das diferentes etapas do ci-
+clo produtivo de bens e serviços ao redor do globo. A produção de um iPhone, por 
+exemplo, é feita separadamente em vários países. A marca e o design são feitos nos 
+Estados Unidos, enquanto as peças e componentes são produzidos em fábricas na 
+China, Alemanha, Japão, Coreia do Sul, França, entre outros países. Cada etapa do 
+processo produtivo agrega determinado valor para o produto final. Isto significa 
+que a posição que o país ocupa na CGV importa para a geração doméstica de renda 
+e crescimento econômico. A “curva sorridente” de Stan Shih é frequentemente 
+utilizada para ilustrar o valor agregado associado com as diferentes etapas do pro-
+cesso produtivo (Figura 10). Como a figura mostra, as etapas iniciais que envol -
+vem pesquisa e desenvolvimento (P&D), a imagem da marca (branding) e design, 
+bem como as etapas finais de distribuição, marketing e venda agregam valores 
+mais elevados para os bens do que a produção do bem em si. 
+346
+FIGURA 10. A “CURVA SORRIDENTE” DE STAN SHIH
+Alto
+Baixo
+Valor adicionado
+V enda/pós-venda
+Marketing
+DistribuiçãoDesign
+Branding
+Conceito/P&D
+Processo 
+produtivo
+Cadeia Produtiva
+Fonte: Elaboração própria a partir de Shih (1992).
+Na medida em que as empresas executam cada vez mais apenas uma etapa 
+da cadeia produtiva, que é dividida em uma série de atividades globais, as expor -
+tações dos países refletem a posição que suas empresas ocupam nas CGV. Para 
+além das etapas que ocorrem antes e depois do processo produtivo, o processo 
+produtivo em si também possui uma cadeia de valor. Nesta subcadeia de valor, 
+as atividades iniciais de extração de matéria-prima e processamento envolvendo 
+insumos de baixa tecnologia e mão-de-obra intensiva agregam menos valor do que 
+as etapas tecnologicamente mais sofisticadas e intensivas em capital. Vale dizer, 
+um país que participa das CGV como exportador de matérias-primas, insumos de 
+baixa tecnologia e intensivos em mão-de-obra tem ganhos limitados da integração 
+comercial ao capturar uma parcela muito pequena do valor gerado. 
+Isto significa que a integração nas CGV não se traduz em ganhos automáti-
+cos em termos de crescimento e desenvolvimento econômico. Um exemplo usual 
+é a relação entre o México e os Estados Unidos, na qual as empresas mexicanas 
+operam basicamente como maquiladoras no processo produtivo liderado pelas 
+empresas americanas. Esta divisão do processo produtivo em que grandes em -
+presas, normalmente sediadas em países desenvolvidos, ficam responsáveis pelas 
+etapas de maior valor agregado de P&D, desenvolvimento da marca, design, dis-
+tribuição, marketing, venda e serviços pós-venda, enquanto terceirizam a manu -
+fatura para os países em desenvolvimento se repete em outras partes do globo 
+347
+também. Isto não quer dizer que os países em desenvolvimento não possam se 
+beneficiar da integração comercial global ou romper com a dinâmica na qual ficam 
+responsáveis pelas etapas de menor valor agregado da cadeia produtiva. Porém, 
+serve para problematizar a relação entre liberalização comercial e desenvolvimen-
+to econômico, especialmente para os países em desenvolvimento.
+No caso do Brasil, o setor agropecuário e a indústria extrativa (atividades 
+com baixa intensidade tecnológica e valor agregado) representam uma parcela 
+relevante da pauta de exportações, enquanto a pauta de importações é predomi -
+nantemente composta por produtos da indústria de transformação (com maior 
+intensidade tecnológica e valor agregado) (Figuras 13 e 14). Em 2019, o setor agro-
+pecuário respondia por 19% das exportações, a indústria extrativa por 22% e a 
+indústria de transformação por 58%. Em contraste, a indústria de transformações 
+correspondia por 91% da pauta de importações, e os setores agropecuário e da 
+indústria extrativa por apenas 2,4% e 6,3% respectivamente.
+FIGURA 11. COMPOSIÇÃO DAS EXPORTAÇÕES (2019)
+Agropecuária 
+19%
+Outros Produtos 
+1%
+Indústria 
+Extrativa 
+22%
+Indústria de 
+T ransformação 
+58%
+Fonte: MDIC, Comex Stat. Elaboração própria.
+348
+FIGURA 12. COMPOSIÇÃO DAS IMPORTAÇÕES (2019)
+Indústria de 
+T ransformação, 
+91.0%
+Outros 
+Produtos 
+0,3%
+Agropecuária 
+2,4%Indústria 
+Extrativa 
+6,3%
+Indústria de 
+T ransformação 
+91%
+Fonte: MDIC, Comex Stat. Elaboração própria.
+Em uma perspectiva histórica, percebemos também que a participação dos 
+setores com menor intensidade tecnológica e valor agregado tem aumentado sua 
+participação nas exportações enquanto os setores com maior intensidade tecnoló-
+gica e valor agregado tem aumentado sua participação nas importações brasileiras 
+desde o final dos anos 1990 (Figuras 13 e 14). No caso da indústria de transfor -
+mação, as exportações deste setor caíram de 80,9% em 1997 para 58% em 2019, 
+enquanto as importações aumentaram de 87,3% para 91% no mesmo período. 
+Com base nestes dados, é possível dizer que até o momento o Brasil não conseguiu 
+se inserir estrategicamente nas CGV, ocupando uma posição que pode ser classifi-
+cada como periférica nas relações de comércio exterior. 
+349
+FIGURA 13. COMPOSIÇÃO DAS EXPORTAÇÕES (1997-2019)
+1997
+100%
+80%
+60%
+40%
+20%
+0%
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Indústria de T ransformação
+Indústria Extrativa
+Agropecuária
+Outros Produtos
+Fonte: MDIC, Comex Stat. Elaboração própria.
+FIGURA 14. COMPOSIÇÃO DAS IMPORTAÇÕES (1997-2019)
+1997
+100%
+80%
+60%
+40%
+20%
+0%
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Indústria de T ransformação
+Indústria Extrativa
+Agropecuária
+Outros Produtos
+Fonte: MDIC, Comex Stat. Elaboração própria.
+350
+A experiência de diversos países em desenvolvimento sugere que não exis-
+te uma fórmula única para se posicionar nos andares mais altos das CGV. Ao 
+mesmo tempo, alguns elementos parecem ser determinantes para os países em 
+desenvolvimento utilizarem sua integração no comércio internacional como parte 
+de sua estratégia de desenvolvimento. Países que têm sido bem-sucedidos neste 
+sentido usualmente criaram condições mínimas em termos de oferta de educação 
+e infraestrutura adequada, por exemplo. Isto normalmente envolveu também al -
+gum grau de políticas públicas desenhadas para desenvolver a capacidade nacional 
+tecnológica como um todo, aumentando a capacidade das empresas destes países 
+se posicionarem estrategicamente no cenário global. Por exemplo, países que estão 
+na vanguarda do desenvolvimento de hardware (peças e equipamentos dos com-
+putadores, tais como processadores), como o Japão, a Coreia do Sul e, cada vez 
+mais, a China, criaram as condições para empresas como Konami, Square Enix, 
+Capcom e Sony terem uma enorme vantagem competitiva para se posicionar na 
+indústria de jogos eletrônicos. Em 2014, as empresas do eixo Ásia-Pacífico acumu-
+laram receitas de US$47,1 bilhões (47% do total do mercado global) e contribuíram 
+com 82% do crescimento do mercado mundial de jogos (EY 2015, p. 33).
+Tendo em vista que muitas das indústrias culturais e criativas demandam 
+certa sofisticação tecnológica e capital humano de alta qualidade, a maior parte 
+da renda e do emprego gerado nos setores criativos não surpreendentemente está 
+concentrada em países e regiões mais desenvolvidas. De acordo com dados da EY 
+(2015, p. 16-17), em 2013 a Ásia e o Pacífico respondiam por 33% da receita e 43% 
+dos empregos gerados pelas indústrias culturais e criativas (ver Figuras 15 e 16). 
+A Europa e a América do Norte respondiam, respectivamente, por 31% e 28% da 
+receita e por 26% e 16% dos empregos gerados. América Latina e Caribe respon-
+diam por apenas 5% da renda e 7% do emprego, enquanto África e Oriente Médio 
+por 3% da renda e 8% do emprego.
+351
+FIGURA 15. RECEITAS DAS INDÚSTRIAS CUL TURAIS E 
+CRIATIVAS POR REGIÃO (US$ BILHÕES) (2013)
+América Latina e 
+Caribe 
+5%
+ ( US $ 124 bilhões)
+África e Oriente 
+Médio
+3%
+ ( US $ 58 bilhões)
+América do Norte 
+28%
+ ( US $ 620 bilhões)
+Europa, 31%
+ ( US $ 709 bilhões)
+Asia e Pacíﬁco 
+33%
+ ( US $ 743 bilhões)
+Fonte: EY (2015, p. 17), elaboração própria.
+FIGURA 16. EMPREGOS NAS INDÚSTRIAS CUL TURAIS E CRIATIVAS 
+POR REGIÃO (MILHÕES DE EMPREGOS) (2013)
+Ásia e Pacíﬁco 
+43%
+ ( US $ 12,7 milhões)
+Europa 26%
+ ( US $ 7,7 milhões)
+América do 
+Norte 16%
+ ( US $ 4,7 milhões)
+África e Oriente Médio
+8%
+ ( US $ 2,4 milhões)
+América Latina 
+e Caribe 
+7%
+ ( US $ 1,9 milhões)
+Fonte: EY (2015, p. 17), elaboração própria.
+A escala e a complexidade das CGV têm aumentado rapidamente, represen-
+tando simultaneamente uma oportunidade e um desafio para a inserção interna -
+cional dos países em desenvolvimento. Se, por um lado, os países em desenvol -
+vimento se beneficiam da possibilidade de ingressar em determinados mercados 
+enquanto fornecedores de componentes e serviços, aumentando as oportunidades 
+para suas empresas sem ter que construir toda a cadeia de valor, por outro, é pos-
+sível que alguns países nunca consigam atingir os andares mais altos das CGV. 
+Isto significa que o aprofundamento do processo de globalização econômica pode 
+representar um aumento das desigualdades de renda ao redor do mundo.
+353
+5. PERSPECTIVAS PARA AS 
+INDÚSTRIAS CULTURAIS 
+E CRIATIVAS NO ÂMBITO 
+INTERNACIONAL: TENDÊNCIAS 
+GLOBAIS E FONTES DE DADOS
+Os setores culturais e criativos são “jovens, talentosos e empreendedores”, confor-
+me destaca o relatório da EY (2015, 18). As atividades criativas contribuem signifi-
+cativamente para o emprego jovem: na Europa, por exemplo, os setores culturais e 
+criativos empregam mais pessoas jovens (15-29 anos) do que em qualquer outro se-
+tor (19,1% nas áreas criativas versus 18,6% no resto da economia). As carreiras nesta 
+indústria também tendem a ser inclusivas, favorecendo a participação de mulheres 
+em comparação com indústrias mais tradicionais. As indústrias criativas também 
+são caracterizadas por um elevado nível de escolaridade e por uma alta produtivi-
+dade. No Brasil, em 2010 os trabalhadores destas indústrias tinham tido 17% mais 
+anos de educação do que a média da força de trabalho nacional. Dados para os se-
+tores de cinema e televisão na China e na Coreia do Sul também indicam que estes 
+setores criativos contribuem mais para o PIB do que a média da economia: 78% 
+a mais no caso da China e 100% no caso da Coreia do Sul. Além disso, a criação 
+é impulsionada por pequenas empresas ou indivíduos, sendo os setores criativos 
+caracterizados portanto por um grande elemento empreendedor. No Canadá, mais 
+da metade dos desenvolvedores de jogos se identificam como operadores indepen-
+dentes, enquanto nos Estados Unidos os artistas têm 3,5 vezes mais chances de 
+trabalhar por conta própria em comparação com a média nacional (todos os dados 
+deste parágrafo são do relatório da EY, 2015). 
+Ao mesmo tempo, os mercados das economias avançadas permanecem sen-
+do os mais atraentes para o investimento das indústrias culturais e criativas, com 
+a exceção de alguns poucos países em desenvolvimento, como China e Índia, que 
+têm conseguido se posicionar mais estrategicamente, especialmente em função 
+de seu forte crescimento e enorme potencial de longo prazo (EY 2015). Os de -
+safios dos países emergentes para ingressar nos andares altos das CGV culturais 
+354
+e criativas parecem estar relacionados com algumas questões estruturais que os 
+caracterizam, como o menor nível de desenvolvimento, educação e infraestrutura, 
+o que inclui cada vez mais a existência de um déficit digital. O talento é a força 
+vital das indústrias culturais e criativas, mas seu florescimento depende em parte 
+da existência de uma rede de suporte, que nem sempre é economicamente atrativa 
+para o setor privado. Ao mesmo tempo, a “classe criativa” – designers, artistas e 
+intelectuais altamente qualificados – contribui para a inovação e o desenvolvi -
+mento urbano, estruturando polos criativos cujos benefícios econômicos e não 
+econômicos transbordam para o restante da sociedade.
+Neste sentido, parece haver um papel importante do setor público em par-
+ceria com o setor privado em criar o ambiente para que o potencial criativo de 
+sua sociedade aconteça. Isto provavelmente inclui questões regulatórias, como por 
+exemplo garantir que os autores sejam compensados de forma justa pelo uso de 
+suas obras e possam continuar criando, crescendo e gerando empregos. Um outro 
+crescente desafio para os formuladores de políticas está relacionado à monetização 
+dos conteúdos digitais, garantindo que os intermediários digitais não extraiam 
+uma parcela muito elevada do valor gerado pelo conteúdo cultural e que a Internet 
+funcione como um mercado minimamente justo para os criadores. Estes e outros 
+pontos de tensão estão sendo compartilhados pelos formuladores de políticas ao 
+redor do mundo à medida que a indústria cultural e criativa evolui. Neste sentido, 
+a troca de experiências a nível internacional bem como o estabelecimento de mé-
+tricas compartilhadas pode contribuir para o desenho de melhores práticas que 
+incentivem o desenvolvimento das indústrias culturais e criativas.
+Este esforço conjunto depende em parte da existência de dados que permi-
+tam avaliar a economia cultural e criativa e eventuais políticas públicas desenhadas 
+para o setor. Este é um desafio, já que a disponibilidade de dados que permitam a 
+avaliação do desempenho dos setores criativos ao redor do globo ainda é limitada. 
+Mesmo assim, já existem algumas referências importantes que compilam dados 
+e sistematizam informações das indústrias culturais e criativas. A UNCTAD é 
+uma das principais referências para comparações internacionais.7 Ela possui uma 
+7 Acesso pelo endereço https://unctadstat.unctad.org/EM/.
+355
+metodologia própria de classificação e disponibiliza diversas séries históricas, a 
+maioria a partir dos anos 2000. O Departamento para assuntos digitais, de cultu-
+ra, mídias e esportes do Reino Unido (DCMS, na sigla em inglês) também realiza 
+importantes estudos e levantamento de dados na área de economia criativa.8 Para 
+dados gerais do comércio internacional, algumas referências de destaque são o BIS 
+stats9, que elabora indicadores econômicos relevantes para análises sobre o comér-
+cio internacional, e o Banco Mundial10, que oferece indicadores e séries históricas 
+para assuntos econômicos em geral.
+Para o Brasil, a plataforma Comex Stat do governo federal oferece dados e 
+estatísticas sobre o comércio exterior.11 É possível filtrar a pesquisa por atividade 
+econômica para obter os dados referentes às indústrias criativas (veja novamente 
+os Anexos 1 e 2 para as classificações NCM e NBS consideradas nos dados apre-
+sentados aqui). O Atlas da Economia da Cultura no Brasil também oferece um 
+vasto conjunto de informações relacionadas ao panorama econômico e produtivo 
+da cultura no Brasil, inclusive dados sobre o comércio internacional de bens e 
+serviços criativos.12 
+8 Acesso pelo endereço https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport
+9 Acesso pelo endereço https://stats.bis.org/
+10 Acesso pelo endereço https://data.worldbank.org/
+11 Acesso pelo endereço http://comexstat.mdic.gov.br/pt/geral
+12 Acesso pelo endereço http://www.ufrgs.br/obec/atlas/teste_design_novo/
+
+357
+REFERÊNCIAS
+Bank for International Settlements. BIS statistics. Disponível em: https://stats.bis.org/. Acesso em: 
+21 maio 2020.
+Ernst & Young. Cultural times: The first global map of cultural and creative industries. Decembro 
+2015. Disponível em: https://en.unesco.org/creativity/files/culturaltimesthefirstglobalmapofcultur-
+alandcreativeindustriespdf. Acesso em 21 maio 2020.
+Ministério da Indústria, Comércio Exterior e Serviços.  Comex Stat – Exportação e Importação 
+Geral. Disponível em: http://comexstat.mdic.gov.br/pt/geral. Acesso em: 21 maio 2020.
+Shih, S. Millenium transformation: change management for new Acer. Aspire Academy Séries. 1992.
+UNCTAD.  UNCTADstat. Disponível em: https://unctadstat.unctad.org/EN/. Acesso em: 21 
+maio 2020.
+THE WORLD BANK.  Trade | Data. Disponível em: https://data.worldbank.org/topic/trade. 
+Acesso em: 21 maio 2020.
+358
+ANEXOS 
+A1. COMÉRCIO EXTERIOR DE BENS DAS ATIVIDADES 
+CRIATIVAS (CLASSIFICAÇÃO NCM) 
+Seção ou Código NCM Setor Criativo
+Seção XI – Materiais têxteis e suas obras
+Moda Moda
+Seção IX – NCM 44.07 Madeira, carvão vegetal e obras de madeira; cortiça e suas obras; 
+obras de espartaria ou de cestaria (44.07 em diante, 45.03 em diante, 46.02 em diante)
+Atividades 
+artesanaisSeção XIV - Pérolas naturais ou cultivadas, pedras preciosas ou semipreciosas e 
+semelhantes, metais preciosos, metais folheados ou chapeados de metais preciosos 
+(plaquê), e suas obras; bijuterias; moedas (71.01 a 71.05 e 71.13 em diante)
+Fonte: Observatório Itaú Cultural. 
+Disponível em https://www.itaucultural.org.br/observatorio/paineldedados/pesquisa.
+359
+A2.  COMÉRCIO EXTERIOR DE SERVIÇOS DAS ATIVIDADES 
+CRIATIVAS (CLASSIFICAÇÃO NBS)
+Código NBS 1.1 Setor Criativo
+1.2101 (Serviços de reprodução, impressão e editoração)
+Editorial
+1.1409.40.00 (Serviços de tradução e de intérpretes)
+12.501 (Serviços de produção audiovisual, de apoio e relacionados)
+Cinema, 
+fotografia, 
+rádio e TV
+11.706 (Serviços de difusão, programação e distribuição de programas de rádio e televisão)
+11.408 (Serviços fotográficos, videográficos e de processamento de fotografias)
+11.5 (Serviços de tecnologia da informação)
+Tecnologia da 
+Informação11.703 (Serviços de oferta de conteúdo de acesso imediato (on-line)
+11.704 (Serviços de agências de notícias)
+11.402 (Serviços de arquitetura, de planejamento urbano e de áreas rurais e de paisagismo) Arquitetura
+11.406 (Serviços de propaganda e de alocação de espaço ou tempo para propaganda) Publicidade 
+e serviços 
+empresariais1.1805.90.20 (Serviços de agências de modelos)
+1.1409.1 (Serviços especializados de projetos (design) Design
+12.502 (Serviços de apresentação e promoção de atuações 
+artísticas e outros serviços de entretenimento ao vivo) Artes cênicas e 
+artes visuais
+12.503 (Serviços de atuação artística e outros serviços artísticos)
+11.705 (Serviços de biblioteca e arquivo)
+Museus e 
+patrimônio
+1.2504.1 (Serviços de museus e de preservação de locais e construções históricas)
+11.103 (Licenciamento de direitos de autor e de direitos conexos)
+Direitos autorais
+1.1104 (Cessão temporária de direitos de autor e direitos conexos)
+1.1105.30.00 (Licenciamento de direitos sobre desenho industrial)
+1.2701 (Cessão de direitos de autor e direitos conexos)
+1.2702.30.00 (Cessão de direitos sobre desenho industrial)
+ 
+Fonte: Observatório Itaú Cultural.  
+Disponível em https://www.itaucultural.org.br/observatorio/paineldedados/pesquisa

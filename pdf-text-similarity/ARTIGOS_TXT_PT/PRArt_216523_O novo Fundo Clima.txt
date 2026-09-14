@@ -1,0 +1,1753 @@
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+* Economistas do BNDES.  Este artigo é de exclusiva responsabilidade dos autores, não 
+refletindo, necessariamente, a opinião do BNDES. Os autores agradecem a leitura e a 
+revisão de Guilherme Maia, naturalmente isentando-o de eventuais erros e omissões 
+remanescentes no texto.
+Economists at the BNDES. This article is the sole responsibility of the authors and does not 
+necessarily reflect the opinion of the BNDES. The authors would like to thank Guilherme 
+Maia for reading and reviewing the text, exempting him from any errors and omissions that 
+may remain.
+O novo Fundo Clima: potencializando 
+o papel do BNDES no combate 
+à emergência climática
+The new Climate Fund: amplifying  
+the BNDES’s role in combating the 
+climate emergency
+Gabriel Marino Daudt
+Luiz Daniel Willcox de Souza
+Felipe Silveira Marques*
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+160
+Resumo
+A partir da constatação de que o mundo enfrenta uma emergência cli-
+mática, este artigo busca evidenciar as crescentes necessidades de finan-
+ciamento da transição ecológica. Dada a magnitude do desafio, ganha 
+relevância o papel do financiamento público, em especial por meio dos 
+bancos de desenvolvimento. No contexto das políticas públicas destina-
+das a ampliar a resiliência climática no Brasil, destaca-se o Fundo Nacio-
+nal sobre Mudança do Clima, mais conhecido como Fundo Clima. Com 
+base na rápida execução dos recursos disponíveis para o Fundo Clima, 
+fica clara sua crescente importância e a urgência de se garantir fontes 
+perenes e estáveis de recursos.
+Palavras-chave: BNDES; Fundo Nacional sobre Mudança do Clima; desenvolvimen-
+to sustentável.
+Abstract
+The global community is currently confronting a climate emergency, necessitating a 
+comprehensive and sustained response. This article highlights the growing financing needs 
+associated with the ecological transition, with particular emphasis on the critical role of 
+public financing mechanisms, notably through development banks. Given the magnitude of the 
+challenge, the role of public financing becomes increasingly relevant, especially through these 
+institutions. Within the framework of public policy initiatives aimed at strengthening climate 
+resilience in Brazil, the National Fund on Climate Change (commonly referred to as the Climate 
+Fund) stands out as a key institutional instrument. Drawing on its recent performance, this 
+paper underscores the Climate Fund’s growing strategic relevance and points out the pressing 
+need to ensure long-term stable funding.
+Keywords: BNDES; Climate Fund; sustainable development.
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+161
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+“Why should I care about future generations – what have they ever done 
+for me?”, Groucho Marx
+Introdução
+A ciência demonstra que o mundo hoje se encontra em momento 
+crítico de emergência climática.
+O relatório do Painel Intergovernamental sobre Mudanças Climáticas 
+(IPCC, 2021),1 vinculado à Organização das Nações Unidas (ONU), 
+reacendeu um alerta quanto ao prognóstico desastroso decorrente 
+da ação humana no período pós-industrialização. Aliás, uma 
+de suas principais mensagens é exatamente afirmar que a crise é 
+inequivocamente um resultado direto da influência humana, que 
+acelerou o aquecimento global a uma taxa sem precedentes nos 
+últimos dois mil anos. Em editorial publicado à época, o jornal 
+britânico The Guardian resumiu a questão de maneira contundente: 
+“guilty as hell” (Carrington, 2021). 
+No Relatório Síntese sobre mudança climática publicado em 2023 
+(IPCC, 2023), o IPCC confirma que a temperatura média mundial 
+já subiu 1,1oC acima dos níveis pré-industriais. Certamente, algum 
+aquecimento adicional é inevitável.
+A organização projeta que atingiremos os 1,5 oC nas próximas dé-
+cadas. A boa notícia é que ainda é possível limitar o aumento da 
+temperatura a algo próximo desse patamar, porém, para tal, os paí-
+ses deverão reduzir substancialmente as suas atuais emissões de ga-
+ses de efeito estufa (GEE). Trata-se de um enorme desafio para a 
+1  Intergovernmental Panel on Climate Change (IPCC).
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+162
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+sociedade, que acarreta a necessidade de um novo padrão de desen-
+volvimento e ressalta a urgência de ações coletivas e transformado-
+ras que garantam um futuro sustentável.
+Em janeiro de 2025, o observatório europeu Copernicus confir-
+mou que o ano de 2024 foi o mais quente da história, superando 
+1,5oC pela primeira vez (Copernicus, 2025). Patamares superiores 
+terão como consequência fortes impactos nas mais diversas esfe-
+ras da vida no planeta. Por sinal, uma agenda de pesquisa liderada 
+pela Universidade de Cambridge – denominada climate endgame 
+(Kemp et al., 2022) – sugeriu que a comunidade científica vem se 
+dedicando menos do que deveria a compreender os mecanismos 
+pelos quais o aquecimento global representa um risco catastrófi-
+co para a humanidade. Nesses termos, o potencial do aquecimento 
+global para acabar com a humanidade é algo perigosamente subex-
+plorado.2 Segundo os autores, sabemos relativamente pouco sobre 
+os cenários que mais importam, muito embora os cenários extremos 
+sejam úteis para informar a política pública e reforçar o senso de 
+urgência em prol das ações mandatórias.
+A elevação da temperatura global intensifica a frequência e a gra-
+vidade dos eventos climáticos extremos, além de agravar a inse-
+gurança alimentar e hídrica, entre outros problemas. Desastres 
+naturais relacionados ao clima atingem sobretudo os ecossistemas 
+mais frágeis e as pessoas mais vulneráveis. Portanto, de partida, 
+cabe também destacar o imperativo da chamada transição justa 
+para o futuro neutro em carbono. A crise climática também re-
+presenta uma ameaça socioeconômica, pois impacta de maneira 
+2  Além de Kemp e outros (2022), veja também: https://www.cam.ac.uk/stories/
+climateendgame.
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+163
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+desigual diferentes países e comunidades. Essa transição suscita 
+um modelo de desenvolvimento inclusivo, que se preocupe com as 
+gerações futuras e que considere conjuntamente aspectos econô-
+micos, ambientais e sociais.
+Assim, para manter o aquecimento global próximo aos 1,5 oC du-
+rante o século XXI e, com isso, conter minimamente os impactos 
+nocivos à humanidade e à biodiversidade do planeta, as emissões de 
+GEE devem ser sensivelmente reduzidas até 2030 e, posteriormente, 
+continuar caindo até que a neutralidade de carbono seja alcançada.
+Se, por um lado, a ação climática requer vultosos investimentos fi-
+nanceiros por parte dos governos e do setor privado, por outro, a 
+inação climática é significativamente mais onerosa. De certa forma, 
+os diversos países enfrentam uma escolha elementar: arcar com os 
+custos agora ou pagar uma conta mais cara no futuro. Nesse contex-
+to se dá a discussão sobre o financiamento à transição verde do país, 
+em que o Banco Nacional de Desenvolvimento Econômico e Social 
+(BNDES) deve ter papel de destaque. O BNDES é um ator central 
+na implementação de políticas públicas voltadas à descarbonização, 
+porém a urgência climática exige que seu protagonismo seja refor-
+çado. Assim, o presente artigo aborda a emblemática iniciativa de 
+fortalecimento do Fundo Clima e seu papel no combate à emergên-
+cia climática.
+Para fins de organização, esse trabalho conta com cinco seções além 
+desta introdução. Na segunda seção, serão explorados os óbices para 
+o financiamento dos investimentos necessários à transição verde. 
+Na terceira seção, aborda-se o papel central dos bancos de desen-
+volvimento na descarbonização. Na quarta seção, descrevem-se os  
+mecanismos de financiamento brasileiros. Na quinta seção, destaca-se 
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+164
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+o Fundo Nacional sobre Mudança do Clima, ou simplesmente Fundo 
+Clima. Por fim, a última seção apresenta uma breve conclusão.
+Financiando a transição  
+verde para uma economia de 
+baixo carbono
+A crise climática trouxe uma urgência sem precedentes, que requer 
+ampla mobilização de recursos. Nesse sentido, ao trazer o mote “our 
+climate is our future”, o IPCC  (2023) destaca o protagonismo dos 
+governos para a redução das emissões de GEE e afirma que o finan-
+ciamento público será determinante, assim como a implementação 
+de regulamentações que estimulem o avanço rumo à neutralidade 
+de carbono.
+Grandes volumes de recursos deverão ser canalizados para soluções 
+que promovam o uso mais eficiente dos recursos naturais, o desen-
+volvimento de tecnologias limpas e a adaptação das muitas comu-
+nidades vulneráveis. Assim, diversas iniciativas ganham força no 
+quadro internacional, diante do consenso de que é preciso acelerar 
+a transição verde; do contrário, deixaremos uma dívida climática 
+que será duramente paga pelas gerações futuras.
+A Declaração de Líderes do Rio de Janeiro, relatório final no âm-
+bito do encontro do G20 ocorrido em novembro de 2024, refor-
+ça essa perspectiva ao enfatizar a necessidade de desenvolvimento 
+sustentável unindo as dimensões econômica, social e ambiental e 
+reafirmar os “(...) compromissos de intensificar ações urgentes para 
+enfrentar as crises e os desafios decorrentes da mudança do clima, 
+perda de biodiversidade, desertificação, degradação dos oceanos e 
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+165
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+do solo, secas e poluição” (G20, 2024, p. 11). O documento reitera 
+a determinação dos países em limitar o aumento da temperatura 
+mundial a 1,5oC em relação aos níveis pré-industriais, bem como re-
+conhece ser imprescindível acelerar a transição climática e urgente 
+a mobilização internacional de recursos.
+Há aproximadamente 15 anos, na Conferência do Clima de Cope-
+nhague em 2009 (COP-15), foi acordado que, a partir do ano de 2020, 
+os países mais ricos destinariam recursos da ordem de US$ 100 bi-
+lhões por ano como financiamento climático, a fim de concretizar a 
+transição energética e a adaptação das localidades para lidar com o 
+impacto das mudanças climáticas. Desde então, apesar de seu méri-
+to geral, permanecem em discussão quais as exatas necessidades dos 
+países em desenvolvimento, bem como quais contribuições seriam 
+geradas pelo financiamento público e privado e quais os instrumen-
+tos mais adequados para atingir os objetivos. Como afirmado pelo 
+próprio presidente do Brasil por ocasião da Cúpula da Amazônia em 
+2023 (Peduzzi; Verdélio, 2023), o montante prometido pelos países 
+desenvolvidos para o financiamento de países em desenvolvimento já 
+não corresponde às necessidades atuais, pois a demanda por mitiga-
+ção, adaptação, perdas e danos segue crescendo.
+A despeito das crescentes necessidades de financiamento para atingir 
+os objetivos pactuados no Acordo de Paris, as estimativas das neces-
+sidades de investimento ainda não são muito precisas, como se vê, 
+por exemplo, em documentos da Organização para a Cooperação e  
+Desenvolvimento Econômico (OCDE) (Falduto; Noels; Jachnik, 
+2024) e da Climate Policy Initiative – CPI (Buchner et al., 2023). Em-
+bora exista uma série de lacunas nos dados disponíveis, estima-se que 
+o total de financiamento destinado aos países em desenvolvimento 
+é modesto em termos absolutos e relativos, especialmente por con-
+ta das dificuldades no acesso tanto a financiamento público como 
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+166
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+privado e dos custos do financiamento. De acordo com a OECD   
+(Falduto; Noels; Jachnik, 2024), os financiamentos privados represen-
+tam uma parcela maior do financiamento climático global, mas se 
+destinam predominantemente aos países desenvolvidos e represen-
+tam pequena parcela para os países menos desenvolvidos.
+Esse aspecto é pacífico entre think tanks internacionais e organismos 
+multilaterais (Falduto; Noels; Jachnik, 2024; Buchner et al., 2023; 
+Boston Consulting Group – BCG, 2023; McKinsey & Company,  
+2024; Bhattacharya et al., 2024; G20 Independent Experts Group – 
+IEG, 2023; Mazzucato, 2024) e faz parte das discussões predominantes 
+sobre o tema, que recomendam não só a ampliação dos financiamen-
+tos internacionais como um todo, mas também o desenvolvimento  
+de novos instrumentos para o financiamento a adaptação e mitigação 
+das mudanças climáticas.
+Portanto, o consenso internacional é de que há enorme necessidade 
+de financiamento internacional para dar conta dos investimentos 
+necessários; que a parcela destinada aos países em desenvolvimento 
+ainda é a menor; e que o custo desse financiamento também não é 
+adequado – o que justifica o movimento em direção à ampliação do 
+financiamento internacional privado.3
+Diversas entidades e organismos internacionais têm se dedicado a 
+estimar as necessidades de investimento e financiamento em mi-
+tigação e adaptação climática. Ainda que se apoiem em diferentes 
+escopos e metodologias, as estimativas são relevantes tanto em nível 
+global quanto nacional.
+Em Falduto, Noels e Jachnik (2024), há um quadro resumo das dife-
+rentes instituições, objetivos e escopo das estimativas:
+3  Ver também Cardoso (2024).
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+167
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+Quadro 1 • Visão geral das diferenças e semelhanças nas metodologias de provedores selecionados de estimativas das 
+necessidades de investimentos e financiamentos climáticos
+Referência Geografia Setor Período Tipo de 
+despesa Abordagem Contexto 
+Mitigação e adaptação 
+Parceiros do Clima Países em 
+desenvolvimento, 
+exceto a China 
+Geração de energia; transporte; 
+indústria e mineração; gestão 
+de resíduos; agricultura e 
+pesca; florestas e uso da terra; 
+infraestrutura e ambiente 
+construído; saúde; água; oceanos 
+e zonas costeiras; gestão de risco 
+de desastres
+2020-2030 Incerto Análise de 
+contribuições 
+nacionalmente 
+definidas (NDC) e 
+planos nacionais de 
+adaptação (NAP) 
+enviados e revisão 
+da literatura mais 
+ampla 
+Incerto 
+CPI Global Todos 2022-2030 Incerto Análise de NDCs 
+e NAPs enviados e 
+revisão da literatura 
+mais ampla
+Incerto 
+Independent High 
+Level Expert Group 
+(IHLEG) 2030 
+Países em 
+desenvolvimento, 
+exceto a China 
+Transformações energéticas; 
+perdas e danos, adaptação e 
+resiliência; capital natural; metano 
+de combustíveis fósseis e resíduos 
+2020-2030 Incerto Análise de NDCs 
+e NAPs enviados e 
+revisão da literatura 
+mais ampla
+Incerto 
+Standing Committee 
+on Finance  (SCF) 
+of the United 
+Nations Framework 
+Convention 
+on Climate 
+Change (UNFCCC)
+Global Energia; resíduos e saneamento; 
+uso da terra e silvicultura; 
+transporte; agricultura; água; 
+prevenção de e preparação 
+para desastres; gestão de 
+zonas costeirasl ecossistema; 
+infraestrutura; saúde 
+2020-2030 Incerto Análise de 
+documentos 
+nacionais enviados e 
+revisão da literatura 
+mais ampla 
+Incerto 
+Continua
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+168
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+Continuação
+Referência Geografia Setor Período Tipo de 
+despesa Abordagem Contexto 
+Apenas mitigação 
+Energy Transitions 
+Commission (ETC)
+Global Energia; transporte; indústria; 
+construção
+2021-2050 Investimento 
+de capital, 
+pagamentos 
+de concessões/
+subvenções
+Modelo de custo e 
+análise de NDCs e 
+NAPs enviados
+<1.5°C 
+(50%) 
+IEA NZE 
+até 2050 
+International 
+Energy Agency 
+(IEA)
+Global Transformações energéticas 2026-2050 Investimento 
+de capital 
+Modelo de custo <1.5C 
+(50%) 
+IEA NZE 
+até 2050 
+International 
+Renewable Energy 
+Agency (Irena)
+Global Transformações energéticas 2023-2050 Incerto Modelo de custo 1.5°C 
+(50%) 
+Irena 1.5 
+McKinsey Global Energia; transporte; indústria; 
+construção; agricultura, silvicultura 
+e outros usos da terra (Afolu) 
+2021- 
+2050 
+Despesas de 
+capital;
+investimento 
+em ativos 
+físicos
+Modelo de custo 1.4°C 
+(50%) 
+NGFS NZE 
+2050 
+Apenas adaptação 
+Programa das 
+Nações Unidas para 
+o Meio Ambiente 
+(Unep)
+Países em 
+desenvolvimento 
+Agricultura; água; infraestrutura 
+e assentamento; florestas e 
+ecossistemas; desastres induzidos 
+pelo clima; saúde humana; 
+energia; zonas costeiras;  
+turismo; outros 
+2021-2030 Incerto Modelo de custo e 
+análise de NDCs e 
+NAPs enviados
+2.7°C 
+(50%) 
+RCP4.5 – 
+SSP2 
+Fonte: Adaptado de Falduto; Noels; Jachnik (2024, p. 19).
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+169
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+De acordo com Falduto, Noels e Jachnik (2024, p. 20):
+Apesar dos desafios metodológicos e de dados envol-
+vidos na estimação das necessidades de financiamento 
+para a ação climática, tais estimativas podem ajudar a 
+motivar a ambição e subsidiar estratégias para ampliar 
+significativamente o financiamento para a ação climáti-
+ca. Um estudo, que reúne diferentes referências, estima 
+as necessidades globais de financiamento para mitigação 
+e adaptação climática entre US$ 5,9 e 12 trilhões anuais 
+até 2023.4
+Nesse sentido, importante revisitar as estimativas realizadas pelo 
+Climate Policy Institute (CPI), no seu relatório Global Landscape 
+of Climate Finance 2023 (Buchner et al., 2023), que podem ser uti-
+lizadas como base para a discussão das necessidades de financia-
+mento dos investimentos em mitigação e adaptação.
+Segundo o levantamento do CPI (Buchner et al., 2023), a média 
+anual dos fluxos de financiamento atingiu US$ 1,3 trilhão no biênio 
+2021/2022, quase dobrando em relação aos níveis de 2019/2020, li-
+derados pela aceleração nos financiamentos à mitigação, como pode 
+ser visto no Gráfico 1.
+4  Tradução livre de: “Despite methodological and data challenges in estimating finance needs 
+for climate action, such estimates can help motivate ambition and inform strategies to scale up 
+finance for climate action significantly. One study, bringing together different references, estimates 
+global climate mitigation and adaptation finance needs between 5.9 and 12 trillion USD annually 
+by 2023”.
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+170
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+Gráfico 1 • Financiamento climático global no período de 2011 a 2022, 
+médias bienais (em US$ bi)
+2011/12 2013/14 2015/16 2017/18 2019/20 2021/22
+653
+574
+463
+365364
+1.265
+1.092
+0
+200
+400
+600
+800
+1.000
+1.200
+1.400
+USD 173 bi 
+Tendências 
+de finanças 
+climáticas em 
+uma base 
+comparativa
+Novas fontes 
+de dados
+Fonte: Adaptado de Buchner e outros (2023, p. 2).
+Nota: Os fluxos de financiamento climático são expressos em dólares nominais e reportados 
+como médias bienais para suavizar as flutuações anuais nos dados. Isso significa que os valores 
+anuais não levam em conta os efeitos da inflação e da volatilidade da taxa de câmbio ao longo 
+do tempo.
+Ao mesmo tempo, é possível comparar as necessidades estimadas 
+de financiamento com as estimativas de fluxo de financiamento. 
+O Gráfico 2 mostra que há uma necessidade de US$ 8 a 9 trilhões 
+até 2023, porém ela salta para mais de US$ 10 trilhões até 2050. 
+Isso indica que os fluxos de financiamento deverão aumentar 
+substancialmente para dar conta das necessidades.
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+171
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+Gráfico 2 • Financiamento climático global rastreado e necessidades médias 
+anuais estimadas até 2050 (em US$ bi)
+0
+1.000
+2011/12 2021/22 20502030
+2.000
+3.000
+4.000
+5.000
+6.000
+7.000
+8.000
+9.000
+10.000
+11.000
+12.000
+13.000
+364
+1.265
+8.976
+5.905
+12.012
+10.769
+12.227
+9.441
+Financiamento climático Faixa de necessidade estimada Necessidades no cenário médio
+Fonte: Adaptado de Buchner e outros (2023, p. 3).
+Além disso, são também relevantes para a discussão os assim 
+chamados custos de inação, é dizer, aqueles custos decorrentes 
+das perdas por não serem feitos os investimentos necessários ao 
+enfrentamento das mudanças climáticas com intuito de man-
+ter o aquecimento global limitado a 1,5 oC, conforme almejado. 5  
+Os custos de não tomar providências são enormes, como revela 
+a estimativa do CPI (Buchner et al., 2023) no Gráfico 3. Então, 
+de um lado, a ação climática requer investimentos financeiros 
+5  Segundo Buchner e outros (2023, p. 4): “Embora as necessidades anuais de investimento 
+climático sejam grandes, o montante necessário é uma fração das perdas estimadas que pro-
+vavelmente serão sofridas se continuarmos com os investimentos habituais (business as usual – 
+BAU) que causam aumento da temperatura global bem acima de 1,5ºC” (tradução livre).
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+172
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+significativos por parte dos governos e do setor privado; de outro, 
+nota-se que a inação climática é muito mais cara.
+Gráfico 3 • Necessidades cumulativas de financiamento climático vs. perdas 
+nos cenários de 1,5oC e de business as usual (BAU)
+Cenário 1.5oC 
+(2025-2050)
+Cenário 1.5oC 
+(2025-2100)
+Cenário BAU 
+(2025-2100)
+Necessidades de 
+financiamento climático
+Perdas decorrentes das mudanças climáticas
+Perdas evitadas no 
+cenário de 1.5oC
+0
+500
+266
+1,062
+1,266
+2,3281.000
+1.500
+2.000
+2.500
+Fonte: Adaptado de Buchner e outros (2023, p. 4).
+Podemos, ainda, destacar algumas constatações relevantes 
+com base nos dados e estimativas disponíveis. Em primeiro  
+lugar, o financiamento é desigual entre ações de adaptação e de  
+mitigação, com estas últimas recebendo volumes superiores  
+de investimentos. Além disso, a distribuição do financiamento 
+também é desigual entre os diferentes setores, concentrando-se  
+em energia renovável e transporte. Há também a questão da  
+concentração geográfica nos países desenvolvidos, sendo peque-
+na parcela mobilizada para países em desenvolvimento, os quais  
+serão os mais afetados pelas mudanças climáticas, mas receberam  
+apenas US$ 23 bilhões entre 2000 e 2019, menos de 2% do total 
+do financiamento climático global (Buchner et al., 2023, p. 6). Por 
+fim, outro aspecto relevante destacado pelo CPI (Buchner et al., 
+2023) diz respeito ao fato de que quase 50% dos recursos são 
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+173
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+oriundos do setor privado, contudo os países desenvolvidos mo-
+bilizam a maior parte desse capital. Dessa forma, os países em 
+desenvolvimento, além de não receberem os fluxos internacio-
+nais de capital relativos ao financiamento climático, também 
+têm dificuldade de mobilizar capital doméstico. 6
+Figura 1 • Financiamento climático público vs. privado por região (em US$ bi)
+Ásia Central e 
+Europa Oriental
+Leste Asiático 
+e Pacífico
+América Latina e Caribe
+(Oceania sem Austrália 
+e Nova Zelândia)
+Ásia Meridional 
+(Sul Asiático)
+África subsaariana 
+Transregional
+EUA e Canadá
+Europa 
+Ocidental
+34
+558
+52
+19
+14
+45
+30
+13
+175
+325
+Público Privado
+Oriente Médio e 
+África setentrional
+Melanésia, Micronésia e Polinésia 
+Fonte: Adaptado de Buchner e outros (2023, p. 7).
+Deve-se destacar que, conforme apontado pelo CPI (Buchner et al., 
+2023), o financiamento climático público é oriundo, em gran-
+de parte, das instituições públicas de desenvolvimento. No 
+entanto, quase 20% do financiamento público destinado aos 
+países em desenvolvimento é realizado a taxas de mercado, de 
+modo que, segundo o CPI, “nesse contexto, é imperativo dar 
+6  Pela metodologia do CPI (Buchner et al., 2023), os gastos dos consumidores, por exemplo, 
+para aquisição de carros elétricos são contabilizados como financiamento privado. A lógica é 
+que esse estímulo ao consumo é realizado por intermédio de incentivos governamentais.
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+174
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+ênfase renovada ao uso estratégico de fundos públicos e outros 
+financiamentos concessionais para mobilizar significativamen-
+te mais capital privado” (Buchner et al., 2023, p. 7). 7 Portanto, 
+na discussão do financiamento ao enfrentamento das mudanças  
+climáticas, é essencial a discussão sobre o uso dos fundos públi-
+cos, indo ao encontro da política adotada pelo Governo Federal 
+de ampliar a escala do Fundo Clima, como trataremos adiante.
+Se quisermos ter uma ideia da origem do financiamento público e 
+privado, é interessante olharmos o Gráfico 4, que demonstra que o 
+financiamento público está sendo majoritariamente provido pelas 
+instituições nacionais de desenvolvimento.
+Gráfico 4 • Fontes públicas e privadas de financiamento climático (em US$ bi)
+625
+PrivadasPúblicas
+Média anual 2021/2022, 
+USD bi
+Fundos públicos 0,2
+Agências de crédito à exportação 1,8
+Fundos climáticos multilaterais 2,9
+IFDs bilaterais 32,6
+Instituições financeiras de Estado 60,9
+IFDs multilaterais 93,1
+Governos 99,6
+Empresa pública 110,3
+IFDs nacionais 238,4
+Fundos 6,2
+Investidores institucionais 6,3
+Famílias/indivíduos 184,5
+Corporações 192,2
+235,0
+640
+Instituições financeiras 
+comerciais
+Fonte: Adaptado de Buchner e outros (2023, p. 15).
+7  Tradução livre de: “In this context, renewed emphasis on the strategic use of public funds and 
+other concessional finance to mobilize significantly more private capital is imperative”.
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+175
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+Há uma discussão em voga, normalmente envolvendo os organis-
+mos internacionais como, por exemplo, OCDE (Falduto; Noels; 
+Jachnik, 2024), e contemplada no âmbito das discussões do G20 
+(Castro; Studart, 2024; G20, 2024), que, em linhas gerais deriva 
+de propostas sobre a reforma do sistema financeiro internacional 
+para “catalisar” o financiamento público e privado para mudanças 
+climáticas e infraestrutura nos países em desenvolvimento. Dessa 
+discussão surgem propostas gerais de ampliação do volume de ca-
+pital destinado ao tema, assim como inovações em seus modelos 
+de negócio para aumentar a efetividade do financiamento climá-
+tico e mobilizar o capital privado com propostas genéricas, como 
+as de ampliar o uso de garantias para mitigar risco de crédito, de 
+ampliar o mercado de hedge cambial de forma a maximizar a pos-
+sibilidade de empréstimos em moedas locais, de utilizar o finan-
+ciamento concessional para estruturação de projetos, entre outras.
+No que diz respeito exclusivamente à questão do financiamento  
+climático, no âmbito desse debate, a despeito de sua relevância, 
+essas ideias não podem ser consideradas como solução exclu -
+siva para o financiamento das mudanças climáticas, inclusive 
+em decorrência da urgência do tema e do volume de investi-
+mento requerido.
+Como mostrado, há um conjunto grande de instituições e estima-
+tivas de financiamento e investimentos requeridos pela transição  
+climática, mas cabe aqui destacar a informação trazida pelo tra-
+balho Raising ambition and accelerating delivery of climate finance  
+(Bhattacharya et al., 2024), que estima a necessidade anual de investi-
+mentos nos países em desenvolvimento, exceto a China, em mais de 
+US$ 1 trilhão a partir de 2025 e em mais de US$ 2 trilhões a partir  
+de 2030. No Brasil, estima-se que a necessidade de investimentos seja 
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+176
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+de cerca de 0,5% do produto interno bruto (PIB), conforme World 
+Bank (2023) e BNDES (2023).
+As propostas consensuais dos diversos organismos internacionais 
+que tratam da arquitetura financeira global, embora meritórias, 
+nos parecem insuficientes para fechar o hiato entre as necessida-
+des de investimentos e o volume de financiamento necessário 
+ao enfrentamento da crise climática. Nesse sentido, e diante de 
+estimativas como as mencionadas nesta seção, a necessidade  
+de mobilização doméstica de recursos coloca em destaque o papel 
+das estratégias nacionais, do financiamento público e dos bancos de 
+desenvolvimento.8
+No contexto do debate, é fundamental ter em mente a argumen-
+tação de Medeiros e Trebat (2025). Segundo os autores, a emer-
+gência climática é um fenômeno essencialmente desigual e que 
+não respeita fronteiras preestabelecidas, de modo que países com 
+maior capacidade precisam arcar com a maior parte dos custos: 
+[...] as políticas nacionais não são suficientes. O aqueci-
+mento global não respeita fronteiras. Os países pobres, 
+desproporcionalmente afetados por inundações, secas 
+e incêndios florestais, não dispõem de recursos e meios 
+operacionais para implementar estratégias ambientais 
+abrangentes. Por essa razão, os países mais ricos devem 
+transferir recursos para esses países na forma de doações 
+8  Necessidade que parece evidente ao notar que Buchner e outros (2023, p. 32) indi-
+cam que mais de 50% do montante de financiamento climático foi realizado a taxas de 
+mercado, ao passo que o financiamento concessional se restringiu a 11% do total. Sobre 
+a importância de adoção de estratégias nacionais, além das iniciativas internacionais de 
+financiamento, ver Medeiros e Trebat (2025).
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+177
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+e financiamento acessível para investimentos verdes. 
+(Medeiros; Trebat, 2025, p. 7).9
+Dessa forma, alguns países vêm se apoiando em estratégias nacio-
+nais baseadas em recursos domésticos para impulsionar o com-
+bate às mudanças climáticas, haja vista que os recursos para os 
+países em desenvolvimento têm sido escassos e, quando existem, 
+são insuficientes e caros. De acordo com Songwe e outros (2022) 
+apud Medeiros e Trebat (2025, p. 8):
+[…] a mudança estrutural em países pobres requer 
+investimento verde em agricultura e silvicultura e a 
+eliminação progressiva e acelerada do carvão (um 
+grande desafio na Ásia e na África), o que, por sua 
+vez, exigirá financiamento externo concessional e 
+sem geração de dívidas. A falta de doações e a pre-
+dominância de empréstimos não concessionais no 
+financiamento público multilateral aumentam os 
+riscos para países endividados. Os bancos multi-
+laterais de desenvolvimento não forneceram até o  
+momento financiamento adequado para os objeti-
+vos de desenvolvimento sustentável (ODS) e atuam 
+para preservar sua classificação de emissor nos mer-
+cados financeiros. Outras formas de mobilização de  
+recursos, como títulos verdes e mercados de carbono,  
+podem apoiar investimentos verdes, mas não são uma 
+alternativa ao investimento público em larga escala.  
+9  Tradução livre de: “[...] domestic policies are not sufficient. Global warming does not respect 
+borders. Poor countries disproportionately affected by floods, droughts and wildfires lack the 
+resources and operational means to implement comprehensive environmental strategies. For this 
+reason, richer countries should transfer resources to these countries in the form of donations and 
+affordable financing for green investments”.
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+178
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+Um problema fundamental no financiamento inter-
+nacional de projetos em países em desenvolvimento é o  
+risco cambial gerado pelo descompasso entre empréstimos 
+denominados em dólar americano e receitas obtidas em 
+moedas nacionais. Diante desse cenário, grandes países não 
+ocidentais, como China e Índia, e o Brasil, estão seguindo 
+estratégias nacionais baseadas em recursos domésticos.10
+Nesse contexto, diante da insuficiência das soluções internacionais, 
+ganham importância crescente as estratégias nacionais e a utiliza-
+ção de bancos de desenvolvimento.
+Importância dos bancos 
+de desenvolvimento no 
+financiamento à transição verde
+As seções anteriores destacaram a emergência climática, as difi-
+culdades de financiamento para os investimentos da transição cli-
+mática e como as propostas soluções internacionais, além de vagas, 
+nos parecem insuficientes. Por serem grandes mobilizadores de 
+recursos para financiamento de longo prazo, além de importantes 
+10  Tradução livre de: “[…] structural change in poor countries requires green investment in 
+agriculture and forestry and the accelerated phase-out of coal (an acute challenge in Asia and Africa), 
+and this in turn will require concessional and debt-free finance from abroad. The lack of grants and 
+the predominance of non-concessional loans in multilateral public finance increases risks for indebted 
+countries. Multilateral development banks have thus far not provided adequate finance for Sustainable 
+Development Goals (SDGs) and act to preserve their issuer ratings in financial markets. Other forms of 
+resource mobilization such as green bonds and carbon markets can support green investments, but are 
+not an alternative to large-scale public investment. A key problem in international financing for projects 
+in developing countries is the exchange rate risk generated by the mismatch between loans denominated 
+in US dollars and revenues obtained in domestic currencies. Given this scenario, large non-western 
+countries like China, India, and Brazil are following national strategies based on domestic resources”.
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+179
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+atores na formulação de políticas públicas, os bancos de desenvol-
+vimento têm papel central no impulso à transição climática, como 
+se verifica em Carreras e outros (2022) e Instituto de Estudos para 
+o Desenvolvimento Industrial – IEDI (2023).
+Como afirmam Ocampo e Griffith-Jones (2018), no livro The 
+future of national development banks, os bancos de desenvolvimento 
+podem fornecer aquele que talvez seja o principal bem público da 
+atualidade: o combate às mudanças climáticas. Os autores desta-
+cam o poder dessas instituições em mobilizar recursos adicionais 
+para a transição climática, apoiar o desenho de arcabouços de po-
+líticas verdes e implementar projetos efetivos que mostrem a via-
+bilidade de investimentos verdes.
+Abordagem semelhante é trazida por IEG (2023, p. 11): “O bem-estar 
+de bilhões de pessoas e a saúde do planeta, o principal exemplo de  
+um bem público global, estão ameaçados”. 11 Os autores, então, re-
+comendam que o fortalecimento dos bancos de desenvolvimento é 
+essencial para o enfretamento dos enormes desafios globais. Além 
+disso, essas instituições seriam particularmente adequadas para lidar 
+com a escala e a urgência da emergência climática. Nesse sentido:
+A escala e a urgência das ações são agora decisivas, 
+ditadas pela física das mudanças climáticas e pelos 
+imperativos do desenvolvimento. Todo o sistema da 
+arquitetura financeira global, assim como o papel dos 
+bancos multilaterais de desenvolvimento (BMD) nesse 
+sistema, devem evoluir para melhor apoiar os países 
+no alinhamento de todos os seus gastos públicos com 
+11  Tradução livre de: “The welfare of billions of people and the health of the planet, the foremost 
+example of a global public good, are under threat”.
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+180
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+os investimentos necessários para empreender as tran-
+sições necessárias. Os problemas estão se agravando e 
+as lacunas entre países desenvolvidos e em desenvolvi-
+mento estão se ampliando, mas os BMDs, como siste-
+ma, estão diminuindo. (IEG, 2023, p. 17-18). 12
+No contexto das ações para combate aos efeitos adversos da mu-
+dança climática, a economista Mariana Mazzucato coordenou a 
+elaboração do relatório independente do grupo de especialistas da 
+força-tarefa criada no âmbito do G20. Esse relatório é muito claro 
+ao exaltar o papel dos bancos de desenvolvimento:
+Os bancos públicos de desenvolvimento (BPD) têm um 
+papel vital a desempenhar para viabilizar o desenvolvi-
+mento econômico alinhado às metas climáticas e aos ODS. 
+[...] Os bancos nacionais de desenvolvimento (BND) de-
+têm ativos significativos, têm o mandato de financiar me-
+tas públicas e são capazes de fornecer o financiamento de 
+longo prazo e tolerante a risco necessário para apoiar a 
+transformação econômica. [...] Os BNDs já atuam como 
+agentes de políticas para as mudanças climáticas. [...] Im-
+pulsionar a inovação verde e estimular o crescimento ver-
+de exige financiamento paciente. Os BPDs são especialistas 
+em fornecer esse tipo de financiamento, em parte devido à 
+sua capacidade de assumir mais riscos. (Group of experts 
+12  Tradução livre de: “Scale and urgency of action are now critical, dictated by the physics 
+of climate change and by development imperatives. The whole system of the global financial 
+architecture, and of the MDBs’ role within that system, must evolve to better support countries 
+in aligning all their public expenditures with the investments needed to undertake the required 
+transitions. The problems are getting bigger, and gaps between developed and developing countries 
+are getting larger, but MDBs (multilateral development banks) as a system are shrinking”.
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+181
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+to the G20 Taskforce on a Global Mobilization Against  
+Climate Change, 2024, p. 76).13
+A Declaração de Líderes do Rio de Janeiro coloca o sistema finan-
+ceiro no centro da aceleração da transição climática.14 A propósito, 
+Larsen e Laxton (2024) afirma que os bancos de desenvolvimento 
+estão “à beira de uma revolução” e que o fortalecimento dessas insti-
+tuições será crucial para que o mundo seja capaz de combater a crise 
+climática e múltiplas crises simultâneas. É preciso ampliar drasti-
+camente o volume de recursos destinados ao combate da mudança 
+13  Tradução livre de: “Public development banks (PDBs) have a vital role to play in enabling 
+economic development aligned with climate goals and the SDGs. [...] NDBs (national development 
+banks) hold significant assets, are mandated to finance public goals, and are able to provide the 
+long-term, risk-tolerant finance needed to support economic transformation. [...] NDBs are already 
+acting as climate change policy agents. [...] Driving green innovation and stimulating green growth 
+requires patient finance. PDBs specialize in providing such finance, in part because of their ability 
+to take on more risk”.
+14  Entre outras, veja, por exemplo, o tópico 69 da Declaração, que afirma: “Com base no 
+legado das presidências anteriores do G20 e no mandato que concedemos em Nova Délhi, 
+nós endossamos o Roteiro do G20 para Bancos Multilaterais de Desenvolvimento (BMDs) 
+Melhores, Maiores e Mais Eficazes, que apresenta recomendações e ações abrangentes para 
+que os BMDs desenvolvam suas visões, estruturas de incentivo, abordagens operacionais e 
+capacidades financeiras, a fim de que estejam melhor equipados para maximizar seu impacto 
+na abordagem de uma ampla gama de desafios globais e regionais, enquanto aceleram o 
+progresso em direção aos ODS. Embora respeitando o mandato e a estrutura de governan-
+ça de cada BMD, fazemos um apelo aos BMDs, trabalhando em conjunto com as partes 
+interessadas relevantes, para implementar o Roteiro do G20 sobre BMDs e incentivá-las a 
+participarem de um relatório periódico sobre o progresso da implementação. Nós saudamos 
+a implementação do Roteiro de Evolução do Grupo Banco Mundial e as reformas que estão 
+sendo adotadas por outros BMDs. Nós também pedimos aos BMDs que continuem traba-
+lhando como um sistema e que façam parcerias com governos, bancos de desenvolvimento 
+nacionais e subnacionais, provedores de seguros e resseguros e o setor privado. Nós agradece-
+mos o crescente número de BMDs relatando a implementação da Estrutura de Adequação de 
+Capital (CAF) e o progresso feito até agora. Nós observamos que as medidas do CAF ainda 
+têm o potencial de liberar espaço adicional para empréstimos ao longo da próxima década, 
+com maior implementação ainda por vir. Nós incentivamos os BMDs a impulsionar a mo-
+bilização de recursos domésticos e aumentar a mobilização do capital privado” (G20, 2024).
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+182
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+climática, seja a partir de fontes nacionais ou internacionais, públi-
+cas ou privadas.
+Sucintamente, são citadas algumas “medidas ousadas para revolucio-
+nar o financiamento do desenvolvimento”, por exemplo: (i) integrar 
+o financiamento climático e de desenvolvimento para apoiar planos 
+nacionais; (ii) garantir a alocação dos fundos disponíveis para as me-
+tas climáticas; (iii) conceder financiamento a taxas inferiores às do 
+mercado; e (iv) aumentar a parcela de recursos disponíveis, tendo em 
+vista que os investimentos climáticos das instituições financeiras de 
+desenvolvimento precisarão triplicar até 2030.
+A essa altura, para concluir a seção, vale destacar o relatório 
+do European Investment Bank – EIB (2024), intitulado Climate 
+financing in Latin America and the Caribbean: how are public 
+development banks supporting the climate transition?, que fez um  
+levantamento com diversos bancos de desenvolvimento e desta-
+cou que as prioridades políticas para aumentar o financiamen-
+to da ação climática na América Latina e no Caribe devem ser 
+orientadas tanto para atrair investimento do setor privado como 
+para reforçar a capacidade do setor público, incluindo os bancos 
+públicos de desenvolvimento.
+A partir de agora, a próxima seção descreve, ainda que de ma-
+neira não exaustiva, o arcabouço geral para o financiamento cli-
+mático no Brasil, seus principais instrumentos vigentes até o fim 
+de 2022 e as mudanças que vêm sendo empreendidas a partir  
+de 2023.
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+183
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+Panorama dos mecanismos de 
+financiamento climático no Brasil
+Levantamento realizado por Gallo e outros (no prelo) sintetiza al-
+gumas das principais políticas para resiliência climática no país.
+Quadro 2 • Legislação brasileira sobre adaptação e resiliência climática
+Número 
+da lei
+Ano de 
+publicação
+Resumo
+Lei 12.187 2009
+Institui a Política Nacional sobre Mudança do Clima (PNMC). 
+Estabelece princípios, objetivos, diretrizes e instrumentos 
+para lidar com as mudanças climáticas no Brasil. 
+Lei 12.114 2009 Institui o Fundo Nacional sobre Mudança do Clima (FNMC).
+Lei 12.340 2010
+Dispõe sobre as transferências de recursos da União aos 
+órgãos e entidades dos estados, Distrito Federal e municípios 
+para a execução de ações de resposta e recuperação nas 
+áreas atingidas por desastre.
+Lei 12.608 2012
+Institui a Política Nacional de Proteção e Defesa Civil 
+(PNPDEC). Dispõe sobre o Sistema Nacional de Proteção e 
+Defesa Civil (SINPDEC) e o Conselho Nacional de Proteção 
+e Defesa Civil (CONPDEC). Autoriza a criação de sistema de 
+informações e monitoramento de desastres.
+Fonte: Adaptado de Gallo e outros (no prelo).
+Importante destacar que, desde 2016, o Brasil enfraqueceu seus ins-
+trumentos para lidar com a crise climática e promover a redução 
+das emissões de GEE. Notadamente, como destacado por Aidar e 
+Moraes (2023), foram reduzidas as capacidades estatais e financeiras 
+para lidar com as mudanças climáticas. Exemplo disso foi a redução 
+do orçamento disponível para execução das políticas ambientais e 
+para contenção do desmatamento ilegal. Segundo os autores, o or-
+çamento para preservação e conservação ambiental, recuperação de 
+áreas degradadas e controle ambiental e recursos hídricos foi redu-
+zido à metade entre 2013 e 2022.
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+184
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+No que diz respeito ao financiamento climático, a Política Nacio-
+nal sobre Mudança do Clima (PNMC) propôs uma série de meca-
+nismos de financiamento para mitigação e adaptação às mudanças 
+climáticas. Embora a criação do Fundo Nacional de Mudança do 
+Clima seja um dos grandes destaques da PNMC, a oferta de finan-
+ciamento desse fundo revelou-se errática e não sinalizou priorida-
+de para a implementação da política, como evidenciado por Aidar 
+e Moraes (2023). 15
+Em 2008, com o objetivo de reforçar os eixos de ordenamento fun-
+diário e territorial e o fomento à produção sustentável na Amazônia, 
+foi criado o Fundo Amazônia, cuja operacionalização é realizada 
+pelo BNDES. O fundo originou-se a partir de proposta brasileira 
+na COP13, ocorrida no ano de 2007, e se concretizou com as doa-
+ções da Noruega e Alemanha (por meio do KfW, banco alemão de 
+desenvolvimento) como contrapartida de redução de emissões por 
+desmatamento e degradação florestal (REDD+).
+Em 2019, foram extintos diversos colegiados da Administração 
+Pública Federal, inclusive aqueles responsáveis pelas diretrizes 
+e monitoramento do Fundo Amazônia. Apesar de ter recursos 
+disponíveis até 2022, o Fundo Amazônia ficou paralisado no que 
+diz respeito à aprovação de novas operações. Ademais, em fun-
+ção das regras de repasse de fundos mediante resultados e do 
+aumento do desmatamento na Amazônia, não foram recebidas 
+15  Ainda que não seja exatamente uma política de financiamento, também merece des-
+taque o Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia Legal 
+(PPCDAM). Esse plano, lançado em 2004, constituiu-se em um significativo esforço do 
+Governo Federal para redução do desmatamento da Amazônia Legal e é organizado em 
+três eixos: (i) ordenamento fundiário e territorial; (ii) monitoramento e controle ambien-
+tal; e (iii) fomento a atividades produtivas sustentáveis.
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+185
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+novas doações internacionais. Assim, até 2023 o fundo contou 
+com uma carteira de 107 projetos no valor de R$ 1,85 bilhão. 16
+Outra fonte de financiamento relevante para investimentos  
+de baixo carbono é o Programa de Agricultura de Baixa Emissão de  
+Carbono (ABC). Disponível desde 2010, o Programa ABC é parte 
+do Plano Safra, do Governo Federal, e oferece crédito para adequa-
+ção ou regularização das propriedades rurais à legislação ambiental, 
+inclusive para recuperação da reserva legal, de áreas de preservação 
+permanente e de áreas degradadas e para implantação e melhora-
+mento de planos de manejo florestal sustentável.
+Por fim, algumas mudanças institucionais recentes merecem uma 
+breve descrição por se constituírem como potencial fonte de finan-
+ciamento no futuro. Primeiramente, destaca-se a Política Nacio-
+nal de Pagamento por Serviços Ambientais (PSA), aprovada pelo 
+Congresso Nacional em 2019. Ainda que não exista uma política 
+nacional que defina formas de financiar o pagamento dos serviços 
+ambientais, o país tem, a partir dessa política, a normatização do 
+pagamento por: (i) serviços de provisão de produtos ambientais;  
+(ii) serviços de suporte do meio ambiente; (iii) serviços de regulação 
+do ecossistema; e (iv) serviços culturais. Essa política abre a possibi-
+lidade, principalmente, para novas formas de captação de recursos 
+16  Em 2023, após alguns anos de interrupção, as aprovações do Fundo Amazônia foram 
+retomadas, tendo ocorrido naquele ano o primeiro encontro de seu comitê orientador 
+desde 2018. Na ocasião, foi decidido que projetos com foco em ações de monitoramen-
+to e controle, estudos para ordenamento territorial e apoio às populações indígenas e 
+comunidades tradicionais (com ações intersetoriais em alimentação, saúde, educação 
+e outros) seriam as prioridades na retomada do Fundo Amazônia. Depois de quatro 
+anos de interrupção, em 2023 o fundo recebeu R$ 1,4 bilhão em doações e, em 2024, 
+R$ 1,1 bilhão (BNDES, 2024).
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+186
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+privados e para o direcionamento de recursos públicos com foco em 
+atividades produtivas sustentáveis.
+Além disso, o Governo Federal publicou o Decreto  11.075, de 
+19 de maio de 2022, que apresenta as diretrizes para elaboração 
+dos planos setoriais de mitigação das mudanças climáticas, além 
+de instituir o Sistema Nacional de Redução de Emissões de Ga-
+ses de Efeito Estufa (Sinare) e trazer a possibilidade de criação 
+do mercado de gás metano. O ato serviu para definir conceitos 
+relevantes para o mercado de carbono e criou formalmente um 
+sistema unificado de registro de emissões, remoções, reduções e 
+compensações de GEE, bem como de atos de comércio, de trans-
+ferências, de transações e de aposentadoria de créditos certifica-
+dos de redução de emissões. 17
+Embora seja possível identificar políticas e mecanismos de finan-
+ciamento a investimentos verdes no Brasil, Aidar e Moraes (2023) 
+corretamente apontam que as diversas políticas implantadas na 
+década de 2010 foram enfraquecidas e, de forma geral, mesmo as 
+que foram retomadas carecem de melhor coordenação e maior 
+escala de atuação.
+17  Recentemente foi aprovada a Lei 15.042/2024, que institui o Sistema Brasileiro 
+de Comércio de Emissões de Gases de Efeito Estufa (SBCE), regulando, assim, o 
+mercado de crédito de carbono no país. O modelo de funcionamento é balizado no 
+mecanismo mais comumente utilizado internacionalmente, o dos sistemas de comércio 
+de emissões (emissions trading systems), que opera sob uma lógica conhecida como cap-
+and-trade, sistema que institui um limite máximo de emissões de gases de efeito estufa, 
+estabelecido por uma autoridade competente. Por meio desse mecanismo, o governo 
+distribui uma quantidade limitada de cotas para emissão, criando um teto (cap ) para 
+estas e a possibilidade de esses créditos serem negociados entre empresas (trade), com 
+foco na meta total de redução de emissões. Para mais detalhes, ver: https://www.gov.
+br/planalto/pt-br/agenda-internacional/missoes-internacionais/cop28/sbce e https://www.
+planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L15042.htm.
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+187
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+Contudo, desde 2023 o Governo Federal se engajou na retomada 
+de diversos instrumentos e em uma iniciativa principal: a elabora-
+ção do Plano de Transformação Ecológica (PTE) 18 lançado oficial-
+mente em Dubai durante a Conferência do Clima da Organização 
+das Nações Unidas (COP28). 
+O Plano de Transformação Ecológica tem o objetivo de im-
+pulsionar a economia brasileira rumo a um novo patamar de  
+desenvolvimento sustentável e traz um conjunto de políticas 
+e ações estratégicas divididas em eixos temáticos. É compos-
+to por diversas ações que se encontram em diferentes estágios 
+de implementação, como a criação de um mercado de carbono 
+regulado, a emissão de títulos soberanos sustentáveis, a defini-
+ção de uma taxonomia nacional focada na sustentabilidade e o 
+resgate e fortalecimento do Fundo Nacional sobre Mudança do  
+Clima (FNMC).
+Não é objetivo deste texto avaliar os desdobramentos e a situa-
+ção atual de todas essas iniciativas, mas destacar a importân-
+cia da reformulação e ampliação do Fundo Clima que, no nosso 
+ponto de vista, é hoje o principal instrumento disponível para 
+financiar a transição climática. Abordado na próxima seção, o 
+fortalecimento do fundo, que procura direcionar recursos pú-
+blicos para atividades sustentáveis, é uma das iniciativas mais 
+avançadas do plano.
+18  Ver mais em: https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/
+transformacao-ecologica.
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+188
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+Fundo Nacional sobre Mudança 
+do Clima (FNMC)
+Criação e funcionamento do FNMC
+O Brasil foi pioneiro em apresentar um programa para mi-
+tigação e adaptação aos efeitos das mudanças climáticas. Na  
+15ª Conferência das Partes (COP15), na Dinamarca em 2009, o 
+governo apresentou um compromisso de reduzir entre 36,1%  
+e 38,9% suas emissões projetadas para 2020. Para isso, instituiu 
+a Política Nacional sobre Mudança do Clima (PNMC), por 
+meio da Lei 12.187/2009, e seu instrumento financeiro, o Fundo  
+Nacional sobre Mudança do Clima (FNMC), ou Fundo Clima, 
+criado pela Lei 12.114/2009, 19 e alterações posteriores. O FNMC 
+tem sua regulamentação consolidada pelo Decreto 9.578/2018, 20 e  
+suas alterações. 21
+19  Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12114.
+htm. Acesso em: 28 fev. 2025.
+20  Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9578.
+htm#:~:text=D9578&text=Consolida%20atos%20normativos%20editados%20pelo,29%20
+de%20dezembro%20de%202009. Acesso em: 28 fev. 2025.
+21  Outros regulamentos relevantes advêm da Resolução CMN 5.095/2023 e alterações 
+posteriores, que define as condições financeiras, bem como o Plano Anual de Aplicação de 
+Recursos (subordinado ao Comitê Gestor do FNMC).
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+189
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+Figura 2 • Principais fontes de recursos do Fundo Clima e suas formas  
+de aplicação
+Participação 
+especial P&G
+MMA
+Retorno de 
+amortização e juros
+Não reembolsável
+ReembolsávelFundo 
+Clima
+Títulos sustentáveis   
+do Tesouro
+Comitê Gestor
+(Decreto 11.549/2023)
+MMA (coord.), BNDES,
+governo, sociedade civil, setor privado
+$
+$
+$
+$ $
+Fonte: Elaboração própria.
+O Fundo Clima é um fundo público de natureza financeira, vincula-
+do ao Ministério do Meio Ambiente e Mudanças Climáticas (MMA), 
+com a finalidade de assegurar recursos para apoio a projetos ou  
+estudos e para financiamento de empreendimentos que visem a mi-
+tigação da mudança do clima e a adaptação à mudança do clima e 
+aos seus efeitos. O fundo investe recursos reembolsáveis, por meio 
+do BNDES, e não reembolsáveis, via MMA. Desde sua criação, teve 
+como principal fonte de recursos um percentual da participação espe-
+cial do petróleo, além do retorno das próprias operações. Além disso, 
+a Lei  12.114/2009 ainda prevê para o fundo recursos decorrentes 
+de: acordos, ajustes, contratos e convênios celebrados com órgãos 
+e entidades da administração pública federal, estadual, distrital ou  
+municipal, doações realizadas por entidades nacionais e internacio-
+nais, públicas ou privadas, empréstimos de instituições financeiras 
+nacionais ou internacionais, ou dotações consignadas na Lei Orça-
+mentária Anual (LOA) da União e em seus créditos adicionais.
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+190
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+É preciso destacar, do ponto de vista orçamentário, que as despesas 
+associadas ao financiamento do Fundo Clima são despesas de natu-
+reza financeira e, por isso, não impactam o resultado primário das 
+contas públicas.22 Por sua natureza de inversão financeira, a conces-
+são de crédito por fundos financeiros, cujo risco de inadimplência é 
+de bancos públicos, não acarreta impactos no resultado primário do 
+setor público, uma vez que os recursos serão devolvidos ao Tesouro. 
+As normas e boas práticas de contabilidade pública registram que 
+esses recursos são fiscais, e não parafiscais, constando no orçamento e 
+sujeitos a aprovação do Congresso Nacional e ao monitoramento  
+e controle dos órgãos responsáveis.
+O apoio financeiro reembolsável é executado exclusivamente por 
+meio de contrato de empréstimo com o BNDES, agente financei-
+ro do Fundo Clima, que também pode habilitar fintechs ou outros 
+agentes financeiros, públicos ou privados. O apoio se dá mediante 
+instrumentos financeiros definidos pelo agente financeiro, que su-
+porta todo o risco da operação perante o fundo.23
+Ressalte-se também que não é permitido que o BNDES reapli-
+que automaticamente os retornos dos empréstimos realizados 
+(juros e amortização) e a remuneração das disponibilidades, 
+nem os saldos não aplicados no ano. Ou seja, após o recebimento 
+das parcelas dos financiamentos, os recursos são devolvidos ao 
+Governo Federal. Além disso, os recursos não emprestados são 
+22  Essa definição não é particular ao Brasil, mas segue as diretrizes de contabilidade fis-
+cal do Fundo Monetário Internacional, as quais estabelecem que gastos de financiamento 
+que retornam aos cofres públicos não são considerados despesas primárias.
+23  Até 2% dos recursos do FNMC podem ser aplicados no pagamento do agente finan-
+ceiro ou a taxas de administração.
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+191
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+geridos pelo BNDES com remuneração da taxa Selic e devolvidos 
+ao Tesouro Nacional.
+Por sua vez, o apoio financeiro não reembolsável é operacionalizado 
+pelo MMA a projetos relativos à mitigação da mudança do clima ou 
+à adaptação aos seus efeitos. Os recursos não reembolsáveis podem 
+ser aplicados diretamente pelo ministério ou transferidos mediante 
+convênios ou termos de parceria.
+Figura 3 • Modalidades de financiamento do Fundo Clima
+DESENVOLVIMENTO URBANO RESILIENTE 
+E SUSTENTÁVEL
+INDÚSTRIA VERDE
+LOGÍSTICA DE TRANSPORTE, TRANSPORTE
+COLETIVO E MOBILIDADE VERDE
+TRANSIÇÃO ENERGÉTICA
+FLORESTAS NATIVAS E RECURSOS HÍDRICOS
+SERVIÇOS E INOVAÇÃO VERDES
+PROJETOS DE 
+MITIGAÇÃO
+PROJETOS DE 
+ADAPTAÇÃO
+MITIGAÇÃO E ADAPTAÇÃO À 
+EMERGÊNCIA CLIMÁTICA
+SUBPROGRAMAS
+REEMBOLSÁVEL
+(BNDES)
+NÃO REEMBOLSÁVEL
+(BNDES)
+Fonte: Adaptado de Instituto de Estudos Socioeconômicos – Inesc (2022).
+O Fundo Clima é administrado por um comitê gestor vinculado ao 
+MMA, composto por representantes do Poder Executivo Federal e 
+do setor não governamental, que define a proporção dos recursos a 
+ser aplicada entre apoio financeiro reembolsável e não reembolsável. 
+Como será mencionado adiante, os membros desse comitê foram 
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+192
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+definidos pelo Decreto 11.549/2023, que alterou o Decreto 9.578/2018 
+para fazer constar que seus membros seriam oriundos de:
+• Setores governamentais: MMA (presidência), Casa Civil 
+(CC), Ministério das Relações Exteriores (MRE), Ministé-
+rio da Fazenda (MF), Ministério da Agricultura e Pecuária 
+(Mapa), Ministério do Desenvolvimento, Indústria, Comér-
+cio e Serviços (Mdic), Ministério de Minas e Energia (MME), 
+Ministério do Planejamento e Orçamento (MPO), Ministério 
+da Ciência, Tecnologia e Inovação (MCTI), Ministério das 
+Cidades, Ministério do Desenvolvimento Agrário e Agricul-
+tura Familiar (MDA), Ministério dos Povos Indígenas (MPI), 
+Ministério da Igualdade Racial (MIR), Ministério dos Direi-
+tos Humanos e da Cidadania (MDH) e BNDES;
+• Setores não governamentais: 12 representantes, quais sejam a) da 
+comunidade científica, indicado pela Sociedade Brasileira para o 
+Progresso da Ciência; b) de organização não governamental com 
+atuação na temática mudança do clima, indicado pelo Fórum 
+Brasileiro de Mudança do Clima (FBMC); c) de organização da 
+sociedade civil organizada, escolhido em processo estabelecido 
+por meio de ato do Ministro de Estado do Meio Ambiente e Mu-
+dança do Clima; d) de entidade empresarial do setor industrial, 
+indicado pela Confederação Nacional da Indústria (CNI); e) de 
+entidade empresarial do setor rural, indicado pela Confederação 
+da Agricultura e Pecuária do Brasil (CNA); f) dos trabalhado-
+res rurais e da agricultura familiar, indicado pela Confederação 
+Nacional dos Trabalhadores Rurais Agricultores e Agricultoras 
+Familiares (Contag); g) dos povos e comunidades tradicionais, in-
+dicado pelo Conselho Nacional dos Povos e Comunidades Tradi-
+cionais; h) dos povos indígenas, escolhido em procedimento sob a 
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+193
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+coordenação da Articulação dos Povos Indígenas do Brasil (Apib);  
+i) dos trabalhadores da área urbana, indicado pelas centrais sin-
+dicais e confederações de trabalhadores da área urbana (Central 
+Única dos Trabalhadores – CUT, Força Sindical, União Geral 
+dos Trabalhadores – UGT, Confederação Nacional dos Traba-
+lhadores na Indústria – CNTI e Confederação Nacional dos 
+Trabalhadores no Comércio – CNTC), escolhido em processo 
+coordenado pela CNTI e pela CNTC; j) do movimento negro, 
+escolhido em processo estabelecido por meio de ato do Minis-
+tro de Estado do Meio Ambiente e Mudança do Clima; k) da 
+Associação Brasileira de Entidades Estaduais de Meio Ambiente 
+(Abema); e l) da Associação Nacional de Municípios e Meio Am-
+biente (Anamma).
+Seja qual for a modalidade de apoio, os recursos poderão ser destina-
+dos a uma série de atividades relacionadas à resiliência climática.24
+24  São elas (art. 7º do Decreto 9.578/2018): “I - educação, capacitação, treinamento e mobi-
+lização na área de mudanças climáticas; II - ciência do clima, análise de impactos e vulnerabi-
+lidade; III - adaptação da sociedade e dos ecossistemas aos impactos das mudanças climáticas; 
+IV - projetos de redução de emissões de gases de efeito estufa – GEE; V - projetos de redução 
+de emissões de carbono pelo desmatamento e degradação florestal, com prioridade a áreas na-
+turais ameaçadas de destruição e relevantes para estratégias de conservação da biodiversidade;  
+VI - desenvolvimento e difusão de tecnologia para a mitigação de emissões de gases do efeito es-
+tufa; VII - formulação de políticas públicas para solução dos problemas relacionados à emissão 
+e mitigação de emissões de GEE; VIII - pesquisa e criação de sistemas e metodologias de projeto 
+e inventários que contribuam para a redução das emissões líquidas de gases de efeito estufa e 
+para a redução das emissões de desmatamento e alteração de uso do solo; IX - desenvolvimento 
+de produtos e serviços que contribuam para a dinâmica de conservação ambiental e estabiliza-
+ção da concentração de gases de efeito estufa; X - apoio às cadeias produtivas sustentáveis; XI - 
+pagamentos por serviços ambientais às comunidades e aos indivíduos cujas atividades compro-
+vadamente contribuam para a estocagem de carbono, atrelada a outros serviços ambientais; 
+XII - sistemas agroflorestais que contribuam para redução de desmatamento e absorção de 
+carbono por sumidouros e para geração de renda; XIII - recuperação de áreas degradadas e 
+restauração florestal, priorizando áreas de reserva legal e áreas de preservação permanente e as 
+áreas prioritárias para a geração e garantia da qualidade dos serviços ambientais” (Brasil, 2018).
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+194
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+Por fim, a Lei 12.114/2009 estabelece que o Conselho Monetário 
+Nacional (CMN) estabelecerá normas reguladoras dos emprésti-
+mos a serem concedidos pelo FNMC. De acordo com suas regras 
+atuais, o Fundo Clima conta com taxas incentivadas, abaixo das 
+taxas de mercado. 25
+Antecedentes básicos
+Apesar de seu pioneirismo, o Fundo Clima sofreu com a volati-
+lidade de sua principal fonte de recursos (os royalties de petró-
+leo). Entre 2011 e 2022, a arrecadação de participações especiais 
+destinadas ao MMA variou entre R$ 94 milhões e R$ 1,6 bilhão 
+(Brasil, 2025). Em alguns anos, o MMA recebeu até 20% do total 
+destinado à União, 26 sendo que em outros recebeu menos de 1%. 
+Na média, o MMA recebeu cerca de 9% dos recursos destinados à 
+União e o Fundo Clima ficou com 26% desse montante. 27 O fluxo 
+irregular de recursos dificulta a execução dos projetos, razão pela 
+qual o fundo não recebeu novos projetos por alguns anos, como 
+já constatado em duas avaliações de suas avaliações (Cepal; Ipea; 
+GIZ, 2016; Inesc, 2022).
+Em termos históricos, até 2023, o fundo recebeu R$  3,1  bilhões, 
+sendo R$  1,9  bilhão  (62%) advindo dos royalties de petróleo e o 
+R$ 1,2 bilhão (38%) restante oriundo de remunerações do BNDES 
+ao fundo (juros sobre as disponibilidades e amortizações e juros dos 
+25  A esse respeito, ver Resolução CMN 5.095/2023, e suas alterações posteriores.
+26  Até 2014, esse era o percentual recebido. Desde então, o percentual tem sido bem 
+mais baixo.
+27  Conforme a Lei 12.114/2009 em seu artigo 3º, inciso I, as fontes de recursos do Fundo 
+Clima oriundas das participações especiais poderiam chegar a até 60% do destinado à União. 
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+195
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+financiamentos). Portanto, igualmente relevante é destacar que o 
+Fundo Clima recebeu um volume de recursos aquém do necessário 
+para o decisivo enfrentamento do estado de emergência climática 
+que aflige os diversos países do mundo.
+As aplicações foram também de R$ 3,1 bilhões, sendo: (i) R$ 3 bi-
+lhões (95%) transferidos ao BNDES por meio de inversões finan-
+ceiras que não impactam o resultado primário do governo central; 
+(ii) R$ 124 milhões (4%) aplicados pelo MMA por meio de con-
+vênios; e (iii)  R$  41  milhões  (1%) em remuneração dos agentes 
+(BNDES e MMA).
+O meio ambiente vem sendo alçado ao centro das políticas 
+de desenvolvimento. Como dito, pelo lado brasileiro, o Go-
+verno Federal formulou o Plano de Transformação Ecológica 
+(PTE). Tal plano trata de mais de cem ações a serem executadas 
+nos próximos quatro anos e articula-se com o Novo Programa 
+de Aceleração de Crescimento  (PAC) e com a Nova Indústria 
+Brasil (NIB), compartilhando ações e áreas temáticas, como:  
+(i) meio ambiente e sustentabilidade, com destaque para a tran-
+sição energética; (ii) questões sociais, como justiça climática e 
+trabalho decente; e (iii) desenvolvimento de cadeias produtivas, 
+em especial as ligadas à infraestrutura verde. 28 Essa articulação é 
+representada na Figura 4.
+28  O PAC e a Nova Indústria Brasil (NIB) têm como focos ações de conectividade e di-
+gitalização, saúde e defesa nacional. Já o PAC e a Transformação Ecológica compartilham 
+ações de finanças e regulação sustentável, como o mercado de carbono, emissão de títulos 
+soberanos sustentáveis e o novo Fundo Clima. Por fim, a política industrial e a transição 
+ecológica têm como foco a bioeconomia.
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+196
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+Figura 4 • Articulação das políticas de desenvolvimento no Brasil
+PTE
+(MF)
+NIB
+(MDIC)
+Novo PAC
+(CC)
+NIB / Novo PAC
+3
+1
+24
+- Conectividade e 
+digitalização
+- Defesa Nacional
+- Complexo da saúde
+NIB / PAC / PTE
+- Meio ambiente
+- Questões sociais
+- Desenvolvimento 
+de cadeias
+Novo PAC / PTE
+- Transição energética
+- Infraestrutura verde
+NIB / PTE
+- Bioeconomia
+Fonte: Elaboração própria.
+Nesse contexto, o Fundo Clima apresenta-se como um dos princi-
+pais instrumentos de financiamento dos investimentos necessários 
+para a transformação ecológica brasileira.
+Em 2024, ingressaram R$ 10 bilhões no Fundo Clima a partir da 
+captação internacional com títulos soberanos sustentáveis pelo  
+Tesouro Nacional, em adição aos R$ 291 milhões de royalties de 
+petróleo e aos R$ 134 milhões de retorno de recursos próprios ao 
+fundo, já previstos no Projeto de Lei Orçamentária de 2024.
+O novo porte ao Fundo Clima o torna um dos maiores fundos glo-
+bais de mitigação e adaptação aos efeitos das mudanças climáticas. 
+O Green Climate Fund (GCF), maior fundo multilateral de finan-
+ciamento climático instituído pela Organização das Nações Unidas 
+(ONU), tem uma carteira de projetos aprovada de US$ 12,3 bilhões 
+e desembolsou US$ 4,6 bilhões em 243 projetos em diversos países 
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+197
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+(posição de julho de 2024). 29 Em 2024, o GCF aprovou o equiva-
+lente a R$ 12,3 bilhões em 34 projetos, ao passo que o Fundo Clima 
+aprovou R$ 10,2 bilhões em 45 operações diretas e 165 operações 
+por intermédio de agentes financeiros.
+A continuidade da agenda de emissão de títulos soberanos susten-
+táveis pelo Tesouro Nacional, cujos recursos são canalizados para 
+o novo Fundo Clima, tem o potencial de tornar seu funding mais 
+estável. A Lei Orçamentária de 2025 prevê novo aporte de R$ 10 bi-
+lhões oriundos da segunda emissão soberana de títulos sustentáveis, 
+além de mais R$ 1,2 bilhão oriundo de royalties de petróleo e retor-
+no de recursos próprios ao fundo.
+A reformulação do apoio do Fundo Clima o direciona para apoio 
+financeiro a seis grandes finalidades, presentes em seu Plano Anual 
+de Aplicação de Recursos (Paar). O Paar é um instrumento de 
+planejamento das ações apoiadas com os recursos do fundo com 
+foco no financiamento de projetos nas modalidades reembolsável 
+e não reembolsável. São suas finalidades: (i) desenvolvimento urba-
+no resiliente e sustentável; 30 (ii) indústria verde; 31 (iii) logística de 
+29  Ver mais em: https://www.greenclimate.fund/projects/dashboard.Acesso em: 28 fev. 2025.
+30  Investimentos em resiliência, capacidade adaptativa e redução de riscos de desastres; 
+requalificação urbana para populações em áreas de risco, com foco em favelas e periferias; 
+sistemas municipais e estaduais de gestão de riscos de desastres; bem como sistemas de 
+tratamento de resíduos e logística reversa, entre outros.
+31  Desenvolvimento tecnológico, de capacidade produtiva e comercialização de bens 
+e serviços voltados à descarbonização; máquinas e equipamentos eficientes; projetos de 
+eficiência energética e adoção de combustíveis alternativos; desenvolvimento e produção 
+de produtos da bioeconomia, entre outros.
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+198
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+transporte, transporte coletivo e mobilidade verdes;32 (iv) transição 
+energética;33 (v) florestas nativas e recursos hídricos; 34 e (vi) servi-
+ços e inovação verdes.35
+Hoje, de acordo com a Resolução CMN 5.190, de 19 de dezembro de 
+2024, o custo financeiro para todas as finalidades é de 6,5% a.a., à ex-
+ceção do apoio a energia solar na finalidade transição energética, cuja 
+taxa é de 9,5% a.a., e da finalidade florestas nativas, cuja taxa é de 1% a.a.
+Desempenho do Fundo Clima em 2024
+Como citado, em 2024 houve um significativo aporte ao Fundo Clima. 
+Entraram cerca de R$ 8,6 milhões em março de 2024, R$ 10,2 bilhões 
+em abril e R$ 238 milhões em setembro. Esses valores viabilizaram a 
+aprovação de R$ 10,2 bilhões em projetos. Com isso, a quase totali-
+dade dos recursos foi executada em apenas nove meses. Hoje, há um 
+pipeline de projetos de mais de R$ 13,5 bilhões constante nos sistemas 
+do BNDES, o que revela a necessidade da entrada de novos recursos 
+no FNMC para ampliação das operações apoiadas.
+32  Transporte urbano coletivo de passageiros sobre trilhos; implantação de bus rapid 
+transit (BRT); implantação de infraestrutura para veículos elétricos; eletrificação das 
+frotas de ônibus para transporte público; apoio a caminhões elétricos, híbridos ou  
+movidos a biocombustíveis para logística urbana; logística de transporte hidroviário e 
+ferroviário, entre outros.
+33  Geração de energia solar, eólica e de novas fontes renováveis; geração de energia a 
+partir de biomassa, coprocessamento e resíduos; armazenamento de energia; eficiência 
+energética; desenvolvimento tecnológico, de capacidade produtiva e comercialização de 
+bens para energias renováveis; desenvolvimento, produção e uso de hidrogênio com fontes 
+renováveis, entre outros.
+34  Manejo florestal sustentável; recomposição da cobertura vegetal; plantio florestal de 
+espécies nativas e sistemas agroflorestais, entre outros.
+35  Serviços educacionais para formação em mudança do clima; startups de inovação cli-
+mática; projetos inovadores em mudança do clima, entre outros.
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+199
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+Os R$  10,2  bilhões aprovados correspondem a 3,4 vezes todas as 
+aprovações da história do Fundo Clima de 2013 a 2023 (R$ 3 bi-
+lhões, em valores atuais). Os dados foram apresentados na 36ª 
+Reunião Ordinária do Comitê Gestor do Fundo Clima. Além do 
+BNDES e do MMA, outros 13 ministérios compõem o comitê, for-
+mado ainda por integrantes da sociedade civil, da academia, dos 
+trabalhadores, da indústria e da agricultura. O Gráfico 5 revela a 
+mudança nos valores do Fundo Clima.
+Gráfico 5 • Orçamento, aprovações, contratações e desembolsos do 
+Programa Fundo Clima – 2020 a 2024 (em R$ milhões correntes)
+587 325 446 637
+10.456
+75 212
+977 821
+10.200
+30 116 728 733
+6.149
+129 85 170
+692 1.097
+2020 2021 2022 2023 2024
+Aprovação Contratação DesembolsoRecebido do orçamento
+Fonte: BNDES (2025, p. 7). 
+Os valores são empregados na indução do desenvolvimento sus-
+tentável e na mitigação dos efeitos climáticos, prioridades do atual 
+governo. Os recursos aprovados foram para energia solar e eólica, bio-
+combustíveis, acesso à água, eletrificação de frota de ônibus, além de 
+financiamentos à indústria verde e a projetos de florestas nativas.
+Em 2024, foram aprovadas 210 operações com valor de R$ 10,2 bi-
+lhões, das quais 45 operações, no valor de R$ 9,5 bilhões, foram 
+realizadas diretamente com o BNDES no âmbito do Programa 
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+200
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+Fundo Clima, e 165, no valor de R$ 650 milhões, de maneira in-
+direta no âmbito do Programa Fundo Clima Automático. Essas 
+estatísticas estão na Tabela 1, na qual constam, também, o núme-
+ro de operações e o valor aprovado por modalidade no Programa 
+Fundo Clima. Cinco modalidades tiveram operações aprovadas 
+em 2024. O destaque, em termos de valor aprovado, foi a modali-
+dade de transição energética, com R$ 6,1 bilhões. Foram 165 ope-
+rações aprovadas por meio dos agentes financeiros, como o apoio a  
+38 balsas graneleiras (no valor de R$ 207 milhões), 250 geradores 
+a biogás (no valor de R$ 150 milhões), 6,1 mil sistemas geradores 
+fotovoltaicos (no valor de R$ 100 milhões) e 36 ônibus elétricos 
+(no valor de R$ 44 milhões).
+Tabela 1 • Número de operações aprovadas nos programas Fundo Clima 
+e Fundo Clima Automático e seus respectivos valores por programa e 
+modalidade –2024
+Programa/modalidade Nº de operações Valor (R$ milhões)
+Programa Fundo Clima 45 9.549,2
+Transição energética 27 6.076,5
+Logística de transporte, transporte 
+coletivo e mobilidade verdes 7 1.507,2
+Indústria verde 4 1.286,8
+Desenvolvimento urbano resiliente  
+e sustentável 5 573,3
+Florestas nativas e recursos hídricos 2 105,4
+Programa Fundo Clima Automático 165 650,3
+Total Fundo Clima 210 10.199,5
+Fonte: BNDES (2025, p. 11). 
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+201
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+O valor aprovado em 2024 corresponde a 3,4 vezes as aprovações 
+do Programa Fundo Clima de 2013 a 2023 (R$ 3 bilhões a preços de 
+fins de 2024 atualizados pelo IPCA), mostrando o salto de patamar 
+do fundo.
+A taxa de juros média, considerando todas as finalidades do Fundo 
+Clima, foi de 8,25% ao ano e o prazo total médio, de 13,6 anos. As 
+taxas de juros correspondem às taxas finais praticadas nos financia-
+mentos, as quais derivam, entre outros fatores, do custo financeiro 
+e do risco de crédito. Essas taxas praticadas estão em linha com as 
+condições requeridas para ampliação do financiamento aos investi-
+mentos em mitigação e adaptação climática.
+Importante destacar que os projetos aprovados com recursos do 
+Fundo Clima envolvem investimentos da ordem de R$ 23 bilhões. 
+Isso significa que os recursos do FNMC mobilizaram outras fontes 
+de recursos e alavancaram investimentos 2,25 vezes maiores do que 
+os valores financiados pelo fundo.
+Considerações finais
+Os fundos públicos são importantes no Brasil e no mundo. Eles são 
+uma importante ferramenta para o financiamento do desenvolvi-
+mento econômico e social, uma vez que buscam assegurar capta-
+ção de recursos para finalidades específicas, perseguindo diferentes 
+entregas associadas ao desenvolvimento econômico, social e/ou 
+ambiental. No caso do Fundo Clima, é um fundo pioneiro para 
+alavancar investimentos necessários para mitigação de emissões de 
+carbono e adaptação da nossa infraestrutura às mudanças do clima, 
+como discutido ao longo do texto.
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+202
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+Além disso, em geral, a alocação de recursos por meio de um fundo 
+está submetida a uma governança própria, a qual define, entre ou-
+tras coisas, a forma e as áreas prioritárias em que os recursos serão 
+aplicados. No caso do Fundo Clima, essa governança conta com a 
+participação de órgãos do governo e de representantes de diversos 
+segmentos da sociedade civil, que participam tanto da deliberação 
+sobre a aplicação de recursos como da sua prestação de contas.
+Mais importante, o Fundo Clima tem impactos e externalidades 
+relevantes. Por exemplo, a estimativa é de que os empreendimentos 
+aprovados em 2024 evitem a emissão de cerca de 86,6 milhões de 
+toneladas de CO 2 equivalente (tCO2eq) ao longo de sua vida útil 
+e 4 milhões de tCO2eq por ano. Isso equivale a 3,2 vezes o que foi 
+evitado nos projetos dos últimos dez anos, desde a criação do fundo. 
+Segundo dados do Sirene,36 isso representa 4,3% da meta anual para 
+atingir o estipulado pela contribuição nacionalmente determinada 
+(NDC, na sigla em inglês) de 2025 com base nos últimos dados dis-
+poníveis (2020).37
+Além disso, estão previstas outras externalidades para os projetos 
+aprovados, como a adição de 1,36 GW de capacidade de geração solar 
+e 122 MW de geração eólica. Essa capacidade é suficiente para, com 
+base na garantia física, atender cerca de 1,7 milhão de domicílios, 
+aproximadamente 28% dos domicílios da cidade do Rio de Janeiro, 
+segundo censo de 2022. Ademais, os projetos apoiados expandem a 
+36  Ver mais em: https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/sirene. 
+37  A meta para 2025 é de emissões de 1,32 GtCO2eq (redução de 48,4% em comparação 
+a 2005). A posição de 2020 é de emissões de 1,79 GtCO2eq (na métrica GWP-AR5). Logo, 
+para atingir a meta, deve-se ter reduções anuais de, pelo menos, 94 MtCO2eq a cada ano. 
+A contribuição das operações do Fundo Clima em 2024 foi de 4 MtCO2eq evitadas, o que 
+representa 4,3% do necessário para o alcance da meta anual.
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+203
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+capacidade de produção de etanol em 1,5 milhão de m³/ano (4% da 
+produção nacional em 2024) 38 e de biometano em 20,4  milhões 
+de m³/ano (1% da produção nacional em 2024). Além disso, há 
+expansão de 25,5 mil toneladas/ano na capacidade de produção 
+de biofertilizantes.
+O Fundo Clima gera impactos relevantes também sobre a cadeia 
+associada à mobilidade elétrica. Além dos 341 ônibus elétricos ad-
+quiridos por governos ou concessionárias para transporte urbano 
+em 2024, teve impacto relevante sobre a capacidade de produção de 
+lítio – usado nas baterias de carros elétricos e importante insumo 
+para descarbonização da frota de veículos – em 250 mil toneladas/
+ano, quase duplicando a capacidade do país. 
+Também foram apoiados projetos que reduzem riscos de enchen-
+tes e projetos que garantem acesso a água e ampliam a capacidade 
+de reserva de água em sete milhões de litros. Diante do cenário de 
+ampliação da frequência dos desastres e de seus impactos sobre as 
+cidades, trata-se de externalidades absolutamente relevantes.
+Por fim, como um último exemplo, com as operações apoiadas a 
+previsão de área a ser reflorestada é de cerca de 13 mil hectares – 
+uma área superior à do município de Vitória (ES).
+Esses são alguns exemplos das externalidades geradas pelos apoios 
+concedidos com recursos do Fundo Clima em 2024, o que ressalta 
+a importância do fundo e seu potencial como instrumento de pro-
+moção das mudanças estruturais necessárias à descarbonização da 
+economia brasileira.
+38  Ver mais em: https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-estatisti-
+cos/de/pb/producao-etanol-m3.xls. 
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+204
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+A urgência climática e a necessidade de mudanças estruturais acar-
+retam a necessidade de vultosos investimentos em diversas áreas 
+para efetuar a descarbonização. Entre elas, para ampliar a captura 
+de carbono (reflorestamento), obter maior eficiência no consumo de 
+energia e substituir a matriz de energia de base fóssil por fontes  
+de energia limpa, tais como solar, eólica, biocombustíveis, hidrogê-
+nio verde etc.
+Como discutido ao longo do artigo, os bancos de desenvolvimento e 
+a existência de funding estável e com custo inferior às taxas praticadas 
+pelo mercado são fundamentais para acelerar as mudanças estruturais. 
+Portanto, o Fundo Clima vem sendo um instrumento importante na 
+implementação de uma estratégia de investimentos de baixo carbo-
+no e sustentáveis, possibilitando importante contribuição do BNDES 
+para um big push para a sustentabilidade (Aidar; Moraes, 2023).
+Referências
+AIDAR, G.; MORAES, F. Financiando o Big Push: caminhos para destravar a 
+transição social e ecológica no Brasil. Brasília, DF: CEPAL, 2023. Disponível em: 
+https://repositorio.cepal.org/entities/publication/d1dd2a89-73c8-40df-93c2-
+d7f9c1172ddc. Acesso em: 28 fev. 2025.
+BCG – Boston Consulting Group. The green energy transition must happen 
+roughly three times faster than previous fuel transitions to maintain a livable 
+planet. BCG, Boston, 6 set. 2023. Disponível em: https://www.bcg.com/
+press/6september2023-green-energy-transition-maintain-livable-planet. 
+Acesso em: 28 fev. 2025.
+BHATTACHARYA, A.; SONGWE, V.; SOUBEYRAN, E.; STERN, N. Raising 
+ambition and accelerating delivery of climate finance. London: Independent High 
+Level Expert Group on Climate Finance, 2024. Disponível em: https://www.lse.
+ac.uk/granthaminstitute/wp-content/uploads/2024/11/Raising-ambition-and-
+accelerating-delivery-of-climate-finance_Third-IHLEG-report.pdf. Acesso em: 
+28 fev. 2025.
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+205
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+BNDES – BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO 
+E SOCIAL. Diretrizes do BNDES para mudança climática: compromissos e desafios 
+para uma transição justa. Rio de Janeiro: BNDES, 2023. Disponível em: https://
+www.bndes.gov.br/wps/portal/site/home/desenvolvimento-sustentavel/clima/
+publicacoes. Acesso em: 28 fev. 2025.
+BNDES – BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO 
+E SOCIAL. Fundo Amazônia: Relatório de Atividades 2023. Rio de Janeiro: 
+BNDES, 2024. Disponível em: https://www.fundoamazonia.gov.br/export/
+sites/default/pt/.galleries/documentos/rafa/RAFA_2023_port.pdf. Acesso em: 
+28 fev. 2025.
+BNDES – BANCO NACIONAL DE DESENVOLVIMENTO 
+ECONÔMICO E SOCIAL. Fundo Nacional sobre Mudança no Clima 
+(FNMC): Relatório de execução 2024 – Recursos reembolsáveis. Rio de 
+Janeiro: BNDES, 2025. Disponível em: http://web.bndes.gov.br/bib/jspui/
+handle/1408/26687. Acesso em: 06 mai. 2025.
+BRASIL. ANP – Agência Nacional do Petróleo e Gás. Participações 
+governamentais consolidadas. ANP, Brasília, DF, 2025. Disponível em: https://
+www.gov.br/anp/pt-br/assuntos/royalties-e-outras-participacoes/participacoes-
+governamentais-consolidadas. Acesso em: 28 fev. 2025.
+BRASIL. Decreto 9.578, de 22 de novembro de 2018. Consolida atos 
+normativos editados pelo Poder Executivo federal que dispõem sobre o 
+Fundo Nacional sobre Mudança do Clima, de que trata a Lei 12.114, de 9 de 
+dezembro de 2009, e a Política Nacional sobre Mudança do Clima, de que 
+trata a Lei 12.187, de 29 de dezembro de 2009. Diário Oficial da União:Brasília, 
+DF, 23 nov. 2018. Disponível em: https://www.planalto.gov.br/ccivil_03/_
+Ato2015-2018/2018/Decreto/D9578.htm. Acesso em: 06 mai. 2025.
+BUCHNER, B.; NARAN, B.; PADMANABHI, R.; STOUT, S.; STRINATI, C.; 
+WIGNARAJAH, D.; MIAO, G.; CONNOLLY, J.; MARINI, N. Global landscape 
+of climate finance 2023. San Francisco: CPI – Climate Policy Initiative, 2023. 
+Disponível em: https://www.climatepolicyinitiative.org/pt-br/publication/
+global-landscape-of-climate-finance-2023/. Acesso em: 28 fev. 2025.
+CARDOSO, A. Transformação ecológica, Fundo Clima e Eco Invest: por onde 
+caminha o financiamento climático no Brasil? Brasília, DF: Inesc, 2024. (Nota 
+Técnica). Disponível em: https://inesc.org.br/wp-content/uploads/2024/06/
+financiamento-climatico-brasil-v2.pdf?x69356. Acesso em: 28 fev. 2025.
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+206
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+CARRERAS, M.; GRIFFITH-JONES, S.; OCAMPO, J. A.; XU, J.; HENOW, 
+A. Implementing innovation policies: capabilities of national development 
+banks for innovation financing. Washington, DC: IDB – Inter-American 
+Development Bank, 2022. Disponível em: https://doi.org/10.18235/0004390. 
+Acesso em: 28 fev. 2025.
+CARRINGTON, D. IPCC report’s verdict on climate crimes of humanity: 
+guilty as hell. The Guardian. Londres, 9 ago. 2021. Disponível em: https://www.
+theguardian.com/environment/2021/aug/09/ipcc-reports-verdict-on-climate-
+crimes-of-humanity-guilty-as-hell. Acesso em: 10 fev. 2025.
+CASTRO, L.; STUDART. R. Improving access to climate finance funds for national 
+and subnational development banks. T20 Policy Brief. Task Force 06 Strengthening 
+Multilateralism and Global Governance. Rio de Janeiro: G20, 2024. Disponível 
+em: https://t20brasil.org/media/documentos/arquivos/TF06_ST_04__
+Improving_access_t66fbf556c468a.pdf. Acesso em: 28 fev. 2025.
+CEPAL – COMISSÃO ECONÔMICA PARA A AMÉRICA LATINA E O 
+CARIBE; IPEA – INSTITUTO DE PESQUISA ECONÔMICA APLICADA; 
+GIZ – DEUTSCHE GESELLSCHAFT FÜR INTERNATIONALE 
+ZUSAMMENARBEIT. Avaliação do Fundo Clima. Brasília, DF: Cepal; 
+Ipea; Eschborn: GIZ, 2016. Disponível em: https://repositorio.ipea.gov.br/
+bitstream/11058/7425/1/Avaliacao_do_Fundo_Clima.pdf. Acesso em: 28 fev. 2025.
+COPERNICUS. Copernicus: 2024 is the first year to exceed 1.5°C above 
+pre-industrial level. Copernicus, Reading, 10 jan. 2025. Disponível em: https://
+climate.copernicus.eu/copernicus-2024-first-year-exceed-15degc-above-pre-
+industrial-level. Acesso em: 28 fev. 2025.
+EIB – EUROPEAN INVESTMENT BANK. Climate financing in Latin 
+America and the Caribbean: how are public development banks supporting the 
+climate transition? Luxembourg: EIB, 2024. Disponível em: https://www.eib.
+org/attachments/lucalli/20240047_climate_financing_in_latin_america_and_
+the_caribbean_en.pdf. Acesso em: 28 fev. 2025.
+FALDUTO, C.; NOELS, J.; JACHNIK, R. The new collective quantified goal 
+on climate finance: options for reflecting the role of different sources, actors, 
+and qualitative considerations. Paris: OECD – Organisation for Economic 
+Cooperation and Development, 2024. (Climate Change Expert Group Paper, 
+n. 2024[2]). Disponível em: https://www.oecd.org/en/publications/the-new-
+collective-quantified-goal-on-climate-finance_7b28309b-en.html. Acesso 
+em: 28 fev. 2025.
+O novo Fundo Clima: potencializando o papel  
+do BNDES no combate à emergência climática
+207
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+G20. Declaração de Líderes do Rio de Janeiro. Rio de Janeiro: G20, 2024. Disponível 
+em: https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/g20-rio-de-
+janeiro-leaders-em-portugues.pdf. Acesso em: 28 fev. 2025.
+GALLO, A.; PAPELBAUM, F.; MACHADO, L.; GELELETE, M. O desafio para 
+cidades resilientes no Brasil. BNDES Setorial. No prelo.
+GROUP OF EXPERTS TO THE G20 TF-CLIMA – TASKFORCE ON A 
+GLOBAL MOBILIZATION AGAINST CLIMATE CHANGE. A green and just 
+planet: the 1.5°c agenda for governing global industrial and financial policies in 
+the G20. [S.l.]: G20, 2024. Disponível em: https://www.ucl.ac.uk/bartlett/public-
+purpose/sites/bartlett_public_purpose/files/independent_report_tfclima_group_
+of_experts.pdf. Acesso em: 28 fev. 2025.
+IEG – G20 INDEPENDENT EXPERTS GROUP. Strengthening multilateral 
+development banks: the triple agenda. [S.l.]: G20, 2023. Disponível em: https://
+www.cgdev.org/publication/strengthening-multilateral-development-banks-
+triple-agenda. Acesso em: 28 fev. 2025.
+INESC – INSTITUTO DE ESTUDOS SOCIOECONÔMICOS. Fundo Nacional 
+sobre Mudança do Clima: governança, recursos, gestão e desafios. Brasília, DF: 
+Inesc, 2022. (Caminhos para o Financiamento da Política Socioambiental 
+no Brasil, n. 3). Disponível em: https://www.inesc.org.br/wp-content/
+uploads/2022/11/Fundo-clima_Inesc.pdf. Acesso em: 28 fev. 2025.
+IPCC – INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE. 
+Climate change 2021: the physical science basis. Geneva: United Nations, 2021. 
+(Assessment Report, n. 6). Disponível em https://www.ipcc.ch/report/ar6/wg1/. 
+Acesso em: 28 fev. 2025.
+IPCC – PAINEL INTERGOVERNAMENTAL SOBRE MUDANÇA DO 
+CLIMA. Mudança do clima 2023: Relatório síntese. Genebra: Organização 
+das Nações Unidas, 2023. Disponível em https://www.gov.br/mcti/pt-br/
+acompanhe-o-mcti/sirene/publicacoes/relatorios-do-ipcc/arquivos/pdf/copy_of_
+IPCC_Longer_Report_2023_Portugues.pdf. Acesso em: 28 fev. 2025.
+KEMP, L.; XU, C.; DEPLEDGE, J.; EBI, K.; GIBBINS, G.; KOHLER, T.; 
+ROCKSTRÖM, J.; SCHEFFER, M.; SCHELLNHUBER, H.; STEFFEN, 
+W.; LENTON, T. Climate Endgame: Exploring catastrophic climate change 
+scenarios. Proceedings of the National Academy of Sciences (PNAS), vol. 119, n. 34, 
+2022. Disponível em: https://doi.org/10.1073/pnas.2108146119. Acesso em: 28 
+fev. 2025.
+Gabriel Marino Daudt, Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+208
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 159-208, dez. 2024
+LARSEN, G.; LAXTON, V. Bancos de desenvolvimento começam a estimular 
+a ação climática. Terão a ambição necessária? World Resources Institute Brasil, 
+São Paulo, 27 mai. 2024. Disponível em: https://www.wribrasil.org.br/noticias/
+bancos-desenvolvimento-acao-climatica-reforma. Acesso em: 28 fev. 2025.
+MAZZUCATO, M. Policy with a purpose. Finance & Development Magazine, 
+Washington, DC, 2024. Disponível em: https://www.imf.org/en/Publications/
+fandd/issues/2024/09/policy-with-a-purpose-mazzucato. Acesso em: 28 fev. 2025.
+MCKINSEY & COMPANY. The cost will not be net zero. McKinsey & Company, 
+New York, 18 fev. 2024. Disponível em: https://www.mckinsey.com/featured-
+insights/sustainable-inclusive-growth/charts/the-cost-will-not-be-net-zero. 
+Acesso em: 28 fev. 2025.
+MEDEIROS, C.; TREBAT, N. Climate change and its social and developmental 
+impacts. London: EAEPE – European Association for Evolutionary Political 
+Economy, 2025. (no prelo)
+OCAMPO, J.A.; GRIFFITH-JONES, S. (Eds.). The future of national development 
+banks. Oxford: Oxford University Press, 2018.
+PEDUZZI, P.; VERDÉLIO, A. Para Lula, R$ 100 bi em financiamento 
+climático são insuficientes. Agência Brasil, 9 ago. 2023. Disponível em: https://
+agenciabrasil.ebc.com.br/politica/noticia/2023-08/para-lula-us-100-bi-em-
+financiamento-climatico-sao-insuficientes. Acesso em: 28 fev. 2025.
+WORLD BANK. Brazil country climate and development report. Washington, DC: 
+World Bank Group, 2023. Disponível em: https://openknowledge.worldbank.
+org/entities/publication/a713713d-0b47-4eb3-a162-be9a383c341b. Acesso em: 
+28 fev. 2025.

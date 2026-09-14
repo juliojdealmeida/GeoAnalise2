@@ -1,0 +1,1781 @@
+Cleaner Environmental Systems 6 (2022) 100082
+Available online 1 June 2022
+2666-7894/© 2022 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Financing low-carbon growth in Africa: Policy path for strengthening the 
+links between financial intermediation, resource allocation and 
+environmental sustainability 
+Chinazaekpere Nwani 
+Department of Economics and Development Studies, Alex Ekwueme Federal University, Ndufu-Alike, Ebonyi State, Nigeria   
+A R T I C L E I N F O  
+Keywords: 
+Bank credit allocation 
+Low-carbon growth 
+Private sector 
+Government-owned enterprises 
+Renewable energy 
+A B S T R A C T  
+Financial intermediation drives resource allocation in the economy, which can influence the carbon emission 
+intensity of economic output (CO2gdp). This study examines the impact of bank credit allocation on CO2gdp in 
+African economies during the period 1995–2018. Two policy scenarios are empirically evaluated, taking into 
+account the behaviour of financial intermediaries with limited financial resources for credit supply to the pro­
+ductive sectors. Policy Scenario I, a credit allocation system that places a greater emphasis on financing de­
+mands of government and state-owned enterprises (GSEs), has a positive (increasing) effect on CO2gdp. The 
+alternative policy scenario, Policy Scenario II, which places a greater emphasis on financing demands of private 
+sector entities (PSUs), has a negative (decreasing) effect on CO2gdp with stronger impact in the more carbon- 
+intensive economies. In addition, renewable energy consumption makes greater contribution to reducing 
+CO2gdp under Policy Scenario II. By implication, more credit supply to the PSUs strengthens the link between 
+resource allocation and economic efficiency, resulting in the creation of greener economic output. Thus, the 
+development of financial intermediation could play a role in helping African economies avoid carbon-intensive 
+path to economic growth.   
+1. Introduction 
+The United Nations through Sustainable Development Goal 13 (UN 
+SDG 13: Climate Action) has refocused global attention on the transition 
+to a low-carbon economy as a key condition for ensuring that economic 
+targets are sustainable. As in other developing continents, economic 
+strategies in African economies are designed under the neoclassical 
+argument that environmental impacts will be minimal and, as such, 
+should be considered after the economic target of high per capita gross 
+domestic product (GDP) has been achieved. Over the past six decades, 
+Africa has experienced increasing economic output. According to the 
+World Bank, Sub-Saharan Africa’s per capita GDP increased by over 45 
+per cent between 1960 and 2018, rising from 1125.41 in constant 2015 
+US$ in 1960 to US$1658.65 in 2018 (WDI, 2022). The North African 
+countries also achieved increased economic output. For example, 
+Egypt‘s per capita GDP increased from US$762.13 to US$3831.20 (WDI, 
+2022). Hopes for sustained growth in GDP per capita could be jeopar­
+dized by the growing carbon footprint of the economies. The estimates 
+of national carbon dioxide (CO2) emissions show that in 2018, 
+sub-Saharan Africa emitted 0.47 kg of CO2 per 2015 US$ of GDP (WDI, 
+2022). Estimates are higher for North African countries, Algeria, Egypt, 
+Morocco, Tunisia and Libya at 0.86 kg, 0.65 kg, 0.61 kg, 0.66 kg and 
+1.49 kg, respectively. On average, the global economy emitted 0.41 kg of 
+CO2 per 2015 US$ of GDP in 2018 (WDI, 2022). By the standard of the 
+world average, African economies could be considered more carbon 
+intensive. While the global economy reduced the carbon intensity of 
+GDP by 47.1 per cent, sub-Saharan Africa achieved only a 9 per cent 
+reduction over the period 1960–2018, and in some of the North African 
+countries, the carbon intensity of GDP increased by more than 100 per 
+cent (e.g., in Algeria) (WDI, 2022). 
+As African countries continue to take steps to grow their economies, 
+ensuring that environmental protection is inclusive of the continent’s 
+needs and priorities will be crucial to ensuring that future emissions 
+from the continent do not outstrip progress made by other countries (Lin 
+and Agyeman, 2021). A key consideration will be the role of financial 
+intermediaries (banks and financial institutions that accept transferable 
+deposits) in strengthening the links between resource allocation, eco­
+nomic efficiency and environmental sustainability. Among other roles, 
+the financial intermediary sector mobilizes savings and allocates these 
+savings to other economic entities (Abrar et al., 2021; Umar et al., 
+E-mail addresses: nwani.chinazaekpere@funai.edu.ng, nwanichinaza@gmail.com.  
+Contents lists available at ScienceDirect 
+Cleaner Environmental Systems 
+journal homepage: www.journals.elsevier.com/cleaner-environmental-systems 
+https://doi.org/10.1016/j.cesys.2022.100082 
+Received 12 April 2022; Received in revised form 22 May 2022; Accepted 24 May 2022   
+
+
+Cleaner Environmental Systems 6 (2022) 100082
+2
+2021). In theory, the composition of investment and consumption de­
+mand in the economy changes as financial resources are withdrawn from 
+the surplus units to finance productive sectors (Umar et al., 2021; Wen 
+et al., 2021; Zhang et al., 2021). As a result, the financial intermediary 
+sector may play an important role in constraining investment in 
+resource-intensive infrastructure and technology. Banks in several 
+countries have used variable interest rates and structured loan packages 
+to limit funding for substantially polluting investment operations and 
+household demand for energy-intensive consumption items (Wen et al., 
+2021). Their expanding responsibility in this regard also includes 
+increased support for research and development in environmentally 
+friendly technologies. Recent evidence also suggests that banks increase 
+firms’ ability to develop technologically and achieve technical effi­
+ciencies through credit services (Wang et al., 2021). 
+It is unlikely that decisions of financial intermediaries regarding 
+credit allocation will align with the environmental sustainability target 
+in all policy contexts (Cull and Xu, 2000; Dong et al., 2020; Lamperti 
+et al., 2021). One key reason is that the economic and environmental 
+goals of various economic entities, both public and private, differ 
+significantly (Cull and Xu, 2000; Dong et al., 2020; Yang et al., 2021). As 
+a result, financial intermediaries would have to decide how to structure 
+their credit allocation; whether a credit allocation system that prioritizes 
+credit requests from private sector economic units (PSUs) over requests 
+from the government and state-owned enterprises (GSEs) would be more 
+socially, environmentally, and financially sustainable, with the overall 
+goal of reducing the environmental impacts of human demands (Yang 
+et al., 2021). The divergent economic interests of public and private 
+entities create competition for the limited bank credit resources (Dong 
+et al., 2020; Yang et al., 2021). As the engine of the market system, the 
+private sector encourages competition among economic units, making 
+them more productive and capable of boosting economic efficiency and 
+innovations in environmentally-friendly technology (Mo, 2018; Mauli­
+dia et al., 2019; Sloan et al., 2019). However, in the majority of African 
+economies, GSEs represent a key component of economically dominant 
+industries. Due to the political links between GSEs and the government, 
+GSEs benefit from preferential policies (Firth et al., 2009; Li et al., 2012; 
+Dong et al., 2020). Not surprisingly, GSEs have had increased access to 
+bank credit resources in the majority of African economies in recent 
+years (see GFD, 2021). 
+Building on the preceding discussion, this study examines how the 
+structure of bank credit allocation affects the carbon emission intensity 
+of economic growth in Africa. There are two key areas where this study 
+extends existing studies and implicitly contributes to the literature. One, 
+this study derives policy pathways for low-carbon growth in Africa by 
+relying on the structure of credit resource allocation. Under Policy 
+Scenario I, the credit allocation system places a greater emphasis on 
+financing government and state-owned enterprises. In an alternative 
+policy scenario (Policy Scenario II), the credit allocation system priori­
+tizes financing private sector units. These policy paths invariably entail 
+the use of bank credit allocation to determine the environmental impacts 
+of PUSs and GSEs (Yang et al., 2021). The literature on this aspect of 
+economic and environmental policy paths is still scanty. In fact, related 
+studies on the topic have only been able to explore the Chinese economy, 
+partly because of its long history of government engagement in eco­
+nomic activities (see Dong et al., 2020; Yang et al., 2021). Therefore, this 
+present study further enriches the literature on the topic by examining 
+African economies. According to the Freedom Heritage, African econo­
+mies are among the most economically repressed economies and have 
+strong presence of government intervention in economic activities (see 
+Miller et al., 2022). Two, existing related studies have separated the 
+economic and environmental dimensions of sustainable development 
+(SD), using aggregate economic output to model the economic dimen­
+sion and carbon emissions to model the environmental dimension. It 
+follows that conflicting policy pathways have been proposed in the 
+literature. In light of this, this study integrates the economic and envi­
+ronmental dimensions of SD in an innovative way by employing a 
+concept that defines CO2 emissions in terms of per $1 of GDP created, 
+which, according to the United Nations Economic and Social Commis­
+sion (UN ESCAP), tracks the synergies and trade-offs between the 
+environmental and economic dimensions of SD (UN, 2009). 
+The insights gained from this study can inform various stakeholders 
+on how to strengthen the links between financial intermediation, 
+resource allocation and environmental sustainability. Monetary au­
+thorities such as central banks and financial intermediaries (commercial 
+banks and other deposit-taking financial institutions) can learn how to 
+transform credit creation and related policy decisions into tools for 
+building sustainable economic productive capacity. The results can be 
+used by multilateral development institutions such as the World Bank 
+and the African Development Bank to identify critical areas for future 
+action regarding resource allocation in Africa. 
+The remaining part of the study is discussed in the sections that 
+follow: theoretical mechanism and related empirical literature, empir­
+ical methodology, results, conclusion, and policy remarks. 
+2. Theoretical mechanism and related empirical literature 
+In the economics of banking and finance, the credit policies of 
+financial intermediaries provide the mechanism for linking mobilised 
+financial resources to the real economy, where entities that engage in 
+the production of goods and services interact (Gertler and Kiyotaki, 
+2010). In the illustration in Fig. 1, these productive entities are cat­
+egorised into two units; government and state-owned enterprises (GSEs) 
+and private sector units (PSUs). These two units are economically 
+motivated by diverse interests. Whereas PSUs are owned by entrepre­
+neurs or shareholders and, as such, operate to achieve economic gains 
+for them, GSEs are funded by public revenue (e.g., taxation) and are 
+controlled predominantly by political forces rather than market forces 
+(Boyne, 2002). Boyne (2002) reviewed evidence from 34 studies and 
+found that GSEs have weaker organizational commitment than PSUs. 
+That notwithstanding, Dong et al. (2020) argued that the diverse in­
+terests among GSEs and PSUs create intense competition for limited 
+bank credit resources. This argument has been elaborated by Yang et al. 
+(2021) and Larsen and Oehler (2022). The political ties between GSEs 
+and the government mean GSEs benefit from favourable policies. PSUs 
+rely on signals from market forces and policies set by banks and mon­
+etary authorities to shape their demand for credit (Firth et al., 2009; Li 
+et al., 2012; Dong et al., 2020). In the face of limited financial resources 
+for lending, financial intermediaries must choose between two policy 
+alternatives, each of which has the potential to expand the scale of 
+economic activity or promote structural and technological changes in 
+the economy: 
+• Policy Scenario I: a credit allocation system that gives a high pri­
+ority to GSEs. This limits credit resources that PSUs can access in the 
+banking system.  
+• Policy Scenario 1I: a credit allocation system that gives a high 
+priority to PSUs. This reduces the amount of financial resources 
+available to the banking system for lending support to GSEs. 
+The two policy scenarios may have different environmental impacts. 
+Because of government influence, GSEs are projected to be subject to 
+stronger environmental protection regulations (Yang et al., 2021). As a 
+result, they are thought to be more capable of demonstrating a greater 
+readiness to safeguard the environment through bank credit options 
+(Yang et al., 2021). This line of thought also assumes that, because 
+private enterprises are obligated to meet their owners’ profit demands, 
+they may develop little interest in mitigating environmental concerns 
+due to the additional costs involved. Policy Scenario II puts more 
+emphasis on increasing private sector involvement in economic activity 
+and reducing the economic participation of GSEs in the economy. The 
+rationale for this policy consideration is that a credit allocation system 
+that puts greater emphasis on financing GSEs (e.g., Policy Scenario I) 
+C. Nwani                                                                                                                                                                                                                                          
+
+
+Cleaner Environmental Systems 6 (2022) 100082
+3
+could have adverse effects on the links between resource allocation and 
+low-carbon productive capacity (Larsen and Oehler, 2022). As noted by 
+Cull and Xu (2000), the responsibilities imposed on the financial inter­
+mediary system by such a policy may limit the amount of external 
+funding that PSUs can access. In this context, disentangling possibly 
+conflicting effects of credit policy choices on the composition of eco­
+nomic activity as induced by varied economic interests of GSEs and PSUs 
+becomes a policy tool for shaping the environmental impacts of the 
+economy, as measured by the carbon intensity of economic output (e.g., 
+CO2 emissions per $1 of GDP). 
+Fig. 1 depicts three impact channels: expansion in the scope of eco­
+nomic activity (scale effect), upgrading of industrial structure (struc­
+tural effect), and improvement in technological innovation and adoption 
+(technological effect) (see Dong et al., 2020; Zhang et al., 2021). The 
+expansion of economic activity is always accompanied by urbanization, 
+increased 
+energy 
+consumption, 
+and 
+households’ 
+demand 
+for 
+resource-intensive goods, resulting in higher CO2 emissions per $1 of 
+GDP (Destek, 2021; Pu and Yang, 2022). Both Policy Scenario I and 
+Policy Scenario II have the capacity to increase per capita income, 
+which further expands production and consumption scale. In either case, 
+the environmental impact becomes a function of the carbon-intensity of 
+economic demands (Zahoor et al., 2022). For instance, if Policy Sce­
+nario I increases demand for automobiles, the demand for fossil fuels 
+will also increase, and, as a result, the amount of CO2 emissions per $1 of 
+GDP will increase. On the other hand, either of the two policy paths that 
+can enhance the upgrading of industrial structure by stimulating tertiary 
+industrial output, such as services, which are less resource-intensive, can 
+reduce the carbon intensity of economic output (Pu and Yang, 2022). 
+The production of more tertiary products and services means house­
+holds’ access to bank credit will also translate to an upgrading of con­
+sumption demands to less carbon-intensive goods and services (Zhang 
+et al., 2021). The third impact channel considers that bank credit can 
+enhance firms’ capacity for research and development (R&D) and for 
+investment in technological innovation (Wang et al., 2021; Pu and Yang, 
+Fig. 1. Theoretical linkages between bank credit allocation and carbon intensity of economic growth.  
+C. Nwani                                                                                                                                                                                                                                          
+
+
+Cleaner Environmental Systems 6 (2022) 100082
+4
+2022), which will improve the efficiency of production processes and 
+thus reduce the carbon intensity of economic output (Pu and Yang, 
+2022). 
+According to Ockwell et al. (2018), the private sector is the leading 
+actor driving the development and diffusion of clean technologies in 
+Africa. It thus means that industrial structure upgrading, investment in 
+R&D, and technological innovation, which are core channels through 
+which credit resource allocation generates low-carbon output, will be 
+affected by policy choices that limit the credit resources that PSUs can 
+access in the banking system, such as the one formulated under Policy 
+Scenario I. This view is consistent with the findings of Zhang et al. 
+(2021) and a number of other studies in the literature. For example, 
+Chang et al. (2019) showed that credit policy and financial constraints 
+have a significant impact on R&D investments in renewable energy 
+technologies. Hu et al. (2020) showed that a significant relationship 
+exists between credit policies that support low-carbon technologies and 
+industrial structure upgrading. Zhang et al. (2021) extended these an­
+alyses to show that such a credit policy strategy will also mitigate CO2 
+emissions. In another recent analysis, Khan et al. (2021) showed that 
+credit constraints inhibit technology and non-technology-related inno­
+vation in the private sector in developing economies. There are other 
+studies that have examined how access to credit resources shapes the 
+low-carbon path to growth (see Polzin et al., 2021; M´esonnier, 2022; 
+Zhang et al., 2022). However, only a small number of these studies 
+specifically raised questions similar to the implications highlighted by 
+the two policy scenarios under consideration in this study. 
+Lamperti et al. (2021) used a macro-financial agent-based model to 
+examine a series of policy scenarios for the links between CO2 emissions, 
+credit policies, and economic dynamics. The findings revealed that 
+financial constraints intensify the economic impact of climate shocks, 
+whereas policies that encourage the provision of credit to firms increase 
+economic productivity by facilitating investments in low-carbon capital 
+goods. Given the diverse interests of GSEs and PSUs, the majority of the 
+other related studies focused on the Chinese economy, where govern­
+ment support for GSEs influences bank credit allocation. Dong et al. 
+(2020) showed that the structure of bank credit allocation in China fa­
+vours significantly heavy and polluting industries, and that by giving 
+preference 
+to 
+these 
+industries, 
+China 
+generates 
+significantly 
+carbon-intensive output. The underlying explanation, according to 
+Larsen and Oehler (2022), is that carbon-intensive industries are 
+generally state-owned, whereas clean energy firms are largely 
+private-sector-owned. In another study, Yang et al. (2021) used spatial 
+econometric methodologies to evaluate the impact of credit allocation 
+structures on CO2 emissions in China and found that the credit allocation 
+system adds significantly to CO2 emissions when greater emphasis is 
+placed on financing PSUs. The analysis found no evidence that bank 
+lending to GSEs crowds out more productive private sector investment 
+in energy efficiency and other low-carbon technologies. Instead, the 
+study found that GSEs are becoming more environmentally responsible 
+and that increasing their access to credit resources boosts 
+high-social-return initiatives like renewable energy infrastructure, with 
+a knock-on effect on low-carbon growth strategies. 
+The dominant presence of GSEs in all African economies, as well as 
+the growing need to encourage economic diversification on the conti­
+nent through private sector-oriented economic policies, mean that this 
+study can make a valuable contribution to the literature. The goal is to 
+explore policy strategies on how financial intermediation could 
+strengthen the links between resource allocation and low-carbon growth 
+trajectories. 
+3. Empirical methodology 
+3.1. Theoretical framework and model specification 
+The concept of low-carbon growth, as defined in Equation (1), is 
+measured by the carbon intensity of economic output. In line with the 
+literature, GDP is used as the measure of aggregate economic output. 
+The concept entails, on one hand, reducing environmental impacts 
+while, on the other hand, allowing economic activity to grow (i.e., 
+reducing CO2 emissions per unit of GDP). As a yardstick for under­
+standing the linkages between economic activity and environmental 
+impacts, CO2 emissions per unit of GDP evaluate economic policies to 
+assist policymakers in improving the eco-efficiency of the economy (UN, 
+2009). 
+Low −carbon growth = ↓Carbon Dioxide (CO2) Emissions
+↑Gross Domestic Product (GDP)
+= ↓CO2 per unit of GDP
+(1) 
+The path to achieving low-carbon output could be shaped by a 
+number of factors. One of these factors is the level of economic devel­
+opment. According to the environmental Kuznets curve (EKC) hypoth­
+esis, rising per capita income increases CO2 emissions in the early stages 
+of development as structural transformations stimulate aggregate output 
+through energy-intensive industrial production, but reduces CO2 emis­
+sions in later stages when the economy structurally shifts to techno­
+logically driven light-industry sectors (Tenaw and Beyene, 2021). To 
+account for the EKC hypothesis, per-capita GDP is included in the model, 
+both on its own and in its squared term. Further specification consid­
+erations are made, taking into consideration that African economies are 
+characterized by an undiversified energy sector and a heavy reliance on 
+natural resources (UN, 2016). Thus, renewable energy and natural 
+resource extraction are introduced as additional variables in the model. 
+Given the importance of diversifying African economies, it is critical to 
+recognize how these dimensions of economic structure shape the con­
+tinent’s actions towards the low-carbon growth path. The UN SDG 7 
+target 2 recommends increasing the use of renewable energy as part of 
+the strategies for reducing the carbon intensity of economic output. 
+According to Pehl et al. (2017), solar, wind, and other renewable energy 
+sources create an insignificant carbon footprint compared to traditional 
+fossil fuels (oil, coal, and gas). Also, natural resource utilization in Af­
+rican economies has been accompanied by high energy and material 
+intensities, as well as waste generation (UN, 2016). These factors can 
+undermine economic progress by intensifying carbon emissions. 
+Together, the introduction of these variables into the model is aimed at 
+broadening insights for policy decisions. Based on these considerations, 
+the following equation is formulated to guide the empirical 
+investigation: 
+ln CO2gdpi, t = φ0 + φ1 ln BCi, t + φ2 ln PCgdpi, t + φ3 ln PCgdpSQi, t
++ φ4 ln REi, t + φ5 ln NRi, t + εi, t
+(2)  
+Where CO2gdp denotes CO2 emissions per unit of GDP (i.e., emission 
+intensity of economic growth), BC denotes bank financing, PCgdp de­
+notes per capita income, PCgdpSQ denotes the square of per capital in­
+come, RE denotes renewable energy consumption while NR denotes 
+natural resource extraction. φ0 is the intercept of the functional rela­
+tionship and φ1…, φ5 are the coefficients of the explanatory variables 
+that serve as the basis for explaining the respective impacts of the var­
+iables on CO2gdp . Other parameters in the functional relationship 
+include the error term ε, the cross-sectional country index i, and the time 
+index t. The “ln” symbol indicates that all the variables are defined in 
+their natural logarithmic form. The inverted U-shaped curve as pre­
+dicted by the EKC hypothesis is valid if φ2 > 0 and φ3 < 0. Also, φ4 is 
+expected to have a negative sign to indicate that RE reduces CO2gdp. 
+For, φ5, existing related studies have suggested different signs (see Shittu 
+et al., 2021; Nathaniel et al., 2021). It is however expected that φ5 will 
+have a positive sign to indicate that natural resource extraction creates 
+sustainability concerns in the particular case of African economies (UN, 
+2016). Based on the theoretical formulations in Fig. 1, the sign of φ1 will 
+depend on the credit allocation policy of banks. Thus, the term BC in 
+Equation (2) is expanded to account for the effects of the two policy 
+C. Nwani                                                                                                                                                                                                                                          
+
+
+Cleaner Environmental Systems 6 (2022) 100082
+5
+scenarios as formulated in Section 2. This step yields the following 
+equations: 
+ln CO2gdpi, t = φ0a + φ1a ln BCGSEi, t + φ2a ln PCgdpi, t
++ φ3a ln PCgdpSQi, t + φ4a ln REi, t + φ5a ln NRi, t + εi, t
+(3)  
+ln CO2gdpi, t = φ0b + φ1b ln BCPSUi, t + φ2b ln PCgdpi, t
++ φ3b ln PCgdpSQi, t + φ4b ln REi, t + φ5b ln NRi, t + εi, t
+(4)  
+Where, BCGSE in Equation (3) denotes a credit allocation system that 
+places a greater emphasis on giving GSEs access to bank credit resources 
+(i.e., Policy Scenario I). An alternative policy scenario, BCPSU, is 
+considered in Equation (4) to explain how a credit allocation system that 
+places a greater emphasis on giving PSUs access to bank credit resources 
+(i.e., Policy Scenario II) will perform. 
+3.2. Sample selection and data sources 
+This study uses balanced panel data from 34 African countries 
+selected based data availability from 1995 to 20181 (see Fig. 2). To 
+measure per capita income ((PCgdp), GDP per capita in constant 2015 
+US$ is used, renewable energy consumption (RE) is calculated as a 
+percentage of total final energy consumption, while natural resource 
+extraction (NR) is defined in the form of derived rents as a percentage of 
+GDP. Data on these variables are from the World Development In­
+dicators (WDI) database compiled by the World Bank. The Global 
+Financial Development (GFD) database compiled by the World Bank 
+distinguishes credit supply by deposit money banks to government and 
+state owned enterprises (GSEs) from credit provided to the private sector 
+(PSUs). These estimates are calculated relative to GDP. Based on these 
+estimates, BCGSE is defined as the share of credit supply to GSEs in the 
+banking system’s total credit supply. In the same way, BCPSU is derived 
+as the share of credit supply to PSUs in the banking system’s total credit 
+supply. Table 1 contains a summary description of the variables: 
+The descriptive statistics in Table 2 reveal that CO2gdp averaged 
+0.398 over the sample period, with minimum and maximum values of 
+0.0.087 and 1.636, respectively. South Africa, Lesotho, and Algeria are 
+more carbon-intensive than the other economies in the panel (see 
+Fig. 2). The Skewness and Kurtosis tests reject the null hypothesis of 
+normality in the distribution of the variables, indicating a significant 
+divergence from the symmetric pattern. 
+3.3. Econometric strategy 
+The methodological framework consists of the following estimation 
+steps: 
+3.3.1. Test for cross-sectional dependence (CSD) 
+Because African countries share similar economic characteristics, 
+shocks in one country can spill over to the other countries in the panel. 
+As a result, testing for the presence of cross-sectional dependence (CSD) 
+in the panel data series is recommended and can be achieved using the 
+technique proposed by Pesaran (2004). The CSD statistic of the Pesaran 
+(2004) test is given as follows: 
+CSD =̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+2T
+N(N −1)
+∑
+N−1
+i=1
+∑
+N
+j=i+1̂
+ρij
+√
+√
+√
+√
+(5)  
+Where T = (1991, . . ., 2018), N represents the number of cross- 
+sections, which in the particular case of this study is limited to the 34 
+African countries in the panel and ̂ρij represents the correlation among 
+the derived residuals of the cross-sectional panel units. The presence of 
+CSD is tested under Ho : cross-section independence, CSD ~ N(0,1). 
+3.3.2. Panel unit root test 
+This study employs the panel unit root test proposed by Pesaran 
+(2007). The objective is to identify the stationarity features of the var­
+iables. Pesaran (2007) extended the Dickey-Fuller (DF) regression model 
+to account for potential cross-sectional dependence in the panel data 
+series. The CSD Augmented DF statistic (CADF) is calculated as: 
+Δyi,t = αi + biyi, t−1 + ciyt−1 + diΔyt + εi, t
+(6)  
+Where Δ is the difference operator, yt is the average of the target variable 
+for N observations. Based on Equation (6), a cross-sectional augmented 
+Im-Pesaran-Shin (CIPS) test with the following statistics is calculated: 
+CIPS = 1
+N
+∑
+N
+i=1
+CADFi
+(7) 
+For a more robust CIPS statistic, Pesaran (2007) recommends addi­
+tional tests to determine the truncated version of the CIPS statistic as 
+follows: 
+CIPS −TR = 1
+N
+∑
+N
+i=1
+CADFi
+*
+(8)  
+Where CADFi* suggests that the derived CIPS statistic has been truncated 
+to limit the effect of extreme values that could result from the size of T 
+not being sufficiently large. 
+3.3.3. Cointegration test 
+To test if the variables based on the empirical model specifications 
+exhibit a long-run relationship, the error-correction-based cointegration 
+test by Westerlund (2007), which is significantly efficient in the pres­
+ence of cross-sectional dependency, is used. The baseline equation is 
+given as follows: 
+ΔYi, t = μ
+′
+idt + λi
+(
+Yi, t−1 −β
+′
+iXi, t−1
+)
++
+∑
+k
+j=1
+∅ijΔYi, t−j +
+∑
+k
+j=1
+γijΔXi, t−j + εi, t
+(9) 
+In Equation (9), λi provides an estimate of the speed of error- 
+correction toward the long-run equilibrium (Westerlund, 2007). Four 
+(4) statistics can be derived from the above equation: 
+Gt = 1
+N
+∑
+N
+i=1̂
+ωi
+se(̂ωi)
+(10)  
+Ga = 1
+N
+∑
+N
+i=1
+T̂ωi
+1 −∑k
+j=1ωij
+(11)  
+Pt =̂
+ω
+se(̂ω)
+(12)  
+Pa = T̂ω
+(13) 
+Two group statistics; Gt defined by Equation (10) and Ga defined by 
+Equation (11), test whether a long-run relationship exists in at least one 
+cross-sectional unit. The Pt defined by Equation (12) and Pa defined by 
+Equation (13) provide statistics for testing the presence of a long-run 
+relationship in the entire panel. The null hypothesis of no cointegra­
+tion in the entire panel is rejected when one or both panel statistics are 
+statistically significant. 
+3.3.4. Panel parameters estimation 
+To estimate Equations (3) and (4), two panel estimation techniques 
+are used: regression with Driscoll-Kraay standard errors (Reg-DK) and 
+the panel quantile regression model with fixed effects via the method of 
+moments (MMQReg). Each of these techniques makes assumptions that 
+1 Supplementary files are provided, see Appendix A. 
+C. Nwani                                                                                                                                                                                                                                          
+
+
+Cleaner Environmental Systems 6 (2022) 100082
+6
+address estimation issues that can affect the validity of the derived 
+parameter estimates. The Reg-DK derives slope coefficients that are 
+heteroskedastic and robust to very general forms of cross-sectional 
+dependence (Driscoll and Kraay, 1998). Depending on how the error 
+term (εi, t) is treated, Reg-DK can estimate three different models: pooled 
+(constant effect) model (POL-DK), fixed effects model (FE-DK) and the 
+GLS random effects model (RE-DK) which assumes the error term be a 
+random variable. Using the Hausman test, the more efficient and 
+appropriate Reg-DK model can be selected. 
+The Reg-DK technique, however, models only the mean of the 
+dependent variable. Since the normality check in Table 2 indicates that 
+CO2gdp is not normally distributed, the Reg-DK model may produce 
+limited policy options for the low and high CO2gdp countries. To extend 
+policy considerations, the MMQReg technique which takes distribu­
+tional heterogeneity into account, is used. The MMQReg model as 
+formulated by Machado and Silva (2019) produces heterogeneous and 
+distributional effects across quantile locations of the dependent variable. 
+The conditional quantile QY(τ|X) for a location-scale model is defined as: 
+QY(τ|Xit) = αi + δiqi
+( τ
+))
++ X
+′
+itφ + Z
+′
+itγq(τ)
+(14)  
+Where X
+′
+it is a vector of regressors, and αi + δiq(τ) is the scalar coefficient 
+of the quantile-τ fixed effect at τ, which are time-invariant parameters 
+whose heterogeneous effects are allowed to vary across the quantiles of 
+Y. Equation (14) can be used to model the functional relationship 
+defined in Equations (3) and (4) as follows: 
+QlnCO2gdp i,t
+[τ⃒⃒αi, εit, Xi,t
+]
+= αiτ + φ1aτlnBCGSEi,t + φ2aτlnPCgdpi,t
++ φ3aτlnPCgdpSQi,t + φ4aτlnREi,t + φ5aτlnNRi,t + εi,t
+(15)  
+QlnCO2gdp i,t
+[τ⃒⃒αi, εit, Xi,t
+]
+= αiτ + φ1bτlnBCPSUi,t + φ2bτlnPCgdpi,t
++ φ3bτlnPCgdpSQi,t + φ4bτlnREi,t + φ5bτlnNRi,t + εi,t
+(16)  
+Where, QlnCO2gdp i,t[τ⃒⃒αi, εit, Xi,t] is the conditional quantile of CO2gdp 
+with the scalar coefficient (αi(τ)) for the distributional effect at τ. To 
+examine the effect of an explanatory variable, for example BCGSE, on 
+CO2gdp, τ is set between 0 and 1. This produces the impact of BCGSE at 
+the selected point in the conditional distribution of CO2gdp. For 
+instance, setting τ = 0.75 produces the 75th quantile equation for the 
+distribution of CO2gdp. 
+4. Empirical results and discussion 
+4.1. CSD, unit root, cointegration and model selection tests 
+The results in Table 3 show that the null hypothesis of no CSD is 
+rejected for all the variables. Therefore, cross-sectional dependence is 
+Fig. 2. Dot plot of CO2 emissions (kg per 2015 US$ of GDP) in selected African countries 
+Data source: see Table 1. 
+Table 1 
+Summary description of variables of interest.  
+Variables 
+Definition 
+Data Sources 
+CO2gdp 
+CO2 emissions (kg per 2015 US$ 
+of GDP) 
+World Development Indicators 
+(WDI) Database, World Bank    
+PCgdp 
+GDP per capita (constant 2015 US 
+$) 
+WDI, World Bank    
+BCGSE 
+The proportion of credit to GSEs 
+in the total credit supply of the 
+banking system 
+Calculated based on data from 
+Global Financial Development 
+(GFD) Database, World Bank 
+BCPSU 
+The proportion of credit to the 
+private sector in the total credit 
+supply of the banking system 
+Calculated based on data from 
+GFD Database    
+RE 
+Renewable energy consumption 
+(% of total final energy 
+consumption) 
+WDI, World Bank    
+NR 
+Total natural resources rents (% 
+of GDP) 
+WDI, World Bank 
+Note: Total credit supply of the banking system is calculated as the sum credit to 
+GSEs and the private sector. 
+C. Nwani                                                                                                                                                                                                                                          
+
+
+Cleaner Environmental Systems 6 (2022) 100082
+7
+confirmed in the data series of all the variables. As a result, cross- 
+sectionally augmented unit root techniques are used to identify the 
+stationarity properties of the variables. The results in Table 4 show that 
+the variables are only stationary in the first difference form (i.e., they are 
+I(1)). The error-correction-based cointegration test proposed by West­
+erlund (2007) is used to test for the presence of a long-run relationship 
+among the variables, based on the specifications in Equations (3) and 
+(4). The results, as summarized in Table 5, reject the null hypothesis of 
+no cointegration among the variables for both panel model 
+specifications (see Pt and Pa estimates) and for cross-sectional units (see 
+Gt and Ga estimates). Thus, for this set of African countries, a long-run 
+relationship exists between carbon emission intensity of economic 
+growth, bank credit resource allocation, per capita GDP, renewable 
+energy use, and natural resource rent. The results from other estimation 
+and model selection tests are summarized in Table 6. The results from 
+Hausman test (see Panel A) reveal that the fixed effects model (FE-DK) is 
+a more appropriate Reg-DK model for estimating Equations (3) and (4). 
+The variance inflation factors test is used to test for the presence of 
+Table 2 
+Descriptive Statistics and tests for normality.   
+Mean 
+Median 
+Maximum 
+Minimum 
+Std. Dev. 
+Observations 
+CO2gdp 
+0.398 
+0.305 
+1.636 
+0.087 
+0.291 
+816 
+PCgdp 
+2034.955 
+1132.008 
+10335.85 
+219.193 
+2005.2 
+816 
+BCGSE 
+0. .278 
+0.257 
+0.892 
+0.003 
+0.159 
+816 
+BCPSU 
+0.722 
+0.743 
+0.997 
+0.107 
+0.159 
+816 
+RE 
+61.338 
+75.485 
+98.138 
+0.059 
+29.412 
+816 
+NR 
+9.593 
+9.593 
+55.852 
+0.001 
+8.924 
+816     
+Skewness/Kurtosis tests for Normality  
+———— joint ————    
+Pr(Skewness) 
+Pr(Kurtosis) 
+chi2(2) 
+Prob > chi2 
+CO2gdp   
+0.000 
+0.000 
+226.66*** 
+0.000 
+PCgdp   
+0.000 
+0.000 
+117.61*** 
+0.000 
+BCGSE   
+0.000 
+0.000 
+117.61*** 
+0.000 
+BCPSU   
+0.000 
+0.000 
+173.73*** 
+0.000 
+RE   
+0.000 
+0.000 
+329.78*** 
+0.000 
+NR   
+0.000 
+0.000 
+329.40*** 
+0.000 
+Note: ***p < 0.01 indicates rejection of normality condition in the distribution at 1% significance level. 
+Table 3 
+Pesaran (2004) Cross-section dependence test.  
+Variable 
+CD-test 
+p-value 
+average joint 
+mean ρ 
+mean abs(ρ) 
+lnCO2gdp 
+−2.521** 
+0.012 
+24.00 
+−0.02 
+0.42 
+lnPCgdp 
+68.772*** 
+0.000 
+24.00 
+0.59 
+0.73 
+lnPCgdpSQ 
+68.903*** 
+0.000 
+24.00 
+0.59 
+0.73 
+lnBCGSE 
+4.622*** 
+0.000 
+24.00 
+0.04 
+0.35 
+lnBCPSU 
+5.262*** 
+0.000 
+24.00 
+0.05 
+0.34 
+lnRE 
+50.991*** 
+0.000 
+24.00 
+0.44 
+0.55 
+lnNR 
+18.485*** 
+0.000 
+24.00 
+0.16 
+0.35 
+Note: H0: cross-section independence, CD ~ N(0,1); *** p-value <0.01, ** p- 
+value < 0.05. 
+Implemented using xtcdf command in Stata 16.  
+Table 4 
+Cross-sectionally dependent panel unit root tests.   
+Level I(0) 
+1st Difference I(1)  
+Variables 
+With Constant 
+Constant and Trend 
+With Constant 
+Constant and Trend 
+Results 
+Panel A: CIPS 
+lnCO2gdp 
+−3.302 
+−1.925 
+−3.988*** 
+−4.235*** 
+I(1) 
+LnPCgdp 
+−2.038 
+−2.335 
+−3.480*** 
+−3.910*** 
+I(1) 
+LnPCgdpSQ 
+−2.041 
+−2.297 
+−3.517*** 
+−3.897*** 
+I(1) 
+lnBCGSE 
+−2.128 
+−2.054 
+−3.833*** 
+−3.762*** 
+I(1) 
+LnBCPSU 
+−1.208 
+−1.749 
+−4.055*** 
+−3.819*** 
+I(1) 
+LnRE 
+−1.446 
+−2.452 
+−4.087*** 
+−3.778*** 
+I(1) 
+lnNR 
+−1.798 
+−2.396 
+−3.822*** 
+−3.555*** 
+I(1) 
+Panel B: Truncated CIPS 
+lnCO2gdp 
+−3.302 
+−1.925 
+−3.955*** 
+−4.235*** 
+I(1) 
+LnPCgdp 
+−2.038 
+−2.355 
+−3.435*** 
+−3.902*** 
+I(1) 
+LnPCgdpSQ 
+−2.041 
+−2.522 
+−3.449*** 
+3.891*** 
+I(1) 
+LnBCGSE 
+−2.128 
+−2.344 
+−3.757*** 
+−3.631*** 
+I(1) 
+LnBCPSU 
+−1.476 
+−2.319 
+−3.618*** 
+−3.467*** 
+I(1) 
+LnRE 
+−1.446 
+−2.259 
+−4.033*** 
+−3.744*** 
+I(1) 
+lnNR 
+−1.798 
+−2.358 
+−3.793*** 
+−3.537*** 
+I(1) 
+Note: H0: variable has a unit root; *** indicate rejection of H0 at 1% level of significance. 
+Software: Eviews version 12.  
+Table 5 
+Westerlund (2007) ECM panel cointegration test.   
+Policy Scenario I 
+Policy Scenario II 
+Test Statistics 
+Value 
+Robust P-Value 
+Value 
+Robust P-Value 
+Gt 
+−2.692** 
+0.050 
+−2.701** 
+0.040 
+Ga 
+−8.517*** 
+0.010 
+−8.309*** 
+0.010 
+Pt 
+−18.111*** 
+0.000 
+−17.735** 
+0.020 
+Pa 
+−10.344*** 
+0.000 
+−9.948*** 
+0.000 
+Note: Robust P-Values are based on 100 bootstrap replications of the critical 
+values; *** and ** indicate statistical significance at 1% and 5% levels, 
+respectively, and the rejection of H0: no cointegration. 
+Implemented estimation using xtwest command in Stata 16.  
+C. Nwani                                                                                                                                                                                                                                          
+
+
+Cleaner Environmental Systems 6 (2022) 100082
+8
+multicollinearity concerns in the fitted model specifications. The results 
+reported in Panel B of Table 6 show that the VIF and the mean value are 
+all significantly below the theoretical benchmark,2 and thus confirm the 
+absence of multicollinearity concerns in the fitted model specifications. 
+4.2. Results from panel regression techniques 
+The derived parameter estimates are summarized in Tables 7 and 8. 
+Specifically, estimates in Table 7 evaluate the appropriateness of Policy 
+Scenario I while those in Table 8 assess Policy Scenario II. The FE-Reg 
+with DK in column 1 models the mean effect of the explanatory vari­
+ables. The MMQReg estimates for distributional heterogeneity in the 
+effects of both policy scenarios in the selected African countries are 
+given in columns 2–8. In Tables 7 and 8, three groups of quantiles are 
+defined: the lower quantile (qtile_10th and qtile_25th); the median 
+quantile (qtile_50th); and the upper quantile (qtile_75th and qtile_90th). 
+In Table 7, the coefficient of lnBCGSE is positive and statistically 
+significant. The FE-Reg with DK in column 1 shows that a 1% increase in 
+BCGSE will have a 0.037% increase in CO2gdp. The MMQReg estimates 
+in columns 2–8 show that a 1% increase in BCGSE increases CO2gdp 
+irrespective of the quantile location of a country in the distribution, 
+specifically by 0.036% at the 10th quantile and by 0.038% at the 90th 
+quintile (see the quantile regression plots in Fig. 3). These estimates 
+offer a different policy suggestion regarding the carbon-intensity effect 
+of economic activity of the GSEs when compared to what Yang et al. 
+(2021) observed in China. Clearly, the hypothesis that GSEs generate 
+less carbon-intensive output with bank credit offerings due to direct 
+government influence is rejected. Rather, the financial intermediary 
+system generates significant economic inefficiency and higher CO2 
+emissions in per $1 of GDP when credit allocation policies lend more to 
+GSEs. Hence, Policy Scenario I is not a low-carbon path to growth. 
+Conversely, the coefficient of lnBCPSU in Table 8 is negative and sta­
+tistically significant, and indicates that a 1% increase in BCPSU reduces 
+CO2gdp by 0.122% (based on FE-DK in column 1). The MMQReg esti­
+mates (see columns 2–8) suggest a smaller marginal impact of about 
+0.099% at the 25th quantile and a higher marginal impact of 0.159% at 
+the 90th quantile (see the quantile regression plots in Fig. 4). These 
+estimates indicate that the financial intermediary system improves 
+economic efficiency and consequently generates less carbon-intensive 
+output (higher growth in GDP than in CO2 emissions) when credit pol­
+icies allocate more financial resources to the private sector. Thus, Policy 
+Scenario II is the appropriate policy target for avoiding the 
+carbon-intensive path to growth in Africa. 
+The coefficient estimates for lnPCgdp are positive but only 
+statistically significant across the lower and median quantiles (i.e., 
+qtile_10th-qtile_50th). The quadratic term, lnPCgdpSQ, has a statisti­
+cally significant negative coefficient across all the quantiles. Together, 
+the EKC’s predicted inverted U-shaped curve between environmental 
+impacts and per capita GDP is confirmed at the lower and median 
+quantiles but not at the upper quantiles of CO2gdp. At the upper 
+quantiles, lnPCgdpSQ remains negative and statistically significant. In 
+other words, economic growth is predicted to increase CO2gdp in Af­
+rican economies in the early phases of development and will require 
+attaining a certain level of income to bend the curve and induce a change 
+away from a carbon-intensive growth pattern and toward a more 
+resource-efficient and environmentally friendly growth pattern. This 
+discovery is in agreement with the finding of Iorember et al. (2020), who 
+documented similar finding for Nigeria, but contradicts the findings of 
+Arogundade et al. (2022), who identified a U-shaped curve for some 
+selected African countries. The coefficient of lnRE is negative and sta­
+tistically significant across all the quantiles. A 1% increase in RE reduces 
+CO2gdp by 0.394% at the 10th quantile and by 0.572% at the 90th 
+quantile (see Table 8). Thus, increasing the amount of renewables in the 
+energy mix generates greener economic output. This means the UN SDG 
+7.2 target is a necessary condition for avoiding a carbon-intensive path 
+to growth in all African countries, especially in the more 
+carbon-intensive economies such as South Africa, Lesotho, and Algeria. 
+The coefficient of lnNR is positive and statistically significant at the 
+upper quantiles (see columns 7 and 8). This indicates that the negative 
+environmental effects of relying on natural resource extraction outweigh 
+its economic benefits in Africa. 
+4.3. Further discussion of the empirical results 
+The key findings, as illustrated in Fig. 5, show that the two policy 
+scenarios have different effects on CO2gdp in the selected African 
+countries. Policy Scenario I, a credit allocation system that places 
+greater emphasis on financing GSEs, has a positive (increasing) effect on 
+CO2gdp, indicating that CO2 emissions increase at a higher rate than 
+GDP and, consequently, carbon-intensive outputs are created. The 
+alternative policy path, Policy Scenario II, which places greater 
+emphasis on financing PSUs, has a negative effect on CO2gdp, which 
+indicates a decreasing effect on CO2 emissions per $1 of GDP. Also, 
+Policy Scenario II offers greater support for greening economic output in 
+the upper quartile countries, such as South Africa, Lesotho, and Algeria. 
+Clearly, Policy Scenario I creates limited access to bank credit support 
+for PSUs (Cull and Xu, 2000). As such, the links between resource 
+allocation and the capacity to generate greener output are weakened 
+(Larsen and Oehler, 2022). There are a number of interesting insights in 
+the literature on how Policy Scenario II creates low-carbon growth 
+paths. One is the linkages that exist between credit to the private sector 
+and structural transformations in the real sector (Hu et al., 2020; Zhang 
+et al., 2021). Inducing structural transformations such as industry 
+structure upgrading can be a source of growth in low-carbon output 
+(Zhang et al., 2021). Two is the contribution of bank credit resources to 
+the growth of R & D, innovations in technical capacities and clean en­
+ergy technologies (see Ling et al., 2020; Khan et al., 2021). The growth 
+of solar photovoltaic (PV) technology in Africa, for instance, has in 
+recent years depended on private sector investment (Ockwell et al., 
+2018). Hence, allocating more credit resources to the PSUs can stimulate 
+these channels that link resource allocation to growth in greener eco­
+nomic output (Pu and Yang, 2022). 
+Competition for bank credit resources has increased in most African 
+countries in recent years, with GSEs representing a major part of the 
+economically dominant industries, especially in resource-intensive sec­
+tors such as mining, construction, oil and gas, and utilities. Because of 
+the political links between GSEs and the government, GSEs are sup­
+ported with preferential policies (Firth et al., 2009; Li et al., 2012; Dong 
+et al., 2020). This helps to explain why environmental policies and 
+regulations in the mining, construction, and utilities supply sectors have 
+Table 6 
+Model selection tests.   
+Policy Scenario I 
+Policy Scenario II 
+Test Statistics 
+Public-Sector-Focused BF 
+Private-Sector-Focused BF 
+Panel A: Hausman test  
+chi2(5) 
+38.070*** 
+41.44*** 
+Prob > chi2 
+0.000 
+0.000 
+Ho: 
+difference in coefficients not systematic 
+Decision 
+Ho rejected 
+Ho rejected    
+Panel B: Variance inflation factors (VIF) test  
+VIF 
+≤1.70 
+≤1.94 
+1/VIF 
+≤0.892 
+≤0.802 
+Mean VIF 
+1.39 
+1.59 
+Decision 
+No multicollinearity 
+No multicollinearity 
+***p < 0.01 indicates statistical significance at 1% level. 
+Implemented using hausman (with the option, sigmaless) and vif commands in 
+Stata 16. 
+2 In theory, there is a multicollinearity problem when VIF exceeds 10 and the 
+Mean VIF exceeds 6. 
+C. Nwani                                                                                                                                                                                                                                          
+
+
+Cleaner Environmental Systems 6 (2022) 100082
+9
+Table 7 
+Parameter estimates based on Policy Scenario I.   
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+(8) 
+VARIABLES 
+FE-DK 
+location 
+scale 
+Qtile_10 
+qtile_25 
+qtile_50 
+qtile_75 
+qtile_90 
+lnBCGSE 
+0.037*** 
+0.037*** 
+0.000 
+0.036** 
+0.036** 
+0.037*** 
+0.037*** 
+0.038**  
+(0.010) 
+(0.012) 
+(0.008) 
+(0.018) 
+(0.014) 
+(0.012) 
+(0.014) 
+(0.016)  
+[3.607] 
+[3.028] 
+[0.066] 
+[2.026] 
+[2.522] 
+[3.033] 
+[2.744] 
+[2.348]          
+lnPCgdp 
+0.932*** 
+0.932*** 
+−0.413** 
+1.598*** 
+1.312*** 
+0.917*** 
+0.549 
+0.312  
+(0.242) 
+(0.331) 
+(0.205) 
+(0.484) 
+(0.392) 
+(0.331) 
+(0.369) 
+(0.434)  
+[3.846] 
+[2.818] 
+[-2.017] 
+[3.302] 
+[3.343] 
+[2.769] 
+[1.485] 
+[0.718]          
+lnPCgdpSQ 
+−0.090*** 
+−0.090*** 
+0.023 
+−0.126*** 
+−0.111*** 
+−0.089*** 
+−0.069*** 
+−0.056*  
+(0.019) 
+(0.023) 
+(0.014) 
+(0.034) 
+(0.027) 
+(0.023) 
+(0.026) 
+(0.030)  
+[-4.791] 
+[-3.917] 
+[1.593] 
+[-3.765] 
+[-4.067] 
+[-3.879] 
+[-2.686] 
+[-1.853]          
+lnRE 
+−0.468*** 
+−0.468*** 
+−0.054 
+−0.382*** 
+−0.419*** 
+−0.470*** 
+−0.518*** 
+−0.549***  
+(0.104) 
+(0.065) 
+(0.040) 
+(0.096) 
+(0.078) 
+(0.065) 
+(0.073) 
+(0.086)  
+[-4.508] 
+[-7.158] 
+[-1.325] 
+[-3.991] 
+[-5.401] 
+[-7.189] 
+[-7.091] 
+[-6.383]          
+lnNR 
+0.020 
+0.020 
+0.023** 
+−0.017 
+−0.001 
+0.021 
+0.041** 
+0.054***  
+(0.017) 
+(0.014) 
+(0.009) 
+(0.021) 
+(0.017) 
+(0.015) 
+(0.016) 
+(0.019)  
+[1.186] 
+[1.373] 
+[2.537] 
+[-0.791] 
+[-0.059] 
+[1.426] 
+[2.534] 
+[2.843]          
+Constant 
+−1.307* 
+−1.307 
+2.072*** 
+−4.646*** 
+−3.211** 
+−1.232 
+0.618 
+1.807  
+(0.695) 
+(1.147) 
+(0.710) 
+(1.679) 
+(1.362) 
+(1.153) 
+(1.281) 
+(1.502)  
+[-1.881] 
+[-1.139] 
+[2.918] 
+[-2.767] 
+[-2.357] 
+[-1.069] 
+[0.483] 
+[1.203]          
+Within R-squared 
+0.130 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+Note. 
+Fixed effects model (FE-DK) is implemented using the xtscc command (with options, fe lag()) in Stata 16. 
+MMQReg is implemented using the mmgreq command (with option, absorb(idcode), q(10, 25, 50, 75, 90) in Stata 16. 
+Standard errors in (); t-statistics in []. 
+*, ** and *** indicate statistical significance at 10%, 5% and 1% levels, respectively. 
+Table 8 
+Parameter estimates based on Policy Scenario II.   
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+(8) 
+VARIABLES 
+FE-DK 
+location 
+scale 
+Qtile_10 
+qtile_25 
+qtile_50 
+qtile_75 
+qtile_90 
+lnBCPSU 
+−0.122*** 
+−0.122*** 
+−0.025 
+−0.082 
+−0.099** 
+−0.124*** 
+−0.146*** 
+−0.159***  
+(0.027) 
+(0.040) 
+(0.025) 
+(0.057) 
+(0.046) 
+(0.040) 
+(0.046) 
+(0.053)  
+[-4.498] 
+[-3.084] 
+[-1.021] 
+[-1.442] 
+[-2.138] 
+[-3.133] 
+[-3.202] 
+[-2.994]          
+lnPCgdp 
+0.983*** 
+0.983*** 
+−0.449** 
+1.699*** 
+1.397*** 
+0.947*** 
+0.552 
+0.323  
+(0.246) 
+(0.334) 
+(0.210) 
+(0.478) 
+(0.390) 
+(0.335) 
+(0.385) 
+(0.449)  
+[3.997] 
+[2.942] 
+[-2.142] 
+[3.552] 
+[3.579] 
+[2.826] 
+[1.432] 
+[0.720]          
+lnPCgdpSQ 
+−0.093*** 
+−0.093*** 
+0.026* 
+−0.134*** 
+−0.116*** 
+−0.091*** 
+−0.068** 
+−0.055*  
+(0.019) 
+(0.023) 
+(0.014) 
+(0.033) 
+(0.027) 
+(0.023) 
+(0.027) 
+(0.031)  
+[-4.849] 
+[-4.024] 
+[1.775] 
+[-4.053] 
+[-4.327] 
+[-3.927] 
+[-2.560] 
+[-1.777]          
+lnRE 
+−0.487*** 
+−0.487*** 
+−0.058 
+−0.394*** 
+−0.433*** 
+−0.491*** 
+−0.543*** 
+−0.572***  
+(0.105) 
+(0.063) 
+(0.040) 
+(0.091) 
+(0.074) 
+(0.064) 
+(0.073) 
+(0.085)  
+[-4.639] 
+[-7.675] 
+[-1.460] 
+[-4.345] 
+[-5.856] 
+[-7.737] 
+[-7.410] 
+[-6.716]          
+lnNR 
+0.022 
+0.022 
+0.025*** 
+−0.018 
+−0.001 
+0.024 
+0.046*** 
+0.059***  
+(0.017) 
+(0.015) 
+(0.009) 
+(0.021) 
+(0.017) 
+(0.015) 
+(0.017) 
+(0.020)  
+[1.302] 
+[1.481] 
+[2.695] 
+[-0.848] 
+[-0.065] 
+[1.609] 
+[2.693] 
+[2.957]          
+Constant 
+−1.548** 
+−1.548 
+2.173*** 
+−5.014*** 
+−3.550*** 
+−1.374 
+0.541 
+1.649  
+(0.703) 
+(1.171) 
+(0.734) 
+(1.676) 
+(1.368) 
+(1.177) 
+(1.348) 
+(1.568)  
+[-2.203] 
+[-1.322] 
+[2.962] 
+[-2.991] 
+[-2.596] 
+[-1.167] 
+[0.401] 
+[1.052]          
+Within R-squared 
+0.133 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+Note. 
+Fixed effects model (FE-DK) is implemented using the xtscc command (with options, fe lag()) in Stata 16. 
+MMQReg is implemented using the mmgreq command (with option, absorb(idcode), q(10, 25, 50, 75, 90) in Stata 16. 
+Standard errors in (); t-statistics in []. 
+*, ** and *** indicate statistical significance at 10%, 5% and 1% levels respectively. 
+C. Nwani                                                                                                                                                                                                                                          
+
+
+Cleaner Environmental Systems 6 (2022) 100082
+10
+remained weak and vulnerable to carbon-intensive investment in Africa 
+(Tan-Mullins and Mohan, 2013). Thus, bank credit allocation policies 
+have a critical role to play in achieving sustainable development in Af­
+rica. The preference for Policy Scenario II is guided by the need to 
+induce economic efficiency through private sector-driven structural 
+transformation in Africa. More credit allocation to the GSEs means 
+weakening the link between resource allocation and the private sector’s 
+role in facilitating structural transformation away from the 
+Fig. 3. Quantile regression plots for estimates in Table 7.  
+Fig. 4. Quantile regression plots for estimates in Table 8.  
+C. Nwani                                                                                                                                                                                                                                          
+
+
+Cleaner Environmental Systems 6 (2022) 100082
+11
+carbon-intensive path to a technologically-driven low-carbon path to 
+growth. This is as PSUs may opt to reduce investment in innovation and 
+technologically-driven sectors as a result of limited access to bank credit 
+support (Ru, 2018). 
+Other findings are in relation to the role of renewable energy and 
+natural resources. Renewable energy consumption has a stronger miti­
+gation effect under Policy Scenario II, which places a greater emphasis 
+on financing PSUs. This is indicative that PSUs create economic condi­
+tions that rely more on renewable energy. Irrespective of a country’s 
+location on the quantile distribution, the use of renewable energy offers 
+a low-to-zero-carbon path to economic growth, however, with a greater 
+contribution to greening economic output in the upper quartile coun­
+tries. In line with SDG 7.2, African countries would need to augment 
+policy choices with the target of increasing the amount of renewables in 
+the energy consumption mix. Natural resources have been assigned 
+various roles in empirical and theoretical literature, particularly in 
+relation to sustainability challenges in developing economies. For 
+instance, Shittu et al. (2021) showed that natural resources mitigate 
+environmental degradation in the Asian economies, while Nathaniel 
+et al. (2021) showed they intensify emissions in the BRICS economies. 
+The results from this present empirical analysis suggest that economic 
+reliance on natural resources generates carbon-intensive output in some 
+African countries, specifically in the upper quantile countries such as 
+South Africa, Lesotho, and Algeria. It is therefore likely that PSUs will 
+have a role to play in diversifying the composition of economic activity 
+in Africa. 
+5. Conclusion and policy remarks 
+Little is currently known about how banks through credit policies 
+shape the linkages between resource allocation and the carbon emission 
+intensity of economic output (CO2gdp). This study contributes to filling 
+this gap in the literature by examining the impact of bank credit allo­
+cation (BCA) on CO2gdp in a panel of 34 African economies over the 
+period 1981–2018, accounting for possible distributional heterogeneity. 
+Two policy scenarios were examined, taking into consideration the 
+behaviour of financial intermediaries under limited financial resources 
+for credit supply to productive sectors. Policy Scenario I, a credit 
+allocation system that places greater emphasis on financing government 
+and state-owned enterprises (GSEs), has a positive (i.e., increasing) 
+Fig. 5. Key findings and policy insights.  
+C. Nwani                                                                                                                                                                                                                                          
+
+
+Cleaner Environmental Systems 6 (2022) 100082
+12
+effect on CO2gdp. The alternative policy scenario, Policy Scenario II, 
+which places greater emphasis on financing private sector entities 
+(PSUs), has a negative (decreasing) effect on CO2gdp with a stronger 
+impact in the more carbon-intensive economies. The EKC’s inverted U- 
+shaped curve was validated in the link between CO2gdp and per capita 
+GDP, while renewable energy makes a greater contribution to reducing 
+CO2gdp under Policy Scenario II. Also, economic reliance on natural 
+resources generates carbon-intensive output in some countries, specif­
+ically in those at the upper quantiles such as South Africa, Lesotho, and 
+Algeria. 
+The above findings have some policy implications, particularly in the 
+context that financial intermediaries can strengthen the links between 
+resource allocation and environmental sustainability by shaping the 
+economic and environmental goals of public and private economic en­
+tities through credit policy decisions. At least three crucial consider­
+ations can be underlined for African economies: (i) Policies that 
+prioritise credit resource allocation to GSEs result in higher CO2 emis­
+sions in per $1 of GDP, indicating a carbon-intensive path to growth. The 
+recommended policy option is to allocate more credit resources to the 
+private sector, which generates economic output with lower CO2 emis­
+sions and hence provides a low-carbon growth path. By implication, 
+Policy Scenario II defines a development path that integrates environ­
+mental and economic sustainability goals (ii) Increasing renewables (e. 
+g., solar energy, bio-fuels, and wind energy). in the energy mix across 
+the continent is critical to avoiding a carbon-intensive path to growth, 
+and as the findings of this analysis show, the economic and environ­
+mental benefits may increase as the private sector takes dominance of 
+economic activity. Thus, the growth of renewable energy technologies 
+such as solar photovoltaic (PV) in Africa can be sustained through in­
+vestment initiatives between banks and the private sector. (iii) Africa’s 
+development towards a low-carbon economy also requires structural 
+diversification away from economic dependence on natural resources. 
+Given that GSEs are more economically active in the resource-dependent 
+industrial sectors (e.g. oil and gas, mining) in Africa and only play a 
+minimal role in increasing output in the low-carbon, high-tech tertiary 
+sectors, policy path II also becomes effective for supporting economic 
+diversification strategies. This finding implies that banks, through 
+financial intermediary interactions with the private sector, could limit 
+the resources available for deepening dependence on natural resource- 
+reliant sectors while also playing a key role in accelerating the devel­
+opment of high-tech tertiary industries. 
+The above policy considerations suggest that without appropriate 
+bank credit allocation policies in Africa (for example, adopting Policy 
+Scenario I instead of Policy Scenario II), PSUs will be deprived of 
+funding, the eco-efficiency benefits of renewable energy will decline, 
+and economic growth will become more carbon-intensive. Therefore, 
+financing low-carbon growth in Africa requires private sector-focused 
+policies. All African countries must shift from a government-driven to 
+a market-driven policy environment and fully support the carbon 
+reduction effect of market-driven credit resource allocation. To some 
+extent, the political relationship between the GSEs and the government 
+impedes the market selection effect on bank credit allocation decisions, 
+which is indirectly reflected in the allocation of limited financial re­
+sources to carbon-intensive sectors. It is essential to remove ownership 
+discrimination from policy decisions and allow market forces to deter­
+mine the direction of available financial resources. This will help banks 
+develop healthily and improve the efficiency of financial resource 
+allocation. 
+Addressing the barriers to funding economic activity in the private 
+sector will be a key priority for policymakers. There are two critical 
+policy areas that require immediate action. One, the depth and breadth 
+of the financial intermediary role of the banking sector in Africa is still 
+weak and needs to be strengthened. This will undoubtedly require a 
+range of policy measures to create a well-functioning banking system 
+with an adequate financial intermediary infrastructure, including the 
+integration of advances in information and communication technology. 
+It would also necessitate building efficient and effective regulatory, 
+legal, and institutional conditions, which are required to foster in­
+novations that have the potential to improve resource mobilization and 
+allocation mechanisms. In many African countries, the legal and regu­
+latory conditions are not yet pro-business and investment-friendly, 
+hampering financial intermediation and reducing PSUs’ capacity to ac­
+cess bank credit resources. Two, the bank lending-deposit spread in in­
+terest rates in Africa remains quite high, even higher than what is 
+available elsewhere in the world. This reflects the high cost of credit 
+resources and explains why the private sector continues to struggle to 
+gain an economic foothold in Africa. This necessitates the development 
+of innovative solutions. In this regard, policy measures may have to 
+consider granting PSUs lower or favourable interest rates. Given that 
+most low-carbon production projects lock-in financing costs over a long 
+period of time, strategically selected low interest rates can help reduce 
+financing constraints. Part of this strategy would require banks to 
+develop green corporate finance packages. The incentive effects of bank 
+credit policy on PSUs can help African economies build capacity in high- 
+tech tertiary industries. With the inverted U-shaped curve between per 
+capita GDP and CO2gdp, increasing PSUs’ investment in high-tech ter­
+tiary industries can be an important source of structural transformation 
+and can effectively improve production and energy efficiency, which are 
+conditions needed to sustain growth in per capita GDP while inducing a 
+reduction in CO2 emissions. 
+The main limitation of this study is that the conclusion and policy 
+recommendations are based on a panel analysis of 34 African countries 
+and do not take into account the specifics of each country. In fact, there 
+are some differences in the depth of bank funding in African countries. 
+Therefore, it is important to extend this study at a country level to gain 
+further insights. In addition, future research could reassess the economic 
+efficiency potential of the two bank lending policy scenarios using an 
+ecologically-adjusted GDP that would account for the use of key pro­
+ductive resources such as land, forest, and water, which are not 
+accounted for in the carbon intensity indicator used in this analysis. 
+Declaration of competing interest 
+The author declares that there are no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Acknowledgement 
+I would like to appreciate the editor and the two anonymous re­
+viewers for their helpful and detailed reviews and commends. This 
+research did not receive any specific grant from funding agencies in the 
+public, commercial, or not-for-profit sectors. The usual disclaimers 
+apply and views are the sole responsibility of the author. 
+Appendix A. Supplementary data 
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.cesys.2022.100082. 
+References 
+Abrar, A., Hasan, I., Kabir, R., 2021. Finance-growth nexus and banking efficiency: the 
+impact of microfinance institutions. J. Econ. Bus. 114, 105975. 
+Arogundade, S., Hassan, A.S., Bila, S., 2022. Diaspora income, financial development and 
+ecological footprint in Africa. Int. J. Sustain. Dev. World Ecol. 1–15. 
+Boyne, G.A., 2002. Public and private management: what’s the difference? J. Manag. 
+Stud. 39 (1), 97–122. 
+Chang, K., Zeng, Y., Wang, W., Wu, X., 2019. The effects of credit policy and financial 
+constraints on tangible and research & development investment: firm-level evidence 
+from China’s renewable energy industry. Energy Pol. 130, 438–447. 
+Cull, R., Xu, L.C., 2000. Bureaucrats, state banks, and the efficiency of credit allocation: 
+the experience of Chinese state-owned enterprises. J. Comp. Econ. 28 (1), 1–31. 
+C. Nwani                                                                                                                                                                                                                                          
+
+
+Cleaner Environmental Systems 6 (2022) 100082
+13
+Destek, M.A., 2021. Deindustrialization, reindustrialization and environmental 
+degradation: evidence from ecological footprint of Turkey. J. Clean. Prod. 296, 
+126612. 
+Dong, Q., Wen, S., Liu, X., 2020. Credit allocation, pollution, and sustainable growth: 
+theory and evidence from China. Emerg. Mark. Finance Trade 56 (12), 2793–2811. 
+Driscoll, J.C., Kraay, A.C., 1998. Consistent covariance matrix estimation with spatially 
+dependent panel data. Rev. Econ. Stat. 80 (4), 549–560. 
+Firth, M., Lin, C., Liu, P., Wong, S.M., 2009. Inside the black box: bank credit allocation 
+in China’s private sector. J. Bank. Finance 33 (6), 1144–1155. 
+Gertler, M., Kiyotaki, N., 2010. Financial intermediation and credit policy in business 
+cycle analysis. In: Handbook of Monetary Economics, vol. 3. Elsevier, pp. 547–599. 
+GFD, 2021. Global Financial Development Database. World Bank. November 2021 
+Version. https://thedocs.worldbank.org/en/doc/92631f5aa8ecaed440d9b2e0ab 
+8810e7-0050062021/original/Global-Financial-Development-Database-11-1-2021. 
+xlsx. 
+Hu, Y., Jiang, H., Zhong, Z., 2020. Impact of green credit on industrial structure in China: 
+theoretical mechanism and empirical analysis. Environ. Sci. Pollut. Control Ser. 27 
+(10), 10506–10519. 
+Iorember, P.T., Goshit, G.G., Dabwor, D.T., 2020. Testing the nexus between renewable 
+energy consumption and environmental quality in Nigeria: the role of broad-based 
+financial development. Afr. Dev. Rev. 32 (2), 163–175. 
+Khan, S.U., Shah, A., Rizwan, M.F., 2021. Do financing constraints matter for 
+technological and non-technological innovation? A (re) examination of developing 
+markets. Emerg. Mark. Finance Trade 57 (9), 2739–2766. 
+Lamperti, F., Bosetti, V., Roventini, A., Tavoni, M., Treibich, T., 2021. Three green 
+financial policies to address climate risks. J. Financ. Stabil. 54, 100875. 
+Larsen, M.L., Oehler, L., 2022. Clean at home, polluting abroad: the role of the Chinese 
+financial system’s differential treatment of state-owned and private enterprises. 
+Clim. Pol. 1–14. 
+Li, O.Z., Su, X., Yang, Z., 2012. State control, access to capital and firm performance. 
+China J. Account. Res. 5 (2), 101–125. 
+Lin, B., Agyeman, S., 2021. Impact of natural gas consumption on sub-Saharan Africa’s 
+CO2 emissions: evidence and policy perspective. Sci. Total Environ. 760, 143321. 
+Ling, S., Han, G., An, D., Hunter, W.C., Li, H., 2020. The impact of green credit policy on 
+technological innovation of firms in pollution-intensive industries: evidence from 
+China. Sustainability 12 (11), 4493. 
+Machado, J.A., Silva, J.S., 2019. Quantiles via moments. J. Econom. 213 (1), 145–173. 
+Maulidia, M., Dargusch, P., Ashworth, P., Ardiansyah, F., 2019. Rethinking renewable 
+energy targets and electricity sector reform in Indonesia: a private sector 
+perspective. Renew. Sustain. Energy Rev. 101, 231–247. 
+M´esonnier, J.S., 2022. Banks’ climate commitments and credit to carbon-intensive 
+industries: new evidence for France. Clim. Pol. 22 (3), 389–400. 
+Miller, T., Kim, A.B., Roberts, J.M., Tyrrell, P., 2022. 2022 index of economic freedom. 
+The heritage foundation. Washington, United States of America. Available online: htt 
+ps://www.heritage.org/index/pdf/2022/book/2022_IndexOfEconomicFreedom_ 
+FINAL.pdf. 
+Mo, L., 2018. Effective private financing approaches and equity financial instruments for 
+low-carbon energy investment: ADB experiences. In: Financing for Low-Carbon 
+Energy Transition. Springer, Singapore, pp. 277–316. https://doi.org/10.1007/978- 
+981-10-8582-6_11. 
+Nathaniel, S.P., Yalçiner, K., Bekun, F.V., 2021. Assessing the environmental 
+sustainability corridor: linking natural resources, renewable energy, human capital, 
+and ecological footprint in BRICS. Resour. Pol. 70, 101924. 
+Ockwell, D., Byrne, R., Hansen, U.E., Haselip, J., Nygaard, I., 2018. The uptake and 
+diffusion of solar power in Africa: socio-cultural and political insights on a rapidly 
+emerging socio-technical transition. Energy Res. Social Sci. 44, 122–129. 
+Pehl, M., Arvesen, A., Humpen¨oder, F., Popp, A., Hertwich, E.G., Luderer, G., 2017. 
+Understanding future emissions from low-carbon power systems by integration of 
+life-cycle assessment and integrated energy modelling. Nat. Energy 2 (12), 939–945. 
+Pesaran, M.H., 2004. General diagnostic tests for cross-sectional dependence in panels. 
+Empir. Econ. 1–38. https://doi.org/10.1007/s00181-020-01875-7. 
+Pesaran, M.H., 2007. A simple panel unit root test in the presence of cross-section 
+dependence. J. Appl. Econom. 22, 265–312. 
+Polzin, F., Sanders, M., Serebriakova, A., 2021. Finance in global transition scenarios: 
+mapping investments by technology into finance needs by source. Energy Econ. 99, 
+105281. 
+Pu, Z., Yang, M., 2022. The impact of city commercial banks’ expansion on China’s 
+regional energy efficiency. Econ. Anal. Pol. 73, 10–28. 
+Ru, H., 2018. Government credit, a double-edged sword: evidence from the China 
+Development Bank. J. Finance 73 (1), 275–316. 
+Shittu, W., Adedoyin, F.F., Shah, M.I., Musibau, H.O., 2021. An investigation of the nexus 
+between natural resources, environmental performance, energy security and 
+environmental degradation: evidence from Asia. Resour. Pol. 73, 102227. 
+Sloan, K., Teague, E., Talsma, T., Daniels, S., Bunn, C., Jassogne, L., Lundy, M., 2019. 
+One size does not fit all: private-sector perspectives on climate change, agriculture 
+and adaptation. In: The Climate-Smart Agriculture Papers. Springer, Cham, 
+pp. 227–233. https://doi.org/10.1007/978-3-319-92798-5_19, 3-319-92798-5 
+(eBook).  
+Tan-Mullins, M., Mohan, G., 2013. The potential of corporate environmental 
+responsibility of Chinese state-owned enterprises in Africa. Environ. Dev. Sustain. 15 
+(2), 265–284. 
+Tenaw, D., Beyene, A.D., 2021. Environmental sustainability and economic development 
+in sub-Saharan Africa: a modified EKC hypothesis. Renew. Sustain. Energy Rev. 143, 
+110897. 
+Umar, M., Ji, X., Mirza, N., Naqvi, B., 2021. Carbon neutrality, bank lending, and credit 
+risk: evidence from the Eurozone. J. Environ. Manag. 296, 113156. 
+UN, E.S.C.A.P., 2009. Eco-efficiency indicators: measuring resource-use efficiency and 
+the impact of economic activities on the environment. Unit. Nation Econ. Soc. 
+Comm. Asia Pacific Bangkok. Thailand ST/ESCAP/2561. https://www.unescap.or 
+g/sites/default/files/publications/eco%20efficiency%20indicators%202009.pdf. 
+UN, E.C.A., 2016. Greening Africa’s Industrialization, United Nations Economic 
+Commission for Africa, Addis Ababa, Ethiopia. https://www.uneca.org/sites/defau 
+lt/files/fullpublicationfiles/era-2016_eng_rev6may.pdf. 
+Wang, C., Qiao, C., Ahmed, R.I., Kirikkaleli, D., 2021. Institutional quality, bank finance 
+and technological innovation: a way forward for fourth industrial revolution in 
+BRICS economies. Technol. Forecast. Soc. Change 163, 120427. 
+WDI, 2022. World development indicators, World Bank. Available online: https://dat 
+abank.worldbank.org/home.aspx. 
+Wen, H., Lee, C.C., Zhou, F., 2021. Green credit policy, credit allocation efficiency and 
+upgrade of energy-intensive enterprises. Energy Econ. 94, 105099. 
+Westerlund, J., 2007. Testing for error correction in panel data. Oxf. Bull. Econ. Stat. 69, 
+709–748. 
+Yang, Q., He, J., Liu, T., Zhu, Z., 2021. Environmental effects of credit allocation 
+structure and environmental expenditures: evidence from China. Sustainability 13 
+(11), 5865. 
+Zahoor, Z., Khan, I., Hou, F., 2022. Clean energy investment and financial development 
+as determinants of environment and sustainable economic growth: evidence from 
+China. Environ. Sci. Pollut. Control Ser. 29 (11), 16006–16016. 
+Zhang, A., Deng, R., Wu, Y., 2022. Does the green credit policy reduce the carbon 
+emission intensity of heavily polluting industries?-Evidence from China’s industrial 
+sectors. J. Environ. Manag. 311, 114815. 
+Zhang, K., Li, Y., Qi, Y., Shao, S., 2021. Can green credit policy improve environmental 
+quality? Evidence from China. J. Environ. Manag. 298, 113445. 
+C. Nwani                                                                                                                                                                                                                                          

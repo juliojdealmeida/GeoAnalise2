@@ -1,0 +1,902 @@
+Geojournal of Tourism and Geosites 
+Year XVIII, vol. 61, no. 3, 2025, p.1420-1429 
+ISSN 2065-0817, E-ISSN 2065-1198 
+DOI 10.30892/gtg.61302-1512 
+ 
+http://gtg.webhost.uoradea.ro/ 
+ 
+ 
+DIGGING UP RURAL COMMUNITY-BASED TOURISM (CBT) IN  
+DEVELOPING COUNTRY, INDONESIA’S FRAMEWORK FINDING 
+ 
+ 
+Setiawan PRIATMOKO1* , Al Fauzi RAHMAT1 , Endro ISNUGROHO2 ,  
+Zoltán BUJDOSÓ3 , Lóránt Dénes DÁVID3* 
+ 
+ 
+1 Széchenyi István University, Department of Tourism and Hospitality, Kautz Gyula Faculty of Business and Economics, Győr, 
+Hungary; eraynesance@gmail.com (S.P.); rahmat.al.fauzi@phd.uni-mate.hu (A.F.R.) 
+2 STIE Pariwisata API Yogyakarta, Yogyakarta, Indonesia; endro.isnugroho@gmail.com (E.I.) 
+3 Hungarian University of Agriculture and Life Sciences, Institute of Rural Development and Sustainable Economy, Gödöllő, 
+Hungary; bujdoso.zoltan@uni-mate.hu (Z.B.); david.lorant.denes@uni-mate.hu (L.D.D.) 
+ 
+ 
+ 
+Citation: Priatmoko, S., Rahmat, A.F., Isnugroho, E., Bujdosó, Z., & Dávid, L.D. (2025). Digging up rural community-based 
+tourism (CBT) in developing country, Indonesia’s framework finding. Geojournal of Tourism and Geosites, 61(3), 1420–1429. 
+https://doi.org/10.30892/gtg.61302-1512  
+ 
+ 
+Abstract: To effectively support new rural CBTs and create development plans, it is necessary to have a broad understanding 
+of rural CBT in developing countries. This study uses Indonesia as a case study to map and analyze patterns in earlier 
+research in order to establish a conceptual framework. The study used a qualitative content analysis methodology to find 
+important themes and trends in Indonesia's rural CBT development by examining journal papers indexed by Scopus that were 
+referenced by other researchers. By charting these academic works, the researchers were able to get a wider view and identify 
+potential problems in the sector. The analysis identified five interconnected dimensions - spatial aspects, local attractions, 
+rural capacity, economic viability, and socio-cultural components - that form the foundation of rural CBT. These dimensions 
+are critical in building a comprehensive framework that guides development planning, stakeholder collaboration, and long-
+term sustainability. Findings emphasize the importance of aligning rural CBT development with the principles of the circular 
+economy, which promote environmental stewardship, community empowerment, and sustainable resource management. The 
+study also highlights how preserving social capital, fostering inclusiveness, and enhancing local welfare are long-term goals 
+achievable through strategic mapping, capacity building, and equitable profit distribution. The study also emphasizes how 
+important social media and digital platforms are in influencing public perceptions and interest in rural tourism, which has 
+aided in the quick ascent of rural CBT organizations throughout Indonesia.  It becomes clear that community involvement and 
+government assistance are essential to turning rural regions into sustainable travel destinations.  Nonetheless, it is necessary 
+to address enduring issues including environmental degradation, human resource problems, and infrastructure constraints. 
+Ultimately, the study offers a rural CBT framework that can assist policymakers, tourism planners, and local stakeholders in 
+making context-sensitive decisions. By integrating socio-spatial understanding, participatory planning, and capacity-focused 
+strategies, stakeholders can create more resilient, inclusive, and sustainable tourism systems. This framework not only 
+supports local livelihoods but also aligns with global Sustainable Development Goals (SDGs), offering a replicable model for 
+other developing countries seeking to implement rural CBT initiatives effectively. 
+ 
+Keywords: rural tourism, regional planning, sustainable development, content analysis, circular tourism, developing country  
+ 
+* * * * * * 
+ 
+INTRODUCTION              
+Since tourism has become part of the community-run businesses, there have been many changes in its activities 
+(Murphy, 1988). In the sense of social ties in an environment, the community forms a joint agreement to take part in 
+tourism business activities. In Indonesia, the developing economy in East Asia & Pacific (excluding high-income countries) 
+(World Bank Group, 2024), people in villages and urban communities created these groups, a contract for tourism 
+purposes: a community-based tourism (CBT) business organization. The popularity of rural tourism among both domestic 
+and foreign travellers is on the rise (Dashper, 2014). Rural CBT in Indonesia has a specific form based on its location. The 
+terminology of “rural tourism” (Indonesian language: desa wisata) is more often used than CBT for the community and 
+academics. The popularity of “rural tourism” terminology is because people in rural areas more widely adopt the CBT. 
+Additionally, the activity elements which are offered to tourists frequently highlight the customs and lifestyle of rural areas. 
+The growth of the tourist villages centres on their emphasis and branding of content is driven by competition and 
+determination amongst communities to obtain a marketing context. For this reason, sub-themes emerged as activities 
+carried out specifically by tourism villages and are used as new terminology by tourism village business actors. Terms 
+such as agricultural tourism villages, geopark tourism village, and eco-tourism village began to appear. Even the effect 
+                                                          
+* Corresponding author 
+
+
+Digging Up Rural Community-based Tourism (CBT) in Developing Country, Indonesia’s Framework Finding 
+ 
+ 
+1421 
+of temporal landmarks on tourist destinations also determines the direction and image of an area in its development, 
+whether as a cultural or natural destination (Dávid et al., 2003; Meng et al., 2024). More differentiation is needed to draw 
+in visitors who belong to a certain target market. The phenomenon of a particular activity that emerged was also recorded 
+from articles published by researchers. Mapping is necessary for the tourism village's specific activities, as the main content 
+is distributed in the community's region. Using mapping as a note-taking technique, we can emphasize key thoughts and 
+lines by visualizing various notions. It facilitates the illustration of the connections between the various concepts 
+(University of Toronto Scarborough, n.d.). By knowing the regional distribution and particular activities at a macro scale, 
+planning and working that are conducted in rural tourism destinations will be more comprehensively applicable (Dávid et 
+al., 2008). The concept proposed will be useful for the informal sectors in developing countries, which covers almost 75% 
+of the world's total area of land and represents 85% of the entire population (Aguilar & Campuzano, 2009; Developing 
+Countries - an Overview | ScienceDirect Topics, n.d.). According to the previous explanation, this research paper will 
+explore the concepts of tourism activities and villages in developing countries that emerged from previous studies, using 
+Indonesia as a case study. With an emphasis on identifying important resources, players, obstacles, and chances for 
+sustainable development in particular rural locations, this study aims to investigate and methodically map the growth, 
+characteristics and activities of rural community-based tourism. This article starts with the introduction in part one, 
+which presents the background of the tourism village and the phenomena related to the specific content.  
+A comprehensive literature review introduces part two to draw emphasis to the substantial research gap: the 
+importance of understanding particular rural tourism activities to the development’s framework concept. The link to the 
+circular economy and tourism is also a top priority (Kabil et al., 2024). Furthermore, part three provides an explanation of 
+the data collecting and analyzing methodology. Finally, after presenting the findings and debate, the conclusion is given. 
+ 
+LITERATURE REVIEW 
+Rural Tourism 
+One approach to address the issues facing rural areas is through rural tourism, which is a type of sustainable 
+development and landscape conservation (Reina-Usuga et al., 2024). As part of CBT, rural tourism is a significant part 
+of developing countries and is part of the rural development strategy (Tolkach & King, 2015). In terms of terminology, 
+the term rural tourism continued until a mapping exercise was conducted, in which the terminology and definitions of 
+rural tourism from a number of experts were investigated (Rosalina et al., 2021). The identity and pride held by local 
+residents also positively influence involvement and growth in rural tourism activities (Han et al., 2024). The community 
+manages rural CBT destinations and depends on nature and culture, unlike a destination run by a large company or the 
+government (Rindrasih, 2018a). It can be challenging at times to educate people in rural CBT about the long-term benefits 
+of tourism on their wellbeing (Junaid et al., 2020). For instance, agrotourism, which is also starting to be found in rural 
+areas, shows an increasingly diverse rural tourism phenomenon (Safarov et al., 2024). However, active countryside tourism 
+has increased over the past 25 years as more urban residents look to rural areas for leisure and relaxation (Dashper, 2014).  
+Specific forms of CBT are sometimes presented as a win-win strategy for developing nations to address their needs 
+for both conservation and economic growth (Ocampo-Peñuela & Winton, 2017). Other study demonstrated that CBT has 
+the capacity to facilitate the transformation of tourism destinations that have suffered or disaster significant disruptions. 
+It can thus be inferred that the level of human involvement within a community provides a measure of resilience for the 
+destination (Rindrasih, 2018b). Therefore, the local community contributes significantly to the development of 
+sustainable tourism, especially as members of the community frequently live close to popular tourist sites and benefit 
+from the money made by tourism (Putri & Adinia, 2018). If there is a balance between local management and the 
+government, the increased transparency in decision-making also encourages the community to participate in tourism 
+actively (Woosnam et al., 2024). Furthermore, tourism improves the well-being of rural communities through the 
+creation of economic linkages generated by community-based tourism (CBT) (Trejos & Chiang, 2009).  
+The importance of these financial benefits seems to be one of the primary motivations behind the community to join 
+in rural CBT activities. Although tourism does not always bring economic and social livelihood impacts to all village 
+residents, some parties still get direct or indirect economic benefits from these activities (Biddulph, 2015). The possible 
+solution for some of the issues related to missing revenue potential and population loss that come along with 
+agriculture's decline is rural tourism (Dashper, 2014). Other significant sources of income are related to the exploitation 
+of natural resources locally (Biddulph, 2015) in rural areas. Poor infrastructure, policy concerns, and inadequate 
+financial resources are some of the primary causes of undeveloped rural areas.  
+Therefore, it is crucial to prioritize the local community at the core of rural tourism while fostering effective 
+stakeholder collaboration and multisector linkage (Haulle et al., 2024). However, while these efforts clearly emphasize 
+diversity and differences in practices and experiences related to rural tourism, they also display numerous similarities 
+that seem to characterize rural tourism regardless of local context and specificity (Dashper, 2014). 
+ 
+CBT in Indonesia 
+There are 82,190 villages in Indonesia (BPS-Statistics, 2017). As the rural tourism idiom is a term that is very 
+popular among Indonesian academics and citizens, it was recorded that in 2024 there were 4,812 rural CBT entities 
+spread across Indonesia with different geographic locations (Indonesia Ministry of Tourism, n.d.). In Indonesia, the 
+characteristics of a tourism village with other forming elements will form a different tourism system.  
+
+
+Setiawan PRIATMOKO, Al Fauzi RAHMAT, Endro ISNUGROHO, Zoltán BUJDOSÓ, Lóránt Dénes DÁVID 
+ 
+ 
+1422 
+It becomes essential as a reference and direction for developing tourism elements (Purbasari & Manaf, 2017). For 
+villagers, the philosophy of rural tourism is an "alternative tourism" in which tourism should diversify the traditional 
+economy by contributing to its maintenance (Chevalier, 2018).  
+In Indonesia, the relationship between community attachment and support for the growth of tourism attractions in the 
+village was successfully mediated by the economic impact of tourism (Tela et al., 2024). Those involved in rural tourism 
+organization activities also have a part in the success of community collaboration and the collaboration of stakeholders has 
+been demonstrated to facilitate the improvement of human capital and enhance the competitive advantage of businesses, 
+thereby promoting more effective and sustainable tourism destination management (Hidayah et al., 2022).  
+The organization's stakeholders' involvement in a consequence and its perceived dependency with other stakeholders in 
+dealing with the domain's dilemma are essential factors in collaboration (Manaf et al., 2018). These parties have a part in 
+the success of a destination village in achieving its goals. The goals are to distribute local economic benefits and third-party 
+businesses in rural tourism to gain a fairer distribution of sustainable economic and business benefits (Rosalina et al., 
+2023a). Along with the citizens' way of life, the concepts of sustainability and conservation have become a concern when 
+residents begin to involve themselves in tourism business activities in their villages (Chevalier, 2018).  
+Activities centered around agriculture, village life, rural scenery, and local cultural tourism in the countryside are also 
+considered as the operators' attraction aspects in the tourism industry in Indonesia (Priatmoko et al., 2021). From various 
+research and case studies conducted on tourist villages in Indonesia, different spatial types and types of activities are 
+correlated with the content offered. Undoubtedly, one of the key topics in tourism development today is the efficient use 
+and management of tourism resources to accomplish the sustainable and coordinated growth of the environment, economy, 
+and society (Luo & Peng, 2024). However, there is no systematic data collection for all content and spatial types, and 
+related matters. It is essential to understand the spatial aspects related to the content so that a more macro and 
+comprehensive road map and planning can be found on the development of rural CBT based on a spatial perspective. 
+Obviously, given that there are numerous villages throughout Indonesia, it is difficult to learn about all the spatial types 
+and activities selected by tourism village actors. The most effective and possible approach is to utilize the research results 
+of researchers who specialize in CBT tourism villages in Indonesia. Tourism policymakers, planners, managers, and other 
+relevant stakeholders can better recognize cultural landscapes, elements, spatial organization, and representations in the 
+changing values of other cultures by having a better understanding of the socio-spatial linkages of destinations (Centeno, 
+2024). These research' findings allow us to combine the content of published articles to identify different themes regarding 
+tourist destinations, activities, and the attributes associated with them. Synthesizing ideas and visions carried out at 
+different organization levels and processes can provide more good recommendations (Hoang & Romm, 2020).  
+Finally, we can say that there are many tourist villages with various attributes and characteristics attached. It turns 
+out that systematic data collection and grouping have not been carried out. Knowing the macro characteristic map of the 
+types of tourist villages will help make development strategies that are more comprehensive and interrelated.  
+Moreover, identifying the types of tourism villages will provide an accurate regional picture of the socio-economic 
+meaning of rural CBT activities in developing countries. 
+ 
+MATERIALS AND METHODS 
+We construct a novel data set consisting of articles. The use of articles derived from previous studies, and a 
+significant number of citations tends to lead to a sharp and focused analysis (Kabil et al., 2021). The reasoning behind 
+this was that it would make it easier to analyze and synthesize the patterns, similarities, and differences across various 
+literary works, having the same characteristic of being an excellent illustration of research. Content analysis is used to 
+support the understanding of existing objects or processes and their relationship with other information. We do the 
+content analysis: coding, categorizing, synthesizing, theorizing (Saldaña, 2013).  
+We use the article to provide a more comprehensive perspective from many studies. As “rural tourism” is a 
+component of Community-based tourism (CBT), we use it as a keyword to find correlated articles. We use one of the 
+databases that specifically consider the use of broader international researchers, the Scopus database.  
+We selected Scopus as a scientific database to gain access to a comprehensive collection of peer-reviewed articles 
+and one of the largest databases in the academic field. It is widely used by scholars as a highly trustworthy information 
+source (Baas et al., 2020).  Since we believe the last five years are sufficient to see the present trend scenario and 
+sometime in the future, we only search for publications from this time frame. The use of a 5-year time period is also 
+used by some researchers to make future forecasts (Ofer et al., 2024). 
+We also use cited articles because they assess that the reports that have been cited are relatively trusted and 
+influenced by at least one other researcher, thereby increasing the degree of trustworthiness of the source. We also 
+eliminate articles that are not related to tourism research. Using articles from the suggested Scopus database with the 
+particular keywords, we summarized the articles related using the NVIVO version 12 application. NVivo was selected 
+for its auto-coding functionality, which enables the classification of textual data and offers the potential for scholars to 
+reproduce the outcomes of previous studies. Its capacity to generate key term outputs in a structured framework, 
+represented in a matrix, is also a feature that enhances its utility (Allsop et al., 2022; Hilal & Al Abri, 2013). We then 
+reconstruct the theme to determine the concept. The study procedure is depicted in Figure 1 below.  
+
+
+Digging Up Rural Community-based Tourism (CBT) in Developing Country, Indonesia’s Framework Finding 
+ 
+ 
+1423 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Research flow (Source: author, 2024) 
+ 
+RESULTS AND DISCUSSION 
+Our Literature Review's focus is on "Indonesia rural tourism", these keywords are what we utilize to look up relevant 
+material. We collected 69 cited literature from the Scopus Database from 2019 to 2023. This database contains 33 samples, 
+which are adequate for the qualitative analysis procedure. (Sim et al., 2018). After removing articles unrelated to tourism 
+studies from the Scopus database, we used 66 of 69 papers, as shown in Table 1. 
+ 
+Table 1. Scopus Cited Articles (Source: generated by author, 2024) 
+ 
+No. 
+Author(s), year of 
+publication 
+Citation No. 
+Author(s), year of 
+publication 
+Citation No. 
+Author(s), year of 
+publication 
+Citation 
+1 
+Jeyacheya & Hampton, 
+2020 
+54 
+25 
+Hutagalung et al., 2022 
+10 
+49 
+Mujiatun et al., 2023 
+4 
+2 
+Priatmoko et al., 2021 
+48 
+26 
+Utomo et al., 2020 
+10 
+50 Djuwendah et al., 2023 
+4 
+3 
+Nugraha et al., 2021 
+39 
+27 Sevisari & Reichenberger, 2020 
+9 
+51 
+Mulyani et al., 2022 
+3 
+4 
+Arintoko et al., 2020 
+36 
+28 
+Tiku et al., 2022 
+9 
+52 
+Rahmanto, 2021 
+3 
+5 
+Priatmoko et al., 2021 
+32 
+29 
+Sari et al., 2022 
+9 
+53 Wijanarko et al., 2023 
+2 
+6 
+Purnomo et al., 2020 
+24 
+30 
+Nugroho et al., 2021 
+9 
+54 
+Damayani et al., 2021 
+2 
+7 
+Utami et al., 2023 
+17 
+31 
+Setyawan, 2022 
+9 
+55 
+Dewi et al., 2022 
+1 
+8 
+Firdaus et al., 2021 
+16 
+32 
+Priatmoko & David, 2021 
+8 
+56 
+Astuti et al., 2021 
+1 
+9 
+Rosalina et al., 2023 
+16 
+33 
+Hermawan et al., 2023 
+8 
+57 Baihaqki & Islami, 2022 
+1 
+10 
+Chin & Hampton, 2020 
+15 
+34 
+Syafrudin et al., 2023 
+7 
+58 
+Maski et al., 2020 
+1 
+11 Wikantiyoso et al., 2021 
+15 
+35 
+Pranita et al., 2022 
+6 
+59 
+Wolor et al., 2023 
+1 
+12 
+Murti, 2020 
+15 
+36 
+Untari & Suharto, 2021 
+6 
+60 Rahman & Anwar, 2022 
+1 
+13 
+Singgalen, 2020 
+14 
+37 
+Chen et al., 2020 
+6 
+61 
+Yudanegara et al., 2021 
+1 
+14 
+Ariyani & Fauzi, 2023 
+13 
+38 
+Prayitno et al., 2022 
+6 
+62 
+Wibowo et al., 2023 
+1 
+15 
+Saputro et al., 2023 
+13 
+39 
+Rizal et aI., 2022 
+5 
+63 
+Pudianti et al., 2020 
+1 
+16 
+Andréfouët et al., 2021 
+13 
+40 
+Indarto & Hakim, 2021 
+5 
+64 
+Setiadi et al., 2022 
+1 
+17 
+PUTRI et al., 2020 
+13 
+41 
+Juliana et al., 2023 
+5 
+65 
+Meutia et al., 2022 
+1 
+18 
+Murti, 2020 
+11 
+42 
+Juliana et al., 2022 
+5 
+66 
+Tarlani et al., 2022 
+1 
+19 
+Yasir et al., 2021 
+11 
+43 
+Mastika et al., 2023 
+5 
+67 
+Priliani et al., 2020 
+6 (Not Avail.) 
+20 
+Dahles et al., 2020 
+11 
+44 
+Jayanthi et al., 2022 
+5 
+68 
+Mayuzumi, 2023 
+4 (Not Avail.) 
+21 
+Susilorini et al., 2022 
+11 
+45 
+Sari et al., 2021 
+4 
+69 
+Latif et al., 2022 
+2 (Not Avail.) 
+22 
+Agustin et al., 2022 
+10 
+46 
+Murti et al., 2023 
+4 
+- 
+- 
+- 
+23 
+Maharja et al., 2023 
+10 
+47 
+Alim et al., 2023 
+4 
+- 
+- 
+- 
+24 
+Prayitno et al., 2023 
+10 
+48 
+Choe & Mahyuni, 2023 
+4 
+- 
+- 
+- 
+ 
+We are considering the findings from the important articles above and found several highlights. Based on Jeyacheya 
+& Hampton's fieldwork in Malaysia, Vietnam, Indonesia, and Myanmar, it poses the key issue of whether tourism-led 
+growth can be inclusive in the short to medium term. However, it has been discovered that giving preference to foreign 
+companies, crony conglomerates, and enormous capital is a regional tendency and a significant barrier to inclusive 
+economic policies driven by tourism (Jeyacheya & Hampton, 2020). This implies that solving the issue requires a case-
+by-case approach. Social capital, which is made up of networks, trust, and norms, affects how young locals engage in 
+agritourism (Nugraha et al., 2021). The younger generation was influenced by higher education levels to stay in the 
+community, support sustainable agriculture, and maintain land use as an agricultural system. This implies that 
+developing the economy of rural areas may be affected by unequal access to education. 
+As suggested by Arintoko et al. (2020), the primary strategy to accomplish destination objectives is a cooperation 
+between the private sector, regional and state governments, and the community. State-owned enterprises continue to play a 
+significant role in ensuring the sustainability of rural tourism destinations (Arintoko et al., 2020). For some remote 
+locations where the role of State-Owned Enterprises is diminished or nonexistent, this creates a challenging position. 
+Rosalina et al. (2023) argue the necessity of community and customary involvement in maintaining local control over 
+resources, which allow for the efficient utilization of labor and infrastructure. These enable narrative and co-creative 
+
+
+Setiawan PRIATMOKO, Al Fauzi RAHMAT, Endro ISNUGROHO, Zoltán BUJDOSÓ, Lóránt Dénes DÁVID 
+ 
+ 
+1424 
+experience-making to support resource conservation (Rosalina et al., 2023b). The challenge is to construct the 
+understanding for residents with farming families with a lack of understanding of the concept of tourism and creativity. 
+Some of the findings mentioned above indicate that the grand concept of developing rural CBT industry is still fragmented. 
+Furthermore, from the 66 articles in Table 1, we did the coding process to determine the theme with the help of the NVivo 12 
+application. All papers were fully coded, and Nvivo software was used for analysis in order to discover important themes. 
+From the interpretation of the words and nodes, analysis, and grouping phases, five large groups were obtained from the 
+"tourism industries" node, including the activities, destination, economic aspect, social aspect, and capacity (Figure 2). We 
+interpreted previous research articles on tourism villages from the themes and content in them, as shown in Figure 3. 
+ 
+ 
+ 
+Figure 2. Indonesia Rural Tourism Theme Map Structure (Source: authors, generated from NVivo) 
+ 
+ 
+ 
+Figure 3. Building Interpretation (Source: author, generated from NVivo) 
+ 
+1. 
+Regional Understanding 
+From the regional potential in Indonesia, spatial with specific characteristics can be mapped to be developed into a rural 
+CBT business. Macro understanding of this zoning is crucial because it will then determine the views of various stakeholders 
+in making strategic choices. Each spatial area will have specific characteristics that will determine the level of the obstacle. 
+Some regional initiatives should be highlighted as undermining the government's efforts to accurately quantify the size of 
+tourism (Webster & Ivanov, 2012). Cooperation between academics, practitioners, and government assistance is required to 
+CORE CATEGORY
+RELATED THEME & WORDS
+INTERPRETATION
+Destination&Spatial 
+Agro-tourism
+regional understanding
+City & Suburban
+Coastal
+Protected & Conservation
+Geopark
+Heritage
+Remote
+Rural
+Activities
+Farming
+attractions inventoring
+Fishing
+traditional art
+recreational & entertainment
+Education
+culture-based
+Capacity
+product & promotion 
+capacity building
+cultural development
+infrastructure
+sustainable development
+village & urban development
+facilities
+human capital 
+Economic Aspect
+tourism business
+profit-neighborhood balance
+rural development
+social and community benefit
+environmental & pandemic issue
+natural resources
+capital
+government project
+local income
+Social Aspect
+social capital
+long term-goal
+inclusive
+community ties
+community welfare
+
+
+Digging Up Rural Community-based Tourism (CBT) in Developing Country, Indonesia’s Framework Finding 
+ 
+ 
+1425 
+promote tourism activities, particularly those that depend on socio-cultural capital (Prasetyo et al., 2024). Determination of the 
+development centre or "core-periphery" can be done after understanding the regional concept. Selecting the right "core-
+periphery" will quickly spread profits or benefits to the surrounding areas (Xi et al., 2015). Conversely, if spatial 
+understanding is not fully understood, it will lead locals to disengage from tourism-related activities (Wang et al., 2020). 
+ 
+2. 
+Attractions Inventoring 
+If it is possible to determine which spatial are considered potential, various attraction activities can be collected. The 
+research results show that farming, fishing, traditional arts, recreation & entertainment, education, and culture-based 
+significantly become the main themes of tourism villages in Indonesia. The continual convergence between activities of humans 
+and the dynamics of nature maintained by the natural world's beauty can create a strong attraction and even develop sustainable 
+agriculture (Giordano, 2019). However, taking advantage of various daily activities as attention needs to be maintained so long-
+term tourism growth is possible if the ecosystem remains stable and locals continue to support it. (Yang et al., 2020). The next 
+thought is to determine the form of a more specific attraction according to the location that will be made "core-periphery." 
+ 
+3. 
+Rural Capacity Building 
+The things that need to be done and prepared together in rural capacity building are infrastructure and human resources. 
+Tourism is not the main occupation of the villagers or urban community. If this is the case, then education on the 
+understanding of the tourism business and its relation to their way of life will have to be done. In emerging nations, a lack of 
+capacity building is a significant obstacle to tourism development, and the primary barriers are located at the organizational 
+and community levels (Aref, 2011). So far, the most frequent challenge for capacity building is that citizens think it is only for 
+the benefit of certain parties (Mandić, 2019). The finding that scope capacity building is: product & promotion, cultural 
+development, infrastructure, sustainable development, village & urban development, facilities, and human capital, makes it 
+possible to increase the participation rate for the capacity building program. Moreover, CBT capacity building will be linked to 
+the quality of design and service and will directly influenced tourists’ intention to visit CBT destinations (Phengkona, 2021). 
+Consequently, through rural capacity-building strategies, it is possible to enhance the ability of local human resources, improve 
+the quality of village infrastructure, and, in turn, promote the well-being of local communities (Fatimah & Ayu, 2020). 
+ 
+4. 
+Profit-neighborhood Balance 
+For villagers, cash gain is not the primary objective in rural CBT businesses. The balance between social and 
+community benefits, environmental issues, and natural resources become a more careful consideration for every action in 
+business. The concept of balance in protecting and enhance resources while still meeting the needs of all stakeholders 
+(present and future) is part of destination management (UNWTO, 2007). Low awareness of protecting and enhance resources 
+could be driven by the fact that tourism is not their primary and first job. Villager participation in the tourism industry and 
+controlling the standard of travel-related activities and their impacts are prominent. In other words, the critical success 
+component is the equilibrium in social exchange that favours the village. (Tirasattayapitak et al., 2015). This understanding of 
+Profit-neighborhood Balance illustrates that the humanist approach is prioritized in the concept of rural CBT in Indonesia.  
+ 
+5. 
+Long-term Goal 
+Social capital is valuable capital to build a rural CBT business where money is often a limitation. Although a good 
+organization must support it, the growth of social capital can significantly increase the value of starting an enterprise 
+(Moyes et al., 2015). Inclusiveness by involving all parties in the community in the village will create a strong bond. With 
+the result of community ties, it will be easier to discuss and plan goals for the prosperity of a tourist village. Leadership, 
+social capital, and contextual adaptability to social and ecological factors can create long-term, sustainable organizational 
+goals (Dressel et al., 2021). Inclusiveness also means that the village must be prepared to welcome tourists from various 
+racial and cultural backgrounds. The idea also aligns that planning for tourists should pay more attention to local cultures 
+and should be capable of ensuring a better level of historic closeness; further, the community believed that it should aim for 
+a more Indigenous/endogenous-oriented development (Del Chiappa et al., 2018).  
+ 
+ 
+ 
+Figure 4. Rural CBT Continuity Framework Concept (Source: author, 2024) 
+
+
+Setiawan PRIATMOKO, Al Fauzi RAHMAT, Endro ISNUGROHO, Zoltán BUJDOSÓ, Lóránt Dénes DÁVID 
+ 
+ 
+1426 
+By understanding the regional attractions mapping, rural capacity building, profit-neighbourhood balance, and long-
+term goals in the rural tourism phenomena in Indonesia, we propose the model concept of the rural CBT framework, as 
+seen in Figure 4. From the diagram, the long-term goal of rural CBT is preserving social capital, inclusiveness, and 
+increasing community ties and welfare if regional understanding, attractions mapping, capacity building, and profit-
+neighbourhood balance meet. This concept means that it is in line with the circular economy in the tourism sector by 
+becoming a model for circular tourism. The idea of circularity serves as a tool to encourage travellers to adopt more 
+environmentally friendly consumption habits that protect and enhance the productivity of tourism resources at the local 
+level (Alonso-Almeida et al., 2024). The innovative capacity of these destinations is included in a mixture of variously 
+shaped and co-located sub-networks, whose characteristics are strongly influenced by the state of social capital (Schuhbert, 
+2023). Long-term goals also should be put into every planning, development, and target mission before understanding a 
+broader perspective to support Sustainability Development Goals (SDGs) (Team Europe, 2020). Maintaining sustainability 
+also means adapting rural tourism sites to their distinctive circumstances (Zhang et al., 2021). 
+Through understanding the diagram mapping approach, stakeholders can ascertain the tactics, undertakings, and even 
+funding required to establish and grow a rural CBT enterprise. Tourism policymakers, planners, managers, and other 
+relevant stakeholders can better recognize cultural landscapes, elements, spatial organization, and representations in the 
+changing values of other cultures by having a better understanding of the socio-spatial linkages of destinations (Saleem 
+Wani et al., 2024). Furthemore, to effectively create equitable income-earning opportunities in societies, it is essential to 
+comprehend how tourism development fits into the local livelihood framework and how CBT efforts distribute tourism 
+job opportunities (Legatzke et al., 2024). Participation in raising awareness of tourism resources is positively impacted 
+by household characteristics, livelihood advantages, tourism resources, local CBT development planning, and 
+community organization (Chi et al., 2024). In the framework of capacity building or other associated sustainable 
+improvements, countries that are interested in tourism as an economic booster will be able to choose initiatives in a more 
+targeted and strategic way. Finally, it can be said that using adaptable, context-aware CBT techniques based on a 
+practical awareness of local sociocultural life is crucial (Chi et al., 2024). 
+ 
+Indonesia's Rural Tourism Industry as It Stands 
+There are currently 4,812 rural CBT entities dispersed throughout Indonesia in various geographic regions (Indonesia 
+Ministry of Tourism, n.d.). Rural tourism villages in Indonesia have experienced rapid development along with the 
+increasing public interest in nature-based tourism and local culture (Utomo et al., 2020). Information through social media 
+also encourages village communities to start being interested in developing their natural and cultural potential into tourism 
+villages (Senyao & Ha, 2022). The Indonesian government, through the Ministry of Tourism and Creative Economy, has 
+been actively encouraging the growth of tourist villages. Driven by government funding, related ministries and institutions 
+have become agents of change for villages that want to become tourist villages. Due to social media and digital marketing 
+that emphasizes the distinctiveness and depth of regional culture, villages that were previously less well-known, are 
+beginning to draw interest from both domestic and foreign tourists. This means that the demand for increased capacity 
+building for villages is inevitable (Ezeuduji, 2015; Moscardo, 2008). One of the substantial factors in the development of 
+rural tourism in Indonesia is community empowerment. This indicates the existence of a communal identity concern that 
+motivates the group to engage in joint activities (Abrahams, 2015; Ilieș & Ilieș, 2015). Typically, they operate homestays, 
+provide regional cuisine, and act as tour guides, introducing visitors to the traditions and way of life of the area. By doing 
+this, the village's culture and surroundings are preserved, and the local economy is strengthened. Furthemore, it is essential 
+to understand destinations at multiple levels, from the individual to the state level. The goal of establishing sustainable tourism 
+is to seamlessly integrate travel into the current social-ecological system, not to centralize tourism (Hanita et al., 2024). 
+Spatial identities used as capital towards social welfare can also be found in several villages that are considered 
+successful. Tourist villages such as Penglipuran Village in Bali, Nglanggeran Village and Pentingsari Village in 
+Yogyakarta are successful examples of sustainable tourist village development by The World Tourism Organization/ 
+UNWTO (unwto.org, n.d.). They combine natural beauty, tradition, and the friendliness of the local people, thus providing 
+an authentic experience to tourists, which ultimately brings prosperity to the local people. 
+Still, there are obstacles to overcome, particularly in the areas of infrastructure, facilities, accessibility, human 
+resources, and environmental sustainability. Since many rural tourism destinations are situated in remote locations, basic 
+amenities like road connectivity still need to be developed (Purwani et al., 2023). Additionally, one of the particularly 
+essential tasks for managers of tourist villages is to find a balance between growing visitor numbers and environmental 
+sustainability. In addition, maintaining a balance between increasing the number of tourists and environmental 
+sustainability is an important task for village managers (Utami et al., 2023). The intention is for long-term goals to be 
+developed into long-term objectives. Inclusive and sustainable tourism-based village economic development can be 
+attained if a balance between business interests, income, and benefits is met. 
+ 
+CONCLUSION 
+Content analysis can be used to understand an issue more comprehensively by using good research article sources. 
+Using research results from the cited Scopus database is very helpful in seeing the broader context of various research 
+gaps and generalizing existing findings. The selection of publications cited by other researchers makes the degree of 
+connectivity of the reference sources better. The emergence of CBT tourism villages that seek to follow the pattern of 
+tourism business forms can be observed from the results of previous studies. The ultimate goal is still to maintain social 
+
+
+Digging Up Rural Community-based Tourism (CBT) in Developing Country, Indonesia’s Framework Finding 
+ 
+ 
+1427 
+links and aspirations to raise everyone's standard of living, regardless of the attraction’s type, location, economic 
+objectives, or capacity-building strategy used. However, to construct resilient and sustainable rural tourism in the face of 
+essential dependencies, policy protections, capacity building, and cooperative partnerships are required(Sutomo et al., 
+2024). This study emphasizes the significance of customary involvement, conservationist resource interpretations, 
+harmony between people and nature, and spirituality in rural tourist resource management (Rosalina et al., 2023a).  
+Various tourism development approaches will have varying effects and advantages in the local context, favoring 
+some actors while marginalizing others (Giampiccoli, 2020). Therefore, the failure of a rural CBT activity always stems 
+from the assumption that an action does not reflect the ultimate goal that contains shared values.  
+By knowing the pattern of Indonesia's rural CBT framework, the need for development planning and anticipating 
+problems can be mapped thus the actions for the development program could be more focused and targeted. 
+ 
+Limitations and Implementation 
+The source of this research is one source, which, in this instance, is the database of Scopus. It will be exciting to 
+build on this work by utilizing additional resources in the same way in the future. Even though Indonesia has thousands 
+of rural tourism destinations, using articles from Indonesian cases will still provide a local perspective. By comparing 
+the results of the other developing countries, we may find some new insights. 
+The framework of mapping components in the findings of this study can be used as indicators of measuring the 
+performance and achievement of national and international bodies or stakeholders like the Ministry of Tourism or 
+UNWTO to understand and develop the conditions of rural CBT businesses in other developing countries. 
+ 
+Author Contributions: Conceptualization, S.P. and A.F.R.; methodology, S.P and A.F.R.; software, S.P. and 
+A.F.R.; validation, LDD. and Z.B..; formal analysis, S.P. and A.F.R.; investigation, A.F.R., and Z.B.; resources, E.I. and 
+A.F.R..; data curation, S.P. and A.F.R. and L.D.D; writing - original draft preparation, S.P. and A.F.R and L.D.D..; 
+writing - review and editing, S.P. and E.I.; visualization, Z.B. and L.D.D.; supervision, A.F.R., Z.B., and L.D.D; project 
+ad-ministration, A.F.R., Y.I., A.B., and L.D.D.; funding acquisition, L.D.D. All authors have read and agreed to the 
+published version of the manuscript. 
+ 
+Funding: Not applicable.   
+ 
+Institutional Review Board Statement: Not applicable. 
+ 
+Informed Consent Statement: Not applicable. 
+ 
+Data Availability Statement: The data presented in this study may be obtained on request from the corresponding author. 
+ 
+Acknowledgements: This work was supported by the Flagship Research Groups Programme of the Hungarian 
+University of Agriculture and Life Sciences and the Hungarian University of Agriculture and Life Sciences, Doctoral 
+School of Economic and Regional Sciences, Hungary. 
+ 
+Conflicts of Interest: The authors declare no conflict of interest. 
+ 
+REFERENCES 
+Abrahams, R. (2015). Tourism and the reconfiguration of host group identities: a case study of ethnic tourism in rural Guangxi, China. 
+Journal of Tourism and Cultural Change, 13(1), 39–55. https://doi.org/10.1080/14766825.2014.892505 
+Aguilar, A. G., & Campuzano, E. P. (2009). Informal Sector. International Encyclopedia of Human Geography: Volume 1-12, 1–12, V5-
+446-V5-453. https://doi.org/10.1016/B978-008044910-4.00102-4 
+Allsop, D. B., Chelladurai, J. M., Kimball, E. R., Marks, L. D., & Hendricks, J. J. (2022). Qualitative Methods with Nvivo Software: A 
+Practical Guide for Analyzing Qualitative Data. Psych, 4(2), 142–159. https://doi.org/10.3390/psych4020013 
+Alonso-Almeida, M. del M., Giglio, C., & Iazzolino, G. (2024). A cross-country analysis of decision-making factors influencing tourists’ 
+shift towards circular destinations in EU-27. Socio-Economic Planning Sciences, 94. https://doi.org/10.1016/j.seps.2024.101955 
+Aref, F. (2011). Barriers to community capacity building for tourism development in communities in Shiraz, Iran. Journal of Sustainable 
+Tourism, 19(3), 347–359. https://doi.org/10.1080/09669582.2010.517314 
+Arintoko, A., Ahmad, A. A., Gunawan, D. S., & Supadi, S. (2020). Community-Based Tourism Village Development Strategies: A Case 
+of Borobudur Tourism Village Area. INDONESIA. GeoJournal of Tourism and Geosites, 29(2), 398. https://doi.org/10.30892/gtg.2 
+Baas, J., Schotten, M., Plume, A., Côté, G., & Karimi, R. (2020). Scopus as a curated, high-quality bibliometric data source for academic 
+research in quantitative science studies. Quantitative Science Studies, 1(1), 377–386. https://doi.org/10.1162/qss_a_00019 
+Biddulph, R. (2015). Limits to mass tourism’s effects in rural peripheries. Annals of Tourism Research, 50, 98–112. https://doi.org/ 
+10.1016/j.annals.2014.11.011 
+BPS-Statistics, I. (2017). Statistcal Yearbook of Indonesia 2017 (S. of S. C. and Publication, Ed.). BPS-Statistics Indonesia. 
+Centeno, D. D. (2024). Socio-Spatial Analysis of Indigenous Cultural Tourism Sites: A Comparative Study of Kampoeng Wisata 
+Cinangneng, Bogor, Indonesia and Tam-Awan Village, Baguio City, Philippines. IOP Conference Series: Earth and Environmental 
+Science, 1384(1), 012023. https://doi.org/10.1088/1755-1315/1384/1/012023 
+Chevalier, S. P. (2018). The Desa Wisata Terpadu as a vector of sustainable development in Bali? Advances in Social Science, Education and 
+Humanities Research, 226(1st International Conference on Social Sciences (ICSS 2018)), 9–13. https://doi.org/10.2991/icss-18.2018.3 
+Chi H. C. Dung, H. H., Gia H. H., Van C. N., Huu, P. T., & Thi Q. T. (2024). Factors Influencing Residents’ Decisions to Participate in 
+Community Tourism in the Central Coastal Lagoon Region of Vietnam. Geojournal of Tourism and Geosites Year XVII, 55(3), 
+1254–1263. https://doi.org/10.30892/gtg.55325-1297 
+Dashper, K. (2014). Rural tourism: An International Perspective. In K. Dashper (Ed.), Encyclopedia of Tourism (I). Cambridge Scholars 
+Publishing. https://doi.org/10.1016/S0160-7383(02)00009-9 
+
+
+Setiawan PRIATMOKO, Al Fauzi RAHMAT, Endro ISNUGROHO, Zoltán BUJDOSÓ, Lóránt Dénes DÁVID 
+ 
+ 
+1428 
+Dávid, L., Bujdosó, Z., & Patkós, Cs. (2003). A turizmus hatásai és jelentősége a területfejlesztésben. [The impact and importance of 
+tourism in territorial development] pp. 433-453. In: Süli-Zakar, István (Ed.) A terület- és településfejlesztés alapjai. [Basics of 
+spatial and territorial development]. Dialóg Campus Kiadó, Budapest, Pécs, Hungary. 471p.  (In Hungarian). 
+Dávid, L., Bujdosó, Z., & Tóth, G. (2008). Tourism planning in the Hajdú-Bihar – Bihor Euroregion. In: Süli-Zakar, I. (Ed.) Neighbours 
+and partners: on the two sides of the border, Debrecen, Magyarország, Kossuth Egyetemi Kiadó, 402p., pp. 323-332. 
+Del Chiappa, G., Atzeni, M., & Ghasemi, V. (2018). Community-based collaborative tourism planning in islands: A cluster analysis in the context 
+of Costa Smeralda. Journal of Destination Marketing and Management, 8(November 2016), 41–48. https://doi.org/10.1016/j.jdmm.2016.10.005 
+Developing Countries - an overview | ScienceDirect Topics. (n.d.). Retrieved 11.11.2024. https://www.sciencedirect.com/topics/social-
+sciences/developing-countries 
+Dressel, S., Sjölander-lindqvist, A., Johansson, M., Ericsson, G., & Sandström, C. (2021). Achieving Social and Ecological Outcomes in 
+Collaborative Environmental Governance: Good Examples from Swedish Moose Management. Sustainability, 13(4), 2329. 
+https://doi.org/https://doi.org/10.3390/su 13042329 
+Ezeuduji, I. O. (2015). Building capabilities for sub-Saharan Africa’s rural tourism services performance. African Journal for Physical 
+Health Education, Recreation and Dance, 21(sup-2), 68–75. https://doi.org/10.10520/EJC182967 
+Fatimah, S., & Ayu, S. K. (2020). Rural Tourism Development: Institution, Disaster and Communication. IOP Conference Series: Earth 
+and Environmental Science, 466(1). https://doi.org/10.1088/1755-1315/466/1/012023 
+Giampiccoli, A. (2020). A conceptual justification and a strategy to advance community-based tourism development. European Journal 
+of Tourism Research, 25(2020), 2503. https://doi.org/10.54055/ejtr.v25i.418 
+Giordano, S. (2019). Agrarian landscapes: from marginal areas to cultural landscapes—paths to sustainable tourism in small villages—
+the case of Vico Del Gargano in the club of the Borghi più belli d’Italia. Quality and Quantity, 54(5), 1725–1744. https://doi.org/ 
+10.1007/s11135-019-00939-w 
+Han, S., Olya, H., Kim, M. J., & Kim, T. (2024). Generative-based community sustainable tourism development: From conceptualization 
+to practical framework. Journal of Hospitality and Tourism Management, 61, 34–44. https://doi.org/10.1016/j.jhtm.2024.09.009 
+Hanita, M., Bangso, F. Dt., & Aprian, M. (2024). Beyond attraction: Unveiling Bali’s cultural community’s role in bolstering tourism resilience 
+amidst the COVID-19 pandemic. Journal of Destination Marketing & Management, 34, 100953. https://doi.org/10.1016/j.jdmm.2024.100953 
+Haulle, E., Nchimbi, C. S., & Ndimbo, G. K. (2024). Engendering Rural Tourism as a Viable Strategy for Poverty Alleviation and Rural 
+Development in the Southern Tourist Circuit of Tanzania. Sage Open, 14(4). https://doi.org/10.1177/21582440241285496 
+Hidayah, N., Suherlan, H., & Putra, F. K. K. (2022). Stakeholders’ Synergies in Developing Smart Tourism Destination. A 
+Phenomenographic Study. Journal of Environmental Management and Tourism, 13(2), 313–323. https://doi.org/10.14505/jemt.v13.2(58).02 
+Hilal, A. H., & Al Abri, S. S. (2013). Using Nvivo for Data Analysis in Qualitative Research. International Interdisciplinary Journal of 
+Education, 2(2), 181–186. https://doi.org/10.12816/0002914 
+Hoang, H. T., & Romm, N. R. (2020). Systemic Research Practices Towards the Development of an Eco-Community in Vietnam: some 
+Joint Post-Facto Reflections. Systemic Practice and Action Research, 599–624. https://doi.org/10.1007/s11213-020-09533-w 
+Ilieș, G., & Ilieș, M. (2015). Identity Based Geo and Tourism Branding Strategies Derived from Rural Maramureș Land (Romania). Geo 
+Journal of Tourism and Geosites, 16(2), 179–186. http://gtg.webhost.uoradea.ro/ 
+Indonesia Ministry of Tourism. (n.d.). Press Release: Minister of Tourism and Creative Economy Officially Launches Indonesian 
+Tourism Village Award (ADWI) 2024/ Siaran Pers : Menparekraf Resmi Luncurkan Anugerah Desa Wisata Indonesia (ADWI) 2024. 
+Indonesian Ministry of Tourism and Creative Economy. Retrieved 9 September 2024, from https://www.kemenparekraf.go.id/hasil-
+pencarian/siaran-pers-menparekraf-resmi-luncurkan-anugerah-desa-wisata-indonesia-adwi-2024 
+Jeyacheya, J., & Hampton, M. P. (2020). Wishful thinking or wise policy? Theorising tourism-led inclusive growth: Supply chains and 
+host communities. World Development, 131, 104960. https://doi.org/10.1016/j.worlddev.2020.104960 
+Junaid, I., Sigala, M., & Banchit, A. (2020). Implementing community-based tourism (CBT): Lessons learnt and implications by 
+involving students in a CBT project in Laelae Island, Indonesia. Journal of Hospitality, Leisure, Sport & Tourism Education, Article 
+In Press, 100295. https://doi.org/10.1016/j.jhlste.2020.100295 
+Kabil, M., Priatmoko, S., & Magda, R. (2021). Blue Economy and Coastal Tourism : A Comprehensive Visualization Bibliometric 
+Analysis. Sustainability, 13(7), 1–25. https://doi.org/https://www.mdpi.com/2071-1050/13/7/3650 
+Legatzke, H., Current, D., & LaPan, C. (2024). Applying the Sustainable Livelihoods Framework to Examine the Efficacy of 
+Community-Based Tourism at Equitably Promoting Local Livelihood Opportunities. Tourism Planning & Development, 1–21. 
+https://doi.org/10.1080/21568316.2024.2391509 
+Luo, X., & Peng, Q. (2024). Sustainable Tourism Development Based on Spatial Analysis. Journal of Cases on Information Technology, 
+26(1), 1–21. https://doi.org/10.4018/JCIT.354070 
+Manaf, A., Purbasari, N., Damayanti, M., Aprilia, N., & Astuti, W. (2018). Community-Based Rural Tourism in Inter-Organizational 
+Collaboration: How Does It Work Sustainably? Lessons Learned from Nglanggeran Tourism Village, Gunungkidul Regency, 
+Yogyakarta, Indonesia. Sustainability, 10(7), 2142. https://doi.org/10.3390/su10072142 
+Mandić, A. (2019). Nature-based solutions for sustainable tourism development in protected natural areas: a review. In Environment 
+Systems and Decisions (Vol. 39, Issue 3, pp. 249–268). https://doi.org/10.1007/s10669-019-09718-2 
+Meng, L. (Monroe), Ma, C., Zhang, Z., Wang, W., Zhang, L., & Cheng, Z. (2024). Choosing culture or nature: How temporal landmarks 
+affect tourism destination preferences. Tourism Management, 105, 104974. https://doi.org/10.1016/j.tourman.2024.104974 
+Moscardo, G. (2008). Community capacity building: an emerging challenge for tourism development. In Building community capacity 
+for tourism development (pp. 1–15). CABI. https://doi.org/10.1079/9781845934477.0001 
+Moyes, D., Ferri, P., Henderson, F., & Whittam, G. (2015). The stairway to Heaven? The effective use of social capital in new venture 
+creation for a rural business. Journal of Rural Studies, 39, 11–21. https://doi.org/10.1016/j.jrurstud.2015.02.004 
+Murphy, P. E. (1988). Community driven tourism planning. Tourism Management, 9(2), 96–104. https://doi.org/10.1016/0261-5177(88)90019-2 
+Ocampo-Peñuela, N., & Winton, R. S. (2017). Economic and Conservation Potential of Bird-Watching Tourism in Postconflict 
+Colombia. Tropical Conservation Science, 10, 1–6. https://doi.org/10.1177/1940082917733862 
+Ofer, D., Kaufman, H., & Linial, M. (2024). What’s next? Forecasting scientific research trends. Heliyon, 10(1), e23781. 
+https://doi.org/10.1016/J.HELIYON.2023.E23781 
+Phengkona, J. (2021). Online marketing strategies for community-based tourism in the Andaman cluster of Thailand. European Journal 
+of Tourism Research, 28, 2814. https://doi.org/10.54055/ejtr.v28i.2046 
+Prasetyo, Y., Nugroho, S., Sulistiyono, S., Nurhidayah, D., Hermawan, H. A., Sumarjo, S., Prastyawan, R. R., & Perdana, S. (2024). Cultural 
+heritage sports tourism design opportunities: a bibliometric analysis. Retos, 61, 766–773. https://doi.org/10.47197/retos.v61.108284 
+
+
+Digging Up Rural Community-based Tourism (CBT) in Developing Country, Indonesia’s Framework Finding 
+ 
+ 
+1429 
+Priatmoko, S., Kabil, M., Purwoko, Y., & Dávid, L. D. (2021). Rethinking Sustainable Community-Based Tourism: A Villager’s Point of 
+View and Case Study in Pampang Village, Indonesia. Sustainability, 13(6), 1–15. https://doi.org/10.3390/su13063245 
+Purbasari, N., & Manaf, A. (2017). Characteristics of Ecotourism System Elements in Nglanggeran Tourism Village and Village 
+Tourism in Pentingsari Tourism Village/ Karakteristik Elemen Sistem Pariwisata Ekowisata Desa Wisata Nglanggeran dan Wisata 
+Desa pada Desa Wisata Pentingsari. Jurnal Pembangunan Wilayah & Kota, 13(1), 100. https://doi.org/10.14710/pwk.v13i1.15151 
+Purwani, E. S., Fakhrurozi, M., & Warsiyah. (2023). Rural Potential Analysis for The Development of Tourism Villages in Indonesia. 
+Journal of Event, Tourism and Hospitality Studies, 3, 22–35. https://doi.org/10.32890/jeth2023.3.2 
+Putri, F. A., & Adinia, N. C. (2018). The Role of Communication in Sustainable Development Tourism : A Case Study on Community-
+based Tourism ( Pokdarwis ) in Nglanggeran Village. Jurnal Komunikasi Indonesia, VII(2), 153–161. 
+Reina-Usuga, L., Camino, F., Gomez-Casero, G., & Jara Alba, C. A. (2024). Rural tourism initiatives and their relationship to 
+collaborative governance and perceived value: A review of recent research and trends. Journal of Destination Marketing & 
+Management, 34, 100926. https://doi.org/10.1016/j.jdmm.2024.100926 
+Rindrasih, E. (2018a). Under the Volcano: Responses of a Community-Based Tourism Village to the 2010 Eruption of Mount Merapi, 
+Indonesia. Sustainability (Switzerland), 10(5). https://doi.org/10.3390/su10051620 
+Rindrasih, E. (2018b). Under the Volcano: Responses of a community-based tourism village to the 2010 eruption of Mount Merapi, 
+Indonesia. Sustainability (Switzerland), 10(5). https://doi.org/10.3390/su10051620 
+Rosalina, P. D., Dupre, K., & Wang, Y. (2021). Rural tourism: A systematic literature review on definitions and challenges. Journal of 
+Hospitality and Tourism Management, 47(November 2020), 134–149. https://doi.org/10.1016/j.jhtm.2021.03.001 
+Rosalina, P. D., Dupre, K., Wang, Y., Putra, I. N. D., & Jin, X. (2023a). Rural tourism resource management strategies: A case study of 
+two tourism villages in Bali. Tourism Management Perspectives, 49. https://doi.org/10.1016/j.tmp.2023.101194 
+Rosalina, P. D., Dupre, K., Wang, Y., Putra, I. N. D., & Jin, X. (2023b). Rural tourism resource management strategies: A case study of 
+two tourism villages in Bali. Tourism Management Perspectives, 49, 101194. https://doi.org/10.1016/j.tmp.2023.101194 
+Safarov, B., Amirov, A., Mansurova, N., Hassan, T. H., Hasanov, H., Pereș, A. C., Bilalov, B., & Turdibekov, K. (2024). Prospects of 
+Agrotourism Development in the Region. Economies, 12(12). https://doi.org/10.3390/economies12120321 
+Saldaña, J. (2013). The Coding Manual for Qualitative Researchers (J. Seaman, Ed.; 2nd ed.). SAGE. 
+Saleem Wani, M., Bhat, M. S., Alam, A., Ahsan, S., Mir, S. A., & Jabeen, S. F. (2024). Reimagining Tourism Sustainability in the 
+North-Western Himalayas: A Community-Based Perspective. Journal of Quality Assurance in Hospitality & Tourism, 0(0), 1–40. 
+https://doi.org/10.1080/1528008X.2024.2400676 
+Schuhbert, A. (2023). Specifying Destination-Based Networks by Governance-Mode: A Social Capital Approach to Innovative Capacity in a 
+Rural Destination of Azerbaijan. Tourism Planning & Development, 20(5), 832–854. https://doi.org/10.1080/21568316.2021.1953119 
+Senyao, S., & Ha, S. (2022). How social media influences resident participation in rural tourism development: a case study of Tunda in 
+Tibet. Journal of Tourism and Cultural Change, 20(3), 386–405. https://doi.org/10.1080/14766825.2020.1849244 
+Sim, J., Saunders, B., Waterfield, J., & Kingstone, T. (2018). Can sample size in qualitative research be determined a priori? 
+International Journal of Social Research Methodology, 21(5), 619–634. https://doi.org/10.1080/13645579.2018.1454643 
+Sutomo, Y. A. W., Sianipar, C. P. M., Hoshino, S., & Onitsuka, K. (2024). Self-Reliance in Community-Based Rural Tourism: Observing Tourism 
+Villages (Desa Wisata) in Sleman Regency, Indonesia. Tourism and Hospitality, 5(2), 448–471. https://doi.org/10.3390/tourhosp5020028 
+Team Europe. (2020). EU-Indonesia Cooperation 2020 Building Capacity for Green Growth. Delegation of the European Union to Indonesia 
+and Brunei Darussalam. https://teameuropeindonesia.eu/wp-content/uploads/2020/10/Blue-Book-EU-Indonesia-2020-REV-6-FA.pdf 
+Tela, I. N., Ghani, M. Z. A., Aryanti, D., & Ilona, D. (2024). Community Support Toward Village-Based Tourism Development in 
+Indonesia. Journal of Design and Built Environment, Special Issue IV, 100–114. https://ejournal.um.edu.my/index.php/jdbe 
+Tirasattayapitak, S., Chaiyasain, C., & Beeton, R. J. S. (2015). The impacts of nature-based adventure tourism on children in a Thai 
+village. Tourism Management Perspectives, 15, 122–127. https://doi.org/10.1016/j.tmp.2015.05.003 
+Tolkach, D., & King, B. (2015). Strengthening Community-Based Tourism in a new resource-based island nation: Why and how? 
+Tourism Management, 48, 386–398. https://doi.org/10.1016/j.tourman.2014.12.013 
+Trejos, B., & Chiang, L. H. N. (2009). Local economic linkages to community-based tourism in rural Costa Rica. Singapore Journal of 
+Tropical Geography, 30(3), 373–387. https://doi.org/10.1111/j.1467-9493.2009.00375.x 
+University of Toronto Scarborough. (n.d.). Mapping Method. Learning Strategies. Retrieved 9 September 2024, from https://www.utsc. 
+utoronto.ca/learningstrategies/mapping-method 
+UNWTO. (2007). A Practical Guide to Tourism Destination Management. In A Practical Guide to Tourism Destination Management. 
+World Tourism Organization (UNWTO). https://doi.org/10.18111/9789284412433 
+unwto.org. (n.d.). UN Tourism. Retrieved 8 October 2024, from https://www.unwto.org/ 
+Utami, D. D., Dhewanto, W., & Lestari, Y. D. (2023). Rural tourism entrepreneurship success factors for sustainable tourism village: 
+Evidence from Indonesia. Cogent Business and Management, 10(1). https://doi.org/10.1080/23311975.2023.2180845 
+Utomo, S. H., Wulandari, D., Narmaditya, B. S., Ishak, S., Prayitno, P. H., Sahid, S., & Qodri, L. A. (2020). Rural-Based Tourism and Local 
+Economic Development: Evidence from Indonesia. GeoJournal of Tourism and Geosites, 31(3), 1161–1165. https://doi.org/10.30892/gtg.3  
+Wang, K., Xu, H., & Huang, L. (2020). Wellness tourism and spatial stigma: A case study of Bama, China. Tourism Management, 
+78(November 2019), 104039. https://doi.org/10.1016/j.tourman.2019.104039 
+Webster, C., & Ivanov, S. H. (2012). The Political Economy of Tourism in the Future (July 10, 2010). SSRN Electronic Journal, 1–21. 
+https://doi.org/10.2139/ssrn.1638306 
+Woosnam, K. M., Joo, D., Gaither, C. J., Ribeiro, M. A., Sánchez, J. J., Brooks, R., & Lee, D. K. (2024). Residents’ behavioral support for 
+tourism in a burgeoning rural destination. Journal of Outdoor Recreation and Tourism, 48, 100816. https://doi.org/10.1016/j.jort.2024.100816 
+World Bank Group. (2024). East Asia & Pacific (excluding high income). https://data.worldbank.org/region/east-asia-and-pacific-
+excluding-high-income?view=chart 
+Xi, J., Wang, X., Kong, Q., & Zhang, N. (2015). Spatial morphology evolution of rural settlements induced by tourism: A comparative study of 
+three villages in Yesanpo tourism area, China. Journal of Geographical Sciences, 25(4), 497–511. https://doi.org/10.1007/s11442-015-1182-y 
+Yang, J. J., Lo, H. W., Chao, C. S., Shen, C. C., & Yang, C. C. (2020). Establishing a Sustainable Sports Tourism Evaluation Framework 
+with a Hybrid Multi-Criteria Decision-Making Model to Explore Potential Sports Tourism Attractions in Taiwan. Sustainability 
+(Switzerland), 12(4), 1–20. https://doi.org/10.3390/su12041673 
+Zhang, Z., Liang, Z., & Bao, J. (2021). From theme park to cultural tourism town: Disneyization turning of tourism space in China. 
+Regional Sustainability, 2(2), 156–163. https://doi.org/10.1016/j.regsus.2021.05.003 
+ 
+  
+Article history: 
+Received: 14.01.2025 
+Revised: 09.06.2025 
+Accepted: 30.06.2025 
+Available online: 15.07.2025 
+ 

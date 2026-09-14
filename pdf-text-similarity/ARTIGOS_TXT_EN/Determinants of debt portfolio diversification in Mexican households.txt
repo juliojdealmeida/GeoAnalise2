@@ -1,0 +1,1727 @@
+This article is under the license CC BY-NC 
+ 
+ 
+ 
+ 
+ 
+Determinants of debt portfolio diversification in Mexican households 
+ 
+Lianet Farfán-Pérez 
+  -  Universidad Autónoma de Nuevo León, México 
+Jorge O. Moreno1 
+ 
+  -  Universidad Autónoma de Nuevo León, México 
+Christopher Zamudio 
+  -  Universidad Autónoma de Nuevo León, México 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Determinantes de la diversificación del portafolio de deuda de los 
+hogares mexicanos 
+ 
+ 
+1 Corresponding author: Profesor de Economía y Finanzas, Facultad de Economía, UANL. Av. Lázaro Cárdenas 4600 Ote., 
+UANL Campus Mederos, C.P. 64930, Monterrey, Nuevo León, México. Teléfono: (+52) 818-329-4150, Ext. 2408. Correo 
+electrónico: jorge.morenotr@uanl.edu.mx.   
+* No source of funding for research development 
+ 
+ 
+This research examines the determinants of debt management in Mexican households defined by the degree of 
+diversification of their debt portfolio. We identify and correct the potential sample selection problem related to 
+credit access using a Heckit approach. Evidence suggests that variables such as income, wealth, and the financial 
+burden of the household, as well as the age, education, and employment situation of the head of the family, 
+significantly impact whether a household concentrates or diversifies its debt. The main limitation is that the data 
+used is only available for 2019, so it is impossible to perform temporal analysis. The originality of this work lies 
+in constructing a debt concentration index as a proxy of debt management, which weights each credit instrument 
+contracted by a household as a ratio of its total debt. We conclude that understanding Mexican families' credit 
+dynamics can contribute to effectively applying public policies that improve their well-being. 
+JEL Classification: G5, G51, D14, C58. 
+Keywords: household debt portfolios, credit access, debt concentration, Mexico. 
+Este trabajo examina los determinantes de la administración de la deuda de los hogares mexicanos definida por 
+la diversificación de su portafolio de deuda. Distinguiendo el potencial problema de selección muestral 
+relacionado al acceso al crédito, se propone la utilización del modelo de Heckman, con el objetivo de identificar 
+y corregir la selectividad y obtener estimadores insesgados. Las estimaciones sugieren que variables como el 
+ingreso, la riqueza, la carga financiera del hogar, así como la edad, la educación y la situación de empleo del jefe 
+de familia, impactan de manera significativa en el hecho de que un hogar concentre o diversifique su deuda. 
+Como principal limitación se tiene que los datos utilizados están disponibles solamente para el año 2019, por lo 
+que es imposible realizar un análisis temporal. La originalidad de este trabajo radica en la construcción de un 
+índice de concentración de deuda como proxi de la administración de la deuda, el cual pondera cada instrumento 
+crediticio contratado por un hogar como una proporción de su deuda total. Se concluye que entender la dinámica 
+de utilización del crédito de las familias mexicanas puede contribuir a una efectiva aplicación de políticas 
+públicas que mejoren su bienestar. 
+Clasificación JEL: G5, G51, D14, C58. 
+Palabras clave: Portafolio de deuda de los hogares, acceso al crédito, concentración de la deuda, México. 
+Abstract 
+Resumen 
+Revista Mexicana de Economía y Finanzas, Nueva Época 
+ 
+Volumen 20 Número 1, Enero – Marzo 2025, pp. 1-20, e893 
+ 
+DOI: https://doi.org/10.21919/remef.v20i1.893 
+ 
+ 
+(Received: June 30, 2023, Accepted: April 18, 2024, 
+Published: October 31, 2024) 
+
+
+ 
+2 
+ 
+ 
+REMEF (The Mexican Journal of Economics and Finance) 
+Determinants of debt portfolio diversification in Mexican households 
+1. Introduction 
+ 
+Debt is one essential source of liquidity by which an economic agent obtains funds for diverse 
+purposes related to consumption, investment, and temporary insurance. When we think of analyzing 
+debt, the first that comes to mind is a company requesting a loan or issuing a bond in the market to 
+carry out ordinary operations. However, households also participate in the demand for financial 
+services and use debt for investment but can go beyond by considering also human capital 
+investment and immediate contingencies insurance, for instance. 
+Samphantharak and Townsend (2009) developed an exciting approach to household finance. 
+They state that households and firms are similar in the way they operate. Studying their finances 
+allows us the construction of financial statements and provides tools to investigate the members' 
+behavior of households associated with specific socio-demographic and economic-financial 
+characteristics. 
+Analyzing the household as a company admits to adapting existing theories of corporate 
+finance to this type of agent. It also allows us to understand how they manage their assets and 
+liabilities. An example is the possibility of analyzing household indebtedness and asset concentration, 
+applying simple probabilistic models but also complex ones such as neural networks and Bayesian 
+models (Gutiérrez, Capera and Estrada, 2011; Díaz, Sosa and Cabello, 2019; Eichhorn, 2020; Dávila, 
+Ortiz and Cabrera, 2021). 
+Analyzing this previous literature, we realized there are still many unresolved questions 
+about household finances and how they distribute their wealth to satisfy their consumption through 
+indebtedness. Most of the papers analyze the level of total debt or their access (Martínez, Montoya 
+and Tolentino 2023; Vega, Moreno and Fafán, 2024). However, within the total liabilities contracted 
+by households, obligations can be separated depending on the type of debt instrument. Thus, some 
+households may have departmental and bank credit cards, mortgage debt, payroll loans, and other 
+instruments. If a household contracts more than one type of debt, we can say that it has a diversified 
+debt portfolio; on the contrary, if it has only one type of debt contracted, the debt portfolio is 
+concentrated. So, we can define household debt diversification as the distribution of debt among 
+different types of loans or credit instruments. 
+Studying the concentration of household debt has significant implications since we can 
+introduce relevant concepts such as risk management and financial education. In this case, more 
+diversified debt portfolios reduce the risk of default (Dynkin, Hyman, and Konstantinovsky, 2002). 
+However, diversification can be extremely difficult without adequate financial education, so from this 
+perspective, households will prefer to concentrate their debt on a single creditor to achieve efficient 
+portfolio management. Following the corporate finance theory related to this topic, Gilson, John, and 
+Lang (1990) show that firms can negotiate their debt portfolio better using fewer debt instruments, 
+which can also apply to households. 
+On the other hand, diversifying the liabilities contracted contributes to the household's 
+financial stability. In this way, more balanced and manageable debt portfolios can be created, better 
+facing any eventuality that may arise from any unexpected macroeconomic or personal situation. 
+Considering this, households can reduce financial stress. In addition, when portfolios are highly 
+concentrated, avoiding borrowing costs associated with interest rates charged by financial 
+
+
+3 
+ 
+ 
+Revista Mexicana de Economía y Finanzas, Nueva Época, Vol. 20 No. 1, pp. 1-20, e893 
+DOI: https://doi.org/10.21919/remef.v20i1.893 
+institutions becomes more complex. Diversification makes it possible to optimize these costs by 
+taking advantage of lower rates. In other words, when the liability portfolio is more dispersed, it is 
+easier to have access to credit, contributing to obtaining a better score and credit history with 
+financial institutions. Diversifying household debt can help structure debt payments and establish 
+long-term financial goals. 
+The motivation for this study arises from the interest in exploring what happens when 
+households have a concentrated or diversified level of debt. In other words, we want to know if it is 
+suitable for a household to contract one or several debt instruments to satisfy its consumption level. 
+The existing literature analyzes indebtedness in an aggregate way (total household debt) without 
+considering the implications that these liabilities come from different sources. Therefore, there is no 
+research for Mexico where household debt is analyzed, considering its concentration or 
+diversification level. 
+Analyzing the total debt level held by each household gives us a general idea of the 
+constrained expense level they face. However, studying its concentration can help us better 
+understand household preferences regarding the liabilities they use the most, depending on several 
+factors, such as income. This component is usually highly correlated with credit access and a 
+household's level of indebtedness (Alfaro and Gallardo, 2012). 
+Additionally, we are interested in understanding which factors affect a household's decision 
+to contract one or more debt instruments instead of which specifically they use. In this sense, the 
+proposed variable gives us a general idea of what we want to study. First, proportions allows us to 
+normalize the allocation of debt regardless of the size of debt, permitting us to compare debt 
+management across different income strata. Also, through using proportions we can identify if a 
+household uses more than one debt instrument, and so we can distribute debt and weight it by 
+instrument, depending on its relevance to the total amount of debt. If we use allocations or the 
+number of debt instruments as a dichotomous or categorical variable, we need to discuss 
+probabilistic models, which differ from our goal in this paper. 
+Therefore, the research problems try to answer the following questions: How do the 
+economic-financial and socio-demographic characteristics of households in Mexico determine debt 
+holdings and the diversification degree of the instruments to which they have access? How important 
+are income, leverage, and financial burden over debt diversification? Thus, we try to test the 
+hypothesis related to how household debt holding and diversification are susceptible to its economic 
+and socio-demographic situation.  
+The main contribution of this work is to test the existing theories on the determinants of 
+household indebtedness but with a different perspective. The target variable is a debt concentration 
+index constructed from a household's debt instruments as a proportion of its total debt. The purpose 
+of this variable is to give us a measure of household debt dispersion to understand the capacity they 
+have to manage their liabilities when they contract more than one debt instrument or if, on the 
+contrary, they face difficulties managing several credits. Also, this work is a pioneer in this line of 
+research because there is no literature related to household debt portfolio diversification, only about 
+companies' debt and assets portfolio diversification. 
+To answer the research question and test the hypothesis, the Heckman self-selection model 
+is applied to detect and correct the potential bias associated with access to the debt market. On the 
+other hand, the most relevant results from the estimations confirm the initial hypothesis, considering 
+
+
+ 
+4 
+ 
+ 
+REMEF (The Mexican Journal of Economics and Finance) 
+Determinants of debt portfolio diversification in Mexican households 
+that households' economic-financial and socio-demographic aspects significantly impact holding 
+debt and diversification. Controlling by self-selection bias in holding debt, we found that variables 
+such as the level of income and debt and the financial burden of households are positively related to 
+the diversification of their obligations. That is, they use several debt instruments to cover their 
+consumption levels. On the other hand, households whose head inhabitant have a certain level of 
+education compared to households whose head inhabitant is not educated tend to build less 
+concentrated debt profiles. The head of household age also positively impacts diversification, with 
+people between 35 and 44 years old being those who disperse their debt levels more than younger 
+people. In addition, household size is also relevant in explaining the dependent variable, where 
+households with more than six inhabitants tend to diversify their debt more than households in 
+which only one person lives. Finally, if the family head is male, the household debt portfolio tends to 
+be less concentrated. 
+Considering the importance of households understanding the debt market better and using 
+the instruments it offers efficiently, it is essential to clarify that this research does not seek to 
+establish an optimal debt level for Mexican households. However, given a holding level of debt, the 
+study focuses on finding the factors that directly impact whether a household diversifies or 
+concentrates its debt portfolio, considering the different instruments they use. 
+Given that this work is innovative in the investigation line it follows, although this can 
+significantly contribute to the literature, it can also be a limitation. In this sense, not much empirical 
+evidence helps us corroborate our results consistently, so we must rely on alternative theories and 
+adapt them to our research. Another limitation of this study is that the data we use is cross-sectional 
+for 2019, so we cannot follow households' temporal behavior in managing their debt portfolios.  
+This research also presents opportunity areas. First, it is interesting to analyze what 
+happened to households' debt structures during the COVID-19 pandemic, whether they changed or 
+maintained the same behavior. Second, this paper serves as a starting point to study the impact of 
+management and debt portfolio administration in public policies on financial inclusion. 
+The rest of this work is structured as follows: Section 2 presents the state of art. Section 3 
+explains the methodology, analyzes the data, and describes the variables and the empirical strategy. 
+Section 4 reports the results and discuss them; and finally, section 5 concludes the paper and make 
+some recommendations and final considerations. 
+ 
+2. State of the art 
+ 
+Regarding the literature on household financial statements, several works describe their behavior, 
+but they analyze tenure, allocation, and diversification from the asset perspective. The factors often 
+used to explain these dependent variables may coincide with those that describe the same 
+phenomena but from the standpoint of liabilities. Some investigations on this subject are those of 
+Polkovnichenko (2003), Campbell (2006), Von Gaudecker (2015), and Liu, Li, and Zhang (2022), 
+among others. 
+However, there is not much-related literature about the concentration analysis of household 
+debt, so this work will be considered an exploratory analysis and a first approach to the subject, 
+especially for Mexico. In this sense, we consider the literature review that gives us an idea of what 
+
+
+5 
+ 
+ 
+Revista Mexicana de Economía y Finanzas, Nueva Época, Vol. 20 No. 1, pp. 1-20, e893 
+DOI: https://doi.org/10.21919/remef.v20i1.893 
+variables are related to household indebtedness but not the sign it reflects. This investigation does 
+not explain the level of debt as most articles do, so the sign reported by the literature might have a 
+different interpretation of the phenomenon we are trying to analyze.  
+Considering those above, Rodríguez, Castro, and Meneses (2020) analyze household debt and 
+its financial burden for Mexico, using data from ENIGH2 2014. In this work, they used variables such 
+as income and financial burden. Using descriptive analysis, they found that households in the first 
+three deciles are unsustainable and cannot face their obligations. On the other hand, households 
+between deciles four and six are at financial risk. 
+Dávila, Ortiz, and Cabrera (2021) used a Bayesian model to study household finances. They 
+attempt to measure the prevalence probability of financial stability in Mexican households and use 
+variables such as the source of income, education, savings capacity, financial inclusion, and household 
+socioeconomic level, among others. These authors find that the most important variables that explain 
+the financial stability of households in Mexico are the prudent management of the contracted credit 
+and the conformation of households, underlining the importance of promoting educational initiatives 
+at different levels, modalities, and educational subsystems. 
+Díaz, Sosa, and Cabello (2019) analyze the determinants of household indebtedness in Mexico 
+through a neural network model. They use data from ENIGH 2016, from which they take or construct 
+variables such as the age of the family head, gender, educational level, socioeconomic stratum, 
+number of economic dependents, and credit card payments. The dependent variable is the household 
+level of indebtedness. They find that the most relevant variable to explain household indebtedness is 
+the possession of a credit card. 
+Additionally, through a data panel, Eichhorn (2020) studied the factors that explain the over-
+indebtedness of Chilean households for the years 2014-2017. Using a logit model, this author finds 
+that the income and occupation status of the household head reduces the probability of over-
+indebtedness. Otherwise, the presence of unexpected expenses affects it positively. Plus, using a 
+cross-sectional approach, she finds that households headed by women and heads of households 
+under 35 years are more vulnerable to over-indebtedness. Also, consumer debt is riskier for over-
+indebtedness than educational and mortgage debts, which is even higher in the case of the household 
+head belonging to the youngest group. 
+A European study in the United Kingdom by Tudela and Young (2005) similarly investigates 
+the characteristics that influence household debt. They use a model of overlapping generations to 
+measure aggregate household debt and independent variables such as net financial assets, interest 
+rate, household consumption, and consumer age. The work shows that different future paths for real 
+interest rates could lead to a higher or lower debt-to-income ratio. In neither case, however, recent 
+debt levels appear unaffordable for the average individual inhabiting a household. 
+Many other authors have analyzed the factors that impact household debt, finding similar 
+results through different estimation methods. These works show that socio-demographic, economic, 
+and emotional characteristics significantly influence the tenure of household liabilities. Among these 
+authors are Costa and Farinha (2012), Zinman (2015), Rahman, Azma, Masud, and Ismail (2020), and 
+Piovarči (2021). 
+ 
+2 National Survey of Household Income and Expenditure published by the National Institute of Geography and Statistics of 
+Mexico (INEGI, by its acronym in Spanish). 
+
+
+ 
+6 
+ 
+ 
+REMEF (The Mexican Journal of Economics and Finance) 
+Determinants of debt portfolio diversification in Mexican households 
+In addition, we use economic competition theories to build the debt concentration index. In 
+this sense, the Herfindalh-Hirschman index measures how concentrated a market or industry is with 
+repercussions in competitiveness, and we adapt it to explain the household debt concentration. Thus, 
+several authors have analyzed this index, including Rhoades (1993), Djolov (2013), and Brezina, 
+Pekár, Čičková, and Reiff (2016). 
+ 
+3. Methodology 
+ 
+3.1 Information sources and database. 
+ 
+To develop this research, we used the National Survey on Household Finances in Mexico (ENFIH, by 
+its Spanish acronym), published in the National Institute of Geography and Statistics (INEGI, by its 
+Spanish acronym). The survey is only available for 2019 and has national-locality geographic 
+coverage. The sample design consists of 17,766 households. We must use an expansion factor to 
+adjust the variance for sample size and represent all households in the Mexican state. 
+ 
+3.2 Dependent variable: debt concentration index (DCI). 
+ 
+We use corporate finance and market competition theories to define the dependent variable. No 
+relevant literature has used this same variable from a household perspective. 
+To create this variable, we define the household debt concentration index, considering each debt 
+instrument households have contracted. The ENFIH describes the following: mortgage credit, credit 
+card, departmental credit card, payroll credit, personal credit, automotive credit, and other credits. 
+Table 1 explains each instrument in detail.  
+ 
+Table 1. Credit instrument descriptions by ENFIH 2019. 
+Credit Instrument 
+Descripcion 
+Mortgage credit 
+They are long-term loans (5 to 30 years) granted by banks, public institutions 
+(INFONAVIT, FOVISSSTE), or other financial institutions intended for the 
+construction, purchase, expansion, or remodeling of real estate (house, 
+apartment, or land). This credit corresponds to the sum of mortgage loans for 
+primary housing (where the household lives) and secondary housing (any other 
+property different from the primary residence). 
+Bank credit card 
+It is a financial product issued by a bank or financial institution that serves as a 
+means of payment in some establishments, but the owner must settle the amount 
+spent on established dates. 
+Departmental 
+credit 
+card 
+A financial product that operates under the same concept as a bank credit card, 
+but the grantor or creditor is a commercial establishment whose use is exclusive 
+to that establishment and its branches. 
+Payroll credit 
+It is a simple credit of a fixed amount that an employee who receives his salary 
+regularly can obtain through a deposit to his payroll account, where the guarantee 
+
+
+7 
+ 
+ 
+Revista Mexicana de Economía y Finanzas, Nueva Época, Vol. 20 No. 1, pp. 1-20, e893 
+DOI: https://doi.org/10.21919/remef.v20i1.893 
+is his salary. The term can be 3 to 60 months with an automatic charge to the 
+payroll account. 
+Personal credit 
+It is a credit of a fixed amount granted to a natural person. It sometimes requires 
+a guarantee, collateral, or promissory note, whose payment term can be 
+established from 3 to 60 months, and payments can be weekly, biweekly, or 
+monthly. 
+Automotive credit 
+These are loans through which banks or agencies grant customers money to 
+purchase cars and trucks with financing periods ranging from 6 to 60 months, 
+where the property title remains as collateral. 
+Other credits 
+Includes other types of credits such as: 
+ 
+Educational loans: Loans to finance university enrollment, master's degrees, stays 
+abroad, or doctorates. Their interest rates are generally lower than those of 
+personal loans. 
+ 
+Group loans: Loans that some banks or microfinance institutions grant to groups 
+of 3 or 6 people, some up to 20. The members know each other previously, are 
+organized voluntarily and have a group manager. The main guarantee is that they 
+guarantee each other jointly and indivisibly. 
+ 
+Informal credits: These are loans made between individuals or between them and 
+pawnbrokers. They are not financial institutions but service providers that lend 
+money in exchange for leaving a property as collateral or having a joint guarantee. 
+Source: Author's elaboration with ENFIH 2019 information. 
+ 
+Once we disaggregate the total household obligations by type of instrument, each 
+instrument's proportion over the total household debt is squared. Then, we sum all the values 
+obtained. Namely: 
+𝐷𝐶𝐼= ∑(𝑠𝑖)²
+6
+𝑖=1
+ 
+ 
+ 
+Where 𝒔𝒊 is the proportion of each instrument over the total debt, and it can be expressed as: 
+ 
+𝑠𝑖= 𝑑𝑖
+𝐷𝑇 
+ 
+ 
+Being 𝒅𝒊 the debt instrument under analysis and 𝑻𝑫 the household total debt. Additionally, if 
+the DCI is close to 0, we can assume that the household debt is diversified. On the contrary, if the 
+index is close to 1, the household debt portfolio is concentrated (Laine, 1995). 
+Figure 1 shows graphically the distribution of debt concentration for Mexican households. 
+The first approach exhibits that most households in Mexico do not contract more than one debt 
+instrument to satisfy their consumption needs, so Mexican households tend to have a concentrated 
+debt portfolio. 
+ 
+ 
+
+
+ 
+8 
+ 
+ 
+REMEF (The Mexican Journal of Economics and Finance) 
+Determinants of debt portfolio diversification in Mexican households 
+ 
+ 
+Figure 1. Debt concentration of households in México. 
+Source: Author's elaboration with ENFIH 2019 database. 
+ 
+3.3 Independent variables: economic-financial and socio-demographic 
+factors. 
+ 
+Considering the literature that analyzes household indebtedness and credit diversification in the 
+business sector, we can establish certain analogies that allow us to identify financial and socio-
+demographic characteristics to explain our dependent variable. In this work, we only consider the 
+variables defined by these theories since our dependent variable refers to household debt. The sign 
+that we find goes beyond determining whether the level of debt increases or decreases, given that 
+our goal is to analyze the debt concentration and not the household aggregate debt. Table 2 shows 
+the construction and definition of each independent variable involved in this research. 
+ 
+Table 2. Variable description 
+Variable 
+Indicator 
+Description 
+References 
+Total 
+Income 
+ln(𝑡𝑜𝑡𝑎𝑙 𝑖𝑛𝑐𝑜𝑚𝑒) 
+The natural logarithm of the total household 
+income, including labor and non-labor income. 
+The total household income includes labor 
+income, financial investments, rental of real 
+estate, and other non-labor income sources such 
+as government support programs, retirement or 
+pensión, transfers from relatives or friends living 
+within the country or outside the country, rental 
+of any property (other than real estate), sale or 
+pawn of goods, profits or earnings from the 
+business, scholarships, and other incomes. 
+ 
+ENFIH 2019 
+Eichhorn, 2020 
+38%
+62%
+Households with only one contracted debt instrument
+Households with more than one contracted debt instrument
+
+
+9 
+ 
+ 
+Revista Mexicana de Economía y Finanzas, Nueva Época, Vol. 20 No. 1, pp. 1-20, e893 
+DOI: https://doi.org/10.21919/remef.v20i1.893 
+Wealth 
+ln(𝑡𝑜𝑡𝑎𝑙 𝑤𝑒𝑎𝑙𝑡ℎ) 
+The natural logarithm of the difference between 
+the value of total household assets and the value 
+of total household liabilities. 
+ENFIH 2019 
+Gutiérrez, 
+Capera 
+and 
+Estrada, 2011 
+ 
+Education 
+0. No education. 
+1. Basic education. 
+2. Upper secondary 
+education. 
+3. Bachelor's 
+or 
+equivalent. 
+4. Post-grad. 
+A 
+categorical 
+variable 
+that 
+defines 
+the 
+educational level of the household head. 
+ENFIH 2019 
+Dávila, Ortiz and 
+Cabrera, 2021 
+Age 
+1. Less 
+than 
+35 
+years old 
+2. 35 a 44 years old 
+3. 45 a 54 years old 
+4. 55 a 64 years old 
+5. 65 a 74 years old 
+6. 75 years old and 
+more 
+A categorical variable that defines the age group 
+to which the household head belongs. 
+ENFIH 2019 
+Díaz, Sosa and 
+Cabello, 2019 
+Gender 
+0. Female 
+1. Male 
+A dichotomous variable that defines the gender 
+of the household head. 
+ENFIH 2019 
+Gutiérrez, 
+Capera 
+and 
+Estrada, 2011 
+ 
+Household 
+Size 
+1. One inhabitant  
+2. Two inhabitants 
+3. Three inhabitants 
+4. Four inhabitants 
+5. Five inhabitants 
+6. Six inhabitants or 
+more 
+A categorical variable that defines the household 
+number of inhabitants. 
+ENFIH 2019 
+Eichhorn, 2020 
+Employment 
+0. No empleado 
+1. Empleado 
+A dichotomous variable that defines whether the 
+household head is employed or not. 
+ENFIH 2019 
+Gutiérrez, 
+Capera 
+and 
+Estrada, 2011 
+Source: Author's elaboration using bibliographic references. 
+ 
+3.4 Descriptive statistics. 
+ 
+To understand the database, we show some descriptive statistics related to the variables in our 
+models. We employ ten variables: five continuous, three categorical, and two dichotomous. 
+The debt concentration index shows an average value of 0.88, calculated on approximately 
+19.5 million households, meaning that most Mexican household debt concentrates debt since its 
+value is close to 1. In addition, its minimum value is 0.23, and its maximum is 1, implying that some 
+households only use one debt instrument. Otherwise, the average income of Mexican households is 
+
+
+ 
+10 
+ 
+ 
+REMEF (The Mexican Journal of Economics and Finance) 
+Determinants of debt portfolio diversification in Mexican households 
+97,520.74 pesos. Some households have no income, and others receive more than 7.5 million Mexican 
+pesos. Another variable that impacts the household economy is wealth. It has an average of 
+758,493.50 pesos with a negative minimum and a maximum of 909 million. The fact that a household 
+has negative wealth implies that its total liabilities are higher than its total assets, which is an 
+unfavorable indicator for the household. 
+Analyzing the dichotomous variables, we find that 75% of household heads are employed, 
+and 68% are males. Additionally, the categorical variables related to age, education, and household 
+size show that, on average, 22% of the households have a head of the family between 45 and 54 years 
+old. In 57% of the cases, the head of the family has basic education. Finally, predominant households 
+are those with four inhabitants. To understand the descriptive statistics in detail, refer to Table 3.  
+We also show in the appendix other descriptive analyses by income and wealth percentiles 
+and an example of how we calculate the DCI with actual data for two different households. 
+ 
+Table 3. Descriptive statistics 
+Variable 
+Obs 
+Mean 
+Std. Dev. 
+Min 
+Max 
+DCI 
+19,528,410 
+0.8821 
+0.1871 
+0.2395 
+1.0000 
+Total Income 
+36,644,680 
+98,638.89 
+327,909.80 
+0 
+7,595,000.00 
+Wealth 
+36,644,680 
+757,719.10 
+5,690,400.00 
+-12,100,000.00 
+909,000,000.00 
+Sex of Household Head: 
+Female 
+11,391,336 
+0.3109 
+0.4628 
+0 
+1 
+Male 
+25,253,344 
+0.6891 
+0.4628 
+0 
+1 
+Age of Household Head: 
+< 35 years old 
+6,649,956 
+0.1818 
+0.3857 
+0 
+1 
+35 – 44 years old 
+7,805,986 
+0.2134 
+0.4097 
+0 
+1 
+45 – 54 years old 
+8,134,977 
+0.2224 
+0.4158 
+0 
+1 
+55 – 64 years old 
+6,783,928 
+0.1854 
+0.3887 
+0 
+1 
+65 – 74 years old 
+4,447,118 
+0.1216 
+0.3268 
+0 
+1 
+≥ 75  years old 
+2,761,400 
+0.0755 
+0.2642 
+0 
+1 
+Education of Household Head: 
+Without education 
+2,382,174 
+0.0651 
+0.2468 
+0 
+1 
+Basic education 
+20,901,553 
+0.5716 
+0.4948 
+0 
+1 
+Upper secondary education 
+6,245,703 
+0.1708 
+0.3763 
+0 
+1 
+Bachelor's 
+education 
+and 
+equivalent 
+6,310,900 
+0.1726 
+0.3779 
+0 
+1 
+Postgrad 
+725,797 
+0.0198 
+0.1395 
+0 
+1 
+Household Size: 
+One inhabitant 
+5,201,181 
+0.1419 
+0.3490 
+0 
+1 
+Two inhabitants 
+7,220,746 
+0.1970 
+0.3978 
+0 
+1 
+Three inhabitants 
+7,318,870 
+0.1997 
+0.3998 
+0 
+1 
+Four inhabitants 
+7,963,215 
+0.2173 
+0.4124 
+0 
+1 
+Five inhabitants 
+5,022,586 
+0.1371 
+0.3439 
+0 
+1 
+Six inhabitants or more 
+3,918,079 
+0.1069 
+0.3090 
+0 
+1 
+
+
+11 
+ 
+ 
+Revista Mexicana de Economía y Finanzas, Nueva Época, Vol. 20 No. 1, pp. 1-20, e893 
+DOI: https://doi.org/10.21919/remef.v20i1.893 
+Labor Status: 
+Unemployed 
+8,852,475 
+0.2416 
+0.4280 
+0 
+1 
+Employed 
+27,792,205 
+0.7584 
+0.4280 
+0 
+1 
+Source: Author's elaboration with ENFIH 2019 database. 
+ 
+3.5 Empirical strategy 
+ 
+To study the determinants of the DCI, we use four models that help us to understand better what we 
+are trying to explain. In two models, we analyze the direct effects of socioeconomic factors on the 
+dependent variable. In the remaining two, we include interactions between some independent 
+variables. Given the complexity associated with the relationship between the variables used to 
+explain a specific model, we use the interactions between gender and household income level and 
+the educational level of the head of household and household income. From this perspective, we can 
+explore how differences in perceived household income, considering whether the head is male or 
+female and the level of education achieved by the household's head, affect whether a household takes 
+out one or more credit instruments.  
+First, we use two regression models using Ordinary Least Squares (OLS) estimation strategy. 
+The first considers only the direct effects, and the second includes the interactions mentioned in the 
+previous paragraph. For this purpose, equation (1), specified below, reflects the OLS model in a 
+generalized form, which can be applied in both using only direct effects and also including the 
+interactions of other variables. In this case, X´s might represent variables or interactions of variables 
+to be analyzed in the estimation. 
+ 
+𝐷𝐶𝐼𝑖= 𝛽0 + 𝛽1𝑋1𝑖+ 𝛽2𝑋2𝑖+ ⋯+ 𝛽𝑘𝑋𝑘𝑖+ 𝜀𝑖 
+ 
+𝜀𝑖~𝑁(0, 𝜎𝜀2) 
+( 1 ) 
+ 
+It is essential to mention that the linear regression model using the OLS estimation is just the 
+first approach to understanding the effect of the independent factors on the DCI since the nature of 
+the dependent variable is sequential complex, and it requires more sophisticated models for its 
+analysis. However, the OLS helps us to find if there is any relationship between the household's 
+socioeconomic variables and the concentration of its debt. 
+In this sense, we propose using a Heckman two-step procedure for identifying and controlling 
+the potential selectivity of access to the credit market. Following the same path, we estimate a 
+Heckman model with only direct effects and also with interactions. 
+In the first stage, we analyze the determinants of debt access: the probability of a household 
+having any credit, where 𝐷𝑖 defines a dummy variable with the access to the debt market, 𝐷1𝑖
+∗ is a 
+latent variable determining the switch toward having or not credit, 𝑍𝑖 is a set of socioeconomic 
+determinants of access to debt and 𝑢𝑖 is the unobserved component of debt access, which we assume, 
+as usual, distributes as a standardized Gaussian variable with zero mean and finite variance. 
+Additionally, let us define 𝐷𝐶𝐼𝑖 as the debt concentration index for a household i, plus, we 
+assume that access to debt and debt management (as defined by DCI) are potentially correlated and 
+induce selectivity in the portfolio management decision. 𝑋𝑖 defines a vector of covariates determining 
+
+
+ 
+12 
+ 
+ 
+REMEF (The Mexican Journal of Economics and Finance) 
+Determinants of debt portfolio diversification in Mexican households 
+the debt management of the household (also including interactions between variables), and  𝜆(. ) 
+measures the Mills ratio related to the selectivity of the household when accessing the debt market. 
+Finally, 𝑒𝑖 refers to the unobserved component of the debt concentration index, which is assumed to 
+be normally distributed. 
+In that case, we have that the correct empirical specification of the model must be: 
+ 
+𝐷1𝑖
+∗= 𝛾11𝑍11 + ⋯+ 𝛾1𝑘𝑍1𝑖+ 𝑢1𝑖 
+    
+𝑢1𝑖~𝑁(0, 𝜎𝜀1𝑖
+2 ) 
+( 2 ) 
+ 
+𝐷𝐶𝐼2𝑖
+∗= 𝛽21𝑋2𝑖+ ⋯+ 𝛽2𝑘𝑋2𝑖+ 𝜙𝜆(𝑍𝑖) + 𝑒2𝑖 
+ 
+𝑒2𝑖~𝑁(0, 𝜎𝜀2𝑖
+2 ) 
+( 3 ) 
+where, 
+{𝐷1𝑖= 𝐷1𝑖
+∗      𝑠𝑖  𝐷𝐶𝐼2𝑖
+∗> 0
+𝐷1𝑖= 0         𝑠𝑖  𝐷𝐶𝐼2𝑖
+∗≤0 
+ 
+ 
+ 
+4. Results and discussion 
+ 
+The results of this work are presented in two sections. First, we comment on the findings after 
+performing the econometric analysis we explained in the methodology, and later, we discuss these 
+results considering the implications in public policy. 
+ 
+4.1 Econometric analysis 
+ 
+We tested four different models, as shown in Table 4. The first two models use a regression analysis 
+using the Ordinary Least Squares (OLS) estimation methodology. The last two models estimate using 
+the Heckman methodology to control and correct for sample selection bias (Heckit). The results show 
+the expected signs concerning the existing literature. However, in the case of the Heckit models, the 
+employment and wealth variables were excluded from the outcome equation since they identify 
+whether a household holds debt and not so much as whether a household takes out one or more debt 
+instruments. 
+Analyzing model (1), we observe that the variables related to the household's head socio-
+demographic characteristics and the reported income level are significant and consistent with the 
+literature. However, it has a very low R-squared of 4.39%. In this sense, we can assume that this 
+model does not adequately and jointly explain the dependent variable. Likewise, model (2), which 
+includes interactions between some of the factors, aiming to improve the predictions made and 
+capture differentiated effects between different groups, also does not have an adequate predictive 
+capacity (R²=4.55%). Something we can rescue from this model is that there is a differentiated effect 
+
+
+13 
+ 
+ 
+Revista Mexicana de Economía y Finanzas, Nueva Época, Vol. 20 No. 1, pp. 1-20, e893 
+DOI: https://doi.org/10.21919/remef.v20i1.893 
+by gender and educational level of the household's head concerning the management of the credit 
+instruments contracted by the household. 
+Models (1) and (2) are the first approach to answer the hypothesis to be tested in this work. 
+For this reason, considering the low predictive capacity of these econometric models, it becomes 
+relevant to find another methodology that fits the characteristics of the data. 
+From this perspective, if we analyze the nature of the dependent variable, we can recognize 
+a potential self-selection problem in the sample. This variable shows unreported values, which may 
+be associated with the household members hiding information about their debt level and the credit 
+instruments they have contracted. In this sense, individuals may self-select into a group. The sample 
+loses representativeness, as it no longer complies with the principle of randomness. Therefore, the 
+methodology used to identify and solve this problem is a two-stage Heckman model with sample 
+selection correction. 
+Models (3) and (4) show the estimates using the latter methodology. As a first result of the 
+model (3), it is observed that all independent factors show a negative sign and are significantly 
+related to the debt concentration index. This result implies that, on average, if any of these variables 
+increases, ceteris paribus, the household is more likely to diversify its debt by contracting more credit 
+instruments in the market or distributing the debt in those it has contracted (assuming it has more 
+than one). Another relevant result is the significance of the inverse of Mills' ratio. This significance 
+leads us to confirm the existence of self-selection in the data and that the specification of the Heckman 
+sample selection model is adequate. 
+Analyzing the independent factors individually in the previous estimations, we observe that 
+if the head of household is male, this favors the diversification of debt concerning female heads of 
+household, presenting a significant effect on the decrease in the concentration of 0.5%. 
+Likewise, it was found that the household debt portfolio tends to be less concentrated as 
+household heads become older. That is, concerning household heads younger than 35, the increase 
+in diversification is in the order of 1.33, 3.68, 3.37, 2.68, and 0.24 percent for the age ranges 35-44, 
+45-54, 55-64, 65-75, and older than 75, respectively. 
+The variation in household debt concentration is highly related to the educational level of the 
+head of household, showing that the higher the education, the less concentrated the household's 
+portfolio of liabilities tends to be. Related to non-educated household heads, the concentration of the 
+debt portfolio decreases by 1.63, 3.16, 4.31, and 6.37 percent for household heads with basic 
+education, secondary education, higher education, and postgraduate education, respectively. 
+Regarding household size, the increase in the number of people significantly impacts debt 
+concentration. For households with only one inhabitant, adding one member decreases the 
+concentration by 1.07, 3.01, 3.81, 4.64, and 6.58 percent for households with two, three, four, five, 
+and six inhabitants or more, respectively. 
+Additionally, related to income, we found that, as income increases, the concentration of 
+household debt decreases, implying that households with greater purchasing power have more debt 
+instruments in their portfolio.   
+Model (4) shows the Heckit methodology with interactions in another attempt to improve the 
+model's robustness and better understand the behavior of debt concentration between groups. 
+Under this understanding, it can be observed that the coefficients previously estimated in the model 
+(3), which showed only the direct effects, keep the same sign. However, they mainly change their 
+
+
+ 
+14 
+ 
+ 
+REMEF (The Mexican Journal of Economics and Finance) 
+Determinants of debt portfolio diversification in Mexican households 
+value. This change might be related to the interactions, as they pick up part of the effect previously 
+only shown in the direct effect, distributing it among the groups under analysis. 
+Concerning the head of household sex, we find that households with male heads decrease the 
+concentration of debt by 7.53% compared to households with female heads. Considering the 
+interaction between household income and the sex of the head of household, we show that the effect 
+of income on debt concentration is differentiated depending on whether the head of household is 
+male or female, with a significant difference of 0.77%. 
+The effects of the age of the household's head on the concentration of household debt also 
+change slightly. Under this perspective and concerning the youngest (under 35 years old), belonging 
+to the age group between 35-44 years, 45-54 years, 55-64 years, 65-74 years, and 75 years and older, 
+decreases the debt concentration by 1.41, 3.72, 3.46, 2.67 and 0.15 percent, respectively. 
+Regarding the head of household education, the coefficients' values also vary compared with 
+the model (3). Heads of household with primary, secondary, high school, college, or graduate degrees 
+decrease the concentration of household debt by 5.63, 9.19, 7.52, and 13.2 percent, respectively, 
+compared to uneducated heads of household. On the other hand, if we analyze the interaction of this 
+variable with household income, we find again that income has a differentiated effect on the 
+concentration of household debt, considering the educational level of the household head. In this 
+regard, we find that the effect of income on concentration is higher the more educated the head of 
+household is, so if the head of household has postgraduate studies, increases in household income 
+decrease the concentration of debt by 0.71%; this being the highest value among all educational 
+levels. 
+Finally, the direct effect of household income on its debt concentration is about 2%, implying 
+that if income increases, the debt concentration decreases. 
+ 
+Table 4. Determinants of debt concentration index (DCI). 
+Variable 
+OLS 
+(1) 
+OLS with 
+interactions 
+(2) 
+Heckit 
+(3) 
+Heckit with 
+interactions 
+(4) 
+Sex (1=Male) 
+-0.0039 
+[****] 
+-0.0813 
+[****] 
+-0.0050 
+[****] 
+-0.0753 
+[****] 
+(0.0001) 
+ 
+(0.0005) 
+ 
+(0.0001) 
+ 
+(0.0006) 
+ 
+Total Income (Ln) 
+-0.0088 
+[****] 
+-0.0185 
+[****] 
+-0.0095 
+[****] 
+-0.0199 
+[****] 
+(0.0000) 
+ 
+(0.0001) 
+ 
+(0.0000) 
+ 
+(0.0001) 
+ 
+Age (1=< 35 years old) 
+35 – 44 years old 
+-0.0123 
+[****] 
+-0.0133 
+[****] 
+-0.0133 
+[****] 
+-0.0141 
+[****] 
+(0.0001) 
+ 
+(0.0001) 
+ 
+(0.0001) 
+ 
+(0.0001) 
+ 
+45 – 54 years old 
+-0.0382 
+[****] 
+-0.0388 
+[****] 
+-0.0368 
+[****] 
+-0.0372 
+[****] 
+(0.0001) 
+ 
+(0.0001) 
+ 
+(0.0001) 
+ 
+(0.0001) 
+ 
+55 – 64 years old 
+-0.0336 
+[****] 
+-0.0345 
+[****] 
+-0.0337 
+[****] 
+-0.0346 
+[****] 
+(0.0001) 
+ 
+(0.0001) 
+ 
+(0.0001) 
+ 
+(0.0001) 
+ 
+65 – 74 years old 
+-0.0255 
+[****] 
+-0.0248 
+[****] 
+-0.0268 
+[****] 
+-0.0267 
+[****] 
+(0.0002) 
+ 
+(0.0002) 
+ 
+(0.0002) 
+ 
+(0.0002) 
+ 
+≥ 75 years old 
+0.0054 
+[****] 
+0.0071 
+[****] 
+-0.0024 
+[****] 
+-0.0015 
+[****] 
+(0.0002) 
+ 
+(0.0002) 
+ 
+(0.0002) 
+ 
+(0.0002) 
+ 
+Education (1=No education) 
+Basic education 
+-0.0239 
+[****] 
+-0.0370 
+[****] 
+-0.0163 
+[****] 
+-0.0563 
+[****] 
+
+
+15 
+ 
+ 
+Revista Mexicana de Economía y Finanzas, Nueva Época, Vol. 20 No. 1, pp. 1-20, e893 
+DOI: https://doi.org/10.21919/remef.v20i1.893 
+ 
+(0.0002) 
+ 
+(0.0011) 
+ 
+(0.0002) 
+ 
+(0.0013) 
+ 
+Upper secondary education 
+-0.0440 
+[****] 
+-0.1048 
+[****] 
+-0.0316 
+[****] 
+-0.0919 
+[****] 
+(0.0002) 
+ 
+(0.0012) 
+ 
+(0.0003) 
+ 
+(0.0014) 
+ 
+Bachelor and equivalent 
+-0.0654 
+[****] 
+-0.0988 
+[****] 
+-0.0431 
+[****] 
+-0.0752 
+[****] 
+(0.0002) 
+ 
+(0.0012) 
+ 
+(0.0003) 
+ 
+(0.0014) 
+ 
+Post-grad 
+-0.0899 
+[****] 
+-0.2237 
+[****] 
+-0.0637 
+[****] 
+-0.1320 
+[****] 
+(0.0004) 
+ 
+(0.0024) 
+ 
+(0.0004) 
+ 
+(0.0024) 
+ 
+Household size (1 = One inhabitant) 
+Two inhabitants 
+-0.0211 
+[****] 
+-0.0206 
+[****] 
+-0.0107 
+[****] 
+-0.0100 
+[****] 
+(0.0002) 
+ 
+(0.0002) 
+ 
+(0.0002) 
+ 
+(0.0002) 
+ 
+Three inhabitants 
+-0.0502 
+[****] 
+-0.0499 
+[****] 
+-0.0301 
+[****] 
+-0.0295 
+[****] 
+(0.0002) 
+ 
+(0.0002) 
+ 
+(0.0002) 
+ 
+(0.0002) 
+ 
+Four inhabitants 
+-0.0609 
+[****] 
+-0.0601 
+[****] 
+-0.0381 
+[****] 
+-0.0373 
+[****] 
+(0.0002) 
+ 
+(0.0002) 
+ 
+(0.0002) 
+ 
+(0.0002) 
+ 
+Five inhabitants 
+-0.0686 
+[****] 
+-0.0677 
+[****] 
+-0.0464 
+[****] 
+-0.0454 
+[****] 
+(0.0002) 
+ 
+(0.0002) 
+ 
+(0.0002) 
+ 
+(0.0002) 
+ 
+≥ Six inhabitants 
+-0.0919 
+[****] 
+-0.0905 
+[****] 
+-0.0658 
+[****] 
+-0.0647 
+[****] 
+(0.0002) 
+ 
+(0.0002) 
+ 
+(0.0002) 
+ 
+(0.0002) 
+ 
+Cross-variable terms  
+Sex (1 = Male) * Total 
+Income (Ln) 
+ 
+ 
+0.0085 
+[****] 
+ 
+ 
+0.0077 
+[****] 
+ 
+ 
+(0.0001) 
+ 
+ 
+ 
+(0.0001) 
+ 
+Post-grad * Total 
+Household Income (Ln) 
+ 
+ 
+0.0131 
+[****] 
+ 
+ 
+0.0071 
+[****] 
+ 
+ 
+(0.0002) 
+ 
+ 
+ 
+(0.0002) 
+ 
+Basic education * Total 
+Income (Ln) 
+ 
+ 
+0.0015 
+[****] 
+ 
+ 
+0.0045 
+[****] 
+ 
+ 
+(0.0001) 
+ 
+ 
+ 
+(0.0001) 
+ 
+Upper secondary education 
+* Total Income (Ln) 
+ 
+ 
+0.0068 
+[****] 
+ 
+ 
+0.0067 
+[****] 
+ 
+ 
+(0.0001) 
+ 
+ 
+ 
+(0.0001) 
+ 
+Bachelor and equivalent * 
+Total Income (Ln) 
+ 
+ 
+0.0038 
+[****] 
+ 
+ 
+0.0037 
+[****] 
+ 
+ 
+(0.0001) 
+ 
+ 
+ 
+(0.0001) 
+ 
+Constant 
+1.0760 
+[****] 
+1.1619 
+[****] 
+1.0241 
+[****] 
+1.1168 
+[****] 
+(0.0003) 
+ 
+(0.0011) 
+ 
+(0.0005) 
+ 
+(0.0013) 
+ 
+athrho 
+ 
+ 
+ 
+ 
+0.2344 
+[****] 
+0.2353 
+[****] 
+ 
+ 
+ 
+ 
+(0.0010) 
+ 
+(0.0010) 
+ 
+lnsigma 
+ 
+ 
+ 
+ 
+-1.6814 
+[****] 
+-1.6820 
+[****] 
+ 
+ 
+ 
+ 
+(0.0002) 
+ 
+(0.0002) 
+ 
+Adjusted R-Squared 
+0.0439 
+ 
+0.0455 
+ 
+ 
+ 
+ 
+ 
+Log-Likelihood 
+ 
+ 
+ 
+ 
+-1.63e+07 
+ 
+-1.63e+07 
+ 
+Sample size: n (Population 
+sample) 
+19,303,196 
+ 
+19,303,196 
+ 
+33,835,656 
+ 
+33,835,656 
+ 
+Notes: The threshold level indicators for statistical significance (p-values) are:  
+[*] p<0.10 [**] p<0.05 [***] p<0.01 [****] p<0.001. 
+Source: Author´s elaboration with  ENFIH 2019 (INEGI, 2021). 
+ 
+4.2 Discussion of results 
+ 
+The results we found in this research are exciting and original because, although we do not 
+specifically study indebtedness determinants or access as in Vega et.al. (2024), we identify the factors 
+
+
+ 
+16 
+ 
+ 
+REMEF (The Mexican Journal of Economics and Finance) 
+Determinants of debt portfolio diversification in Mexican households 
+determining Mexican households' debt concentration. From this perspective, our results are 
+consistent with previous household debt level-holding literature. In this sense, socio-demographic 
+factors of the household and economic-financial characteristics explain how households manage 
+their debt instruments. 
+We use an empirical strategy based on four models to explain the determinants of the debt 
+concentration index with two alternative methodologies. First, we propose an OLS methodology as 
+an exploratory analysis. Second, we use a Heckit methodology to identify and correct the potential 
+sample selection problem in the data. We also include interactions to strengthen estimations. 
+The first finding is the OLS models with a low R-squared. In this sense, we may assume these 
+models do not correctly explain the dependent variable due to its nature and potential selection bias 
+toward having access to the credit market. This characteristic of the dependent variable leads us to 
+propose the Heckit model to get unbiased and consistent estimations. 
+From this perspective, the relevant socio-demographic variables in understanding the debt 
+concentration in Mexican households are the sex, age, and educational level of the household's head 
+and household size. In all cases, the relationship is negative. This hypothesis proves that male-headed 
+households diversify their debt more than female-headed households. Otherwise, households where 
+the head has a higher educational level diversify their debt more than those with no education. In 
+this sense, we can use educational level as a proxy for financial education, and this result 
+demonstrates that a higher level of education can facilitate household credit management. 
+Analyzing income as an economic-financial variable shows that the debt concentration 
+decreases for higher income levels, as it has a negative relationship with the dependent variable. 
+These findings prove that a household with more financial resources can offer solvency, and people 
+will tend to use fewer credit instruments to satisfy their consumption or pay existing debt. 
+Another relevant aspect is the interaction results. In this sense, we can prove that income 
+strongly influences DCI depending on the household's head sex and education level. These findings 
+explain the different effects between groups. In the first case, the incidence of income over DCI is 
+higher if the head of the household is male, and the same effect appears if the head of the household 
+has post-grad education. From this perspective, interactions can help us better understand how 
+household socioeconomic characteristics are connected, making them contract one or more debt 
+instruments. 
+It is essential to mention that concentration level also depends on the household's financial 
+goals, and we cannot control or measure it. So, this factor represents a component that could bias our 
+results. In this sense, two households can have the same amount of total debt and pay the same 
+amount every month, but one of them has a DCI equal to 0.25 and the other equal to 0.5. Even though 
+there are similarities between them, the one with the higher DCI is more concentrated, considering 
+debt distribution and the number of debt instruments contracted. Based on this, some households 
+can choose to diversify their debt portfolio to get credit benefits or to use this resource to pay other 
+credit instruments, even if they do not need to use debt to finance their needs. The point is that 
+despite two households having the same characteristics, they can choose different outcomes and 
+DCIs. 
+On the other hand, considering the impact of public policies on the household economy, this 
+study can help establish regulations in favor of financial inclusion to satisfy household consumption 
+
+
+17 
+ 
+ 
+Revista Mexicana de Economía y Finanzas, Nueva Época, Vol. 20 No. 1, pp. 1-20, e893 
+DOI: https://doi.org/10.21919/remef.v20i1.893 
+more efficiently. Households where debt are highly concentrated and face a high financial burden are 
+more vulnerable to default due to income shocks compared to those with lower and unconcenttated 
+financial load.   
+Additionally, our work can contribute to a better distribution of financial resources since it is 
+possible to know what type of financial instruments households demand the most, thus facilitating 
+their access and so the debt portfolio diversification. Also, knowing the management of household 
+liabilities helps to identify the level of financial education that households have or wish to have and 
+thus efficiently manage the risk faced by families associated with the liabilities they contract. Better 
+financial education can contribute to reducing this risk by diversifying its liabilities. 
+Additionally, it is essential to know that although debt diversification offers benefits, it must 
+be sought out based on careful consideration of our circumstances and financial objectives. Prudent 
+debt management is critical to ensuring the effectiveness and sustainability of debt diversification 
+strategies, including monitoring debt-to-income ratios, affordability, and interest rate risks. 
+ 
+5. Conclusions, recommendations, and final considerations 
+ 
+This work aims to contribute to the existing literature on the analysis of household indebtedness 
+through an alternative approach, creating a concentration measure that allows considering all the 
+debt instruments a household can access. In Mexico, there are few studies on household 
+indebtedness, none regarding the level of debt concentration, and none including all the instruments 
+a household manages, so this research will be a great incentive to continue innovating in studying 
+household behavior.  
+This work uses a Heckit approach to control the potential sample selection bias under the 
+hypothesis that the people intervening in the debt market are not random. However, they are 
+selected to participate in this market or self-select themselves. For this reason, the results obtained 
+by Heckit are our primary objective since the sample selection bias that presented the data through 
+Mills' inverse was detected and corrected. The rest of the estimations are for exploratory purposes. 
+Although the results are solid and show a first approach to studies where it considers the 
+different debt instruments a household can access, it is also essential to explore its limitations. Firstly, 
+having cross-sectional data for a single year does not allow us to analyze what happens to the 
+concentration of household debt over time, considering market effects, such as the COVID-19 
+pandemic that recently ended. Secondly, the lack of literature on the specific subject we want to 
+investigate does not allow for directly contrasting the results obtained. Hence, the adoption of 
+alternative theories was essential to developing this research. However, it is relevant to consider that 
+the effects found are consistent with economic intuition.  
+Considering the future research agenda, this work is a starting point for implementing more 
+complex studies on households, assuming those can act as companies as Samphantharak and 
+Townsend (2009) propose. First, we recommend replicating this study in other countries to compare 
+the influence of socio-demographic and economic-financial factors under different macroeconomic 
+circumstances. In this context, we can establish patterns in household behavior and how households 
+manage their credit instruments. 
+
+
+ 
+18 
+ 
+ 
+REMEF (The Mexican Journal of Economics and Finance) 
+Determinants of debt portfolio diversification in Mexican households 
+A second approach is to analyze the DCI by clusters, such as income or wealth level. This study 
+can give us a better picture of the behavior of the households depending on the group to which they 
+belong, as there are differences between clusters. 
+A third approach for future research would be to relate debt concentration and vulnerability 
+to income shocks, to analyze the way debt portfolio exposure affects households once we consider 
+access to credit and debt management as a sequential problem with a potential selection bias. 
+Finally, this work permits understanding another dimension of financial deepening by 
+focusing on the liquidity risk-management dimension of households' debt portfolios in a developing 
+context. Additionally, analyzing household debt concentration helps policymakers identify potential 
+economic risks and vulnerabilities. It provides insights into the distribution of debt across different 
+income groups and sectors, highlighting areas that may require targeted interventions or policy 
+adjustments. 
+ 
+ 
+References 
+ 
+[1] 
+Alfaro, R. and Gallardo, N. (2012). The determinants of household debt default. Economic Analysis 
+Review, 27 (1). 27-54. doi: 10.4067/s0718-88702012000100003 
+[2] 
+Brezina, I., Pekár, J., Čičková, Z. and Reiff, M. (2016). Herfindahl–Hirschman index level of concentration 
+values modification and analysis of their change. Central European Journal of Operations Research, 24 
+(1). 49-72. doi: 10.1007/s10100-014-0350-y 
+[3] 
+Campbell, J. (2006). Household finance. The Journal of Finance, 61 (4). 1553-1604. 
+doi:10.3386/w12149 
+[4] 
+Costa, S. and Farinha, L. (2012). Households' indebtedness: A microeconomic analysis based on the 
+results of the Households' financial and consumption survey. Financial Stability Report. Bank of 
+Portugal. 
+Recovered 
+from: 
+https://www.researchgate.net/profile/LuisaFarinha/publication/254446903_Households%27_inde
+btedness_a_microeconomic_analysis_based_on_the_results_of_the_households%27_financial/links/5
+53643630cf268fd00164d00/Households-indebtedness-a-microeconomic-analysis-based-on-the-
+results-of-the-households-financial.pdf 
+[5] 
+Dávila Aragón, G., Ortiz Arango, F. and Cabrera Llanos, A. (2021). Las finanzas de los hogares 
+mexicanos: análisis con redes bayesianas. Investigación Económica, 80 (317). 109-134. doi: 
+10.22201/fe.01851667p.2021.317.77127 
+[6] 
+Díaz Rodríguez, H., Sosa Castro, M. and Cabello Rosales, A. (2019). Determinantes del endeudamiento 
+de los hogares en México: un análisis de redes neuronales. Problemas del Desarrollo, 50 (199). 115-
+140. doi: 10.22201/iiec.20078951e.2019.199.67463 
+[7] 
+Djolov, G. (2013). The Herfindahl-Hirschman index as a decision guide to business concentration: A 
+statistical exploration. Journal of Economic and Social Measurement, 38 (3). 201–227. doi: 
+10.3233/jem-130379 
+[8] 
+Dynkin, L., Hyman, J. and Konstantinovsky, V. (2002). Sufficient diversification in credit portfolios. 
+Journal of Portfolio Management, 29 (1). 89. doi: 10.2307/j.ctvw04cxt.24 
+[9] 
+Eichhorn, K. (2020). Sobreendeudamiento de los hogares en Chile: Determinantes y recomendaciones 
+de política pública [master dissertation, Pontificia Universidad Católica de Chile]. Repositotio 
+Intitucional UC. doi: 10.7764/tesisuc/eco/37456 
+
+
+19 
+ 
+ 
+Revista Mexicana de Economía y Finanzas, Nueva Época, Vol. 20 No. 1, pp. 1-20, e893 
+DOI: https://doi.org/10.21919/remef.v20i1.893 
+[10] Gilson, S., John, K. and Lang, L.  (1990). Troubled debt restructurings: an empirical study of private 
+reorganization of firms in default. Journal of Financial Economics, 27. 315–353. Recovered from: 
+https://www.hbs.edu/ris/Publication%20Files/Troubled%20Debt%20Restructurings_40d4a53b-
+5ecb-478e-88d1-d6dc1498e14d.pdf 
+[11] Gutiérrez Rueda, J., Capera Romero, L. and Estrada, D. (2011). Un análisis del endeudamiento de los 
+hogares. Temas de Estabilidad Financiera, 61. doi: 10.32468/tef.61 
+[12] Heckman, J. (1979). Sample selection bias as a specification error. Econométrica, 47 (1). 153–161. doi: 
+10.2307/1912352  
+[13] Laine, C. (1995). The Herfindahl-Hirschman index: a concentration measure taking the consumer's 
+point of view. The Antitrust Bulletin, 40 (2). 423–432. doi: 10.1177/0003603x9504000206 
+[14] Liu, Z., Li, K., and Zhang, T. (2022). Information diversity and household portfolio diversification. 
+International Journal of Finance & Economics, 28 (4). 3833–3845. doi: 10.1002/ijfe.2622 
+[15] Morales, J. M., Maldonado, E. O. M. and Sierra, S. D. 2023. Factores que determinan el uso del crédito en 
+los hogares en México. NovaRua, 16 (27). 43-55. doi:10.20983/novarua.2023.27.3 
+[16] Piovarči, V. (2021). The effect of socioeconomic and demographic factors on household indebtedness: 
+evidence from Slovakia. Ekonomické rozhl'ady/Ecomomic Review, 50 (2). Recovered from: 
+https://www.euba.sk/www_write/files/SK/ekonomicke-
+rozhlady/2021/er2_2021_piovarci_fulltext.pdf 
+[17] Polkovnichenko, V. (2003). Household portfolio diversification. University of Minnesota and The 
+Federal 
+Reserve 
+Bank 
+of 
+Minnesota, 
+Working 
+Paper. 
+Recovered 
+from: 
+https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=96399e09d964e909c1caf4df21
+a3b386ddb800d8 
+[18] Rahman, M., Azma, N., Masud, M. A. and Ismail, Y. (2020). Determinants of indebtedness: Influence of 
+behavioral and demographic factors. International Journal of Financial Studies, 8 (1), 8. doi: 
+10.3390/ijfs8010008 
+[19] Rhoades, S. (1993). The Herfindahl-Hirschman index. Fed. Res. Bull., 79. 188. Recovered from: 
+https://heinonline.org/HOL/LandingPage?handle=hein.journals/fedred79&div=37&id=&page= 
+[20] Rodríguez Pérez, R., Castro Lugo, D. and Meneses Cruz, L. (2020). Household debt and financial burden 
+in Mexico. Modern Economy, 11 (11). 1929-1949. doi: 10.4236/me.2020.1111129 
+[21] Samphantharak, K. and Townsend, R. (2009). Households as corporate firms: An analysis of household 
+finance using integrated constructing financial statements from integrated household surveys and 
+corporate financial accounting. Cambridge: Cambridge University Press. 
+[22] Tudela, M. and Young, G. (2005). The determinants of household debt and balance sheets in the United 
+Kingdom. Bank of England. Working Paper Series No. 266. doi: 10.2139/ssrn.824227 
+[23] Vega, J.I, Moreno J.O. and Farfán L. (2024). Determinantes del uso de crédito de los hogares mexicanos: 
+un análisis simultáneo por tipo de instrumento. Contaduría y Administración, 69 (4). 143-167. doi: 
+10.22201/fca.24488410e.2024.5164. 
+[24] Von Gaudecker, H. M. (2015). How does household portfolio diversification vary with financial literacy 
+and financial advice? The Journal of Finance, 70 (2). 489-507. doi: 10.1111/jofi.12231 
+[25] Zinman, J. (2015). Household debt: Facts, puzzles, theories, and policies. Economics, 7(1). 251-276. doi: 
+10.3386/w20496 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+20 
+ 
+ 
+REMEF (The Mexican Journal of Economics and Finance) 
+Determinants of debt portfolio diversification in Mexican households 
+Appendix 
+Figure A.1 Debt Concentration Index by Income Percentile 
+ 
+Source: Author's elaboration with ENFIH 2019 database. 
+ 
+Figure A.2 Debt Concentration Index by Wealth Percentile 
+ 
+Source: Author's elaboration with ENFIH 2019 database. 
+ 
+Table A.1 Calculation of Debt Concentration Index. 
+Household 
+Mortgage 
+Credit (MC) 
+Credit Card 
+(DCC) 
+Payroll/Personal 
+Credit 
+Automotive 
+Credit 
+Other 
+Credits 
+Total Debt 
+598 
+311,198.00 
+30,000.00 
+0 
+162,620.00 22,000.00 525,818.00 
+605 
+0 
+0 
+9,000.00 
+0 
+0 
+9,000.00 
+ 
+Household 
+𝑆1 = (𝑀𝐶
+𝑇𝐷)
+2
+ 
+𝑆2 = (𝐷𝐶𝐶
+𝑇𝐷)
+2
+ 
+𝑆3 = (𝑃𝑃𝐶
+𝑇𝐷)
+2
+ 
+𝑆4 = (𝐴𝐶
+𝑇𝐷)
+2
+ 
+𝑆5 = (𝑂𝐶
+𝑇𝐷)
+2
+ 
+𝑫𝑪𝑰= ∑(𝒔𝒊)²
+𝟓
+𝒊=𝟏
+ 
+598 
+0.3502 
+0.0033 
+0 
+0.0956 
+0.0018 
+0.4509 
+605 
+0 
+0 
+1 
+0 
+0 
+1 
+Source: Author's elaboration with ENFIH 2019 database. 
+ 
+ 
+ 
+0.75
+0.8
+0.85
+0.9
+0.95
+1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+DCI
+Income Percentile
+0.8
+0.82
+0.84
+0.86
+0.88
+0.9
+0.92
+0.94
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+DCI
+Wealth Percentile

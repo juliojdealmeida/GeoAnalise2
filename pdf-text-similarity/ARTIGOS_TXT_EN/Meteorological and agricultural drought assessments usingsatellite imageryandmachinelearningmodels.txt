@@ -1,0 +1,2673 @@
+Available online at www.sciencedirect.com
+ScienceDirect 
+Advances in Space Research 77 (2026) 549–572
+www.elsevier.com/locate/asr
+Meteorological and agricultural drought assessments using
+satellite imagery and machine learning models
+Mahshid Amiranipour a , 
+a Graduate Student, Department of Water Engineering, Faculty of Civil and Surveying Engineering, Graduate University of Advanced Technology,
+76315117 Kerman, Iran
+Mohammad Najafzadeh b,⁎ , 
+b Associate Professor, Department of Water Engineering, Faculty of Civil and Surveying Engineering, Graduate University of Advanced Technology,
+76315117 Kerman, Iran
+Sedigheh Mohamadi c
+c Associate Professor, Department of Ecology, Institute of Environmental Sciences, Graduate Universit y of Advanced Technology, Kerman 76315117, Iran
+Received 12 August 2025; received in revised form 28 September 2025; accepted 5 October 2025
+Available online 10 October 2025
+Abstract
+Drought is one of the most frequent and impactful climatic hazards in Iran, with signiﬁcant consequences for water resources, agri-
+culture, and food security. This study aims to provide a comprehensive assessment of both meteorological and agricultural droughts and
+to examine their interrelationship across Iran. A set of diverse drought indices, including Standardized Precipitation Index (SPI), Stan-
+dardized Precipitation Evapotranspiration Index (SPEI), Vegetation Condition Index (VCI), Temperature Condition Index (TCI), Eva-
+porative Drought Index (EDI), and Soil Moisture Deﬁcit Index (SMDI), was utilized to evaluate drought dynamics. Temporal analysis
+of these indices revealed that meteorological drought events often occurred concurrently across the country, though their intensity varied
+by region. Pearson correlation analysis between SPI and other indices showed a general increase in correlation with longer temporal
+scales, highlighting the dampening eﬀect of short-term variability. Among the indices, SPEI showed the highest correlation with SPI,
+reﬂecting the dominant inﬂuence of precipitation in both indices. Spatial analysis indicated that the strongest correlations between mete-
+orological and agricultural drought indices were observed in the western, southwestern, and some northern regions of Iran, areas char-
+acterized by natural vegetation cover and rangelands that are directly inﬂuenced by rainfall. Furthermore, the predictability of the each
+agricultural drought index using climatic and other drought indices was evaluated using Sequential Feature Selection (SFS). Overall,
+EDI and SPI emerged as the most inﬂuential predictors across all target indices, albeit with diﬀering dominance depending on the target
+variable: EDI was most critical for vegetation (VCI) and soil moisture (SMDI), whereas SPI dominated for TCI and EDI estimation.
+Results indicated that meteorological droughts occur concurrently across much of the country, though intensity varies regionally, with
+the western and southwestern zones showing the strongest correlations between meteorological and agricultural drought. EDI and SPI
+were identiﬁed as the most inﬂuential predictors across indices, whereas vegetation- and temperature-based indicators exhibited lagged
+responses to precipitation deﬁcits. The framework achieved robust predictive accuracy, demonstrating the value of combining multiple
+drought indices with machine learning to capture nonlinear interactions. By advancing beyond conventional composite index
+approaches, this study provides actionable insights for drought early warning, agricultural planning, and water resource management
+in drought-prone regions of Iran.
+© 2025 COSPAR. Published by Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar
+technologies.
+Keywords: Meteorological drought; Agricultural drought; Satellite imagery; Random Forest Regression; Clustering algorithm
+⁎ Corresponding author.
+E-mail addresses: mahshid.amiranipour@gmail.com (M. Amiranipour), moha.najafzadeh@gmail.com, m.najafzadeh@kgut.ac.ir (M. Najafza deh),
+hamadi@kgut.ac.ir, mohamadisedigeh@gmail.com (S. Mohamad i).
+https://doi.org/10.1016/j.asr.2025.10.014
+0273-1177/© 2025 COSPAR. Published by Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar
+technologies.
+
+
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+1. Intr oduction
+Drought is a slow-onset, destructive hazard aﬀecting 
+water, agriculture, ecosystems, and economies. Deﬁned as 
+prolonged precipitation reduction below long-term aver-
+ages, it occurs across all climates, from high to low rainfall
+zones. Its gradual development complicates detection and
+management, making close monitoring essential for timely
+responses and eﬀective mitigation strategies (e.g., Mishra 
+and Singh 2010; Alahacoon et al. 2021; Orimoloye 2022;
+Mullapudi et al. 2023; Senapati and Das, 2024a and b
+Senapati et al., 2025a and b). 
+Numerous studies have been carried out at local and 
+global scales to investigate drought characteristics, trends,
+and associated impacts. For example, Spinoni et al.
+(2014) employed the Standardized Precipitation Index 
+(SPI) to assess drought characteristics on a global scale 
+under changing climate conditions. In their study, SPI-12 
+was calculated monthly using a 60-year baseline (1951– 
+2010), based on precipitation data from the GPCC dataset. 
+They produced global maps of drought frequency, dura-
+tion, and severity for three time periods: 1951–1970, 
+1971–1990, and 1991–2010. Their analysis revealed spatial
+and temporal variations in drought hotspots, with a signif-
+icant increase in drought components observed in regions
+such as Africa, Eastern Asia, the Mediterranean, and
+Southern Australia. In another study, Liu et al. (2021)
+incorporated both precipitation and Potential Evapotran-
+spiration (PET) to assess meteorological drought. They 
+applied the SPI and the Standardized Precipitation Evapo-
+transpiration Index (SPEI) to examine the spatial and tem-
+poral 
+characteristics 
+of 
+drought 
+across 
+diﬀerent 
+geomorphological regions of Sichuan Province, China, 
+using meteorological data from 44 stations spanning 1961 
+to 2019. By employing the Mann–Kendall trend test and 
+Multiple Linear Regression (MLR), they found that 
+droug ht trends were more signiﬁcant in plains and hilly
+areas compared to plateaus and mountainous regions.
+Although elevation alone was not identiﬁed as the domi-
+nant factor in precipitation variability, it was shown along-
+side
+temperature,
+longitude,
+and
+latitude
+to
+jointly
+inﬂuence spatial precipitation patterns.
+Meteorological drought strongly impacts the environ-
+ment, with agriculture being most vulnerable due to sensi-
+tivity to reduced rainfall and higher evapotranspiration. 
+This led to the c oncept of agricultural drought, deﬁned
+by its eﬀects on soil moisture, crop growth, and productiv-
+ity (Hooshyaripor et al., 2022). Various quantitative 
+indices have been developed to assess agricultural drought, 
+monitor trends, an d examine its link with meteorological
+drought. For instance, Shahzaman et al. (2021) conducted 
+a study across South Asia, including Afghanistan, Pak-
+istan, India, and Bangladesh, and evaluated the perfor-
+mance of several satellite-based drought indices, namely 
+the Evaporative Stress Index (ESI), Vegetation Health
+Index (VHI), Enhanced Vegetation Index (EVI), and Stan-
+dardized Anomaly Index (SAI), over the period 2002–2019.
+The study identiﬁed 2002 as a severe drought year, with 
+particularly prolonged drought conditions in India 
+(7 months), followed by Pakistan and Afghanistan 
+(6 months), and Bangladesh (3 months). Spatial analysis 
+revealed that regions such as southeast Pakistan, northern, 
+northwestern, and southwestern India, and Afghanistan 
+were heavily aﬀected. The ﬁndings high lighted soil mois-
+ture as a critical variable in drought initiation, and con-
+cluded
+that
+among
+the
+evaluated
+indices,
+ESI
+demonstrated the highest sensitivity and timeliness, making
+it a reliable tool for agricultural drought monitoring in the
+region.
+550
+Additionally, Alahacoon et al. (2021) developed a 
+drought declaration method to deﬁne drought years when 
+extreme and severe VHI-based drought areas exceed 30 % 
+by using Climate Hazards Group InfraRed Precipitation 
+with Station (CHIRPS) data (1989–2019) for SPI and 
+Rainfall Anomaly Index (RAI), and Moderate Resolution
+Imaging Spectroradiometer (MODIS) data (2001–2019) for
+Vegetation Condition Index (VCI), Temperature Condi-
+tion Index (TCI), and VHI. In another research, Mondol 
+et al. (2021) analyzed meteorological drought in North 
+Bengal, Bangladesh (1979–2018) using the Eﬀective 
+Drought Index (EDI) to assess events, frequency, severity, 
+and duration. Rainfall and temperature data from Bangla-
+desh Meteorological Department (BMD) were examined 
+with Mann-Kendall and Sen Slope methods , and EDI
+was validated against SPI, historical droughts, and rice
+yields. Results indicated increasing seasonal and annual
+drought frequency across all seasons except pre-monsoon.
+In Zhang et al.’s (2021) investigation, as a case study in 
+China’s humid and arid/semi-arid basins, meteorological, 
+agricultural, and groundwater droughts were eﬀectively 
+assessed using the Standardized Precipitation Index (SPI), 
+the Standardized Soil Moisture Index (SSMI), and the 
+Gravity Recovery and Climate Experiment (GRACE)-
+based Groundwater Drought Index, respectively, across
+the humid Yangtze River Basin and the arid/semi-arid Yel-
+low River Basin.
+Cao et al. (2022) employed SPEI and the VCI to assess 
+meteorological and agricultural droughts, respectively, in 
+Northwest China during 2000–2019. Their ﬁndings high-
+lighted that both drought types showed a decreasing trend 
+across various climatic zones and vegetation types, suggest-
+ing improved moisture conditions in the region. The study 
+further revealed that the response of agricultural drought 
+to meteorological drought was strongest in semiarid 
+e cosystems and varied depending on local environmental
+sensitivity. Dai et al. (2022) performed a study on the 
+Wei River Basin in China employing the SPI and Standard-
+ized Soil Moisture Index (SSMI) to analyze the propaga-
+tion of meteorological drought to agricultural drought. 
+The researchers used conditional probability analysis 
+across multiple time scales to determine the propagation 
+time and identiﬁed seasonal patterns through a moving 
+window approach and Mann-Kendall trend test. Their
+ﬁndings revealed that the drought propagation time is
+
+
+becoming shorter, especially in the main-stream basin. 
+While temperature increases, a decrease in soil moisture 
+and precipitation wer e identiﬁed as key drivers of this
+propagation, irrigation water use had limited inﬂuence.
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+Given the predominance of arid and semi-arid climate 
+conditions, Iran has historically been highly vulnerable to 
+drought and its associated consequences. In this regard, 
+numerous valuable studies have been conducted to assess
+the characteristics, trends, and impacts of drought across
+diﬀerent
+regions
+of
+the
+country.
+For
+instance,
+Kazemzadeh et al. (2022) evaluated the performance of 
+three satellite-based precipitation products, including 
+Tropical Rainfall Measuring Mission (TRMM) 3B43 v7, 
+CHIRPS, and Precipitation Estimation From Remotely 
+Sensed Information Using Artiﬁcial Neural Networks-
+Climate Data Record (PERSIANN-CDR), in estimating 
+precipitation and detecting drought events simultaneously 
+across various climate zones of Iran during 1983–2017. 
+Using multiple statistical metrics and three drought indices 
+(i.e., SPI, SPEI, and Multivariate Standardized Precipita-
+tion Index [MSPI]), they assessed both the accuracy of pre-
+cipitation estimates and the ability to detect meteorological
+droughts. Major drought episodes were observed in 1998–
+2001, 2008–2009, 2010–2012, and 2016–2017, with the most
+intense events occurring in arid and semi-arid climates.
+Overall, TRMM and PERSIANN-CDR outperformed
+CHIRPS in detecting drought events. In a similar study,
+Mianabadi et al. (2022) analyzed drought trends in south-
+eastern Iran using the Mann–Kendall test and CHIRPS 
+precipitation data during a 40-year period begining in 
+1981. CHIRPS aligned well with ground data at monthly 
+and annual scales but was weaker daily. Results showed 
+shorter-duration droughts (3–9 months) became less fre-
+quent yet more intense, while long-term droughts (12–
+24 months) showed no clear trend. Overall, SPI trends indi-
+cated no signiﬁcant long-term drying in the region over the
+past four decades. Additionally, Shamloo et al. (2022)
+examined agricultural drought trends in the Urmia Lake 
+Basin from 2001 to 2021 using a set of remote–sensing–b 
+ased vegetation and drought indices, including EVI, VCI, 
+Temperature Condition Index (TCI), and Temperature 
+Vegetation Dryness Index (TVDI), derived from MODIS 
+satellite data. Their study aimed to evaluate drought sever-
+ity and its relationship with cumulative precipitation over 
+diﬀerent time windows. The strongest correlation was 
+observed between TVDI derived from NDVI (TVDINDVI) 
+and 4-month cumulative precipitation, highlighting the 
+delayed vegetation response to rainfall. A notable negative
+Correlation Coeﬃcient [r] of −0.73 between TCI and
+TVDINDVI was reported. Despite evidence of prolonged
+light to moderate drought, TVDI trend analysis showed
+no
+signiﬁcant
+temporal
+trend,
+suggesting
+that
+while
+drought has played a role in the drying of Lake Urmia, it
+cannot be considered the sole cause. To incorporate mete-
+orological and agricultural droughts, Karimi et al. (2022)
+introduced the Combined Drought Index (CDI), which 
+integrates VCI, TCI, Soil Water Index (SWI), and Precip-
+itation Condition Index (PCI) to provide a comprehensive 
+measure of drought, covering both meteorological and 
+agricultural aspects. The study focused on monitoring 
+drought in the Karkheh Basin, southwestern Iran, from 
+2001 to 2018. Using Principal Component Analysis 
+(PCA), they developed the CDI index, which was shown
+to correlate strongly with traditional drought indices like
+SPI and SDI. The ﬁndings highlight the eﬀectiveness of
+CDI in comprehensive drought monitoring. Between 1960
+and 2019, Wang et al. (2022) examined meteorological 
+drought across China, analyzing spatio-temporal trends, 
+drought return periods using copula models, and links with 
+agricultural drought. Results showed an overall increasing 
+drought trend, particularly after the 1990 s, with the most 
+severe event in 2011 (SPEI = –0.81). Seasonal analysis 
+revealed risin g drought-aﬀected areas in spring (85.8 %),
+summer (77.4 %), and autumn (97.7 %), but only 12.9 %
+in winter, highlighting signiﬁcant seasonal and spatial vari-
+ability in drought dynamics. Moreover, Waseem et al.
+(2022) assessed the impact of meteorological drought on 
+maize production in 21 districts of Punjab, Pakistan using 
+observed precipitation and yield data for the period 2001-
+2020. The SPI eﬀectively captured spatiotemporal drought 
+patterns. Results showed maize yields in south Punjab were 
+highly sensitive to short-term droughts during critical
+growth stages, with drought explaining ∼27 % of yield
+variability. Increasing drought sensitivity was observed in
+southern and some central districts, highlighting signiﬁcant
+spatial diﬀerences in impacts.
+551
+Zeng et al. (2022) used CMIP6 projections to assess 
+future meteorological (SPI and SPEI), hydrological (Stan-
+dardized Runoﬀ Index [SRI]), and agricultural (SSMI) 
+droughts under SSP2-4.5 and SSP5-8.5 scenarios. Results 
+indicated that globally SPEI drought showed the largest
+increases, while SRI and SSMI intensify more than SPI,
+though SPI projections remain most consistent. Du et al.
+(2022) analyzed meteorological and agricultural droughts 
+in Northeast China (NEC) across diﬀerent seasons. Corre-
+lation and cross-wavelet analyses were eﬃciently used to 
+examine the relationships between drought types, vegeta-
+tion, and large-scale climate patterns. Results showed that 
+mild meteorological droughts were infrequent, whi le mod-
+erate agricultural droughts were common. A signiﬁcant
+positive correlation existed between meteorological and
+agricultural droughts, with agricultural droughts lagging
+behind meteorological droughts.
+Furthermore, Sun et al. (2023) investigated Agricultural 
+Drought (AD) in southeastern China and Meteorological 
+Drought (MD) in central and southern China showed signif-
+icant increasing trends, while both decreased over the Tibe-
+tan Plateau. Compound droughts are most likely in northern 
+China and semi-humid warm temperate regions. Drought 
+response
+sensitivity,
+indicated
+by
+shorter
+agricultural
+drought response time (DRT), is higher in southeastern
+China and eastern Tibetan Plateau than in other regions.
+Xu et al. (2023) applied SPI and Soil Moisture Anomaly 
+Percentage Index (ISMAPI) to assess meteorological and
+
+
+agricultural droughts in the Yangtze River Basin (YRB) 
+and examined their linkage using copula functions and 
+Bayesian networks. The average propagation time from 
+meteorological to agricultural drought is 48 days, shorter 
+in summer and autumn than in spring and winter. The 
+probability of severe agricultur al drought increases with
+meteorological drought intensity, and about 72.4 % of
+meteorological droughts in the YRB may lead to agricul-
+tural droughts. From 2002 to 2011, Yang et al. (2023) ana-
+lyzed meteorological and agricultural droughts in Ningxia 
+using wavelet and grey relational analyses. Precipitation, 
+soil moisture, and evapotranspiration increased signiﬁ-
+cantly, with major meteorological droughts occurring 
+around 2006, 2011, and 2015, while agricultural drought 
+initially intensiﬁed and then weakened. Meteorological 
+drought was strongly correlated with precipitation and
+evapotranspiration (r > 0.8), and agricultural drought
+was highly signiﬁcantly correlated with precipitation, evap-
+otranspiration, and Gross Primary Production (GPP).
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+In recent years, Senapati and Das (2024a) developed a 
+regional model to assess Agricultural Drought Vulnerabil-
+ity (ADV) in a rain-fed agro-based economy using a multi-
+dimensional index approach with remote sensing and GIS. 
+The model integrates Exposure (EI), Sensitivity (SI), and 
+Adaptive Capacity (ACI) indices, based on 40 weighted 
+parame ters. Findings showed that EI and SI increase vul-
+nerability, while ACI reduced it, oﬀering a practical tool
+for identifying drought-prone areas and guiding mitigation
+strategies. Additionally, Senapati and Das (2024b) identi-
+ﬁed alternative agricultural zones in the drought-prone 
+Upper Dwarakeswar River Basin (UDRB) using Analyti-
+cal Hierarchy Process (AHP)-based GIS analysis with 15 
+thematic parameters. Seven suitable alternatives—planta-
+tion agriculture, integrated farming, fruit culture, folk rice 
+culture, medicinal plant farming, mixed farming, and hor-
+ticulture—were delineated, covering 96–341 km2 each. A
+‘‘Not Suitable Zone” accounted for 397 km2 (20.5 % of
+the study area). Validation with 350 sites achieved a kappa
+coeﬃcient of 95.34, conﬁrming 96 % overall accuracy.
+Senapati and Das (2025) introduced the Integrated Agri-
+cultural Drought Index (IADI), which combined remote 
+sensing-based indicators (i.e., VHI, EVI, and Normalized 
+Diﬀerence Drought Index [NDDI]) with the Analytical 
+Hierarchy Process (AHP) for comprehensive drought 
+assessment in the UDRB, India throughout the years 
+2000 to 2019. Results showed an annual increase of
+21.88 km2 in drought-aﬀected areas (r = 0.9899) and
+demonstrated that IADI (76 % accuracy) outperforms indi-
+vidual indices in monitoring drought severity. In Senapati 
+et al.’s (2025a ) research, results showed increasing drought 
+risks, with higher intensity under SSP370 scenario using 
+CMIP6 projections for 2020–2050, an d revealed the central
+UDRB, India as the most drought-sensitive area. In
+Senapati et al.’s (2025b) investigation, trend analysis indi-
+cated signiﬁcant increases in temperature and decreases in 
+rainfall, with SPI, SPEI, and VCI indices demonstrating
+rising drought severity, especially during pre-monsoon sea-
+sons, peaking in 2019 for the semi-arid UDRB, using 
+remote sensi ng and survey data from 385 farmers.
+552
+Although numerous studies in Iran and other regions 
+have examined drought trends using either meteorological 
+or agricultural indices, most have focused on a limited set 
+of 
+indicators 
+or 
+employed 
+conventional 
+statistical 
+approaches. Few studies have simultaneously integrated 
+multiple meteorological (e.g., SPI, SPEI, and EDI) and 
+agricultural (e.g., VCI, TCI, and SMDI) indices to capture 
+the multidimensional nature of drought. Moreover, the 
+application of advanced machine learning techniques, such 
+as Random Forest regression combined with feature selec-
+tion, remains limited in regional drought research across 
+Iran. This gap restricts our understanding of how diﬀerent 
+drought indicators interact and propagate across diverse
+climatic zones. Addressing this gap, the present study
+develops
+a
+comprehensive
+framework
+that
+integrates
+diverse
+meteorological
+and
+agricultural
+indices
+with
+machine learning models to explore their interconnections
+and predictive relationships at the national scale. This
+approach advances drought monitoring in Iran by moving
+beyond single-index assessments, oﬀering deeper insights
+into spatial–temporal drought dynamics and supporting
+improved
+early
+warning
+and
+resource
+management
+strategies.
+While earlier research in Iran, such as Karimi et al.
+(2022), has proposed integrated indices like the Combined 
+Drought Index (CDI) to merge meteorological and agricul-
+tural indicators, these approaches primarily rely on statisti-
+cal aggregation methods. In contrast, the present study 
+introduces a machine learning–based framework that not 
+only integrates diverse indices but also quantiﬁes their pre-
+dictive relationships through Random Forest regression 
+and Sequential Feature Selection. This methodological 
+advancement allows experts to evaluate the relative impor-
+tance of diﬀerent drought indica tors, uncover nonlinear
+interactions, and improve the accuracy of agricultural
+drought prediction across varied climatic zones. Therefore,
+the novelty of this study lies in moving beyond static com-
+posite indices toward a dynamic, data-driven integration of
+meteorological and agricultural drought indices using
+advanced machine learning models.
+Despite the availability of various drought indices, lim-
+ited studies have investigated the quantitative relationship 
+between climatic and agricultural droughts using integrated 
+modeling approaches. Several studies have been conducted 
+in the ﬁeld of drought monitoring, but there is still a need 
+for a more accurate and comprehensive understanding of 
+the relationship between climatic and agricultural drought. 
+Many previous studies have focused on one or two indica-
+tors, and have rarely analyzed simultaneously diﬀerent 
+types of drought, such as vegetation and surface stresses. 
+However, the simultaneous use of various meteorological 
+and agricultural indicators such as SPI, SPEI, Evaporative 
+Drought Index (EvDI), TCI, VCI, and Soil Moisture Def-
+icit Index (SMDI) can provide a multidimensional view of
+climatic conditions and vegetation cover. Evaluating the
+
+
+relationships between these indicators allows for the identi-
+ﬁcation of correlations, recognition of their spatial and 
+temporal diﬀerences, and understanding of the process of 
+drought transition from meteorological drought to agricul-
+tural drought. This process can greatly help identify vulner-
+able locations and manage resources. The relationship 
+between meteorological indices such as SPI, SPEI, and
+EvDI with agricultural indices such as TCI, VCI, and
+SMDI makes it possible to examine how climatic condi-
+tions such as decreased precipitation or increased tempera-
+ture aﬀect the response of vegetation.
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+This research aims to conduct a comprehensive evalua-
+tion of drought across the entire country of Iran, with a 
+particular focus on understanding the relationship and 
+impact of climatic drought on agricultural drought in dif-
+ferent climatic zones of the country. The study will employ 
+both quantitative and qualitative analysis to assess the 
+extent and nature of this interaction, as well as to calibrate 
+the results. In this regard, the research will utilize the most 
+important and recent drought indices, including SPI, SPEI, 
+VCI, TCI, SMDI, and EDI, derived from the latest remote 
+sensing data, to facilitate spatial and temporal analysis of 
+drought events. By doing so, the study intends to provide 
+a more accurate and nuanced understanding of drought 
+patterns and their eﬀects across varying climates in Iran. 
+Also, this study aims to investigate the relationship 
+between climatic and agricultural droughts by applying 
+correlation analysis and regression models to better under-
+stand the nature of their interaction. In this context Ran-
+dom Forest regression model is used to explore the
+predictability of agricultural drought indices. Modeling
+and estimating these indices based on climatic drought
+indices provides a practical approach for assessing the link-
+age between climatic and agricultural drought. Further-
+more, clustering techniques are utilized to detect and
+interpret spatial patterns of similar drought occurrences
+across Iran, allowing for targeted analysis and decision-
+making. It helps uncover hidden patterns in drought
+dynamics, facilitating more eﬀective drought monitoring
+and management strategies.
+The study domain is explained in section 2, followed by 
+the datasets in section 3. The methodology and results a re
+described in Sections 4 and 5, followed by a discussion in
+Section 6. 
+2. Study domain
+The study area encompasses Iran, located in the Middle 
+East, characterized by diverse physical features, climate,
+and
+topography
+(Fig. 1). It covers an area of 
+1,648,195 km2, stretching from 25°4′33″ N to 39°46′45″ 
+N in latitude and from 44°2′2.5″ E to 66°19′49″ E in longi-
+tude. Iran exhibits a diverse climate, ranging from arid con-
+ditions to temperate, no dry-season climates along the
+Caspian coast and within the northern forests. The coun-
+try’s topography is highly complex, dominated by two
+major mountain ranges: the Alborz Mountains, stretching
+east to west, and the Zagros Mountains, extending from 
+the northwest to the southeast. Meteorological drought, 
+characterized by an extended duration of below-average 
+precipitation, plays a crucial role in triggering and acceler-
+ating desertiﬁcation processes. This type of drought leads 
+to a signiﬁcant reduction in soil moisture and vegetation
+cover, which in turn increases the vulnerability of land to
+degradation, particularly in arid and semi-arid regions
+(Emadodin et al. 2019). 
+553
+Agriculture is considered the largest sector and one of 
+the fundamental pillars of Iran’s economy, and it is recog-
+nized as a vital component of the global economy. It 
+accounts for approximately 9 % of the country’s Gross
+Domestic Product (GDP) and provides a signiﬁcant share
+of national employment (Maghrebi et al., 2020. Therefore, 
+the growth of this part is largely seen as a key driver of the 
+country’s overall economic growth. In many developing 
+countri es, increasing agricultural production has been one
+of the main priorities in agricultural development programs
+(Hosseini et al. 2011;Khorami and Pierof 2013). Agricul-
+tural drought in Iran poses a signiﬁcant challenge, impact-
+ing crop yields and livelihoods. Studies have shown that 
+severe drought events, such as those in the late 1990s and 
+early 2000 s, have resulted in substantial reductions in
+wheat, barley, and alfalfa production. For instance, Farm-
+ers in areas like southeastern Iran have been identiﬁed as
+particularly
+vulnerable
+(Ebrahimi-Khusﬁ et al. 2020;
+Nouri et al. 2023). Therefore, in this study, we will examine 
+the relation between meteorological and agricultural 
+droughts over the country on third-order sub-basins
+according to Fig. 1 in a 20-year period from 2004 to 2023.
+3. Dataset s
+To comprehensively analyze drought patterns across 
+Iran, this study integrates multiple datasets, including 
+satellite-based and model-based products. These datasets 
+provide complementary information on key climatic and
+agricultural variables, enabling a robust assessment of
+drought characteristics over space and time. As seen in
+Supplementary Material, Table S1 summarizes the datasets 
+employed in this research.
+3.1. CHIRPS d ataset
+The Climate Hazards Group InfraRed Precipitation 
+with Station data (CHIRPS) is a high-resolution gridded 
+precipitation dataset developed by the Climate Hazards 
+Group at the University of California, Santa Barbara. 
+CHIRPS combines satellite imagery with in situ station 
+data to provide quasi-global rainfall estimates from 1981 
+to the present. It oﬀers a spatial resolution of 0.05° (∼5 
+km) and a near-global coverage between 50°S and 50°N, 
+making it particularly valuable f or hydrological and agri-
+cultural drought monitoring in data-scarce regions (Funk 
+et al. 20 15). CHIRPS is extensively utilized for early 
+drought detection, agro-climatic monitoring, and evaluat-
+
+
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+Fig. 1. Study domain illustrations by two maps: (a) Digital Elevation Model (DEM) and (b) Ko¨ppen-Geiger climate classiﬁcation.
+554
+
+
+ing historical climate trends and their impacts (Harrison 
+et al. 2022). The access link to this datase t is provided in
+Table 1. Daily precipitation data from the CHIRPS dataset 
+are used in this study. The data are aggregated in Google 
+Earth Engine to a monthly scale and processed for 607
+third-order sub-basins across Iran, resulting in a 20-year
+monthly time series for each sub-basin.
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+Table 1 
+Homogeneity measure for the SPI- and SPEI-based clustering.
+Clustering Approach
+Index
+Clusters
+Overall H index
+C1
+C2
+C3
+C4
+C5
+C6 
+SPI
+SPI
+6.25
+5.97
+6.82
+5.07
+5.79
+5.97
+5.98 
+SPEI
+9.40
+10.24
+10.58
+9.86
+9.38
+8.24
+9.62 
+VCI
+2.33
+2.47
+3.10
+2.59
+2.46
+3.23
+2.70 
+TCI
+1.73
+1.71
+1.82
+1.68
+1.91
+1.70
+1.76 
+SMDI
+22.87
+15.84
+19.01
+22.25
+23.20
+19.88
+20.51 
+EDI
+0.77
+1.17
+1.74
+1.07
+0.68
+1.07
+1.08 
+SPEI
+SPI
+6.80
+4.89
+8.64
+6.51
+8.50
+6.76
+7.02 
+SPEI
+8.92
+8.19
+8.83
+8.64
+10.40
+8.29
+8.88 
+VCI
+2.45
+2.28
+3.22
+2.88
+2.98
+3.10
+2.82 
+TCI
+1.95
+1.51
+2.08
+1.96
+2.27
+1.80
+1.93 
+SMDI
+23.36
+14.57
+19.47
+22.23
+29.08
+21.61
+21.72 
+EDI
+0.80
+1.09
+1.60
+1.52
+1.04
+0.98
+1.17 
+3.2. MODIS product s
+The Moderate Resolution Imaging Spectroradiometer 
+(MODIS) is a key instrument aboard NASA’s Terra and 
+Aqua satellites, providing continuous global observations 
+of Earth’s surface and atmosphere since 1999. MODIS 
+oﬀers a wide range of environmental and climatic products
+at various temporal and spatial resolutions, making it
+highly valuable for land surface monitoring (Mozafari 
+et al., 2023; Salomonson et al. 2006). In this study, we 
+use two widely used MODIS products, including 
+MOD11A2.061 Land Surface Temperature (LST) and the 
+MOD13A2.061 Normalized Diﬀerence Vegetation Index 
+(NDVI). The LST product delivers 8-day temperature esti-
+mates of the Earth’s surfa ce with spatial resolutions of
+1 km (LP DACC). Meanwhile, the NDVI product, avail-
+able at 1 km resolution, delivers 16-day vegetation health
+and greenness (Shamsi Anboohi et al., 2025). For MODIS 
+data, only high-quality observations, ﬁltered based on the 
+quality assurance (QA) bands in Google Earth Engine, 
+were used to extract reliable NDVI and LST time series.
+Also, all MODIS products are publicly available from
+the Earth Data website.
+3.3. TerraC limate
+TerraClimate is a high-resolution global climate dataset 
+that provides monthly climate and water balance variables 
+from 1958 to the present. Developed by the University of 
+Idaho, TerraClimate integrates high-resolution climatolog-
+ical data with temporal anomalies from reanalysis datasets
+to produce consistent and spatially detailed climate infor-
+mation. It oﬀers a spatial resolution of approximately 
+4 km (1/24°) and includes variables such as precipitation, 
+minimum an d maximum temperature, vapor pressure,
+wind speed, potential evapotranspiration, actual evapo-
+transpiration, and soil moisture (Abatzoglou et al. 2018). 
+Due to its long temporal coverage and ﬁne spatial detail, 
+TerraClimate is widely used in studies related to drought
+assessment
+(Hamarash et al.
+2022), climate c hange
+(Barati et al. 2025), hydrology (Wiwoho and Astu ti
+2022), 
+and 
+agricultural 
+applications
+(Araghi 
+and 
+Daccache 2025). Although the dataset is freely available 
+from TerraClimate, we prepared the 20-year time series 
+of potential evapotranspiration (PET), actual evapotran-
+spiration (ET), and soil moisture (SM) in Google Earth
+Engine for the subbasins.
+555
+4. Method ology
+In this study, various drought indices are employed to 
+assess meteorological and agricultural drought across Iran. 
+Additionally, the relationships among these indices are 
+examined to understand the inﬂuence of meteorological
+drought on agricultural drought. The following sections
+describe the key methods and tools used in the analysis.
+Also, Fig. 2 illustrates the workﬂow of the study.
+4.1. Meteorological drought indices
+4.1.1. Standardized precipit ation index
+The SPI is a widely used meteorological drought index 
+that quantiﬁes precipitation anomalies over multiple time 
+scales. It is based solely on precipitation data, making it 
+versatile and applicable in regi ons with limited climatic
+records (Vicente-Serrano and Lo´pez-Moreno 2 005). The 
+SPI can be computed by ﬁtting a long-term precipitation 
+time series to a probability distribution, typically the 
+gamma distribution (Liu et al. 2 021), which formulations 
+of SPI were deeply provided in Supplementary Materia l.
+
+
+(Livada and Assimakopoulos 2007). The resulting SPI val-
+ues indicate the number of standard deviations by which 
+the observed precipitation deviates from the climatological 
+mean. Positive SPI values denote wetter-than-normal con-
+ditions, while negative values indicate drought.
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+Fig. 2. Workﬂow of the present study.
+The 20-year monthly precipitation time series derived 
+from CHIRPS data is used to calculate the SPI for 607 
+sub-basins. To compute SPI at 3-, 6-, and 12-month time 
+scales, the same equation is applied; however, the monthly
+series is ﬁrst transformed into corresponding 3-, 6-, and 12-
+month aggregated series using a moving sum ﬁlter with a
+window size equal to the target time scale.
+4.1.2. Standardized precipitation evapot ranspiration index
+The SPEI is an advanced drought index that integrates 
+precipitation and Potential Evapotranspiration (PET) to 
+assess climatic water balance anomalies over time. SPEI 
+impr oves upon precipitation-only indices like the SPI by
+incorporating the eﬀects of temperature and climate
+change, making it particularly suitable for evaluating 
+drought under warming conditions (Vicente-Serrano et al.
+2010;Zhao et al. 2021). It is calculated by ﬁrst determining 
+the climatic water balance or deﬁcit (precipitation minus 
+PET) and then ﬁtting the resulting time series to a proba-
+bility distribution, commonly the log-logistic distribution.
+The ﬁtted values are subsequently standardized to produce
+SPEI values (Liu et al. 2021). Formulations of SPEI was 
+fully described in Supplementary Mater ial. In this study, 
+PET is derived from TerraClimate dataset introduced in
+section 3.3. 
+556
+In this study, the 20-year monthly time series of precip-
+itation (from CHIRPS) and potential evapotranspiration 
+(from TerraClimate) are used to calculate the monthly 
+SPEI for 607 sub-basins. For the other time scales, the cli-
+matic water balance (W) is ﬁrst computed and then aggre-
+gated to 3-, 6-, and 12-month time scales using a moving 
+sum ﬁ lter. The resulting series are used in SPEI formula-
+tions (see supplementary Materia l) to compute SPEI with
+
+
+diﬀerent time scales. Table S2 provides the severity cate-
+gories of drought and wet conditions corres ponding to dif-
+ferent SPI and SPEI values.
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+4.2. Agricultural drought indices
+4.2.1. Vegetation condition index
+The VCI is a satellite-based drought index designed to 
+monitor vegetation health and detect agricultural drought 
+by evaluating deviations in vegetation greenness from his-
+torical norms. In this study, VCI is derived from the Nor-
+malized Diﬀerence Vegetation Index (NDVI), using time 
+series data from MOD13A2.061. The VCI is calculated
+by normalizing current NDVI values against the historical
+minimum and maximum for the same period, using the for-
+mula in Eq. (1) (Burka et al. 2024). 
+VCI 
+NDVI 
+NDVImin 
+NDVImax 
+NDVI min
+100
+1
+This transformation results in a dimensionless index rang-
+ing from 0 to 100, where lower values (close to 0) indicate 
+poor vegetation condition s and potential drought stress,
+while higher values (close to 100) reﬂect healthy vegetation
+(Wei et al. 2021). The classiﬁcation classes of the VCI val-
+ues are presented in Table S3 (Zambrano et al. 2016). In 
+this study, the VCI is calculated based on the monthly
+MODIS NDVI time series using Eq. (3). To assess vegeta-
+tion conditions at diﬀerent temporal scales (e.g., 3-, 6-, and 
+12-month), a moving average ﬁlter is applied to the NDVI
+time series before VCI computation.
+4.2.2. Temperature condition index
+The Temperature Condition Index (TCI) is a satellite-
+derived indicator used to assess vegetation stress related 
+to surface tempe rature anomalies, particularly in the con-
+text of drought monitoring (Wei et al. 2021). In this study, 
+TCI is calculated using Land Surface Temperature (LST) 
+data from MOD11A2.061 by comparing the current LST 
+to its historical maximum and minimum values for the
+same period. The index is computed as (Wei et al. 2021;
+Burka et al. 2024): 
+TCI 
+LST max 
+LST 
+LST max 
+LST min
+100
+2
+in which LSTmax and LSTmin are the maximum and mini-
+mum values of LST. This normalization yields values 
+between 0 and 100, where lower TCI values (close to 0) sug-
+gest higher thermal stress and potentially drier conditions,
+while higher values (close to 100) indicate favorable ther-
+mal conditions for vegetation growth (Wei et al. 2021). 
+Table S4 displays the associated categories of the TCI val-
+ues (Jalayer et al. 2023). In this study, the TCI is calculated 
+using the monthly MODIS LST time series based on Eq.
+(4). To analyze temperature stress over diﬀerent temporal 
+scales (e.g., 3-, 6-, and 12-month), a moving average ﬁlter 
+is applied to the LST time series before computing the
+TCI values.
+557
+4.2.3. Soil moisture deﬁcit index
+The SMDI is a quantitative measure used to character-
+ize agricultural drought by assessing soil moisture deﬁcits, 
+which directly impact crop health and productivity. Unlike 
+meteorological drought indices that rely on precipitation 
+deﬁcits, SMDI focuses on the available soil water content,
+reﬂects actual water availability for plants, and is Useful
+for agricultural water management and drought early
+warning systems (Prodhan et al. 2021). The computation 
+of the SMDI drought index is based on Eqs. (3) and (4)
+(Narasimhan and Srinivasan 2005;Prodhan et al. 2021) 
+where SMDIj-1 represents the SMDI for the ﬁrst time 
+(e.g. month), SMj is soil moisture anomaly of time j, and 
+ﬁnally, MA(max)j, M A(min)j, and MMAj are the long term
+maximum, minimum, and median soil moisture at time j,
+respectively.
+SMDI 
+0 5 
+SMDIj 1 
+SMj
+50
+3
+SMj 
+MAj MMAj 
+MAj MA min j 
+100 if MAj 
+MMAj 
+SMj 
+MAj MMA j
+MA max j
+MAj
+100
+if MAj
+MMAj
+4
+SMDI values typically range from −4 (extremely dry) 
+to + 4 (extremely wet), with 0 indicating normal condi-
+tions. Negative values indicate drought severity, while pos-
+itive values reﬂect wetter-than-normal conditions (e.g.,
+Narasimhan and Srinivasan 2005; Prodhan et al. 2021). 
+The categorization of drought intensity using the soil mois-
+ture deﬁcit index is shown in Table S5 (Yaghoobzadeh 
+et al. 2023). In this study, the SMDI is calculated using 
+monthly soil moisture data obtained from the TerraCli-
+mate dataset. To derive SMDI at diﬀerent temporal scales 
+(e.g., 3-, 6-, and 12-month), a moving average ﬁlter is ﬁrst
+applied to the soil moisture time series at each target scale.
+Equations (5) and (6) are then used to compute the SMDI 
+values for each sub-basin and time scale.
+4.2.4. Evaporative drought index
+The ratio of actual Evapotranspiration (ET) to Potential 
+Evapotranspiration (PET) serves as a widely adopted met-
+ric for assessing terrestrial water availability and character-
+izing wet or dry conditions (Zhang et al. 2 019). The 
+Evaporative Drought Index (EDI) is a diagnostic tool for 
+agricultural drought that quantiﬁes moisture stress by eval-
+uating the ratio of actual evapotranspiration to potentia l
+evapotranspiration (as Eq. (5). The EDI index captures 
+the combined eﬀects of soil moisture availability, atmo-
+spheric demand, and vegetation health, making it particu-
+larly eﬀective for monitoring crop water deﬁcits and 
+drought conditions. Considering that actual evapotranspi-
+ration (ET) falls below Potential Evapotranspiration (PET) 
+under water-limited conditions, the Evaporative Drought 
+Ind ex (EDI) is formulated as 1 minus the ratio of ET to
+PET (Zhang et al. 2019; Prodhan et al. 2021; R ani et al.
+2023).
+
+
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+EDI 
+1 
+ET 
+PET
+5
+The EDI ranges from 0 to 1, where increasing values corre-
+spond to greater water stress conditions, while decreasing
+values indicate reduced stress (Rani et al. 2023). The rele-
+vant EDI classes are provided in Table S6 (Iskandar 
+et al. 2023). For the calculation of the EDI, monthly actual 
+evapotranspiration and potential evapotranspiration data 
+are obtained from the TerraClimate dataset. To compute 
+EDI at diﬀerent temporal scales (e.g ., 3-, 6-, and 12-
+month), moving sums of ET and PET are ﬁrst calculated
+over the target time window, and then Eq. (7) is applied 
+to derive the EDI values.
+4.3. Drought region alization
+Identifying the temporal and spatial patterns of drought 
+can provide valuable insights into the interrelationships 
+among various drought indices. Moreover, regionalizing
+these indices can help reveal dominant drought patterns
+across diﬀerent climatic zones (Roushangar et al. 2022). 
+In this study, a clustering approach is employed to region-
+alize meteorological drought indices based on their spa-
+tiotemporal characteristics.
+Clustering algorithms are designed to group a large 
+amount of data into a limited set of clusters, such that data 
+within a cluster share similar characteristics, and data from 
+diﬀerent clusters are signiﬁcantly diﬀerent from each other. 
+In the scientiﬁc literature, numerous methods for clustering
+have been introduced, among which the most widely used
+is the famous K-means algorithm. K-means minimizes
+the within-cluster sum of squared distances (WCSS) as
+Eq. (6) (MacQueen 1967): 
+WCSS 
+K 
+k 1 xi Ck 
+x i
+lk
+2
+6
+where xi is the i th data point, Ck is cluster ‘‘k”, K is the 
+number of clusters, and
+is the cluster centroid of cluster
+k.
+is obtained as,
+lk 
+lk 
+lk 
+1 
+Ck xi C k
+xi
+7
+To evaluate the homogeneity of the resulting clusters in this 
+study, the average intra-cluster dist ance is calculated as the
+homogeneity criterion, according to Eq. (8), where
+is 
+the homogeneity measure of cluster Ck, and n 
+s the num -
+ber of members of cluster Ck.
+Ck
+H 
+i
+Ck 
+H Ck 
+1 
+nCk xi Ck 
+x i
+lk
+2
+8
+The advantage of the K-means algorithm is that it is easy 
+to use and performs clustering at high speed, which is
+why it is more eﬃcient (Shamshirband et al. 2015). In this 
+study, a clustering method is applied to various drought 
+indice s using six clusters, which closely correspond to the
+dominant climatic patterns of Iran. The Eucl idean distance
+metric (Madhulatha 2012) is used as the similarity criterion 
+for clustering. Since the K-means algorithm assigns initial 
+cluster centers randomly and then iteratively reﬁnes them, 
+it is prone to getting trapped in local optima. To address 
+this issue and enhance the robustness of clustering results,
+the algorithm was repeated 100 times for each drought
+index with diﬀerent initializations. Among these iterations,
+the result with the WCSS was selected as the optimal clus-
+tering outcome. Fig. 3 shows the details of performing K-
+means clustering to obtain the regionalization of each
+drought index.
+558
+In this study, K-means clustering with six clusters is 
+applied to classify the climatic drought conditions across 
+the study area. The primary objective of this clustering is 
+to delineate homogeneous climatic drought zones and facil-
+itate a better evaluation of the relationship between cli-
+matic and agricultural droughts under diﬀerent drought 
+regimes. For this purpose, the 20-year time series of two cli-
+matic drought indices, SPI and SPEI, at the 12-month time 
+scale are used as inputs for clustering the 607 sub-basins 
+individually. The 12-month time scale is selected because 
+it reﬂects long-term water deﬁcits that are particularly rel-
+evant for hydrological and agricultural drought analysis.
+Shorter time scales are excluded from this stage to avoid
+potential noise and short-term variability that may hinder
+the identiﬁcation of broader drought patterns. To compare
+the resulting clusters, the cluster centroids, representing the
+average of all members in each cluster, are used as repre-
+sentative indicators.
+4.4. Agro-climatic drought connection
+As previously stated, climatic drought inﬂuences agri-
+cultural drought, either directly or indirectly. In other 
+words, agricultural drought is largely driven by the occur-
+rence and intensity of climatic drough t. In this study, two
+main approaches are employed to analyze the relationship
+between these two types of droughts.
+4.4.1. Linear r elationship
+In the ﬁrst stage of the analysis, the focus is on quanti-
+fying the linear relationship between climatic drought and 
+agricultural drought. To investigate the relationship 
+between climatic and agricultural droughts, correlation 
+analysis is employed as a straightforward and eﬀective sta-
+tistical method. This approach allows for quantifying the 
+strength and direction of association between t he two
+drought types across diﬀerent regions and time scales
+(Huang et al. 2015;Behrang Manesh et al. 2019;S un et al.
+2023). To achieve this objective, Pearson correlation anal-
+ysis was conducted between the climatic drought indices 
+(SPI and SPEI) and the agricultural drought indices (i.e., 
+VCI, TCI, SMDI, and EDI) across all 607 sub-basins. 
+The analysis was performed at three temporal scales: 3-, 
+6-, and 12-month. The use of multiple time scales aims to
+capture the temporal dynamics of drought impacts and
+
+
+to evaluate how short-term and long-term climatic drought 
+conditions inﬂuence agricultural drought responses. This 
+multi-scale approach provides deeper insi ght into the
+lagged and scale-dependent relationships between the two
+types of drought (Behrang Manesh et al. 2019;Prajapati
+et al. 2021). The Pearson correlation coeﬃcient (Cohen 
+et al. 2009) in Eq. (9) is employed as the statistical measure 
+to capture the strength and direct ion of the linear relation-
+ship between the indices.
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+Fig. 3. SFS workﬂow in the present study.
+qxy 
+n 
+i 1 xi 
+x yi 
+y 
+n 
+i 1 
+x i
+x
+2
+n
+i 1
+yi
+y
+2
+9
+where
+is Pearson’s correlation, xi and yi correspond to 
+the ith member of the x and y time series, respec tively.
+Finally,
+and
+re the average of the x and y time series,
+respectively.
+qxy 
+x
+a
+y 
+4.4.2. Predictive capacity
+In the second approach, the goal is to assess the extent 
+to which agricultural and climatic drought indices are 
+interrelated by evaluating the predictive capacity of cli-
+matic drought indicators in estimating the agricultural 
+drought indices. In addition to linear correlation analysis, 
+regression modeling is employed to explore deeper and 
+potentially nonlinear relationships between climatic and 
+agricultural droughts. While correlation measures the 
+strength of linear associations, it is often insuﬃcient to cap-
+ture the full complexity of drought interactions. Regression
+analysis allows for modeling more intricate relationships,
+identifying patterns and inﬂuences that may not be evident
+through simple linear metrics (Tian et al. 2018). 
+559
+Fig. 3 shows the process of using regression in investiga-
+tion the linkage between the climatic and agricultural 
+drought. Indeed, Random Forest regression is integrated 
+with Sequential Feature Selection (SFS) to evaluate the rel-
+ative importance of diﬀerent predictor variables in estimat-
+ing each agricultural drought index. In the ﬁrst stage of the 
+analysis, the objective is to assess the predictive power of 
+climatic and agricultural drought indicators and to rank 
+them based on their contribution to forecasting a given tar-
+get index (e.g., VCI, TCI, SMDI, or EDI). To achieve this, 
+the SFS method was employed using Random Forest as the 
+regression algorithm. Sequential Feature Selection is a 
+stepwise feature selection approach that starts with an
+empty set of predictors (which is called features in SFS)
+and iteratively adds one feature at a time, the one that
+results in the greatest improvement in model performance
+at each step. This continues until the addition of further
+variables no longer yields a signiﬁcant improvement in
+accuracy. Based on this process, each predictor is assigned
+an importance rank according to its inﬂuence on model
+accuracy (El Aboudi and Benhlima 2016). 
+To perform SFS, the SPI and SPEI indices at the 12-
+month time scale are consistently used as ﬁxed input vari-
+ables across all models. In addition to these climatic indica-
+tors, 
+other 
+agricultural 
+drought 
+indices 
+are 
+also 
+incorporated as complementary predictors when estimating 
+a given target index. This design choice is based on the pre-
+mise that agricultural drought indicators are often interre-
+lated. For instance, soil moisture-related indices such as 
+SMDI and EDI not only reﬂect s oil water status but also
+inﬂuence vegetation health, as captured by indices like
+VCI (Prodhan et al. 2 021). Including these interdependen-
+cies within the modeling framework enhances the capacity
+
+
+of the model to capture the complex and multifactorial nat-
+ure of agricultural drought. Furthermore, this integrated 
+approach contributes to a better understanding of the rela-
+tionships and synergies among diﬀerent drought indicators, 
+supporting more robust and interpretable drought assess-
+ment. The performance of each predictive model during 
+feature selection is evaluated using the Root Mean Square 
+Error (RMSE) and Coeﬃcient of Determination (R2 ), 
+allowing identiﬁcation of both the most important predic-
+tor and the corresponding prediction accuracy. This mod-
+eling framework was systematically applied across all 607
+sub-basins to assess spatial variations in predictor rele-
+vance and drought behavior across diﬀerent regions. For
+better comparison, in this study, each feature in the SFS
+process is assigned an Importance Score (IS), deﬁned as
+the inverse of its rank in the SFS method. Therefore, higher
+importance scores indicate stronger predictive power for
+the target variable.
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+Random Forest (RF) is one of the techniques used in 
+classiﬁcation and regression problems. This method is a 
+supervised machine learning algorithm that helps reduce
+uncertainty and prevent overﬁtting by combining and aver-
+aging multiple decision trees (Breiman 2001). The RF algo-
+rithm tends to over-ﬁt a simple regression tree, especially 
+in situations where training data is limited, and is therefore 
+sensitive to the training data used to build the tree. In addi-
+tion, RF is able to process large data sets, provide greater
+transparency in model interpretation, and incorporate mul-
+tiple features into its analysis (Elbeltagi et al. 2023). RF 
+regression is a bootstrap-based ensemble method that 
+works with a set of random binary decision trees. In this 
+method, random sub sets of the training data are sampled
+by
+inserting
+the
+original
+data
+to
+train
+the
+model
+(Mokhtar et al. 2021; Saravani et al., 2025). The Random 
+Forest algorithm is a powerful machine learning method 
+that is based on the bagging technique and uses decision 
+trees such Classiﬁcation and Regression Tree (CART). In 
+the bagging method, multiple models are trained in parallel 
+on sampled data whereas in the RF structure, in addition 
+to sampling, only a limited number of features are ran-
+domly selected at each node. This random selection of fea-
+tures leads to a reduction in the correlation between trees 
+and an increase in the overall accuracy of the model. Struc-
+turally, RF is an additive model that uses a combination of
+base models to produce a ﬁnal prediction. Each base model
+is a simple decision tree, and the ﬁnal model output is
+expressed as the sum of the outputs of all these trees. This
+structure, known as model ensemble, signiﬁcantly improves
+the prediction performance. The mathematical expression
+of this process is given in Eq. (10), where the output of 
+the RF model is represented as a colle ction of the outputs
+of the basic decision trees (Hussain et al. 2025). 
+k Y
+p1 Y
+p2 Y
+p3 Y 
+pm Y
+10
+in which, p1(Y) to pm(Y) are the output of each tree from 
+the 1st tree to mth tree in the RF structure, respectively. K
+is the overall output of all trees from the 1st tree to mth
+tree. To perform the SFS method, a Random Forest regres-
+sion model was implemented with 100 decision trees 
+(nTree = 500) and Min Leaf Size equal to 5 (MinLeaf-
+Size = 5). The model was trained using the TreeBagger 
+algorithm in MATLAB, employing 70 % data for training 
+and the remaining for the test data. The model perfor-
+mance is evaluated using RMSE during SFS. Also, the
+coeﬃcient of determination (R2) is reported for the ﬁnal
+selected predictors. These metrics were calculated on the
+train and test datasets to assess the model’s predictive accu-
+racy and the extent of deviation between predicted and
+observed values.
+560
+5. Results and discussions
+In this study, the objective is to assess both meteorolog-
+ical and agricultural drought across the third-order river 
+basins of Iran. As a ﬁrst step, spatiotemporal drought pat-
+terns of climatic indices are identiﬁed using clustering anal-
+ysis. Fig. 4 illustrates the clustering results based on a 20-
+year time series of SPI and SPEI drought indices across 
+Iran. For each index, clustering was performed using fea-
+tures derived from the time series values at the 12-month 
+temporal scale to evaluate the similarity among diﬀerent 
+regions. The ﬁgure displays the spatial distribution of six 
+drought clusters across Iran based on (a) SPI and (b) SPEI 
+indices using K-means clustering. Each color-coded region 
+represents a distinct cluster (C1 to C6), which groups sub-
+basins with similar temporal drought patterns over 
+20 years. Although both SPI and SPEI show broadly sim-
+ilar clustering patterns, notable diﬀerences can be observed. 
+Indeed, comparison of the clustering results based on SPI 
+and SPEI reveals notable spatial diﬀerences that highlight 
+the inﬂuence of incorporating Potential Evapotranspira-
+tion (PE T) in drought assessment. For instance, Cluster 3
+(C3) is predominantly located in the north and northeast
+of the country in the SPI-based map, while it shifts toward
+the northwest in the SPEI-based clustering. Moreover,
+although C2 covers a considerable portion of western Iran
+in the SPI classiﬁcation, it occupies a much smaller and
+more fragmented area in the SPEI map.Similar discrepan-
+cies are also observed in Clusters 1 (C1) and 5 (C5), partic-
+ularly in the southern and southeastern regions, where the
+cluster boundaries diﬀer signiﬁcantly between the two
+drought indices.
+Table 1 presents the results of the Homogeneity criteria 
+(H index), calculated using Eq. (10), for each cluster based 
+on diﬀerent drought indices under two clustering 
+approaches: one based on SPI and the other based on 
+SPEI. These indices were computed for the values of each 
+drought index wi thin each cluster. The ﬁnal column of
+the Table 1 reports the average homogeneity score across 
+all clusters. Overall, the results indicate noticeable diﬀer-
+ences in cluster homogeneity between the two approaches. 
+As expected, the clustering approach based on SPI yields a 
+higher homogeneity score for the SPI index, while the
+
+
+SPEI-based clustering shows better homogeneity for the 
+SPEI index, since each of these indices was directly used 
+in the respective clustering processes. However, when 
+examining the homogeneity of agricultural drought indices, 
+the SPI-based clustering approach results in lower overall 
+H values , suggesting a more consistent internal structure.
+Therefore, the clustering derived from SPI is considered
+more homogeneous and is used as the basis for further
+analysis in this study.
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+Fig. 4. Drought indices regionalization by using K-means for (a) SPI and (b) SPEI.
+To evaluate the temporal variation of drought indices 
+across diﬀerent clusters, the annual mean time series of 
+the 12-month drought indices were extracted for the cen-
+troid of each cluster. Fig. 5 illustrates these time series 
+for SPI clusters. These plots enable comparison of long-
+term drought trends and variability across diﬀerent cli-
+matic zones identiﬁed through clustering and then demon-
+strate how clustering can enhance the interpretation of 
+multi-index drought assessments. A noteworthy observa-
+tion is that all clusters exhibit relatively similar temporal 
+patterns across the time series, with major diﬀerences aris-
+ing primarily in the magni tude of the drought indices,
+rather than in their overall trends. This suggests that,
+despite spatial variability, the general drought behavior
+across the country follows a largely uniform pattern. Fur-
+thermore, the SPI and SPEI indices (subplots a and b in
+Fig. 5) show similar temporal patterns, with noticeable 
+peaks and troughs corresponding to major wet and dry
+periods. The clustering reveals regional groupings with
+shared responses to extreme events, particularly drought 
+conditions in 2008, 2021, and wet conditions in 2019.
+561
+A close examination of the VCI (Fig. 5 c) time series 
+reveals that its overall trend is reasonably consistent with 
+that of SPI and SPEI. However, a key diﬀerence emerges 
+when focusing on peak periods. Indeed, careful examina-
+tion of the VCI time series reveals that this index follows 
+meteorological indices with some lag times, like peaks 
+observed around 2008, 2010, 2019, and 2021 occur with a 
+temporal lag relative to the peaks in SPI and SPEI. This 
+lag is consistent with Iran’s precipitation regime, where 
+most rainfall occurs during winter and early spring, while 
+its eﬀects on vegetatio n, captured by VCI, become evident
+in the growing seasons, typically from spring to summer.
+The TCI index (Fig. 5 d) is more uniform, indicating rela-
+tively consistent temperature-related stress patterns across 
+the clusters. Moreover, the TCI time series generally exhi-
+bits patterns that align closely with the climatic indices (SPI 
+and SPEI), as evidenced by the synchronization of p eaks in
+2008, 2009, 2019, and 2021. The SMDI (Fig. 5 e) shows the 
+greatest spread between clusters, highlighting strong spatial 
+variability in soil moisture conditions. I n contrast, EDI
+(Fig. 5 f) exhibits the most stable and parallel trends among 
+clusters, suggesting a more gradual and consistent evapora-
+tive response. The clustering eﬀectively captures distinct 
+regional drought behaviors, with each index revealing 
+unique aspects of drought dynamics. The results under-
+score the complementary nature of the indices.
+
+
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+Fig. 5. Time series of the average of 12-month drought indices, (a) SPI, (b) SPEI, (c) VCI, (d) TCI, (e) SMDI, and (f) EDI for the SPI cluster centroids.
+For Fig. 5, a chronological story of drought propaga-
+tion begins by identifying the key meteorological drought 
+events (e.g., 2008, 2021) visible in the SPI and SPEI plots, 
+establishing a timeline. It then explicitly points out the 
+‘‘lagged response” of the VCI, a critical observation that 
+moves beyond simply showing the data to explaining a fun-
+damental process: the delayed impact of a rainfall deﬁcit on
+plant health. This helps a non-specialist understand why
+agricultural drought is a consequence, not a simultaneous
+occurrence, of meteorological drought. Furthermore, the
+Fig. 5 contrasts the behavior of diﬀerent indices; it notes 
+that the EDI shows ‘‘parallel trends,” suggesting a uniform 
+atmospheric demand across regions, while the SMDI 
+shows a ‘‘greater spread,” highlighting the spati al variabil-
+ity in how diﬀerent soils retain water. This direct compar-
+ison
+guides
+the
+reader
+to
+appreciate
+the
+unique
+information each index provides.
+Following the regionalization of drought patterns based 
+on the SPI index, the ﬁrst step in evaluating the relation-
+ship between meteorological and agricultural drought
+involved assessing the linear correlation across various
+562
+temporal scales. For clarity and better spatial visualization, 
+the SPI was considered the reference index, and the corre-
+lation of other drought indices with S PI was computed and
+mapped. Fig. 6 illustrates the spatial distribution of corre-
+lation values across all 607 sub-basins under investigation, 
+providing an overview of how each drought index aligns 
+with the SPI across diﬀerent re gions. Among all indices,
+SPEI [Fig. 6(a-c)] exhibited the strongest overall correla-
+tion with SPI, especially at longer time scales. At the 12-
+month scale, the correlation was consistently high across 
+most parts of Iran, particularly in the central, northern, 
+and northwestern regions, including the Zagros Mountains 
+and the Caspian coastal zone. This strong relationship is 
+expected since SPEI is derived from both precipitation 
+and potential evapotranspiration, thus closely aligning 
+with SPI in reﬂecting longer-term water balance. In con-
+trast, the correlation was weakest in southeastern Iran, 
+where arid conditio ns and high evapotranspiration likely
+reduce the sensitivity of SPI to drought dynamics. VCI
+[Fig. 6(d-f)], which reﬂects vegetation health based on 
+NDVI data, showed a moderate correlation with SPI that
+
+
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+Fig. 6. Linear Correlation between SPI 3, 6, and 12-month (a-c) SPEI, (d-f) VCI, (g-i) TCI, (j-l) SMDI, and (m-o) EDI. The ﬁrst column of subplots
+corresponds to a 3-month drought index, the second column and the third column correspond to 6-, and 12-month time scales, respectively.
+563
+
+
+improved with increasing time scale. The strongest correla-
+tions appeared in northern and northwestern Iran at the 
+12-month scale, highlighting the cumulative eﬀect of pro-
+longed moisture deﬁcits on vegetation. The lowest correla-
+tions wer e found in southeastern and central desert regions,
+where sparse vegetation limits the utility of VCI for
+drought monitoring. TCI [Fig. 6(g-i)], a temperature-
+based index, had the weakest correlation with SPI among 
+all indices. Even at the 12-month scale, only moderate cor-
+relations were observed in parts of western and northwest-
+ern Iran. Since SPI does not directly incorporate 
+temperature, this weak relationshi p is expected, particu-
+larly in arid and semi-arid regions such as eastern Iran,
+where temperature-induced stress may not correspond with
+precipitation anomalies. SMDI [Fig. 6(j-l)], which accounts 
+for soil moisture ﬂuctuations, showed a clear improvement 
+in correlation with SPI as the time scale increased. The 
+highest correlations were observed in the western and 
+northwestern parts of the country at the 12-month time 
+scale, where precipitation va riability signiﬁcantly inﬂuences
+soil moisture. Central and southeastern regions demon-
+strated weaker correlations, likely due to limited soil mois-
+ture
+retention
+and
+erratic
+rainfall
+patterns.
+EDI
+in
+[Fig. 6(m-o)] showed a negative correlation with SPI. This 
+is expected, as wetter conditions lead to higher actual evap-
+otranspiration, which lowers the EDI value, indicating 
+improved water availability. Therefore, stronger negative 
+correlations between SPI and EDI reﬂect the ability of 
+EDI to respond to wet conditions with lower index values.
+The strongest negative correlations were observed in west-
+ern and southwestern Iran, whereas the correlations were
+weaker in the northwestern and Caspian regions.
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+Overall, Fig. 6 is enhanced by framing the correlation 
+maps as a direct visualization of ‘‘sensitivity” and ‘‘vulner-
+ability.” It decodes the color scheme for the reader: strong 
+positive correlations are not just statistical outcomes but 
+indicators of regions where ‘‘agricultural drought closely
+follows
+meteorological
+drought.” This
+transforms an
+abstract correlation coeﬃcient into a tangible concept of
+risk. In addition, Fig. 6 provides speciﬁc, concrete exam-
+ples, such as explaining that the strong correlation in the 
+Zagros Mountains means the ecosystem there is ‘‘highly 
+dependent on rainfall, making it vulnerable.” Conversely, 
+it oﬀers a reasoned explanation for weak correlations in 
+the deserts, suggesting they indicate ‘‘chronic aridity rather
+than acute drought vulnerability,” which prevents a misin-
+terpretation that these areas are not drought-aﬀected.
+Table 2 further summarizes the correlation analysis 
+between SPEI and other indices for six clusters. From
+Table 2, the correlation analysis between SPI and drought 
+indices (i.e., SPEI, VCI, TCI, SMDI, and EDI) across six 
+clusters (C1–C6) reveals distinct patterns based on time 
+scale and regional variability. For instance, SPI-SPEI cor-
+relations strengthen markedly with longer tim e scales (e.g.,
+C3: 0.19 at 3-month to 0.86 at 12-month), highlighting
+their reliability for long-term drought monitoring. Further-
+more, SPI-TCI maintains stable, moderate-to-high positive
+correlations (e.g., C6: 0.46–0.58), emphasizing tempera-
+ture’s consistent inﬂuence. In contrast, SPI-EDI shows 
+strong negative correlations (e.g., C5: −0.78 at 12 months), 
+indicating opposing drought signals. SPI-VCI and SPI-
+SMDI exhibit weaker short-term links but improve slightly
+over time (e.g., C2 SMDI: 0.23 to 0.49).
+564
+Table 2 
+Summary of SPI correlation with other indices in the SPI clusters.
+Clusters
+Time scale
+Drought Indices 
+SPEI
+VCI
+TCI
+SMDI
+EDI 
+C1
+3-month
+0.16
+0.26
+0.48
+0.16
+−0.48 
+6-month
+0.20
+0.31
+0.47
+0.17
+−0.54 
+12-month
+0.77
+0.34
+0.48
+0.18
+−0.73 
+C2
+3-month
+0.20
+0.22
+0.43
+0.23
+−0.26 
+6-month
+0.21
+0.30
+0.45
+0.34
+−0.32 
+12-month
+0.85
+0.40
+0.37
+0.49
+−0.63 
+C3
+3-month
+0.19
+0.16
+0.38
+0.17
+−0.23 
+6-month
+0.20
+0.24
+0.44
+0.26
+−0.28 
+12-month
+0.86
+0.34
+0.44
+0.37
+−0.63 
+C4
+3-month
+0.14
+0.17
+0.39
+0.07
+−0.31 
+6-month
+0.15
+0.24
+0.46
+0.11
+−0.36 
+12-month
+0.74
+0.34
+0.43
+0.17
+−0.68 
+C5
+3-month
+0.15
+0.12
+0.49
+0.03
+−0.39 
+6-month
+0.18
+0.20
+0.53
+0.08
+−0.45 
+12-month
+0.79
+0.32
+0.56
+0.18
+−0.78 
+C6
+3-month
+0.16
+0.05
+0.46
+0.10
+−0.28 
+6-month
+0.19
+0.09
+0.53
+0.24
+−0.33 
+12-month
+0.85
+0.15
+0.58
+0.46
+−0.66 
+To further investigate the relationship between agricul-
+tural and meteorological drought, the Random Forest 
+regression method was employed. As a ﬁrst step, the SFS 
+technique was applied to identify the most important pre-
+dictors for each agricultural drought index. In this process, 
+two meteorological indices (SPI and SPEI), along with the
+remaining agricultural drought indices (excluding the tar-
+get index), were introduced as candidate predictors. The
+importance scores obtained for diﬀerent predictors are
+shown in Fig. 7. 
+The SFS analysis revealed distinct patterns in predictor 
+importance for estimating VCI, TCI, SMDI, and EDI 
+across the identiﬁed clusters. For VCI (Fig. 7 a), the EDI 
+consistently exhibited the highest Importance Scores (IS) 
+across most clusters, particularly in C2, C4, and C6, high-
+lighting the strong inﬂuence of evaporative stress on vege-
+tation condition. Furthermore, SMDI contributed notably 
+in certain clusters (e.g., C1, C5), while SPI played a moder-
+ate role. SPEI and TCI were of c omparatively low impor-
+tance for VCI prediction. For TCI (Fig. 7 b), SPI emerged 
+as the dominant predictor in nearly all clusters, with EDI 
+providing substantial secondary contributions, especially 
+in C1 and C5. In addition, SMDI showed moderate impor-
+tance in a few clusters, whereas VCI and SPEI gener ally
+had low IS values. In SMDI prediction (Fig. 7 c), EDI again 
+showed the greatest inﬂuence, particularly in C2, C4, and 
+C6, conﬁrming the close link between soil moisture condi-
+tions and evaporative stress. SPI was the second most 
+important predictor, while other indices (i.e., SPEI, VCI,
+
+
+and TCI) played more limited roles . For EDI itself
+(Fig. 7d), SPI had the highest IS, especially in C6 and 
+C5, indicating that precipitation-driven drought signals 
+are the primary driver of EDI variability. SMDI and TCI
+made moderate contributions, whereas SPEI and VCI
+had minimal inﬂuence.
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+Fig. 7. Importance score of diﬀerent predictors in the SFS method in estimation of (a) VCI, (b) TCI, (d) SMDI, and (e) EDI.
+Finally, Fig. 7 elevates the feature importance charts 
+from a technical output to a diagnostic tool for under-
+standing drought mechanisms. It explicitly deﬁnes what a 
+higher ‘‘Import ance Score” means for the model’s predic-
+tion, making the graph immediately understandable. Addi-
+tionally, Fig. 7 interprets the results to reveal the ‘‘primary 
+drivers” or key mechanisms of drought impact in diﬀerent 
+regions. For example, it states that the dominance of EDI
+for predicting VCI and SMDI ‘‘highlights that evaporative
+stress is a key mechanism.
+Although the SFS method assigned diﬀerent importance 
+scores to each predictor, it suggested that using all predic-
+tors together yields the best estimation accuracy for agri-
+cultural drought indices at the 12-month time scale.
+Table 3 presents the performance metrics (R2 and RMSE) 
+of Random Forest regression models for estimating VCI, 
+TCI, SMDI, and EDI across six spatial clusters. Among 
+these indices, EDI consistently demonstrated the highest 
+accuracy on both training (R2 > 0.89) and testing (R2 
+between 0.72 and 0.82), with remarkably low RMSE (≈ 
+0.02–0.04), reﬂecting robust and stable model performance 
+across clusters. VCI and TCI also showed good training 
+performance (R2 ≈ 0.83–0 .87), but their test accuracy var-
+ied across clusters. Notably, Cluster 4 had the weakest gen-
+eralization for TCI (test R2 = 0.50), whereas Cluster 1
+showed the highest accuracy across most indices, indicating
+spatial variability in model performance. SMDI had the
+highest RMSE values, particularly during testing (up to
+1.20 in Cluster 5), and its performance was more inconsis-
+tent, likely due to its complex relationship with climatic
+and agricultural variables.
+565
+Table 3 
+Average estimation accuracy of diﬀerent agricultural drought indices in
+diﬀerent clusters.
+Indices 
+Accuracy
+Clusters 
+C1
+C2
+C3
+C4
+C5
+C6 
+VCI
+Training 
+R2 
+0.87 
+0.85 
+0.84 
+0.84 
+0.83 
+0.85 
+RMSE 
+0.08 
+0.10 
+0.10 
+0.10 
+0.10 
+0.10 
+Testing
+R2 
+0.69 
+0.62 
+0.61 
+0.63 
+0.62 
+0.64 
+RMSE 
+0.13 
+0.16 
+0.16 
+0.15 
+0.16 
+0.16 
+TCI
+Training 
+R2 
+0.87 
+0.83 
+0.83 
+0.78 
+0.84 
+0.85 
+RMSE 
+0.09 
+0.10 
+0.10 
+0.11 
+0.10 
+0.10 
+Testing
+R2 
+0.69 
+0.60 
+0.61 
+0.50 
+0.63 
+0.63 
+RMSE 
+0.14 
+0.14 
+0.15 
+0.16 
+0.14 
+0.15 
+SMDI
+Training 
+R2 
+0.87 
+0.83 
+0.84 
+0.83 
+0.83 
+0.86 
+RMSE 
+0.68 
+0.62 
+0.67 
+0.74 
+0.78 
+0.72 
+Testing
+R2 
+0.69 
+0.59 
+0.60 
+0.60 
+0.58 
+0.67 
+RMSE 
+1.05 
+0.95 
+1.05 
+1.12 
+1.20 
+1.09 
+EDI
+Training 
+R2 
+0.91 
+0.89 
+0.89 
+0.89 
+0.92 
+0.90 
+RMSE 
+0.02 
+0.02 
+0.02 
+0.02 
+0.02 
+0.02 
+Testing
+R2 
+0.79 
+0.72 
+0.73 
+0.74 
+0.82 
+0.76 
+RMSE 
+0.03 
+0.04 
+0.03 
+0.03 
+0.02 
+0.03 
+Finally, to illustrate the distribution of modeling accu-
+racy across diﬀerent clusters, Fig. 8 (R2 ) and Fig. 9 
+(RMSE) present the test phase accuracy for each cluster. 
+These pie plots display the percentage distribution of clus-
+ter members based on the accuracy of the drought index 
+modeling. VCI generally exhibits moderate performance, 
+with the majority of members in C1–C6 achieving R2 
+between 0.6 and 0.75. TCI shows high variability: clusters
+such as C4 are dominated by low R2(<0.6), whereas others
+
+
+(e.g., C2) have better representation in higher ranges. 
+SMDI maintains balanced performance, with notable pro-
+portions in the 0.6–0.75 range across most clusters. EDI 
+demonstrates the strongest predictive accuracy, particu-
+larly in C1, C5, and C6, where over 70 % of members 
+achieve R2 > 0.75. Overall, the results indicate that EDI
+is the most robust index across clusters, while TCI perfor-
+mance is highly cluster-dependent, suggesting spatial vari-
+ability in drought index predictability.
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+Fig. 8. Distribution of R2 measures among diﬀerent clusters and indices.
+The RMSE plot shows the distribution of prediction 
+errors for VCI, TCI, SMDI, and EDI across clusters C1– 
+C6, categorized into four RMSE ranges: <0.10, 0.10– 
+0.15, 0.15–0.25, and > 0.25. VCI predictions are mostly 
+in the 0.10–0.15 range, with some clusters (e.g., C1) show-
+ing a notable share < 0.10. TCI displays a similar pattern, 
+with the majority of members between 0.10 and 0.15 and a 
+smaller fraction < 0.10, especially in C4 where low RMSE 
+is most frequent. SM DI shows the weakest results, with all
+clusters having RMSE greater than 0.25. Conversely, EDI
+consistently records RMSE < 0.10 in all clusters, indicating
+highly accurate predictions. Overall, the RMSE analysis
+conﬁrms that EDI achieves the lowest errors, SMDI has
+weakest errors, and VCI/TCI exhibit more variability in
+accuracy across clusters.
+6. Comparisons with related works
+Drought signiﬁcantly aﬀects various aspects of human 
+life, ecosyste ms, and the environment. Iran, situated
+predominantly in arid and semi-arid climate zones, has 
+experienced, and will likely continue to experience, serious 
+consequences due to drought. Among its various dimen-
+sions, drought is commonly discussed in both climatic 
+and agricultural contexts. These two types are closely inter-
+related, as climatic factors often act as primary drivers 
+inﬂuencing plant health and agricultural productivity. In
+this study, we explored the relationship between climatic
+and agricultural droughts across Iran, aiming to provide
+a
+better
+understanding
+of
+their
+interactions
+and
+implications.
+566
+Iran’s climatic pattern and climatic zones are strongly 
+inﬂuenced by two major mountain ranges, the Zagros 
+and Alborz, as well as the presence of the northern and 
+southern seas. Consequently, it is expected that these geo-
+graphical features also contribute to shaping the country’s 
+drought regime. The clustering results o f the 20-year pat-
+terns of climatic droughts (as shown in Fig. 4) partially 
+reﬂect the impact of these climatic and topographic pat-
+terns on the spatial distribution of drought. For instance, 
+the variation in clusters from the northwest to the south 
+and southwest of Iran, observed in both SPEI and SPI 
+indices, aligns with the orientation of the Zagros Moun-
+tains, as these highlands act as a natural barrier that inﬂu-
+ences precipitation patterns by inducing orographi c rainfall
+and modulating the penetration of moisture-laden air
+masses (Livada and Assimakopoulos 2007;Sabzipar var
+et al. 20 15). Moreover, the existence of a distinct cluster 
+(C1) in the southern regions adjacent to open waters may
+
+
+reﬂect the inﬂuence of dominant regional climate systems. 
+This area is signiﬁcantly aﬀected by moisture ﬂows from 
+the Persian Gulf and the Gulf of Oma n, the summer mon-
+soon systems (particularly in the southeast), and Mediter-
+ranean systems during the cold seasons (Saligheh and 
+Sayadi 2017;Jamshidi and Samani 2022). Finally, Cluster 
+C4 is mainly located in the eastern (SPI clusters) and 
+east-central (SPEI clusters) regions of the country, which 
+are generally known as arid zones. These areas are aﬀec ted
+by the natural barriers of the Zagros and Alborz mountain
+ranges, which block moist air masses from reaching the
+interior regions.
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+Fig. 9. Distribution of RMSE measures among diﬀerent clusters and indices.
+One of the methods employed in this study to identify 
+the general patterns of drought across the coun try was
+the time series visualization of each drought index, as pre-
+sented in Fig. 5. A noteworthy observation regarding the 
+drought patterns, particularly meteorological drought as 
+represented by the SPI and SPEI indices, is that nearly 
+all clusters exhibited similar temporal trends. This indicates 
+that, over time, the entire country has been broadly aﬀected
+by drought and wet periods in a relatively synchronized
+manner. This ﬁnding is consistent with the study by
+Isfahani et al. (2022), who reported that the overall 
+drought trends at most synoptic stations across Iran were 
+largely similar, although the intensity varied among sta-
+tions. Similarly, in our study, despite the temporal behav-
+ioral similarity among clusters, the severity of drought 
+varied across cluster centers. In addition, the comparison
+of time series from diﬀerent drought indices reveals a sig-
+niﬁcant relationship between climatic and agricultural
+droughts.
+For
+instance,
+according
+to
+the
+study
+by
+Mohammadi Ghaleni et al. (2024), Iran experienced severe 
+drought conditions during the periods of 2008–2009 and 
+2017–2018. These two major drought events are reﬂected
+in the SPI and SPEI indices (Fig. 5), with values declining 
+into strongly negative ranges. Concurrently, other indices, 
+particularly VCI and TCI, also display distinct drought 
+patterns during these periods, further supporting the syn-
+chrony between climatic stress and its agricultural impacts.
+567
+The relationship between agricultural and climatic 
+droughts is not limited to their temporal patterns; rather, 
+examining this relationship in both temporal and spatial 
+dimensions provides valuable insights (Behrang Manes h
+et al. 20 19). Correlation analysis between climatic and agri-
+cultural drought indices has long been recognized as a sim-
+ple yet eﬀective approach and has been widely a pplied in
+various studies (Huang et al. 2015; Yang et al. 2023). In 
+this research, we also assessed the relationship by calculat-
+ing the Pearson correlation coeﬃcient between the SPI 
+index and other drought indices. According t o previous
+studies, such as Karimi et al. (20 22), drought indices may 
+not always exhibit synchronous behavior, and the impact 
+of climatic drought indices may appear with a temporal 
+lag in agricultural drought responses. In this study as well, 
+it was observed that increasing the temporal scale (Fig. 6), 
+thereby reducing the inﬂuence of short-term ﬂuctuations, 
+led to higher correlations between all indices and the SPI 
+index. Among the indices, SPEI showed the highest corre-
+lation with SPI, which was expected given that precipita-
+tion is a key component in the calculation of SPEI. The 
+spatial distribution of the correlation between the VCI
+drought index, which is directly derived from vegetation
+
+
+conditions, and the SPI index reveals that the highest cor-
+relations are concentrated along the Zagros Mountains 
+(western and southwestern regions) and, to some extent, 
+the Alborz range. This pattern suggests that the presence 
+of natural vegetation in the rangelands of these areas, 
+which is highly dependent on precipitation, is a key factor 
+contributing to the signiﬁcant relationship between the 
+VCI and SPI drought indice s. In contrast, the lowest corre-
+lations are observed in central and eastern parts of the
+country, which encompass deserts and arid regions. The
+lack of vegetation cover in these areas provides a reason-
+able explanation for the weak correlations. This ﬁnding is
+also supported by the study of Karimi et al. (2022), where 
+sparse vegetation was identiﬁed as a limiting factor in 
+establishing a strong relationship between climatic and 
+agricultural droughts. The TCI index showed stronger spa-
+tial correlation with SPI than VCI, particularly at the 12-
+month time scale. This can be attributed to the inﬂuence 
+of soil moisture conditions, aﬀected by both precipitation 
+and air temperature, on land surface temperature, which
+directly impacts the TCI values. The SMDI (derived from
+soil moisture) and EDI (inﬂuenced by soil moisture condi-
+tions) indices exhibited the highest correlations with SPI in
+the western regions of the country (Fig. 6), indicating a 
+strong dependency of soil moisture in these areas on pre-
+cipitation. In contrast, in the central and desert regions, 
+the lack of rainfall and persistently arid conditions likely
+contribute
+to
+the
+absence
+of
+signiﬁcant
+correlations
+between soil moisture-based drought indices and SPI.
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+To gain a deeper understanding of the relationship 
+between agricultural and meteorological drought indices, 
+this study also assessed the predictability of the agricultural 
+drought indices using a Random Forest regressor. The 
+Random Forest (RF) algorithm was applied to evaluate 
+the predictive relationships between drought indices. RF 
+is particularly suitable for this application due to its ability 
+to handle nonlinear relationships, capture complex interac-
+tions between predictors, and provide measures of variable
+importance through ensemble decision trees. This is espe-
+cially valuable in drought assessment, where meteorologi-
+cal,
+soil
+moisture,
+and
+vegetation
+responses
+are
+interconnected and often nonlinearly related to climatic
+drivers. The Importance Score (IS) analysis derived from
+the SFS method (Fig. 7) indicated that EDI and SPI were 
+the most inﬂuential predictors overall, although their rela-
+tive dominance varied depending on the target index. EDI 
+exerted the strongest inﬂuence on VCI and SMDI, reﬂect-
+ing the critical role of evaporative stress in controlling veg-
+etation health and soil moisture status (Prodhan et al.
+2021). Conversely, SPI was the leading predictor for TCI 
+and EDI, underscoring the inﬂuence of precipitation-
+driven drought signals on temperature stress and broader 
+evaporative conditions. The generally lower IS values for 
+SPEI compared with SPI suggest that, in the studied
+domain, incorporating potential evapotranspiration into
+drought quantiﬁcation (as in SPEI) does not substantially
+improve predictive performance for vegetation and temper-
+ature indices, possibly due to the dominance of precipita-
+tion variability as the primary driver. Similarly, VCI and 
+TCI, while meaningful as independent indicators, showed 
+limited predictive importance for other indices, highlight-
+ing their more responsive rather than causative role in 
+drought dynamics. Furthermore, these results emphasize 
+the complementary nature of meteorological drought indi-
+cators (SPI) and evaporative stress metrics (EDI and 
+SMDI) in characterizing vegetation and soil moisture
+responses. The RF approach not only identiﬁed key predic-
+tors but also conﬁrmed that the integration of multiple
+drought indices can enhance monitoring and improve early
+warning systems by capturing diﬀerent components of the
+drought phenomenon.
+568
+The results of this study demonstrated the inﬂuence of 
+climatic conditions on agricultural drought. The analysis 
+revealed that in regions with relatively favorable moisture 
+conditions, particularly in western and southwestern Iran, 
+the correlation between agricultural and climatic drought 
+indices is signiﬁcantly higher. This suggests that these
+areas, due to their reliance on seasonal precipitation for
+vegetation and agricultural activities, are more vulnerable
+to ﬂuctuations in climatic drought patterns. These ﬁndings
+are consistent with the study by Dai et al. (2022), which 
+also highlighted that humid regions are more sensitive to 
+climatic drought impacts. Therefore, it is essential to adopt 
+region-speciﬁc strategies and integrate appropriate mea-
+sures into planning and policymaking to ensure eﬀective
+decision-making tailored to the climatic and ecological
+conditions of each region.
+The present study across 607 sub-basins in Iran (2004– 
+2023) showed that EDI is the strongest predictor of agricul-
+tural drought indices, with RF models achieving test R2 
+values of 0.72–0.82 and RMSE as low as 0.02–0.04, while 
+SMDI was harder to model with R2 between 0.58 and 
+0.69 and RMSE up to 1.20; SPI was identiﬁed as the dom-
+inant driver for TCI, and correlations between SPI and 
+other i ndices strengthened at longer time scales, peaking
+at 12 months. In comparison, Senapati and Das (202 4a)
+applied a three-dimensional AHP-based model in the 
+UDRB, integrating exposure, sensitivity, and adaptive 
+capacity indices, and reported that sensitivity (b = 0.391, 
+p < 0.001) and exposure (b = 0.223, p < 0.001) signiﬁcantly 
+increased agricultural drought vulnerability, while adaptive 
+capacity reduced it (b = −0.721, p < 0.001), with their 
+regression 
+explaining 
+89.4 
+% 
+of 
+the 
+variance 
+(R2 = 0.894); spatially, they found 13.82 % of the basin 
+under very high vulnerability, 28.32 % under high, 
+29.44 % under moderate, 9.66 % u nder low, and 18.76 %
+under very low categories, validated through yield anomaly
+index analysis. Senapati and Das (2024b) successfully 
+delineated seven distinct alternative agriculture zones in 
+the drought-prone UDRB using Remote Sensing (RS) 
+and AHP-based Geographical Information System (GIS) 
+techniques. The model’s accuracy was validated using 350 
+ﬁeld sites, resulting in a high kappa coeﬃcient of 95.34 %
+and an overall accuracy of 96 %.
+
+
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+In Senapati et al.’s (2025a) research, the frequency of 
+drought events over the 36-year period was estimated at 
+10–12 occurrences under both scenarios, with drought 
+intensity ranging between –1.15 and –1.20. The central part 
+of the UDRB was found to be more sensitive to drought 
+frequency. Qualitatively, their study emphasized the utility 
+of SPI for multi-scale drought assessment and highlights 
+the importance of bias correction using the Empirical
+Quantile Mapping (EQM) to improve model reliability.
+The authors noted that SSP370 shows marginally better
+performance in bias correction (correlation coeﬃcient of
+0.91 vs. 0.89 for SSP585), which they attribute to its closer
+alignment with India’s current socioeconomic trajectory.
+Senapati et al. (2025b) used a mixed-methods approach, 
+combining remote sensing with 385 farmer surveys. This 
+revealed critical gaps, such as 68 % of farmers being unable 
+to detect drought early, leading to actionable, community-
+level policy recommendations like building farm ponds. In
+contrast, the other study was a top-down, technically
+advanced framework focused solely on physical system
+dynamics, ideal for national-scale forecasting.
+Senapati and Das (2025) developed the IADI using 
+AHP to combine multiple remote sensing parameters, cre-
+ating a more stable and accurate tool for real-time drought 
+monitoring in rain-fed regions. Their study focused on 
+improving assessment accuracy with historical data. In 
+contrast, the present research likely emphasizes future cli-
+mate risk, utilizing CMIP6 scenarios and standardized 
+indices like SPI to project drought frequency and severity.
+This forward-looking approach contributed more directly
+to long-term adaptation planning, whereas the IADI
+framework is optimized for current operational monitoring
+and resource allocation.
+7. Conc lusions
+This study has provided a comprehensive, national-scale 
+assessment of the interrelationships between meteorologi-
+cal and agricultural droughts across Iran by integrating 
+multiple satellite-derived indices and a machine learning 
+framework over a 20-year period (2004–2023). The 
+research 
+successfully 
+moved 
+beyond 
+single-index 
+approaches to deliver a nuanced understanding of drought 
+dynamics, revealing critical spatial and temporal patterns. 
+The clustering of long-term drought indices delineated Iran 
+into six distinct regions, with patterns strongly inﬂuenced 
+by major topographic features like the Zagros and Alborz 
+mountain ranges. While major drought events, such as 
+those in 2008 and 2021, occurred synchronously across
+the country, the clustering analysis revealed signiﬁcant
+regional variations in intensity. The correlation analysis
+demonstrated a clear scale-dependence in the relationship
+between meteorological and agricultural droughts. For
+instance, the correlation between SPI and SPEI strength-
+ened markedly from an average of approximately 0.17 at
+the 3-month scale to 0.81 at the 12-month scale, highlight-
+ing how longer temporal scales dampen short-term vari-
+ability and be tter capture prolonged water deﬁcits.
+569
+Spatially, the linkages between drought types exhibited 
+distinct regional sensitivities. The strongest correlations 
+between SPI and agricultural indices like VCI and SMDI 
+were observed in western and southwestern Iran, where 
+correlation coeﬃcients often exceeded 0.4 at the 12-
+month scale. These areas, characterized by natural vegeta-
+tion, showed a direct dependence on precipitation. In con-
+trast, the central and eastern arid deserts consistently 
+showed the weakest correlations, frequently below 0.2, 
+due to sparse vegetation cover and limited soil moisture 
+retention. The application of Random Forest regression 
+with Sequential Feature Selection quantiﬁed the predictive 
+drivers of agricultural drought, revealing that the EDI and
+the SPI were the most inﬂuential predictors. EDI was the
+dominant feature for predicting VCI and SMDI, while
+SPI was most critical for estimating TCI. The modeling
+framework itself demonstrated robust performance, with
+the estimation of EDI achieving the highest test accuracy
+(R2 values between 0.72 and 0.82 across clusters). In con-
+trast, SMDI proved more challenging to predict, yielding
+higher RMSE values up to 1.20, indicating the complex
+nature of soil moisture dynamics.
+Beyond aligning with previous studies, our ﬁndings 
+carry important implications for drought management 
+and policymaking in Iran. The identiﬁcation of SPI and 
+EDI as dominant predictors underscores the need to prior-
+itize precipitation and evapotranspiration monitoring 
+within national drought early warning systems. Incorporat-
+ing satellite-based indices into operational frameworks 
+could improve real-time tracking of agricultural stress, 
+especially in western and southwestern Iran where 
+drought–vegetation linkages are strongest. Furthermore, 
+the machine learning framework demonstrated here pro-
+vides a scalable tool for integrating diverse indicators into 
+decision-support systems, enabling policymakers to antici-
+pate agricultural drought impacts more accurately and 
+allocate water resources more eﬃciently. At the regional
+level, the observed lag between meteorological and agricul-
+tural drought signals suggests that proactive irrigation
+scheduling, crop insurance schemes, and adaptive planting
+calendars could buﬀer farmers against yield losses. Overall,
+embedding such data-driven insights into Iran’s drought
+management strategies would enhance resilience in the
+agricultural sector and support long-term food and water
+security under climate variability.
+In conclusion, this study advances drought monitoring 
+in Iran by establishing a dynamic, data-driven framework 
+that eﬀectively captures the propagation of meteorological 
+deﬁcits into agricultural impacts. The ﬁndings underscore 
+the necessity of adopting multi-index, scale-aware, and 
+region-speciﬁc strategies for drought early warning. The 
+identiﬁed spatial patterns, such as the high vulnerability 
+of western agricultural zones and the predictive dominance
+of EDI and SPI, oﬀer actionable insights for policymakers
+
+
+to prioritize interventions and enhance resilience to 
+drought in a predominantly arid and vulnerable country.
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+Declaration of competing interest
+The authors declare that they have no known competing 
+ﬁnancial interests or personal relationships that could have
+appeared to inﬂuence the work reported in this paper.
+Acknowledgements 
+Not Appli cable.
+Appendix A. Supplementary material
+Table S1-S6 and full descriptions on the formulations of 
+SPI and SPEI are online available.
+Supplementary data to this article can be found online
+at https://doi.org/10.1016/j.asr.2025.10.014. 
+References 
+Abatzoglou, J.T., Dobrowski, S.Z., Parks, S.A., Hegewisch, K.C., 2018. 
+TerraClimate, a high-resolution global dataset of monthly climate and
+climatic water balance from 1958–2015. Sci. Data 5 (1), 1–12. https:// 
+doi.org/10.1038/sdata.2017.191. 
+Alahacoon, N., Edirisinghe, M., Ranagalage, M., 2021. Satellite-based 
+meteorological and agricultural drought monitorin g for agricultural
+sustainability in Sri Lanka. Sustainability 13 (6), 3427. https://doi.org/ 
+10.3390/su13063427. 
+Araghi, A., Daccache, A., 2025. Remote sensing and TerraClimate 
+datasets for wheat yield prediction using machine learning. Smart
+Agric.
+Technol.
+11.
+https://doi.org/10.1016/j.atech.2025.100909 
+100909. 
+Barati, S., Farzaneh, M., Hosseini Tayefeh, F., Torabinia, A., 2025. 
+Assessment of the magnitude and extent of climate change in diﬀerent
+regions of Iran. Environ.. Interdisciplin. Develop. 10 (87), 78–96.
+https://doi.org/10.22034/envj.2025.500584.1457. 
+Behrang Manesh, M., Khosravi, H., Heydari Alamdarloo, E., Saadi 
+Alekasir, M., Gholami, A., Singh, V.P., 2019. Linkage of agricultural
+drought with meteorological drought in diﬀerent climates of Iran.
+Theor. Appl. Climatol. 138, 1025–1033.
+https://doi.org/10.1007/ 
+s00704-019-02878-w. 
+Breiman, L., 2001. Random forests. Machine Learn. 45 (1), 5–32. 
+Burka, A., Biazin, B., Bewket, W., 2024. Spatial drought occurrences and 
+distribution using VCI, TCI, VHI, and Google Earth Engine in Bilate
+River Watershed, Rift Valley of Ethiopia. Geomatics, Natural
+Hazards
+and
+Risk
+15
+(1).
+https://doi.org/10.1080/ 
+19475705.2024.2377672 2377672. 
+Cao, S., Zhang, L., He, Y., Zhang, Y., Chen, Y., Yao, S., Yang, W., Sun, 
+Q., 2022. Eﬀects and contributions of meteorological drought on
+agricultural drought under diﬀerent climatic zones and vegetation
+types in Northwest China. Sci. Total Environ. 821. https://doi.org/ 
+10.1016/j.scitotenv.2022.153270 153270. 
+Cohen, I., Huang, Y., Chen, J., Benesty, J., Benesty, J., Chen, J., Huang, 
+Y. and Cohen, I. 2009. ‘‘Pearson Correlation Coeﬃcient.” Noise
+Reduction in Speech Processing. 1st edition, Springer Berlin, Heidel-
+berg. https://doi.org/10.1007/978-3-642-00296-0. 
+Dai, M., Huang, S., Huang, Q., Zheng, X., Su, X., Leng, G., Li, Z., Guo, 
+Y., Fang, W., Liu, Y., 2022. Propagation characteristics and mech-
+anism from meteorological to agricultural drought in various seasons.
+J. Hydrol. 610. https://doi.org/10.1016/j.jhydrol.2022.127897 127897. 
+570
+Du, C., Chen, J., Nie, T., Dai, C., 2022. Spatial–temporal changes in 
+meteorological and agricultural droughts in Northeast China: change
+patterns, response relationships and causes. Nat. Hazards 110, 155–
+173. https://doi.org/10.1007/s11069-021-04940-1. 
+Ebrahimi-Khusﬁ, Z., Mirakbari, M., Ebrahimi-Khusﬁ, M., Taghizadeh-
+Mehrjardi, R., 2020. Impacts of vegetation anomalies and agricultural 
+drought on wind erosion over Iran from 2000 to 2018. Appl. Geogr.
+125. https://doi.org/10.1016/j.apgeog.2020.102330 102330. 
+El Aboudi, N. and Benhlima, L. 2016. Review on Wrapper Feature 
+Selection Approaches. 2016 international conference on engineering &
+MIS
+(ICEMIS),
+IEEE.
+22-24
+September,
+Agadir,
+Morocco.
+https://doi.org/10.1109/ICEMIS.2016.7745366. 
+Elbeltagi, A., Pande, C.B., Kumar, M., Tolche, A.D., Singh, S.K., Kumar, 
+A., Vishwakarma, D.K., 2023. Prediction of meteorological drought 
+and standardized precipitation index based on the random forest (RF),
+random tree (RT), and Gaussian process regression (GPR) models.
+Environ.. Sci. Pollut. Res. 30 (15), 43183–43202. https://doi.org/ 
+10.1007/s11356-023-25221-3. 
+Emadodin, I., Reinsch, T., Taube, F., 2019. Drought and desertiﬁcation in
+Iran. Hydrology 6 (3), 66. https://doi.org/10.3390/hydrology6030066. 
+Funk, C., Peterson, P., Landsfeld, M., Pedreros, D., Verdin, J., Shukla, S., 
+Husak, G., Rowland, J., Harrison, L., Hoell, A., 2015. The climate
+hazards infrared precipitation with stations—a new environmental
+record for monitoring extremes. Sci. Data 2 (1), 1–21. https://doi.org/ 
+10.1038/sdata.2015.66. 
+Hamarash, H., Hamad, R., Rasul, A., 2022. Meteorological drought in 
+semi-arid regions: a case study of Iran. J. Arid Land 14 (11), 1212–
+1233. https://doi.org/10.1007/s40333-022-0106-9. 
+Harrison, L., Landsfeld, M., Husak, G., Davenport, F., Shukla, S., 
+Turner, W., Peterson, P., Funk, C., 2022. Advancing early warning
+capabilities with CHIRPS-compatible NCEP GEFS precipitation
+forecasts. Sci. Data 9 (1), 375. https://doi.org/10.1038/s41597-022-
+01468-2. 
+Hooshyaripor, F., Sardari, J., Dehghani, M., Noori, R., 2022. A new 
+concept of drought feeling against the meteorological drought. Sci.
+Reports 12 (1), 16711. https://doi.org/10.1038/s41598-022-21181-9. 
+Hosseini, S.J.F., Mohammadi, F., Mirdamadi, S.M., 2011. Factors
+inﬂuencing the economic aspects of sustainable agriculture in Iran.
+Archives Appl. Sci. Res. 3 (2), 503–512. 
+Huang, S., Huang, Q., Chang, J., Leng, G., Xing, L., 2015. The response 
+of agricultural drought to meteorological drought and the inﬂuencing
+factors: a case study in the Wei River Basin, China. Agricult. Water
+Manag. 159, 45–54. https://doi.org/10.1016/j.agwat.2015.05.023. 
+Hussain, A., Niaz, R., Al-Rezami, A., Mohamed Omer, A., Al-Duais, F. 
+S., Almazah, M.M.A., 2025. Application of random forest for
+identiﬁcation of an appropriate model for predicting meteorological
+drought. Adv. Meteorol. 2025 (1). https://doi.org/10.1155/adme/ 
+7674140 7674140. 
+Isfahani, P.M., Soltani, S., Modarres, R., 2022. Assessing agrometeoro-
+logical drought trends in Iran during 1985–2018. Theoret. Appl.
+Climatol. 150 (1), 251–262. https://doi.org/10.1007/s00704-022-04159-
+5. 
+Iskandar, I., Irfan, M., Akhsan, H., 2023. Extreme drought assessment in 
+sumatra-indonesia using SPI and EDI. Sci. Technol. Indonesia 8 (4),
+691–700. https://doi.org/10.26554/sti.2023.8.4.691-700. 
+Jalayer, S., Shariﬁ, A., Abbasi-Moghadam, D., Tariq, A., Qin, S., 2023. 
+Assessment of spatiotemporal characteristic of droughts using in situ 
+and remote sensing-based drought indices. IEEE J. Select. Topics
+Appl. Earth Observat. Remote Sens. 16, 1483–1502. https://doi.org/ 
+10.1109/JSTARS.2023.3237380. 
+Jamshidi, Z., Samani, N., 2022. Mapping the spatiotemporal diversity of 
+precipitation in Iran using multiple statistical methods. Theoret. Appl.
+Climatol.150(1),893–907.https://doi.org/10.1007/s00704-022-04191-5. 
+Karimi, M., Shahedi, K., Raziei, T., Miryaghoubzadeh, M., 2022. 
+Meteorological and agricultural drought monitoring in Southwest of 
+Iran using a remote sensing-based combined drought index. Stochast.
+
+
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+Environ. Res. Risk Assessm. 36 (11), 3707–3724. https://doi.org/ 
+10.1007/s00477-022-02220-3. 
+Kazemzadeh, M., Noori, Z., Alipour, H., Jamali, S., Akbari, J., 
+Ghorbanian, A., Duan, Z., 2022. Detecting drought events over Iran
+during 1983–2017 using satellite and ground-based precipitation
+observations.
+Atmospheric
+Res.
+269.
+https://doi.org/10.1016/j.at-
+mosres.2022.106052 106052. 
+Khorami, A.R., Pierof, S., 2013. Research article the role of agriculture in
+Iran’s economic development. Res.. J. Appl. Sci., Eng. Technol. 6 (11),
+1928–1939. 
+Liu, C., Yang, C., Yang, Q., Wang, J., 2021. Spatiotemporal drought 
+analysis by the standardized precipitation index (SPI) and standard-
+ized precipitation evapotranspiration index (SPEI) in Sichuan Pro-
+vince, China. Sci. Rep. 11 (1), 1280. https://doi.org/10.1038/s41598-
+020-80527-3. 
+Livada, I., Assimakopoulos, V.D., 2007. Spatial and temporal analysis of 
+drought in Greece using the Standardized Precipitation Index (SPI).
+Theoret. Appl. Climatol. 89, 143–153. https://doi.org/10.1007/s00704-
+005-0227-z. 
+MacQueen, J., 1967. Some methods for classiﬁcation and analysis of
+multivariate observations. In: Proceedings of the Fifth Berkeley
+Symposium on Mathematical Statistics and Probability, June 21-July
+18, 1965, California, United State of America. United State of
+America, California, pp. 281–297. 
+Madhulatha, T.S. 2012. ‘‘An overview on clustering methods.” arXiv
+preprint arXiv:1205.1117.
+Mianabadi, A., Salari, K., Pourmohamad, Y., 2022. Drought monitoring 
+using the long-term CHIRPS precipitation over Southeastern Iran.
+Appl. Water Sci. 12 (8), 183. https://doi.org/10.1007/s13201-022-
+01705-4. 
+Maghrebi, M., Noori, R., Bhattarai, R., Mundher Yaseen, Z., Tang, Q., 
+Al-Ansari, N., Danandeh Mehr, A., Karbassi, A., Omidvar, J.,
+Farnoush, H., Torabi Haghighi, A., 2020. Iran’s agriculture in the
+anthropocene.
+Earth’s
+Future
+8
+(9).
+https://doi.org/10.1029/ 
+2020EF001547 e2020EF001547. 
+Mishra, A.K., Singh, V.P., 2010. A review of drought concepts. J. Hydrol.
+391 (1–2), 202–216. https://doi.org/10.1016/j.jhydrol.2010.07.012. 
+Mohammadi Ghaleni, M., Sharaﬁ, S., Sadat-Noori, M., 2024. Propaga-
+tion pathways from meteorological to agricultural drought in diﬀerent
+climatic basins in Iran. Environ.. Sci. Pollution Res. 31 (49), 59625–
+59641. https://doi.org/10.1007/s11356-024-35172-y. 
+Mokhtar, A., Jalali, M., He, H., Al-Ansari, N., Elbeltagi, A., Alsafadi, K., 
+Abdo, H.G., Sammen, S.S., Gyasi-Agyei, Y., Rodrigo-Co mino, J.,
+2021. Estimation of SPEI meteorological drought using machine
+learning algorithms. IEEE Access 9, 65503–65523. https://doi.org/ 
+10.1109/ACCESS.2021.3074305. 
+Mondol, M.A.H., Zhu, X., Dunkerley, D., Henley, B.J., 2021. Observed 
+meteorological drought trends in Bangladesh identiﬁed with the
+Eﬀective Drought Index (EDI). Agricult. Water Manag. 255. https:// 
+doi.org/10.1016/j.agwat.2021.107001 107001. 
+Mozafari, Z., Noori, R., Siadatmousavi, S.M., Afzalimehr, H., Azizpour, 
+J., 2023. Satellite-based monitoring of eutrophication in the Earth’s
+largest transboundary lake. GeoHealth 7 (5). https://doi.org/10.1029/ 
+2022GH000770 e2022GH000770. 
+Mullapudi, A., Vibhute, A.D., Mali, S., Patil, C.H., 2023. A review of 
+agricultural drought assessment with remote sensing data: Methods,
+issues, challenges and opportunities. Appl. Geomat. 15 (1), 1–13.
+https://doi.org/10.1007/s12518-022-00484-6. 
+Narasimhan, B., Srinivasan, R., 2005. Development and evaluation of Soil 
+Moisture Deﬁcit Index (SMDI) and Evapotranspiration Deﬁcit Index
+(ETDI) for agricultural drought monitoring. Agricult. Forest Meteo-
+rol. 133 (1–4), 69–88. https://doi.org/10.1016/j.agrformet.2005.07.012. 
+Nouri, M., Homaee, M., Pereira, L.S., Bybordi, M., 2023. Water 
+management dilemma in the agricultural sector of Iran: a review
+focusing on water governance. Agricult. Water Manag. 288. https:// 
+doi.org/10.1016/j.agwat.2023.108480 108480. 
+571
+Orimoloye, I.R., 2022. Agricultural drought and its potential impacts: 
+enabling decision-support for food security in vulnerable regions.
+Front.
+Sustain.
+Food
+Syst.
+6.
+https://doi.org/10.3389/ 
+fsufs.2022.838824 838824. 
+Prajapati, V., Khanna, M., Singh, M., Kaur, R., Sahoo, R., Singh, D., 
+2021. Evaluation of time scale of meteorological, hydrological and
+agricultural drought indices. Nat. Hazards 109 (1), 89–109. https://doi. 
+org/10.1007/s11069-021-04827-1. 
+Prodhan, F.A., Zhang, J., Yao, F., Shi, L., Pangali Sharma, T.P., Zhang, 
+D., Cao, D., Zheng, M., Ahmed, N., Mohana, H.P., 2021. Deep
+learning for monitoring agricultural drought in South Asia using
+remote sensing data. Remote Sens. 13 (9), 1715. https://doi.org/ 
+10.3390/rs13091715. 
+Rani, A., Sehgal, V.K., Dhakar, P., Sahoo, D.C.R., Kaur, R., Manjaian,
+K., Marwaha, S., 2023. Spatio-temporal analysis of remote sensing
+based standardized evaporative drought index during kharif crop
+season over India. J. Agricult. Phys. 23 (1), 132–143. 
+Roushangar, K., Ghasempour, R., Nourani, V., 2022. Spatiotemporal 
+analysis of droughts over diﬀerent climate regions using hybrid
+clustering
+method.
+Water
+Res..
+Manag.
+1–16.
+https://doi.org/ 
+10.1007/s11269-021-02974-5. 
+Senapati, U., Das, T.K., 2024a. Geospatial assessment of agricultural 
+drought vulnerability using integrated three-dimensional model in the 
+upper Dwarakeshwar river basin in West Bengal, India. Environ.. Sci.
+Pollut. Res. 31, 54061–54088. https://doi.org/10.1007/s11356-022-
+23663-9. 
+Senapati, J., Das, T.K., 2024b. Delineation of potential alternative 
+agriculture region using RS and AHP-based GIS techniques in the
+drought prone upper Dwarakeswer river basin, West Bengal, India.
+Ecol. Model. 490. https://doi.org/10.1016/j.ecolmodel.2024.110650 
+110650. 
+Senapati, U., Dar, J., Maity, R., 2025a. A basin scale future projection of 
+drought characteristics using bias-corrected CMIP6 (MIROC6) model
+ensemble. J. Earth Syst. Sci. 134, 182. https://doi.org/10.1007/s12040-
+025-02632-z. 
+Senapati, 
+U., 
+Das, 
+U., 
+Das, 
+T.K., 
+2025b. 
+Spatio-temporal 
+scenario and farmers’ perceptions of agricultural drought in the 
+context of climate change in a Drought–Prone River Basin of India.
+J. Indian Soc. Remote Sens. https://doi.org/10.1007/s12524-025-
+02134-x. 
+Senapati, J., Das, T.K., 2025. Enhancing agricultural drought monitoring 
+with the Integrated Agricultural Drought Index (IADI): a multi-source
+remote sensing approach. Adv. Space Res. 75 (12), 8599–8626. https:// 
+doi.org/10.1016/j.asr.2025.04.021. 
+Sabziparvar, A., Movahedi, S., Asakereh, H., Maryanaji, Z., Masoodian, 
+S., 2015. Geographical factors aﬀecting variability of precipitation
+regime in Iran. Theoret. Appl. Climatol. 120 (1), 367–376. https://doi. 
+org/10.1007/s00704-014-1174-3. 
+Saravani, M.J., Noori, R., Jun, C., Kim, D., Bateni, S.M., Kianmehr, P., 
+Woolway, R.I., 2025. Predicting chlorophyll-a concentratio ns in the
+world’s largest lakes using Kolmogorov-Arnold networks. Environ..
+Sci.
+Technol.
+59
+(3),
+1801–1810.
+https://doi.org/10.1021/acs. 
+est.4c11113. 
+Saligheh, M., Sayadi, F., 2017. Summer precipitation determinant factors 
+of Iran’s South-East. Nat. Environ. Change 3 (1), 59–70. https://doi. 
+org/10.22059/jnec.2017.233128.66. 
+Salomonson, V.V., Barnes, W., Masuoka, E.J., 2006. Introduction to 
+MODIS and an overview of associated activities. In: Qu, J.J., Gao, W.,
+Kafatos, M., Murphy, R.E., Salomonson, V.V. (Eds.), Earth Science
+Satellite Remote Sensing. Spinger, Berlin, Heidelberg. https://doi.org/ 
+10.1007/978-3-540-37293-6_2. 
+Shahzaman, M., Zhu, W., Bilal, M., Habtemicheal, B.A., Mustafa, F., 
+Arshad, M., Ullah, I., Ishfaq, S., Iqbal, R., 2021. Remote sensing 
+indices for spatial monitoring of agricultural drought in South Asian 
+countries.
+Remote
+Sens.
+13
+(11),
+2059.
+https://doi.org/10.3390/ 
+rs13112059.
+
+
+M. Amiranipour et al.
+Advances in Space Research 77 (2026) 549–572
+Shamloo, N., Sattari, M.T., Apaydin, H., 2022. Agricultural drought 
+survey using MODIS-based image indices at the regional scale: case
+study of the Urmia Lake Basin, Iran. Theoret. Appl. Climatol. 149 (1),
+39–51. https://doi.org/10.1007/s00704-022-04023-6. 
+Shamshirband, S., Gocic´, M., Petkovic´, D., Javidnia, H., Ab Hamid, S.H., 
+Mansor, Z., Qasem, S.N., 2015. Clustering project management for
+drought regions determination: a case study in Serbia. Agricult. Forest
+Meteorol.
+200,
+57–65.
+https://doi.org/10.1016/j. 
+agrformet.2014.09.020. 
+Shamsi Anboohi, M., Noori, R., Badamian, M.R., Bateni, S.M., Xia, F., 
+Mahdian, M., Kianmehr, P., Tang, Q., 2025. Evolution of eutroph-
+ication in boreal lakes: results from a half-century of in situ Measure-
+ments. J. Hydrol. https://doi.org/10.1016/j.jhydrol.2025.134323. 
+Spinoni, J., Naumann, G., Carrao, H., Barbosa, P., Vogt, J., 2014. World 
+drought frequency, duration, and severity for 1951–2010. Int. J.
+Climatol. 34 (8), 2792–2804. https://doi.org/10.1002/joc.3875. 
+Sun, P., Liu, R., Yao, R., Shen, H., Bian, Y., 2023. Responses of 
+agricultural drought to meteorological drought under diﬀerent climatic
+zones and vegetation types. J. Hydrol. 619. https://doi.org/10.1016/j. 
+jhydrol.2023.129305 129305. 
+Tian, Y., Xu, Y.-P., Wang, G., 2018. Agricultural drought prediction 
+using climate indices based on support Vector
+Regression
+in
+Xiangjiang River basin. Sci. Total Environ. 622, 710–720. https:// 
+doi.org/10.1016/j.scitotenv.2017.12.025. 
+Vicente-Serrano, S.M., Beguerı´a, S., Lo´pez-Moreno, J.I., 2010. A multi-
+scalar drought index sensitive to global warming: the standardized
+precipitation evapotranspiration index. J. Climate 23 (7), 1696–1718.
+https://doi.org/10.1175/2009JCLI2909.1. 
+Vicente-Serrano, S.M., Lo´pez-Moreno, J.I., 2005. Hydrological response 
+to diﬀerent time scales of climatological drought: an evaluation of the 
+Standardized Precipitation Index in a mountainous Mediterranean
+basin. Hydrol. Earth Syst. Sci. 9 (5), 523–533. https://doi.org/10.5194/ 
+hess-9-523-2005. 
+Wang, F., Lai, H., Li, Y., Feng, K., Zhang, Z., Tian, Q., Zhu, X., 
+Yang, H., 2022. Dynamic variation of meteorological drought
+and its relationships with agricultural drought across China. Agricult.
+Water
+Manag.
+261.
+https://doi.org/10.1016/j.agwat.2021.107301 
+107301. 
+Waseem, M., Khurshid, T., Abbas, A., Ahmad, I., Javed, Z., 2022. Impact 
+of meteorological drought on agriculture production at diﬀerent scales
+in Punjab, Pakistan. J. Water Climate Change 13 (1), 113–124. https:// 
+doi.org/10.2166/wcc.2021.244. 
+572
+Wei, W., Zhang, J., Zhou, L., Xie, B., Zhou, J., Li, C., 2021. Comparative 
+evaluation of drought indices for monitoring drought based on remote
+sensing data. Environ.. Sci. Pollut. Res. 28, 20408–20425. https://doi. 
+org/10.1007/s11356-020-12120-0. 
+Wiwoho, B.S., Astuti, I.S., 2022. Runoﬀ observation in a tropical Brantas 
+watershed as observed from long-term globally available TerraClimate
+data 2001–2020. Geoenviron. Disast. 9 (1), 12. https://doi.org/10.1186/ 
+s40677-022-00214-5. 
+Xu, Z., Wu, Z., Shao, Q., He, H., Guo, X., 2023. From meteorological to 
+agricul tural drought: propagation time and probabilistic linkages. J.
+Hydrol.: Regional Stud. 46. https://doi.org/10.1016/j.ejrh.2023.101329 
+101329. 
+Yaghoobzadeh, M., Salehi Tabas, M., Akbari, D., Azarmi Atajan, F., 
+2023. Evaluation of SMDI drought index changes using data and
+scenarios of climate change model. Water Harvesting Res. 6 (1), 109–
+121. https://doi.org/10.22077/jwhr.2023.6956.1115. 
+Yang, P., Zhai, X., Huang, H., Zhang, Y., Zhu, Y., Shi, X., Zhou, L., Fu, 
+C., 2023. Association and driving factors of meteorological drought
+and agricultural drought in Ningxia, Northwest China. Atmos. Res.
+289. https://doi.org/10.1016/j.atmosres.2023.106753 106753. 
+Zambrano, F., Lillo-Saavedra, M., Verbist, K., Lagos, O., 2016. Sixteen 
+years of agricultural drought assessment of the BioBı´o region in Chile
+using a 250 m resolution Vegetation Condition Index (VCI). Remote
+Sens. (Basel) 8 (6), 530. https://doi.org/10.3390/rs8060530. 
+Zeng, J., Li, J., Lu, X., Wei, Z., Shangguan, W., Zhang, S., Dai, Y., 
+Zhang, S., 2022. Assessment of global meteorological, hydrological
+and agricultural drought under future warming based on CMIP6.
+Atmos.
+Oceanic
+Sci.
+Lett.
+15
+(1).
+https://doi.org/10.1016/j. 
+aosl.2021.100143 100143. 
+Zhang, H., Ding, J., Wang, Y., Zhou, D., Zhu, Q., 2021. Investigation 
+about the correlation and propagation among meteorologi cal, agri-
+cultural and groundwater droughts over humid and arid/semi-arid
+basins
+in
+China.
+J.
+Hydrol.
+603.
+https://doi.org/10.1016/j.jhy-
+drol.2021.127007 127007. 
+Zhang, L., Yao, Y., Bei, X., Jia, K., Zhang, X., Xie, X., Jiang, B., Shang, 
+K., Xu, J., Chen, X., 2019. Assessing the remotely sensed evaporative
+drought index for drought monitoring over Northeast China. Remote
+Sens. (Basel) 11 (17), 1960. https://doi.org/10.3390/rs11171960. 
+Zhao, J., Liu, Q., Lu, H., Wang, Z., Zhang, K., Wang, P., 2021. Future 
+droughts in China using the standardized precipitation evapotranspi-
+ration index (SPEI) under multi-spatial scal es. Nat. Hazards 109, 615–
+636. https://doi.org/10.1007/s11069-021-04851-1.

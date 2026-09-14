@@ -1,0 +1,1761 @@
+ORIGINAL RESEARCH
+Social Indicators Research (2026) 183:28
+https://doi.org/10.1007/s11205-026-03850-8
+Developing a Synthetic Socio-Economic Index through 
+Autoencoders: Evidence from Florence’s Suburban Areas
+Giulio Grossi1
+ · Emilia Rocco1
+Received: 7 July 2025 / Accepted: 10 April 2026 / Published online: 18 June 2026
+© The Author(s) 2026
+Abstract
+The interest in summarizing complex and multidimensional phenomena often related to 
+one or more specific sectors (social, economic, environmental, political, etc.) to make 
+them easily understandable even to non-experts is far from waning. A widely adopted ap­
+proach for this purpose is the use of composite indices, statistical measures that aggregate 
+multiple indicators into a single comprehensive measure. In this paper, we present a novel 
+methodology called AutoSynth, designed to condense potentially extensive datasets into a 
+single synthetic index or a hierarchy of such indices. AutoSynth leverages an Autoencoder, 
+a neural network technique, to represent a matrix of features in a lower-dimensional space. 
+Although this approach is not limited to the creation of a particular composite index and 
+can be applied broadly across various sectors, the motivation behind this work arises 
+from a real-world need. Specifically, we aim to assess the vulnerability of the Italian city 
+of Florence at the suburban level across three dimensions: economic, demographic, and 
+social. To demonstrate the methodology’s effectiveness, it is also applied to estimate a 
+vulnerability index using a rich, publicly available dataset on U.S. counties and validated 
+through a simulation study.
+Keywords  Composite indices · Multidimensional phenomena · Neural networks · 
+Nonlinear data reduction · Socioeconomic vulnerability · Suburban-scale monitoring
+1  Introduction
+A “synthetic index", sometimes also referred to as “composite", is typically defined in a 
+general sense as a statistical measure that combines multiple variables, often called indi­
+cators or elementary (or individual) indices, into a single, unified measure. This general 
+definition highlights that constructing a composite index involves a series of methodologi­
+	
+ Giulio Grossi
+giulio.grossi@unifi.it
+Emilia Rocco
+emilia.rocco@unifi.it
+1	
+Department of Statistics, Computer Science and Applications “G. Parenti”, University of 
+Florence, Viale Morgagni 59, 50134 Florence, Italy
+
+
+1 3
+28 
+Page 2 of 30
+G. Grossi, E. Rocco
+cal decisions beyond just the aggregation rule. Such choices should be grounded in a clear 
+conceptualisation of the phenomenon to be measured and followed by an assessment of the 
+index’s coherence and robustness relative to alternative measures of the same construct, 
+for instance, through comparisons of units’ rankings or other performance metrics, includ­
+ing the stress measure defined in a subsequent section. Consequently, the construction of 
+composite indices remains a subject of considerable interest and ongoing debate in statistics 
+and data analysis. Their widespread use reflects their capacity to summarise complex, mul­
+tidimensional, and non-directly observable phenomena, while also underscoring the signifi­
+cant methodological challenges they entail. By aggregating diverse indicators into a single 
+measure, they provide policymakers and the public with an effective tool for understanding 
+and monitoring complex, multidimensional phenomena, as well as for evaluating the effects 
+of policy decisions and interventions within such contexts. Moreover, they enable transpar­
+ent ranking of the units to which they refer, such as the geographical areas or other relevant 
+groups of individuals or entities, facilitating comparisons across different spatial and tempo­
+ral contexts as well as across additional explicitly defined settings. For these reasons, their 
+use spans various fields, ranging from social and economic to environmental and political 
+contexts. They have also been widely adopted by global institutions (e.g. the OECD, World 
+Bank, EU, etc.). The Human Development Index (HDI), the Environmental Performance 
+Index (EPI), the Better Life Index (BLI), the Measure of Economic Well-being (MEW), 
+the Global Competitiveness Index (GCI), the Gender Inequality Index(GII), the European 
+Quality of Government Index(EQGI) are only a few examples of composite indices each 
+tailored to a specific application field. Many other examples are in Bandura (2011), which 
+identifies over 400 official composite indices that rank or assess a country according to some 
+economic, political, social, or environmental measures.
+With the growth in availability of data at detailed territorial levels, the computation of 
+composite indices has progressively extended beyond national and regional boundaries. This 
+expansion includes smaller areas, such as municipalities and even sub-municipal zones.
+Regardless of the specific synthetic index, its scope, or the territorial level at which it 
+is applied, the construction of such an index is based on a data-reduction technique. There 
+are various examples of data-reduction techniques within the realm of synthetic indices, 
+see Mishra (2007); Krishnan (2010); Li et al. (2012); Kotzee and Reyers (2016) among 
+others. Most approaches are based on the use of more or less intricate averages, sometimes 
+weighted and/or even penalized. The goal of this contribution is to explore the application of 
+autoencoders as a means of dimensionality reduction for datasets comprised of elementary 
+indices. The fundamental aim is to distill essential features from a collection of observations 
+into a singular composite index. The idea of a data-driven composite index is not a novelty. 
+The use of such statistical models can be seen as a nonlinear extension of the construction 
+methods for synthetic indices based on the principal component analysis (PCA). Kramer 
+(1991) defines the autoencoders as a non-linear version of the PCA. Hence, through the use 
+of autoencoders, our goal is to create a data-driven synthetic index, the “AutoSynth Index" 
+that, by capturing nonlinear relationships within the data, provides a more accurate repre­
+sentation of the elementary indicators set.
+Although the suggested modus operandi is not tied to the construction of a specific com­
+posite index and can be employed in a general manner for constructing a synthetic index in 
+any sector, this work presents a specific case study. It focuses on defining a socio-economic 
+synthetic index to quantify and qualify the multifaceted vulnerabilities embedded within the 
+
+
+1 3
+Page 3 of 30 
+28
+Developing a Synthetic Socio-Economic Index through Autoencoders:…
+suburban areas of an Italian municipality, specifically Florence. This index, amalgamating 
+an array of socio-economic and demographic indicators, aims to unveil underlying patterns, 
+identify potential risk factors, and shed light on vulnerability thresholds that may undermine 
+the sustainable development and well-being of suburban communities. It seeks to provide 
+valuable insights for informed policies and interventions to enhance the resilience and pros­
+perity of Florence’s suburban areas.
+To demonstrate the AutoSynth Index’s functionality, it was also applied to estimate a 
+vulnerability index for U.S. counties, using the rich dataset provided by CDC (2019). Addi­
+tionally, a simulation study was conducted to explore its ability to reproduce the original 
+dimensions within a single feature space across different contexts.
+The remainder of the paper is structured as follows: Section 2 provides an overview of 
+the preliminaries on the construction of synthetic indices; Section 3 details the proposed 
+methodology; Section 4 presents the motivating case study; Section 5 demonstrates the 
+application of the methodology to estimate a vulnerability index using a large dataset on 
+U.S. counties, while Section 6 explores its performance across various simulated scenarios; 
+finally, Section 7 provides the concluding discussion.
+2  A Brief Overview of the Key Steps in Constructing a Composite Index
+Synthetic indices are derived from the aggregation of a set of indicators, each representing 
+a specific dimension of the phenomenon of interest. The undoubted advantage of comput­
+ing such indices, which stems from managing the complexity and multidimensionality of a 
+phenomenon (Mazziotta and Pareto, 2020), contrasts with what is considered the main limi­
+tation of their use. This limitation is the simplification, sometimes deemed excessive, of the 
+object of study, which is argued to inevitably lead to a significant loss of information. Fur­
+thermore, while the benefits of using synthetic indices are numerous, so too are the potential 
+errors if the basic and general guidelines that ensure the quality, accuracy, and reliability of 
+the results are ignored. For example, omitting an essential indicator can significantly impact 
+the comprehensive evaluation of the phenomenon of interest. Additionally, the choice of 
+aggregation method is crucial. These are the main considerations that have led some schol­
+ars to prefer the dashboards as an alternative analysis method for measuring complex reali­
+ties. Unlike a synthetic index, a dashboard does not condense the object of study into a 
+single dimension, allowing for the identification of various relevant dimensions. However, 
+it is also clear that this tool lacks the immediate communicative and interpretive capacities 
+that make it easily accessible to users. As noted by UNECE (2019), composite indicators 
+and dashboards are complementary tools, and the choice between them ultimately depends 
+on the user’s needs. One way to address the excessive synthesis of a synthetic index and the 
+insufficient synthesis of a dashboard is by using them together. For example, according to 
+Sachs et al. (2023) the SDG Index assesses each country’s overall performance on the 17 
+Sustainable Development Goals (SDGs), while the dashboard aids in identifying priorities 
+for further actions and indicates whether countries are on track or off track to achieve the 
+goals and targets by 2030. An in-depth comparison between the two analysis methods, as 
+well as an exhaustive review of the literature on synthetic indices, will not fall within the 
+scope of this work. However, before describing our approach to constructing a composite 
+index, it is important to briefly outline the main steps to be followed and the key method­
+
+
+1 3
+28 
+Page 4 of 30
+G. Grossi, E. Rocco
+ological choices to be considered in its development, without claiming to be exhaustive. 
+These steps are described in detail by the OECD (2008) and UNECE (2019), among others.
+According to OECD (2008), it is first necessary to define the theoretical framework. “A 
+theoretical framework should be developed to provide the basis for the selection and combi­
+nation of single indices into a meaningful composite index under a fitness-for-purpose prin­
+ciple." This process should clearly define the phenomenon of interest and its components, 
+while meaningfully involving experts and stakeholders to ensure the relevance and usefulness 
+of the composite index. A fundamental choice concerns the construct’s measurement model: 
+whether it should be specified as reflective or formative (Diamantopoulos, 2001; Fleuren et 
+al., 2018). In a formative specification, the indicators cause and define the latent variable, 
+each capturing a distinct facet of the construct; in a reflective specification, the latent construct 
+gives rise to correlated indicators as manifestations of the same underlying phenomenon. The 
+formative perspective is the most commonly adopted approach in the analysis of socio-eco­
+nomic phenomena and vulnerability (UNECE, 2019), where it is typically the socio-economic 
+determinants — income, demography, social cohesion — that drive the construct rather than 
+the other way around. This is accordingly the perspective adopted in the present work.
+The second step is data selection. The variables or elementary indices should be selected 
+on the basis of their analytical robustness, measurability, coverage for the territorial areas 
+of interest, relevance for the phenomenon to be measured and the relationship between 
+them. Data containing large measurement errors or numerous missing values can lead to 
+questionable results. Therefore, the selection of data must be based on a thorough analysis 
+of the data itself. Additionally, various methods for imputing missing data and for handling 
+extreme values should be considered. Moreover, in addition to carrying out preliminary 
+univariate analysis of the data, it is also necessary to perform a preliminary multivariate 
+analysis to examine the overall structure of the data. This includes checking for correla­
+tions and compensability among elementary indices, as well as identifying any redundancy 
+in the information. Compensability refers to the fact that a unit could compensate for the 
+loss in one dimension with a gain in another (Munda and Nardo, 2009; OECD, 2008). All 
+these preliminary data investigations are useful for providing insights that guide subsequent 
+methodological choices concerning weighting and aggregation methods. Normalisation is 
+also usually required before aggregating data, as the indicators in a dataset often have dif­
+ferent measurement units. Several normalization methods exist (Freudenberg, 2003; Jacobs 
+et al., 2004), among which the two most well-known are standardization (or z-scores trans­
+formation) and Min-Max normalization. Standardisation converts indicators to a common 
+scale by setting the mean at zero and the standard deviation at one. The Min-Max method 
+normalises indicators to a uniform range of [0, 1] by subtracting the minimum value and 
+dividing by the range of the indicator values.
+The selection of weights and the aggregation rule are interrelated. Weights can gener­
+ally be considered as coefficients that are attached to individual indices, indicating their 
+relative importance to each other. Their effect on the resulting synthetic index depends on 
+the adopted aggregation method. Most composite indicators rely on equal weighting or the 
+absence of weighting. As outlined in OECD (2008) and Greco et al. (2019) the two options 
+differ because if the indexes are grouped into a higher order category (e.g., a dimension) and 
+the weights are distributed equally among these dimensions, it does not necessarily imply 
+that the individual indexes within each dimension will receive equal weights. Several other 
+weighting techniques exist. Some are derived from statistical models, such as principal 
+
+
+1 3
+Page 5 of 30 
+28
+Developing a Synthetic Socio-Economic Index through Autoencoders:…
+component analysis or factor analysis, only to mention a few possible methods. Weights 
+may also be chosen to reflect the statistical quality of the data; for example, lower weighting 
+could be assigned to individual indexes with multiple cases of treated missing data. Some­
+times the weighting system is subjectively chosen by the developer of the specific synthetic 
+index. To make this choice less subjective, it may involve one or several stakeholders. For a 
+more detailed discussion of the weighting systems, we refer to Greco et al. (2019)
+The most commonly employed aggregation methods involve various combinations of 
+variables–linear, geometric, or multi-objective–ranging from the simple arithmetic mean 
+to more sophisticated formulas that may incorporate weighted and penalised components. 
+Among these methodologies, the Adjusted Mazziotta–Pareto Index (AMPI) stands out as 
+a non-compensatory composite index designed to measure multidimensional phenomena 
+where indicators are not fully substitutable. Originally developed to assess well-being, 
+AMPI remains a benchmark for evaluating sustainable and equitable well-being (BES) in 
+Italy. Due to its application and inherent properties, it is considered in this work as a poten­
+tial alternative for comparison with the AutoSynth index proposed herein, which is based 
+on a different aggregation approach utilising a data reduction technique. Such techniques, 
+notably PCA, are employed to construct synthetic indices by reducing the dimensionality of 
+the data while preserving as much variability as possible. For various applications of data 
+reduction techniques in the realm of synthetic indices, refer to studies by Mishra (2007); 
+Krishnan (2010); Li et al. (2012); Kotzee and Reyers (2016), among others.
+2.1  Mazziotta-Pareto Index
+In this section, we aim to provide a brief description of the AMPI construction process, refer­
+ring to Mazziotta and Pareto (2018) for further details. For the construction of the AMPI 
+index, the first step involves normalising the variables under study. This process transforms 
+the non scaled data matrix, i n line-eq-IEq1 (where i n li n e - e q-IEq2 indexes the units and i n li n e - e q-IEq3 
+the elementary indices), into a scaled matrix i n line-eq-IEq4 using the following formula:
+	
+dis p
+l
+ay- e q-Equ1
+
+(1)
+In this equation, inline-eq-IEq5 and inline-eq-IEq6 represent the minimum and maximum values of 
+the variable inline-eq-IEq7, serving as the "goalposts" for normalisation. This transformation rescales 
+the original data to a range between 70 and 130, centering the normalized indicators around 
+100. The choice of these values (60 and 70) is arbitrary but does not affect the ranking of 
+the units and it is already established in the literature by convention. The values inline-eq-IEq8 
+and inline-eq-IEq9 are referred to as “goalposts," representing the minimum and maximum refer­
+ence values. These goalposts can be theoretical (e.g., the unemployment rate cannot exceed 
+inline-eq-IEq10 or fall below inline-eq-IEq11) or derived from observed data (e.g., the maximum unemployment 
+rate observed in the sample was inline-eq-IEq12). To incorporate variables that have an “opposite" 
+polarity relative to the phenomenon of interest, the variable is first normalized as previously 
+described, and then its complement to 200 is calculated. The third step in constructing the 
+index involves aggregating the normalised variables into a composite indicator as follows:
+	
+displ
+a y -e q -Equ2
+(2)
+
+
+1 3
+28 
+Page 6 of 30
+G. Grossi, E. Rocco
+where inline-eq-IEq13 is the arithmetic mean of the elementary indicators, inline-eq-IEq14 is the standard deviation for 
+unit i and inline-eq-IEq15 is the coefficient of variation for unit i .
+The choice of the operator’s sign in Eq. 2 depends on the nature of the phenomenon 
+being represented. For positive phenomena, such as economic development, the subtraction 
+operator is used. Conversely, for negative phenomena, like social vulnerability, the addition 
+operator is appropriate. This approach penalizes units exhibiting high variability among 
+indicators, ensuring that the index reflects a balanced performance across all considered 
+dimensions.
+3  Constructing Synthetic Indicators using Autoencoders
+Our approach aims to develop synthetic indices by employing autoencoders to reduce the 
+dimensionality of datasets comprising numerous elementary indices. According to Bank et 
+al. (2023), “an autoencoder is a type of algorithm with the primary purpose of learning an 
+informative representation of the data that can be used for different applications by learning 
+to reconstruct a set of input observations well enough".
+While various data reduction techniques have been applied in the realm of synthetic indi­
+ces, such as those by Mishra (2007); Krishnan (2010); Li et al. (2012); Kotzee and Reyers 
+(2016)–these are typically linear methods. Unlike linear techniques like PCA, autoencoders 
+can capture complex, non-linear relationships within the data, allowing for more nuanced 
+feature extraction. Autoencoders, firstly proposed by Rumelhart et al. (1986), serve as a 
+nonlinear alternative to PCA, as defined by Kramer (1991).
+It is worth noting that autoencoders are not the only nonlinear extension of PCA available 
+in the literature. A well-established family of methods originates from the optimal scal­
+ing framework (De Leeuw, 2009; Gifi, 1990). Categorical Principal Component Analysis 
+(CATPCA, also known as PRINCALS) extends classical PCA by simultaneously estimat­
+ing nonlinear transformations of individual variables and the principal component solu­
+tion, using an Alternating Least Squares algorithm (Linting and van der Kooij, 2012). 
+Since the transformations are optimised jointly with respect to the PCA criterion, CATPCA 
+can effectively capture nonlinear relationships between variables — but only insofar as 
+these can be linearised through univariate transformations. The resulting model is addi­
+tive: the latent dimension is a linear combination of nonlinearly transformed variables, i.e. 
+i n l
+i ne-eq-IEq16, which precludes the representation of interaction effects across indica­
+tors. CATPCA is particularly suited to mixed-scale data (nominal, ordinal, numerical), a 
+setting common in survey-based index construction (Comim and Amaral, 2013; Saukani 
+and Ismail, 2019). A further generalisation is OVERALS (van der Burg et al., 1988), which 
+partitions variables into predefined sets and maximises homogeneity across them — a struc­
+ture conceptually akin to the sequential aggregation described in Section 3.3.
+Autoencoders differ in that nonlinearity is embedded directly in the reduction model: the 
+encoder maps the entire input vector through compositions of activation functions across 
+hidden layers, yielding a latent representation i n line- e q - I Eq17 that can capture arbi­
+trary nonlinear interactions among indicators, not only additive effects of individual trans­
+formations. In this sense, autoencoders generalise the optimal scaling approach rather than 
+merely offering an alternative to it.
+
+
+1 3
+Page 7 of 30 
+28
+Developing a Synthetic Socio-Economic Index through Autoencoders:…
+Autoencoders are neural network architectures designed to learn efficient representations 
+of data by reconstructing the original input matrix inline-eq-IEq18, while constraining the encoding to 
+a lower-dimensional subspace. The input matrix inline-eq-IEq19 has dimensions i n line-eq-IEq20, where N rep­
+resents the number of observations and p denotes the number of features (or elementary 
+indicators) in the dataset. The objective is to extract a compressed representation that retains 
+the most relevant information. The target vector inline-eq-IEq21 , a i n line-eq-IEq22 vector, represents the essential 
+output or label associated with the observations. Autoencoders are particularly useful for 
+identifying and learning the most significant features from high-dimensional data, making 
+them powerful tools for dimensionality reduction and unsupervised learning in the context 
+of neural networks. An autoencoder comprises two primary components: an encoder and a 
+decoder. The encoder function inline-eq-IEq23 compresses the input data inline-eq-IEq24 into the lower-dimensional 
+latent representation inline-eq-IEq25 , such that in l ine-eq-IEq26, capturing the most salient features. Subse­
+quently, the decoder function inline-eq-IEq27 endeavours to reconstruct the original input from this com­
+pressed form, yielding i
+n l in e- eq-IEq28. Consequently, the overall transformation is represented 
+as i
+n l ine-eq-IEq29.
+	
+display-
+eq - Equ3
+
+(3)
+where W is a set of activation weights, b is a bias vector and inline-eq-IEq30 is a proper activation func­
+tion. This process enables the model to learn efficient codings of the data in an unsupervised 
+manner, making autoencoders particularly suitable for dimensionality reduction tasks. For a 
+more detailed description, refer to LeCun et al. (2015). We provide additional explanations 
+for our modelling choices in Section 3.1.
+Central to the autoencoder architecture is the optimisation of a specific objective func­
+tion. This function aims to minimise the discrepancy between the original input matrix inline-eq-IEq31 
+and the reconstructed output i
+nline-eq-IEq32. The distance metric inli n
+e-eq-IEq33 quantifies this discrepancy. 
+The optimisation target is formally articulated as:
+	
+displa
+y-e
+q- E qu4
+
+(4)
+See Fig. 1 for a graphical representation of the autoencoder architecture.
+The choice of the metric distance inli n
+e-eq-IEq34 can affect the results and thus its choice 
+should be handled with care. In our work, we refer to the term distance as Euclidean dis­
+tance, which is a baseline choice. Other distance measures are possible, think for instance to 
+fuzzy distance measures, but we leave the discussion of composite index based on different 
+metrics to future work. Additionally, it is necessary to choose a proper activation function 
+for the nodes of the neural network. To grasp the nonlinearities that could be present in the 
+dataset, we opt for a Rectified Linear (ReLu) activation function throughout this work.
+	
+display- e q-Equ8
+As underlined by Michelucci (2022), ReLu function is particularly suitable when the values 
+in the dataset inline-eq-IEq35 are in the very majority positive, this is usually the case of indicators in 
+social research, that can be normalized but usually in a positive range, see for instance the 
+
+
+1 3
+28 
+Page 8 of 30
+G. Grossi, E. Rocco
+normalization proposed by Mazziotta and Pareto (2018), that spans between 70 and 130. 
+We tested other nonlinear options (logistic activation, hyperbolic tangent), but we find the 
+most promising results with ReLu. For an in-depth discussion on the choice of activation 
+functions in autoencoders, see also Klopries (2023).
+Five additional considerations regarding the use of autoencoders for constructing syn­
+thetic indices include: the potential incorporation of input weights; the interpretation of 
+Indicator relevance; the hierarchical organization of more synthetic indices; the issue of the 
+index’s polarity not definable a priori and finally, defining a criterion to assess AutoSynth’s 
+performance relative to other aggregation methods
+3.1  Input Weights
+Researchers might occasionally prefer to define a set of initial weights proactively, rather 
+than allowing the autoencoder to determine weights from the data. This approach is par­
+ticularly relevant when aiming to accurately depict phenomena where specific elementary 
+indices require distinct weighting relative to others. Such scenarios align with the principles 
+of synthetic index construction utilizing weighted averages, where expert knowledge influ­
+ences the initial weight assignment. Notice that in Eq. 3, a set of weights is present. The 
+vector W represents the coefficients applied to the consecutive combination of the set of 
+elementary indices inline-eq-IEq36 through the layers. In practice, we can emphasize the importance 
+of some elementary indices in the reconstruction of the output by specifying a set of input 
+weights that weigh in an asymmetric way the indicators used in the autoencoder. This speci­
+fication is very important when the researcher has the availability of prior information about 
+the relative importance of the indicators used to construct the synthetic index. In particular, 
+this allows us to derive an informed representation of the latent phenomena, which is dif­
+ferent from the representation that we could get if we have no prior information about the 
+importance of elementary indices. On the other hand, a specification of the set of weights 
+that is too unbalanced, or narrow, associated with an autoencoder architecture not flex­
+ible enough, could lead towards representations of the latent phenomena that are biased or 
+imprecise. It is worth noticing that the use of input weights resembles the use of weights in 
+the construction of synthetic indices with the common usage methods, in which the expert 
+Fig. 1  Basic scheme of autoencoders. In this application, inputs will be indicators of socio-economic 
+development, while the code will be the synthetic indicator
+ 
+
+
+1 3
+Page 9 of 30 
+28
+Developing a Synthetic Socio-Economic Index through Autoencoders:…
+has control (and responsibility) over the set of weights and, intrinsically, over the output 
+of the analysis. From this perspective, this procedure within the Autosynth represents an 
+advancement, as we incorporate the expert knowledge with the nonlinear data compression 
+through the autoencoder. In this work, we remain agnostic with respect to the input weights, 
+setting all of them equal to one, and with respect to the bias vector b, setting it equal to zero. 
+However, different specifications are possible, but it is not our primary focus to treat them 
+here, as their specification are case specific.
+3.2  Post-Estimation Indicators Relevance
+On a different perspective, it is possible to extract the posterior importance of an elementary 
+index, namely, how much the indicator is affecting the synthetic index. Here, we propose 
+to estimate these Indicator relevance by estimating the reconstruction error associated with 
+each indicator employed. By examining these errors, we assess each indicator’s relative 
+weight and potential disproportionate influence due to correlation structures, refining the 
+indicator set for the synthetic index construction. The process of calculating the reconstruc­
+tion error is as follows:
+	
+di s p
+l
+a
+y
+-eq
+-Equ 5
+
+(5)
+Where i
+nline-eq-IEq37 is the indicator matrix reconstructed through the encoder and decoder function, 
+as in Eq. 3.
+3.3  Sequential Autoencoders
+The utilisation of synthetic indices is particularly vital for aggregating elementary indi­
+ces across various domains. In such cases, a bifurcated approach to aggregation is highly 
+effective. Initially, variables within identical domains are merged–for example, combin­
+ing all indicators related to economic vulnerability into a single economic vulnerability 
+index. Following this, the second phase involves the consolidation of vulnerability indi­
+ces from distinct domains. This idea is equally applicable to the Autosynth tool, where 
+we could institute a hierarchical aggregation process. Initially, variables within the same 
+domain are aggregated, and subsequently, variables across different domains are merged. 
+This hierarchical structure facilitates the derivation of intermediate-level indices, allowing 
+for an in-depth analysis not just at the synthetic index level, which represents the overall 
+issue, but also within more separate domains. Moreover, it’s crucial to acknowledge that 
+computational costs can escalate with a significant volume of observations, particularly 
+when numerous elementary indices are involved. Therefore, segmenting the aggregation 
+process into two distinct phases not only offers methodological benefits but also enhances 
+calculus’s efficiency. This hierarchical aggregation strategy bears a structural resemblance 
+to the set-based approach of OVERALS (van der Burg et al., 1988), where variables are 
+likewise grouped into substantive domains and aggregated in stages. The key difference is 
+
+
+1 3
+28 
+Page 10 of 30
+G. Grossi, E. Rocco
+that OVERALS is constrained to maximise linear canonical correlations between sets of 
+transformed variables, whereas sequential autoencoders can capture nonlinear cross-domain 
+interactions through the composition of encoding functions.
+3.4  Polarity
+Since autoencoders project the encoded representation of the data matrix inline-eq-IEq38 into a latent 
+subspace, the resulting values may differ in scale and even in ordering compared to the 
+original data. As a consequence, the direction of the resulting index is not necessarily pre­
+served. This situation can compromise the interpretability of the index, as its polarity is not 
+defined a priori (Mazziotta and Pareto, 2013), namely whether higher values represent a 
+desirable or undesirable phenomenon. Therefore, the results obtained through aggregation 
+with Autosynth, similarly to those from PCA) are not directly interpretable. To address 
+this issue, the researcher can rely on domain expertise to assess whether the polarity of the 
+latent dimension is consistent with expectations or alternatively, use an external synthetic 
+index as a reference for interpretation. In this work, we adopt the synthetic index derived 
+from the AMPI methodology as a compass: if the unit with the highest AMPI score does 
+not fall within the first quartile of the Autosynth-based index, we invert the polarity of the 
+Autosynth index.
+3.5  Measuring Autosynth Performances
+To evaluate Autosynth’s performance, we assess two criteria: (i) the consistency of its results 
+with those obtained from alternative indices–particularly in terms of unit rankings–and (ii) a 
+stress measure, which quantifies how well the low-dimensional representation preserves the 
+original distances between observations in the original dimension, and consequently how 
+accurately it reflects the relationships among units.
+For the first evaluation criterion, we selected two benchmark indices: the AMPI and a 
+PCA-based index. AMPI is a non-compensatory synthetic measure constructed by aggregat­
+ing elementary indicators and is widely used in Italy to summarise multivariate phenomena 
+similar to our motivating case study. The PCA-based index was chosen because, like Auto­
+Synth, it reduces data dimensionality while retaining maximal variance, thus serving as the 
+linear counterpart to our proposed method.
+Concerning the second criterion, we employ the two-dimensional stress measures intro­
+duced by Kruskal (1964), as represented in Eq. 6.
+	
+d i
+s
+p
+l
+a
+y-
+eq-Equ6
+
+(6)
+Here, inline-eq-IEq39 represents the Euclidean distances between units i and j in the matrix of elemen­
+tary indicators inline-eq-IEq40 as inl i
+ne-
+eq
+-IEq4
+1
+, while inline-eq-IEq42 denotes the Euclidean distances 
+between the same units in the synthetic index inline-eq-IEq43 as i
+nli n
+e
+-eq- I Eq44 . By construction, the 
+stress measure will lie between 0 and 1, and lower values for the index represent a better 
+representation of the original outcome.
+
+
+1 3
+Page 11 of 30 
+28
+Developing a Synthetic Socio-Economic Index through Autoencoders:…
+4  Assessing Vulnerability in Florence
+In this section, we present the case study that inspired our research: the development of a 
+Socio-Economic and Demographic vulnerability Index (SEDI) specifically designed for the 
+Florentine suburbs.
+Cities across the globe are undergoing rapid transformations driven by urbanization 
+and societal shifts. These dynamics create a complex interplay between social, economic, 
+and demographic factors, posing significant challenges for researchers, policymakers, and 
+urban planners. The historic city of Florence, Italy, provides a compelling case study for 
+examining these global trends. Despite its world-renowned cultural heritage, Florence is not 
+immune to the challenges of urban evolution. The city’s evolving social fabric has led to 
+significant disparities in residents’ living conditions, particularly within its suburban areas, 
+raising the need for careful analysis and strategic solutions to ensure the well-being of all 
+Florentine residents. A powerful approach to shed light on these complexities lies in the con­
+struction and evaluation of a Socio-Economic and Demographic vulnerability Index (SEDI) 
+at the suburban level. This study proposes the development of such an index specifically 
+tailored to the Florentine suburbs. The SEDI will integrate a range of socio-economic and 
+demographic indicators to quantify and qualify the multifaceted vulnerabilities within these 
+communities. This will be achieved by employing the proposed autoencoder-based aggre­
+gation method described in the previous section. This analysis aims to identify risk factors 
+that may hinder sustainable growth and diminish the quality of life for residents. The SEDI 
+will define critical vulnerability thresholds, supporting policymakers with essential data to 
+design targeted interventions. By highlighting the specific vulnerabilities of Florence’s sub­
+urban areas, the SEDI will guide the creation of tailored policies and measures aimed at 
+strengthening social cohesion, enhancing economic opportunities, and improving overall 
+community well-being. In doing so, the proposal will lay the foundation for more sustain­
+able and equitable urban development in Florence.
+4.1  Three Pillars for Vulnerability
+Urban vulnerability has been operationalised along three main lineages (Romero-Lankao 
+and Qin, 2011): a natural hazards approach, centred on exposure to environmental threats; 
+an inherent vulnerability perspective, emphasising the socioeconomic, demographic, and 
+institutional conditions that constrain coping capacity; and a resilience perspective, fram­
+ing cities as coupled human–environment systems. Each lineage implies a different domain 
+structure. The CDC/ATSDR Social Vulnerability Index (Flanagan et al., 2011), for instance, 
+groups 16 census variables into four themes — socioeconomic status, household composi­
+tion and disability, minority status, and housing type and transportation — to support disas­
+ter preparedness, while broader frameworks such as the Social–Ecological–Technological 
+Systems approach (McPhearson et al., 2016) further integrate ecological and infrastructural 
+dimensions.
+The SEDI index proposed in this work is positioned within the inherent vulnerability 
+tradition, with a specific focus on socioeconomic and demographic conditions at the sub-
+municipal scale. The choice of three domains — economic, demographic, and social — fol­
+lows the established framework for sub-municipal vulnerability assessment in Italy, adopted 
+in comparable studies for Bologna (Città metropolitana di Bologna, 2022), Naples (Città 
+
+
+1 3
+28 
+Page 12 of 30
+G. Grossi, E. Rocco
+metropolitana di Napoli, 2022), and other Italian municipalities (Busetta and Milito, 2010; 
+Davino et al., 2021; Tronu, 2020). This tradition is oriented towards informing local social 
+policy and urban planning rather than assessing exposure to environmental hazards.
+One of the primary objectives of public policy is to address vulnerabilities within the 
+population. Developing tools to support this goal is an evolving focus within the fields 
+of social statistics and public policy, as highlighted by Saisana and Philippas (2012) and 
+Khan (1991). In recent years, a substantial body of research has emerged, focusing on the 
+measurement of these intricate concepts, resulting in the development of a wide range of 
+synthetic indicators. Following previous works on the socio-economic and demographic 
+vulnerability in Italy (Busetta and Milito, 2010; Tronu, 2020), even at sub-municipal level, 
+both in Italy (Città metropolitana di Bologna, 2022; Città metropolitana di Napoli, 2022; 
+Davino et al., 2021), and in Europe (Martínez et al., 2024; von Szombathely et al., 2023), we 
+adopt a theoretical framework based on three sub-pillars for SEDI: economic vulnerability, 
+demographic vulnerability and social vulnerability.
+The study of demographics in evaluating a territory’s vulnerability is grounded in assess­
+ing the population’s needs within its social context. Specifically, we can identify at least 
+three major demographic factors that can be interpreted as precursors of vulnerability for a 
+social environment: ageing population, low birth rate and depopulation. The gradual ageing 
+of the population is a well-known phenomenon that is transforming the social and economic 
+landscape of the 21st century (Christensen et al., 2009), placing increasing pressure on 
+policymakers to enhance healthcare services and improve the living conditions of older 
+adults (Skouby et al., 2014). The evolution of Italian demographics, in particular, suggests 
+that this is a central theme for the planning and management of a territory (Reynaud and 
+Miccoli, 2019). Consequently, identifying areas of the city most at risk due to population 
+aging is essential for designing targeted interventions and ensuring the provision of facilities 
+that adequately respond to this demographic challenge. The second dimension representing 
+a demographic challenge is the low birth rate, as highlighted by Billari and Kohler (2004). 
+Previous analyses conducted in other metropolitan areas and several ISTAT reports have 
+highlighted the vulnerability associated with the imbalance between births and deaths, with 
+particular emphasis on low birth rates. Consequently, we adopt the “natural balance" as 
+an indicator to capture this specific demographic dimension. The third factor indicative of 
+demographic vulnerability is the depopulation of certain areas. This phenomenon becomes 
+particularly evident in studies involving comparisons between municipal areas, where dis­
+parities between urban centers and inland regions highlight the trend towards depopulation 
+(Pinilla et al., 2008; Vendemmia et al., 2021). At the sub-municipal level, the effects of 
+depopulation are likely less pronounced, but nonetheless significant. The deterioration of 
+the social cohesion of a neighborhood can push people to move away from it and to relo­
+cate to more attractive residential areas, consequently, the decrease in population in an area 
+not due to the natural balance can be interpreted as a loss of attractiveness of the area and 
+regarded as a sign of vulnerability.
+Focusing on the economic aspects, we identify the relative poverty indicator and the 
+indicator of insufficient capital accumulation, proxied by the share of citizens paying rent, 
+as major sources of vulnerability. The relationship between poverty and vulnerability is 
+well documented in the literature (Adger, 2014; Coulthard et al., 2018; Staveren et al., 
+2014), with higher vulnerability typically observed in economically disadvantaged areas. 
+Beyond income-based measures, we include the share of renters as a proxy for long-term 
+
+
+1 3
+Page 13 of 30 
+28
+Developing a Synthetic Socio-Economic Index through Autoencoders:…
+asset deprivation. In the Italian institutional context, where the homeownership rate exceeds 
+74%, real-estate property constitutes the primary vehicle for household wealth accumula­
+tion and intergenerational transfer (Ferrante et al., 2021; Guiso and Jappelli, 2002). At the 
+area level, a high share of renters therefore signals lower aggregate capital accumulation, 
+capturing a complementary dimension of economic vulnerability that current income alone 
+does not reflect. We note that direct measures of household wealth are not available at the 
+sub-municipal level in Italy, making housing tenure the best available proxy at this territo­
+rial granularity. Additionally, we include median individual and median family income, as 
+lower income levels are consistently associated with reduced coping capacity and height­
+ened vulnerability at the area level (Cutter et al., 2003; Davino et al., 2021).
+To capture social vulnerability, we employ a set of variables, among which the presence 
+of elderly residents living alone emerged as a key indicator, given their often greater need 
+for health and social care (Golden et al., 2009; Roh and Weon, 2022; Victor et al., 2000). 
+Additionally, we consider the vulnerability of minors in single-parent households, who may 
+require greater social protection and assistance (Bianchi, 2014; Bianchi and Milkie, 2010). 
+Minors from foreign-origin families are also included, given the potential challenges they 
+face in integrating into Florentine schools and the broader social fabric (Bloemraad et al., 
+2023; Scardigno, 2019). Moreover, drawing on prior research (Davino et al., 2021), we 
+assume that higher levels of educational attainment are associated with lower social vul­
+nerability, insofar as they enhance resilience at both the individual and community levels. 
+Accordingly, we include the percentage of graduates residing in each area as an indica­
+tor. Finally, the proportion of vacant housing units is incorporated as a proxy for potential 
+neighborhood abandonment, a condition frequently linked to increased social vulnerability.
+The interplay across these dimensions is documented in the literature: for instance, it 
+has been observed premature aging across lower income classes in Steptoe and Zaninotto 
+(2020), or correlations across depressed areas with sizable integration issues (Chakraborty 
+et al., 2020; Majid et al., 2020).
+A comprehensive vulnerability framework would ideally encompass additional dimen­
+sions beyond the three considered here. A health dimension — hospitalisation rates, chronic 
+disease prevalence, access to healthcare — is well established in the social determinants 
+literature (Cutter et al., 2003; Flanagan et al., 2011; Khazanchi et al., 2020). An ecologi­
+cal dimension — urban heat islands, flood risk, air quality, green space — is central to the 
+environmental vulnerability tradition (Romero-Lankao and Qin, 2011). A cultural dimen­
+sion — access to cultural services, community participation — would further capture social 
+cohesion and collective resilience. However, none of these indicators are currently available 
+at the sub-municipal level in Italy from the administrative sources employed here, and the 
+three domains retained for the SEDI represent the best feasible operationalization at the 
+required territorial granularity.
+4.2  The Data
+Almost all the indicators mentioned in Section 4.1 are based on data collected during 2021. 
+Demographic and social indicators are sourced from the Civil Registry of Florence while 
+economic indicators are provided by the Italian Revenue Agency (Agenzia delle Entrate - 
+AdE) and further elaborated by the Municipality of Florence. The only indicators not refer­
+ring to the year 2021 are the percentage of graduates and the percentage of unused dwellings 
+
+
+1 3
+28 
+Page 14 of 30
+G. Grossi, E. Rocco
+that are derived from the 2011 census. Table 1 presents the main descriptive statistics related 
+to all elementary indices considered along with their respective sources.
+As units of observation, we assume the i n line-eq-IEq46 suburban units into which the area of 
+Florence is partitioned. These units represent a middle-level aggregation between the census 
+areas and the broader administrative districts of Florence, which would be too large for the 
+scope of this study. Even if these units stem from administrative sources, they represent 
+homogeneous partitions of the city, particularly relevant for our purposes. Two of them 
+were excluded from the analysis, as their population is too scarce to have reliable estimates 
+(under 100 inhabitants).
+Table 1  Descriptive statistics of the elementary indexes – Mean, standard deviation, minimum, maximum, 
+median, first and third quantile
+Domain
+El­
+ementary 
+Index
+Mean
+st.dev.
+Min
+25%
+50%
+75%
+Max
+Source
+Demography
+% Over 
+80
+9.600
+2.085
+1.261
+8.420
+9.680
+10.964
+15.028
+Fl. civil 
+registry
+inline-eq-IEq45 
+population
+−2.867
+3.471
+−11.337
+−4.430
+−2.942
+−1.563
+16.098
+Fl. civil 
+registry
+Natural 
+Balance
+−29.310
+21.070
+−94.200
+−40.900
+−26.600
+−14.850
+4.000
+Fl. civil 
+registry
+Social
+% 
+Over65 
+living 
+alone
+9.210
+1.733
+0.840
+8.262
+9.500
+10.083
+12.973
+Fl. civil 
+registry
+% 
+Under18 
+foreigners
+16.279
+8.277
+2.308
+10.586
+14.529
+19.657
+39.159
+Fl. civil 
+registry
+% Under 
+18 – 
+Single 
+parent
+42.580
+5.720
+18.520
+39.110
+42.180
+44.920
+64.780
+Fl. civil 
+registry
+% 
+Unused 
+dwellings
+3.578
+2.737
+0.271
+1.684
+2.976
+4.647
+14.506
+2011 
+Census
+% 
+Graduated
+37.490
+10.445
+14.800
+30.460
+38.170
+46.330
+57.080
+2011 
+Census
+% Pop. 
+circulation
+1.613
+2.099
+2.917
+3.275
+3.585
+3.928
+15.918
+Fl. civil 
+registry
+Economic
+% people 
+under 
+poverty 
+line
+32.970
+3.751
+21.170
+30.660
+32.700
+34.710
+42.880
+AdE
+% rents
+20.628
+6.721
+8.092
+15.711
+19.269
+25.226
+37.841
+2011 
+Census
+Median 
+Income 
+(indi­
+vidual)
+20801
+2207
+16164
+19340
+20564
+21622
+29048
+AdE
+Median 
+Income 
+(family)
+28979
+4255
+19984
+26280
+28268
+30919
+47774
+AdE
+
+
+1 3
+Page 15 of 30 
+28
+Developing a Synthetic Socio-Economic Index through Autoencoders:…
+4.3  Results
+In this section, we present the estimation and discussion of SEDI index using the Autosynth 
+methodology for the suburban Florentine case study. It is worth noting that we first scale the 
+original outcome using the formula described in Eq. 1, and then we applied the Autosynth 
+to this dataset, by specifying equal weights W and bias vector i n line-eq-IEq47.
+The analysis of the results presented in Fig. 2, allows us to evaluate the performance of 
+the SEDI in capturing the latent vulnerability across the sub-municipal areas of Florence 
+and to compare it with the two reference indices: AMPI and the PCA-based index. As speci­
+fied in the previous sections, while PCA and AMPI do not allow for an uncertainty evalua­
+tion, Autosynth is an inherently stochastic methodology and thus, we obtain a distribution of 
+results by iterating 500 times the calculation. Here we report the median of the distribution 
+of results. Discussion of the results is based on the SEDI index we got from Autosynth, as 
+PCA and AMPI are reported only for comparative purposes (Table 2).
+A visual examination of the results reveals that the areas exhibiting the greatest vulner­
+ability are the historic city center and the western parts of Florence, see Table 3. On the 
+other hand, the least vulnerable areas are located in the eastern suburbs and in the south 
+area, which is a worldly known area for the beauty of the landscape, as depicted in Table 3. 
+These findings are consistent with previous analyses conducted on the same case study by 
+Dugheri et al. (2023).
+It may seem counterintuitive that one of the areas facing the most significant socio-eco­
+nomic and demographic challenges is the historic center, a UNESCO World Heritage Site 
+known worldwide. However, one must consider the gentrification that has occurred in this 
+area: alongside historic residences, there are older and more affordable apartments, often 
+inhabited by students or immigrants who cannot afford renovated housing. Additionally, the 
+historic center has, in recent years, experienced widespread conversion of many apartments 
+into Airbnbs rentals, reducing the number of dwellings available to permanent residents.
+Another area that emerges as more fragile is West Florence. This area has exhibited 
+systemic vulnerabilities for years, being on average one of the areas with the lowest median 
+income in the city. However, unlike the historic center–which is characterized by significant 
+economic disparities–West Florence presents a more uniform profile, with widespread chal­
+lenges but fewer instances of social marginalization (Fig. 3).
+By comparing the results from the three methods, we observe that all the methods pro­
+duce reasonably similar estimates. In particular, Autosynth and PCA produce very similar 
+estimates, leading to similar conclusions over composite vulnerability in Florence. This 
+results is confirmed both in the absolute values of the index, which are similar, but most and 
+Fig. 2  AMPI, PCA and AutoSynth vulnerability Index for Florence, normed data
+ 
+
+
+1 3
+28 
+Page 16 of 30
+G. Grossi, E. Rocco
+more importantly in the ranks across the sub-municipal areas, which are a crucial point in 
+the analysis of the composite indicators.
+This is not unexpected, as both techniques aim to reduce information from a multidimen­
+sional space to a one-dimensional one. In contrast, the results obtained through the AMPI 
+differ noticeably in the absolute values of the vulnerability index. Despite this discrep­
+ancy, the ranking of the sub-municipal areas remains quite similar across all three methods. 
+Figure 4 shows that the majority of autosynth samples have a lower stress with respect to the 
+alternative methods. We conclude that the ordering provided by the SEDI index is not particu­
+larly sensitive to the chosen aggregation method, but that AutoSynth offers better performance 
+in reproducing the original information.
+Table 3  Most and least vulnerable areas in Florence, ranked according the autosynth index
+Most vulnerable areas
+Least vulnerable areas
+AMPI
+AutoSynth PCA
+AMPI
+AutoSynth PCA
+Aeroporto
+87.80
+114.12
+60.00
+Calatafimi
+97.01
+60.00
+102.00
+S. Jacopino
+100.01
+114.94
+119.97
+Bagnese - Fiume Greve
+97.24
+71.83
+100.75
+Peretola
+108.76
+115.78
+119.67
+Libertà - Fortezza
+96.15
+75.33
+92.60
+Novoli - Lippi
+106.84
+116.46
+117.07
+Cure
+99.38
+77.03
+96.02
+Mercato Centrale
+117.70
+123.29
+122.96
+S. Gervasio
+90.38
+79.32
+80.43
+Coverciano
+105.05
+130.00
+124.76
+Torre del Gallo
+92.45
+79.97
+75.23
+Fig. 3  Rank statistics for the AMPI, PCA and AutoSynth vulnerability Index for Florence, normed data
+ 
+Elementary Index
+Input weights
+Indicator relevance
+% Over 80
+0.08
+0.07
+inline-eq-IEq48 population
+0.08
+0.04
+Natural Balance
+0.08
+0.07
+% Over65 living alone
+0.08
+0.09
+% Under18 foreigners
+0.08
+0.06
+% Under 18 - Single parent
+0.08
+0.07
+% Unused dwellings
+0.08
+0.04
+% Graduated
+0.08
+0.09
+% Pop. circulation
+0.08
+0.08
+% people under poverty line
+0.08
+0.08
+% rents
+0.08
+0.06
+Median Income (individual)
+0.08
+0.07
+Median Income (family)
+0.08
+0.06
+Table 2  Average Input and 
+Indicator relevance for the calcu­
+lation of the autosynth index for 
+Florence, normed dataset
+ 
+
+
+1 3
+Page 17 of 30 
+28
+Developing a Synthetic Socio-Economic Index through Autoencoders:…
+Table 2 reports the values for input weights and indicator relevance after the index calcu­
+lation. All elementary indicators contribute to the SEDI calculation, with two slight excep­
+tions: the share of unused dwellings (%) and the population change (inline-eq-IEq49), both of which 
+appear slightly less relevant than the other variables. We stress that in this work we remain 
+agnostic towards the choice of input weights, thus their value correspond to i
+nline-eq-IEq50. Moreover, 
+from indicator relevance, calculated according to Eq. 5 we can notice that the variables that 
+represents more heavily the latent phenomena are the share of graduated people, less prone 
+to social vulnerability, probably with higher revenues and a better social security network, 
+and the share of elderly living alone. However, there are no dramatic differences across the 
+indicator relevances.
+5  AutoSynth Index in a Different Context: Assessing Community 
+Vulnerability in the U.S.
+This section applies AutoSynth to a second empirical context to assess its performance 
+beyond the case study that motivated this work. While the Florence application is the 
+motivating case study, where the substantive framework is developed following the Ital­
+ian sub-municipal vulnerability literature, the U.S. application serves as a methodological 
+validation: its purpose is to test AutoSynth on a dataset with fundamentally different char­
+acteristics — N=3,136 counties versus N=74 suburban units, a different data structure, and 
+independently defined indicators. Accordingly, the dimensional structure of the Community 
+Vulnerability Index (CVI), encompassing economic, social, health, and cultural domains 
+reflects the structure of the available dataset. Community vulnerability is a cross-border 
+phenomenon: conditions in one county often spill over into neighbouring regions, generat­
+ing dynamics that amplify vulnerability at the regional scale.
+Our goal is to identify areas within the US exhibiting the highest levels of vulnerability 
+and to assess the regions experiencing the greatest levels of socioeconomic deprivation 
+nationwide. Such analysis can also offer valuable insights to support more targeted and 
+effective policy interventions. Also in this case, the results are evaluated by comparing them 
+with those obtained using the two reference indices: the AMPI (Mazziotta and Pareto, 2018) 
+and a composite index based on PCA (Mishra, 2007).
+Fig. 4  Stress values for autosynth index, com­
+pared to the other methods - normed data
+ 
+
+
+1 3
+28 
+Page 18 of 30
+G. Grossi, E. Rocco
+We examined four main domains representing specific dimensions for CVI: economic, 
+social, health, and cultural vulnerability. These dimensions collectively represent the broader 
+phenomenon of vulnerability and frequently overlap. Specifically, the correlation between 
+community vulnerability and health conditions is particularly relevant and well-documented 
+in the literature (Cutter et al., 2003; Khazanchi et al., 2020). Communities experiencing 
+heightened vulnerability often show poorer health outcomes due to limited access to health­
+care resources (Bourgois et al., 2017; Gaynor and Wilson, 2020), higher exposure to envi­
+ronmental hazards (Fekete, 2009; Lehnert et al., 2020), and increased prevalence of chronic 
+diseases (Yu et al., 2020). Understanding these correlations is critical, as it highlights the 
+importance of integrated interventions aimed at simultaneously addressing vulnerability and 
+improving health outcomes.
+The presence of correlated indicators poses a significant challenge for researchers 
+attempting to construct synthetic indices. Omitting highly correlated variables might reduce 
+redundancy but simultaneously risks losing important information. In such cases, methods 
+that effectively capture overall variance, such as those based on dimensionality reduction, 
+allow researchers to retain comprehensive information without forcing drastic compromises 
+in the dataset (Fig. 5).
+Drawing on the dataset provided by CDC (2019), we rely on information for 3,136 U.S. 
+counties, updated to 2019, encompassing 14 distinct dimensions. Table 4 presents selected 
+descriptive statistics for these dimensions. Economic vulnerability is proxied by the median 
+earnings in the county, the Gini coefficient as a measure of unequal distribution of wealth, 
+the unemployment rate, and the overall population living under the poverty threshold. Cul­
+tural vulnerability is measured by the share of school enrollment, the share of graduate 
+degrees, and the share of people who left school before completing high school. Moreover, 
+health vulnerability is represented by the share of obesity and the share of uninsured inhabit­
+ants. Finally, social vulnerability is captured through the ethnic composition, and the share 
+of children and the elderly living in poverty. Table 5 reports the input weights and the indica­
+tor relevance, calculated accondingly Eq. 5. As we pointed out, we opt for uniform weights 
+for all the elementary indicators, so their weights corresponds to 1, with p the number of 
+Fig. 5  Stress values for autosynth index, compared to the other methods - normed data
+ 
+
+
+1 3
+Page 19 of 30 
+28
+Developing a Synthetic Socio-Economic Index through Autoencoders:…
+elementary indicators. From ex-post indicator relevance instead we can see that the % of 
+uninsured people was the most salient to construct the CVI, probably grasping one of the 
+most alarm bell for social vulnerability: the absence of a large share of population that can­
+not afford medical care.
+Results are obtained by iteratively applying the AutoSynth procedure to the original data­
+set, scaled according to Eq. 1. We repeat the estimation process 500 times, here we report 
+the median value for the index distribution. Figure 6 and 7 (on the left) reports the Commu­
+nity vulnerability index calculated with AutoSynth at the county level in the US for 2019, 
+in absolute value and ranks. Notably, the index reveals a clear spatial pattern and identifies 
+distinct clusters of vulnerability, specifically:
+Table 4  Descriptive statistics for elementary indicators employed
+Domain
+Elementary Index
+Mean
+st.dev
+5%
+Median
+95%
+Cultural
+% No High School
+16.89
+7.34
+7.40
+15.40
+30.40
+% Graduate
+6.44
+3.85
+2.70
+5.30
+13.90
+% Sch. Enroll
+74.97
+5.06
+66.60
+75.15
+82.75
+Economic
+Earnings - 2010$
+25448
+5062
+19002
+24813
+34872
+% Poverty - All
+15.46
+6.37
+6.90
+14.65
+27.21
+Gini Index
+0.43
+0.04
+0.37
+0.42
+0.49
+% Unemployment
+0.07
+0.02
+0.03
+0.07
+0.12
+Social
+%White
+78.81
+19.60
+38.48
+86.35
+97.40
+%Afro-american
+8.78
+14.40
+0.10
+1.95
+41.41
+% Poverty - 65+
+11.48
+5.47
+5.15
+10.25
+22.01
+% Poverty - 6-
+24.85
+11.87
+7.40
+23.77
+47.12
+% Child - Single parent
+31.62
+9.90
+16.43
+30.60
+49.25
+Health
+Obesity rate
+0.31
+0.04
+0.23
+0.30
+0.37
+Uninsured rate
+0.18
+0.05
+0.10
+0.18
+0.27
+Elementary Index
+Input weights
+Indicator relevance
+% No High School
+0.07
+0.08
+% Graduate
+0.07
+0.06
+% Sch. Enroll
+0.07
+0.08
+Earnings - 2010$
+0.07
+0.05
+% Poverty - All
+0.07
+0.05
+Gini Index
+0.07
+0.05
+% Unemployment
+0.07
+0.05
+% White
+0.07
+0.09
+% Afro-american
+0.07
+0.07
+% Poverty - 65+
+0.07
+0.05
+% Poverty - 6-
+0.07
+0.06
+% Child - Single parent
+0.07
+0.05
+Obesity rate
+0.07
+0.06
+Uninsured rate
+0.07
+0.18
+Table 5  Average Input and 
+Indicator relevance for the calcu­
+lation of the autosynth index for 
+US counties, normed dataset
+ 
+
+
+1 3
+28 
+Page 20 of 30
+G. Grossi, E. Rocco
+	
+●
+The urban area of New York, Washington and Philadelphia seems to show the lowest 
+levels of vulnerability, as well as the New England area and the Boston area. We can 
+expect this result, as these are the most developed areas of the US.
+	
+●
+On the other hand, the south bend of the US spanning from the Carolinas to Texas exhib­
+its a higher level of vulnerability, especially in Mississippi and Louisiana.
+	
+●
+Midwest, Central US and Rocky Mountain states show lower levels of vulnerability.
+Table 6 reports the six most fragile counties and the six least fragile counties in the US. 
+Remarkably, half of the most vulnerable ones are in Mississippi, while the other three lie in 
+neighbouring states, confirming the cross-border hypothesis. On the other hand, two-thirds 
+of the least vulnerable counties are in Virginia, highlighting the existence of a low vulner­
+ability area in the Atlantic coast and New England. These results sound comparable with 
+our expectations and with the results from CDC (2025). We find that the wealthier areas are 
+Table 6  Most and least vulnerable counties, ranked according to the autosynth index
+Most vulnerable areas
+Least vulnerable areas
+AMPI
+AutoSynth
+PCA
+AMPI
+AutoSynth PCA
+Jefferson County, 
+Mississippi
+108.25
+121.50
+123.34
+Los Alamos 
+County, New 
+Mexico
+78.15
+70.00 71.29
+Allendale County, South 
+Carolina
+108.61
+121.67
+124.27
+Falls Church 
+city, Virginia
+80.96
+72.69 70.00
+Humphreys County, 
+Mississippi
+108.85
+121.92
+127.15
+Loudoun County, 
+Virginia
+81.13
+74.41 78.24
+Wilcox County, Alabama
+108.52
+122.11
+126.19
+Douglas County, 
+Colorado
+81.48
+75.54 79.50
+Holmes County, 
+Mississippi
+109.60
+123.48
+128.55
+Fairfax County, 
+Virginia
+82.27
+76.00 80.65
+East Carroll Parish, 
+Louisiana
+113.56
+130.00
+129.43
+Arlington 
+County, Virginia
+82.81
+76.07 79.17
+Fig. 7  Rank statistics for the AMPI, PCA and AutoSynth vulnerability Index for US counties, normed data
+ 
+Fig. 6  AMPI, PCA and AutoSynth vulnerability Index for US counties, normed data
+ 
+
+
+1 3
+Page 21 of 30 
+28
+Developing a Synthetic Socio-Economic Index through Autoencoders:…
+also the ones that exhibit lower levels of vulnerability, while more depressed counties seem 
+to suffer from multiple sources of vulnerability.
+Turning now to the evaluation of the AutoSynth methodology by benchmarking it against 
+alternative aggregation approaches used to construct synthetic indices, the comparison of 
+the resulting Community vulnerability Index across different methods reveals remarkably 
+consistent geographic patterns, with areas of highest vulnerability remaining stable regard­
+less of the aggregation technique applied. This finding provides strong evidence of the 
+robustness and reliability of the proposed method compared to existing alternatives in the 
+literature. In terms of stress values, as depicted in Fig. 5, Autosynth consistently exhibits 
+lower stress values compared to its competitors, producing an improved representation of 
+the euclidean distance between the representation of elementary indicators from US coun­
+ties. To illustrate, a median stress value of 0.45 for AutoSynth, compared with 0.72 
+for PCA and 0.83 for AMPI (Fig. 5), indicates that the one-dimensional representation 
+produced by AutoSynth preserves the pairwise Euclidean distances among counties in the 
+original 14-dimensional indicator space more faithfully than either alternative. In practical 
+terms, if two counties are far apart in their composite socio-economic profiles, AutoSynth is 
+more likely to reflect this distance in the final index, reducing the distortion introduced by 
+the dimensionality reduction. This further confirms the effectiveness and robustness of the 
+proposed method. A comparison between the application of AutoSynth in this case and its 
+implementation in the Florence study discussed in Section 4 can yield additional insights 
+into the performance and adaptability of the AutoSynth index. We can notice that the stress 
+performances over the US dataset are lower compared with the stress performances in the 
+Florentine case. This results was expected, as the US counties dataset is forty times larger 
+than the Florentine one, and this richness of observation help the estimation of the index. 
+Thus we can advise to use Autosynth especially in presence of large and complex dataset, 
+even if the performances are remarkable even in presence of few observations.
+6  Simulations
+In this section, we present a simulation study designed to evaluate the information com­
+pression capacity of the AutoSynth procedure across a range of scenarios, varying in the 
+characteristics and interrelations of the underlying elementary indices. The performance 
+of AutoSynth is benchmarked against three alternative synthetic aggregation methods: the 
+arithmetic mean, the AMPI, and a composite index based on PCA. Please refer to Section 2 
+for a review of these aggregation methods.
+In both applications to real data considered in the previous sections, we observed that 
+the main advantage of the AutoSynth Index suggested in this paper, compared to AMPI and 
+the PCA-based index, is its capability to represent the input elementary indicators, thereby 
+better reproducing the original dimensions within a single feature space. To investigate this 
+property more rigorously, we designed a simulation study spanning scenarios in which the 
+elementary indices vary both in their distributional characteristics and in the strength and 
+form of their interrelationships. Specifically, 3 distinct data-generating processes (DGPs) 
+were considered in this study, and for each, 3 different sample sizes were used. More in 
+detail, the three DGPs, all including fourteen variables representing the elementary indices, 
+are as follows:
+
+
+1 3
+28 
+Page 22 of 30
+G. Grossi, E. Rocco
+	
+●
+IID variables: The elementary indicators are independent and identically distributed, 
+with a Normal distribution
+	
+●
+Correlated ID variables: The elementary indicators are correlated, but all follow the 
+same distribution, which, as in the previous case, is the normal distribution. The correla­
+tions among the elementary indicators range from -0.87 to 0.79.
+	
+●
+Correlated, no ID distributions: The elementary indicators are correlated and follow 
+different distributions: two uniform distributions, a inline-eq-IEq5
+2 distribution, a Poisson distribu­
+tion, an exponential distribution, a Student’s t-distribution, and three normal distribu­
+tions. The correlations among the elementary indicators range between -0.85 and 0.91.
+The three values chosen for the sample sizes are 50, 250, and 1000. For each of the 3x3 com­
+binations of DGP and sample size, the number of replications is 1000. The hyperparameters of 
+the distributions have been simulated from appropriate uniform distributions. We opt for pre-
+treating the elementary indicators by scaling them with Eq. 1. In this way, we are not altering 
+the shape of the distribution, but are rescaling the units in a common range to avoid the vari­
+ability of an elementary indicator prevailing over the others and affecting the final representa­
+tion of the latent phenomena.
+In all simulation scenarios, AutoSynth achieves lower median stress values than compet­
+ing methods in preserving inter-observational distances. However, the magnitude of the 
+improvement varies with sample size: for small samples (i n line-eq-IEq53) the gain over conven­
+tional methods depends on the dependency structure and independence across variables 
+(see Figs. 8, 9 and 10). This gain becomes increasingly pronounced as n grows, a trend not 
+observed in competing algorithms. Moreover, being based on neural network optimisation, 
+AutoSynth is inherently stochastic: repeated runs on the same data produce a distribution 
+of solutions rather than a unique index. While this variability is mitigated by iterating the 
+procedure and reporting a summary statistic (we use the median of 500 runs), estimation 
+instability is more pronounced with small samples. When the performance advantage over 
+simpler, deterministic methods is marginal and the resulting rankings are comparable, the 
+additional complexity may not be warranted. Accordingly, while AutoSynth is competitive 
+regardless of sample size, its adoption is especially advantageous for large and complex 
+datasets, where its flexibility yields substantial and stable gains.
+Fig. 8  Stress values for the synthetic index - IID case
+ 
+
+
+1 3
+Page 23 of 30 
+28
+Developing a Synthetic Socio-Economic Index through Autoencoders:…
+Finally, as shown in Fig. 10, AutoSynth excels at aggregating variables with heteroge­
+neous distributions across a variety of data configurations. In the Appendix, we report in 
+Figs. 12, 13, 14, the variability of the stress values applied to the ranks instead of being 
+applied to the dataset, in our idea this measure represents the stability of the estimation 
+procedures.
+7  Conclusions
+In this study, we introduced AutoSynth, an innovative methodology for the construction of 
+composite indices, leveraging the capabilities of autoencoders. This approach distinguishes 
+itself through its data-driven dimensionality reduction, effectively addressing the limitations 
+inherent in traditional linear methods such as PCA. Through a series of rigorous simulation 
+studies and applications to real-world datasets, we have demonstrated AutoSynth’s capac­
+ity to accurately capture complex, non-linear relationships within data, thereby providing a 
+more precise and meaningful representation of multidimensional phenomena.
+The flexibility of AutoSynth is particularly evident in its ability to manage heterogeneous 
+data, characterised by varying distributions and diverse sample sizes. This characteristic 
+renders it exceptionally suitable for the analysis of intricate socio-economic phenomena, 
+where variables often exhibit disparate behavioral patterns. Furthermore, the provision for 
+Fig. 10  Stress values for the synthetic index - Non independent nor ID case
+ 
+Fig. 9  Stress values for the synthetic index - Non independent, ID case
+ 
+
+
+1 3
+28 
+Page 24 of 30
+G. Grossi, E. Rocco
+incorporating expert-defined input weights facilitates the integration of prior knowledge 
+into the index construction process, enhancing the relevance and accuracy of the resulting 
+composite indices.
+Moreover, this work introduces a method for constructing the elementary indicators rel­
+evance as the reconstruction error in the synthetic index. This value allow us to understand 
+which indicators are more salient to represent the latent phenomenon, fostering its under­
+standing. We leverage Autosynth to depict the vulnerability of communities into two main 
+examples: the SEDI index for calculating vulnerability in Florentine suburbs and the CVI 
+index to assess vulnerability across US counties.
+The application of our proposed AutoSynth methodology to assess socio-economic and 
+demographic vulnerability in the sub-municipal areas of Florence revealed distinct pat­
+terns of vulnerability across the city. Notably, the historic city center and western Florence 
+emerged as areas with the highest levels of vulnerability, a finding consistent with previous 
+studies. This counterintuitive result for the historic center can be attributed to gentrification 
+and the proliferation of short-term rentals, which have altered the area’s socio-economic 
+landscape. Conversely, the eastern and southern suburbs, known for their scenic beauty, 
+exhibited the lowest levels of vulnerability. Comparative analysis with traditional meth­
+ods, such as AMPI and PCA, demonstrated that AutoSynth produced comparable results, 
+particularly in ranking the areas, while exhibiting lower stress values. This suggests that 
+the ordering of sub-municipal areas by vulnerability is robust across different aggregation 
+methods, with AutoSynth providing a more accurate representation of the underlying data 
+structure. The identified patterns of vulnerability underscore the complex interplay of socio-
+economic and demographic factors in Florence, highlighting the need for targeted policy 
+interventions to address these disparities.
+AutoSynth analysis of U.S. county vulnerability revealed distinct patterns: urban areas 
+showed low vulnerability, while the southern belt exhibited high vulnerability, particularly 
+in Mississippi and Louisiana. AutoSynth outperformed traditional methods in representing 
+inter-county distances, confirming its effectiveness in assessing community vulnerability.
+Finally, we study the empirical properties of the proposed aggregation method with a 
+simulation study in which we test several different DGPs and sample sizes, stressing how 
+AutoSynth is a non-inferior choice to common aggregation methods, which outperforms the 
+three alternative methods (arithmetic mean, AMPI, PCA) when the sample size is large or 
+when the elementary indicators’ distribution is non-i.i.d..
+Despite the promising outcomes, it is imperative to acknowledge the limitations of our 
+study. Specifically, further exploration is warranted to optimize the parameter selection of 
+the autoencoder and to evaluate the impact of diverse distance metrics on the results. Addi­
+tionally, the application of sequential autoencoders for the construction of hierarchical indi­
+ces represents a promising avenue for future research, potentially enabling the analysis of 
+complex phenomena at varying levels of granularity.
+Regarding future perspectives, we posit that AutoSynth possesses significant potential 
+for application across a broad spectrum of domains. Its capacity to synthesise complex 
+information into meaningful indices can be particularly instrumental in informing policy 
+decisions, monitoring progress towards sustainable development goals, and evaluating the 
+
+
+1 3
+Page 25 of 30 
+28
+Developing a Synthetic Socio-Economic Index through Autoencoders:…
+impact of multifaceted interventions. Moreover, the integration of AutoSynth with other 
+advanced data analysis techniques, such as predictive modeling and interactive visualiza­
+tion, may unlock new frontiers in the comprehension of multidimensional phenomena.
+In conclusion, the AutoSynth methodology represents a substantial advancement in 
+the construction of composite indices, offering a data-driven, flexible, and interpretable 
+approach. Its ability to capture non-linear relationships, manage heterogeneous data, and 
+integrate expert knowledge renders it a valuable tool for the analysis of complex phenomena 
+in diverse contexts.
+Appendix
+In the appendix we report additional material to the main text. Firstly, we report the sche­
+matized of the calculation procedure for AutoSynth, described formally in the main text. 
+Secondly, we provide additional results for the simulation study described in Section 6. We 
+estimate the stress test described in Eq. 6, but applied to the values of observations’ ranks, 
+as following
+	
+di s
+p
+l
+a
+y
+-e
+q-Equ7
+
+(7)
+with inli n
+e
+- e
+q
+-I
+Eq5 4
+ and i
+nlin e
+-
+eq-I
+E q5 5
+, where 
+inline-eq-IEq56 is the rank operator.
+Fig. 11  Index Construction Algorithm.
+
+
+1 3
+28 
+Page 26 of 30
+G. Grossi, E. Rocco
+Fig. 14  Rank stress values for the synthetic index - Non independent nor ID case
+ 
+Fig. 13  Rank stress values for the synthetic index - Non independent, ID case
+ 
+Fig. 12  Rank stress values for the synthetic index - IID case
+ 
+
+
+1 3
+Page 27 of 30 
+28
+Developing a Synthetic Socio-Economic Index through Autoencoders:…
+Acknowledgements  The authors are thankful to Gianni Dugheri for the insightful comments.
+Funding  Open access funding provided by Università degli Studi di Firenze within the CRUI-CARE Agree­
+ment. The authors thank the UNIFI4FUTURE - SPARKLING Grant B17G24000250006.
+Data Availability  Data about this work are either publicly available or available upon request.
+Declarations
+Competing interest  The authors declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this paper.
+Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, 
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as 
+you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons 
+licence, and indicate if changes were made. The images or other third party material in this article are 
+included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. 
+If material is not included in the article’s Creative Commons licence and your intended use is not permitted 
+by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the 
+copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+References
+Adger, W.N., & Winkels, A. (2014). Vulnerability, poverty and sustaining well-being. Handbook of sustain­
+able development (pp. 206–216). Edward Elgar Publishing.
+Bandura, R. (2011). Composite indicators and rankings: Inventory 2011 (Technical Report). New York: 
+Office of Development Studies, United Nations Development Programme (UNDP).
+Bank, D., Koenigstein, N., & Giryes, R. (2023). Autoencoders. Machine learning for data science handbook: 
+data mining and knowledge discovery handbook, 353–374.
+Bianchi, S.M. (2014). The changing demographic and socioeconomic characteristics of single parent fami­
+lies. Single parent families (pp. 71–97). Routledge.
+Bianchi, S. M., & Milkie, M. A. (2010). Work and family research in the first decade of the 21st century. 
+Journal of marriage and family, 72(3), 705–725.
+Billari, F., & Kohler, H.-P. (2004). Patterns of low and lowest-low fertility in europe. Population studies, 
+58(2), 161–176.
+Bloemraad, I., Esses, V.M., Kymlicka, W., & Zhou, Y.-Y. (2023). Unpacking immigrant integration: Con­
+cepts, mechanisms, and context. World Bank.
+Bourgois, P., Holmes, S. M., Sue, K., & Quesada, J. (2017). Structural vulnerability: operationalizing the 
+concept to address health disparities in clinical care. Academic Medicine, 92(3), 299–307.
+Busetta, A., & Milito, A. M. (2010). Socio-demographic vulnerability: The condition of italian young people. 
+Social indicators research, 97, 375–396.
+CDC (2019). CDC/ATSDR social vulnerability index 2019 database, United States (Tech. Rep.). Geospatial 
+Research, Analysis, and Services Program. Retrieved from ​h​t​t​p​s​:​/​/​w​w​w​.​a​t​s​d​r​.​c​d​c​.​g​o​v​/​p​l​a​c​e​a​n​d​h​e​a​l​t​h​/​s​
+v​i​/​d​a​t​a​d​o​c​u​m​e​n​t​a​t​i​o​n​d​o​w​n​l​o​a​d​.​h​t​m​l​
+CDC (2025). Cdc/atsdr social vulnerability index interactive map 2022 database us. Dataset. Retrieved from 
+https://www​.atsdr.cdc.​gov/place-h​ealth/ph​p/svi/sviinteractive-map.html (Accessed: 2025-03-11)
+Chakraborty, L., Rus, H., Henstra, D., Thistlethwaite, J., & Scott, D. (2020). A place-based socioeconomic 
+status index: Measuring social vulnerability to flood hazards in the context of environmental justice. 
+International journal of disaster risk reduction, 43, Article 101394.
+Christensen, K., Doblhammer, G., Rau, R., & Vaupel, J. W. (2009). Ageing populations: the challenges 
+ahead. The lancet, 374(9696), 1196–1208.
+Città metropolitana di Bologna (2022). La fragilit‘a demografica, sociale ed economica nelle diverse aree del 
+comune di bologna – edizione 2022. ​h​t​t​p​s​:​/​/​i​n​u​m​e​r​i​d​i​b​o​l​o​g​n​a​m​e​t​r​o​p​o​l​i​t​a​n​a​.​i​t​/​s​t​u​d​i​-​e​-​r​i​c​e​r​c​h​e​/​l​a​-​f​r​a​g​i​l​
+i​t​a​d​e​m​o​g​r​a​f​i​c​a​-​s​o​c​i​a​l​e​-​e​d​-​e​c​o​n​o​m​i​c​a​-​n​e​l​l​e​-​d​i​v​e​r​s​e​-​a​r​e​e​-​d​e​l​-​c​o​m​u​n​e​-​d​i​. Retrieved Nov 24, 2023, from ​
+h​t​t​p​s​:​/​/​i​n​u​m​e​r​i​d​i​b​o​l​o​g​n​a​m​e​t​r​o​p​o​l​i​t​a​n​a​.​i​t​/​s​t​u​d​i​-​e​r​i​c​e​r​c​h​e​/​l​a​-​f​r​a​g​i​l​i​t​a​-​d​e​m​o​g​r​a​f​i​c​a​-​s​o​c​i​a​l​e​-​e​d​-​e​c​o​n​o​m​i​c​
+a​-​n​e​l​l​e​-​d​i​v​e​r​s​e​-​a​r​e​e​-​d​e​l​c​o​m​u​n​e​-​d​i​
+
+
+1 3
+28 
+Page 28 of 30
+G. Grossi, E. Rocco
+Città metropolitana di Napoli (2022). Vulnerabilit‘a demografica, sociale ed economica dei comuni dell’area 
+metropolitana di napoli - studi, analisi e rappresentazione. ​h​t​t​p​s​:​/​/​w​w​w​.​c​i​t​t​a​m​e​t​r​o​p​o​l​i​t​a​n​a​.​n​a​.​i​t​/​s​t​u​d​i​-​e​-​
+a​n​a​l​i​s​i​. Retrieved Nov 24, 2023, from https://www​.cittametro​politana.na​.it/stud​i-e-analisi
+Comim, F., & Amaral, P. V. (2013). The human values index: conceptual foundations and evidence from 
+brazil. Cambridge Journal of Economics, 37(6), 1221–1241.
+Coulthard, S., McGregor, J.A., & White, C. (2018). Multiple dimensions of wellbeing in practice. Ecosystem 
+services and poverty alleviation (open access) (pp. 243–256). Routledge.
+Cutter, S. L., Boruff, B. J., & Shirley, W. L. (2003). Social vulnerability to environmental hazards. Social 
+science quarterly, 84(2), 242–261.
+Davino, C., Gherghi, M., Sorana, S., & Vistocco, D. (2021). Measuring social vulnerability in an urban space 
+through multivariate methods and models. Social indicators research, 157(3), 1179–1201.
+de Leeuw, J., & Mair, P. (2009). Gifi methods for optimal scaling in R: The package homals. Journal of Sta­
+tistical Software, 31(4), 1–20. https://doi.org/10.18637/jss.v031.i04
+Diamantopoulos, A., & Winklhofer, H.M. (2001). Index construction with formative indicators: An alterna­
+tive to scale development. Journal of Marketing Research, 38(2), 269–277. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​5​0​9​/​j​m​k​
+r​.​3​8​.​2​.​2​6​9​.​1​8​8​4​5 Retrieved from https://doi.org/10.1509/jmkr.38.2.269.18845
+Dugheri, G., Grossi, G., Rocco, E., et al. (2023). Assessing the sub-urban frailties: The case of florence. Tech­
+nology and data science for economic and social development. book of short papers of the asa bologna 
+conference. (Vol. 35, pp. 213–218).
+Fekete, A. (2009). Validation of a social vulnerability index in context to river-floods in germany. Natural 
+Hazards and Earth System Sciences, 9(2), 393–403.
+Ferrante, C., Ferraris, R., & Ferrante, L. (2021). Brick-by-brick inequality. Homeownership in Italy, employ­
+ment instability and wealth transmission. Advances in Life Course Research, 49 , 100401, ​h​t​t​p​s​:​/​/​d​o​i​.​o​
+r​g​/​1​0​.​1​0​1​6​/​j​.​a​l​c​r​.​2​0​2​1​.​1​0​0​4​0​1​
+Flanagan, B.E., Gregory, E.W., Hallisey, E.J., Heitgerd, J.L., & Lewis, B. (2011). A social vulnerability index 
+for disaster management. Journal of Homeland Security and Emergency Management, 8 (1), , ​h​t​t​p​s​:​/​/​d​
+o​i​.​o​r​g​/​1​0​.​2​2​0​2​/​1​5​4​7​-​7​3​5​5​.​1​7​9​2​
+Fleuren, B.P., van Amelsvoort, L.G., Zijlstra, F.R., de Grip, A., & Kant, I. (2018). Handling the reflective-
+formative measurement conundrum: a practical illustration based on sustainable employability. Journal 
+of Clinical Epidemiology, 103, 71–81. https://doi​.org/10.101​6/j.jclinep​i.2018.0​7.007. Retrieved from 
+https://www​.sciencedir​ect.com/sci​ence/art​icle/pii/S0895435617311320
+Freudenberg, M. (2003). Composite indicators of country performance: A critical assessment (Tech. Rep. No. 
+2003/16). Paris: OECD Publishing.
+Gaynor, T. S., & Wilson, M. E. (2020). Social vulnerability and equity: The disproportionate impact of covid-
+19. Public administration review, 80(5), 832–838.
+Gifi, A. (1990). Nonlinear multivariate analysis. New York: Wiley.
+Golden, J., Conroy, R. M., Bruce, I., Denihan, A., Greene, E., Kirby, M., & Lawlor, B. A. (2009). Loneliness, 
+social support networks, mood and wellbeing in communitydwelling elderly. International Journal of 
+Geriatric Psychiatry: A journal of the psychiatry of late life and allied sciences, 24(7), 694–700.
+Greco, S., Ishizaka, A., Tasiou, M., & Torrisi, G. (2019). On the methodological framework of composite 
+indices: A review of the issues of weighting, aggregation, and robustness. Social indicators research, 
+141, 61–94.
+Guiso, L., & Jappelli, T. (2002). Private transfers, borrowing constraints and the timing of homeownership. 
+Journal of Money, Credit and Banking, 34(2), 315–339. https://doi.org/10.1353/mcb.2002.0040
+Jacobs, R., Smith, P., Goddard, M. (2004). Measuring performance: An examination of composite perfor­
+mance indicators (Tech. Rep. No. 29). York: The University of York, Centre for Health Economics.
+Khan, H. (1991). Measurement and determinants of socioeconomic development: A critical conspectus. 
+Social Indicators Research, 24, 153–175.
+Khazanchi, R., Beiter, E. R., Gondi, S., Beckman, A. L., Bilinski, A., & Ganguli, I. (2020). County-level 
+association of social vulnerability with covid-19 cases and deaths in the usa. Journal of general internal 
+medicine, 35, 2784–2787.
+Klopries, H., & Schwung, A. (2023). Flexible activation bag: Learning activation functions in autoencoder 
+networks. 2023 ieee international conference on industrial technology (icit) (pp. 1–7).
+Kotzee, I., & Reyers, B. (2016). Piloting a social-ecological index for measuring flood resilience: A compos­
+ite index approach. Ecological indicators, 60, 45–53.
+Kramer, M. A. (1991). Nonlinear principal component analysis using autoassociative neural networks. 
+AIChE journal, 37(2), 233–243.
+Krishnan, V. (2010). Constructing an area-based socioeconomic index: A principal components analysis 
+approach. Edmonton, Alberta: Early Child Development Mapping Project.
+Kruskal, J. B. (1964). Nonmetric multidimensional scaling: a numerical method. Psychometrika, 29(2), 
+115–129.
+
+
+1 3
+Page 29 of 30 
+28
+Developing a Synthetic Socio-Economic Index through Autoencoders:…
+LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. nature, 521(7553), 436–444.
+Lehnert, E. A., Wilt, G., Flanagan, B., & Hallisey, E. (2020). Spatial exploration of the cdc’s social vulner­
+ability index and heat-related health outcomes in georgia. International journal of disaster risk reduc­
+tion, 46, Article 101517.
+Li, T., Zhang, H., Yuan, C., Liu, Z., & Fan, C. (2012). A pca-based method for construction of composite 
+sustainability indicators. The International Journal of Life Cycle Assessment, 17, 593–603.
+Linting, M., & van der Kooij, A. J. (2012). Nonlinear principal components analysis with CATPCA: A tuto­
+rial. Journal of Personality Assessment, 94(1), 12–25. https://doi.org/10.1080/00223891.2011.627965
+Majid, Z., Welch, C., Davies, J., & Jackson, T. (2020). Global frailty: the role of ethnicity, migration and 
+socioeconomic factors. Maturitas, 139, 33–41.
+Martínez, E., Rodríguez, A., Altuzarra, A., Álvarez, I. (2024). Remaking urban divides: Shifting patterns of 
+neighborhood differentiation in bilbao, spain. Journal of Urban Affairs, 46(2), 389–408.
+Mazziotta, M., & Pareto, A. (2013). Methods for constructing composite indices: One for all or all for one. 
+Rivista Italiana di Economia Demografia e Statistica, 67(2), 67–80.
+Mazziotta, M., & Pareto, A. (2018). Measuring well-being over time: The adjusted mazziotta–pareto index 
+versus other non-compensatory indices. Social Indicators Research, 136, 967–976.
+Mazziotta, M., & Pareto, A. (2020). Gli indici sintetici / mazziotta matteo; pareto adriano. Torino: G. Giap­
+pichelli Editore.
+McPhearson, T., Haase, D., Kabisch, N., & Gren, Å. (2016). Advancing understanding of the complex nature 
+of urban systems. Ecological Indicators, 70, 566–573. https://doi​.org/10.101​6/j.ecolind​.2016.03​.054
+Michelucci, U. (2022). An introduction to autoencoders.
+Mishra, S.K. (2007). A comparative study of various inclusive indices and the index constructed by the prin­
+cipal components analysis. Available at SSRN 990831.
+Munda, G., & Nardo, M. (2009). Noncompensatory/nonlinear composite indicators for ranking countries: a 
+defensible setting. Applied Economics, 41(12), 1513–1523.
+OECD. (2008). Handbook on constructing composite indicators: methodology and user guide. Paris: OECD 
+Publishing.
+Pinilla, V., Ayuda, M.-I., S´aez, L.-A. (2008). Rural depopulation and the migration turnaround in mediter­
+ranean western europe: a case study of aragon. Journal of Rural and Community Development, 3(1).
+Reynaud, C., & Miccoli, S. (2019). Population ageing in italy after the 2008 economic crisis: A demographic 
+approach. Futures, 105, 17–26.
+Roh, M., & Weon, S. (2022). Living arrangement and life satisfaction of the elderly in south korea. Social 
+Indicators Research, 160(2), 717–734.
+Romero-Lankao, P., & Qin, H. (2011). Conceptualizing urban vulnerability to global climate and environ­
+mental change. Current Opinion in Environmental Sustainability, 3(3), 142–149. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​
+1​6​/​j​.​c​o​s​u​s​t​.​2​0​1​0​.​1​2​.​0​1​6​
+Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating 
+errors. nature, 323(6088), 533–536.
+Sachs, J., Lafortune, G., Fuller, E., G.and Drumm. (2023). Implementing the sdg stimulus. sustainable devel­
+opment report 2023. Dublin: Dublin University Press.
+Saisana, M., & Philippas, D. (2012). Sustainable society index (ssi): Taking societies’ pulse along social, 
+environmental and economic issues. Environmental Impact Assessment Review, 32, 94–106.
+Saukani, N., & Ismail, N. A. (2019). Identifying the components of social capital by categorical principal 
+component analysis (CATPCA). Social Indicators Research, 141(2), 631–655. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​0​7​
+/​s​1​1​2​0​5​-​0​1​8​-​1​8​4​2​-​2​
+Scardigno, F. (2019). The cultural integration of young refugees: An experience within the italian academic 
+context. Italian Journal of Sociology of Education, 11 (Italian Journal of Sociology of Education 11/3), 
+283–303.
+Skouby, K.E., Kivim¨aki, A., Haukiputo, L., Lynggaard, P., Windekilde, I.M. (2014). Smart cities and the 
+ageing population. The 32nd meeting of wwrf (pp. 1–12).
+Staveren, I.v., Webbink, E., de Haan, A., Foa, R. (2014). The last mile in analyzing wellbeing and poverty: 
+Indices of social development. Forum for social economics (Vol. 43, pp. 8–26).
+Steptoe, A., & Zaninotto, P. (2020). Lower socioeconomic status and the acceleration of aging: An outcome-
+wide analysis. Proceedings of the National Academy of Sciences, 117(26), 14911–14917.
+Tronu, D. (2020). Le misure della vulnerabilit‘a: un’applicazione a diversi ambiti territoriali (Tech. Rep.). 
+ISTAT.
+UNECE (2019). Guidelines on producing leading, composite and sentiment indicators (Tech. Rep.). Geneva: 
+United Nations Economic Commission for Europe. Retrieved from ​h​t​t​p​s​:​/​/​u​n​e​c​e​.​o​r​g​/​s​t​a​t​i​s​t​i​c​s​/​p​u​b​l​i​c​a​t​
+i​o​n​s​/​g​u​i​d​e​l​i​n​e​s​-​p​r​o​d​u​c​i​n​g​l​e​a​d​i​n​g​-​c​o​m​p​o​s​i​t​e​-​a​n​d​-​s​e​n​t​i​m​e​n​t​-​i​n​d​i​c​a​t​o​r​s​
+
+
+1 3
+28 
+Page 30 of 30
+G. Grossi, E. Rocco
+van der Burg, E., de Leeuw, J., & Verdegaal, R. (1988). Homogeneity analysis with k sets of variables: An 
+alternating least squares method with optimal scaling features. Psychometrika, 53(2), 177–197. ​h​t​t​p​s​:​/​
+/​d​o​i​.​o​r​g​/​1​0​.​1​0​0​7​/​B​F​0​2​2​9​4​1​3​1​
+Vendemmia, B., Pucci, P., Beria, P. (2021). An institutional periphery in discussion. rethinking the inner areas 
+in italy. Applied geography, 135, 102537.
+Victor, C., Scambler, S., Bond, J., & Bowling, A. (2000). Being alone in later life: loneliness, social isolation 
+and living alone. Reviews in clinical gerontology, 10(4), 407–417.
+von Szombathely, M., Hanf, F. S., Bareis, J., Meier, L., & Oßenbrügge, J., Pohl, T. (2023). An index-based 
+approach to assess social vulnerability for hamburg, germany. International Journal of Disaster Risk 
+Science, 14(5), 782–794.
+Yu, C.-Y., Woo, A., Emrich, C. T., & Wang, B. (2020). Social vulnerability index and obesity: an empirical 
+study in the us. Cities, 97, Article 102531.
+Publisher's Note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.

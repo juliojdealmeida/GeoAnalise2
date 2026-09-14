@@ -1,0 +1,2464 @@
+Transformações 
+indispensáveis  
+e como administrá-las
+A América Latina  
+e o Caribe diante 
+das armadilhas do 
+desenvolvimento
+Síntese
+Thank you for your interest in
+this ECLAC publication
+Please register if you would like to receive information on our editorial
+products and activities. When you register, you may specify your particular
+areas of interest and you will gain access to our products in other formats.
+www.issuu.com/publicacionescepal/stacks
+www.cepal.org/es/publicaciones/apps
+www.facebook.com/publicacionesdelacepal
+www.instagram.com/publicacionesdelacepal
+Register
+www.cepal.org/en/publications
+
+Transformações 
+indispensáveis  
+e como administrá-las
+A América Latina  
+e o Caribe diante 
+das armadilhas do 
+desenvolvimento
+Síntese
+José Manuel Salazar-Xirinachs
+Secretário Executivo 
+Javier Medina Vásquez
+Secretário Executivo Adjunto a. i.
+Sally Shaw
+Diretora da Divisão de Documentos e Publicações
+Publicação das Nações Unidas • LC/SES.40/4 •Distribuição: G • Original: Espanhol  
+Copyright © Nações Unidas, 2024 • Todos os direitos reservados  
+Impresso nas Nações Unidas, Santiago • S.2401025[pt]
+Este documento foi elaborado com a participação das divisões substantivas, sedes sub-regionais e escritórios 
+nacionais da Comissão Econômica para a América Latina e o Caribe (CEPAL).
+A redação foi coordenada por José Manuel Salazar-Xirinachs, Secretário Executivo da CEPAL, com a colaboração de 
+Jorge Mario Martínez Piva, Oficial Encarregado da sede sub-regional da CEPAL no México, e Ramón Padilla Pérez, 
+Chefe da Unidade de Desenvolvimento Econômico da sede sub-regional da CEPAL no México.
+Na redação participaram os seguintes funcionários da CEPAL: Martín Abeles, José Eduardo Alatorre, Carmen Álvarez, 
+Claudio Aravena, Alberto Arenas de Mesa, Diego Aulestia, Andrés Boeninger, Christine Carton, Pablo Carvallo, Simone 
+Cecchini, Jorge Cordero, Felipe Correa, Carlos De Miguel, Marco Dini, Andrés Espejo, Jimy Ferrer, Nincen Figueroa, 
+Karen García, Marina Gil, Nicolo Gligo, Jose Javier Gómez, Enrique González, Camila Gramkow, Ana Güezmes, Michael 
+Hanni, Silvia Hernández, Mariana Huepe, Keiji Inoue, José Manuel Iraheta, Martin Kohout, Luiz Krieger, Mauricio 
+León, Marco Llinás, Jesús López, Santiago Lorenzo, Carlos Maldonado, Sandra Manuelito, Rodrigo Martínez, Ana 
+Luíza Matos, Javier Medina, Cielo Morales, Rolando Ocampo, Alejandro Patiño, Angela Penagos, Leda Peralta, Noel 
+Pérez Benítez, Esteban Pérez Caldentey, Ramón Pineda, Diane Quarless, Rayén Quiroga, Juan Carlos Rivas, Claudia 
+Robles, Adrián Rodríguez, Sebastián Rovira, Jesús Santamaría, Silvia Saravia, Lucía Scuro, Humberto Soto, Daniel 
+Titelman, Daniela Trucco, Andrés Valenciano, Francisco Villarreal, Luis Yáñez e Romain Zivy.
+Colaboraram também os seguintes Consultores da CEPAL: Camilo Acuña, Elisa Araneda, Jorge Cadenasso, Jorge Cornick, 
+Pablo Herrera, Isabel Jacas, Frank Leañez, Ignacio Ñancupil, María Jesús Silva, María Elena Valenzuela e Juan Vila.
+As Nações Unidas e os países que representam não são responsáveis pelo conteúdo de links a sites externos 
+incluídos nesta publicação.
+Notas explicativas:
+Os três pontos indicam que os dados faltam, não constam separadamente ou não estão disponíveis.
+O travessão indica que a quantidade é nula ou desprezível.
+A vírgula é usada para separar os decimais.
+A palavra “dólares” refere-se a dólares dos Estados Unidos, salvo indicação em contrário.
+A barra colocada entre cifras que expressam anos (por exemplo, 2023/2024) indica que a informação corresponde a um período de 12 meses 
+que não coincide necessariamente com o ano civil.
+Devido a que às vezes se arredondam as cifras, os dados e as porcentagens apresentados nos elementos gráficos nem sempre somam 
+o total correspondente.
+Esta publicação deve ser citada como: Comissão Econômica para a América Latina e o Caribe (CEPAL), A América Latina e o Caribe diante 
+das armadilhas do desenvolvimento: transformações indispensáveis e como administrá-las. Síntese (LC/SES.40/4), Santiago, 2024.
+A autorização para reproduzir total ou parcialmente esta obra deve ser solicitada à Comissão Econômica para a América Latina e 
+o Caribe (CEPAL), Divisão de Documentos e Publicações: publicações.cepal@un.org. Os Estados membros das Nações Unidas e suas 
+instituições governamentais podem reproduzir esta obra sem autorização prévia. Solicita-se apenas que mencionem a fonte e informem 
+à CEPAL tal reprodução.
+Índice
+Prólogo ................................................................................................................5
+Introdução ...........................................................................................................9
+I. Globalização redefinida .......................................................................11
+II. As armadilhas do desenvolvimento da América Latina 
+e do Caribe e as transformações indispensáveis ............................15
+III. O desafio de administrar as transformações ...................................23
+IV. Como obter um crescimento mais alto, sustentado, 
+inclusivo e sustentável? .......................................................................27
+V. Como reduzir a desigualdade e promover a inclusão  
+e a mobilidade social? .........................................................................33
+VI. Como promover a sustentabilidade e enfrentar  
+a mudança climática? ..........................................................................41
+VII. Como mobilizar financiamento para o desenvolvimento  
+tanto no âmbito nacional como no internacional? .........................51
+Bibliografia ........................................................................................................57
+
+5
+Prólogo
+Este relatório afirma que a América Latina e o Caribe enfrentam três 
+armadilhas do desenvolvimento: uma armadilha de baixa capacidade 
+para crescer, uma armadilha de alta desigualdade, baixa mobilidade 
+social e fraca coesão social e uma terceira armadilha de baixas 
+capacidades institucionais e fraca governança. Estas três armadilhas 
+são enormes obstáculos para construir um futuro mais produtivo, 
+inclusivo e sustentável, motivo pelo qual não é exagero afirmar que a 
+região está passando por uma crise do desenvolvimento. Além destas 
+armadilhas, a região enfrenta os desafios da mudança climática e de 
+promover um desenvolvimento ambientalmente sustentável. 
+Esta crise do desenvolvimento coincide e interatua com um contexto 
+internacional que mudou significativamente na última década, tanto 
+em termos geoeconômicos como geopolíticos, e que se encontra em 
+transição para novas regras de comércio e investimento. Este novo 
+contexto apresenta desafios e oportunidades para os países da região.
+A confluência de uma globalização em processo de redefinição 
+e as tendências tecnológicas, demográficas, climáticas e geopolíticas 
+associadas, com as três armadilhas do desenvolvimento e o legado 
+histórico de lacunas que a região não conseguiu superar, indica a 
+necessidade de um pensamento novo e criativo sobre como sair das 
+armadilhas e fechar as lacunas. Mais do mesmo pode ajudar nas áreas 
+em que as políticas aplicadas estão dando resultados, mas existe uma 
+grande necessidade de repensar as políticas não só sobre o que fazer, 
+mas também sobre como fazê-lo. 
+6
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+Por ocasião de seu quadragésimo período de sessões, a Comissão 
+Econômica para a América Latina e o Caribe (CEPAL) apresenta aos 
+países algumas inovações quanto ao diagnóstico e às formas de 
+enfrentar os desafios do desenvolvimento regional. 
+Quanto ao diagnóstico, identificam-se as três armadilhas mencionadas 
+e um decálogo de lacunas de desenvolvimento, algumas das quais 
+estão alinhadas com as armadilhas. Quanto ao “que fazer” , sugerimos 
+11 grandes transformações consideradas indispensáveis para avançar 
+rumo a um desenvolvimento mais produtivo, inclusivo e sustentável. 
+Destas, selecionamos três para uma análise em profundidade, com 
+ênfase em “como” realizá-las: i) a grande transformação produtiva para 
+obter um crescimento mais alto, sustentado, inclusivo e sustentável; ii) a 
+grande transformação para reduzir a desigualdade e promover a inclusão 
+e a mobilidade social; iii) a grande transformação para impulsionar a 
+sustentabilidade e combater a mudança climática. 
+A história de reformas na América Latina e no Caribe para transformar 
+diversos aspectos dos padrões de desenvolvimento é longa, desde 
+estratégias lideradas pelo Estado até estratégias que confiam no 
+poder dos mercados, desregulamentação e abertura econômica. Esta 
+dicotomia Estado-mercado não oferece soluções adequadas e pode 
+até ser prejudicial na hora de pensar nas condições e nos processos 
+de transformação, porque simplifica a complexidade desses processos 
+e pode derivar em discussões mais ideológicas do que práticas.
+Por esta razão, em resposta ao “como” , em lugar de uma discussão 
+concentrada na dicotomia Estado-mercado, sugere-se ter um diálogo mais 
+pragmático sobre a maneira de administrar as transformações quanto 
+às formas e características da governança das transformações em cada 
+área, as capacidades técnicas, operacionais, políticas e prospectivas 
+das instituições encarregadas dessas transformações, os espaços de 
+diálogo social e a economia política das reformas.
+A experiência internacional mostra que o processo pelo qual se 
+formulam, adotam e executam as políticas é tão importante quanto o 
+conteúdo das políticas, porque estas são formuladas e aplicadas em 
+contextos específicos, com determinadas capacidades institucionais, 
+marcadas pelos desafios da economia e da geopolítica mundial. Portanto, 
+as capacidades institucionais do Estado e a interação e o diálogo entre 
+atores estatais e não estatais incidem na eficácia das políticas e na 
+realização das transformações. 
+7
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+Criar um novo consenso regional sobre a forma de enfrentar 
+os desafios do desenvolvimento e como superá-los pode ser um 
+objetivo ambicioso, mas é um objetivo necessário e desejável. Para 
+avançar rumo a um futuro mais produtivo, inclusivo e sustentável 
+são necessárias visões e estratégias de longo prazo, a participação 
+real de todos os atores da sociedade e um Estado e instituições 
+competentes com capacidades para orientar, convocar e prestar 
+serviços de qualidade. 
+O desenvolvimento dos países é um processo complexo e de longo 
+prazo, que não ocorrerá automaticamente pelas forças do mercado, 
+embora estas tenham um grande papel a desempenhar com formas 
+adequadas de governança e regulação. 
+Se quisermos superar as armadilhas e fechar as lacunas, se 
+quisermos alcançar o tantas vezes adiado sonho de um desenvolvimento 
+mais produtivo, inclusivo e sustentável, o momento de atuar e 
+colaborar é agora.
+José Manuel Salazar-Xirinachs
+Secretário Executivo
+Comissão Econômica para a  
+   América Latina e o Caribe (CEPAL)
+
+9
+Introdução
+No âmbito de seu quadragésimo período de sessões, a Comissão 
+Econômica para a América Latina e o Caribe (CEPAL) submete à 
+consideração dos governos da região uma nova proposta que examina 
+uma série de lacunas e as transformações correspondentes a cada uma 
+dessas lacunas consideradas indispensáveis para poder avançar rumo 
+a um desenvolvimento mais produtivo, inclusivo e sustentável. Esta 
+proposta não só oferece uma lista de recomendações sobre o que é 
+necessário fazer (ou seja, quais são as transformações indispensáveis), 
+mas também faz um esforço para avançar no que se refere à maneira 
+de realizar essas transformações (ou seja, como administrá-las) para 
+superar as armadilhas do desenvolvimento que afetam a região. Assim, 
+este documento oferece análises e recomendações que vão além de 
+simples objetivos e aspirações, com o objetivo de abordar de forma 
+sistemática os desafios da governança, das capacidades institucionais e 
+do diálogo social para realizar as grandes transformações imprescindíveis.
+O documento está organizado em sete capítulos:
+• O primeiro capítulo analisa as mudanças que ocorreram e continuam 
+ocorrendo na globalização e os desafios e oportunidades que estas 
+mudanças representam para a América Latina e o Caribe. 
+• O segundo capítulo descreve as três armadilhas do desenvolvimento 
+e as dez lacunas estruturais identificadas pela CEPAL e enumera as 
+11 transformações consideradas indispensáveis para avançar rumo 
+a um desenvolvimento mais produtivo, inclusivo e sustentável.
+• O terceiro capítulo apresenta um arcabouço conceitual e metodológico 
+para analisar a gestão das transformações indispensáveis. Este 
+marco conceitual inclui as formas e características da governança 
+10
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+das transformações em cada área, as capacidades técnicas, 
+operacionais, políticas e prospectivas (capacidades TOPP) das 
+instituições encarregadas dessas transformações, os espaços de 
+diálogo social e a economia política das reformas.
+• O quarto capítulo é dedicado à primeira das grandes transformações 
+selecionadas para uma análise em profundidade: a grande 
+transformação produtiva. Discute como obter um crescimento mais 
+alto, sustentado, inclusivo e sustentável, insistindo na importância de 
+contar com uma política de desenvolvimento produtivo e melhorar 
+os enfoques em matéria de políticas de desenvolvimento produtivo.
+• O quinto capítulo analisa a segunda grande transformação selecionada, 
+que se refere a como avançar para a redução da desigualdade e a 
+promoção da inclusão e mobilidade social. Identifica um número 
+reduzido, mas muito importante, de causas da elevada desigualdade 
+e reduzida mobilidade social, sublinha a importância de ter um 
+enfoque integrado destas causas e fortalecer a governança, as 
+capacidades TOPP e o diálogo social para combater essas causas.
+• O sexto capítulo aborda a terceira grande transformação selecionada, 
+relativa a como promover a sustentabilidade e o combate à mudança 
+climática, destacando-se os setores que a CEPAL considera 
+fundamentais para obter o grande impulso para a sustentabilidade 
+e a transformação produtiva associada. 
+• O sétimo capítulo analisa estratégias orientadas a mobilizar o 
+financiamento para o desenvolvimento, tanto no âmbito nacional 
+como no internacional. 
+11
+I. Globalização redefinida
+O mundo assiste atualmente ao surgimento de um novo cenário em 
+termos de globalização, geoeconomia e geopolítica. As transformações 
+no contexto internacional apresentam desafios e oportunidades para a 
+estratégia de desenvolvimento da América Latina e do Caribe. 
+A política pública deu uma reviravolta. No cenário anterior, atribuía-se 
+prioridade quase absoluta ao mercado como mecanismo central não só 
+para a alocação de recursos entre os setores e atividades, mas também 
+para a determinação das remunerações e a organização geográfica da 
+produção. Nesse cenário celebrava-se a interdependência e a busca 
+global dos menores custos de produção como forma de beneficiar os 
+consumidores com preços baixos.
+Hoje em dia desconfia-se da interdependência, 
+que se considera cheia de riscos. O termo 
+“segurança” , que no período do pós-guerra 
+esteve associado sobretudo aos temas militares, 
+atualmente se aplica à segurança alimentar, 
+segurança energética, segurança das cadeias de 
+abastecimento e indústrias estratégicas de alta tecnologia. Predominam 
+as estratégias de redução da dependência de parceiros comerciais 
+considerados não alinhados com os próprios interesses. Tudo isto se 
+traduz em uma transição para novas regras do jogo para o comércio, 
+o investimento e a globalização.
+A redefinição da globalização e de suas regras do jogo pode ser 
+resumida nos seguintes elementos principais.
+Primeiro, os fluxos mundiais de comércio de bens e de investimento 
+estrangeiro direto crescem mais lentamente do que nos anos anteriores 
+As transformações no 
+contexto internacional 
+apresentam desafios e 
+oportunidades para a estratégia 
+de desenvolvimento da 
+América Latina e do Caribe.
+12
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+à crise financeira de 2008-2009 e sua configuração em termos de origens 
+e destinos está se modificando, ao mesmo tempo que o comércio 
+de serviços cresce aceleradamente. Como se observa no gráfico I.1, 
+o comércio total de bens e serviços como porcentagem do produto 
+interno bruto (PIB) mundial mostrou um acelerado crescimento entre 
+meados da década de 1980 e 2008. Entre 2009 e 2022 houve vários 
+períodos de queda e recuperação e somente 2022 superou ligeiramente 
+o nível registrado em 2008.
+Gráfico I.1  
+Comércio total de bens e serviços como porcentagem do PIB mundial, 1980-2022
+(Em porcentagens)
+30
+35
+40
+45
+50
+55
+60
+65
+1980
+1982
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+Fonte: Base de dados do Banco Mundial, World Development Indicators (WDI).
+Segundo, a geografia das cadeias globais de valor se modificou e, 
+tanto nos Estados Unidos como na Europa, observa-se o encurtamento 
+ou deslocalização próxima (nearshoring) dessas cadeias, bem como o 
+propósito de aumentar a capacidade de fabricação nacional (reshoring) 
+e de estabelecer novas cadeias de abastecimento entre parceiros 
+estrangeiros alinhados com os interesses próprios (friendshoring).
+Terceiro, a política industrial baseada em subsídios de grande escala, 
+que foi relegada amplamente durante o período de hiperglobalização e 
+do consenso de Washington, retornou nas economias desenvolvidas do 
+Ocidente e é um fator central na política econômica chinesa. Esta política é 
+acompanhada de maneira crescente por subsídios e políticas protecionistas 
+comerciais tecnológicas entre as grandes potências comerciais.
+13
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+Quarto, após a crise financeira internacional de 2008-2009 teve 
+início um processo destinado a reformar as regras da tributação 
+internacional das grandes empresas. Seu objetivo é reduzir a erosão da 
+base tributária e a transferência de lucros a jurisdições com mecanismos 
+tributários favoráveis para as empresas multinacionais, mas que não 
+correspondem à localização da atividade econômica que gerou os 
+lucros. Essas modificações limitam alguns dos espaços tradicionais 
+para a política pública, como os incentivos fiscais para fomentar o 
+investimento e atrair investimento estrangeiro direto (IED). 
+Quinto, nas últimas décadas o mundo testemunhou mudanças 
+tecnológicas aceleradas que transformaram profundamente as dinâmicas 
+econômicas, sociais e políticas. As novas tecnologias tiveram um 
+profundo impacto econômico e social, transformaram setores inteiros 
+e criaram novas oportunidades de crescimento e desenvolvimento. As 
+transformações tecnológicas não só têm a possibilidade de impulsionar 
+o crescimento econômico baseado numa maior produtividade, mas 
+também criam um ambiente que facilita a convergência para economias 
+mais desenvolvidas, ao melhorar significativamente as condições de 
+vida da população.
+Sexto, a rivalidade tecnológica e industrial entre as principais 
+economias do mundo aumentou e tem conotações não só econômicas, 
+mas também de segurança nacional. Esta rivalidade passou das 
+declarações políticas às restrições concretas à exportação de produtos 
+e tecnologias estratégicas, bem como ao uso de tecnologias produzidas 
+pelos rivais estratégicos.
+Sétimo, a mudança climática tem custos 
+e consequências econômicas e sociais cada 
+vez maiores, particularmente nos países em 
+desenvolvimento e nos mais vulneráveis a 
+essas mudanças, que são os que têm menos 
+recursos e capacidade para enfrentá-los. 
+O processo de redefinição da globalização 
+representa desafios para a região. Por exemplo, como competir na 
+atração de IED e estimular o investimento nacional em setores-chave, 
+como navegar os conflitos geopolíticos e comerciais sob uma 
+perspectiva que privilegie os interesses e os imperativos da região, 
+como compatibilizar as aspirações de desenvolvimento tecnológico 
+e produtivo com o potencial descolamento tecnológico entre blocos 
+e como maximizar as oportunidades comerciais e de atração de IED 
+com os diferentes blocos.
+O aproveitamento dos 
+desafios e oportunidades  
+da redefinição da globalização 
+não é automático, mas requer 
+profundas transformações no 
+padrão de desenvolvimento 
+da região.
+14
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+Este processo também oferece grandes oportunidades para o 
+desenvolvimento dos países da América Latina e do Caribe, mas seu 
+aproveitamento não é automático: requer não só políticas de atração de 
+investimentos, mas também políticas de desenvolvimento produtivo, 
+tema abordado nos capítulos deste documento.
+15
+II. As armadilhas do desenvolvimento 
+da América Latina e do Caribe e as 
+transformações indispensáveis
+A América Latina e o Caribe estão passando por uma crise do 
+desenvolvimento, que se expressa em três armadilhas principais (veja 
+o diagrama II.1): i) uma armadilha de baixa capacidade para crescer; 
+ii) uma armadilha de alta desigualdade, baixa mobilidade social e fraca 
+coesão social; iii) uma armadilha de baixa capacidade institucional e de 
+governança pouco efetiva. A isto se soma o fato de que a região enfrenta 
+o desafio da mudança climática e o de promover um desenvolvimento 
+ambientalmente sustentável. Estas três armadilhas do desenvolvimento 
+estão alinhadas com as dez lacunas estruturais nos modelos de 
+desenvolvimento descritas pela CEPAL (Salazar-Xirinachs, 2023).
+Diagrama II.1  
+As armadilhas do desenvolvimento
+Baixa capacidade 
+para crescer
+Alta desigualdade, 
+baixa mobilidade 
+social e fraca 
+coesão social
+Baixa capacidade 
+institucional e 
+governança
+ pouco efetiva
+Fonte: Comissão Econômica para a América Latina e o Caribe (CEPAL). 
+16
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+O conceito de armadilha do desenvolvimento 
+não se refere somente a tendências negativas, 
+seja de médio ou longo prazo, mas à existência 
+de círculos viciosos que se reforçam mutuamente 
+e limitam a capacidade de avançar para maiores 
+níveis de desenvolvimento (OCDE e outros, 2019). Consiste em uma 
+dinâmica circular e retroalimentada que conduz a uma estagnação, 
+ou até mesmo uma deterioração, das condições econômicas, sociais, 
+institucionais e ambientais, entre outras.
+A armadilha de baixa capacidade para crescer
+Entre 2015 e 2023, as economias da América Latina e do Caribe cresceram 
+a uma taxa média anual de 0,9% (média ponderada), ou seja, menos da 
+metade dos 2,3% registrados na chamada década perdida dos anos 80 
+(veja o gráfico II.1). Este baixo crescimento não se circunscreveu à última 
+década, mas é uma tendência de longo prazo. O crescimento médio da 
+região diminuiu de 5,5% nos quase 30 anos que vão de 1951 a 1979 
+para 2,7% nos seguintes 30 anos (1980 a 2009) e para somente 1,8% 
+de 2010 a 2024. Como resultado, o nível do PIB per capita médio da 
+região em 2023 era igual ao de 2013 (CEPAL, 2024a).
+Gráfico II.1 
+América Latina e Caribe: taxa de crescimento do produto interno bruto,  
+1950-2024 
+(Em porcentagens, com base em dólares constantes de 2018)
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+Média ponderada Média 10 anos 
+1951-
+1959:
+4,9
+1960-
+1969:
+5,7
+1970-
+6,1
+1980-
+1989:
+2,3
+2000-
+2009:
+3,0
+2010-
+2019
+1,9
+2015-
+2024:
+0,91990-
+1999:
+2,9
+1951
+1953
+1955
+1957
+1959
+1961
+1963
+1965
+1967
+1969
+1971
+1973
+1975
+1977
+1979
+1981
+1983
+1985
+1987
+1989
+1991
+1993
+1995
+1997
+1999
+2001
+2003
+2005
+2007
+2009
+2011
+2013
+2015
+2017
+2019
+2021
+2023
+2024
+1979:
+Fonte: Comissão Econômica para a América Latina e o Caribe (CEPAL), com base em cifras oficiais.
+A América Latina e o Caribe 
+estão passando por uma 
+crise do desenvolvimento, 
+que se expressa em três 
+armadilhas principais.
+17
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+A armadilha da baixa capacidade para crescer em que a região 
+se encontra presa está associada, principalmente, a três fatores 
+que se retroalimentam de maneira negativa: i) baixo crescimento da 
+produtividade; ii) baixo investimento; iii) qualidade insuficiente dos 
+recursos humanos. 
+Entre 1950 e 1980, as economias da 
+América Latina e do Caribe aumentaram mais 
+que o dobro seus níveis de produtividade 
+do trabalho. Embora tenham transcorrido 
+43 anos desde a chamada crise da dívida, a 
+região não foi capaz de voltar aos níveis de 
+produtividade que tinha antes dessa crise: 
+em 2023 a produtividade média do trabalho na 
+região (em dólares constantes) era 4% inferior 
+à registrada em 1980. 
+A taxa de variação anual do investimento, medida através da 
+formação bruta de capital fixo, sofreu uma importante desaceleração 
+na América Latina e no Caribe nos últimos 70 anos. Nas décadas de 
+1960 e 1970 observou-se uma taxa de expansão média anual de 5,6% 
+e 6,3%, respectivamente. Na década de 1980, o investimento sofreu 
+uma contração média anual de 2,1%. Nas décadas de 1990 e 2000, 
+registrou expansão de 3,6% e 3,4%, respectivamente, enquanto na 
+década de 2010 apresentou um crescimento médio de apenas 0,8%.
+Associada de perto ao baixo crescimento encontra-se uma baixa 
+taxa de geração de empregos. O período 2011-2019 registrou a taxa anual 
+média mais baixa de criação de empregos dos últimos 70 anos (1,5%). 
+Para gerar e manter uma taxa de crescimento mais alta e sustentada, 
+também é fundamental um melhoramento contínuo do ensino e na 
+quantidade e qualidade do talento humano. Na América Latina e no Caribe 
+observou-se um aumento da escolaridade média da população, mas 
+a qualidade da aprendizagem costuma ser baixa e tem se deteriorado 
+nos últimos anos, como indicam as provas do Programa Internacional 
+de Avaliação de Alunos (PISA).
+A armadilha da alta desigualdade, baixa mobilidade 
+social e fraca coesão social
+A elevada desigualdade que caracteriza a região em múltiplas dimensões 
+constitui uma armadilha que obstaculiza por várias vias o avanço para 
+o desenvolvimento sustentável. A desigualdade é inaceitável do ponto 
+A armadilha da baixa 
+capacidade para crescer está 
+associada a três fatores que 
+se retroalimentam de maneira 
+negativa: i) baixo crescimento 
+da produtividade; ii) baixo 
+investimento; iii) qualidade 
+insuficiente dos recursos 
+humanos.
+18
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+de vista do gozo efetivo de direitos e dos conceitos básicos de justiça 
+social, além de ser ineficiente para o crescimento e corrosiva para a 
+coesão social e a estabilidade dos pactos sociais (Salazar-Xirinachs, 2023).
+A América Latina e o Caribe se mantiveram como a região mais 
+desigual do mundo nos últimos 30 anos (veja o gráfico II.2). Embora a 
+desigualdade de renda tenha diminuído nesse período, a região continua 
+tendo a distribuição da renda mais concentrada do mundo. Em 2022, 
+a desigualdade de renda, medida pelo índice de Gini, foi de 44,9, cifra 
+inferior à exibida no início de 1990 (cerca de 50,0) (CEPAL, 2023a).
+Gráfico II.2  
+América Latina e Caribe e outras regiões do mundo: níveis e dinâmica  
+da desigualdade segundo o índice de Gini, 1990-2020
+25
+30
+35
+40
+45
+50
+55
+1990 1995 2000 2005 2010 2015 2020
+Ásia Oriental e Pacíﬁco
+Leste Europeu e Ásia Central
+América Latina e Caribe Oriente Médio e Norte da África
+Sul da Ásia
+África Subsaariana
+Países industrializados
+Fonte: F . Alvaredo e outros, “Seventy-five years of measuring income inequality in Latin America” , 
+IDB Working Paper Series, Nº IDB-WP-01521, Washington, D.C., Banco Interamericano 
+de Desenvolvimento (BID), 2023. 
+A CEPAL identifica seis fatores principais que explicam a desigualdade 
+e a baixa mobilidade e coesão social nos países da América Latina e 
+do Caribe: i) o baixo crescimento, que faz com que os mercados de 
+trabalho sejam pouco dinâmicos e tenham altos níveis de informalidade, e 
+as altas disparidades de produtividade, que geram mercados de trabalho 
+segmentados, com grandes disparidades em matéria de remunerações; 
+ii) os sistemas fiscais regressivos; iii) as políticas sociais e de proteção 
+social fracas, que não reduzem os efeitos da desigualdade arraigada no 
+setor produtivo; iv) os sistemas educacionais com sérias deficiências, 
+19
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+no que se refere não só a taxas de abandono escolar no ensino médio, 
+mas também aos deficientes resultados de aprendizagem, que não 
+respondem às novas necessidades vinculadas à revolução tecnológica 
+e ao mercado de trabalho, além de estarem segmentados, e que, 
+portanto, não constituem o mecanismo poderoso de mobilidade 
+social que deveriam ser; v) a desigualdade de gênero; vi) as altas 
+desigualdades e segregação espacial nas zonas urbanas, onde vivem 
+80% da população total da região.
+A elevada desigualdade na região abrange 
+outras esferas além da renda, como o exercício 
+de direitos, o desenvolvimento de capacidades e 
+o acesso ao poder e a tomada de decisões. Por 
+sua vez, está associada a uma baixa mobilidade 
+e fraca coesão social, num círculo vicioso que se retroalimenta. A 
+magnitude e a variabilidade das desigualdades entre pessoas e grupos 
+de população são amplificadas e potencializadas por vários fatores que 
+operam como eixos estruturantes inter-relacionados, como o nível 
+socioeconômico, o gênero, a raça e a etnia, a idade, o território, as 
+deficiências, a situação migratória e a orientação e identidade sexual.
+O baixo nível de coesão social manifesta-se em elevada desconfiança 
+interpessoal e institucional, com efeitos adversos sobre a governança e 
+a eficiência, sensação de vulnerabilidade, indefensabilidade e injustiça 
+entre a população, baixas expectativas de mobilidade social futura, 
+escasso sentido de pertencimento concentrado no efetivo gozo de 
+direitos e frágil apego à democracia como melhor forma de governo 
+(Corporación Latinobarómetro, 2022).
+A região também se caracteriza pelo baixo nível de mobilidade social, 
+ou seja, rigidez considerável quanto à possibilidade de que as pessoas 
+dos estratos mais desfavorecidos alcancem um nível de bem-estar 
+mais alto para si mesmas e para seus descendentes. A porcentagem 
+da população em condição de vulnerabilidade (renda média-baixa e 
+inferior) não mudou de maneira significativa nos últimos anos: em 2010 
+este grupo correspondia a 77 ,4% da população e em 2020 a 76,2%. A 
+baixa mobilidade social está associada, entre outros fatores, ao mau 
+funcionamento de duas fontes importantes de mobilidade ascendente: 
+a educação e o mercado de trabalho. Os déficits de acesso e qualidade 
+da educação são mecanismos reprodutores das classes sociais por 
+excelência e das “desigualdades herdadas” , pois atuam como limitação 
+das possibilidades de alcançar inserção no mercado de trabalho em 
+condições decentes e, portanto, no nível de renda ao longo da vida. O 
+baixo crescimento econômico constitui um freio adicional à mobilidade 
+A elevada desigualdade está 
+associada à baixa mobilidade 
+e fraca coesão social, que se 
+reforçam mutuamente.
+20
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+social, ao manter mercados de trabalho pouco dinâmicos com baixa 
+criação de empregos de qualidade. Estes fatores, entre outros, explicam 
+a baixa mobilidade intergeracional da região.
+A armadilha das capacidades institucionais fracas  
+e governança pouco efetiva
+Na América Latina e no Caribe, a combinação de capacidades 
+institucionais fracas e governança pouco efetiva cria uma armadilha do 
+desenvolvimento. As capacidades institucionais deficientes, caracterizadas, 
+entre outros aspectos, por baixa eficiência administrativa, qualidade 
+burocrática deficiente, administração pública de baixa qualidade, 
+baixas capacidades de planejamento de longo prazo e prospectiva e 
+deficiências nas qualidades weberianas como a contratação através de 
+processos meritocráticos, estabilidade no emprego e profissionalização, 
+limitam a capacidade dos governos para implementar políticas efetivas 
+e responder de maneira eficiente às necessidades da sociedade.
+Uma governança pouco efetiva agrava esta situação ao se traduzir 
+em baixa capacidade para proporcionar direção 
+à economia e à sociedade, baixas competências 
+de gestão e execução, baixa participação do 
+setor privado, da sociedade civil e da cidadania 
+na tomada de decisões e prestação de contas 
+insuficiente por parte dos governantes. Além disso, 
+observa-se baixa estabilidade política, aumento 
+das atividades da criminalidade organizada e da 
+violência, efetividade governamental reduzida, 
+regulamentações de baixa qualidade e um 
+Estado de direito questionável com elevada 
+insegurança jurídica, junto com uma prevalência da corrupção.
+O índice de capacidades estatais desenvolvido por Hanson e Sigman 
+(2021) proporciona um método exaustivo para medir a capacidade dos 
+Estados de prestar serviços públicos efetivos, implementar políticas 
+e manter a ordem pública. A maioria dos países da América Latina 
+e do Caribe incluídos neste índice tem baixas capacidades estatais.
+Os indicadores mundiais de governança do Banco Mundial, por sua 
+vez, são um conjunto consolidado de indicadores que combina dados de 
+30 fontes e inclui critérios de especialistas e resultados de pesquisas 
+de organizações públicas, não governamentais e comerciais. Em geral, 
+os países da Organização para a Cooperação e Desenvolvimento 
+Econômico (OCDE) de alta renda se situam em torno ou acima do 
+As capacidades institucionais 
+fracas limitam a capacidade 
+dos governos para implementar 
+políticas efetivas, enquanto 
+uma governança pouco efetiva 
+agrava esta situação ao se 
+traduzir em baixa capacidade 
+para proporcionar direção à 
+economia e à sociedade, baixa 
+participação do setor privado 
+e da cidadania e prestação de 
+contas insuficiente.
+21
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+85º percentil em todos os indicadores selecionados, enquanto os 
+países latino-americanos se concentram em torno do 60º percentil. É 
+preocupante a tendência na região, já que, com exceção do indicador 
+de estabilidade política, os resultados de 2017 eram inferiores aos de 
+2012, e em 2022 eram ainda mais baixos.
+Para fechar as lacunas e sair das armadilhas no contexto 
+internacional atual são necessárias transformações profundas no 
+modelo de desenvolvimento, o que a CEPAL resumiu em 11 grandes 
+transformações apresentadas no diagrama II.2 (Salazar-Xirinachs, 
+2023). Os capítulos seguintes abordam detalhadamente as seguintes: 
+i) a grande transformação produtiva necessária para alcançar um 
+crescimento mais alto, sustentado, inclusivo e sustentável; ii) a grande 
+transformação em matéria de redução da desigualdade e obtenção de 
+maior mobilidade e coesão social; iii) a grande transformação em termos 
+de um crescimento mais verde e sustentável e para enfrentar a mudança 
+climática. O último capítulo aborda o desafio de mobilizar os recursos 
+financeiros necessários para realizar essas transformações e avançar 
+no cumprimento dos Objetivos de Desenvolvimento Sustentável (ODS). 
+Diagrama II.2  
+Onze grandes transformações do modelo de desenvolvimento
+Crescimento rápido, sustentado, sustentável e inclusivo
+Desenvolvimento produtivo – produtividade – emprego
+Redução da desigualdade 
+e aumento da mobilidade
+e coesão social
+Ampliação da proteção social 
+e do Estado de bem-estar
+Educação efetiva para 
+todos e acesso amplo à 
+formação proﬁssional
+Grande impulso ambiental para promover a sustentabilidade
+e enfrentar a mudança climática 
+Transformação digital
+Migração segura,
+ordenada e regular
+Avanço para uma
+maior integração regional
+e mundial 
+Avanço para a igualdade de gênero
+e a sociedade do cuidado
+Macroeconomia para o desenvolvimento
+e ﬁscalidade saudável e forte
+Capacidades do Estado 
+fortalecidas: instituições, 
+governança e diálogo social
+Fonte: J. M. Salazar-Xirinachs, “Repensar, reimaginar, transformar: los “qué” y los “cómo” 
+para avanzar hacia un modelo de desarrollo más productivo, inclusivo y sostenible” , 
+Revista CEPAL, N° 141 (LC/PUB.2023/29-P/-*), Santiago, Comissão Econômica para a 
+América Latina e o Caribe (CEPAL), 2023.
+
+23
+III. O desafio de administrar as transformações
+As chaves para avançar na transformação dos modelos de desenvolvimento 
+na América Latina e no Caribe incluem a identificação do que fazer, mas 
+vão mais além, porque exigem abordar algo talvez mais desafiante: 
+como administrar as transformações. O desafio da gestão das 
+transformações inclui tanto o tema de orientação na direção desejada 
+como o tema relativo a que os processos de reforma e transformação 
+ocorram à velocidade adequada e se possa corrigir o rumo e acelerar 
+o passo quando for necessário. Isto inclui não só os aspectos técnicos 
+das políticas, mas também as capacidades para dirigir e coordenar a 
+ação coletiva.
+Este capítulo aborda o desafio de administrar 
+as transformações a partir de quatro temas que, 
+apesar de distintos, estão inter-relacionados: 
+i) a governança (o que é e como melhorá-la); 
+ii) as capacidades institucionais (em que 
+consistem); iii) a economia política (como fazer 
+com que as coalizões para a mudança sejam 
+maiores do que as resistências à mudança); iv) o diálogo social (que 
+tipos de diálogos sociais podem ser estabelecidos e quais são mais 
+apropriados para que fins). Embora possam ser identificados outros 
+temas, estes quatro se referem a aspectos fundamentais para promover 
+mudanças significativas com êxito e administrar as transformações 
+de maneira efetiva, como desafios não só do setor público, mas de 
+toda a sociedade e como desafios não só de um período de governo, 
+mas num horizonte de tempo prolongado.
+Convém abordar a análise da 
+gestão das transformações 
+a partir de quatro aspectos: 
+i) a governança; ii) as 
+capacidades institucionais;  
+iii) a economia política;  
+iv) o diálogo social.
+24
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+A experiência demonstra que o processo pelo qual se formula, adota 
+e implementa uma política é tão importante quanto o seu conteúdo. 
+As políticas não são aplicadas no vácuo; são implementadas em um 
+contexto moldado pelas instituições e tradições políticas e culturais do 
+país. Consequentemente, a capacidade institucional do Estado e o modo 
+pelo qual vários atores estatais e não estatais atuam e interatuam em 
+diferentes cenários para formular e implementar uma política ou reforma 
+social, econômica ou institucional incidirão na eficácia dessas políticas. 
+Por estas razões, analisar o “como” exige estudar não só o conteúdo 
+específico das políticas ou seus efeitos em variáveis econômicas e 
+sociais, mas também as capacidades estatais e os processos críticos 
+que lhes dão forma e as implementam, ou seja, o foco é a capacidade 
+e eficácia das políticas públicas.
+O conceito de governança no âmbito das políticas públicas se 
+refere fundamentalmente a como o setor público, junto com atores não 
+governamentais e extrapolíticos, ou por si só, é capaz de proporcionar 
+direção e controle à sociedade e à economia (Levi-Faur, 2012). Uma 
+boa governança é aquela que aumenta a capacidade do Estado para 
+estabelecer direções de mudança ou transformação e para promover 
+as mudanças com a participação de atores não estatais na elaboração 
+e implementação de políticas públicas. O objetivo é fazer com que a 
+governança seja mais eficaz e menos falível. Sob esta perspectiva, 
+os governos melhorariam sua capacidade para governar mediante o 
+fortalecimento de suas próprias capacidades institucionais ao mesmo 
+tempo que mantêm relações mais estreitas com atores não estatais. 
+Este mecanismo estabelece uma nova forma de interação entre o 
+governo e a sociedade que processa os interesses, objetivos e soluções 
+das políticas públicas (O’Donnell e outros, 2015; Levi e outros, 2015; 
+Acuña e Chudnovsky, 2017).
+Este capítulo também propõe que as capacidades técnicas, 
+operacionais, políticas e prospectivas (TOPP) constituem um marco 
+conceitual útil para analisar a capacidade das instituições públicas de 
+serem efetivas ao abordar desafios complexos em novos contextos. 
+O quadro III.1 proporciona uma explicação de cada uma dessas 
+dimensões. Além de contar com capacidades TOPP , é fundamental que 
+as instituições disponham do financiamento adequado para desenvolver 
+e manter estas capacidades ao longo do tempo. 
+25
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+Quadro III.1  
+Capacidades técnicas, operacionais, políticas e prospectivas (TOPP): 
+capacidades institucionais necessárias para impulsionar transformações 
+no modelo de desenvolvimento
+Tipo de capacidade Características
+Técnica  - Integração do planejamento estratégico de médio e longo prazo  
+no ciclo das políticas públicas.
+ - Formulação de políticas integrais com enfoques transversais 
+em áreas-chave do desenvolvimento.
+ - Implementação e gestão de sistemas integrais de informação 
+para apoiar a implementação de políticas.
+ - Avaliação do impacto das políticas e dos resultados dos programas.
+ - Fortalecimento da coerência entre os mandatos normativos  
+e a capacidade dos organismos públicos.
+ -  Estabelecimento de mecanismos de prestação de contas para otimizar 
+a função pública.
+ - Fomento de uma cultura de aprendizagem contínua.
+Operacional 
+(dimensão 
+operacional 
+da gestão e 
+administração 
+pública)
+ - Implementação de ferramentas modernas de gestão pública para 
+procedimentos orçamentários, planejamento, gestão e avaliação  
+de resultados, bem como para a prestação de contas.
+ - Estabelecimento de mecanismos para avaliar a produtividade e 
+assegurar a provisão eficiente e eficaz de bens e serviços públicos.
+ - Design de interfaces modernas, baseadas no governo digital, para 
+melhorar a interação com a cidadania e os serviços prestados.
+ - Criação de instâncias efetivas de coordenação entre entidades 
+públicas.
+ - Otimização da participação significativa do setor privado e outros 
+atores do desenvolvimento.
+ - Implementação de mecanismos para a execução transparente 
+e honesta dos recursos públicos.
+ - Garantia de acesso oportuno a recursos financeiros para  
+a implementação de políticas públicas.
+ - Medição e acompanhamento contínuo da satisfação dos cidadãos 
+com os serviços e as instituições públicas.
+Política  - Facilitação de espaços de diálogo social entre diversos atores do 
+desenvolvimento para a formulação e execução de políticas públicas.
+ - Fomento de lideranças públicas que inspirem confiança e fortaleçam 
+a coordenação e colaboração com o setor privado, a academia e 
+a sociedade civil.
+ - Promoção da colaboração e coordenação efetiva entre diferentes  
+níveis de governo.
+ - Estabelecimento de redes de colaboração entre pares no âmbito local, 
+nacional, regional e internacional.
+ - Busca de consensos nas comunidades, governo, setor privado, 
+sociedade civil e outros atores relevantes, e entre si.
+26
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+Tipo de capacidade Características
+Prospectiva  - Monitoramento de megatendências mundiais que influem no 
+desenvolvimento regional.
+ - Criação participativa de cenários futuros desejáveis e sua adoção por 
+parte dos agentes do desenvolvimento.
+ - Facilitação da formulação e execução de políticas públicas mediante a 
+elaboração de cenários futuros alternativos.
+ - Respostas ágeis e efetivas a eventos inesperados de alto impacto que 
+afetam o desenvolvimento.
+ - Fomento de uma cultura de diálogo para prever e administrar conflitos 
+entre os atores do desenvolvimento.
+Fonte: J. M. Salazar-Xirinachs, “Repensar, reimaginar, transformar: los “qué” y los “cómo” para 
+avanzar hacia un modelo de desarrollo más productivo, inclusivo y sostenible” , Revista CEPAL, 
+N° 141 (LC/PUB.2023/29-P/-*), Santiago, Comissão Econômica para a América Latina 
+e o Caribe (CEPAL), 2023.
+A economia política oferece um marco analítico para compreender 
+com maior clareza como as políticas e reformas são definidas e 
+implementadas, considerando as relações de poder, os interesses 
+dos atores e os contextos institucionais. Em particular, porque analisa 
+o impacto das forças políticas na economia, onde os eleitores e os 
+grupos de interesse desempenham um papel crucial na configuração 
+de políticas e porque estuda a maneira como a economia influi na 
+política; por exemplo, como as condições macroeconômicas podem 
+facilitar ou dificultar a implementação de políticas e reformas por parte 
+dos governos (Frieden, 2020) e como a política influi nas políticas 
+econômicas e sociais. A economia política emerge como uma 
+ferramenta analítica essencial para compreender os padrões pelos 
+quais as políticas e reformas são discutidas e estabelecidas, seu grau 
+de aceitabilidade e, finalmente, por que estas têm êxito ou fracassam 
+(Juhász e Lane, 2024).
+Por último, o diálogo social, entendido como o processo de 
+interação entre diferentes atores sociais, econômicos e políticos para 
+buscar visões comuns e soluções com amplo apoio para os desafios, 
+desempenha um papel crucial na gestão das transformações. É possível 
+delimitar a temática distinguindo quatro âmbitos ou modalidades de 
+diálogo: i) diálogo social para a estabilização macroeconômica; ii) diálogo 
+social em matéria de políticas de trabalho; iii) diálogo social para o 
+desenvolvimento produtivo; iv) diálogo social para o desenvolvimento 
+territorial (Salazar-Xirinachs, 2023).
+Os próximos quatro capítulos discutem como administrar a 
+transformação respectiva utilizando este marco conceitual em cada caso. 
+27
+IV. Como obter um crescimento mais alto, 
+sustentado, inclusivo e sustentável?
+Conforme explicado no capítulo II, a primeira das três armadilhas em que 
+a região está presa é uma armadilha de baixa capacidade para crescer. 
+Evidência desta armadilha é o fato de que entre 2014 e 2023 a taxa 
+média anual de crescimento da América Latina e do Caribe foi de apenas 
+0,9% (média ponderada), menos da metade dos 2,3% registrados na 
+chamada década perdida dos anos 80. Isto fez com que o PIB per capita 
+da região crescesse apenas 0,1% como média anual, o que teve um 
+impacto extremamente negativo no bem-estar da população. Porém, 
+conforme explicado no capítulo II, o baixo crescimento não se limitou 
+à última década, mas é uma tendência de longo prazo. 
+A baixa capacidade para crescer da região está associada não só 
+a uma baixa taxa de investimento e competências insuficientes dos 
+recursos humanos, mas sobretudo a uma produtividade estagnada ou 
+em queda, que, por sua vez, decorre de insuficientes esforços para 
+incorporar mais conhecimentos e tecnologias à esfera da produção, 
+bem como para promover a mudança estrutural para atividades de 
+maior produtividade (CEPAL, 2019 e 2024b). 
+Com uma visão histórica, diversos estudos revelaram que a 
+produtividade do trabalho na região teve um crescimento satisfatório 
+de 1950 a 1980, mas depois não só não cresceu, mas em alguns 
+períodos diminuiu (CEPAL, 2024b). O fraco desempenho da 
+produtividade do trabalho na região, somado ao notável crescimento 
+da produtividade em países asiáticos, fez com que 2015 tenha sido o 
+primeiro ano em que a produtividade do trabalho na região se situou 
+abaixo da produtividade média do trabalho no resto do mundo (veja o 
+gráfico IV .1). O fraco desempenho da produtividade na região também 
+28
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+está associado a uma grande heterogeneidade no nível e na dinâmica 
+em três dimensões: entre diversos setores de atividade econômica, 
+entre diversos tamanhos de empresa e entre diferentes territórios 
+subnacionais num mesmo país.
+Gráfico IV.1 
+América Latina e Caribe (13 países) e mundo (133 países): produtividade  
+do trabalho, 1952-2023 
+(Em milhares de dólares internacionais de 2022 em paridade do poder aquisitivo)
+0
+10
+20
+30
+40
+50
+60
+América Latina e Caribe Mundo
+1952
+1954
+1956
+1958
+1960
+1962
+1964
+1966
+1968
+1970
+1972
+1974
+1976
+1978
+1980
+1982
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+Fonte: Comissão Econômica para a América Latina e o Caribe (CEPAL), com base em The 
+Conference Board.
+A armadilha da baixa capacidade para 
+crescer só pode ser superada com a promoção 
+de uma grande transformação produtiva 
+que, por sua vez, só é possível mediante um 
+significativo aumento no nível de ambição 
+e alcance das políticas de desenvolvimento 
+produtivo sob a visão moderna destas políticas. 
+Esta visão define uma ampla gama de setores impulsionadores, 
+não é só uma aposta na industrialização: entende estas políticas 
+principalmente como esforços colaborativos entre os atores mais 
+importantes; combina esforços horizontais e verticais, ou seja, em 
+setores específicos, estes últimos através de metodologias de trabalho 
+como as iniciativas de cluster; enfatiza a necessidade de equilibrar as 
+políticas “de cima para baixo” com as de “baixo para cima” , ou seja, 
+a partir dos territórios, e adota um enfoque de internacionalização. 
+Para superar a armadilha 
+da baixa capacidade para 
+crescer é necessária uma 
+grande transformação 
+produtiva impulsionada pela 
+nova visão de políticas de 
+desenvolvimento produtivo.
+29
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+O diagrama IV .1 descreve as dez principais áreas das políticas de 
+desenvolvimento produtivo (Salazar-Xirinachs e Llinás, 2023). Isto dá 
+uma ideia do número de frentes a serem combinadas e articuladas no 
+âmbito destas políticas. Estas áreas são: ciência, tecnologia e inovação; 
+extensionismo tecnológico; transformação digital; empreendimento; 
+fechamento de lacunas de talento humano; financiamento ao longo 
+do ciclo de vida da empresa; investimento, inclusive investimento 
+estrangeiro direto; infraestrutura específica e outros bens públicos; 
+agenda normativa e regulatória específica; internacionalização.
+Diagrama IV.1  
+Definição e âmbito das políticas de desenvolvimento produtivo
+Desenvolvimento produtivo com enfoque territorial 
+Governança para o desenvolvimento produtivo 
+Estrutura produtiva (setores, cadeias, clusters, MPME, empresas)
+Políticas de desenvolvimento produtivo visam à soﬁsticação, diversiﬁcação 
+e mudança estrutural virtuosa como veículo para aumentar a produtividade e obter 
+padrões de desenvolvimento mais produtivos , inclusivos e sustentáveis
+Ciência, tecnologia e inovação
+Extensionismo tecnológico
+Transformação digital
+Empreendimento
+Fechamento de lacunas 
+de talento humano
+Financiamento do ciclo 
+da empresa
+Investimento - IEDc
+Infraestrutura especíﬁca e 
+outros bens públicos 
+Agenda normativa e 
+regulatória especíﬁca 
+Internacionalização
+Fonte: J. Salazar-Xirinachs e M. Llinás, “ Hacia la transformación de la estrategia de crecimiento 
+y desarrollo de América Latina y el Caribe: el rol de las políticas de desarrollo productivo” , 
+Revista CEPAL, N° 141 (LC/PUB.2023/29-P/-*), Santiago, Comissão Econômica para a 
+América Latina e o Caribe (CEPAL), 2023.
+Selecionar uma carteira de setores impulsionadores é de 
+fundamental importância. A CEPAL definiu 14 setores impulsionadores, 
+que se apresentam no diagrama IV .2 agrupados em três categorias: 
+indústria, serviços e grande impulso para a sustentabilidade, que os 
+países da América Latina e do Caribe e seus territórios podem priorizar 
+em suas políticas de desenvolvimento produtivo. Uma área transversal 
+são as oportunidades da relocalização geográfica da produção e das 
+cadeias de valor no âmbito mundial, uma tendência importante que 
+abrange vários dos outros setores enumerados. Por suas características 
+30
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+dinamizadoras do crescimento e da produtividade, estes setores 
+podem dar grandes contribuições para concretizar uma transformação 
+produtiva na direção desejada, inclusive a orientação para uma maior 
+inclusão e sustentabilidade ambiental. Esta lista é ilustrativa, cada 
+país e cada território deve priorizar não só estes, mas também outros 
+setores apropriados para as suas condições. O importante é que tanto 
+os países como as regiões tenham uma visão de prioridades setoriais 
+para a grande transformação produtiva.
+Diagrama IV.2 
+Grande transformação produtiva para a produtividade, a inclusão  
+e a sustentabilidade: carteira de setores impulsionadores
+Indústria Serviços
+Indústria farmacêutica
+e de ciências da vida
+Indústria de 
+dispositivos médicos
+Fabricação avançada
+Grande impulso para
+a sustentabilidade
+Exportação de serviços 
+modernos ou habilitados 
+pelas tecnologias 
+da informação e 
+comunicação (TIC)
+Sociedade do cuidado
+Serviços intensivos 
+em mão de obra
+Governo digital
+Transição energética: 
+energias renováveis, 
+hidrogênio verde e lítio
+Eletromobilidade
+Economia circular
+Bioeconomia: agricultura 
+sustentável, recursos 
+genéticos e 
+bioindustrialização
+Agricultura para a 
+segurança alimentar
+Gestão sustentável da água
+Turismo sustentável
+Reacomodação geográﬁca da produção e das cadeias de valor no âmbito mundial
+Fonte: J. Salazar-Xirinachs e M. Llinás, “Hacia la transformación de la estrategia de crecimiento 
+y desarrollo de América Latina y el Caribe: el rol de las políticas de desarrollo productivo“ , 
+Revista CEPAL, N° 141 (LC/PUB.2023/29-P/-*), Santiago, Comissão Econômica para a 
+América Latina e o Caribe (CEPAL), 2023. 
+A implementação das políticas de desenvolvimento produtivo 
+requer instituições com a capacidade de executar processos 
+de formulação, administração, acompanhamento e avaliação 
+nas diversas áreas de competência com suficiente liderança e 
+capacidades técnicas, operacionais, políticas e prospectivas (TOPP). As 
+capacidades técnicas incluem, entre outras, a capacidade de construir 
+e implementar de maneira coletiva estratégias de desenvolvimento 
+produtivo que dialoguem com as estratégias nas outras dimensões 
+do desenvolvimento e sejam coerentes entre si num contexto 
+de planejamento integral do desenvolvimento. As capacidades 
+31
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+operacionais implicam, entre outras características, contar com 
+mecanismos e sistemas que permitam uma adequada articulação e 
+coordenação de esforços. As capacidades políticas estão relacionadas 
+com a capacidade de estabelecer e manter relações e interações entre 
+os diferentes atores que trabalham nessas agendas e de administrar 
+coalizões que permitam modificar equilíbrios políticos que estejam 
+inibindo a melhoria da produtividade. As capacidades prospectivas 
+estão relacionadas com o conhecimento das tendências de mudança 
+em tecnologias e mercados, de gerar cenários futuros e traçar rotas 
+para alcançá-los, bem como das capacidades para ajustar o rumo e 
+reagir a novas condições, que podem ser disruptivas.
+Outro elemento da proposta da CEPAL em 
+matéria de políticas de desenvolvimento produtivo 
+é a importância de aprofundar a dimensão 
+territorial, para o que se assinala a relevância 
+de adotar o enfoque de iniciativas de cluster 
+ou outras iniciativas de articulação produtiva 
+territorial. Além disso, propõe-se a adoção de 
+um enfoque de governança experimentalista 
+e a criação de mecanismos que garantam a 
+continuidade das políticas no longo prazo.
+A implementação de 
+políticas de desenvolvimento 
+produtivo requer instituições 
+fortalecidas, bem como a 
+adoção de um enfoque de 
+governança experimentalista 
+e a criação de mecanismos 
+que garantam a continuidade 
+das políticas no longo prazo.
+
+33
+V. Como reduzir a desigualdade e promover a 
+inclusão e a mobilidade social?
+Para superar a armadilha de alta desigualdade, baixa mobilidade social 
+e fraca coesão social, é necessário um enfoque integrado, que incida 
+simultaneamente nas causas fundamentais analisadas neste documento. 
+Este relatório identifica seis causas fundamentais desta armadilha.
+Em primeiro lugar, a desigualdade está arraigada no baixo 
+crescimento e na heterogeneidade produtiva que caracterizam a 
+região, associada a um mercado de trabalho pouco dinâmico, com alta 
+informalidade e grandes diferenças de produtividade entre setores, 
+tamanhos de empresas e territórios. Daí a importância das políticas de 
+desenvolvimento produtivo na redução da desigualdade e na promoção 
+da mobilidade social.
+Em segundo lugar, recomenda-se avançar 
+para sistemas tributários que sejam mais 
+progressivos e gerem recursos adicionais 
+para financiar as transformações, com base 
+no fortalecimento dos impostos diretos sobre 
+a renda, a propriedade e a riqueza, com o que 
+não só se disporia de mais recursos, mas 
+também se aproveitaria o potencial redistributivo 
+do sistema tributário. A estrutura tributária viesada para os impostos 
+indiretos limita significativamente o poder redistributivo do sistema 
+tributário na região. 
+A formulação e implementação bem-sucedida das reformas que 
+permitam melhorar a arrecadação e a progressividade do sistema tributário 
+depende, em grande medida, do fortalecimento das capacidades técnicas, 
+operacionais, políticas e prospectivas dos ministérios das finanças e 
+Para superar a armadilha 
+de alta desigualdade, baixa 
+mobilidade social e fraca 
+coesão social, é necessário 
+um enfoque integrado, que 
+incida simultaneamente nas 
+seis causas fundamentais 
+desta armadilha.
+34
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+das administrações tributarias. Além disso, o diálogo social é uma 
+precondição para a formulação de pactos fiscais duradouros, ou seja, 
+para abordar processos de reforma baseados em amplos consensos 
+que deem viabilidade política e social às mudanças impulsionadas, bem 
+como para gerar mecanismos de governança que contribuam para a 
+implementação e o acompanhamento destes pactos.
+Em terceiro lugar, os sistemas de proteção social também são um 
+âmbito fundamental para reduzir a desigualdade e aumentar a mobilidade 
+e a coesão social. Esses sistemas frequentemente articulam diversos 
+instrumentos e instituições, motivo pelo qual neles as capacidades 
+técnicas, operacionais, políticas e prospectivas adquirem um valor 
+adicional. A análise das políticas ativas do mercado de trabalho, dos 
+regimes previdenciários contributivos e não contributivos e dos sistemas 
+de saúde mostra déficits estruturais na região. Neste e em outros 
+campos é preciso fortalecer as instituições sociais. 
+A informalidade é uma característica estrutural dos mercados de 
+trabalho na América Latina e no Caribe. Em 2023, mais da metade 
+das pessoas ocupadas na região trabalhavam de maneira informal. O 
+fenômeno da informalidade se entrecruza com os eixos da desigualdade 
+social, observando-se grandes lacunas etárias, territoriais, de gênero e 
+socioeconômicas. A taxa de emprego informal é maior entre a população 
+jovem (51,6%) e a população de 65 anos ou mais (71,7%) e se concentra 
+sobretudo nas zonas rurais (69,8%) (veja o gráfico V .1). Apesar de no nível 
+agregado não se observarem diferenças significativas entre homens e 
+mulheres (a diferença é de cerca de 1 ponto percentual), as mulheres 
+estão sobrerrepresentadas nos trabalhos mais vulneráveis da economia 
+informal, como o trabalho doméstico, os trabalhos familiares auxiliares 
+e o trabalho em plataformas digitais que prestam serviços a domicílios 
+particulares (CEPAL, 2023b). Além disso, há uma maior proporção de 
+ocupados informais nos primeiros quintis de renda. De fato, devido 
+à baixa produtividade de suas ocupações, os trabalhadores informais 
+têm quatro vezes mais probabilidade do que os trabalhadores formais 
+de pertencer a domicílios de baixa renda (CEPAL, 2023b).
+Como um fator diretamente relacionado à informalidade, a região 
+apresenta baixo acesso à proteção social. Por exemplo, apesar de a 
+cobertura efetiva da previdência social ter aumentado na América Latina 
+desde 2000, em 2022 se situou em 47 ,9%; ou seja, somente uma de 
+cada duas pessoas da população economicamente ativa contribuía 
+para os regimes previdenciários.
+35
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+Gráfico V.1 
+América Latina (9 países)a: taxas de informalidade, por sexo, grupo de idade 
+e zona geográfica, terceiro trimestre de 2023
+(Em porcentagens) 
+47,8 48,2 47,2 51,6
+41,7
+48,1
+71,7
+41,2
+69,8
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Total Homens Mulheres 15 a 29
+anos
+30 a 44 
+anos
+45 a 64
+anos
+65 anos 
+ou mais
+Zonas
+urbanas
+Zonas
+rurales
+Fonte: Comissão Econômica para a América Latina e o Caribe (CEPAL), com base em pesquisas 
+de emprego.
+a Argentina, Bolívia (Estado Plurinacional da), Brasil, Chile, Colômbia, Costa Rica, México, 
+Paraguai e Peru. 
+Para fortalecer as políticas sociais e 
+de proteção social é preciso responder às 
+necessidades crescentes de coordenação 
+intersetorial e entre diversos níveis do 
+Estado, bem como reforçar a função de 
+planejamento na formulação de políticas 
+estratégicas num contexto de transformações 
+simultâneas. No caso das capacidades 
+técnicas, é fundamental fortalecer as ações 
+de planejamento que permitam dotar de orientações estratégicas 
+o processo de implementação das políticas do sistema de proteção 
+social em seu conjunto, por exemplo, melhorando os sistemas 
+integrais de informação e registros sociais de possíveis destinatários. 
+As capacidades operacionais requerem recursos humanos com os 
+níveis de capacitação, competências e compromisso necessários 
+para enfrentar os múltiplos desafios e necessidades das políticas 
+de proteção social, bem como instrumentos como o guichê único 
+para que a cidadania possa ter acesso por uma só via ao conjunto de 
+Para fortalecer as políticas 
+sociais e de proteção social 
+é preciso responder às 
+necessidades crescentes 
+de coordenação intersetorial 
+e entre diversos níveis do 
+Estado, bem como reforçar 
+as funções de planejamento, 
+implementação, coordenação 
+e prospecção.
+36
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+programas e prestações de proteção social. As capacidades políticas 
+são importantes para viabilizar o avanço nas políticas de proteção social 
+mediante a formação de amplos acordos. As capacidades prospectivas 
+são essenciais para prever as implicações de uma estrutura de riscos 
+sociais em processo de reconfiguração em matérias como as transições 
+demográfica, epidemiológica e nutricional, o aumento dos desastres 
+naturais e os impactos da crise climática e das transformações nas 
+tecnologias e no mundo do trabalho. 
+Em quarto lugar, para que a educação possa desenvolver seu potencial 
+como via de mobilidade social, é preciso haver não só altas taxas de 
+escolaridade, mas também uma melhoria na qualidade da aprendizagem. 
+Apesar dos significativos avanços ocorridos durante as últimas duas 
+décadas na educação na região em termos de acesso, progressão e 
+conclusão, continuam existindo grandes desafios tanto de cobertura 
+como de qualidade. Além disso, a velocidade da melhoria observada 
+nos indicadores de escolarização está diminuindo. A desigualdade 
+socioeconômica afeta significativamente as oportunidades de acesso à 
+educação e, sobretudo, de conclusão dos estudos. As diferenças entre 
+quintis de renda na educação secundária ainda são muito acentuadas 
+(veja o gráfico V .2). 
+A expansão da cobertura da educação superior, tanto técnica 
+como profissional, deve ser acompanhada de esforços para assegurar 
+padrões mínimos de qualidade que fomentem o desenvolvimento de 
+competências cognitivas, socioemocionais e digitais que permitam 
+construir trajetórias profissionais mais produtivas e de maior renda. 
+Além disso, é importante uma abordagem educacional e de formação 
+profissional ao longo de todo o ciclo de vida, desde a infância até à 
+idade adulta, concentrada no desenvolvimento das habilidades e dos 
+conhecimentos necessários para se desenvolver com êxito num mundo 
+do trabalho cada vez mais incerto e em constante transformação. 
+Portanto, para que a educação seja um verdadeiro promotor da mobilidade 
+social ascendente, os ministérios da educação enfrentam o desafio de 
+fortalecer as capacidades técnicas, operacionais, políticas e prospectivas. 
+Os ministérios responsáveis pelas políticas educacionais precisam de 
+visão e liderança para convocar um grupo amplo de atores públicos e 
+privados e formar um acordo político, social e fiscal que reconheça e 
+fortaleça o papel da educação para o desenvolvimento social inclusivo.
+37
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+Gráfico V.2  
+América Latina (14 países)a: taxa de conclusão do ensino primário, 1º ciclo 
+do ensino secundário e 2º ciclo do ensino secundáriob, por quintis 
+de renda extremos, 2000, 2010, 2015, 2019 e 2022
+(Em porcentagens)
+97,9 98,6 98,8 99,2 99,3
+92,7
+96,3 96,5 97,5 97,7
+79,1
+87,1 87,6 90,4 90,3
+82,1
+91,4 94,7
+95,995,9 96,8
+36,1
+63,7
+71,4
+75,6 79,3
+17,3
+37,1
+45,1
+48,5 54,0
+91,5 95,3 96,9 97,7 98,1
+68,7
+82,8 86,2 88,7 90,0
+46,8
+62,6
+67,2 70,4
+73,0
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2000 2010 2015 2019 2022 2000 2010 2015 2019 2022 2000 2010 2015 2019 2022
+Ensino primário 1º ciclo do ensino secundário 2º ciclo do ensino secundário
+TotalQuintil I Quintil V
+Fonte: Comissão Econômica para a América Latina e o Caribe (CEPAL), Banco de Dados de 
+Pesquisas Domiciliares (BADEHOG).
+a Média ponderada dos seguintes países: Argentina, Bolívia (Estado Plurinacional da), 
+Brasil, Chile, Colômbia, Costa Rica, El Salvador, Equador, México, Panamá, Paraguai, Peru, 
+República Dominicana e Uruguai.
+b Analisou-se a conclusão da educação primária entre os jovens de 15 a 19 anos e dos dois 
+ciclos da educação secundária entre os jovens de 20 a 24 anos.
+Em quinto lugar, uma causa fundamental da desigualdade é a 
+desigualdade de gênero. A proposta desenvolvida para combater a 
+desigualdade de gênero é a da sociedade do cuidado, uma proposta 
+transformadora essencial para reduzir a desigualdade e promover a 
+inclusão social. Em 2022, metade das mulheres na América Latina e 
+no Caribe faziam parte do mercado de trabalho, em comparação com 
+uma taxa de quase 75% no caso dos homens (CEPAL, 2023a). Segundo 
+as medições de uso do tempo realizadas em diversos países da região, 
+as mulheres dedicam três vezes mais tempo do que os homens ao 
+trabalho doméstico e de cuidados não remunerado (veja o gráfico V .3).
+38
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+Gráfico V.3  
+América Latina e Caribe (16 países): tempo total que a população de 15 anos 
+de idade ou mais destina ao trabalho remunerado e não remunerado em 
+média, por sexo, último ano com informação disponível
+(Em horas semanais)
+19,3
+16,8
+19,8
+16,9
+18,6
+22,1
+18,6
+21,4
+14,4
+14,3
+22,1
+23,3
+18,1
+20,3
+22,6
+20,9
+33,2
+22,1
+42,4
+34,3
+35,2
+35,3
+37,2
+37,7
+41,9
+29,1
+42,8
+31,5
+28,5
+40,2
+25,5
+33,6
+52,5
+38,9
+62,2
+51,2
+53,8
+57,4
+55,8
+59,1
+56,3
+43,4
+64,8
+54,8
+46,6
+60,5
+48,1
+54,5
+36,6
+28,3
+34,6
+39,5
+37,0
+34,3
+39,6
+41,2
+38,4
+38,6
+44,6
+41,7
+35,4
+40,0
+37,5
+32,1
+17,6
+11,1
+19,4
+12,6
+18,0
+19,8
+10,0
+17,5
+8,3
+6,7
+16,9
+13,9
+11,8
+16,3
+10,9
+18,1
+54,1
+39,4
+54,0
+52,0
+54,9
+54,1
+49,6
+58,8
+46,7
+45,4
+61,5
+55,6
+47,2
+56,3
+48,4
+50,1
+Argentina, 2021
+Brasil, 2019
+Chile, 2015
+Colômbia, 2021
+Costa Rica, 2022
+Cuba, 2016
+Equador, 2012
+El Salvador, 2017
+Guatemala, 2022
+Honduras, 2009
+México, 2019
+Panamá, 2011
+Paraguai , 2016
+Peru, 2010
+Rep. Dominicana, 2021
+Uruguai, 2022a
+Homens Mulheres
+Trabalho remunerado Trabalho não remunerado  Tempo total de trabalho
+Fonte: Comissão Econômica para a América Latina e o Caribe (CEPAL), Repositório de 
+informação sobre uso do tempo na América Latina e no Caribe.
+Nota: Não se apresenta uma média regional porque as diferenças metodológicas entre os 
+países fazem com que os dados não sejam comparáveis. 
+a Dados preliminares.
+Avançar para a sociedade do cuidado exige 
+instituições encarregadas do tema robustas 
+e com sólidas capacidades. A proposta de 
+uma transformação estrutural com o cuidado 
+e a sustentabilidade da vida no centro do 
+modelo de desenvolvimento nasce de marcos 
+analíticos, levantamentos de informação 
+e sistematização de anos de pesquisa em 
+temas de gênero e autonomia das mulheres, 
+o que requer o fortalecimento de capacidades 
+técnicas. Fortalecer a sociedade do cuidado requer também o 
+desenvolvimento de capacidades operacionais, inclusive ferramentas 
+A sociedade do cuidado 
+é uma proposta 
+transformadora essencial 
+para reduzir a desigualdade 
+e promover a inclusão social. 
+Avançar para a sociedade do 
+cuidado exige instituições 
+encarregadas do tema 
+robustas e com  
+sólidas capacidades.
+39
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+de gestão, como a incorporação de informação georreferenciada 
+da oferta de cuidados disponível, e a sistematização de aspectos 
+socioterritoriais relativos às demandas de cuidado em plataformas 
+digitais que permitam a tomada de decisões sobre a implementação 
+de políticas de cuidado. O desenvolvimento de capacidades políticas 
+é fundamental para impulsionar e administrar efetivamente as 
+transformações para uma sociedade do cuidado. Isto implica o 
+fortalecimento da governança democrática, a promoção do diálogo 
+social e a construção de consensos. As capacidades prospectivas 
+correspondem, por exemplo, à projeção de tendências sobre as 
+mudanças demográficas, a capacidade da sociedade do cuidado 
+de gerar empregos, os custos de criação de redes de cuidado e 
+outros temas. 
+Em sexto lugar, as cidades da América Latina e do Caribe tendem 
+a ser fábricas de desigualdades, com altos níveis de ocupação informal 
+do solo e construções que não cumprem os códigos de obras, 
+segregação espacial com altos custos de transporte para os setores 
+pobres, aglomeração habitacional e outras privações de acesso a 
+serviços de água, saneamento e eletricidade. Tudo isso leva a altos 
+níveis de exclusão social. Desta forma, avançar na criação de cidades 
+inclusivas é parte fundamental da agenda para reduzir as desigualdades 
+e melhorar a coesão social na região. Esta agenda exige a promoção de 
+um processo participativo que construa cenários além da extrapolação 
+das tendências atuais.
+É necessária uma narrativa que inclua a multidimensionalidade 
+do desenvolvimento urbano, reconhecendo a existência de vias 
+institucionais, e incorpore, com uma visão de economia política, a 
+formulação de cenários futuros. Esta nova narrativa deve ser acompanhada 
+do fortalecimento das capacidades técnicas, operacionais, políticas 
+e prospectivas das instituições. As capacidades técnicas requerem 
+a integração das diversas dimensões da política urbana, econômica, 
+social e ambiental. As operacionais requerem, entre outras coisas, a 
+ampliação das capacidades para o planejamento urbano e a utilização de 
+tecnologia e macrodados para otimizar a oferta de serviços públicos. As 
+capacidades políticas incluem a capacidade de liderar a formulação de 
+visões integrais e utilizar mecanismos de consulta pública e participação 
+nos processos de planejamento. As capacidades prospectivas incluem 
+aspectos como a capacidade de identificar tendências na demanda de 
+serviços urbanos a partir de evoluções sociodemográficas e atualizar a 
+arquitetura e os projetos urbanos para as novas realidades do século XXI.
+40
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+Trabalhar e incidir somente em uma ou duas dessas causas 
+fundamentais da alta desigualdade, baixa mobilidade social e fraca 
+coesão social não será suficiente para sair da armadilha: para conseguir 
+a grande transformação de reduzir a desigualdade, elevar a mobilidade 
+social e fortalecer a coesão social é necessário um enfoque integrado 
+que incida simultaneamente em todas elas. Esta talvez seja uma das 
+razões pelas quais a desigualdade é uma das características mais bem 
+conhecidas, mas também a que mais resiste a ser transformada nos 
+países da região, junto com os interesses e equilíbrios de poder que 
+se opõem à melhoria de vários desses aspectos. 
+41
+VI. Como promover a sustentabilidade  
+e enfrentar a mudança climática?
+A terceira grande transformação proposta pela CEPAL neste relatório 
+está relacionada com a sustentabilidade e a mudança climática. Além 
+de adotar enfoques transversais, é preciso atribuir ênfase a setores 
+específicos. Este relatório inclui uma análise dos seguintes setores: 
+i) a transição energética, ii) a eletromobilidade, iii) os minerais essenciais 
+para a transição energética e a eletromobilidade, iv) a gestão sustentável 
+da água, v) o turismo sustentável, vi) a bioeconomia e vii) a economia 
+circular. A gestão da transformação nestes e em outros setores requer a 
+adoção do enfoque moderno de políticas de desenvolvimento produtivo. 
+Da mesma forma que nas duas transformações anteriores, a promoção 
+da sustentabilidade também apresenta desafios de governança, de 
+fortalecimento das capacidades técnicas, operacionais, políticas e 
+prospectivas das instituições e de diálogo social. 
+Os impactos da mudança climática e as 
+respostas a esse fenômeno estão moldando 
+a economia mundial. A transição para uma 
+economia de baixas emissões de carbono 
+exigirá uma transformação estrutural com uma 
+escala, alcance e velocidade sem precedentes 
+(IPCC, 2023). Em 2022, o mundo emitiu, em 
+média, 0,6 tonelada por 1 .000 dólares do PIB de 2015, em comparação 
+com 0,8 tonelada emitida em 2000. Este indicador é uma medida da 
+pegada de carbono da economia. No âmbito mundial, entre 2000 e 
+2014, a economia se descarbonizou a uma taxa de 0,7% ao ano, e a 
+partir de 2015, ano da assinatura do Acordo de Paris, esta taxa duplicou. 
+A América Latina e o Caribe praticamente geram o mesmo volume de 
+emissões por unidade do PIB que a média mundial. Porém, embora 
+A terceira grande 
+transformação proposta 
+está relacionada com 
+a sustentabilidade e 
+a mudança climática, 
+enfatizando sete setores 
+específicos.
+42
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+apresentassem a mesma taxa de descarbonização no período anterior ao 
+Acordo de Paris, não progrediram ao mesmo ritmo do mundo no aumento 
+da velocidade de descarbonização, já que, pelo contrário, registraram 
+desaceleração entre os dois períodos de estudo (veja o gráfico VI.1).
+Gráfico VI.1 
+Países e regiões do mundo selecionados: pegada de carbono e velocidade  
+de descarbonização da economia, 2000-2022
+A. Pegada de carbono 
+(Em toneladas de CO2eq por 1.000 dólares do PIB de 2015)  
+0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+China
+União Europeia (27 países)
+Índia América Latina e Caribe 
+Estados Unidos
+Mundo
+B. Velocidade de descarbonização
+(Taxa de variação da pegada de carbono)
+-2,8
+-2,2
+-2,3
+-0,9
+-2,6
+-0,7
+-3,3
+-2,9
+-2,7
+-0,7
+-2,6
+-1,5
+-4,0
+-3,5
+-3,0
+-2,5
+-2,0
+-1,5
+-1,0
+-0,5
+0
+China União Europeia
+(27 países)
+Índia América Latina 
+e Caribe 
+Estados
+Unidos
+Mundo
+2000-2014 2015-2022
+Fonte: Comissão Econômica para a América Latina e o Caribe (CEPAL), com base em Banco 
+Mundial, “World Development Indicators” [on-line] https://databank.worldbank.org/
+source/world-development-indicators e M. Crippa e outros, GHG emissions of all world 
+countries, Luxemburgo, Escritório de Publicações da União Europeia, 2023.
+Nota: As emissões não incluem a mudança no uso do solo.
+43
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+Estimativas recentes (Rede de Bancos 
+Centrais e Supervisores para Ecologizar o 
+Sistema Financeiro, s.d.) mostram que, se 
+o mundo começar uma rápida transição para 
+economias com baixas emissões de carbono 
+(cenário de transição ordenada), em 2050 o PIB 
+da América Latina e do Caribe poderia ser cerca 
+de 8% superior ao PIB resultante de manter 
+as políticas atuais. Estes ganhos líquidos são 
+obtidos ao evitar os danos da mudança climática, mesmo descontando 
+os custos que as políticas de redução de emissões possam ter. A 
+transição para economias com baixas emissões de carbono exigirá a 
+criação de novos setores, reduzindo ou eliminando outros. Este é o 
+conceito schumpeteriano de “destruição criativa do progresso técnico” , 
+que agora se apresenta numa dimensão massiva e sistêmica.
+Transição energética
+Embora na região exista um enorme potencial de geração de energias 
+renováveis, são aproveitados somente 30% do potencial hidrelétrico, 
+10% do eólico e 1% do solar (OLADE, 2023), e sua distribuição é muito 
+heterogênea. Entre os setores com alto potencial de transformação 
+produtiva e de modelos de negócio que podem contribuir para a transição 
+energética também se encontra o do hidrogênio verde e derivados, 
+como o metanol, o amoníaco e os combustíveis sintéticos.
+Aumentar a interconexão e integração energética regional também 
+é fundamental para acelerar a transição energética, aumentando a 
+segurança e a resiliência a choques climáticos. Apesar do imenso 
+potencial de integração energética da região, que poderia multiplicar 
+por seis a capacidade de transmissão até 2050 e facilitar a penetração 
+das energias renováveis, os anúncios de novos projetos em estudo ou 
+execução não são muito alentadores. É preciso contar com políticas 
+públicas ativas, incentivos ao investimento, desenvolvimento de 
+infraestrutura, fortalecimento institucional, marcos regulatórios claros 
+e cooperação que facilitem o intercâmbio energético.
+Junto com a oportunidade que as energias renováveis e a 
+integração energética apresentam, a eficiência energética pode reduzir 
+a vulnerabilidade nos sistemas e a dependência de combustíveis e 
+derivados fósseis importados, apoiar a acessibilidade dos serviços 
+energéticos, adiar investimentos em infraestrutura energética, mitigar 
+impactos ambientais locais adversos e reduzir os níveis de emissões.
+Como nas duas transformações 
+anteriores, a promoção da 
+sustentabilidade também 
+apresenta desafios de 
+governança, fortalecimento 
+das capacidades técnicas, 
+operacionais, políticas e 
+prospectivas das instituições 
+e diálogo social. 
+44
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+Para uma transição energética justa e sustentável, é necessário 
+contar com processos de planejamento e um papel ativo do Estado, 
+com o apoio dos organismos e instâncias internacionais, e a participação 
+multinível dos diversos atores privados: empresas, sociedade civil e 
+setor acadêmico. A implementação efetiva e o acompanhamento e 
+avaliação contínuos são essenciais para assegurar que estas políticas 
+atinjam os objetivos previstos. Numa governança efetiva da transição 
+energética é preciso criar ou fortalecer os processos de participação 
+democrática dos cidadãos na tomada de decisões de política pública, 
+pois implica mudanças profundas, como as formas de produzir e 
+consumir a energia.
+Eletromobilidade
+A mobilidade é fundamental para a produtividade, a equidade e a 
+sustentabilidade nas cidades. Na América Latina e no Caribe, uma região 
+com alto grau de urbanização, a mobilidade é uma das atividades que 
+mais geram gases de efeito estufa. Por isso, o transporte constitui um 
+pilar das estratégias de mitigação e costuma ser incluído nos planos 
+de ação climática nacionais e das cidades. As ações sobre mobilidade 
+devem incorporar a mudança de tecnologia e têm que explorar as 
+possibilidades de encadeamento deste serviço num contexto de 
+governança complexa. O abandono dos combustíveis fósseis melhoraria 
+a qualidade de vida dos moradores urbanos, mas a desorganização da 
+provisão de mobilidade pública, a fraqueza das instituições e, sobretudo, 
+a incerteza da sustentabilidade financeira dos sistemas põem em dúvida 
+a efetividade dos investimentos previstos para remodelar o parque 
+automotivo além de uma redução das emissões. Uma abordagem 
+sistêmica da eletromobilidade supõe atuar sobre seus elementos a 
+fim de potencializar o impacto dos investimentos necessários para a 
+aquisição de veículos elétricos, a geração e transmissão de energia 
+renovável e a habilitação de estações de recarga.
+Também é necessária uma mudança de paradigma, que transcenda 
+a visão setorial do transporte para uma estratégia integral de mobilidade 
+sustentável. Esta visão passa por importantes considerações das 
+capacidades técnicas, operacionais, políticas e prospectivas das instituições 
+e da governança. As capacidades técnicas incluem a promoção de uma 
+política pública integrada sobre eletromobilidade e a geração de dados 
+sobre as inter-relações e impactos cruzados de ordem econômica, social 
+e ambiental. Quanto às capacidades operacionais, destaca-se o uso de 
+tecnologia e macrodados para incentivar a utilização do transporte público, 
+45
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+levando em consideração o papel da mobilidade nas tarefas de cuidado. 
+As capacidades políticas incluem a de promover uma visão integral da 
+eletromobilidade que gere confiança entre todos os atores importantes 
+e fomente a cooperação. Entre as capacidades prospectivas destaca-se 
+a de prospectiva tecnológica para prever a disponibilidade e penetração 
+de diversas fontes de energia (etanol, biogás, eletricidade, hidrogênio), 
+bem como a identificação de tendências na demanda do serviço público 
+de eletromobilidade. É imprescindível ter uma comunicação fluida e 
+planejamento conjunto entre instituições estatais no âmbito nacional 
+e entre estas e as autoridades locais conhecedoras das tendências e 
+oportunidades nas cidades. A governança também abrange vínculos 
+claros e formais com o setor privado e a sociedade civil, com lideranças 
+públicas que aproveitem a oportunidade que a eletromobilidade oferece. 
+Entender a eletromobilidade como um sistema permitirá aproveitar 
+cabalmente o impacto que os investimentos maciços na renovação 
+das frotas públicas (e privadas) de automotores e os investimentos e 
+gastos associados poderiam ter sobre as cidades.
+Minerais críticos
+Parte importante do grande impulso para a sustentabilidade é a gestão 
+responsável da cadeia de fornecimento de minerais, que, por sua vez, 
+é um aspecto crucial para garantir uma transição energética justa, 
+efetiva, inclusiva e sustentável. A transição para fontes de energia 
+renováveis e a expansão da eletromobilidade estão impulsionando 
+uma crescente demanda de minerais críticos, como o lítio, o cobre, 
+o cobalto, o grafite e o níquel. Por exemplo, a demanda mundial de 
+lítio pode crescer mais de dez vezes até 2050 e a de cobalto poderia 
+multiplicar-se por três, podendo ocorrer aumentos muito significativos 
+da demanda dos outros minerais num cenário de zero emissões líquidas 
+da Agência Internacional de Energia (AIE). A América Latina e o Caribe 
+têm o potencial para contribuir com o fornecimento mundial de vários 
+desses minerais críticos, já que contam com importantes reservas 
+de lítio, cobre, prata, estanho, molibdênio, grafite e outros minerais 
+(veja o gráfico VI.2).
+46
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+Gráfico VI.2  
+América Latina e Caribe (13 países): participação nas reservas mundiais  
+de minerais selecionados, 2000 e 2023 
+(Em porcentagens)
+0
+25
+50
+75
+100
+2000
+2023
+2000
+2023
+2000
+2023
+2000
+2023
+2000
+2023
+2000
+2023
+2000
+2023
+2000
+2023
+2000
+2023
+2000
+2023
+2000
+2023
+2000
+2023
+2000
+2023
+2000
+2023
+Argentina Bolívia (Est. Plur. da)BrasilChile
+ColômbiaCubaGuatemala
+Jamaica
+MéxicoPeru
+Rep. Dominicana
+Suriname
+Venezuela (Rep. Bol. da)
+Lítio
+Cobre
+Prata
+Molibdênio
+Graﬁte
+Estanho
+Ferro
+Terras raras
+ Níquel
+Bauxita e
+ alumina
+Chumbo
+Zinco
+Ouro
+Cobalto
+Fonte: Comissão Econômica para a América Latina e o Caribe (CEPAL), com base em Serviço 
+Geológico dos Estados Unidos, Mineral Commodity Summaries 2024, Reston, 2024.
+A produção e refinação dos minerais tem importantes desafios 
+de natureza socioambiental que devem ser bem administrados. 
+Além disso, há desafios relacionados com uma melhor gestão das 
+receitas e gastos fiscais relacionados com a exploração dos recursos 
+minerais e com a industrialização e agregação de valor dos mesmos, 
+o que requer a aplicação de políticas de desenvolvimento produtivo 
+a partir dos minerais críticos para que os países não fiquem só na 
+etapa extrativa. No futuro, com a previsível expansão das energias 
+renováveis e do hidrogênio verde, os países com minerais críticos e 
+novas fontes de recursos renováveis terão cada vez mais vantagem no 
+acesso a mercados que seriam ambientalmente mais restritivos. Para 
+avançar nesta direção, é necessária uma nova governança dos recursos 
+naturais na região. Recomenda-se que esta nova governança seja 
+multinível, transparente, democrática e efetiva, incorpore o enfoque 
+de ciclo de vida dos recursos naturais e considere os territórios. O 
+fortalecimento das capacidades técnicas, operacionais, políticas e 
+47
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+prospectivas contribuirá para essa nova governança e permitirá que os 
+países da região desenvolvam uma visão estratégica de longo prazo, 
+regulamentação adequada e maior coordenação.
+Gestão sustentável da água
+Os fenômenos extremos associados com a mudança climática e o 
+desmatamento afetam com força o ciclo hidrológico, provocando 
+perturbações no acesso à água potável e ao saneamento, bem como 
+nas atividades produtivas, inclusive a segurança alimentar e energética, 
+aprofundando as desigualdades socioeconômicas e aumentando a 
+migração. A América Latina e o Caribe são a segunda região do mundo 
+onde ocorrem mais desastres. Nas últimas três décadas, os desastres 
+relacionados com a água e a mudança climática representaram 88% 
+de todos os desastres ocorridos na região, 77% do custo econômico e 
+89% das pessoas afetadas (CEPAL, 2024d), observando-se aumento da 
+frequência e intensidade. Além disso, a disponibilidade hídrica também 
+é afetada pela queda na qualidade da água, inclusive maior poluição, o 
+que afeta a saúde tanto humana como ecossistêmica.
+Avançar para a transição hídrica na região exige ações em quatro 
+pilares: a universalização do acesso, a redução da pobreza hídrica, 
+a contenção de externalidades negativas (o que requer medidas de 
+adaptação à mudança climática) e a introdução de novas tecnologias 
+e enfoques, como a economia circular. Além disso, é indispensável 
+ajustar os marcos regulatórios para atrair novos investidores, o que, por 
+sua vez, requer instrumentos e sistemas de financiamento inovadores. 
+Fortalecer a governança da água e as capacidades técnicas, operacionais, 
+políticas e prospectivas das instituições deste setor é fundamental para 
+melhorar a gestão hídrica nos países da região.
+Turismo sustentável
+O turismo é um setor dinâmico e de grande impacto no desenvolvimento 
+de muitos países da América Latina e do Caribe. A região recebeu 
+76 milhões de turistas em 2023, que deixaram uma receita de 118 bilhões 
+de dólares. Estima-se que o turismo contribui com 10% do emprego 
+na América Latina e 35% no Caribe. Assegurar sua sustentabilidade 
+é parte central do desenvolvimento inclusivo e sustentável de muitos 
+países e territórios.
+48
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+A complexidade do turismo exige a interação de diversos setores sob 
+a direção das autoridades nacionais de turismo. É necessário promover 
+as capacidades dos governos nacionais para empoderar as comunidades 
+locais de maneira que estas se apropriem das estratégias turísticas e 
+coordenem sua implementação com os governos subnacionais. Além 
+disso, são necessários espaços de planejamento e tomada de decisões 
+sobre o futuro das atividades turísticas que incluam as comunidades e 
+estratégias de comunicação e informação relevantes para comunidades 
+e empresas. Para isso, são necessários mecanismos de coordenação e 
+acesso e intercâmbio de dados públicos e privados. O diálogo social e o 
+fortalecimento da governança são cruciais para atingir estes objetivos.
+Bioeconomia
+Outro elemento fundamental para o desenvolvimento sustentável é o 
+fomento da bioeconomia como um motor para a transformação produtiva. 
+A CEPAL (2024d) destacou o poder disruptivo da bioeconomia para 
+enfrentar problemas de alcance mundial como a mudança climática, 
+melhorar a gestão ambiental na agricultura, responder a mudanças nos 
+hábitos de consumo da população, diversificar e sofisticar as estruturas 
+produtivas e aumentar a agregação de valor. 
+Para aproveitar o poder transformador da bioeconomia é preciso 
+fortalecer as capacidades para a elaboração de estratégias que fomentem 
+sinergias com outros setores impulsionadores da grande transformação 
+produtiva, bem como fortalecer os mecanismos de coordenação entre as 
+instituições setoriais responsáveis pela implementação das estratégias 
+e planos de ação. Também são necessárias a criação e a implementação 
+de mecanismos de diálogo multissetorial e de múltiplos atores para 
+conciliar visões em torno da formulação de marcos regulatórios e 
+de incentivos e o desenvolvimento e fortalecimento de capacidades 
+para a vigilância sobre desenvolvimentos tecnológicos e mudanças 
+em padrões de consumo relevantes para o desenvolvimento futuro 
+da bioeconomia.
+Economia circular
+Por último, outro elemento importante para avançar rumo ao 
+desenvolvimento sustentável analisado neste relatório é a promoção 
+da economia circular. A economia circular aplica uma nova lógica de 
+produção e consumo mediante a otimização e a permanência do uso 
+e valor dos recursos na economia, a partir da inovação tecnológica e 
+do desenvolvimento de novos modelos de negócio. Nessa lógica, 
+49
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+a economia circular é um sistema em que os materiais não se 
+convertem em resíduos e a natureza se regenera. Os materiais são 
+mantidos em circulação por meio de processos que começam no 
+ecodesign dos produtos e se priorizam as tarefas de manutenção, 
+reparação, reutilização, remanufatura, reciclagem e compostagem, 
+promovendo um descolamento entre o consumo de recursos naturais 
+e a atividade econômica.
+O relatório The Circularity GAP Report: 
+Latin America and the Caribbean (Circle 
+Economy, 2023) indica que a implementação 
+de estratégias de economia circular poderia 
+reduzir tanto o uso de materiais como a 
+pegada de carbono em aproximadamente 
+30%. Ao mesmo tempo, estima-se que nos 
+próximos anos as políticas e investimentos 
+para esta transformação chegariam a 47 4 bilhões de dólares em 
+quatro setores-chave: agroalimentar, manufatura e gestão de resíduos, 
+ambiente construído e mobilidade. Essa quantia estaria disponível se 
+a carga fiscal nos países da região alcançasse a média da Organização 
+para a Cooperação e Desenvolvimento Econômico (OCDE), podendo 
+gerar até 8,8 milhões de postos de trabalho formais (veja o gráfico VI.3) 
+(Circle Economy, 2023).
+Gráfico VI.3  
+América Latina e Caribe: benefícios estimados em empregos formais após 
+a adoção de políticas de circularidade e os investimentos associados
+(Em bilhões de dólares e milhões de empregos)
+Emprego (eixo direito)Investimento
+1,2
+1,6
+1,9
+4,1
+66
+105
+145
+158
+MobilidadeAmbiente
+construído
+Manufatura e gestão
+de resíduos
+Setor 
+agroalimentar
+0
+20
+40
+60
+80
+100
+120
+140
+160
+0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+3,5
+4,0
+4,5
+Fonte: Comissão Econômica para a América Latina e o Caribe (CEPAL), com base em Circle 
+Economy, “The Circularity GAP Report 2023: we live in the overshoot era” , 2023 
+[on-line] https://www.circularity-gap.world/2023.
+A implementação de 
+estratégias de economia 
+circular poderia reduzir o uso 
+de materiais e a pegada de 
+carbono, gerando benefícios 
+econômicos significativos 
+em termos de aumento do 
+emprego e da produção.
+50
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+O avanço para a economia circular supõe uma grande transformação 
+nos sistemas de produção e consumo, o que requer investimentos, 
+incorporação de novas tecnologias, demanda de novos talentos e 
+competências e criação de novos empregos. Nesse sentido, trata-se de 
+uma transformação produtiva que resulta em modelos de desenvolvimento 
+mais produtivos, inclusivos e sustentáveis. O impulso à economia circular 
+necessita não só de soluções técnicas, mas também de uma governança 
+adequada baseada na colaboração entre atores, a construção de métricas, 
+guias de longo prazo e estratégias nacionais e o desenvolvimento de 
+instrumentos econômicos, financeiros e regulatórios, entre outros 
+elementos. Além disso, é preciso fortalecer os instrumentos regulatórios 
+que contribuam para estabelecer e ampliar os modelos de negócio 
+circulares, alinhar instrumentos econômicos e financeiros de modo a 
+reorientar os investimentos para a circularidade e desenvolver uma sólida 
+governança com plataformas colaborativas na qual o setor acadêmico, 
+o setor privado e o setor público possam coordenar esforços em torno 
+de soluções circulares inovadoras.
+51
+VII. Como mobilizar financiamento para o 
+desenvolvimento tanto no âmbito nacional 
+como no internacional?
+Para conseguir avanços substanciais nas transformações propostas pela 
+CEPAL neste relatório, bem como nos ODS relacionados, é preciso 
+mobilizar recursos financeiros no âmbito nacional e internacional. De 
+acordo com estimativas do Banco Interamericano de Desenvolvimento 
+(BID) (Bendersky, 2019), a lacuna de financiamento e investimentos 
+necessários para alcançar os ODS nos países da América Latina e 
+do Caribe se situa em torno de 650 bilhões de dólares anuais. O 
+financiamento dos investimentos necessários exige um esforço em 
+grande escala que supõe a mobilização de recursos públicos e privados, 
+tanto no âmbito nacional como no internacional. 
+A limitada capacidade de mobilização de 
+recursos públicos no âmbito nacional gerou 
+um viés fiscal deficitário e uma pressão 
+contínua sobre a dívida pública (CEPAL, 2021). 
+Esta situação foi agravada pela acentuada 
+desaceleração do crescimento da arrecadação 
+tributária a partir da crise financeira mundial de 
+2008, o que contrasta com o elevado dinamismo antes da crise (veja 
+o gráfico VII.1A). Em consequência, a lacuna tributária entre a região 
+e a Organização para a Cooperação e Desenvolvimento Econômico 
+(OCDE) se manteve relativamente constante desde então. Em 2022, 
+a receita tributária do governo geral registrou uma média de 21,5% 
+do PIB na América Latina e no Caribe, em comparação com 34,0% 
+do PIB nos países da OCDE (veja o gráfico VII.1B). 
+Para conseguir avanços 
+substanciais nas 
+transformações propostas 
+pela CEPAL é preciso 
+mobilizar recursos 
+financeiros no âmbito 
+nacional e internacional.
+52
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+Gráfico VII.1  
+América Latina e Caribe e Organização para a Cooperação e Desenvolvimento 
+Econômico (OCDE): receita tributária do governo geral, 1990-2022 e 2022
+(Em porcentagens do PIB)
+OCDE América Latina e Caribe
+A. Média, 1990-2022
+0
+5
+10
+15
+20
+25
+30
+35
+40
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+10,6
+13,1 13,9 14,4 14,7 16,9
+18,3 18,4 19,119,2 19,6 19,720,9 21,4 21,5 22,1
+22,9 23,7 23,7 23,9 25,5 26,6
+27,8 29,3 29,6 30,5
+33,3 34,0
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Guiana
+Panamá
+Rep. Dominicana
+Guatemala
+Paraguai
+México
+Cuba
+Santa Lúcia
+Antígua e Barbuda
+Peru
+Bahamas
+Colômbia
+Equador
+Honduras
+América Latina
+e Caribe
+Belice
+El Salvador
+Trinidad e Tabago
+Bolívia (Est. Plur. da)
+Chile
+Costa Rica
+Uruguai
+Nicarágua
+Jamaica
+Argentina
+Barbados
+Brasil
+OCDE
+B. Nível por país, 2022
+Fonte: Comissão Econômica para a América Latina e o Caribe (CEPAL), com base em 
+Organização para a Cooperação e Desenvolvimento Econômico (OCDE), OECD.Stat 
+[on-line] https://stats.oecd.org.
+A estrutura tributária da região se caracteriza por um maior peso 
+dos impostos indiretos, que por sua própria natureza são regressivos. 
+Além disso, a evasão e elusão fiscal continua sendo um dos principais 
+obstáculos à mobilização de recursos internos para o financiamento 
+53
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+do desenvolvimento. A necessidade de mobilizar receita tributária 
+tem aumentado num contexto de maiores níveis de endividamento. 
+Durante os últimos anos, a dívida pública bruta dos governos centrais 
+na América Latina passou de 29,4% do PIB em 2008 para 55,0% do 
+PIB em 2023, enquanto no Caribe a dívida pública se manteve em níveis 
+elevados, situando-se em 70,3% do PIB em 2023 (CEPAL, 2024c). O 
+aumento do endividamento público e os crescentes custos financeiros 
+levaram a um aumento significativo dos pagamentos de juros na região.
+É crucial fortalecer as finanças públicas 
+aumentando a capacidade de mobilização de 
+recursos mediante a melhoria da arrecadação 
+tributária, mas também é preciso um marco 
+sustentável para as finanças públicas, permitindo 
+uma gestão eficiente da dívida pública, reduzindo 
+os déficits fiscais e assegurando a estabilidade 
+macroeconômica.
+Outra estratégia essencial é o uso integral de ferramentas de 
+estabilização macroeconômica, já que a implementação de políticas 
+macroprudenciais pode aumentar a resiliência do setor financeiro e 
+atenuar a volatilidade macroeconômica, complementando outras políticas 
+econômicas para melhorar a gestão do ciclo econômico. É necessário 
+ajustar as políticas monetárias e fiscais para apoiar o investimento e o 
+crescimento, evitando políticas pró-cíclicas que exacerbem as flutuações 
+econômicas. Também é necessário impulsionar ações além da região 
+para incidir em reformas na arquitetura financeira internacional que 
+facilitem o acesso a recursos para o desenvolvimento.
+A promoção da inclusão financeira também é de grande importância 
+para mobilizar o financiamento do desenvolvimento. Para isso, são 
+necessários esforços públicos e privados orientados a fortalecer, entre 
+outras coisas, a institucionalidade e a estabilidade econômicas, bem 
+como a institucionalidade jurídica, e a impulsionar a criação de novos 
+instrumentos para a gestão dos riscos de índole econômica e financeira. 
+Além disso, é preciso adotar uma nova perspectiva da inovação financeira 
+que permita canalizar os recursos para o setor produtivo e os objetivos 
+de desenvolvimento. Os bancos de desenvolvimento desempenham um 
+papel substancial na geração de inovação orientada ao financiamento, 
+tanto de forma direta como através da articulação com outros bancos.
+É crucial fortalecer as 
+finanças públicas mediante 
+a melhoria da arrecadação 
+tributária, mas também 
+é preciso um marco 
+sustentável para as finanças 
+públicas, permitindo uma 
+gestão eficiente da  
+dívida pública.
+54
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+Quanto aos recursos privados internacionais, é preciso formular 
+estratégias integrais para a atração de investimento estrangeiro direto e 
+sua vinculação com o resto da estrutura produtiva nacional, bem como o 
+fomento de um maior uso produtivo das remessas familiares. O desafio 
+de atrair e reter IED que contribua ao desenvolvimento sustentável e 
+inclusivo da região continua mais vigente do que nunca e os países têm 
+que realizar esforços de política relevantes se quiserem contar com IED 
+que apoie seu processo de desenvolvimento e materialize o potencial 
+desse investimento para a construção de capacidades, a criação de 
+empregos de qualidade, a transferência tecnológica e a diversificação 
+e sofisticação da matriz produtiva (CEPAL, 2023c).
+Além disso, a arquitetura financeira internacional é inadequada para 
+as necessidades de cumprimento dos ODS e de combate à mudança 
+climática. Os desembolsos das instituições financeiras multilaterais não 
+mantiveram o ritmo necessário para fechar a lacuna de financiamento 
+para o desenvolvimento e o volume dos recursos transferidos aos 
+países em desenvolvimento é demasiadamente baixo (Summers e 
+outros, 2023). Estima-se que o financiamento comprometido para a 
+América Latina e o Caribe por parte dos bancos mundiais e regionais 
+de desenvolvimento alcançou 41 bilhões de dólares em 2023, existindo 
+uma lacuna de financiamento anual estimada pelo BID (Bendersky, 
+2019) de 650 bilhões de dólares.
+O aumento dos níveis de dívida e a baixa taxa de crescimento 
+econômico, junto com condições internacionais mais restritivas, 
+limitam significativamente o espaço fiscal dos países da região. As 
+vulnerabilidades da dívida aumentaram e a qualidade do crédito soberano 
+se deteriorou. Esta situação obstaculiza gravemente a capacidade 
+dos países para acelerar o ritmo no cumprimento dos Objetivos de 
+Desenvolvimento Sustentável. 
+Por isso, as propostas de reforma da arquitetura financeira 
+internacional apresentadas pelo Secretário-Geral das Nações Unidas 
+(Nações Unidas, 2023) são fundamentais para criar um ambiente 
+internacional mais favorável às necessidades de financiamento dos 
+países em desenvolvimento. Essas propostas se referem à modernização 
+da governança econômica mundial, mecanismos de resolução da 
+dívida soberana, aumento da capacidade de empréstimos dos bancos 
+multilaterais e reciclagem dos direitos especiais de saque (DES), além 
+das reformas em matéria de tributação internacional. 
+Essas propostas foram discutidas em diversos fóruns, como as 
+negociações prévias à aprovação do Pacto para o Futuro, e os preparativos 
+55
+Comissão Econômica para a América Latina e o Caribe (CEPAL) • 2024
+para a Quarta Conferência Internacional sobre Financiamento para o 
+Desenvolvimento, a ser realizada na Espanha em julho de 2025. Além 
+das Nações Unidas, estão sendo realizadas importantes ações nas 
+instituições financeiras internacionais, em agrupamentos informais 
+de países como o Grupo dos 20 (G20) e o Grupo dos Sete (G7), bem 
+como em iniciativas individuais dos Estados membros, como a Iniciativa 
+de Bridgetown para a Reforma da Arquitetura Financeira Mundial e o 
+Pacto de Paris para as Pessoas e o Planeta, para intensificar o apoio 
+aos países em desenvolvimento e promover o cumprimento dos ODS. 
+Em síntese, os principais obstáculos à mobilização de recursos 
+incluem o baixo crescimento econômico, o limitado espaço das políticas 
+públicas e os elevados custos de financiamento. Para enfrentar esses 
+obstáculos e impulsionar o financiamento de setores-chave, inclusive 
+os de energia, água e saneamento, infraestrutura, alimentação e 
+agricultura, biodiversidade, saúde e educação, bem como outros 
+setores impulsionadores e dinamizadores, propõe-se um conjunto 
+de estratégias em torno de três eixos: i) fortalecimento das finanças 
+públicas aumentando a capacidade de mobilização de recursos mediante 
+a melhoria da arrecadação tributária; ii) uso integral de ferramentas 
+de estabilização macroeconômica e implementação de políticas 
+macroprudenciais; iii) reformas na arquitetura financeira internacional. 
+A mobilização de financiamento para o desenvolvimento deve 
+considerar todas as fontes de financiamento. Por isso, uma governança 
+efetiva deve aproveitar e coordenar os esforços das instituições e 
+processos existentes que regem o orçamento nacional e a gestão 
+financeira pública mais ampla, como a preparação do orçamento, as 
+aquisições e o investimento público; o alinhamento do financiamento 
+e do investimento privado, por exemplo, através de plataformas de 
+diálogo público-privado; a cooperação para o desenvolvimento e acordos 
+mais amplos de governança econômica.
+O desenvolvimento e a implementação das estratégias mencionadas 
+requerem o fortalecimento das capacidades institucionais existentes, 
+com particular ênfase nas operacionais e de formulação, execução 
+e acompanhamento de políticas. Neste sentido, o fortalecimento da 
+institucionalidade fiscal pode ser articulado em torno da adoção de 
+regras fiscais coerentes com a sustentabilidade da dívida e a estabilidade 
+macroeconômica, apoiadas por conselhos fiscais independentes e um 
+amplo consenso político. Além disso, o desenvolvimento de mecanismos 
+que facilitem a adoção de posturas comuns no âmbito regional frente 
+ao processo de reforma da arquitetura financeira internacional pode 
+melhorar as perspectivas do financiamento para o desenvolvimento. 
+56
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+A Plataforma Regional de Cooperação Tributária para a América Latina 
+e o Caribe é um exemplo de mecanismo para coordenar esforços e 
+compartilhar boas práticas fiscais, criando condições para sistemas 
+tributários eficientes que financiem o desenvolvimento e reduzam a 
+dependência do financiamento externo. Além disso, na articulação de 
+posturas comuns em fóruns internacionais é importante a coordenação 
+entre os ministérios da fazenda e os ministérios das relações exteriores 
+dos países.
+57
+Bibliografia
+Acuña, C. e M. Chudnovsky (2017), 12 notas de concepto para entender 
+mejor al Estado, las políticas públicas y su gestión, Buenos Aires, Banco 
+de Desenvolvimento da América Latina e do Caribe (CAF).
+Bendersky, M. (2019), “The road to SDG financing: a new destination for private 
+investment” , Banco Interamericano de Desarrollo (BID), 2 de octubre [en línea] 
+https://www.iadb.org/en/news/road-sdg-financing-new-destination-
+private-investment.
+CEPAL (Comissão Econômica para a América Latina e o Caribe) (2024a), 
+Estudio Económico de América Latina y el Caribe, 2024 (LC/PUB.2024/10-P), 
+Santiago.
+ (2024b), Panorama de las Políticas de Desarrollo Productivo en 
+América Latina y el Caribe, 2024 (LC/PUB.2024/15-P), Santiago.
+ (2024c), Panorama Fiscal de América Latina y el Caribe, 2024 (LC/PUB.2024/5-P), 
+Santiago.
+ (2024d), Panorama de los recursos naturales en América Latina y 
+el Caribe, 2023 (LC/PUB.2024/4), Santiago.
+ (2023a), Balanço Preliminar das Economias da América Latina e do Caribe, 
+2023 (LC/PUB.2023/22-P), Santiago.
+ (2023b), Panorama Fiscal de América Latina y el Caribe, 2023 (LC/PUB.2023/5-P), 
+Santiago.
+ (2023c), O Investimento Estrangeiro Direto na América Latina e no Caribe, 
+2023 (LC/PUB.2023/8-P/Rev.1), Santiago.
+ (2021), Panorama Fiscal de América Latina y el Caribe, 2021 (LC/PUB.2021/5-P), 
+Santiago.
+ (2019), Estudo Econômico da América Latina e do Caribe, 2019 (LC/PUB.2019/12-P), 
+Santiago.
+Circle Economy (2023), The Circularity Gap Report: América Latina y 
+el Caribe, Ámsterdam.
+58
+A América Latina e o Caribe diante das armadilhas do desenvolvimento... - Síntese
+Corporación Latinobarómetro (2022), Informe Latinobarómetro 2021, Santiago.
+Frieden, J. (2020), “The political economy of economic policy” , Finance & 
+Development, Fundo Monetário Internacional (FMI), junho. 
+Hanson, J. e R. Sigman (2021), “Leviathan’s latent dimensions: measuring 
+state capacity for comparative political research” , The Journal of Politics, 
+vol. 83, Nº 4.
+IPCC (Painel Intergovernamental sobre Mudança do Clima) (2023), Climate 
+Change 2023: Synthesis Report. Contribution of Working Groups I, II 
+and III to the Sixth Assessment Report of the Intergovernmental Panel 
+on Climate Change, Genebra.
+Juhász, R. e N. J. Lane (2024), “The political economy of industrial policy” , 
+NBER Working Paper Series, Nº 32507 , National Bureau of Economic 
+Research (NBER).
+Levi, M. e outros (2015), El valor estratégico de la gestión pública: trece 
+textos para comprenderla, Buenos Aires, Banco de Desenvolvimento 
+da América Latina e do Caribe (CAF).
+Levi-Faur, D. (ed.) (2012), The Oxford Handbook of Governance, Oxford 
+University Press.
+Nações Unidas (2023), “Reformas de la arquitectura financiera internacional” , 
+Informe de Políticas de Nuestra Agenda Común, Nº 6, Nova Y ork.
+O’Donnell, G. e outros (2015), Capacidades estatales: diez textos fundamentales, 
+Buenos Aires, Banco de Desenvolvimento da América  Latina e 
+do Caribe (CAF).
+OCDE (Organização para a Cooperação e Desenvolvimento Econômico) 
+e outros (2019), Perspectivas económicas de América Latina 2019: 
+desarrollo en transición (LC/PUB.2019/14), París, OECD Publishing. 
+OLADE (Organização Latino-Americana de Energia) (2023), Panorama energético 
+de América Latina y el Caribe 2023, Quito.
+Rede de Bancos Centrais e Supervisores para Ecologizar o Sistema Financeiro 
+(s.d.), “NGFS Phase 4 Scenario Explorer” [on-line] https://data.ene.iiasa.
+ac.at/ngfs/#/login?redirect=%2Fworkspaces. NGFS. 
+Salazar-Xirinachs, J. M. (2023), “Repensar, reimaginar, transformar: los “qué” 
+y los “cómo” para avanzar hacia un modelo de desarrollo más productivo, 
+inclusivo y sostenible” , Revista CEPAL, N° 141 (LC/PUB.2023/29-P/-*), 
+Santiago, Comissão Econômica para a América Latina e o Caribe (CEPAL). 
+Salazar-Xirinachs, J. M. e M. Llinás (2023), “Hacia la transformación de la 
+estrategia de crecimiento y desarrollo de América Latina y el Caribe: el 
+rol de las políticas de desarrollo productivo” , Revista CEPAL, N° 141 
+(LC  PUB.2023/29-P/-*), Santiago, Comissão Econômica para a 
+América Latina e o Caribe (CEPAL).
+Summers, L. e outros (2023), Strengthening Multilateral Development 
+Banks: The Triple Agenda, vol. 1 [on-line] https://g20.in/content/dam/
+gtwenty/gtwenty_new/document/Strengthening-MDBs-The-Triple-
+Agenda_G20-IEG-Report-Volume.pdf.
+A América Latina e o Caribe estão presos em diversas 
+armadilhas de desenvolvimento que constituem enormes 
+obstáculos para construir um futuro mais produtivo, inclusivo 
+e sustentável. Esta crise do desenvolvimento coincide com 
+um contexto internacional que mudou significativamente 
+na última década, tanto em termos geoeconômicos como 
+geopolíticos, e que se encontra em transição para novas 
+regras de comércio e investimento.
+No âmbito de seu quadragésimo período de sessões, a 
+Comissão Econômica para a América Latina e o Caribe (CEPAL) 
+apresenta uma nova proposta que examina três transformações 
+indispensáveis para avançar rumo a um novo padrão de 
+desenvolvimento: i) uma transformação produtiva para obter 
+um crescimento mais alto, sustentado, inclusivo e sustentável; 
+ii) uma transformação para reduzir a desigualdade e promover 
+a inclusão e a mobilidade social; iii) uma transformação que 
+impulsione a sustentabilidade e combata a mudança climática. 
+Este documento formula propostas para realizar essas 
+transformações, concentrando-se em como administrá-las 
+para superar as armadilhas de desenvolvimento em que a 
+região está presa. Essa gestão requer melhorar a governança, 
+fortalecer as capacidades técnicas, operacionais, políticas e 
+prospectivas das instituições e promover o diálogo social.
+https://periododesesiones.cepal.org/40/es

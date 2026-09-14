@@ -1,0 +1,979 @@
+RESEARCH ARTICLE
+Spatial analysis of socioeconomic data and
+its relationship with illicit crops in Nariño-
+Colombia
+Andre´s Fernando Grajales-Marı´n1, Fabio Humberto Sepu´lveda-MurilloID1*, Alex Tapia1,
+Alexander Tabares2
+1 Faculty of Basic Sciences, University of Medellin, Medellin, Colombia, 2 Faculty of Economic and
+Administrative Sciences, University of Medellin, Medellin, Colombia
+* fhsepulveda@udemedellin.edu.co
+Abstract
+The Sustainable Development Goals (SDGs) aim to eradicate poverty and promote sustain-
+able development; however, socioeconomic disparities persist globally, particularly in
+Colombia. With a Gini index of 0.556 in 2022, Colombia ranks among the most unequal
+countries in Latin America, with its southwest region of Nariño facing severe socioeconomic
+challenges. Concurrently, Nariño registers the highest levels of coca cultivation in Colombia,
+accounting for 65% of national cocaine production, reflecting the region’s precarious condi-
+tions. This study investigates the extent to which the spatial distribution of socioeconomic
+factors explains coca cultivation patterns in Nariño. Grounded in conflict economics, social
+capital, and social marginalization theories, the research constructs composite indices rep-
+resenting education, health, public services, economic conditions, and vulnerability. Using
+spatial analysis, it identifies areas with heightened poverty and vulnerability and examines
+their relationship with illicit crops. The findings highlight spatial non-stationarity in the factors
+influencing coca cultivation, offering region-specific insights and policy recommendations to
+combat illicit crops and foster sustainable development. These results provide a foundation
+for targeted interventions and contribute to broader strategies addressing inequality and
+illegal economies in Colombia.
+1. Introduction
+In the contemporary global context, the Sustainable Development Goals (SDGs) have estab-
+lished themselves as an essential guide to address society’s most pressing challenges. The
+SDGs, adopted by the United Nations, seek to eradicate poverty, protect the planet and ensure
+dignity and rights for all by 2030 [1]. However, despite global efforts, significant inequalities
+persist in the distribution of resources, opportunities and access to fundamental goods and ser-
+vices, perpetuating socioeconomic disparities around the world. These inequalities manifest
+themselves in a variety of ways, including income, education, health and employment, under-
+scoring the urgent need to understand their causes in order to move towards a more equitable
+and sustainable society.
+PLOS ONE
+PLOS ONE | https://doi.org/10.1371/journal.pone.0316709
+January 2, 2025
+1 / 16
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+OPEN ACCESS
+Citation: Grajales-Marı´n AF, Sepu´lveda-Murillo FH,
+Tapia A, Tabares A (2025) Spatial analysis of
+socioeconomic data and its relationship with illicit
+crops in Nariño-Colombia. PLoS ONE 20(1):
+e0316709. https://doi.org/10.1371/journal.
+pone.0316709
+Editor: Martin Ramirez-Urquidy, Universidad
+Auto´noma de Baja California: Universidad
+Autonoma de Baja California, MEXICO
+Received: June 20, 2024
+Accepted: December 16, 2024
+Published: January 2, 2025
+Peer Review History: PLOS recognizes the
+benefits of transparency in the peer review
+process; therefore, we enable the publication of
+all of the content of peer review and author
+responses alongside final, published articles. The
+editorial history of this article is available here:
+https://doi.org/10.1371/journal.pone.0316709
+Copyright: © 2025 Grajales-Marı´n et al. This is an
+open access article distributed under the terms of
+the Creative Commons Attribution License, which
+permits unrestricted use, distribution, and
+reproduction in any medium, provided the original
+author and source are credited.
+Data Availability Statement: The data supporting
+the findings of this study are publicly available in
+PONE-Narino-2024 and can be accessed through
+
+
+In Colombia, socioeconomic inequality remains a central challenge for the fulfillment of
+the SDGs. The country’s Gini index reached a value of 0.556 in 2022, placing Colombia
+among the most unequal nations in Latin America [2]. In addition, various poverty indica-
+tors reveal the precariousness of the population’s living conditions, such as the Monetary
+Poverty Index, which in 2022 affected 36.6% of Colombians, and the Multidimensional Pov-
+erty Index, which showed that 12.9% lacked the necessary conditions for individual develop-
+ment [3]. In this context, the state of Nariño, located in the southwest of the country, faces
+one of the most complex socioeconomic inequality situations in the region, characterized by
+limited economic development, especially in its agricultural sector, and a high level of unsat-
+isfied basic needs [4,5].
+Besides these socioeconomic disparities, Nariño faces an additional challenge related to the
+informal economy, specifically coca cultivation. According to the United Nations Office on
+Drugs and Crime report [6], the coastal regions of Nariño register the highest growth of illicit
+crops in Colombia, accounting for 65% of national cocaine production. This phenomenon
+reflects the precarious socioeconomic conditions in the region, which facilitates the expansion
+of illegal activities such as drug trafficking.
+In this context, the central question of this research is: To what extent does the spatial distri-
+bution of socioeconomic conditions explain coca cultivation patterns in the state of Nariño?
+This question is posed because of the need to understand how socioeconomic conditions
+directly affect the prevalence of coca cultivation in the region, which could provide clues to
+develop more effective public policies aimed at eradicating illicit crops and promoting sustain-
+able development alternatives.
+The theoretical framework supporting this research is based on several fundamental theo-
+ries that explain the socioeconomic factors associated with coca cultivation. The conflict eco-
+nomics theory suggests that armed conflict and violence have a direct impact on the economy
+and development, and in the case of Colombia, helps to understand how illegal armed groups
+control areas of coca cultivation, generating an environment conducive to drug trafficking
+[7,8]. Social capital theory highlights the importance of social networks and trust as key factors
+for economic and social development. In coca-growing communities, the lack of social capital
+hinders the implementation of crop substitution programs and the development of economic
+alternatives, lacking support networks [9,10]. Finally, social marginalization theory argues that
+social exclusion and lack of economic opportunities lead people to engage in illegal activities
+such as coca cultivation. In Colombia, the historical marginalization of rural communities and
+the lack of access to basic services such as education, health and employment contribute to per-
+petuate this phenomenon [11,12].
+This study seeks to answer the research question by constructing composite indices that
+reflect key dimensions such as education, health, public services, economy and vulnerability in
+Nariño. Through a spatial analysis of these socioeconomic conditions, it aims to identify areas
+with higher rates of poverty and vulnerability and examine how these directly affect the preva-
+lence of illicit crops. In addition, the study will model the spatial non-stationarity of the factors
+associated with coca cultivation and provide detailed results on the most relevant factors in
+each area of Nariño, which will allow the formulation of specific recommendations for public
+policies.
+The structure of the article is as follows: Section 2 describes the methodology employed in
+the research; Section 3 presents the results and discussion of the findings; and Section 4 con-
+cludes with a discussion of the implications of the results and recommendations for future
+research and for government decision-making.
+PLOS ONE
+Spatial analysis of socioeconomic data and its relationship with illicit crops
+PLOS ONE | https://doi.org/10.1371/journal.pone.0316709
+January 2, 2025
+2 / 16
+the following link: https://github.com/amtapia/
+PONE-Narino-2024.
+Funding: The first author (Andres) received
+specific funding for this work from Ministerio de
+Ciencia, Tecnologı´a e Innovacio´n de Colombia. The
+funders had no role in study design, data collection
+and analysis, decision to publish, or preparation of
+the manuscript.
+Competing interests: The authors have declared
+that no competing interests exist.
+
+
+2. Methodology
+2.1 Area of study, variables, and information sources
+This investigation was conducted in the state of Nariño, located in the southwestern region of
+the Republic of Colombia. Encompassing an area of 33,268 km2, the state, as per recent data
+from DANE, is inhabited by a total population of 1,627,589 individuals. The administrative
+territorial structure comprises 64 municipalities, which constitute the units under scrutiny in
+this study. The Municipality of Pasto serves as the capital of the state (Fig 1).
+Nariño, as a state, exists within the dichotomy of being strategically positioned for Colom-
+bia owing to its geographical location, agricultural potential, and prospective industrial devel-
+opment, for example, [13] in which the potential of the Nariño in terms of biodiversity and
+national and international connectivity is presented. Simultaneously, it unfortunately garners
+recognition in regional and international contexts for issues related to drugs and violence, as
+evidenced by reports and studies conducted by various offices of multilateral organizations
+[14–16]. These reports, particularly those from national entities [17], acknowledge its potential
+as a special border zone due to its proximity to Ecuador in the south and its possession of the
+port of Tumaco, connecting it to the Pacific Ocean in the northwest. However, the region cur-
+rently attains global recognition primarily due to illegal activities that have detrimental effects
+on people’s well-being, contributing to a pervasive stigma across various levels. Moreover,
+several municipalities within the state of Nariño contend with highly intricate conditions of
+economic and social marginalization.
+Fig 1. Location of the state of Nariño in Colombia (inserted small map).
+https://doi.org/10.1371/journal.pone.0316709.g001
+PLOS ONE
+Spatial analysis of socioeconomic data and its relationship with illicit crops
+PLOS ONE | https://doi.org/10.1371/journal.pone.0316709
+January 2, 2025
+3 / 16
+
+
+To measure the economic and social development of the state of Nariño, six composite
+indices were meticulously constructed for each of its 64 municipalities. Each index integrates
+multiple quantitative variables corresponding to the unique characteristics of each municipal-
+ity. The Educational Performance Index (EPI) captures information from the results of a
+national test (called Prueba Saber 11) in Mathematics and Spanish Language. The variables
+related to education coverage in both transitional and secondary education contributed to the
+construction of the Education Coverage Index (ECI). The Health Coverage Index (HCI) was
+formulated using data on the population affiliated with one of Colombia’s health regimes and
+the demographic segment under one year of age that received the third dose of the pentavalent
+vaccine. The Public Services Coverage Index (PSCI) was crafted by considering critical services
+such as electricity, internet, aqueduct, and sewerage coverage. The Economic Index (EI) is
+contingent upon metrics related to GDP per capita and the employed population of the munic-
+ipality. To construct the Vulnerability Index (VI), parameters such as overcrowding, the popu-
+lation in a state of misery, and instances of child labor were systematically integrated.
+Furthermore, three pivotal variables integral to the dynamics of the state’s economy were
+taken into consideration. Firstly, an examination of the homicide rate (HOMI) in each munici-
+pality was conducted. Secondly, an evaluation of the connectivity and infrastructure within the
+state was undertaken, with a specific focus on the variable ’Roads’. This variable was systemati-
+cally constructed by factoring in the length of primary roads in each municipality. Lastly, an
+assessment of the production of cocaine cultivation in each of the state’s municipalities was
+included. The homicide rate, connectivity variables, along with the meticulously constructed
+indices, served as the independent variables in the initial phase to analyze their correlation
+with cocaine cultivation as the response variable.
+Data for this study were provided from various sources of information. Specifically, the
+socioeconomic variables for the state of Nariño were extracted from the DANE database.
+Information related to cocaine production was provided by the Ministry of Justice and Law.
+Data concerning the length of primary roads in each of the state’s municipalities were obtained
+from OpenStreetMap (OSM) [18], a collaborative project for the creation of open-access
+maps. Table 1 provides a detailed overview of the six indices, their associated variables, and
+sources of information. It is important to note that the databases originate from various
+sources, which means the data were collected in different years due to the country’s policies.
+2.2 Statistical analysis
+Given the disparate origins of the data, an initial merge was executed, consolidating all infor-
+mation into a unified spatial database that encompasses records for each municipality. The sta-
+tistical analysis of the dataset involved the computation of summary statistics, providing a
+comprehensive overview of both the variables employed in the study and the constructed indi-
+ces. Additionally, traditional, and spatial statistical graphs, some of which are presented in this
+paper, were employed to analyze the global and local dynamics of variables and indices.
+To elucidate the dynamics of cocaine production in the state of Nariño with respect to the
+indices, homicide rate, and roads, an econometric model was systematically formulated. In the
+following subsections, we present a succinct overview of the theory guiding index construction
+and a brief description of the econometric model designed to explore their relationship with
+cocaine production.
+2.1.1 Constructing composite indices.
+Initially, 6 synthetic composite indices were esti-
+mated for the 64 municipalities of the state of Nariño. The procedure used to construct the
+indices was based on the Distance-Learning (DL2) proposed by [19].
+PLOS ONE
+Spatial analysis of socioeconomic data and its relationship with illicit crops
+PLOS ONE | https://doi.org/10.1371/journal.pone.0316709
+January 2, 2025
+4 / 16
+
+
+Let X denote a matrix of size m × n, where the m columns represent the quantitative vari-
+ables and the n rows represent the observations or spatial units (municipalities, countries,
+regions, etc.). Initially the variables are normalized by a change of scale. Subsequently, let Z
+denote the matrix of size m × n containing the standardized variables. Then, the DL2 is defined
+as follows:
+DL2 Zs; Zt
+ð
+Þ ¼
+Xm
+j¼1jZsj   Ztjj
+2oj
+
+1=2
+ð1Þ
+where s and t are two compared units or observations and ωj are the weights that are calculated
+using iterative machine learning algorithms. This definition (function) considers the concept
+of proximity between units, allowing comparisons to be made between the spatial units (in our
+case municipalities) studied and territorial disparities to be identified. According to its con-
+struction, the values taken by all indices are between 0 and 1.
+Table 1. Description of the variables considered to construct the indices.
+Index / Abbreviation
+Variable /
+Abbreviation
+Description
+Source of Information / Year
+Educational
+Performance Index/
+EPI
+Mathematics / Math
+Average score in the mathematics module of the national test
+(Prueba Saber 11) based on students residing in the municipality.
+Colombian Institute for the Evaluation of the
+Quality of Education (ICFES) / 2021
+Language / Lang
+Average score in the Spanish language module of the national test
+(Prueba Saber 11) based on students residing in the municipality.
+Colombian Institute for the Evaluation of the
+Quality of Education (ICFES) / 2021
+Educational Coverage
+Index/ ECI
+Transition / Tran
+The ratio between the number of students enrolled in an educational
+level who are theoretically old enough to attend it and the total
+population corresponding to the same age.
+Ministry of Education (Integrated Enrollment
+System–SIMAT) / 2021
+Media / Me
+The ratio between the number of students enrolled in an educational
+level who are theoretically old enough to attend it and the total
+population corresponding to the same age.
+Ministry of Education (Integrated Enrollment
+System–SIMAT) / 2021
+Health Coverage
+Index/ HCI
+Health / Salt
+Proportion of the population enrolled in one of the health systems
+Ministry of Health / 2021
+Pentavalent / Pent
+Proportion of the population under 1 year of age that has received
+the third dose of pentavalent vaccine.
+Ministry of Health / 2020
+Public Service
+Coverage Index /
+PSCI
+Rural electric power
+/ EnerRural
+Percentage of electricity coverage in rural areas.
+Mining and Energy Planning Unit (UPME) /
+2019
+Internet / Inter
+Percentage of subscribers with dedicated Internet access out of total
+population
+Ministry of Information and Communications
+Technologies (MINTIC) / 2021
+Aqueduct / Acue
+Percentage of coverage of the water service reported by the territorial
+entities in the Stratification and Coverage Report.
+Superintendencia de Servicios Pu´blicos
+Domiciliarios (Stratification and Coverage
+Report–REC) / 2021
+Sewerage / Water
+Supply
+Percentage of coverage of the Sewerage service reported by the
+territorial entities in the Stratification and Coverage Report.
+Superintendencia de Servicios Pu´blicos
+Domiciliarios (Stratification and Coverage
+Report–REC) / 2021
+Economic Index / EI
+Value added per
+capita / GDP
+Measures GDP per capita
+DANE/ 2020
+Employment / Emp
+Percentage of people formally employed as a percentage of total
+population
+DANE/ 2016
+Vulnerability Index /
+VI
+Overcrowding /
+Hacin
+Percentage of households facing housing resource deprivation
+DANE/ 2020
+Misery / Mise
+Percentage of people in each municipality living in extreme poverty
+DANE/ 2018
+Child Labor / TraInf
+Percentage of households with at least one child between 12 and 17
+years of age working
+DANE/ 2020
+Homicide / HOMI
+Ratio of homicide cases per 10,000 inhabitants
+Ministry of Defense / 2021
+Roads / Road
+Proportion of primary roads in each municipality
+OpenStreetMap (OSM) / 2023
+Cocaine / Coca
+Proportion of land under cocaine cultivation in each municipality
+Ministry of Justice and Law / 2021
+https://doi.org/10.1371/journal.pone.0316709.t001
+PLOS ONE
+Spatial analysis of socioeconomic data and its relationship with illicit crops
+PLOS ONE | https://doi.org/10.1371/journal.pone.0316709
+January 2, 2025
+5 / 16
+
+
+Once the six indices were calculated for all municipalities, they were combined (summed)
+to determine a single Multidimensional Index (MI) for each municipality j. The MI was calcu-
+lated as follows [20].
+MI
+ð
+Þj ¼ EPI
+ð
+Þj þ ECI
+ð
+Þj þ HCI
+ð
+Þj þ PSCI
+ð
+Þj þ EI
+ð
+Þj þ VI
+ð
+Þj
+ð2Þ
+Finally, to better interpret the results, the MI is scaled between 0 and 1 using the following
+expression:
+MIscale
+ð
+Þj ¼
+MI
+ð
+Þj   min MI
+ð
+Þj
+max MI
+ð
+Þj   min MI
+ð
+Þj
+ð3Þ
+A value close to 0 means low living conditions of the population and low economic growth,
+and a value close to 1 indicates good living conditions of the population and high economic
+growth of the municipalities of the state of Nariño. Both the descriptive analysis and the spatial
+distribution of each index in the study area were visualized and analyzed.
+2.1.2 Econometric models.
+This research employs global and local regression models to
+explore the relationship between the proportion of hectares dedicated to cocaine cultivation
+(response variable) and the indices, homicide rate and road (explanatory variables) in the state
+of Nariño. To compare and select significant independent variables, initially a global regres-
+sion was used followed by a local extension called geographically weighted regression (GWR).
+The latter method facilitated the examination of spatial heterogeneity of the relationship
+between the response variable and the explanatory variables.
+In the examination of the relationship between a response variable Y, and a set of indepen-
+dent variables X1, X2,. . .,Xp, the analytical framework involves an Ordinary Linear Regression
+(OLR) model:
+yi ¼ b0 þ
+Xp
+k¼1 bkxik þ εi
+ð4Þ
+where β0, β1, . . .,βp are the parameters and ε1, ε2,. . ., εn are the error terms. In this global
+model, the estimated coefficients βk are considered constant throughout the study area. How-
+ever, the hypothesis of spatial uniformity of the effect of the explanatory variables on the
+dependent variable is often unrealistic [21]. Then, to consider the geographical non-stationar-
+ity of the relationship and incorporate the spatial structure, an extension of the model repre-
+sented by the Eq (1), referred to as GWR, is introduced. This extension involves the estimation
+of local parameters for each geographic location in the dataset, as defined by [22]:
+yi ¼ b0 ui; ni
+ð
+Þ þ
+Xp
+k¼1 bk ui; ni
+ð
+Þxik þ εi
+ð5Þ
+where (ui,vi) denotes the geographic coordinates at location i (in this study, these were the
+coordinates of the centroids of each of the municipalities of Nariño), yi is the value of the
+dependent variable at location i; xik is the value of the kth independent variable at location i; p
+is the number of independent variables; βik is the local regression coefficient for the kth inde-
+pendent variable at location i; and εi is the random error at location i. In the calibration of
+Eq (5), it is implicitly assumed that data observed near the location have more influence on the
+estimation than data located farther away from. Next, the model measures the inherent rela-
+tionships around each regression point i, where each set of regression coefficients is estimated
+using a weighted least squares approach. Thus, the matrix expression for this estimation is
+given by [23]:
+^β ui;vi
+ð
+Þ ¼ XTW ui; vi
+ð
+ÞX
+½
+
+  1XTW ui; vi
+ð
+Þy
+ð6Þ
+PLOS ONE
+Spatial analysis of socioeconomic data and its relationship with illicit crops
+PLOS ONE | https://doi.org/10.1371/journal.pone.0316709
+January 2, 2025
+6 / 16
+
+
+where X is the matrix of predictor variables with a column of 1s for the intercept, y is the vector
+of response variable, and W(ui,vi) is a weighting matrix of size n × n whose off-diagonal ele-
+ments are zero and whose diagonal elements denote the geographic weighting of each of the n
+observed data for regression point i at location (ui,vi). There are three key elements in the con-
+struction of this weighting matrix: (i) the type of distance, (ii) the kernel function, and (iii) its
+bandwidth. For this work considering the irregular topography of the state of Nariño, the
+Euclidean distance, the Bi-squared function and an adaptive bandwidth were used [24–26].
+Since extreme values can generate biased results, the GWR was performed with a robust
+analysis to mitigate this issue [24]. Furthermore, for constructing the spatial database, estimat-
+ing, and mapping various measurements, R software was employed [27].
+3. Results and discussion
+3.1 Descriptive analysis and spatial distribution
+Table 2 provides an overview of the behavior of the response variable (Coca) and the indepen-
+dent variables (Indices, HOMI, and Roads) through eight global descriptive statistics:
+minimum (Min), quartile 1 (Q1), median (Median), mean (Mean), quartile 3 (Q3), maxi-
+mum (Max), coefficient of variation (CV), and coefficient of asymmetry (CA). Fig 2 displays
+the statistical distribution of the indices using box-and-whisker plots.
+The EPI, HCI, PSCI and VI indices exhibit values relatively close to 1. According to the Q1
+of these indices, 75% of the municipalities have a high mean value. These results indicate that
+municipalities have a good educational performance, with good coverage in education, public
+services, and health. Along with low vulnerability. However, these indices display left-skewed
+distribution with the presence of outliers (CA), signifying the existence of municipalities with
+lower values and, consequently, indicating areas with inadequate protection.
+The EI is characterized by values close to 0, with most municipalities not surpassing a value
+of 0.1585 (Q3). This indicates a generally low economic performance across the municipalities.
+However, the corresponding box-and-whisker diagram exhibits an asymmetric trend towards
+the right side with extreme values (as indicated by CA value). This asymmetry reflects a few
+municipalities with notably higher economic performance in the state of Nariño. Furthermore,
+based on the CV values, all indices and variables display a high degree of dispersion. The
+descriptive metrics and the statistical distribution show the existence of significant develop-
+mental differences (educational, social, economic, health, etc.) among the municipalities
+under investigation.
+Table 2. Global descriptive statistics of variables and constructed indices.
+Response Variable
+Min
+Q1
+Median
+Mean
+Q3
+Max
+CV (%)
+CA
+Coca
+0,0000
+0,0000
+0,0000
+0,0100
+0,0085
+0,0600
+178,5000
+2,0700
+Explanatory Variables
+EPI
+0,0312
+0,6031
+0,7035
+0,6400
+0,7759
+0,9605
+33,0800
+-1,2700
+ECI
+0,0015
+0,3992
+0,5356
+0,5000
+0,6058
+0,9501
+38,6700
+-0,3800
+HCI
+0,3155
+0,6490
+0,7503
+0,7300
+0,8431
+1,0000
+19,5600
+-0,5600
+PSCI
+0,0736
+0,6235
+0,6845
+0,6700
+0,8008
+0,8927
+24,1300
+-1,2500
+EI
+0,0000
+0,0981
+0,1417
+0,1600
+0,1585
+0,7592
+85,9500
+2,9600
+VI
+0,1710
+0,3141
+0,3958
+0,4300
+0,5177
+0,9343
+41,4200
+0,8500
+HOMI
+0,0000
+0,6225
+1,7250
+3,5589
+5,3750
+18,8100
+122,1316
+1,7303
+Roads
+0,0000
+0,0000
+0,0000
+0,2200
+0,3654
+1,3122
+144,3900
+1,4700
+https://doi.org/10.1371/journal.pone.0316709.t002
+PLOS ONE
+Spatial analysis of socioeconomic data and its relationship with illicit crops
+PLOS ONE | https://doi.org/10.1371/journal.pone.0316709
+January 2, 2025
+7 / 16
+
+
+The spatial distribution of the proportion of hectares of cultivated cocaine and the location
+of primary roads in the state of Nariño is depicted in Fig 3. This distribution reveals the geo-
+graphic variability of cocaine production in the state, showing a concentration of high values
+in the northwestern part of the state of Nariño. This concentration can be attributed to the sig-
+nificant pressure exerted by non-government armed groups aiming to control several munici-
+palities in this area [14]. Additionally, the proximity of these municipalities to the Pacific
+Ocean facilitates illegal exportation to other countries.
+In contrast, municipalities with lower cocaine production tend to be situated in the south-
+east, closer to Pasto city, the capital of Nariño. Furthermore, a notable observation is the poor
+road infrastructure in most municipalities of the state, with many of these coinciding with
+areas of high cocaine production. This observation aligns with findings from other studies
+indicating that municipalities with limited roads, infrastructure, connectivity, and access tend
+to experience an increase in illicit crops [28–30].
+Fig 4 illustrates the spatial distribution of the constructed indices and the homicide rate,
+revealing the spatial non-stationarity of these characteristics in the state of Nariño. The distri-
+butions of the indices EPI, ECI, HCI, PSCI, VI, and the HOMI variable exhibit a consistent
+spatial pattern from northwest to southeast, dividing the state into two segments. The south-
+eastern part comprises municipalities with favorable living conditions and economic develop-
+ment, while the northwestern part faces social and economic fragility. The EI index
+demonstrates a distinctive spatial distribution, indicating a prevalence of municipalities with
+low economic performance, except for Potosi and Pasto, the capital of Nariño. The spatial dis-
+tribution of MI (Fig 3h) summarizes the behavior of these indices, reinforcing the observed
+division and emphasizing the socioeconomic inequality prevalent in the state of Nariño.
+Fig 2. Statistical distribution of the indices.
+https://doi.org/10.1371/journal.pone.0316709.g002
+PLOS ONE
+Spatial analysis of socioeconomic data and its relationship with illicit crops
+PLOS ONE | https://doi.org/10.1371/journal.pone.0316709
+January 2, 2025
+8 / 16
+
+
+3.2 Spatial econometric model
+Initially, a global regression model (Ordinary Least Square) as a benchmark, performance
+comparison and attribute selection were applied. Table 3 shows the results of the global and
+GWR models: significant estimated coefficients, variance inflation (VIF), the R2, adjusted R2
+and residual sum of squares. According to these results, two variables were significant in
+explaining cocaine production in the state of Nariño: EPI and HOMI. Collinearity was tested
+by analyzing the VIF, with values below the common threshold, indicating no multicollinearity
+issue.
+The estimated coefficients in both global and local models were consistent with their
+expected signs. Assessing goodness-of-fit measures, R2 and adjusted R2 in the GWR notably
+improved from 0.468 and 0.450 to 0.647 and 0.539, respectively. The analysis of residuals (sum
+of squares residuals) indicated a superior fit in the GWR. Moreover, the examination of spatial
+variation in the explanatory power of the model revealed notable improvements (spatial distri-
+bution not presented in the paper). The comparative results underscored that the explanatory
+power of the local regression model was significantly higher than that of the global regression
+model, which is consistent with the results of the reviewed studies.
+Undoubtedly, the most important results of the modeling reside in the estimated local coef-
+ficients of each of the explanatory variables. These coefficients provide a means to comprehend
+the spatial variation visually and analytically in the influence of each variable on cocaine pro-
+duction. The spatial distribution of the parameter estimates, and their significance are shown
+in Fig 5. According to these spatial distributions and based on the descriptive statistics (Min,
+Median, Max) of the local estimates of the GWR coefficients (Table 3), there are significant
+Fig 3. Spatial distribution of cocaine cultivation (in blue) associated with main roads and trunk roads (red lines).
+https://doi.org/10.1371/journal.pone.0316709.g003
+PLOS ONE
+Spatial analysis of socioeconomic data and its relationship with illicit crops
+PLOS ONE | https://doi.org/10.1371/journal.pone.0316709
+January 2, 2025
+9 / 16
+
+
+variations in the relationships between the two independent variables (EPI and HOMI) and
+cocaine production in the State of Nariño.
+The negative sign of the estimated coefficients on the EPI variable (Fig 4a) is expected and
+it indicates that there is an inverse relationship between EPI and cocaine production (although
+a change in the sign of the EPI coefficients is observable, it lacks significance). This correlation
+is consistent with findings in existing literature, indicating that cocaine crop production tends
+to decrease with higher levels of education [28,31–33]. Notably, this relationship is not uni-
+form across all municipalities (Fig 5a), and the effect of EPI is more pronounced and
+Fig 4. Spatial distribution of the indices and HOMI. The color bar to the right of the maps shows the values of each one.
+https://doi.org/10.1371/journal.pone.0316709.g004
+PLOS ONE
+Spatial analysis of socioeconomic data and its relationship with illicit crops
+PLOS ONE | https://doi.org/10.1371/journal.pone.0316709
+January 2, 2025
+10 / 16
+
+
+statistically significant in a considerable number of municipalities in the state of Nariño
+(Fig 5b). The region where this relationship holds significance corresponds to municipalities
+exhibiting low educational performance (Fig 4a), coinciding with the area of high cocaine pro-
+duction (Fig 3) and representing the less developed part of the state, as illustrated by the spatial
+distribution of the MI (Fig 4h). This pattern can be attributed to a demand that surpasses the
+educational resources in this zone, characterized by difficult access (distant from the capital
+city of Nariño). Consequently, some municipalities lack the necessary infrastructure for pro-
+viding educational services and often face a shortage of qualified educators, leaving numerous
+young individuals susceptible to engaging in activities such as cocaine production.
+Finally, Fig 5c reveals a direct and spatially non-uniform correlation between the homicide
+rate and cocaine production. This finding aligns with the outcomes of previous studies that
+highlight a positive connection between increased illicit crop cultivation in regions marked by
+security issues and a limited government presence [31,34–39]. Specifically in Colombia, the
+evidence indicates that, on average, the homicide rate tends to rise in municipalities with
+cocaine cultivation since 2015 [36,40,41].
+Nevertheless, the impact of the homicide rate on cocaine production does not demonstrate
+significance uniformly across all municipalities in the state of Nariño. Fig 5d delineates the
+municipalities where the association is statistically significant at a 95% confidence level. Nota-
+bly, it is evident that municipalities primarily situated in the northwest of the state exhibit a
+substantial and statistically significant correlation between the homicide rate and cocaine culti-
+vation. This region corresponds to municipalities characterized by elevated homicide rates
+(Fig 4g) aligning with the areas of heightened cocaine production (Fig 3). Thus, the findings of
+this study corroborate the assertions of the referenced authors, affirming that municipalities
+with elevated homicide rates also exhibit increased cocaine cultivation.
+4. Conclusions
+The SDGs serve as a crucial framework for tackling global imbalances and striving toward a
+more inclusive and sustainable future. However, entrenched socioeconomic disparities pose a
+substantial challenge to realizing these objectives. To inform the design and implementation of
+comprehensive solutions addressing the root causes of inequality and fostering sustainable and
+just development, this study quantified and spatially analyzed the socioeconomic and
+Table 3. Global and local model results.
+Response Variable: Coca
+Explanatory Variables
+OLS coefficient estimates
+Summary of GWR coefficient estimates
+VIF
+Min
+Median
+Max
+EPI
+- 0.025 **
+- 0.031
+- 0.003
+0.022
+1.130
+HOMI
+0.026 ***
+0.002
+0.023
+0.048
+1.130
+Model statistics
+R2
+0.468
+0.647
+Adjusted R2
+0.450
+0.539
+Residual sum of squares
+0.006
+0.004
+Notes:
+**p<0.001,
+***p<0.0001;
+VIF = Variance Inflation Factors.
+https://doi.org/10.1371/journal.pone.0316709.t003
+PLOS ONE
+Spatial analysis of socioeconomic data and its relationship with illicit crops
+PLOS ONE | https://doi.org/10.1371/journal.pone.0316709
+January 2, 2025
+11 / 16
+
+
+territorial conditions of municipalities in the state of Nariño, one of the most unequal and
+least developed states in Colombia. The initial segment of this article employed statistical
+methodologies to construct diverse composite indices. Subsequently, in the latter part of the
+study, an econometric analysis was conducted utilizing these indices and additional variables,
+such as the homicide rate and road infrastructure to elucidate their potential role in explaining
+cocaine production across the municipalities.
+The DL2 was used to create the indices. These indices were combined to build a single
+index called MI, serving as a comprehensive summary that encapsulates the information
+encompassed by the individual indices. The spatial distributions of all the indices reveal a
+Fig 5. Spatial distribution of GWR coefficients and their significances.
+https://doi.org/10.1371/journal.pone.0316709.g005
+PLOS ONE
+Spatial analysis of socioeconomic data and its relationship with illicit crops
+PLOS ONE | https://doi.org/10.1371/journal.pone.0316709
+January 2, 2025
+12 / 16
+
+
+discernible spatial heterogeneity in social and economic inequality. This spatial diversity sub-
+stantiates the existing disparities in opportunities among municipalities, indicating that their
+populations do not experience optimal conditions and lack basic capabilities such as educa-
+tion, health, and public services, as per the framework outlined by [42,43]. The observed spatial
+pattern distinctly divides the state into two zones: one exhibiting favorable social and eco-
+nomic conditions (Southeast) and another manifesting suboptimal performance (Northwest).
+The delineated spatial heterogeneity provides valuable insights for the formulation of targeted
+public policies and the implementation of programs aimed at enhancing the overall quality of
+life for the populace.
+The econometric analysis employed both global and local regression methodologies. Initial
+application of global regression served a dual purpose: variable selection based on significance
+and as a benchmark for comparison. Two variables, EPI and HOMI, emerged as statistically
+significant. Subsequently, GWR was employed to delve into the spatial nuances of the relation-
+ship between cocaine production and the inherent characteristics of each municipality. The
+findings indicated that GWR outperformed global regression in explaining cocaine production
+in the state of Nariño. This suggests that all estimated parameters exhibit a discernible spatial
+variation pattern, enabling nuanced conclusions specific to each municipality.
+The anticipated type of dependence between cocaine production and the two explanatory
+variables, EPI and HOMI, manifested as expected: negative for EPI and positive for HOMI.
+However, the impact of these variables on cocaine production did not achieve significance
+across all spatial units within the study area. GWR mapping results illustrated municipalities
+in the northwestern part of the state exhibiting a noteworthy correlation between cocaine culti-
+vation issues and education as well as homicide cases. These outcomes align with the findings
+of the [16], highlighting a consistent rise in cocaine cultivation in this region over the past
+decade. The report identifies various factors contributing to this increase, some of which are
+related to EPI and HOMI, including the heightened global demand for cocaine, expectations
+stemming from peace agreements, an increase in illegal drug trafficking actors, the persistence
+of territorial vulnerability, and heightened incentives for cocaine production.
+This study provides evidence suggesting a close relationship between socioeconomic condi-
+tions and the spatial distribution of coca cultivation in the state of Nariño, Colombia. The
+results support the social marginalization theory by showing that areas with high poverty and
+exclusion have a higher concentration of illicit crops, suggesting that the lack of access to basic
+services and economic opportunities creates a favorable environment for the informal econ-
+omy and activities related to drug trafficking. This finding is consistent with social capital the-
+ory, as it indicates that the lack of social cohesion in these communities could limit the
+effectiveness of development programs that seek to replace coca cultivation. Based on the the-
+ory of conflict economics, the results also indicate that socioeconomic factors in Nariño not
+only influence coca cultivation but are also related to conflict dynamics in areas where coca
+cultivation is controlled by illegal armed groups. This conflict-prone environment, in combi-
+nation with social marginalization and lack of social capital, contributes to the perpetuation of
+dependence on coca cultivation as the main livelihood in certain areas.
+In addition, the results suggest that illicit crop reduction policies must be adapted to the
+specific conditions of each area and cannot be uniform. Intervention in Nariño requires a
+comprehensive approach that addresses socioeconomic conditions and improves community
+cohesion to facilitate viable and sustainable economic alternatives. Limitations of this study
+include the lack of detailed local data on social capital and armed group activity, which could
+enrich the analysis in future research.
+In conclusion, this study helps to understand how socioeconomic conditions affect the dis-
+tribution of coca cultivation in Nariño, underscoring the importance of specific interventions
+PLOS ONE
+Spatial analysis of socioeconomic data and its relationship with illicit crops
+PLOS ONE | https://doi.org/10.1371/journal.pone.0316709
+January 2, 2025
+13 / 16
+
+
+that consider the particular social and economic dynamics of the region. Public policies should
+be designed in a way that not only addresses socioeconomic conditions, but also promotes the
+strengthening of social capital and the reduction of armed conflict, creating an environment
+more conducive to sustainable development and peace.
+Author Contributions
+Conceptualization: Andre´s Fernando Grajales-Marı´n, Fabio Humberto Sepu´lveda-Murillo,
+Alex Tapia.
+Data curation: Andre´s Fernando Grajales-Marı´n, Fabio Humberto Sepu´lveda-Murillo, Alex
+Tapia.
+Formal analysis: Andre´s Fernando Grajales-Marı´n, Fabio Humberto Sepu´lveda-Murillo, Alex
+Tapia, Alexander Tabares.
+Funding acquisition: Andre´s Fernando Grajales-Marı´n.
+Investigation: Fabio Humberto Sepu´lveda-Murillo, Alex Tapia.
+Methodology: Andre´s Fernando Grajales-Marı´n, Fabio Humberto Sepu´lveda-Murillo, Alex
+Tapia, Alexander Tabares.
+Validation: Andre´s Fernando Grajales-Marı´n, Fabio Humberto Sepu´lveda-Murillo, Alex
+Tapia.
+Visualization: Alex Tapia.
+Writing – original draft: Alexander Tabares.
+Writing – review & editing: Andre´s Fernando Grajales-Marı´n, Fabio Humberto Sepu´lveda-
+Murillo, Alex Tapia.
+References
+1.
+United Nations. The Sustainable Development Goals Report. 2016.
+2.
+World Bank. I´ndice de Gini—Latin America & Caribbean (excluding high income), Colombia. https://
+datos.bancomundial.org/indicador/SI.POV.GINI?locations=XJ-CO. Published 2023.
+3.
+DANE. Necesidades Ba´sicas Insatisfechas (NBI). https://www.dane.gov.co/index.php/estadisticas-por-
+tema/pobreza-y-condiciones-de-vida/necesidades-basicas-insatisfechas-nbi. Published 2021.
+4.
+MINSALUD. Indicadores ba´sicos de salud 2022. Published 2022.
+5.
+PCC, University of Rosario. Departmental Competitiveness Index for Colombia. Published 2023.
+6.
+UNODC. Sistema Integrado de Monitoreo de Cultivos Ilı´citos (SIMCI), Monitoreo de territorios afecta-
+dos por cultivos ilı´citos Colombia 2022. Published 2023.
+7.
+Restrepo P, Vargas JF. Coca and conflict in Colombia: A spatial analysis. J Dev Econ. 2015; 114: 193–
+211.
+8.
+Dube O, Vargas JF. Commodity price shocks and civil conflict: Evidence from Colombia. Rev Econ
+Stud. 2013; 80(4): 1384–1421.
+9.
+Acemoglu D, Garcı´a-Jimeno C, Robinson JA. State capacity and economic development: A network
+approach. Am Econ Rev. 2015; 105(8): 2364–2409.
+10.
+O¨ zcan B, Bjørnskov C. Social trust and economic development: A meta-analysis. Public Choice. 2018;
+176(3–4): 383–413.
+11.
+Sen A. Nuevo examen de la desigualdad. S. Comercial Grupo ANAYA; 1999.
+12.
+Justino P. Social exclusion and poverty: A multidimensional perspective. J Dev Stud. 2016; 52(10):
+1383–1400.
+13.
+Acosta Puertas J, Misio´n Futuro, U. AL. Where the future of investment is green. Investigacio´n en Nar-
+iño, visio´n de desarrollo productivo para Colombia. 2020.
+14.
+ACNUDH. Violencia Territorial en Colombia: Recomendaciones para el Nuevo Gobierno. 2022.
+PLOS ONE
+Spatial analysis of socioeconomic data and its relationship with illicit crops
+PLOS ONE | https://doi.org/10.1371/journal.pone.0316709
+January 2, 2025
+14 / 16
+
+
+15.
+OCHA. Tendencias e Impacto Humanitario en Colombia 2023. 2023.
+16.
+UNODC. Sistema Integrado de Monitoreo de Cultivos Ilı´citos (SIMCI), Monitoreo de territorios afecta-
+dos por cultivos ilı´citos 2021. 2022.
+17.
+UNOAA, ADR. Plan integral de desarrollo agropecuario y rural con enfoque territorial (PIDARET), tomo
+II. Departamento de Nariño. 2019.
+18.
+Openstreetmap.org. Colaboradores de OpenStreetMap. Base de datos OpenStreetMap [PostgreSQL
+vı´a API]. Fundacio´n OpenStreetMap: Cambridge, Reino Unido; 2021 [consultado entre julio y diciembre
+de 2023]. © Colaboradores de OpenStreetMap. Disponible bajo la licencia Open Database en: open-
+streetmap.org. Minerı´a de datos mediante Overpass turbo. Disponible en overpass-turbo.eu.
+19.
+Jime´nez-Ferna´ndez E, Sa´nchez A, Ortega-Pe´rez M. Dealing with weighting scheme in composite indi-
+cators: An unsupervised distance-machine learning proposal for quantitative data. Socio-Econ Plann
+Sci. 2022; 83:101339. https://doi.org/10.1016/j.seps.2022.101339
+20.
+Sharma G, Patil GR. Spatial and social inequities for educational services accessibility—A case study
+for schools in Greater Mumbai. Cities. 2022; 122:103543. https://doi.org/10.1016/j.cities.2021.103543
+21.
+Brunsdon C, Fotheringham AS, Charlton ME. Geographically weighted regression: a method for explor-
+ing spatial nonstationarity. Geogr Anal. 1996; 28(4):281–298. https://doi.org/10.1111/j.1538-4632.
+1996.tb00936.x
+22.
+Brunsdon C, Fotheringham ASF, Charlton M. Geographically weighted summary statistics—a frame-
+work for localised exploratory data analysis. Comput Environ Urban Syst. 2002. www.elsevier.com/
+locate/compenvurbsys.
+23.
+Fotheringham AS, Brunsdon C, Charlton M. Geographically weighted regression: the analysis of spa-
+tially varying relationships. Hoboken, NJ: Wiley; 2002.
+24.
+Gollini I, Lu B, Charlton M, Brunsdon C, Harris P. GWmodel: an R Package for Exploring Spatial Hetero-
+geneity using Geographically Weighted Models. http://arxiv.org/abs/1306.0413. 2013.
+25.
+Harris P, Clarke A, Juggins S, Brunsdon C, Charlton M. Enhancements to a geographically weighted
+principal component analysis in the context of an application to an environmental data set. Geogr Anal.
+2015; 47(2):146–172. https://doi.org/10.1111/gean.12048
+26.
+Sepu´lveda Murillo FH, Chica Olmo J, Soto Builes NM. Spatial variability analysis of quality of life and its
+determinants: A case study of Medellı´n, Colombia. Soc Indic Res. 2019; 144(3):1233–1256.
+27.
+R Core Team. R: A language and environment for statistical computing. Vienna: R Foundation for Sta-
+tistical Computing; 2023. https://www.R-project.org/.
+28.
+Davalos E. New answers to an old problem: Social investment and coca crops in Colombia. Int J Drug
+Policy. 2016; 31:121–130. https://doi.org/10.1016/j.drugpo.2016.02.002 PMID: 26971203
+29.
+Rinco´n Ruiz A, Pascual U, Romero M. An exploratory spatial analysis of illegal coca cultivation in
+Colombia using local indicators of spatial association and socioecological variables. Ecol Indic. 2013;
+34:103–112.
+30.
+Zuleta H. Coca, cocaı´na y narcotra´fico. http://economia.uniandes.edu.co. 2017.
+31.
+Da´valos E, Da´valos LM. Social Investment and Smallholder Coca Cultivation in Colombia. J Dev Stud.
+2020; 56(6):1118–1140. https://doi.org/10.1080/00220388.2019.1650167
+32.
+Garcia-Yi J. Heterogeneous motivations for coca growing: The case of an indigenous Aymara commu-
+nity in Peru. Int J Drug Policy. 2014; 25(6):1113–1123. https://doi.org/10.1016/j.drugpo.2014.05.011
+PMID: 24958644
+33.
+Vargas GA, Restrepo-Jaramillo N. Child Soldiering in Colombia: Does Poverty Matter? Civil Wars.
+2016; 18(4):467–487. https://doi.org/10.1080/13698249.2017.1297051
+34.
+Jime´nez-Garcı´a WG, Arenas-Valencia W, Bohorquez-Bedoya N. Violent Drug Markets: Relation
+between Homicide, Drug Trafficking and Socioeconomic Disadvantages: A Test of Contingent Causa-
+tion in Pereira, Colombia. Soc Sci. 2023; 12(2):54. https://doi.org/10.3390/socsci12020054
+35.
+Kronick D. Profits and Violence in Illegal Markets: Evidence from Venezuela. J Confl Resolut. 2020; 64
+(7–8):1499–1523. https://doi.org/10.1177/0022002719898881
+36.
+Martinez Ferro T, Zuleta H. Cultivos de Coca y Violencia: El cambio despue´s de iniciados los dia´logos
+de paz. http://economia.uniandes.edu.co. 2019.
+37.
+Raffo Lo´pez L, Castro AJ, España Dı´az A. Apuntes del Cenes. Apuntes Del Cenes. 2016; 35:207–236.
+Available from: http://www.redalyc.org/articulo.oa?id=479555352008.
+38.
+Rocha R, Martı´nez H. Coca en Colombia- efecto balo´n, vulnerabilidad e integralidad de polı´ticas. DNP
+Arch Econ. 2015.
+39.
+Silveira Neto R da M, Firmino Costa da Silva D, Cavalcanti FM. The spatial association between drugs
+and urban violence: an analysis for the Metropolitan Region of Recife, Brazil. Spat Econ Anal. 2023; 18
+(4):486–506. https://doi.org/10.1080/17421772.2023.2186474
+PLOS ONE
+Spatial analysis of socioeconomic data and its relationship with illicit crops
+PLOS ONE | https://doi.org/10.1371/journal.pone.0316709
+January 2, 2025
+15 / 16
+
+
+40.
+Arias Barrera CJ, Nuñez Go´mez NA, Muñoz Velasco LA. Cultivos de Coca: Economı´a y Violencia en
+Municipios de Colombia 2012–2019. ECONO´ MICAS CUC. 2022; 44(1):9–30. https://doi.org/10.17981/
+econcuc.44.1.2023.econ.3
+41.
+Garzo´n J, Ge´lvez J, Bernal J. ¿En que´ va la sustitucio´n de cultivos ilı´citos? Desafı´os, dilemas actuales
+y la urgencia de un consenso. Fundacio´n Ideas Para la Paz; 2019. Technical Report.
+42.
+Nussbaum MC. Philosophy and Economics in the Capabilities Approach: An Essential Dialogue. J Hum
+Dev Capabilities. 2015; 16(1):1–14. https://doi.org/10.1080/19452829.2014.983890
+43.
+Nussbaum MC. Introduction: Aspiration and the Capabilities List. J Hum Dev Capabilities. 2016; 17
+(3):301–308. https://doi.org/10.1080/19452829.2016.1200789
+PLOS ONE
+Spatial analysis of socioeconomic data and its relationship with illicit crops
+PLOS ONE | https://doi.org/10.1371/journal.pone.0316709
+January 2, 2025
+16 / 16

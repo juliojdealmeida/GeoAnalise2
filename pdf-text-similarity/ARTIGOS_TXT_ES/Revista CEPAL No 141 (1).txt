@@ -1,0 +1,958 @@
+La permanente búsqueda  
+de la integración en  
+América Latina y el Caribe1
+Luz María de la Mora
+Recibido: 13/09/2023
+Aceptado: 22/09/2023
+Resumen
+América Latina y el Caribe se ha planteado lograr una integración regional. A más 
+de seis décadas de la creación de la Asociación Latinoamericana de Libre Comercio 
+(ALALC), el primer gran proyecto regional, los modestos resultados distan mucho 
+del objetivo inicial. América Latina y el Caribe es una región fragmentada. Las 
+instituciones para la integración han logrado poco y esta ha estado más presente en 
+la retórica que en las prioridades políticas nacionales. La politización de la integración 
+ha impedido avanzar en un proyecto regional con visión pragmática y de largo 
+plazo. En un contexto de relocalización de las cadenas de suministro, la integración 
+vuelve a cobrar relevancia. Considerando las realidades de los países para avanzar 
+en un gran proyecto regional, en este artículo se proponen algunas medidas para 
+aprovechar la deslocalización cercana (nearshoring) y preparar el camino para lograr 
+una integración más profunda, que genere crecimiento, desarrollo y bienestar.
+Palabras clave 
+Integración económica, comercio internacional, desarrollo económico, organizaciones 
+regionales, regionalismo, exportaciones, importaciones, estadísticas comerciales, 
+aspectos políticos, localización industrial, facilitación del comercio, América Latina 
+y el Caribe
+Clasificación JEL 
+B27, F15, N16
+Autora
+Luz María de la Mora Sánchez es Doctora en Ciencias Políticas por la Universidad 
+de Yale (Estados Unidos), tiene una Maestría de la Universidad de Carleton (Canadá) 
+y es egresada de la carrera de Relaciones Internacionales del Colegio de México 
+(COLMEX). Correo electrónico: luzmadelamora@gmail.com.
+1 La autora agradece los valiosos comentarios y observaciones realizados a un borrador de este trabajo por Jorge Mario 
+Martínez Piva, Jefe de la Unidad de Comercio Internacional e Industria de la sede subregional de la Comisión Económica para 
+América Latina y el Caribe (CEPAL) en México.
+114
+Revista de la CEPAL N° 141 • diciembre de 2023 
+La permanente búsqueda de la integración en América Latina y el Caribe
+I. Introducción
+América Latina y el Caribe ha estado en la búsqueda permanente de una integración regional desde 
+el inicio de su vida independiente. La idea de una región integrada ha estado presente en el ideario 
+político de diferentes líderes a lo largo de la historia, desde una diversidad de enfoques y visiones. En 
+el siglo XIX, Simón Bolívar propuso una visión de integración regional mediante la cual buscaba unir a 
+los países recién independizados en la confederación de la Gran Colombia. José Martí, por su parte, 
+propuso una América Unida. En el siglo XX, Raúl Prebisch, Secretario Ejecutivo de la Comisión Económica 
+para América Latina y el Caribe (CEPAL), fue un personaje clave en la construcción de la integración 
+económica en la región. Su pensamiento y propuestas buscaron incidir sobre las políticas económicas 
+y de desarrollo de la región. Una de sus propuestas consistía en promover el crecimiento de los países 
+de la región impulsando la marcha hacia un mercado único facilitado por el intercambio comercial 
+(Prebisch,  1969). En su visión, el crecimiento mediante “la industrialización de todos los países 
+latinoamericanos” por medio de la sustitución de las importaciones se podría sustentar con la creación 
+de “un mercado único latinoamericano que favoreciera la consolidación de un mercado interno fuerte” 
+(Sotelsek, 2008).
+Tras más de seis décadas de buscar la integración económica en América Latina y el Caribe a 
+través de la creación de una zona de libre comercio o un mercado común, los resultados son modestos 
+y distan mucho del objetivo planteado de promover el comercio mediante la eliminación de barreras 
+al intercambio de bienes y servicios entre los países de América Latina y el Caribe. Considerando los 
+niveles de intercambio comercial, el comercio entre los países de la región se ha ubicado en torno 
+al 15% del comercio que los países de América Latina y el Caribe realizan con el mundo. La región 
+se presenta fragmentada entre los países de América del Sur, Centroamérica, el Caribe y México, 
+que parece un vecino latinoamericano muy distante respecto de lo que sucede en la región desde el 
+punto de vista del comercio y la inversión. En términos de inversiones, la participación de los países 
+de América Latina y el Caribe en los flujos de inversión extranjera directa (IED) que recibe la región 
+es baja, aun cuando en 2022 alcanzó un récord del 14%, cifra que todavía se encuentra por debajo 
+del 17% de IED de la Unión Europea y el 38% de IED de los Estados Unidos (CEPAL, 2023a)2. Estas 
+cifras son indicativas de la limitada integración económica, comercial y de inversión entre los países 
+de América Latina y el Caribe.
+El proyecto integracionista de América Latina y el Caribe ha ido acompañado de la creación de 
+instituciones regionales, que, sin embargo, han logrado pocos avances en la materia. Las razones para 
+ello pueden ser muchas y diversas, pero lo que es claro es que aún hay mucho por hacer en el ámbito 
+de la institucionalidad de la integración y ello refleja la escasa prioridad que la integración regional ha 
+merecido entre los países y gobiernos de turno. 
+En el contexto actual de relocalización y regionalización de cadenas de suministro, en que se 
+busca diversificar la proveeduría de China hacia terceros países y regiones, la integración regional vuelve 
+a cobrar relevancia como una herramienta para que el futuro de América Latina y el Caribe cuente 
+con un “desarrollo más productivo, inclusivo y sostenible”, como plantea la CEPAL (2023b). Aunque 
+el balance de la integración regional muestra resultados modestos, en este documento se sostiene 
+que es oportuno replantear los caminos y las políticas públicas para retomar una senda que permita, 
+a partir de una integración regional más profunda, generar oportunidades de crecimiento, desarrollo, 
+inclusión y prosperidad para los ciudadanos de América Latina y el Caribe.
+En este trabajo se analiza por qué la integración de América Latina y el Caribe muestra pocos 
+avances y se ofrecen propuestas que podrían ayudar a construir el andamiaje para profundizar los niveles 
+de integración. Se revisa de manera sucinta el estado en que se encuentra el proceso de integración en 
+2 En el período 2015-2019, la IED de países de América Latina y el Caribe en esta región fue del 10%. 
+115
+Revista de la CEPAL N° 141 • diciembre de 2023
+Luz María de la Mora
+la región, enfocado tanto en la arquitectura institucional de la integración como en los flujos de comercio 
+e inversión. En la sección II se explica que la integración no ha sido una prioridad en las agendas de 
+los países de la región, en tanto que ha faltado pragmatismo y liderazgo para impulsar una integración 
+sustantiva. Los nacionalismos y la soberanía han pesado más que los beneficios de la integración y han 
+desviado a la región del propósito. Se hace referencia a las instituciones de la integración y se examinan 
+los dos tipos de iniciativas regionales: las de integración comercial y las motivadas por cuestiones 
+políticas e ideológicas orientadas a desarrollar una agenda de cooperación. Esta institucionalidad, si 
+bien ha funcionado por décadas, ha mostrado resultados escasos. Sin embargo, en este momento no 
+parece haber voluntad para replantear dichas instituciones, por lo que lo más conveniente sería utilizar 
+las que ya existen y, con una visión pragmática, profundizar en las áreas técnicas que puedan impulsar la 
+participación de América Latina y el Caribe en la relocalización de cadenas de suministro. 
+En la sección III se analiza el estado de la integración, para lo que se examinan las cifras de 
+comercio e inversiones intrarregionales. Estas reflejan que la integración aún tiene un gran potencial 
+de aprovechamiento pues, aunque existen acuerdos preferenciales bilaterales o subregionales, los 
+intercambios comerciales y de inversión son escasos, sobre todo entre los países que forman parte de la 
+Asociación Latinoamericana de Integración (ALADI). Ello contrasta con el dinamismo que América Latina 
+y el Caribe ha mostrado en su comercio con socios extrarregionales, como los Estados Unidos, China 
+o la Unión Europea.
+En la sección IV se hace referencia a la politización de la integración, lo que explica las dificultades 
+para avanzar en un proyecto regional con visión pragmática y de largo plazo. Ciertas cuestiones 
+vinculadas a los nacionalismos y la soberanía han sido obstáculos para que diversos países se sumen 
+de lleno a un proyecto de integración en diferentes momentos de la historia. 
+En la sección V se explica que en la coyuntura actual de deslocalización cercana (nearshoring) y 
+desacoplamiento de cadenas de suministro de China con respecto a los Estados Unidos o la Unión Europea 
+puede haber una oportunidad para dinamizar la integración de América Latina y el Caribe. El interés de 
+países y empresas por implementar una estrategia de diversificación de la proveeduría “China+1”, donde 
+América Latina y el Caribe puede ser ese “+1”, puede promover la construcción o consolidación de 
+cadenas de suministro en sectores como los de confección, calzado, muebles o dispositivos médicos. 
+En este sentido, la integración productiva puede fortalecer la posición de América Latina y el Caribe 
+para, de manera integrada, poder participar en las cadenas de suministro a nivel regional y mundial.
+Por último, en la sección VI se presenta una reflexión sobre el futuro de la integración y se plantea 
+la pregunta de si la integración de América Latina y el Caribe tiene futuro. Tomando en cuenta las 
+realidades de la región y las dificultades para avanzar, se proponen algunas vías para avanzar de manera 
+gradual y pragmática en la construcción de bloques que permitan preparar el camino hacia una futura 
+integración regional. Se ofrecen algunas propuestas para que la región aproveche la deslocalización 
+cercana, que aparenta ser una tendencia a largo plazo donde América Latina y el Caribe cuenta con 
+potencial para participar y, sobre todo, impulsar la integración para aumentar el crecimiento, el desarrollo 
+y el bienestar a fin de ofrecer un mejor futuro a la población de la región.
+II. Las instituciones de la integración 
+en América Latina y el Caribe
+La integración en América Latina y el Caribe es escasa, pero se mantiene en las agendas de política 
+exterior y comercio de los países de la región. “Integración” es un término que aparece de manera 
+recurrente en el discurso político, pero ello no se refleja como prioridad en las agendas nacionales 
+de política pública. En América Latina y el Caribe no hay ningún país que esté dispuesto a asumir el 
+116
+Revista de la CEPAL N° 141 • diciembre de 2023 
+La permanente búsqueda de la integración en América Latina y el Caribe
+liderazgo para impulsar el proyecto de integración. Ni el Brasil ni México, las grandes economías de la 
+región, han tenido el interés ni la visión para liderar un verdadero proyecto de integración latinoamericana. 
+Por otra parte, la integración se ha politizado según el signo político y la ideología de los Gobiernos 
+de la región. Cuando los Gobiernos han coincidido en su visión política, los acuerdos han avanzado, 
+pero cuando ocurrió lo contrario, prevalecieron las diferencias sobre el pragmatismo que debería 
+guiar la integración. La región ha olvidado lo que Prebisch señalaba en 1969 en el sentido de que la 
+cooperación económica podría constituir una “base sólida para llegar a una unidad política”, pero el 
+concepto del mercado latinoamericano es independiente de todo “concepto de unificación política” 
+en tanto que “el mercado común no tiene un designio político” por lo que la integración no debería 
+politizarse (Prebisch, 1969). Pero esta se ha politizado y ello ha hecho difícil mantener el foco en el 
+objetivo último: lograr una región integrada que actué como un catalizador del crecimiento, el desarrollo, 
+la creación de empleo y el bienestar.
+Por otra parte, la férrea defensa de la soberanía nacional entre los países de la región también ha 
+sido un freno a la integración pues ha impedido llegar a un balance correcto entre conseguir sus beneficios 
+a cambio de sujetar las soberanías nacionales al cumplimiento de ciertas reglas regionales. Cada país 
+da prioridad a su agenda nacional, en tanto que no se ve a la cooperación regional como una fuente de 
+fortaleza (Hakim, 2015). En América Latina y el Caribe no ha sido posible aislar discusiones sobre la 
+soberanía donde los países de la región puedan “moderar sus demandas de soberanía absoluta […] 
+para conseguir […] una acción colectiva regional a favor de intereses compartidos” (Hakim, 2015). 
+La región carece de un órgano equivalente a la Comisión Europea en la Unión Europea o el 
+Consejo Coordinador de la Asociación de Naciones del Sudeste Asiático (ASEAN), en el que pueda 
+apoyarse para supervisar el correcto avance del proceso de la integración de América Latina y el Caribe, 
+y en este momento resulta difícil imaginar la existencia de un órgano de ese tipo3. El único organismo 
+regional que podría ejercer dicha función es la ALADI, que ha mostrado poca capacidad de convocatoria 
+como foro para discutir y promover los temas de la integración, y aun menor capacidad para impulsar 
+de manera decidida un proceso de integración. 
+En América Latina y el Caribe hay dos tipos de iniciativas regionales de integración: las de índole 
+económico-comercial y las que han sido resultado de visiones políticas e ideológicas orientadas a 
+diseñar una agenda de cooperación política entre los países participantes. 
+La CEPAL ha sido un activo promotor de la integración comercial en la región. En 1960 promovió 
+la creación de la Asociación Latinoamericana de Libre Comercio (ALALC) y en 1980 alentó la creación de 
+la ALADI4 por medio de los Tratados de Montevideo de 1960 y 1980. La constitución de esta última se 
+llevó a cabo “con diferentes instrumentos y una realidad mundial y regional sustancialmente diferentes” 
+a la que permitió la creación de la primera asociación (ALADI/CEPAL, 2012). 
+Con la ALALC se buscó crear una zona de libre comercio, en un período de 12 años (después 
+ampliado a 18 años), a través de negociaciones entre los países miembros para lograr la eliminación 
+gradual de aranceles y restricciones no arancelarias (ALALC, 1960). Posteriormente, en 1980, la ALALC 
+se transformó en la ALADI “al no poderse alcanzar el objetivo de conformar una zona de libre comercio 
+en el período establecido” y se propuso establecer un mercado común latinoamericano “sin metas ni 
+cronogramas predeterminados, en un marco flexible, y al abrir la posibilidad de crear relacionamientos 
+bilaterales y subregionales” (ALADI, 1980).
+3 La ASEAN está integrada por diez países (Brunei Darussalam, Camboya, Filipinas, Indonesia, Malasia, Myanmar, República 
+Democrática Popular Lao, Singapur, Tailandia y Viet Nam) que buscan crear una comunidad económica, política y sociocultural 
+(véase [en línea] https://asean.org/our-communities/economic-community/). 
+4 La ALADI está integrada por 13 países miembros y 2 países se encuentran en proceso de adhesión. Fue creada en 1980 a 
+partir de la ALALC (que existió entre 1960 y 1980), como un organismo de integración regional para promover el desarrollo 
+económico y social de sus miembros. 
+117
+Revista de la CEPAL N° 141 • diciembre de 2023
+Luz María de la Mora
+Actualmente, la ALADI enfrenta retos para dar pasos hacia la promoción de un proyecto de 
+integración regional para eliminar barreras al comercio intrarregional. En los últimos años, la Asociación 
+no ha contado con la participación de todos los ministros en las reuniones ministeriales, lo que podría 
+ser un reflejo de la baja prioridad que los Estados miembros dan al tema y de los grandes retos que 
+enfrentan tanto la ALADI como el proyecto mismo de la integración regional. Pese a las más de seis 
+décadas que han pasado desde la creación de la ALALC (1960) y posteriormente la ALADI (1980), y 
+las innumerables iniciativas planteadas para promover la integración económica, comercial y productiva 
+de la región, la realidad está lejos del objetivo planteado. 
+Al margen de la ALADI como el organismo de integración latinoamericana, desde los años 
+noventa se han negociado acuerdos bilaterales y subregionales de integración con el objetivo de 
+promover la cooperación económica, comercial, política y social entre ciertos países de la región 5. 
+Previo al año 2000, en promedio, los países de América Latina y el Caribe tenían “acuerdos comerciales 
+preferenciales con cerca de cuatro socios regionales, mientras que para 2013 esta cifra se elevó a 
+cerca de 10. Sin embargo, estos no siempre demostraron una gran apertura hacia una real integración 
+regional” (Banco Mundial, 2017).
+La firma de acuerdos comerciales subregionales ha permitido mantener cierta presencia de 
+la región en la economía mundial. Aun cuando estos acuerdos contribuyen a la integración regional, 
+también han creado una red de disciplinas con coberturas y ambiciones dispares, así como diferentes 
+niveles de liberalización del comercio de bienes y servicios, cuando estos últimos están incluidos. Estas 
+disparidades generan costos a los empresarios que deben cumplir con diversas regulaciones para 
+acceder con tratamiento arancelario preferencial (cuando lo hay) a los 33 mercados de América Latina 
+y el Caribe ante la ausencia de un mercado común. 
+Desde la perspectiva de la integración económica destacan los acuerdos subregionales que han 
+operado por décadas y han tenido ajustes y profundizaciones, aunque también retrocesos, de modo 
+que “los esquemas de integración de América Latina parecen en su mayoría envejecidos e ineficaces” 
+(Hakim, 2015). Estos son: la Comunidad Andina (CAN)6, la Comunidad del Caribe (CARICOM)7, el Mercado 
+Común del Sur (MERCOSUR)8, el Sistema de la Integración Centroamericana (SICA)9, la Secretaría de 
+Integración Económica Centroamericana (SIECA)10 y la Alianza del Pacífico11. Estos acuerdos incluyen, 
+entre otras medidas, la reducción o eliminación de aranceles aplicados a las importaciones de bienes, 
+así como disciplinas para el comercio de bienes y servicios. Sin embargo, dentro de los mismos 
+mecanismos subregionales, los avances han sido limitados. Por ejemplo, en el caso del MERCOSUR, 
+que fue constituido en 1991, aún existen aranceles que se aplican en el comercio entre los países 
+miembros del mecanismo o se han dado circunstancias en las que los socios aplican aranceles a las 
+importaciones de terceros que se alejan de sus propios principios, que suponen la aplicación de un 
+mismo arancel externo común entre los cuatro socios para importaciones de fuera de la región, al ser 
+5 Véanse los textos de los diversos acuerdos comerciales de los países de América Latina y el Caribe en el sitio web del Sistema 
+de Información de Comercio Exterior de la Organización de los Estados Americanos (OEA) (véase [en línea] http://www.sice.
+oas.org/defaults.asp) y el sitio web de la ALADI (véase [en línea] https://www.aladi.org/sitioaladi/acuerdosactuales/).
+6 Se creó en 1969 y está integrada por Bolivia (Estado Plurinacional de), Colombia, el Ecuador y el Perú. Busca promover el 
+desarrollo equilibrado y sostenible de los países miembros mediante la integración económica y la cooperación regional.
+7 Se fundó en 1973 para apoyar la cooperación económica, social y cultural entre los países del Caribe. La conforman 15 países 
+(Antigua y Barbuda, Bahamas, Barbados, Belice, Dominica, Granada, Guyana, Haití, Jamaica, Montserrat, Saint Kitts y Nevis, 
+San Vicente y las Granadinas, Santa Lucía, Suriname y Trinidad y Tabago) y cinco miembros asociados.
+8 Se originó en 1991 como una unión aduanera entre la Argentina, el Brasil, el Paraguay y el Uruguay a fin de impulsar el comercio 
+y la cooperación económica, y establecer una política comercial común frente a terceros mediante la creación de un arancel 
+externo común. El Estado Plurinacional de Bolivia ha solicitado su adhesión al bloque.
+9 Se estableció en 1991 para integrar a los países centroamericanos: Belice, Costa Rica, El Salvador, Guatemala, Honduras, 
+Nicaragua, Panamá y República Dominicana.
+10 Es el órgano del SICA encargado de promover la integración económica y el desarrollo en Centroamérica.
+11 Se creó en 2011 como un mecanismo de integración económica y comercial para permitir la libre circulación de bienes, servicios, 
+capitales y personas entre sus miembros: Chile, Colombia, México y Perú. 
+118
+Revista de la CEPAL N° 141 • diciembre de 2023 
+La permanente búsqueda de la integración en América Latina y el Caribe
+este acuerdo una unión aduanera12. Quizás los mejores ejemplos sean dos acuerdos suscritos en 2002 
+entre México y el MERCOSUR: el Acuerdo de Complementación Económica núm. 54 (ACE 54), de 
+donde surgen cuatro acuerdos bilaterales con México, con diferentes niveles de preferencias en cada 
+uno, y el Acuerdo de Complementación Económica núm. 55 (ACE 55), por el que se rige el comercio 
+en el sector automotor entre México y cada uno de los Estados miembros del MERCOSUR. Ambos 
+acuerdos, así como los acuerdos bilaterales, tienen como objetivo ser los bloques que conducirán, 
+eventualmente, al establecimiento de un tratado de libre comercio (TLC) entre México y el MERCOSUR.
+Entre las iniciativas de cooperación política se encuentran la Comunidad de Estados Latinoamericanos 
+y Caribeños (CELAC)13, la Alianza Bolivariana para los Pueblos de Nuestra América-Tratado de Comercio 
+de los Pueblos (ALBA-TCP)14 y la Unión de Naciones Suramericanas (UNASUR)15. Estas organizaciones 
+se crearon con el fin de promover agendas políticas, en tanto que la participación de los diferentes 
+países miembros en el ALBA y la UNASUR ha respondido, en ocasiones, a coincidencias ideológicas 
+de los gobiernos de turno, de ahí la actividad o pasividad que se observa en dichos organismos, que 
+difícilmente pueden ser un referente para la creación de un proyecto de integración productiva o de 
+un mercado común ampliado. 
+En la década de 1990, el proceso de integración de América Latina y el Caribe se caracteriza por 
+un “regionalismo abierto”, que, según la propuesta de la CEPAL, entraña la interacción de la integración 
+impulsada por políticas y la integración “de hecho” alentada por políticas no discriminatorias, a fin de 
+facilitar el desarrollo de la competitividad de los países latinoamericanos y constituir, al mismo tiempo, 
+el cimiento de un sistema económico internacional más abierto (Fuentes, 1994). Los países de América 
+Latina y el Caribe han establecido una red de tratados y acuerdos comerciales y de inversión con países 
+de dentro y fuera de la región, con los que se podría apoyar el esfuerzo de integración. Por ejemplo, 
+en el marco del Tratado de Montevideo 1980, actualmente están vigentes 70 acuerdos de alcance 
+parcial (en los que participan solo algunos países miembros de la ALADI), de los cuales 37 son de 
+complementación económica (ALADI, s/f). De esos acuerdos, 25 son de libre comercio e incluyen a 12 de 
+los 13 países miembros (Leroux, 2018). Si bien los países de América Latina y el Caribe han construido 
+un andamiaje institucional donde los acuerdos incluyen preferencias arancelarias para buena parte de 
+los productos con potencial de comercialización, estos tienen una cobertura parcial que difícilmente 
+podría llevar a la construcción de una zona de libre comercio. A partir de la constitución de la ALADI, 
+como resultado de la renegociación del patrimonio histórico de la ALALC, en la década de 1980, los 
+acuerdos comerciales tenían “una cobertura limitada de productos y consistían en el otorgamiento de 
+preferencias arancelarias, pero no en la eliminación de aranceles” (ALADI/CEPAL, 2012). A partir de 
+los años noventa, los acuerdos comerciales negociados entre los países de América Latina y el Caribe 
+pasaron a ser tratados de libre comercio (TLC), cuyo fin ha sido la liberalización del comercio de bienes, 
+lo que incluye la eliminación total de aranceles a prácticamente todo el universo de productos y la 
+apertura en el comercio de servicios mediante la desregulación de la actividad de los sectores cubiertos, 
+así como la inclusión de disciplinas para el comercio de bienes y servicios, la inversión, las compras 
+públicas y la propiedad intelectual, entre otros. También se incorporan mecanismos de solución de 
+diferencias entre Estados. 
+12 En mayo de 2022, el Brasil redujo de manera unilateral su arancel externo común en el MERCOSUR, en tanto que el Uruguay 
+buscó negociar de manera bilateral un TLC con China; ambas decisiones son contrarias a la construcción de una unión aduanera 
+entre los socios (véase [en línea] https://ladiaria.com.uy/politica/articulo/2022/5/de-forma-unilateral-brasil-decidio-volver-a-bajar-
+el-arancel-externo-comun-del-mercosur/). 
+13 Se estableció en 2011 como un foro regional que reúne a los 33 países de América Latina y el Caribe para promover la 
+cooperación política, económica y social.
+14 Fue fundada en 2004 para luchar contra la pobreza y la exclusión social. La componen Antigua y Barbuda, Bolivia (Estado 
+Plurinacional de), Cuba, Dominica, Granada, Nicaragua, San Vicente y las Granadinas, Santa Lucía y Venezuela (República 
+Bolivariana de). Honduras se unió en 2008, pero se retiró en 2010. El Ecuador se sumó en 2009 y se retiró en 2018.
+15 Se constituyó en 2008 y entró en vigor en 2011. La conforman la Argentina, Bolivia (Estado Plurinacional de), el Brasil, Guyana, 
+Suriname y Venezuela (República Bolivariana de), después de la salida de Colombia, el Paraguay, el Perú y el Uruguay.
+119
+Revista de la CEPAL N° 141 • diciembre de 2023
+Luz María de la Mora
+En suma, desde los años sesenta, en América Latina y el Caribe se ha construido un andamiaje 
+institucional de acuerdos de comercio e inversión que tendrían que ser el fundamento para promover 
+la integración entre los países de la región. Sin embargo, este entramado de acuerdos comerciales y 
+TLC entre diversos países de América Latina y el Caribe, que ha generado liberalizaciones bilaterales 
+o subregionales, resulta insuficiente para construir un mercado común latinoamericano. 
+III. El estado de la integración
+El comercio y las inversiones intrarregionales no han despegado. La integración de América Latina y 
+el Caribe, medida en términos de intercambio comercial entre los países de la región, se ha mantenido 
+en niveles en torno al 15%, en promedio, con algunos años con niveles un poco más elevados (por 
+encima del 20% entre 2005 y 2010) y otros un poco más bajos (llegando al 13% en 2020). El Banco 
+Interamericano de Desarrollo (BID) concluye que “la integración económica de América Latina y el Caribe 
+se ha mantenido relativamente estancad[a]” a lo largo de varias décadas (Giordano, 2021).
+En 2022, el comercio intrarregional muestra uno de los niveles de integración más bajos de 
+las últimas décadas. Del total de las importaciones que América Latina y el Caribe realizó en 2022 
+(1.524  billones de dólares), solo un 14,95% se originó en la región (227.000 millones de dólares) 
+(véase el gráfico 1) (FMI, s/f). Para el caso de las exportaciones totales de América Latina y el Caribe 
+en 2022, estas sumaron 1.394 billones de dólares, de las cuales 214.000 millones de dólares fueron 
+intrarregionales, lo que representó solo el 14,78% del total exportado (véase el gráfico 2)16. 
+Gráfico 1 
+América Latina y el Caribe: importaciones totales intrarregionales y del mundo, 1991-2022 
+(En miles de millones de dólares)
+0
+0,2
+0,4
+0,6
+0,8
+1,0
+1,2
+1,4
+1,6
+1,8
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Importaciones totales Importaciones intrarregionales
+Fuente: Fondo Monetario Internacional (FMI), “IMF Data” [en línea] https://data.imf.org/regular.aspx?key=61013712.
+16 En 2022, entre los cinco principales sectores de exportación intrarregional se encuentran: petróleo, vehículos, maquinaria, 
+plásticos y máquinas, aparatos y material eléctrico. Estadísticas del comercio para el desarrollo internacional de las empresas 
+(TRADE MAP). Comercio intrarregional. Exportaciones. Véase [en línea] https://www.trademap.org/BilateralTS.aspx?nvpm=3%
+7c%7c15%7c%7c15%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1.
+120
+Revista de la CEPAL N° 141 • diciembre de 2023 
+La permanente búsqueda de la integración en América Latina y el Caribe
+Gráfico 2 
+América Latina y el Caribe: exportaciones totales intrarregionales y al mundo, 1991-2022 
+(En miles de millones de dólares)
+0
+0,2
+0,4
+0,6
+0,8
+1,0
+1,2
+1,4
+1,6
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Exportaciones totales Exportaciones intrarregionales
+Fuente: Fondo Monetario Internacional (FMI), “IMF Data” [en línea] https://data.imf.org/regular.aspx?key=61013712.
+Si bien el comercio entre los países de América Latina y el Caribe ha crecido desde los años 
+noventa en términos de valor, lo que se mantiene en niveles similares es la participación que tienen 
+los países de la región como mercado para sus exportaciones e importaciones. En 1991 el comercio 
+intrarregional sumó 47.000 millones de dólares, en 2000 fue de 131.000 millones de dólares, en 2010 
+sumó 350.000 millones de dólares y en 2022 alcanzó 433.000 millones de dólares. Si bien en 1991 
+este comercio representó el 16,7% del comercio total de América Latina y el Caribe con el mundo, 
+en 2022 su participación bajó a alrededor del 14,8% (FMI, s/f).
+Al ver los niveles de comercio por bloque subregional (Mercado Común Centroamericano (MCCA), 
+CARICOM y ALADI), se observa que el comercio entre los países miembros de la ALADI es el más bajo 
+entre los países de América Latina y el Caribe (véase el gráfico 3). 
+En 2022, las importaciones entre los países miembros de la ALADI representaron el 12,84% de 
+las importaciones que los países de la Asociación realizaron del mundo, en tanto que las exportaciones 
+dentro de la ALADI representaron el 12,31% de las exportaciones totales que los países que la integran 
+hicieron al mundo. 
+En el caso de la CARICOM, en 2022 las importaciones dentro del bloque representaron 
+el 18,62% de las importaciones que los países de la CARICOM realizaron del mundo, mientras que 
+las exportaciones dentro del bloque representaron el 20,06% de las exportaciones totales que estos 
+países hicieron al mundo. 
+En el MCCA, las importaciones dentro del bloque representaron el 14,41% de las importaciones 
+que los países realizaron del mundo en 2022, en tanto que las exportaciones las realizadas dentro 
+del bloque representaron el 25,62% de las exportaciones totales que los países hicieron al mundo en 
+ese mismo año. 
+121
+Revista de la CEPAL N° 141 • diciembre de 2023
+Luz María de la Mora
+Gráfico 3 
+Mercado Común Centroamericano (MCCA), Comunidad del Caribe (CARICOM)  
+y Asociación Latinoamericana de Integración (ALADI): importaciones 
+y exportaciones dentro de los bloques, 2022
+(En porcentajes)
+0
+5
+10
+15
+20
+25
+30
+MCCA
+Importaciones
+dentro del bloque
+MCCA
+Exportaciones
+dentro del bloque
+CARICOM
+Importaciones
+dentro del bloque
+CARICOM
+Exportaciones
+dentro del bloque
+ALADI
+Importaciones
+dentro del bloque
+ALADI
+Exportaciones
+dentro del bloque
+Fuente: Centro de Comercio Internacional (ITC), Estadísticas del comercio para el desarrollo internacional de las empresas 
+(TRADE MAP).
+Una de las razones que explica el incremento en el comercio entre los países de la región 
+puede estar relacionada con la reducción arancelaria que los países de América Latina y el Caribe han 
+aplicado, como resultado de sus esfuerzos de apertura económica. Según datos de la CEPAL, el arancel 
+promedio regional aplicado entre los países de América Latina había disminuido significativamente 
+para ubicarse en torno al 5% en 2019. En este sentido, la diversidad de acuerdos negociados entre 
+los países de la región permitió que, en 2019, el 82% del comercio realizado entre los países de la 
+ALADI se hiciera sin pago de arancel (Leroux, 2018). No obstante, esta reducción arancelaria no se ha 
+traducido en una mayor participación en los flujos de comercio entre los países de la región. Entre las 
+razones posibles, además de la falta de un acuerdo de amplia cobertura entre las dos economías más 
+grandes de América Latina y el Caribe (México y Brasil), se encuentran la falta de oferta exportable, el 
+efecto de las barreras no arancelarias para el acceso efectivo al mercado, la competencia entre países 
+que exportan los mismos productos y la escasa infraestructura y conectividad, lo que ha limitado el 
+desarrollo de cadenas regionales de valor (ALADI/CEPAL, 2012).
+Asimismo, los países de América Latina y el Caribe han orientado su comercio hacia mercados 
+extrarregionales, como los Estados Unidos, China y la Unión Europea, lo que ha limitado la integración 
+económica regional que podría darse a partir de encadenamientos productivos que resultan escasos. 
+Ello también ha limitado mucho la complementariedad productiva y la cooperación intrarregional.
+En comparación con el limitado dinamismo en el comercio intrarregional, cuando se observa el 
+comercio de la región con China se puede ver un crecimiento exponencial. En 2001, cuando China 
+ingresó a la Organización Mundial del Comercio (OMC), las exportaciones de América Latina y el Caribe 
+a ese país representaban el 1,43% del total de sus exportaciones al mundo (véase el gráfico 4) y las 
+importaciones de la región desde ese país representaban el 2,68% de las importaciones que esta 
+realizaba del mundo (véase el gráfico 5). En 2010, las exportaciones de América Latina y el Caribe 
+a China representaron el 8,3% del total y las importaciones el 13,59%, en tanto que en 2022 China 
+compró un 13,3% de las exportaciones de América Latina y el Caribe y abasteció el 20,36% de sus 
+importaciones (FMI, s/f). 
+122
+Revista de la CEPAL N° 141 • diciembre de 2023 
+La permanente búsqueda de la integración en América Latina y el Caribe
+Gráfico 4 
+América Latina y el Caribe: exportaciones totales hacia China e intrarregionales, 1991-2022 
+(En miles de millones de dólares)
+0
+50
+100
+150
+200
+250
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Exportaciones intrarregionales Exportaciones hacia China
+Fuente: Fondo Monetario Internacional (FMI), “IMF Data” [en línea] https://data.imf.org/regular.aspx?key=61013712.
+Gráfico 5 
+América Latina y el Caribe: importaciones totales de China e interregionales, 1991-2022 
+(En miles de millones de dólares)
+0
+50
+100
+150
+200
+250
+300
+350
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Importaciones intrarregionales Importaciones hacia China
+Fuente: Fondo Monetario Internacional (FMI), “IMF Data” [en línea] https://data.imf.org/regular.aspx?key=61013712.
+En 2022, la integración de América Latina y el Caribe con China fue mucho más dinámica que la 
+integración intrarregional que solo estuvo 1 punto por arriba de las exportaciones de la región a China, 
+en tanto que las importaciones de China fueron 5 puntos porcentuales mayores que las realizadas 
+dentro de la región. Entonces, China ha pasado a ser uno de los socios comerciales más importantes 
+de América Latina y el Caribe y se ha convertido en un proveedor clave, pero también en un mercado de 
+exportación al que se destina una parte importante de las ventas de la región al mundo.
+123
+Revista de la CEPAL N° 141 • diciembre de 2023
+Luz María de la Mora
+En lo que se refiere al comercio de América Latina y el Caribe con los Estados Unidos, este 
+duplica con creces al comercio intrarregional, aunque ha venido perdiendo participación. En 2000, 
+el 58,3% de las exportaciones de América Latina y el Caribe se dirigían a los Estados Unidos y en 2022 
+estas cayeron al 43,3% (603.000 millones de dólares), aunque representaron casi tres veces el valor de 
+las exportaciones intrarregionales. En lo que se refiere a importaciones, en 2000, los Estados Unidos 
+abastecieron casi el 50% del total de lo que importó la región, mientras que para 2022 esta participación 
+bajó al 31,5%. Esta reducción en la participación de los Estados Unidos en el comercio con América Latina 
+y el Caribe se puede explicar por la creciente presencia de China en el comercio con los países de la 
+región, algunos de los cuales ya cuentan con un TLC con ese país (Chile, Costa Rica, Ecuador y Perú) 
+(véase el cuadro 1).
+Cuadro 1 
+América Latina y el Caribe: valor y participación en las exportaciones e importaciones 
+intrarregionales, con los Estados Unidos y China, 1991, 2000, 2010 y 2022
+(En miles de millones de dólares y porcentajes)
+Exportaciones 1991 2000 2010 2022
+Valor Participación Valor Participación Valor Participación Valor Participación
+América Latina y el Caribe 23,3 16,58 67,5 18,5 170,3 19,6 206,2 14,8
+Estados Unidos 62,2 44,19 221,3 58,0 353,3 40,6 603,8 43,3
+China 0,8 0,59 3,7 1,0 72,1 8,3 185,6 13,3
+Otros 54,5 38,64 71,6 22,5 274,2 31,5 399,7 28,6
+Total 140,8 100,00 364,1 100,0 869,9 100,0 1 395,3 100,0
+Importaciones 1991 2000 2010 2022
+Valor Participación Valor Participación Valor Participación Valor Participación
+América Latina y el Caribe 24,2 16,85 64,6 16,6 180,4 20,3 227,9 14,9
+Estados Unidos 67,4 46,80 193,8 49,8 271,3 30,6 480,4 31,5
+China 0,5 0,34 8,3 2,1 120,5 13,6 310,4 20,4
+Otros 52,0 36,01 122,0 31,5 314,8 35,5 505,8 33,2
+Total 144,1 100,00 388,7 100,0 887,0 100,0 1 524,5 100,0
+Fuente: Fondo Monetario Internacional (FMI), “IMF Data” [en línea] https://data.imf.org/regular.aspx?key=61013712.
+En suma, el comercio de los diferentes países de América Latina y el Caribe con países de fuera 
+de la región ha tenido mayor dinamismo (China) y mayor participación (Estados Unidos) que el comercio 
+entre los países de la región, aun cuando estos han implementado acuerdos comerciales preferenciales 
+en virtud de los cuales se han eliminado aranceles al comercio entre socios intrarregionales.
+IV. La politización de la integración  
+en América Latina y el Caribe
+Probablemente, el mayor reto de la integración de América Latina y el Caribe es que se ha politizado, 
+sobre todo en las últimas dos décadas, lo que ha impedido consolidar un proyecto latinoamericano de 
+integración que permita avanzar en las consideraciones económicas sin que estas se vean afectadas 
+por cuestiones políticas. Los países de la región no han logrado construir una agenda común que refleje 
+los intereses más básicos y que permita establecer un plan de trabajo con objetivos claros para avanzar 
+hacia un proyecto de integración regional. Los bloques subregionales no solo han sido incapaces de 
+coordinar posiciones entre ellos, sino que han tenido crisis en su interior por diversas razones políticas. 
+Acuerdos como el MERCOSUR y la Alianza del Pacífico han buscado establecer agendas con mínimos 
+denominadores comunes entre ambos bloques, en temas como normas técnicas, pero han sido 
+incapaces de concretar avances más allá de las declaraciones de líderes o ministros.
+124
+Revista de la CEPAL N° 141 • diciembre de 2023 
+La permanente búsqueda de la integración en América Latina y el Caribe
+La integración económica de América Latina y el Caribe se ha concebido desde perspectivas 
+muy diferentes que, en muchas ocasiones, han dado prioridad a preferencias políticas e ideológicas, 
+lo que ha frenado o desviado el avance hacia la meta de la integración. Los cambios en los gobiernos 
+y las políticas nacionales han afectado la orientación y la prioridad que los países de América Latina y 
+el Caribe han dado a la integración regional. Gobiernos con distintas visiones ideológicas han tenido 
+enfoques diferentes en cuanto a la integración y la cooperación regional, lo que ha incidido en la 
+dinámica de los acuerdos y mecanismos de integración.
+A lo largo de las décadas, América Latina y el Caribe ha experimentado con diferentes visiones 
+sobre la contribución de la “inserción internacional en el crecimiento y bienestar” (ALADI/CEPAL, 2012). 
+En distintos momentos, diferentes países de la región han experimentado el surgimiento de tendencias 
+políticas que han cuestionado la apertura económica y la cooperación regional. Algunos países se 
+han retirado definitivamente de acuerdos comerciales. Por ejemplo, en 2005, la República Bolivariana 
+de Venezuela se retiró del TLC del Grupo de los Tres, del que formaba parte con Colombia y México 
+desde 1995, y en 2006 abandonó la Comunidad Andina de Naciones. Por otra parte, el ingreso de 
+la República Bolivariana de Venezuela al MERCOSUR siguió un camino tortuoso pues, aunque el 
+Protocolo de Adhesión se firmó en 2006, su incorporación no se concretó sino hasta 2012, cuando 
+el Paraguay no pudo rechazar su aprobación pues sus derechos se encontraban suspendidos por 
+temas vinculados al Protocolo de Usuahia sobre Compromiso Democrático en el Mercado Común 
+del Sur, el Estado Plurinacional de Bolivia y Chile. Posteriormente, al darse cambios de gobierno en la 
+Argentina y el Brasil, en 2017 se suspendió la participación de la República Bolivariana de Venezuela 
+en el bloque. Esto ha generado tensiones en los esfuerzos de integración y ha afectado la cohesión y 
+la continuidad de los proyectos regionales. 
+En contraste, se han dado casos de procesos de integración muy exitosos cuando estos fueron 
+impulsados por los liderazgos políticos al más alto nivel. Tal fue el caso de la Alianza del Pacífico que, 
+en su construcción, en 2011, contó con la participación de cuatro países (Chile, Colombia, México 
+y Perú) que compartían una visión sobre la integración económica, pero también mostraban afinidades 
+políticas. Las cumbres semestrales de líderes dieron un decidido impulso al mecanismo y permitieron 
+consolidar instancias de diálogo, promovieron la participación del sector privado y llamaron la atención del 
+mundo de modo que hoy la Alianza cuenta con más de 60 Estados observadores que dan seguimiento 
+a sus trabajos. Sin embargo, el comercio dentro de la Alianza del Pacífico ha sido bajo; por ejemplo, 
+en 2022, las importaciones dentro del grupo representaron el 2,7% de las importaciones que los cuatro 
+socios realizaron del mundo y las exportaciones de los países de la Alianza a sus socios del grupo 
+representaron el 2,18% del total exportado (ITC, 2022). 
+Asimismo, la inestabilidad y los conflictos de índole política y social que han sufrido diversos países 
+de la región en diferentes momentos también han complicado que se pueda impulsar la integración 
+económica y la atracción de inversiones. 
+V. ¿La deslocalización cercana puede  
+promover la integración regional  
+en América Latina y el Caribe?
+Ante un panorama tan poco alentador en torno a la integración en América Latina y el Caribe, la pregunta 
+obligada es: ¿por qué seguir intentando y aspirar a lograr niveles de integración más profundos, y 
+eventualmente crear un mercado latinoamericano amplio, cuando la realidad no parece apoyar esa aspiración?
+Los retos que enfrenta la globalización abren nuevas oportunidades para que América Latina 
+y el Caribe, como región, pueda integrarse en cadenas de suministro que buscan salir de China para 
+125
+Revista de la CEPAL N° 141 • diciembre de 2023
+Luz María de la Mora
+relocalizarse en países más cercanos a América del Norte o Europa por razones geopolíticas. De 
+hecho, el BID ha identificado que América Latina y el Caribe tiene el potencial de ser parte de esta 
+ola de relocalización de cadenas de suministro e incrementar más de 78.000 millones de dólares sus 
+exportaciones de bienes y servicios (64.000 millones de dólares en comercio de bienes y 14.000 millones 
+de dólares en comercio de servicios) (BID, 2022). Resulta evidente que, en esta estrategia, países 
+como México y los de Centroamérica y el Caribe ya se encuentran bien posicionados para atraer 
+inversiones que buscan relocalizarse en esta región para acceder al mercado de los Estados Unidos 
+en condiciones preferenciales gracias al Tratado de Libre Comercio Centroamérica-Estados Unidos-
+República Dominicana (CAFTA) y al Tratado entre los Estados Unidos Mexicanos, los Estados Unidos 
+de América y Canadá (T-MEC). Sin embargo, esta puede ser una oportunidad para que la región 
+pueda ofrecer un mercado más integrado, como se ha construido en la ASEAN, que busca generar un 
+mercado único a través de un proceso de integración económica regional y así estar en mejor posición 
+para participar en la construcción de cadenas de suministro. 
+La integración de América Latina y el Caribe también se ha puesto sobre la mesa por las 
+rivalidades geopolíticas entre China y los Estados Unidos, así como por los efectos de la pandemia 
+de enfermedad por coronavirus (COVID-19), que llevan a fortalecer la regionalización de las cadenas 
+de suministro. Esto ya se está discutiendo en foros hemisféricos, como la iniciativa para la Asociación 
+de las Américas para la Prosperidad Económica y la Tercera Cumbre de Jefes de Estado y de Gobierno de  
+la Comunidad de Estados Latinoamericanos y Caribeños (CELAC) y la Unión Europea. En el marco 
+de la Cumbre de las Américas, en junio de 2022 la Administración Biden lanzó la Alianza para la 
+Prosperidad Económica en las Américas, con la intención de buscar reforzar las “cadenas de suministro 
+para que sean más resistentes a las crisis inesperadas [y] fomentar el desarrollo económico regional” 
+(The  White  House,  2022). Asimismo, en enero de 2023, en el Congreso de los Estados  Unidos, 
+el Senador Bill Cassidy (R-LA) y la Congresista María Elvira Salazar (R-FL-27) propusieron una iniciativa de 
+ley denominada Ley para el Comercio y la Inversión de las Américas (Americas Trade and Investment Act, 
+Americas Act) con el objetivo de profundizar la relación comercial de los Estados Unidos con los países 
+del hemisferio occidental y contrarrestar la dominante presencia de China en la geopolítica y la producción 
+mundial (Cassidy, 2023). Por otra parte, en julio de 2023, en el marco del encuentro birregional entre la 
+CELAC y la Unión Europea, se destacó “la importancia del comercio abierto y justo basado en normas 
+acordadas a escala internacional, de las cadenas de suministro productivas y […] seguir reforzando y 
+desarrollando las relaciones comerciales de inversión entre la UE y los países y regiones de la CELAC” 
+(Consejo de la Unión Europea, 2023).
+En este sentido, la coyuntura actual puede ser un buen momento para reorientar los caminos 
+a fin de profundizar la integración de América Latina y el Caribe. Ante la ausencia de un proyecto de 
+integración claramente definido o del liderazgo político que necesita la región, resulta pertinente buscar 
+elaborar, proponer e impulsar propuestas concretas que permitan a los países de América Latina y 
+el Caribe transitar por distintas vías para preparar el camino hacia la cooperación y la integración 
+económica en la región. 
+VI. ¿La integración de América Latina 
+y el Caribe tiene futuro?
+En 2017, el Banco Mundial publicó un documento en el que señalaba cinco razones para fortalecer 
+la integración regional: i) impulsar un mayor crecimiento económico, ii) mejorar la calidad de la 
+infraestructura y la conectividad, iii) sumar complementariedades, iv) reducir barreras al comercio y 
+v) elevar la competitividad de la región (Banco Mundial, 2017). Un estudio del BID también considera 
+126
+Revista de la CEPAL N° 141 • diciembre de 2023 
+La permanente búsqueda de la integración en América Latina y el Caribe
+que la integración y el comercio son positivos para la región y encuentra que, en los años ochenta, 
+fueron herramientas cruciales “para superar el estancamiento y acelerar el crecimiento anual del ingreso 
+per cápita en aproximadamente 0,6 puntos porcentuales” (Mesquita Moreira y otros, 2022). Aunado a lo 
+anterior, desde una perspectiva política, una región integrada es deseable pues “dividida y enemistada 
+sería un actor débil en una economía altamente competitiva” (Hakim, 2015).
+La economía mundial se encamina hacia una creciente regionalización de las cadenas de suministro, 
+lo que ha puesto presión sobre la efectividad de las reglas del sistema multilateral del comercio, del 
+que la región depende para sus relaciones comerciales con el mundo. En la reestructuración de las 
+cadenas de suministro, los países que están mejor posicionados para beneficiarse son los que ya 
+cuentan con redes de integración con los Estados Unidos, como los países de Centroamérica, México 
+y la República Dominicana. En este sentido, debido a “los crecientes costos operativos en países como 
+China, cada vez más empresas están optando por el nearshoring en América Latina como una forma 
+de permanecer más cerca de sus mercados objetivo” (Pineda, 2023).
+La desglobalización de la economía y la regionalización de los procesos productivos abre una 
+ventana a América Latina y el Caribe para tratar de profundizar su integración con un nuevo paradigma 
+fundamentado en los compromisos adquiridos por los países de la región en los diferentes acuerdos 
+vigentes. Ante la ausencia de liderazgos y de un proyecto sólido, se pueden identificar algunas áreas 
+que permitan ir poniendo los bloques para delinear ese proyecto de integración que permitiría a los 
+países de la región alcanzar los beneficios que podrían derivar de una vinculación más profunda entre 
+ellos y con la economía mundial.
+Sin duda, hay razones económicas de peso por las que vale la pena no desistir de buscar alguna 
+forma efectiva que permita impulsar un mercado ampliado o una zona de libre comercio en la región. 
+Por ejemplo, la integración entre países vecinos puede crear oportunidades para expandir los mercados 
+nacionales, que en la región son pequeños (excepto por el Brasil y México), aprovechar economías 
+de escala para poder atraer inversiones, generar cadenas de valor regionales, diversificar la canasta 
+exportadora y los mercados, integrar a pequeñas y medianas empresas (pymes), crear empleos, adoptar 
+tecnologías sostenibles e innovadoras, y, en última instancia, crear más oportunidades de crecimiento 
+y desarrollo para los países de América Latina y el Caribe. 
+La integración no ha podido contar con una entidad supranacional ni con un liderazgo fuerte 
+que le dé el impulso necesario. De hecho, este ha venido de fuera, en particular de los Estados Unidos 
+en la década de 1990, cuando se intentó negociar el Área de Libre Comercio de las Américas (ALCA) 
+y cuyo fracaso, en 2005, se debió a “la creciente reticencia de algunos gobiernos” y la incapacidad 
+de los países de América Latina y el Caribe de consensuar una posición común para avanzar en un 
+proyecto de integración único en la historia de la región (Serbin, 2010). La integración exige un liderazgo 
+compartido de las grandes economías de la región, lo que se ve poco probable. Ni el Brasil ni México 
+han sido capaces de articular una agenda de integración y cooperación económica que permita crear un 
+mercado latinoamericano unificado. México está integrado en sus cadenas de producción al mercado 
+de los Estados Unidos, en tanto que el Brasil se ha enfocado en el desarrollo del mercado interno y las 
+relaciones con sus vecinos en América del Sur han estado más centradas en el comercio de bienes 
+que en la integración de los mercados de servicios, las inversiones o la armonización de regulaciones, 
+que son sustento para el desarrollo de cadenas de valor a nivel mundial.
+En las más de seis décadas que transcurrieron desde la suscripción del Tratado de Montevideo 1960 
+y el Tratado General de Integración Económica Centroamericana, el contexto internacional ha cambiado. 
+Los países de América Latina y el Caribe han optado por un sistema de regionalismo abierto en virtud 
+del cual mantienen una serie de acuerdos comerciales con terceros países cuyos compromisos son 
+más fuertes y vinculantes que los que mantienen con sus pares de América Latina y el Caribe. 
+Ante la ausencia de un fuerte liderazgo político en la región para impulsar un proceso de 
+integración, valdría la pena retomar las reflexiones de Raúl Prebisch a la luz del contexto actual y del 
+127
+Revista de la CEPAL N° 141 • diciembre de 2023
+Luz María de la Mora
+regionalismo abierto. Será útil proponer vías alternas para impulsar la integración de América Latina y 
+el Caribe a partir de las experiencias vividas y las lecciones aprendidas, pero, sobre todo, considerando 
+las oportunidades que brinda la restructuración de las cadenas de suministro a la región en el marco 
+de los compromisos regionales, subregionales y bilaterales.
+La deslocalización cercana va de la mano de una política industrial que busca transformar las 
+economías para reducir las emisiones de carbono y transitar hacia la producción mediante energías 
+renovables, pero también se orienta a actividades de alto valor agregado, la manufactura 4.0 y la 
+automatización, donde el talento es clave para poder participar y aprovechar los beneficios de esta 
+nueva ola de relocalización.
+Entonces, hay que plantearse cómo podría participar América Latina y el Caribe en estas cadenas 
+de suministro que presentan nuevos requerimientos, pero también oportunidades. 
+En la región existen diversos organismos subregionales, como el MCCA, la CARICOM, la Alianza 
+del Pacífico y el MERCOSUR. Cada uno de estos mecanismos ha trabajado para diseñar e implementar 
+una agenda con temas que han permitido avances más profundos que lo que se puede observar a nivel 
+regional. Por ejemplo, la Alianza del Pacífico, además de construir una zona de libre comercio entre sus 
+miembros, también ha generado acuerdos sectoriales para que las normas técnicas no sean un obstáculo 
+al comercio (tal es el caso del Anexo Sectorial para el comercio de cosméticos). En el MERCOSUR, se 
+ha negociado un Acuerdo de Buenas Prácticas Regulatorias y Coherencia Regulatoria. Una fórmula 
+para avanzar podría ser, entonces, buscar áreas de interés común entre los diferentes mecanismos 
+subregionales para profundizar la integración entre bloques que ya han logrado consolidarse.
+En definitiva, resulta imperativo contar con una agenda estratégica mediante la cual se promueva 
+el desarrollo de proveedores en la región, lo que debe ser una prioridad para viabilizar la participación 
+de América Latina y el Caribe en las cadenas de suministro. El trabajo que se lleve a cabo con ese 
+propósito debe estar fundamentado en la complejidad económica de los países con el fin de escalar 
+en producciones de mayor complejidad y valor agregado. Asimismo, esta agenda estratégica podría 
+considerar las siguientes áreas:
+• Desarrollo de talento .  El capital humano será un factor esencial para alcanzar la 
+relocalización de procesos productivos. La región puede impulsar el desarrollo del talento 
+que la industria 4.0 va a necesitar y diseñar programas regionales para “que fomenten la 
+especialización del capital humano en profesiones altamente calificadas” (Pineda, 2023).  
+Facilitar la transferencia del conocimiento y el intercambio estudiantil y académico en 
+sectores relacionados con sostenibilidad y automatización puede ayudar a fortalecer el 
+capital humano de la región y su posibilidad de participar en las cadenas de suministro. 
+Por ello, una vía para profundizar la integración sería fortalecer las redes de intercambios 
+estudiantiles y académicos en disciplinas que puedan apoyar la transformación productiva 
+en la región.
+• Red de investigadores en ciencia y tecnología . La región tiene la oportunidad de 
+sumarse a las cadenas de suministro y aprovechar esta posibilidad para participar en el 
+desarrollo de redes de investigación científica y tecnológica. Una forma de promover la 
+integración es a través de la construcción de redes de científicos que puedan vincularse a 
+la actividad productiva. Actualmente existe, por ejemplo, la red de centros de investigación 
+de América Latina y el Caribe del BID, que ofrece subsidios a centros de investigación 
+latinoamericanos para estudios económicos y sociales en la región. La Unión Europea sirve 
+de referente, ya que cuenta con un Programa Marco de Investigación e Innovación y su 
+Tratado de Funcionamiento busca “fortalecer sus bases científicas y tecnológicas mediante 
+la realización de un espacio europeo de investigación en el que los investigadores, los 
+conocimientos científicos y las tecnologías circulen libremente” (Parlamento Europeo, 2023).
+128
+Revista de la CEPAL N° 141 • diciembre de 2023 
+La permanente búsqueda de la integración en América Latina y el Caribe
+• Minerales críticos. Las nuevas tecnologías precisan minerales críticos, algunos de los 
+cuales, como el litio, pueden encontrarse en la región. Desarrollar mecanismos de 
+integración para el intercambio de experiencias de sostenibilidad en procesos productivos, 
+así como propuestas para buscar agregar valor puede posicionar a la región como un socio 
+confiable en el desarrollo de cadenas de suministro de las industrias del futuro (digitales 
+y energéticas) que están integrando estos materiales en sus procesos productivos. Del 
+mismo modo, la integración puede servir para fortalecer el intercambio de buenas prácticas. 
+• Industria farmacéutica y de dispositivos médicos . Este es un sector en donde 
+América Latina y el Caribe tiene capacidad productiva y potencial de mayor desarrollo. 
+El fomento de la integración de las cadenas productivas en la industria farmacéutica y de 
+dispositivos médicos podría darse mediante el establecimiento de acuerdos sectoriales 
+que faciliten el reconocimiento de normativas técnicas entre los países de la región. Ello 
+abriría oportunidades para la especialización de la producción y permitiría a los países de 
+la región tener mayor presencia en la cadena de suministro al hacerlos más atractivos a las 
+inversiones por la posibilidad de ampliar el tamaño de los mercados.
+• Facilitación comercial. Todos los países de América Latina y el Caribe son miembros del 
+Acuerdo sobre Facilitación del Comercio de la OMC y se han comprometido a implementar 
+medidas que hagan más expedito el comercio y reduzcan sus costos. La región puede 
+utilizar este Acuerdo para detectar obstáculos que los países pueden atender y así eliminar 
+barreras innecesarias al comercio. Por ejemplo, el uso y la aceptación de certificados de 
+origen electrónicos podría ser una buena forma de promover el comercio intrarregional.
+• Normativa técnica . Muchos de los aranceles ya no se aplican en el comercio entre 
+diversos países de la región, pero las regulaciones nacionales impiden un acceso efectivo 
+al mercado. Si bien parece difícil pretender un reconocimiento mutuo de normas técnicas, 
+la región podría plantear un acuerdo marco entre los países interesados para que se 
+negocien acuerdos de reconocimiento mutuo en sectores de interés para reconocer 
+regulaciones en diferentes mercados como equivalentes a las nacionales. Un acuerdo 
+regional de reconocimiento mutuo entre organismos nacionales de acreditación permitiría 
+a esos organismos, sobre la base de la evaluación por pares, aceptar los resultados de los 
+organismos de evaluación del cumplimiento acreditados de cada uno de ellos o entre esos 
+organismos en países que reconocen los resultados de la evaluación del cumplimiento. 
+Esto reduciría sustantivamente los costos de cumplimiento (USTR, 2020).
+• Economía digital. América Latina y el Caribe podría avanzar en su integración a través de 
+la economía digital y el comercio electrónico. Por ejemplo, se puede proponer la creación 
+de un marco regulatorio que promueva la integración regional a través de una mayor 
+conectividad, accesibilidad y desarrollo de infraestructura. Se podría generar un marco 
+regional que incluya temas regulatorios que faciliten los intercambios, relacionados con 
+protección de datos, comercio digital, gobernanza de Internet o inteligencia artificial. En 
+paralelo, se podría considerar la construcción de una plataforma de comercio electrónico 
+y digital que permita al sector productivo, y en especial a pymes, mujeres y comunidades 
+vulnerables, acceder a mercados más allá de sus localidades. En la Alianza del Pacífico, 
+por ejemplo, el BID ha apoyado la construcción de un mercado digital regional para 
+permitir a las empresas de la región acceder a los mercados de los socios de la Alianza 
+por medios digitales. Esta puede ser una herramienta muy valiosa para que las pymes de 
+la región aprovechen un mercado ampliado que puede generar más oportunidades de 
+crecimiento e innovación.
+129
+Revista de la CEPAL N° 141 • diciembre de 2023
+Luz María de la Mora
+• Infraestructura física. La integración exige la construcción de infraestructura. La inversión 
+pública y privada en el desarrollo de infraestructura física de transporte terrestre, marítimo 
+y aéreo, así como en la conectividad, es esencial para generar los puentes que precisa 
+la integración. Con el apoyo de los bancos de desarrollo y del sector privado nacional 
+y extranjero se pueden generar proyectos regionales y subregionales para crear la 
+infraestructura que permitirá al sector productivo de la región hacer de la integración una 
+oportunidad para el crecimiento.
+La integración de América Latina y el Caribe ha sido lenta y ha avanzado a diferentes velocidades 
+en diferentes sectores. En virtud de los retos que conlleva plantear un proyecto de integración en el 
+que participen todos los países de la región, tal vez una alternativa para avanzar sea por medio de 
+iniciativas más modestas, pero concretas, que ayuden a construir esa tan anhelada integración que 
+se mantiene como una aspiración en el discurso, pero en la que hasta ahora se ha avanzado poco. 
+Bibliografía
+ALADI (Asociación Latinoamericana de Integración) (s/f), “Alcance Parcial – Complementación Económica 
+(AAP .CE)” [en línea] https://www.aladi.org/sitioaladi/acuerdo-ap-complementacion-economica-aap-ce/.
+(1980), Tratado de Montevideo 1980. Instrumento que instituye la Asociación Latinoamericana de 
+Integración (ALADI). 
+ALADI/CEPAL (Asociación Latinoamericana de Integración/Comisión Económica para América Latina y el 
+Caribe) (2012), “30 años de Integración Comercial en la ALADI”, Montevideo [en línea] https://www2.
+aladi.org/biblioteca/Publicaciones/ALADI/SecretariaGeneral/DocumentosSinCodigos/Caja061004.pdf. 
+ALALC (Asociación Latinoamericana de Libre Comercio) (1960), “Tratado de Montevideo, 1960. Constitutivo de 
+la Asociación Latinoamericana de Libre Comercio (ALALC)” [en línea] https://www.dipublico.org/104814/
+tratado-de-montevideo-1960-constitutivo-de-la-asociacion-latinoamericana-de-libre-comercio-alalc/.
+Banco Mundial (2017), “Latinoamérica: 5 razones para fortalecer la integración regional”, 17 de marzo  
+[en línea] https://www.bancomundial.org/es/news/feature/2017/03/17/latinoamerica-razones-para-
+fortalecer-integracion-regional.
+BID (Banco Interamericano de Desarrollo) (2022), “Nearshoring agregaría US$78.000 millones en exportaciones 
+de América Latina y Caribe”, Comunicados de prensa  [en línea] https://www.iadb.org/es/noticias/
+nearshoring-agregaria-us78000-millones-en-exportaciones-de-america-latina-y-caribe. 
+Cassidy, B. (2023), “Cassidy, Salazar Release Draft Legislation to Counter China, Build Stronger Western 
+Hemisphere”, 11 de enero [en línea] https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-
+salazar-release-draft-legislation-to-counter-china-build-stronger-western-hemisphere. 
+CEPAL (Comisión Económica para América Latina y el Caribe) (2023a), La Inversión Extranjera Directa en 
+América Latina y el Caribe, 2023 (LC/PUB.2023/8-P), Santiago. 
+(2023b), “América Latina y el Caribe requiere una reactivación con transformación para avanzar hacia 
+un futuro más productivo, inclusivo y sostenible”, Comunicado de Prensa, 5 de junio [en línea] https://
+www.cepal.org/es/comunicados/america-latina-caribe-requiere-reactivacion-transformacion-avanzar-
+un-futuro-mas.
+Consejo de la Unión Europea (2023), “Declaración de la Cumbre UE-CELAC de 2023”, Nº 12000/23, 
+COLAC 98, Bruselas [en línea] https://www.consilium.europa.eu/media/65925/st12000-es23.pdf. 
+FMI (Fondo Monetario Internacional) (s/f), “IMF Data” [en línea] https://data.imf.org/regular.aspx?key=61013712.
+Fuentes, J. (1994), “El regionalismo abierto y la integración económica”, Revista de la CEPAL , N° 53  
+(LC/G.1832-P), Santiago, Comisión Económica para América Latina y el Caribe (CEPAL), agosto. 
+Giordano, P . (coord.) (2021), “El día después: la recuperación comercial de América Latina y el Caribe tras la 
+pandemia”, Monitor de Comercio e Integración 2021, Nº 981, Banco Interamericano de Desarrollo (BID).
+Hakim, P . (2015), “La soberanía y la integración regional”, The Dialogue [en línea] https://www.thedialogue.
+org/analysis/la-soberania-y-la-integracion-regional/?lang=es. 
+ITC (Centro de Comercio Internacional) (2022), “Trade Map” [base de datos en línea] https://www.trademap.
+org/Index.aspx.
+130
+Revista de la CEPAL N° 141 • diciembre de 2023 
+La permanente búsqueda de la integración en América Latina y el Caribe
+Leroux, C. (2018), “El proceso de integración de la ALADI”, documento presentado en el Seminario: Visión 
+Prospectiva de la Integración Latinoamericana y Caribeña [en línea] https://www.cepal.org/sites/default/
+files/presentations/2christianleroux.pdf.
+Mesquita Moreira, M. y otros (2022), “The reorganization of global value chains: what’s in it for Latin America 
+and the Caribbean?”, IDB Working Paper Series, Nº 1414. 
+Parlamento Europeo (2023), “La política de investigación y desarrollo tecnológico” [en línea] https://www.
+europarl.europa.eu/factsheets/es/sheet/66/la-politica-de-investigacion-y-desarrollo-tecnologico.
+Pineda, D. (2023), “El auge del nearshoring en América Latina y el panorama favorable para México”, 7 de 
+septiembre [en línea] https://reseller.com.mx/auge-de-nearshoring-un-panorama-favorable-para-mexico/.
+Prebisch, R. (1969), “La marcha hacia el Mercado Común Latinoamericano”, Notas sobre la economía y 
+el desarrollo de América Latina , N° 23, Santiago, Comisión Económica para América Latina (CEPAL), 
+1 de agosto.
+Serbin, A. (2010), “Regionalismo y soberanía nacional en América Latina: los nuevos desafíos”, Documentos 
+CRIES, No. 15 [en línea] http://www.cries.org/wp-content/uploads/2010/09/Documentos-15-web.pdf. 
+Sotelsek Salem, D. (2008), “El pensamiento de Raúl Prebisch: una visión alternativa”, Estudios Demográficos 
+y Urbanos, vol. 23, Nº 3, Ciudad de México, septiembre-diciembre. 
+The White House (2022), “FACT SHEET: President Biden Announces the Americas Partnership for Economic 
+Prosperity”, Washington, D.C. [en línea] https://www.whitehouse.gov/briefing-room/statements-releases/ 
+2022/06/08/fact-sheet-president-biden-announces-the-americas-partnership-for-economic-prosperity/.
+USTR (Oficina del Representante de los Estados Unidos para Asuntos Comerciales) (2020), “Chapter 11.  
+Technical Barriers to Trade”, Agreement between the United States of America, the United Mexican 
+States, and Canada (USMCA) [en línea] https://ustr.gov/sites/default/files/files/agreements/FTA/USMCA/
+Text/11_Technical_Barriers_to_Trade.pdf.

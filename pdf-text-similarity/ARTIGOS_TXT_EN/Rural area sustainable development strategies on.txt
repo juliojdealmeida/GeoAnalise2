@@ -1,0 +1,851 @@
+O R I G I N A L A R T I C L E
+Rural area sustainable development strategies on
+the basis of a cluster approach
+Rasul Gusmanov1
+|
+Eugene Stovba2
+|
+Alfiya Kuznetsova1
+|
+Iskander Gusmanov3
+|
+Timur Taipov1
+|
+Gulnara Muhametshina2
+|
+Liana Akhmetova1
+1Department of Economics and Management,
+Federal State Budgetary Educational
+Establishment of Higher Education ‘Bashkir
+State Agrarian University’, Ufa, Russian
+Federation
+2Department of Informatics and Economics,
+Birsk branch of Federal State Budgetary
+Educational Establishment of Higher
+Education ‘Bashkir State University’, Birsk,
+Russian Federation
+3Department of Finance and Credit, Ufa
+branch of the Federal State Budgetary
+Educational Institution of Higher Education
+‘Financial University under the Government
+of the Russian Federation’, Ufa, Russian
+Federation
+Correspondence
+Rasul Gusmanov, Department of Economics
+and Management, Federal State Budgetary
+Educational Establishment of Higher
+Education ‘Bashkir State Agrarian University’,
+Ufa, Russian Federation.
+Email: rasul.gusmanov@rambler.ru
+Funding information
+RFBR and the Republic of Bashkortostan
+according to the research project “Strategic
+Planning of Socio-Economic Development of
+Rural Areas of the Republic of Bashkortostan
+Based on the Foresight Methodology”, Grant/
+Award Number: No. 19-410-020016
+Abstract
+The study purpose is scientific and methodological substan-
+tiation of the effective use of cluster technologies in the
+strategic planning of sustainable development of rural terri-
+torial structures. The conceptual novelty of the research is
+that it provides an algorithm for clustering the socioeco-
+nomic development of rural areas by the critical target indi-
+cators based on the evaluating features (30 features) to
+make homogeneous clusters (four clusters). Also, the study
+established methodical approaches and guidelines for the
+use of cluster technologies to assess the prospects for sus-
+tainable development of the zone-level system of rural
+areas as complex socioeconomic structures. The research
+used general scientific methods such as a monographic
+method, system and cluster analysis techniques, strategic
+planning tools, a computational and constructive method,
+and abstract–logical and graphical methods. A cluster
+approach should be used when designing strategic plans
+and programs for the socioeconomic development of rural
+municipalities. Cluster technologies should be used as a sys-
+tematic tool for the development and implementation of a
+strategy for the sustainable development of rural areas. The
+key findings are based on the multidimensional grouping of
+rural areas and the formation of homogeneous clusters of
+rural areas at the zonal level.
+Received: 29 April 2021
+Revised: 6 August 2021
+Accepted: 9 September 2021
+DOI: 10.1111/rsp3.12475
+© 2021 The Authors. Regional Science Policy & Practice © 2021 Regional Science Association International
+778
+Reg Sci Policy Pract. 2022;14:778–795.
+wileyonlinelibrary.com/journal/rsp3
+
+
+K E Y W O R D S
+regional development, rural areas, strategic planning,
+sustainability strategy
+J E L C L A S S I F I C A T I O N
+P25, R51
+1
+|
+INTRODUCTION
+At the present stage, the concept of sustainable development is one of the fundamental methodological approaches
+to the study of the phenomenon of rural areas as certain structured local systems. It should be noted that rural areas
+turned out to be highly sensitive to the effects and challenges of the external environment; they have low protective
+abilities to meet the ongoing crisis and phenomena against the background of turbulence in the development of the
+global economy and outbreaks of global pandemics such as the coronavirus pandemic. The theoretical and methodo-
+logical background of fundamental issues related to sustainable development of rural areas shows that the interest
+of the scientific community in these issues is growing (Bartkowiak, 2017; Bolshakova et al., 2019; Dorosh
+et al., 2019; Kurdys-Kujawska & Sompolska-Rzechula, 2020).
+Conceptually, rural areas are complex objects of scientific study and purposeful sustainable development,
+including both the territorial aspect and the totality of socioeconomic relations, which have temporal and spatial
+boundaries. It is beyond doubt that rural areas are a multifaceted concept; they contain production, demographic,
+social, economic, institutional, and ecological (natural) components (Podgorskaya et al., 2019; Standar &
+Kozera, 2019). It should be emphasized that the sustainable development of rural areas is determined, first of all,
+by the maturity of their integration and intrasystem relations. Methodologically, the multidimensionality of the
+development of rural areas is due to their diversified development and the diversity of the rural economy
+structure; it is determined by the length of the area and the location of settlements as places of residence in the
+natural environment.
+The study of the key factorial elements of rural areas is of particular importance when considering their complex
+nature. The variety of available methodological approaches to the study of rural areas is due to the cross-subject
+nature of their fields of operation (Casini et al., 2019; Mazur & Tomashuk, 2019; Tandir et al., 2016). There is no
+doubt that today rural areas are constantly affected by internal and external factors while being a systemic formation
+of mixed genesis and complex socioeconomic nature. For example, digital technologies are currently one of the key
+drivers of rural development (Allanina et al., 2020; Bulat, 2014).
+It is important to emphasize that, in developed economies, the social aspect is considered as a determinant when
+identifying rural areas (Marinas, 2015). Having high population density and agricultural employment, rural areas may
+include small towns, which are centers of food processing.
+It should be emphasized that the figures and the nature of employment of the local population are direct criteria
+for identifying rural areas based on the methodology developed by the statistical service of the European Union
+(Borawska, 2017). Through the example of Great Britain, the effective use of the rurality index method for identify-
+ing rural areas can be noted; it is based on the calculation of an integral indicator that combines strategic parameters,
+namely the location of rural areas relative to the urban center, migration, employment structure, and population
+density.
+Conceptually, rural areas (by analogy with taxonomic units of a higher level) can be described as an open system
+of a certain technological chain: ‘natural resources (environment)’, ‘economy (production system)’, ‘society (social
+sphere and infrastructure)’. The development mechanisms of these territorial systems involve their ability to mitigate
+destructive external fluctuations and enhance favorable external impulses, which, ultimately, ensures their transition
+to a new qualitative state.
+GUSMANOV ET AL.
+779
+
+
+The methodological interrelationship of the sustainable development targets is based on the continuous system
+interaction of the most crucial components, ‘nature–population–economy’ (Castro-Arce & Vanclay, 2020; Yanbo
+et al., 2021). The concept of sustainable development is currently being quantified and digitized, and it can be con-
+sidered a consensual official paradigm of human development. The key ‘distinction’ of the categorial component of
+sustainable development is the functioning of rural areas; the areas are considered from multiple aspects and based
+on axiomatics of the category (Gorbenkova et al., 2018).
+Sustainable development is achieved through the purposeful transition of the rural community and society to a
+qualitatively new level of functioning (Li et al., 2021; Zang et al., 2020). In turn, the multi-aspect character of sustain-
+able development is determined by the complexity in choosing its target indicators and strategic parameters.
+Figure 1 provides an overview of current methodological trends of studies on sustainable development of rural
+areas.
+The research ‘gaps’ in the current scientific literature are, firstly, the substantiation of the choice of target indica-
+tors and strategic vectors of sustainable development for the specific management decisions and, secondly, the devel-
+opment of unified standard cluster mechanisms and algorithms for the cluster scenarios of sustainable economic and
+social development of rural entities. There is no doubt that a new paradigm of sustainable development of rural areas
+can be developed based on a detailed study of their properties, features, and driving forces (Ciani et al., 2016; Dragoi
+et al., 2017; Su et al., 2019). Today, the implementation of a cluster-oriented policy is one of the key imperatives of
+increasing the competitiveness of rural producers and implementing a strategy for the sustainable development of rural
+areas. In developed countries, the network structure of agrarian economy is based on clusters; they act as ‘points of
+growth’ of rural areas and their ‘breakthrough’ advancement in the production of agri-food products (Hammouda
+et al., 2018). In terms of the development of rural areas and the application of the cluster mechanism, there are differ-
+ent types of clusters, namely agro-bio-energy, agricultural (agricultural and agro-industrial clusters), social (socially ori-
+ented clusters), and innovative (ultrastructural, scientific and innovative, innovative, and borrowed clusters).
+International experience shows that the regions that activate clustering processes and initiate new cluster
+structures become the state economic development leaders. In the Organisation for Economic Co-operation and
+Development (OECD) countries, clusters are becoming the basis for depressed rural areas and regional innovation
+systems. The sustainable development strategies used in most US states rely on the wide use of cluster technologies
+and focus on creating homogeneous clusters.
+It should be noted that, in Canada, Japan, and the United States, the projected cluster strategies fit into the context
+of national and regional strategies for the development of agrarian economy, and the cluster approach is effectively
+used to encourage agribusinesses to introduce innovative and digital technologies in the production of agricultural
+products. In Canada, cluster strategies are coordinated and overseen by the National Research Council based on the
+platform of technology cluster initiatives. A characteristic feature of Japanese clusters is the use of the systems of sub-
+contract links between large, medium-sized, and small enterprises in the production of competitive agri-food products.
+At the current stage, the cluster philosophy is increasingly appreciated. Its status is growing, and the cluster
+solutions are being actively introduced into the conceptual scope of the national strategic plans to develop various
+economic sectors. The cluster approach determines the trinity of the ‘nature–population–economy’ relationship in
+terms of methodology. It strengthens the innovative concept when designing strategies for the sustainable develop-
+ment of territorial entities.
+Today, the formed clusters are a dynamically developing multifunctional and dialectical category. M. Porter’s
+methodology formed the basis for the universal provisions of clusterization, and its distinguishing feature is the
+sector components of rural areas (Porter, 1998). The grouped clusters form a framework that reflects the main
+sustainable development trends of the social sphere and crucial economic sectors.
+The purpose of the study is to substantiate the application of the cluster approach when designing a strategy for
+sustainable development of rural areas. The research tasks require the definition of the approaches to the typifica-
+tion of rural areas and the development of clustering tools as a key imperative for designing a strategy for sustainable
+development of rural areas.
+780
+GUSMANOV ET AL.
+
+
+2
+|
+METHODS AND MATERIALS
+We believe that the use of the cluster approach when developing a sustainable development strategy should be
+based on the typology of rural areas. The multidimensionality of rural areas determines their typification in order to
+develop appropriate measures to ensure their balanced sustainable development. From a scientific point of view,
+typification is the process of identifying rural areas with similar production, economic, and social characteristics for
+FIGURE 1
+Current methodological trends of studies on the phenomenon of sustainable rural development.
+Note: The figure was developed by the authors based on their research
+GUSMANOV ET AL.
+781
+
+
+the further achievement of the differentiated agricultural policy goals (Chatzinikolaou et al., 2015; Oliveira &
+Turcˇínková, 2019). Thus, based on the principle of remoteness from economic regions, rural areas (districts) can be
+classified into three types: remote areas with unfavorable climatic conditions, low incomes, and low density of the
+rural population; intermediate rural areas, which have relatively favorable natural and economic conditions; and eco-
+nomically integrated areas, which are characterized by a high level of employment and a high density of rural popula-
+tion, as well as developed rural infrastructure.
+The above approach was applied in the framework of the study based on the example of rural areas of a
+typical agro-industrial region of the Russian Federation, namely the Republic of Bashkortostan (Russian
+Federation). Sustainable development of rural areas as socioeconomic systems is of key importance for the stra-
+tegic goals and future prosperity of Bashkortostan; this is due to the fact that in the region there are 817 rural
+settlements united into 54 municipal districts, and the rural population is 1.5 million people. From a scientific
+point of view, the system of rural areas of the Non-Black Soil Zone of the Republic is a model area for achiev-
+ing sustainable development and effective growth. We believe that, in the current production and economic
+conditions, the top priority of the rural areas under consideration is the adoption of strategic anti-crisis measures
+based on the cluster approach.
+We have developed a step-by-step clustering algorithm based on key typological features that reflects the socio-
+economic status of rural areas and determines the formation of their cluster profile (Figure 2). The algorithm was
+developed as part of the implementation of the scientific project of the Russian Foundation for Basic Research
+‘Strategic planning of socio-economic development of rural areas based on the foresight methodology’, carried out
+from 2019 to the present.
+FIGURE 2
+Algorithm for clustering rural areas by socioeconomic development indicators. Note: The figure was
+developed by the authors based on their research
+782
+GUSMANOV ET AL.
+
+
+The clustering algorithm is based on the sequential implementation of the following stages:
+1. Data collection to ensure clusterization based on the use of the Rosstat data characterizing the socioeconomic
+status of the rural territorial structures under consideration.
+2. Clustering by the indicators reflecting the socioeconomic status of rural areas, namely grouping of homogeneous
+clusters of rural areas at the zonal level.
+3. Verification of the reliability and adequacy of the results of clustering based on the qualitative assessment of the
+feasibility of statistical data grouping into clusters when using the methods of analysis of variance.
+4. Designing a cluster profile of rural areas to identify ‘leaders’ and ‘outsiders’ of rural areas in terms of their socio-
+economic development.
+5. Expert assessments of the clustering results based on the implementation of the foresight methodology involving
+the key stakeholders and actors of the area under consideration.
+Graphically, it can be described like this (Figure 2):
+Let us consider the stages of the implementation of the clustering algorithm described above in methodological
+and practical terms in more detail. At the first stage of the algorithm implementation, we collected the data to carry
+out clustering based on the use of the Rosstat data characterizing the development of the rural territorial structures
+under study during the period from 2011 to 2019. The research relied on the database compiled from the official
+statistical and factual materials of the federal and regional bodies of Rosstat, materials of the RF Ministry of Agricul-
+ture and the Ministry of Agriculture of the Republic of Bashkortostan, annual reports of agricultural organizations of
+Bashkortostan for 2011–2019.
+The parameters under study were selected based on the availability of statistical data described in the official
+statistical books of Bashkortostan ‘Socio-economic status of municipal districts and urban districts of the Republic of
+Bashkortostan’. In our opinion, the use of official sources of information, namely statistical data of the Federal State
+Statistics Service of Bashkortostan, allows us to most objectively assess the current socioeconomic development
+level of the rural territorial structures of the region under study.
+The second stage of the algorithm implementation involved grouping of the rural areas according to 30 key tar-
+get indicators, namely: the indicators of agriculture, construction and trade, and social sphere, described in Figure 3.
+The natural resource and soil-climatic conditions of Bashkortostan are very diverse; some areas are not favorable for
+sustainable agricultural production; the territory has distinct horizontal and vertical zoning.
+We clustered 22 rural areas of the Non-Black Soil Zone of the region under consideration. In accordance with
+soil characteristics, the territory of Bashkortostan (like the territory of the Russian Federation) is subdivided into the
+Non-Black Soil and Black Soil Zones. In the middle of the past century, the entire territory of the region was divided
+into zones. At this stage, the agricultural zoning of Bashkortostan was performed following the socioeconomic
+changes and complex processes of reforming and developing agriculture in the region and the country. The essential
+need for the most effective use of the republic’s entire natural resource potential made the territory zoning scientifi-
+cally appropriate. The borders of administrative districts determined the zone borders, grouping the areas similar in
+soil and geographical features and natural and economic conditions to form zones of the same type. The research is
+feasible given the fact that the rural areas have approximately the same climatic and soil conditions. Taking this into
+account, the object of the study is not the whole territory of Bashkortostan, but a part – the Non-Black Soil Zone.
+The target indicators of socioeconomic development (Table 2) we used to cluster the rural areas under study
+were selected based on the foresight methodology during expert surveys among stakeholders and actors of the area.
+These studies were carried out in 2019 during the implementation of the pre-foresight activities based on the gener-
+alization of the expert focus group assessments (Gusmanov et al., 2020). The foresight research methodology pur-
+posefully identified and used experts’ knowledge. The experts were municipal and legislative authorities, public
+organizations, managers and specialists of municipal companies, agricultural organizational forms (corporate farms,
+peasant farms), and members of small and large agribusinesses of Bashkortostan. In total, the research employed
+GUSMANOV ET AL.
+783
+
+
+three focus groups; each focus group of experts consisted of 15–20 people, with the total number being 56 people.
+During immersion-type workshops, each group was engaged in discussion and analysis independently of other expert
+groups.
+It is beyond argument that the selection of cluster components was performed with due regard to the funda-
+mental features of the phenomenon of the clusters being grouped, namely when forming unique competitive advan-
+tages of rural areas based on the development of their competitive environment and integration ties.
+FIGURE 3
+Target indicators of socioeconomic development used when clustering rural areas (own development).
+Note: The figure was developed by the authors based on their research
+784
+GUSMANOV ET AL.
+
+
+3
+|
+RESULTS
+Our previous studies have shown that the rural areas under study are characterized by positive social and economic
+prerequisites for sustainable development of clusters (Gusmanov et al., 2019, 2020). It is important to emphasize
+that, when forming clusters, it is necessary to take into account the spatial structure of the interaction of the studied
+objects (rural areas) due to the fact that, over time, clusters can be created, deepened, replenished, reduced, com-
+pressed, and disbanded.
+Figure 4 provides a graphical representation of the cluster distribution of rural areas.
+Clusterization of the rural areas at the zonal level made it possible to reliably assess their current socioeconomic
+status. A brief description of the clusters formed is presented in Table 1.
+It should be noted that, based on the multidimensional grouping, the following pattern is confirmed: in the clus-
+ters with the lowest population density, the indicators of social development of rural areas are lower. This conclusion
+was made on the basis of the comparison of the data in Table 1 and Table 2. For example, cluster IV is characterized
+by both the lowest density of the rural population (3.1 people per km2) and the lowest socioeconomic development
+indicators of the rural areas.
+The analysis of the clustering results showed that most of the average cluster parameters reflecting the develop-
+ment of the social sphere and infrastructure of rural areas in the Non-Black Soil Zone of Bashkortostan are lower
+FIGURE 4
+Cluster distribution of rural areas of the Non-Black Soil Zone of Bashkortostan by socioeconomic
+development indicators. Note: The figure was developed by the authors based on their research
+GUSMANOV ET AL.
+785
+
+
+compared with regional averages, namely when comparing the indicators related to medical and health care services,
+which is of exceptional importance in the context of the pandemic. We specifically compared the indicators of the
+four clusters of rural areas (Figure 3) to identify their potential (strong, average, weak).
+Table 2 presents averaged indicators within each of the four clusters. The boundary values of these socioeco-
+nomic indicators are determined by the corresponding extreme (minimum and maximum) values of the indicators of
+individual rural areas in the cluster display and, in our opinion, can be applied in further studies aimed at designing a
+sustainable development strategy for the medium and long term. The indicators presented in Table 2 correspond to
+the target indicators, which, as we have already noted, were formed based on the expert assessment during the
+implementation of the pre-foresight stage. The methodology and procedures of foresight research were considered
+TABLE 1
+Brief characteristics of clusters I–IV
+Cluster
+Number of rural
+areas, units
+Number of rural
+settlements, units
+Number of rural
+communities, units
+Rural population density,
+people per km2
+I
+6
+82
+497
+15.7
+II
+3
+47
+277
+8.3
+III
+10
+135
+641
+9.8
+IV
+3
+44
+190
+3.1
+Note: The table was derived by the authors based on their research.
+TABLE 2
+Selected indicators of the socioeconomic development of rural areas of the Non-Black Soil Zone of
+Bashkortostan in the clusters under discussion
+Indicators
+Cluster no.
+I
+II
+III
+IV
+Crops yield in farms of all types (weight after processing), hundredweight
+per hectare of harvested area
+19.1
+15.1
+15.4
+18.2
+Application of mineral fertilizers, kg of active ingredient per hectare of the
+area under cultivation
+10.2
+8.8
+3.4
+–
+Productivity (annual average milk yield per cow) in agricultural
+organizations, kg
+4,572
+3,991
+4,198
+1,688
+Availability of places in preschool educational institutions for children
+aged 1–6 years per 1,000 children, place
+582
+417
+669
+580
+Coverage of children aged 1–6 years by preschool educational
+institutions, %
+64
+42
+66
+61
+Per 10,000 people:
+- Number of hospital beds, units
+39
+57
+59
+50
+- Number of nursing staff, people
+77
+91
+98
+100
+- Number of doctors, people
+23
+22
+25
+24
+Indicators of the availability of urban amenities in rural areas, %:
+- Water supply
+58
+74
+59
+20
+- Sewage
+49
+46
+47
+17
+- Central heating
+78
+84
+69
+52
+- Hot water supply
+41
+47
+38
+15
+- Gas
+75
+82
+75
+60
+Note: The table was derived by the authors based on their research.
+786
+GUSMANOV ET AL.
+
+
+in more detail in Gusmanov et al. (2019, 2020). In turn, Table 2 is based on the implementation of the second stage
+of research, clustering by the indicators reflecting the socioeconomic status of rural areas shown in Figure 2.
+At the third stage of the validation of reliability and adequacy of the results of cluster solutions, the k-means
+clustering method was used; it is effectively implemented in Statistica for carrying out a multivariate statistical analy-
+sis of territorial entities of various hierarchical levels. The advantages of the Statistica software are a user-friendly
+interface, the ability to process unlimited sized files, high data processing speed, increased calculation accuracy, sim-
+ple data import (export), and easy access to databases. The weakness of the statistical processing software package
+is its inefficiency in implementing original algorithms. The use of the k-means clustering method determines the
+method for calculating the Euclidean distances between the objects under study, takes into account the peculiarities
+of the initial indicators, and scientifically interprets the cluster solutions obtained. The assessment of the Euclidean
+distances between the four clusters reflects the relative distance between cluster II and cluster IV and the relative
+proximity of clusters I and III (Figures 5, 6).
+FIGURE 5
+Average values of cluster I and cluster III. Note: The figure was derived by the authors based on their
+research
+FIGURE 6
+Average values of cluster II and cluster IV. Note: The figure was derived by the authors based on their
+research
+GUSMANOV ET AL.
+787
+
+
+The stages and procedures of the analysis of variance (ANOVA) are based on the qualitative assessment of the
+feasibility of grouping the statistical data used into homogeneous clusters (rural areas) in the zonal environment
+under study. The analysis of variance allowed us:
+• to consider different variations of the cluster distribution of the aggregate of the areas under study according to
+typological characteristics and to subsequently construct their possible multidimensional groupings (from two to
+six clusters);
+• to determine the quality of the formation of homogeneous clusters for the rural areas being studied and scientifi-
+cally interpret the cluster solutions obtained.
+During the fourth stage of the implementation of the clustering algorithm, we identified ‘leaders’ and ‘outsiders’ of
+rural areas in terms of socioeconomic development (Table 3). Particularly, the mechanism for distinguishing ‘leaders’
+and, accordingly, ‘outsiders’ of rural areas from the rest of the studied rural territorial structures in each cluster was
+implemented on the basis of the maximum (minimum) indicators reflecting agricultural production per capita (thou-
+sand roubles); crop yield in farms of all types (weight after processing, hundredweight per hectare of harvested area);
+productivity (annual average milk yield per cow) in agricultural organizations (kg); coverage of children aged 1–6 years
+by preschool educational institutions (%); number of doctors per 10,000 people.
+Firstly, the practical consequences of distinguishing the rural territorial structures into leaders and outsiders
+involve the identification of the most socially and economically favorable rural areas as ‘potential growth points’ of
+the agrarian sector (‘leaders’), and the need to pay particular attention to depressed rural areas as a kind of ‘incuba-
+tors of poverty’ (‘outsiders’). According to the expert assessment, in the medium and long term, the leaders can
+TABLE 3
+‘Leaders’ and ‘outsiders’ of the rural territories of the Non-Black Soil Zone of Bashkortostan in the
+framework of the cluster sustainable development scenario for the period up to 2030
+Rural area
+Cluster no.
+I
+II
+III
+IV
+Agricultural production per capita, thousand rubles.
+Leaders
+Burayevsky
+Blagoveshchensky
+Baltachevsky
+Zilairsky
+Outsiders
+Iglinsky
+Yanaulsky
+Mishkinsky
+Beloretsky
+Crops yield in farms of all types (weight after processing),
+Hundredweight per hectare of harvested area
+Leaders
+Nurimanovsky
+Yanaulsky
+Duvansky
+Burzyansky
+Outsiders
+Burayevsky
+Blagoveshchensky
+Kiginsky
+Zilairsky
+Productivity (annual average milk yield per cow) in agricultural organizations, kg
+Leaders
+Nurimanovsky
+Yanaulsky
+Duvansky
+Burzyansky
+Outsiders
+Kaltasinsky
+Blagoveshchensky
+Belokataisky
+Zilairsky
+Coverage of children aged 1–6 years by preschool educational institutions, %
+Leaders
+Burayevsky
+Birsky
+Duvansky
+Zilairsky
+Outsiders
+Iglinsky
+Blagoveshchensky
+Karaidelsky
+Beloretsky
+Number of doctors per 10,000 people, people
+Leaders
+Burayevsky
+Birsky
+Salavatsky
+Beloretsky
+Outsiders
+Iglinsky
+Blagoveshchensky
+Belokataisky
+Burzyansky
+Note: The table was derived by the authors based on their research.
+788
+GUSMANOV ET AL.
+
+
+significantly increase their strategic parameters and target indicators reflecting sustainable development of the major
+rural economy sectors.
+Secondly, the outsiders of rural areas should be provided with state support on a selective basis in order to elim-
+inate the asymmetry and development imbalances, and subsequently equalize the operation of the socioeconomic
+components of the areas under study. According to the expert assessment, outsiders of rural areas will be mainly
+characterized by low indicators of the quality and standard of living of the population. There is no doubt that the use
+of these practical recommendations will positively affect the prospective strategic development of the rural social
+sphere and the region’s economy.
+The research examined different variations of the cluster distribution of the studied set of objects by typological
+characteristics. It formed the potential complex groupings (from two to six clusters) in dynamics for the three periods
+(2011–2013, 2014–2016, and 2017–2019). As a result, the following sustainable trends for the socioeconomic
+development of rural areas in the Non-Black Soil Zone were identified: the constancy of the cluster distribution of
+most rural areas, the outpacing social and economic growth in two rural areas, and the deterioration of the socioeco-
+nomic situation in eight rural areas (Figure 7).
+The most important component of a sustainable development strategy is a focus on obtaining a certain synergis-
+tic effect from the use of the natural resource and production potential of rural areas when creating ‘points of
+growth’, clusters and specialized food production zones. The formation of cluster systems in the rural areas that are
+outsiders in terms of development will increase the efficiency of agricultural production and create new jobs.
+At the final stage of the implementation of the clustering algorithm along with an expert assessment of the clus-
+tering results and the use of foresight technologies, the key implications of effective clustering of rural areas in terms
+of their socioeconomic development were formulated; they are shown in Figure 8.
+The implications of the efficiency of clustering rural areas by socioeconomic development indicators were based
+on the use of foresight technologies. In practical terms, the effectiveness of clustering was measured by a group of
+FIGURE 7
+Dynamics of cluster distribution of rural areas by target indicators of socioeconomic development in
+2011–2019. Note: The figure was developed by the authors based on their research
+GUSMANOV ET AL.
+789
+
+
+experts, and on this conceptual framework, 12 lines for the development of rural areas were formed. These are
+shown in Figure 5. In practice, the application of this concept will make it possible to perform on-the-spot analysis
+and will improve the efficiency and quality of municipal governance of the development of rural areas. In turn, the
+limitations of the cluster approach are a low level of competition within the formed clusters; issues of providing
+information technology (IT) support to the executive authorities and entrepreneurship for applying the cluster
+approach and cluster-related activities; poor understanding of the benefits of the co-competition synergetic effect;
+and the state’s minor role in supporting cluster initiatives.
+FIGURE 8
+Implications of the efficiency of clustering rural areas by socioeconomic development indicators.
+Note: The figure was developed by the authors based on their research
+790
+GUSMANOV ET AL.
+
+
+We believe that, in further research, the lines of clustering efficiency developed based on the expert assess-
+ments provided by key actors and stakeholders can be used to adjust and clarify the parameters and target indicators
+of the projected strategy for the development of rural areas. These are the major vector of the sustainable socioeco-
+nomic climate of rural territorial entities from the perspective of a systematic approach. In our opinion, future studies
+on assessing the prospects of sustainable rural development based on a cluster approach can be directly related to
+the functioning of the digital economy and large-scale digitalization in rural areas.
+Our vision of building a new structure for sustainable development of rural areas based on the cluster approach
+is focused on the innovative component of cluster development design strategies. The cluster structure of rural areas
+is an open socioeconomic system, and it can be modified in accordance with the evolutionary dynamics of the rural
+continuum. At the same time, each cluster should interact not only with stakeholders but also with other groups of
+key actors in rural areas.
+4
+|
+DISCUSSION
+We believe that the use of cluster technologies should be one of the fundamental approaches to designing a strategy
+for sustainable development of rural areas. According to a study conducted by the Russian Cluster Observatory
+(RCO) at the Higher School of Economics, more than 2,000 pilot innovative territorial clusters have been created in
+the Russian Federation, and there are 43 cluster development centers (RCO, 2021). At the same time, there are only
+eight clusters in Russian regions that are associated with the development of agriculture and the food industry.
+It is important to emphasize that previous studies devoted to clusters did not always take into account the indi-
+vidual characteristics of the development of rural areas and did not analyze various time periods by key target indica-
+tors to determine sustainable trends in the socioeconomic development of rural areas when carrying out typification
+(Akhmadeev et al., 2019; Novikov, 2019). Thus, when conducting research grouping the municipalities of Bashkorto-
+stan (2016), an integral indicator including the share of non-tax and tax revenues of local budgets that make up the
+municipalities’ own revenues, average monthly wages, rate of natural and migration increase, volumes of shipped
+goods of their own production, and investment in fixed assets per capita was used (Government of the Republic of
+Bashkortostan, 2018). The use of this integral indicator allowed differentiation of all municipalities of the republic
+according to several levels of socioeconomic development.
+The clusters formed within the framework of the study differ from the multidimensional groupings and integra-
+tion associations developed previously, first of all, in their strategic focus on sustainable development. In contrast to
+the available methodological approaches, the results of the cluster study determine the formation of the concept of
+‘smart specialization’ of rural producers, which makes it possible to concentrate efforts not on certain sectors of the
+development of the agrarian economy but on certain types of activities of economic entities (agricultural
+formations).
+We believe that, when conducting cluster studies, a systematic approach should be applied to initially analyze
+the current socioeconomic status of the aggregate of the rural areas being considered and assess the prospects for
+their development as potential cluster structures. The use of cluster technologies determines the ‘cores’ and ‘growth
+poles’ of clusters around which innovative high-tech enterprises of the agri-food sector, a network of sociocultural
+facilities, technoparks, and nonagricultural business structures are created. In this respect, the ‘poles of growth’ are
+the points of potential location of agricultural production and social facilities, which allow the optimization of the
+system of rural areas through clustering. At the same time, an increase in the differentiation and spatial polarization
+of rural areas may lead to certain disparities in socioeconomic development between the ‘center’ and ‘periphery’ of
+rural areas.
+If we follow general principles of the theory of convergence, ‘poor’ (‘target’) territories have higher rates of eco-
+nomic growth compared with ‘rich’ (‘reference’) territories, and, therefore, in the long term, this will equalize their
+levels of economic development. In other words, effective strategic management of rural areas based on the
+GUSMANOV ET AL.
+791
+
+
+implementation of cluster solutions will allow reorienting loss-making agricultural organizations through the rapid
+introduction of innovative and digital technologies to all agricultural formations located within the clusters. In this
+case, the innovative component of the clustering effect is determined by a decrease in the costs associated with the
+commercialization of innovations and implementation of digital technologies and an increase in the share of innova-
+tive products produced by agricultural formations.
+The introduction of practical recommendations for the clusters created determines the effectiveness of the
+implementation of strategic programs for sustainable development of rural areas. This idea is confirmed by the con-
+cept of ‘mutual and cumulative conditionality’ by G. Myrdal, according to which economic growth factors are
+interdependent and, therefore, variations of one factor will cause changes in other factors. In this perspective, the
+achievement of efficiency presupposes the development of the rural production sphere and, in particular, a signifi-
+cant increase in the production of agri-food products and the food self-sufficiency ratio in the rural area.
+The key difference between our study and previous research (Chibilev et al., 2015; Kudryavtseva &
+Olaniyi, 2019; Rajovic & Bulatovic, 2015) is consideration of the relationships between all categories of agricultural
+formations located within rural areas, and the algorithm we developed allows us to assess the degree of sustainable
+development and create a ‘cluster profile’ of each rural area type. The methodological approaches and strategies
+aimed at the formation of homogeneous clusters of rural areas described in the study can be used for clustering rural
+areas in other countries and regions that have similar production conditions.
+5
+|
+CONCLUSIONS
+It is important to emphasize that the identification of resources for sustainable development of rural areas should be
+based on the methodology of cluster philosophy and the conceptual choice of the fundamental features of the phe-
+nomenon of clusters with due regard to agricultural zoning when assessing cluster components – indicators
+reflecting current development level of the economy, social sphere, and infrastructure of rural areas. The formation
+of homogeneous clusters should be based on characteristics such as geographical concentration, consistency,
+uniqueness, territorial community, relative homogeneity of the specialization of the economy, and socioeconomic
+potential of rural areas.
+It can be concluded that multidimensional clustering can be performed in terms of natural and agricultural zones
+based on the critical rural development indicators. The cluster approach specifies the database for comprehensive
+and appropriate research of the rural area actual state and defines target indicators of the sustainable development
+strategy. The authors have shown that identifying resources for sustainable rural development should be based on a
+conceptual choice of the principal features of the cluster phenomenon, taking into account agricultural zoning. They
+are crucial for a comprehensive assessment of cluster components – indicators reflecting the current development
+of the rural economy, social sphere, and infrastructure.
+The implementation of the clustering algorithm described in the study allows us:
+• to group rural areas according to the major socioeconomic characteristics at the zonal level, as well as to identify
+the strengths and weaknesses of the development of grouped clusters;
+• to identify structural dynamic changes in the socioeconomic development of rural areas for a specific period of
+time;
+• to identify priority socioeconomic development areas of individual rural areas and the virtual clusters created.
+There is no doubt that sustainable development of rural areas can be achieved as a result of their clustering and, in
+our opinion, it is necessary to introduce an active cluster policy in the available regional strategies. The implementa-
+tion of the clustering algorithm according to the key target indicators reflecting the socioeconomic status of rural
+areas, and the selection of four homogeneous clusters, has determined the following conclusions:
+792
+GUSMANOV ET AL.
+
+
+• social regularity is confirmed; thus, in the clusters with the lowest rural population density, there are lower indica-
+tors of the development of rural areas;
+• successful agricultural organizations create ‘integrators’ and ‘cores’ mainly for cluster I and III, and their balanced
+development determines the potential for the formation of new clusters in accordance with the evolutionary
+dynamics of the rural continuum. Enterprises and organizations processing agricultural raw materials and agri-
+food products are considered as ‘satellites’ of the clusters;
+• clusters with a strategic focus on sustainable development allow the formation of unique competencies of rural
+areas based on the use of their exclusive competitive advantages and the development of integration ties.
+The authors’ vision for a new framework of the rural area functioning based on the cluster technologies emphasizes
+the innovative component in the cluster system of designing a sustainable development strategy. The subjects inter-
+acting in clusters produce positive external effects that enhance the competitiveness with other cluster subjects and
+activate collaboration processes based on the maximum use of the production potential of farms, and ensure ‘break-
+through’ progress in creating specialized food production zones within the clusters.
+Thus, a cluster approach is one of the fundamental approaches to the formation of a strategy for the develop-
+ment of rural areas; the application of the approach determines a consistent transition from the ‘policy of equaliza-
+tion’ to the principle of ‘polarized’ (‘focused’) development of rural areas. The use of cluster technologies in
+strategic management will improve the quality of decisions made at the municipal level and contribute to the forma-
+tion of a clear vision of the future sustainable development of rural areas.
+Specifically, the following research limitations restrict the implementation of the strategy described:
+• available resources (taking into account travel constraints and the impossibility of broader coverage of expert
+opinions due to the bans and restrictions in the context of the coronavirus pandemic);
+• the number of rural areas under consideration (22 units);
+• socioeconomic zonal environment (in particular, the Non-Black Soil Zone of Bashkortostan);
+• time frame of the study.
+There is no doubt that the clusters created are characterized by common conditions, factors, and problems of sus-
+tainable development. One of the further development vectors can be the design of the boundary values of the tar-
+get indicators of the cluster scenario characterizing the socioeconomic development of rural territorial structures.
+This design will make it possible to highlight the main directions in the field of sustainable development of rural
+areas. We believe that our study will make a valuable contribution to the clarification and replenishment of methodo-
+logical approaches and strategies used for clustering rural areas when implementing their sustainable development
+strategy.
+FUNDING
+The reported study was funded by RFBR and the Republic of Bashkortostan according to the research project
+‘Strategic Planning of Socio-Economic Development of Rural Areas of the Republic of Bashkortostan Based on the
+Foresight Methodology’, No. 19-410-020016.
+ORCID
+Rasul Gusmanov
+https://orcid.org/0000-0003-3692-2819
+REFERENCES
+Akhmadeev, R., Redkin, A., Glubokova, N., Bykanova, O., Malakhova, L., & Rogov, A. (2019). Agro-industrial cluster:
+Supporting the food security of the developing market economy. Entrepreneurship and Sustainability Issues, 7(2),
+1149–1170. https://doi.org/10.9770/jesi.2019.7.2(25)
+GUSMANOV ET AL.
+793
+
+
+Allanina, L. M., Smirnova, E. A., Kalafatov, E. A., Shadskaja, I. G., & Shirokovskikh, S. A. (2020). Sustainable development of
+rural areas: Increasing employment in the context of digital technologies development. Journal of Advanced Research in
+Dynamical and Control Systems, 12(4), 1069–1076. https://doi.org/10.5373/JARDCS/V12SP4/20201580
+Bartkowiak, N. (2017). The diversity of socioeconomic development of rural areas in Poland in the Western borderland and
+the problem of post-state farm localities. Oeconomia Copernicana, 8(3), 417–431. https://doi.org/10.24136/oc.v8i3.26
+Bolshakova, Y. A., Gusev, A. N., Gruzdeva, V. V., Kurilova, A. A., & Ponedilchuk, T. V. (2019). Specifics of modern manage-
+ment of sustainable development in rural areas. Dilemas Contemporáneos: Educacion, Política Y Valore, 6(Special), 84.
+Borawska, M. (2017). Rural areas in public statistics. Collegium of Economic Analysis Annals, 44, 275–286.
+Bulat, P.(2014). About the detonation engine. American Journal of Applied Sciences, 11(8), 1357–1364. https://doi.org/10.
+3844/ajassp.2014.1357.1364
+Casini, L., Boncinelli, F., Contini, C., Gerini, F., & Scozzafava, G. (2019). A multicriteria approach for well-being assessment in
+rural areas. Social Indicators Research, 143(1), 411–432. https://doi.org/10.1007/s11205-018-1978-0
+Castro-Arce, K., & Vanclay, F. (2020). Transformative social innovation for sustainable rural development: An analytical
+framework to assist community-based initiatives. Journal of Rural Studies, 74, 45–54. https://doi.org/10.1016/j.jrurstud.
+2019.11.010
+Chatzinikolaou, P., Bournaris, T., Kiomourtzi, F., Moulogianni, C., & Manos, B. (2015). Classification and ranking rural areas in
+Greece based on technical, economic and social indicators of the agricultural holdings. International Journal of Business
+Innovation and Research, 9(4), 455–469. https://doi.org/10.1504/IJBIR.2015.070178
+Chibilev, A. A., Petrishchev, V. P., Cherkasova, Y. V., & Akhmetov, R. S. (2015). Cluster differentiation of municipal districts
+of Orenburg oblast by features of rural settlement pattern. Regional Research of Russia, 5(3), 263–269. https://doi.org/
+10.1134/S2079970515030041
+Ciani, A., Gambardella, A., & Pociovalisteanu, D. M. (2016). Circular economy and sustainable rural development. Theory and
+best practice: A challenge for Romania. Annals-Economy Series, 1, 52–56.
+Dorosh, Y., Barvinskyi, A., Kupriyanchyk, I., Kravchenko, O., & Saliuta, V. (2019). Optimization of the agricultural land structure
+as the basis of sustainable development of rural areas. Land Management, Cadastre and Land Monitoring, 4(25), 4–13.
+Dragoi, A. E., Bâlgar, A. C., & Pencea, S. (2017). Public policies for sustainable rural development: Evidence from China and
+Romania. Global Economic Observer, 5(1), 102.
+Gorbenkova, E., Shcherbina, E., & Belal, A. (2018). Rural areas: Critical drivers for sustainable development. IFAC-Papers
+OnLine, 51, 786–790. https://doi.org/10.1016/j.ifacol.2018.11.195
+Government of the Republic of Bashkortostan. (2018). Decree No. 624 “On the Strategy of Socio-Economic Development
+of the Republic of Bashkortostan for the Period up to 2030”. Available at: https://npa.bashkortostan.ru/22444/.
+(Accessed 12 January 2021).
+Gusmanov, R., Askarov, A., Lukyanova, M., Kovshov, V., & Stovba, E. (2020). Strategic planning of rural development based
+on foresight methodologies. Scientifica, 2020, 10. https://doi.org/10.1155/2020/5195104
+Gusmanov, R. U., Stovba, E. V., Idrisova, A. T., & Yapparova, A. N. (2019). Use of Foresight in Forming a Rural Territory
+Development Strategy. In Modern tools for sustainable development of territories. Special topic: Project Management in the
+regions of Russia: European proceedings of social and Behavioural sciences (MTSDT 2019) (pp. 550–556). Saint Petersburg,
+Russia: Future Academy.
+Hammouda, M., Wery, J., Darbin, T., & Belhouchette, H. (2018). Agricultural activity concept for simulating strategic agricul-
+tural production decisions: Case study of weed resistance to herbicide treatments in South-West France. Computers and
+Electronics in Agriculture, 155, 167–179. https://doi.org/10.1016/j.compag.2018.09.036
+Kudryavtseva, T., & Olaniyi, E. O. (2019). Identification and analysis of the cluster structure of a territory and its impact on
+regional development: An example of Russia. Journal of Advanced Research in Law and Economics, 10, 1322. https://doi.
+org/10.14505//jarle.v10.4(42).33
+Kurdys-Kujawska, A., & Sompolska-Rzechula, A. (2020). Subsidization of entrepreneurship in rural areas in Poland: Scale,
+effects and regional diversity. European Research Studies, 23(2), 246–263. https://doi.org/10.35808/ersj/1592
+Li, X., Yang, H., Jia, J., Shen, Y., & Liu, J. (2021). Index system of sustainable rural development based on the concept of eco-
+logical livability. Environmental Impact Assessment Review, 86, 106478. https://doi.org/10.1016/j.eiar.2020.106478
+Marinas, L. E. (2015). Returns on EU funding for human capital development in rural areas. Revista de Management Comparat
+Internațional, 16(4), 491–505.
+Mazur, K., & Tomashuk, I. (2019). Governance and regulation as an indispensable condition for developing the potential of
+rural areas. Baltic Journal of Economic Studies, 5(5), 67–78.
+Novikov, I. (2019). Regional aspects of the development of clustering in the dairy branch. Comparative Economic Research,
+22(4), 91–109. https://doi.org/10.2478/cer-2019-0034
+Oliveira, P., & Turcˇínková, J. (2019). Human capital, innovation and internationalization of micro and small enterprises in
+rural territory – A case study. Acta Universitatisagriculturae et Silviculturaemendelianaebrunensis, 67(2), 545–563. https://
+doi.org/10.11118/actaun201967020545
+794
+GUSMANOV ET AL.
+
+
+Podgorskaya, S. V., Podvesovskii, A. G., Isaev, R. A., & Antonova, N. I. (2019). Fuzzy cognitive models for socio-economic
+systems as applied to a management model for integrated development of rural areas. Business Informatics, 13(3), 7–19.
+https://doi.org/10.17323/1998-0663.2019.3.7.19
+Porter, M. (1998). On competition. Boston: Harvard Business School.
+Rajovic, G., & Bulatovic, J. (2015). Theoretical approach to rural areas with a focus on typology of settlement in the
+European Union and rural development in Montenegro. Hyperion Economic Journal, 3(3), 24.
+RCO. (2021). Russian Cluster Observatory (RCO) at the Higher School of Economics: official website. Available at: https://
+cluster.hse.ru/. (Accessed 12 January 2021).
+Standar, A., & Kozera, A. (2019). The role of local finance in overcoming socioeconomic inequalities in polish rural areas. Sus-
+tainability, 11(20), 5848. https://doi.org/10.3390/su11205848
+Su, T., Yu, Y., Chen, Y., & Zhang, J. (2019). The experience, dilemma, and solutions of sustainable development of inclusive
+finance in rural China: Based on the perspective of synergy. Sustainability, 11(21), 5984. https://doi.org/10.3390/
+su11215984
+Tandir, N., Konakli, Z., & Bajramovic, S. (2016). Supporting the theory on the potentials of immobile resources for creating
+competitive advantages in rural areas. Journal of Academic Research in Economics, 8(3), 419–438. https://doi.org/10.
+6007/IJAREMS/v5-i4/2320
+Yanbo, Q., Guanghui, J., Wenqiu, M., & Zitong, L. (2021). How does the rural settlement transition contribute to shaping sus-
+tainable rural development? Evidence from Shandong, China. Journal of Rural Studies, 82, 279–293. https://doi.org/10.
+1016/j.jrurstud.2021.01.027
+Zang, Y., Liu, Y., Yang, Y., Woods, M., & Fois, F. (2020). Rural decline or restructuring? Implications for sustainability transi-
+tions in rural China. Land Use Policy, 94, 104531. https://doi.org/10.1016/j.landusepol.2020.104531
+How to cite this article: Gusmanov, R., Stovba, E., Kuznetsova, A., Gusmanov, I., Taipov, T., Muhametshina,
+G., & Akhmetova, L. (2022). Rural area sustainable development strategies on the basis of a cluster approach.
+Regional Science Policy & Practice, 14(4), 778–795. https://doi.org/10.1111/rsp3.12475
+GUSMANOV ET AL.
+795
+
+
+Resumen. El propósito de este estudio es la fundamentación científica y metodológica del uso eficaz de las
+tecnologías de cluster (conglomeración) en la planificación estratégica del desarrollo sostenible de estructuras ter-
+ritoriales rurales. La novedad conceptual de la investigación es que proporciona un algoritmo para la conglomeración
+del desarrollo socioeconómico de zonas rurales por indicadores objetivo críticos basados en las características de
+evaluación (30 características) para hacer (cuatro) clusters homogéneos. Asimismo, el estudio estableció enfoques
+metódicos y directrices para el uso de tecnologías de cluster con el fin de evaluar las perspectivas de desarrollo
+sostenible del sistema zonal de áreas rurales como estructuras socioeconómicas complejas. La investigación utilizó
+métodos científicos generales como un método monográfico, técnicas de análisis de sistemas y clusters, herramientas
+de planificación estratégica, un método computacional y constructivo, y métodos abstracto‐lógicos y gráficos. Se
+sugiere utilizar un enfoque de cluster cuando se requiera diseñar planes y programas estratégicos para el desarrollo
+socioeconómico de municipios rurales. Las tecnologías de cluster deberían utilizarse como herramientas sistemáticas
+para el desarrollo y la aplicación de una estrategia de desarrollo sostenible de zonas rurales. Los hallazgos principales
+se basan en la agrupación multidimensional de las zonas rurales y la formación de clusters homogéneos de zonas
+rurales a nivel zonal.
+抄録:
+本稿では、農村地域の構造の持続可能な発展の戦略的計画におけるクラスター技術の効果的利用を科学的
+および方法論的に実証する。本研究の概念的な新規性は、均質なクラスター(4つのクラスター)を作るための評価特
+徴(30の特徴)に基づく重要な目標の指標によって農村地域の社会経済発展をクラスター化するアルゴリズムを提
+供することである。さらに、本研究では複雑な社会経済構造としての農村地域のゾーンレベルシステムの持続可
+能な発展の見込みを評価するためにクラスター技術を利用する方法とガイドラインを確立した。研究には、モノ
+グラフ法、システムおよびクラスター分析技術、戦略的計画ツール、計算的構築法、抽象的論理的および図式的
+方法などの一般的な科学的方法を用いた。農村部の自治体の社会経済開発のための戦略的計画やプログラムの作
+成する際には、クラスターアプローチを用いるべきである。クラスター技術は、農村地域における持続可能な発
+展のための戦略の開発と実施の体系的ツールとして使用するべきである。主な知見は、農村地域の多次元分類と
+ゾーンレベルでの農村地域の均質なクラスターの形成に基づいている。
+DOI: 10.1111/rsp3.12475
+© 2021 The Authors. Regional Science Policy & Practice © 2021 Regional Science Association International

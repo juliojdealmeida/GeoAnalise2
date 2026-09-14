@@ -1,0 +1,1568 @@
+Repensar, reimaginar, 
+transformar: los “qué”  
+y los “cómo” para avanzar  
+hacia un modelo de desarrollo 
+más productivo, inclusivo  
+y sostenible
+José Manuel Salazar-Xirinachs
+Recibido: 26/02/2024
+Aceptado: 01/03/2024
+Resumen 
+La región de América Latina y el Caribe está sumida en tres trampas de desarrollo: 
+una incapacidad de largo plazo para crecer, una elevada desigualdad y una 
+baja capacidad institucional y de gobernanza. Este artículo ofrece un análisis de 
+los retos del desarrollo alrededor de un decálogo de brechas que constituyen 
+áreas prioritarias de acción para la política pública y los esfuerzos colectivos de 
+transformación. A esto se agrega una undécima área relativa a cómo pasar de la 
+situación presente a los escenarios deseables. Para esto es preciso enfocarse en 
+los retos relativos a la gobernanza, las capacidades institucionales y los espacios de 
+diálogo social, no solo para pensar el futuro sino también como instrumentos para 
+la gestión del cambio y las transformaciones. Todo lo anterior define una agenda 
+de 11 grandes transformaciones que se presenta como una visión sobre los temas 
+prioritarios que los países de la región deberían abordar para avanzar hacia un 
+futuro más productivo, inclusivo y sostenible.
+Palabras clave 
+Desarrollo económico, globalización, desarrollo sostenible, trampas del desarrollo, 
+decálogo de brechas, gobernanza, capacidades institucionales, diálogo social, 
+grandes transformaciones, América Latina y el Caribe 
+Clasificación JEL
+010, 054, D30
+Autor
+José Manuel Salazar-Xirinachs, Secretario Ejecutivo de la Comisión Económica para 
+América Latina y el Caribe (CEPAL). Correo electrónico: jose.salazarx@un.org.
+12
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Repensar, reimaginar, transformar: los “qué” y los “cómo” para avanzar hacia un modelo de desarrollo…
+I. Introducción
+Aunque la diversidad de experiencias y características nacionales es amplia, el patrón de desarrollo de 
+los países de América Latina y el Caribe presenta rasgos estructurales comunes: existe una incapacidad 
+de crecer a tasas altas y sostenidas, el desarrollo no es suficientemente inclusivo y sostenible, hay 
+una elevada desigualdad y una baja movilidad social, así como importantes brechas de protección 
+social, deficiencias en los sistemas educativos y de formación profesional, una elevada desigualdad 
+de género, procesos productivos contaminantes del ambiente y una limitada integración económica 
+regional y mundial. 
+Estas características se dan en una coyuntura mundial en que respecto de la globalización se 
+ha pasado de la celebración de la interdependencia a la sospecha que recae sobre ella por razones 
+geopolíticas. Nos encontramos en una nueva era de cambios tecnológicos acelerados, mayor cantidad 
+e intensidad de los desastres naturales asociados con el cambio climático, mayores flujos migratorios y 
+menor crecimiento de la economía mundial. Enfrentar los retos del desarrollo y las brechas estructurales 
+históricas en este nuevo contexto internacional de “permacrisis” (Brown, El-Erian y Spence, 2023) se 
+vuelve una tarea más compleja para los países de la región. 
+A la insatisfactoria trayectoria de largo plazo asociada con las brechas estructurales mencionadas, 
+se suma la coyuntura crítica por la que atraviesa el mundo asociada con las crisis en cascada que lo 
+han afectado: la pandemia de enfermedad por coronavirus (COVID-19) iniciada en 2020; la disrupción 
+de las cadenas globales de valor; la inflación y el aumento de las tasas de interés en 2021 y 2022, que 
+han elevado los costos del financiamiento internacional; la guerra en Ucrania a partir de 2022 y, más 
+recientemente, la guerra y las tensiones en Oriente Medio. Todo lo anterior define una situación que 
+no es exagerado denominar crisis del desarrollo en América Latina y el Caribe, definida por un bajo 
+crecimiento, una elevada desigualdad, niveles altos y persistentes de pobreza y pobreza extrema y 
+exclusión, un estrecho espacio fiscal, altos costos de financiamiento y bajas capacidades institucionales 
+y de gobernanza. 
+A la crisis del desarrollo en la región pueden agregarse crisis políticas y de democracia, porque 
+si los países no abordan el síndrome de crecimiento bajo o mediocre, no solo no podrán reducir los 
+niveles de pobreza, informalidad y desigualdad que los caracteriza, sino que sus sociedades se volverán 
+cada vez más desiguales y violentas, habrá más migrantes y se pondrá en riesgo la democracia, 
+porque la vida democrática es incompatible con economías estancadas y ciudadanías frustradas y 
+sin esperanzas de un futuro mejor. Existen riesgos muy reales de aumento del enojo y la polarización 
+política, que a la vez afecten las posibilidades de avanzar hacia patrones de crecimiento más alto, 
+sostenido, inclusivo y sostenible.
+Desde que asumí el cargo de Secretario Ejecutivo de la CEPAL en octubre de 2022 he planteado 
+estos temas. En el trigésimo noveno período de sesiones de la Comisión, celebrado ese mismo mes, 
+presenté un decálogo de brechas estructurales como forma de visualizar y comprender mejor los 
+principales retos del desarrollo que afectan a la región, así como de identificar las principales áreas de 
+transformación económica y social en que los países de la región necesitan trabajar de manera urgente 
+para avanzar hacia un modelo de desarrollo más productivo, inclusivo y sostenible. 
+También puse énfasis en la importancia de pasar del “qué” hacer al “cómo” hacerlo. Es decir, 
+en la manera de no quedarse en listas de objetivos y aspiraciones, sino de abordar sistemáticamente 
+los retos de la gobernanza, la calidad institucional, el diálogo social y la economía política para llevar a 
+la práctica las políticas y las transformaciones exitosas, y para pasar de los planes y estrategias en el 
+papel a las transformaciones efectivas en la realidad.
+El presente artículo introductorio de la edición especial de Revista CEPAL, junto con el artículo 
+“Hacia la transformación de la estrategia de crecimiento y desarrollo de América Latina y el Caribe: el 
+13
+Revista de la CEPAL N° 141 • diciembre de 2023
+José Manuel Salazar-Xirinachs
+papel de las políticas de desarrollo productivo”, redactado junto con Marco Llinás, incluido en esta misma 
+edición, sistematiza esta visión renovada que impulsa la CEPAL. Aspirar a crear un nuevo consenso 
+sobre el desarrollo en la región puede ser un objetivo muy ambicioso, pero es sin duda deseable, y 
+en ese espíritu ofrecemos los artículos de esta edición especial de Revista CEPAL en ocasión del 
+75° aniversario de la Comisión.
+Tratándose de una edición especial, es apropiado repasar, en la sección II, los grandes aportes 
+de la CEPAL en estas siete décadas y media de existencia. En la sección III se examinan los cambios 
+en el contexto mundial, en particular en relación con la globalización. En la sección IV se expone el 
+decálogo de brechas y desafíos del desarrollo de América Latina y el Caribe. En la sección V se pasa de 
+un modo de diagnóstico a un modo prescriptivo y se plantean 11 grandes transformaciones que están 
+interrelacionadas y se refuerzan mutuamente para poder cambiar significativamente los modelos de 
+desarrollo en la región. Señalar lo que debería hacerse no es lo mismo que señalar cómo hacerlo. Esto 
+último es fundamental para avanzar, y es una conversación enfocada en los desafíos de la gobernanza, 
+las instituciones, la gestión y los procesos para inducir las transformaciones. Este tema fundamental se 
+aborda en la sección VI de este artículo. Por último, en la sección VII se ofrecen conclusiones. 
+II. 75 años de aportes de la CEPAL al desarrollo  
+de América Latina y el Caribe 
+En sus inicios, en la década de 1950, la CEPAL promovió el desarrollo latinoamericano a través de 
+políticas de industrialización conducidas por el Estado, consideradas como la forma más eficiente 
+de lograr la difusión del progreso técnico en un marco de comercio entre el “centro” y la “periferia” del 
+sistema económico mundial. La industrialización en varios países de la región fue una práctica antes 
+de ser una política, y fue una política antes de ser una teoría. La CEPAL fortaleció la política y desarrolló 
+la teoría. El énfasis en la industrialización se justificaba por sus características únicas, al menos en 
+esos años, de incluir economías de escala y enlaces hacia atrás y hacia adelante, su capacidad de 
+difusión del progreso técnico, y de aumento de la productividad, y su apropiación por parte de los 
+países en desarrollo. En esa década la CEPAL también investigó y trabajó ampliamente sobre los retos 
+de la inflación1.
+En los años sesenta, al mensaje a favor de la industrialización se incorporó un componente 
+adicional: la propuesta de efectuar reformas institucionales —agrarias, fiscales y financieras, entre 
+otras— que se consideraban indispensables para permitir la continuidad y profundización del desarrollo 
+industrial. Debe señalarse también que en esa década la CEPAL formuló críticas a la industrialización por 
+sustitución de importaciones tal como estaba evolucionando, enfatizó la importancia de la promoción 
+de exportaciones industriales manufactureras y analizó los obstáculos para la formación de un mercado 
+común latinoamericano. También trabajó sobre dos fenómenos: la elevada inflación y la restricción o 
+desequilibrio externo para el desarrollo. Esta fue también la década en que la CEPAL contribuyó con 
+fuerza a la influyente “teoría de la dependencia”, que desarrolló aún más su influencia a nivel mundial 
+en esta década2.
+Durante los años setenta, el pensamiento de la CEPAL avanzó en torno a dos líneas fundamentales: 
+la naturaleza y las dificultades del crecimiento económico y el desarrollo industrial y la distribución del 
+ingreso. Estas y otras ideas se convirtieron en una teorización integral sobre las características y retos 
+del “capitalismo periférico”, concepto formulado por la CEPAL. Se insistió también en el concepto de 
+1 Entre los textos más influyentes de esta década, véanse Prebisch (1949, 1950 y 1959); Furtado (1952 y 1958); Sunkel (1958).
+2 Entre los textos más destacados de esta década se incluyen: Prebisch (1963); CEPAL (1961 y 1963); Cardoso y Faletto (1967). 
+Sobre el papel, la influencia y los debates de la CEPAL en relación con la teoría de la dependencia, véase Fajardo (2022). 
+14
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Repensar, reimaginar, transformar: los “qué” y los “cómo” para avanzar hacia un modelo de desarrollo…
+“insuficiencia dinámica” del capitalismo periférico para crecer y crear empleo. Además, en esta década 
+se desarrolló más explícitamente el método histórico estructural como forma de teorizar a partir de la 
+realidad con un sistema analítico explícito. Finalmente, se hicieron críticas y autocríticas que alejaron 
+a la CEPAL de ciertas versiones, al menos, de la teoría de la dependencia y se analizaron los cambios 
+y las oportunidades de lo que se denominó “capitalismo transnacional”3.
+La profunda crisis económica y social que sufrieron la mayoría de los países de la región durante 
+los años ochenta llevó al entonces Secretario Ejecutivo de la CEPAL, Norberto González, a denominar 
+esos años “la década perdida». Durante esa década, la CEPAL trabajó en el análisis de la crisis de 
+la deuda y las formas de renegociarla, en propuestas para un ajuste macroeconómico más eficiente 
+y menos oneroso que el observado, capaz en mayor medida de promover el crecimiento, así como 
+en políticas de mitigación de los costos sociales del ajuste. También se profundizaron los análisis 
+sobre la industrialización exportadora del sudeste asiático y las lecciones para la industrialización de 
+América Latina y el Caribe4.
+En la década de 1990 surgió el neoestructuralismo como una corriente de pensamiento cepalino, 
+cuyo objetivo fue modernizar el pensamiento de la CEPAL, adaptarlo a los cambios de esa década 
+y darle más visibilidad. En el nuevo contexto en que los países abrazaron la idea de la globalización 
+comercial y financiera, período que se conoce ampliamente como de hiperglobalización, la CEPAL 
+insistió en que la línea conductora debía ser la transformación productiva con equidad, velando por una 
+transformación productiva de base amplia, con atención a los impactos negativos que la globalización 
+podría conllevar y un enfoque de desarrollo de competitividad en un marco de regionalismo abierto. 
+Parte del enfoque fue cómo “reformar las reformas” de llamado Consenso de Washington de esos años5.
+En la primera década del siglo XXI, el neoestructuralismo se articuló alrededor de cuatro grandes 
+áreas: macroeconomía y finanzas con énfasis en políticas contracíclicas, comercio internacional, 
+desarrollo social y sostenibilidad ambiental, temas que fueron abordados en varias publicaciones 
+influyentes6. Se trató de una visión heterodoxa en materia macroeconómica, desarrollista en cuanto a la 
+asignación de recursos y la intervención del Estado, universalista en el campo social y conservacionista 
+en materia ambiental. La CEPAL hizo un llamado a equilibrar las asimetrías de la globalización para 
+lograr un desarrollo basado en la transformación productiva, la equidad distributiva y la protección y 
+cohesión sociales.
+En la década de 2010, la igualdad ocupó un lugar central en el pensamiento cepalino, expresado 
+y fundamentado en el conjunto de documentos conocido como “la trilogía de la igualdad”. Las ideas 
+principales fueron las de promover un desarrollo sostenible mediante un cambio estructural progresivo, 
+un gran impulso ambiental y pactos para la igualdad sobre la base de la Agenda 2030 para el Desarrollo 
+Sostenible. Los temas de igualdad de género y sociedad del cuidado recibieron también atención prioritaria7.
+El cambio a la década de 2020 se vio dominado por la cascada de crisis que ha impactado la 
+región y el mundo a partir de la pandemia de COVID-19 iniciada en 2020. La atención de la CEPAL entre 
+2020 y 2022 se centró en el análisis de las consecuencias de esta cascada de crisis y en el diálogo con 
+los gobiernos y otros actores clave sobre cómo gestionar la incertidumbre y la complejidad. También se 
+ha profundizado el análisis de los cambios en la globalización y la geopolítica, la revolución tecnológica, 
+el cambio climático, las migraciones y la igualdad de género y sociedad del cuidado, entre otros temas.
+3 Entre los documentos destacados de la década de los 1970 se incluyen: Prebisch (1970, 1976, 1978 y 1979); Sunkel y 
+Paz (1970); Sunkel y Fuenzalida (1978); Pinto (1976); Iglesias y otros (1972).
+4 Entre las contribuciones más relevantes de esta década destacan: Sunkel (1981); Prebisch (1981); Fanjzylber (1983); CEPAL 
+(1984 y 1986); Ffrench-Davis (1988).
+5 Entre los trabajos influyentes de esta década se incluyen: CEPAL (1990 y 1994); Fajnzylber (1990); Sunkel y Zulueta (1990); 
+Sunkel (1991); Ocampo y Rosenthal (1998).
+6 Entre los trabajos influyentes de esta década se incluyen: CEPAL (2002, 2004 y 2006).
+7 Los principales documentos de la CEPAL de esta década comprenden: CEPAL (2010, 2012, 2014 y 2016). 
+15
+Revista de la CEPAL N° 141 • diciembre de 2023
+José Manuel Salazar-Xirinachs
+III. Cambios en la globalización y desafíos 
+para América Latina y el Caribe 
+1. Cambios y redefiniciones en la globalización
+La globalización ha experimentado cambios tectónicos. Hablar del “fin de la globalización” es posiblemente 
+incorrecto, pero de lo que sí podemos estar seguros es que ha llegado el “fin de la hiperglobalización”, 
+como señaló Rodrik (2011). Ciertamente estamos ante el surgimiento de una forma de interdependencia 
+económica muy diferente y que se encuentra asociada al gran cambio geopolítico. En su conferencia 
+magistral de la Cátedra Raúl Prebisch, “Globalización dislocada: Prebisch, desbalances comerciales 
+y el futuro de la economía global”, incluida en esta edición especial, Rebeca Grynspan denominó esta 
+nueva etapa “poliglobalización”, es decir, una globalización más descentralizada con una red de polos 
+regionales, un multilateralismo competitivo, no universal, y un fuerte predominio de la geopolítica con 
+bloques no solo en competencia económica y militar, sino también con diferentes visiones del mundo, 
+entre otras características.
+No hay consenso sobre cuándo empezó ni cuándo terminó la hiperglobalización. Sin embargo, 
+como señala Grynspan, no hay duda de que el zénit del período fueron las dos décadas que van 
+de 1990 a 2010. ¿Cuándo y por qué se llegó al fin de la hiperglobalización? Esta pregunta es importante 
+para ubicarnos en el cambiante escenario internacional. La crisis financiera del Atlántico Norte de 2008 
+y 2009 fue un primer punto de quiebre. Esa crisis tuvo un impacto cualitativo en el comercio mundial: 
+en la década 2010-2020, aún antes de la pandemia, se desaceleró el ritmo de crecimiento de la 
+economía mundial y, aún más, el ritmo de crecimiento del comercio internacional. La crisis financiera 
+marcó un claro cambio de tendencia en el comercio de bienes. Otro punto de quiebre fue la cascada 
+de crisis que ha afectado a todo el mundo a partir de 2020 y que incluyó la pandemia de COVID-19, 
+las disrupciones en las cadenas globales de valor, la guerra en Ucrania, la inflación, el aumento de las 
+tasas de interés, la inseguridad alimentaria y el incremento de los niveles de endeudamiento. 
+ De mayor interés es comprender el porqué de ello. Como explica Grynspan, si bien la 
+hiperglobalización tuvo grandes factores positivos, como el crecimiento de la inversión y del comercio 
+internacional, y coincidió con una aceleración de la revolución tecnológica —con el ingreso de China a 
+la escena internacional y con una enorme reducción de la pobreza a nivel mundial—, también estuvo 
+asociada a tendencias negativas que llevaron a un gran descontento con la globalización 8: un gran 
+incremento de la desigualdad (tanto en países desarrollados como en desarrollo), la aceleración de la 
+desindustrialización prematura y un incremento de las vulnerabilidades y fragilidades, en particular de 
+los países en desarrollo con respecto al sistema económico mundial. 
+Más allá del descontento creciente por esos impactos negativos (desigualdad, desempleo, 
+desindustrialización, vulnerabilidad), hay también causas profundas asociadas con la geoeconomía y 
+la geopolítica que, aunque se han manifestado en la última década, han aflorado muy claramente en 
+los últimos dos o tres años. La principal es que con el surgimiento de China como gran potencia no 
+solo manufacturera sino también tecnológica, las grandes potencias geoeconómicas, en particular 
+los Estados Unidos y ese mismo país, han profundizado su rivalidad por la supremacía tecnológica y 
+productiva relacionada con las nuevas tecnologías, en especial en relación con la revolución digital, la 
+inteligencia artificial (IA), los estándares de Internet, y varios sectores industriales de alta tecnología, 
+como el de microprocesadores y los vinculados a la electromovilidad y la fabricación de baterías. 
+El último capítulo en esta rivalidad es el renacimiento o profundización de políticas industriales y de  
+ 
+8 Véanse, por ejemplo, Rodrik (1997) y Stiglitz (2003).
+16
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Repensar, reimaginar, transformar: los “qué” y los “cómo” para avanzar hacia un modelo de desarrollo…
+relocalización en países geográficamente cercanos (nearshoring) o aliados (friendshoring), lo que refuerza 
+la tendencia a la regionalización9.
+Esta rivalidad geopolítica ha afectado marcadamente el sistema multilateral de comercio establecido 
+en la era de la hiperglobalización: un sistema basado en reglas generales y ampliamente aceptadas, 
+elevada fragmentación de la producción y localización de las cadenas globales de valor en búsqueda 
+de eficiencia productiva y ventajas comparativas, y en un ambiente de confianza en la interdependencia 
+económica. Todo esto cambió radicalmente. Hoy en día se desconfía de la interdependencia, el 
+término “seguridad”, que en el período de la posguerra había estado asociado principalmente con los 
+temas militares, actualmente se aplica a la seguridad alimentaria, energética, cadenas de suministro 
+y a industrias estratégicas de alta tecnología. El sistema de comercio multilateral ha cambiado a una 
+suerte de “regionalismo proteccionista”, que se manifiesta en la reconfiguración y concentración de 
+las cadenas globales por motivos de rivalidad tecnológica y razones geopolíticas (CEPAL, 2022a). 
+Sin embargo, sería erróneo, o al menos insuficiente, caracterizar la transformación que viene 
+experimentando la globalización simplemente como una transición entre el “libre comercio” y el 
+“proteccionismo”, o entre “globalización” y “desglobalización”. Estas dimensiones no capturan lo 
+fundamental, que es que estamos viviendo una transición hacia una nueva era de reglas del juego para 
+el comercio y la inversión. Se trata de una transición entre un conjunto de reglas que privilegiaba criterios 
+de eficiencia a uno que incorpora las demandas de seguridad nacional, desarrollo de capacidades 
+productivas internas, creación de empleo, protección de la naturaleza y el planeta, resguardo ante los 
+riesgos de la revolución digital y la inteligencia artificial, y atención a los impactos sociales negativos de 
+la interdependencia y la inversión, entre otras. Como argumenta Rodrik (2024b), en vez de expresar 
+nostalgia por una era pasada que produjo resultados mixtos y, para comenzar, nunca fue sostenible, 
+los economistas pueden ayudar a diseñar un nuevo conjunto de reglas para la economía mundial que 
+ayuden a encontrar un reequilibrio. 
+Por supuesto que la preocupación por que ese nuevo conjunto de nuevas reglas lleve a un 
+grado excesivo de “desglobalización” o de “desacople” entre bloques económicos es válida, pero 
+este resultado no está definido de antemano ni ese tiene que ser necesariamente el escenario futuro. 
+El peor daño y escenario podría ocurrir si una competencia geopolítica de mano dura toma el control. 
+Pero hay algunos aspectos de una globalización comercial y financiera redefinida que serían positivos 
+desde el punto de vista de la naturaleza y el planeta, del sistema multilateral y de los espacios para un 
+desarrollo más productivo, inclusivo y sostenible.
+2. El reto para América Latina y el Caribe: contribuir 
+a redefinir la globalización y navegarla con éxito 
+El reto para América Latina y el Caribe es navegar con éxito este proceso de globalización redefinido 
+y comprenderlo para identificar sus riesgos y amenazas, aprovechar las oportunidades que ofrece, y 
+plantear en las negociaciones multilaterales posiciones regionales que influyan para evitar escenarios 
+desfavorables y fortalecer un sistema multilateral con reglas claras. 
+En términos de oportunidades, destaca la tendencia a la relocalización mundial de cadenas de 
+valor que genera áreas de posible atracción de inversión extranjera directa (IED) en una variedad de 
+sectores industriales y de servicios. También destacan las oportunidades relacionadas con la transición 
+energética en el mundo hacia las energías renovables y la electromovilidad, que están creando una 
+competencia mundial por el acceso a minerales y recursos críticos (como litio, cobre, níquel, manganeso, 
+cobalto, grafito) y su control, de los cuales la región tiene una significativa proporción de las reservas 
+9 Artecona y Velloso (2022); Khanna (2023); Salazar-Xirinachs (2022b).
+17
+Revista de la CEPAL N° 141 • diciembre de 2023
+José Manuel Salazar-Xirinachs
+mundiales. Además, se incluye la economía circular, la bioeconomía, la biodiversidad y el turismo 
+sostenible, áreas de gran competitividad en varios países de la región. 
+Los choques relacionados con el cambio climático (olas de calor, huracanes, inundaciones, 
+fenómenos como El Niño) requerirán significativas inversiones en adaptación para compensar sus 
+efectos económicos y sociales, incluso en la infraestructura y en la relocalización de población. 
+La CEPAL ha calculado que a 2050 estos choques climáticos podrían costar entre 9 y 12 puntos 
+del PIB a los países de la región, por lo que es necesario incorporar este tema en las prioridades de 
+inversión pública (CEPAL, 2023e). 
+Un área clave es la necesidad de realizar cambios en la arquitectura financiera internacional, que 
+permanece, en buena medida, igual a como fue diseñada después de la Segunda Guerra Mundial, 
+hace 70 años, y ya no responde a las necesidades de la gran mayoría de países en desarrollo. El 
+Secretario General de las Naciones Unidas ha hecho una propuesta integral de reforma que incluye 
+temas como cambios en la gobernanza de las instituciones de Bretton Woods; recapitalización de 
+los bancos multilaterales y regionales de desarrollo y fortalecimiento de su papel; mecanismos para la 
+renegociación de la deuda de los países de ingresos medios; recirculación de los derechos especiales 
+de giro (DEG) del Fondo Monetario Internacional (FMI); nuevas metodologías para el análisis de la 
+sostenibilidad de la deuda; sistemas innovadores de financiamiento para la mitigación y adaptación 
+al cambio climático; cambios en los sistemas tributarios mundiales, entre otros. En todas estas áreas, la 
+consulta y colaboración entre los países de la región redundaría en un aumento de su incidencia en 
+foros internacionales y podría rendir importantes beneficios en términos de mejora en el financiamiento 
+del desarrollo en la región (Naciones Unidas, 2023; Ocampo, 2023 y CEPAL, 2023c).
+Para enfrentar exitosamente estos y otros ajustes, América Latina y el Caribe debe repensarse 
+estratégicamente, no solo en términos de países individuales, sino también de coordinación de sus 
+liderazgos para articular posiciones como grupo en los foros mundiales donde se examinan y toman 
+decisiones sobre los grandes retos del planeta y de la economía mundial, para así forjar su propio 
+futuro, enfrentar con ventaja los efectos de coyunturas críticas, choques externos y megatendencias 
+mundiales, y aprovechar las oportunidades que surgen.
+La tarea no es solo de los gobiernos; también es fundamental la participación del sector privado 
+y la sociedad civil, con el apoyo del sector académico y la comunidad internacional cooperante para 
+que, juntos, influyan en las decisiones y políticas de Estado. 
+Para evitar que en el nuevo ambiente geopolítico la globalización sea una víctima más, y que las 
+tensiones den lugar a altos costos económicos o incluso a conflictos abiertos, la cooperación internacional, 
+el multilateralismo y la Agenda 2030 para el Desarrollo Sostenible son fundamentales. Muchos de los 
+retos son regionales o mundiales, no pueden ser resueltos unilateralmente por ningún país. Tener una 
+visión y agenda común en materia de desarrollo es una forma de crear confianza y estimular y canalizar 
+la colaboración hacia fines positivos, en lugar de hacia la polarización y el conflicto. Desde este punto 
+de vista, la Cumbre sobre los Objetivos de Desarrollo Sostenible de 2023 y la Cumbre del Futuro, en 
+preparación en 2024, son oportunidades únicas e insustituibles de construir una globalización redefinida 
+y un mejor futuro para las generaciones actuales y futuras.
+18
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Repensar, reimaginar, transformar: los “qué” y los “cómo” para avanzar hacia un modelo de desarrollo…
+IV. La crisis del desarrollo regional: 
+decálogo de brechas y desafíos 
+Desde el punto de vista de los retos del desarrollo, y con una mirada de mediano y largo plazo, se 
+puede argumentar que la región se encuentra en una verdadera crisis del desarrollo, que se expresa 
+en tres trampas o síndromes principales:
+i) Una trampa de bajo crecimiento. De 2014 a 2023 la región creció solo un 0,8% en promedio, 
+esto es menos de la mitad del 2% que creció en la década perdida de los años ochenta, 
+con lo cual la región acaba de completar una segunda década perdida, con un crecimiento 
+del PIB per cápita de solo un 0,1% anual. Para evitar una tercera década perdida, la CEPAL 
+recomienda a los países intensificar en forma urgente los esfuerzos en materia de crecimiento 
+y, en particular, en materia de políticas de desarrollo productivo, porque lo que los países 
+requieren es, nada menos, que una gran transformación productiva.
+ii) Una trampa de alta desigualdad. Esta se ha visto agravada por seis aspectos fundamentales: 
+el bajo crecimiento y la heterogeneidad estructural; las deficiencias en la educación y la 
+formación profesional; las desigualdades de género; el bajo dinamismo en la creación de 
+empleo; la regresividad de los sistemas tributarios, y las importantes debilidades de las 
+políticas sociales. Al respecto, la CEPAL recomienda a los países que tengan una visión 
+integral de estas causas de la desigualdad y de la baja movilidad e inclusión sociales, y que 
+actúen de manera integral sobre todas ellas.
+iii) Una trampa de baja capacidad institucional y de gobernanza poco efectiva. Al respecto, 
+la CEPAL ha insistido en que no basta con diagnosticar y señalar qué hacer para enfrentar 
+en toda su magnitud los retos del desarrollo que caracterizan a los países 10, sino que 
+hay que poner especial atención en cómo hacerlo, por lo que la Comisión trabaja de 
+manera más intensa y sistemática en cómo mejorar la gobernanza de las políticas públicas 
+y en cómo mejorar las capacidades técnicas, operativas, políticas y prospectivas de las 
+instituciones, así como en los temas del diálogo social, la economía política de las reformas 
+y el financiamiento.
+En síntesis, el gran reto de los países de la región en materia de desarrollo es cómo, a partir del 
+momento presente, avanzar para construir un futuro más productivo, inclusivo y sostenible, y cómo 
+hacerlo en las nuevas condiciones de la geoeconomía y la geopolítica mundiales.
+En un esfuerzo por sintetizar y dejar claro el diagnóstico de la situación de los países de la región, 
+en la presentación que realicé en el trigésimo noveno período de sesiones de la CEPAL, en octubre 
+de 2022, propuse un decálogo de brechas o desafíos estructurales en los modelos de desarrollo de 
+la región que se presentan en el diagrama 1. 
+Las áreas de este decálogo de brechas estructurales no son independientes unas de otras, sino 
+que están interrelacionadas y, con frecuencia, se refuerzan mutuamente, creando círculos viciosos. Por 
+ejemplo, el síndrome de bajo crecimiento dificulta la reducción de la pobreza y la informalidad, así como 
+la creación de empleo de calidad, es decir que obstaculiza un crecimiento más inclusivo; la integración 
+económica, la diversificación y la sofisticación productivas limitadas impiden que un crecimiento más 
+elevado y sostenido; las brechas de protección social y las deficiencias en los sistemas educativos y de 
+formación profesional limitan la movilidad social y el aumento de la equidad en la distribución de los ingresos.
+A continuación, se comenta brevemente cada una de estas áreas y las respectivas brechas 
+que, a su vez, constituyen los temas principales de los artículos incluidos en esta edición especial de 
+Revista CEPAL. 
+10 Véase una síntesis de la literatura sobre el tema en Mazzuca y Munck (2020).
+19
+Revista de la CEPAL N° 141 • diciembre de 2023
+José Manuel Salazar-Xirinachs
+Diagrama 1 
+Diez brechas o desafíos estructurales en los modelos de desarrollo
+Crecimiento económico bajo, volátil,
+excluyente y no sostenible, con baja
+creación de empleo formal
+Elevada desigualdad y baja
+movilidad y cohesión sociales
+Importantes brechas
+en la protección social  
+Sistemas educativos y de
+formación profesional débile s
+Desarrollo ambientalmente
+no sostenible y cambio climátic o
+Becha digital 
+Flujos migratorios
+intrarregionales crecientes
+en cantidad y diversidad
+Insuﬁciente integración
+económica regional 
+Alta desigualdad de género
+Espacios ﬁscales limitados y
+altos costos del ﬁnanciamiento
+Gobernanza compleja y bajas
+capacidades  institucionale s
+Fuente: Elaboración propia, sobre la base de J. M. Salazar-Xirinachs, “Hacia la transformación del modelo de desarrollo en 
+América Latina y el Caribe: producción, inclusión y sostenibilidad”, presentación realizada en el trigésimo noveno 
+período de sesiones de la Comisión Económica para América Latina y el Caribe (CEPAL), 2022 [en línea] https://
+periododesesiones.cepal.org/39/sites/pses39/files/presentations/ppt_se_espanol_-_periodo_de_sesiones_cepal.pdf.
+1. Crecimiento económico bajo, volátil, 
+excluyente y no sostenible
+Como se indicó, la región padece de un problema crónico de bajo crecimiento. Este bajo crecimiento 
+no es un tema solo de la última década, es una tendencia de largo plazo: el crecimiento del producto 
+potencial de la región bajó del 5,5% en los casi 30 años que van de 1951 a 1979, al 2,7% en los 
+siguientes 30 años (1980 a 2009), y a solo el 1,6% desde 2010 hasta el presente (CEPAL, 2023a). Esto 
+explica que el nivel del PIB per cápita promedio de la región en 2023 fuera igual al de 2013. 
+Las características y causas de esta trampa de bajo crecimiento se examinan en el artículo “Hacia 
+la transformación de la estrategia de crecimiento y desarrollo de América Latina y el Caribe: el papel 
+de las políticas de desarrollo productivo” mencionado, donde se plantean seis lineamientos concretos 
+sobre qué hacer y cómo hacerlo para salir de dicha trampa: 
+i) Aumentar el grado de ambición y mejorar la implementación de las políticas de desarrollo 
+productivo de nueva generación.
+ii) Apostar por sectores y actividades específicos.
+iii) Lograr un mejor equilibrio entre el enfoque centralizado ( top-down) y el descentralizado  
+(bottom-up), trabajando con los actores de los territorios.
+iv) Utilizar iniciativas clúster y otras iniciativas de articulación productiva territorial como una 
+forma concreta y efectiva de organizar los procesos de gestión y colaboración para el 
+desarrollo productivo.
+v) Mejorar la gobernanza de las políticas de desarrollo productivo en línea con el enfoque de 
+gobernanza experimentalista.
+vi) Realizar evaluaciones continuas, con el fin de poder corregir el rumbo de las políticas justo 
+a tiempo bajo las condiciones cambiantes de incertidumbre estratégica. 
+20
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Repensar, reimaginar, transformar: los “qué” y los “cómo” para avanzar hacia un modelo de desarrollo…
+Con respecto a apostar por sectores y actividades específicos, la CEPAL ha planteado una lista 
+de sectores dinamizadores con importantes efectos no solo impulsores del crecimiento sino también 
+transformadores del modelo de desarrollo hacia uno más productivo, inclusivo y sostenible. 
+En el artículo mencionado se explica que no se trata de crecer por crecer, sino de crecer con 
+una amplia base social, creando empleo y siendo respetuoso con la naturaleza y el planeta, es decir, 
+crecer de manera inclusiva y sostenible. Se argumenta que, si los países hacen las transformaciones 
+necesarias en sus modelos de desarrollo en la medida suficiente en los sectores dinamizadores, las 
+inversiones que esas transformaciones requieren elevarán la tasa de crecimiento, porque no hay cambios 
+transformacionales significativos en una economía estancada o con tasas de crecimiento de menos 
+del 1% a lo largo de una década o más.
+2. Elevada desigualdad y baja movilidad y cohesión social
+Como es bien sabido, y se analiza además ampliamente en el artículo “El desafío de la desigualdad 
+de ingresos en América Latina”, de Verónica Amarante, Nora Lustig y Andrea Vigorito, incluido en esta 
+edición especial, América Latina y el Caribe es la región más desigual del mundo. La desigualdad es 
+algo que no solo va en contra de conceptos básicos de justicia social, sino que es ineficiente para el 
+crecimiento, es corrosiva para la cohesión social y para la estabilidad de los pactos sociales. Si bien 
+hay numerosos factores que explican la desigualdad en los países de la región, pueden simplificarse y 
+reducirse a seis principales.
+El primer factor es que la desigualdad está arraigada y refleja las diferencias sectoriales en 
+materia de productividad (heterogeneidad estructural) de los sistemas productivos de la región, es 
+decir las diferencias entre unos pocos sectores de muy alta productividad y una mayoría de sectores 
+de baja o muy baja productividad. Los empresarios y trabajadores en los sectores de alta productividad 
+reciben ingresos y salarios mucho mayores que los empresarios y trabajadores en los sectores en los 
+que la productividad es baja y donde la mayor parte del empleo se concentra en trabajos informales 
+y de mala calidad. Este modelo de desarrollo productivo con bajas tasas de crecimiento y marcado 
+dualismo productivo mantiene una baja capacidad de creación de empleos de alta calidad y margina 
+y excluye a determinados grupos, reforzando así la tendencia hacia una mayor desigualdad. Esto 
+apunta a que parte de la solución son políticas de desarrollo productivo que dinamicen el crecimiento 
+y reduzcan esas grandes diferencias de productividad entre sectores, que reduzcan el dualismo 
+productivo y estimulen un cambio estructural de la producción y el empleo hacia sectores y empresas 
+de mayor productividad.
+El segundo es que las diferencias de productividad también están asociadas con los tamaños de 
+las empresas: en la región predomina el autoempleo y las micro y pequeñas empresas, que emplean 
+a la gran mayoría de la población con muy baja productividad. La proporción del empleo en empresas 
+grandes y medianas es relativamente baja. 
+El tercero es que los efectos de esta desigualdad estructural arraigada en lo productivo sobre 
+la distribución del ingreso pueden reducirse y parcialmente compensarse a través de políticas fiscales, 
+sociales y de protección social. Por el lado del gasto, mediante políticas sociales que transfieran 
+recursos significativos a los sectores más pobres y de protección social, que ofrezcan un nivel mínimo 
+de bienestar a toda la ciudadanía; por el lado de los ingresos, mediante reformas tributarias que avancen 
+hacia estructuras tributarias progresivas, es decir, estructuras tributarias en las que los sectores de 
+mayor ingreso paguen una justa proporción de los mismos en impuestos. En la región, ninguno de 
+estos factores funciona de manera positiva, como sí ocurre en los países desarrollados. En la región, las 
+políticas sociales tienen serias brechas de cobertura y de suficiencia en los montos de las transferencias. 
+Las estructuras tributarias son regresivas, es decir que los estratos más pobres y las clases medias 
+21
+Revista de la CEPAL N° 141 • diciembre de 2023
+José Manuel Salazar-Xirinachs
+pagan una mayoría de los ingresos fiscales, mientras que los estratos más ricos pueden evadir gran 
+parte de los impuestos y, además, se benefician de grandes rentas. 
+El cuarto factor es el papel de la educación y su relación con la tecnología y el mercado de trabajo. 
+Un sistema educativo de amplia cobertura y alta calidad puede ser un gran mecanismo de movilidad 
+social entre generaciones y, por lo tanto, contribuir a reducir la desigualdad. Si los hijos de familias 
+pobres se educan, pueden conseguir buenos empleos y llegar a tener ingresos mucho mayores que 
+los de sus padres. Esta movilidad social ascendente puede ser un poderoso mecanismo de reducción 
+de la desigualdad. Sin embargo, en muchos países de la región, los sistemas educativos públicos no 
+se han desarrollado lo suficiente y, en casi todos ellos, en general se han deteriorado. Las tasas de 
+abandono en la educación secundaria son extremadamente elevadas e incluso quienes completan este 
+ciclo obtienen muy malos resultados en las pruebas del Programa para la Evaluación Internacional de 
+Alumnos (PISA) de la Organización de Cooperación y Desarrollo Económicos (OCDE), que miden las 
+habilidades en las áreas de lectura, matemáticas y ciencias. 
+Además, los sistemas educativos se han segmentado entre sistemas públicos y privados, con 
+sistemas privados de mayor calidad, lo que agudiza y reproduce la desigualdad. A esto hay que agregar 
+que, con la revolución tecnológica y la digitalización, la tendencia es a un aumento de la demanda de 
+habilidades y competencias digitales elevadas, en empleos de mejor calidad y mayores salarios, mientras 
+que el trabajo manual y rutinario está siendo sustituido cada vez más por la automatización, lo que 
+ha definido una tendencia a la polarización de los ingresos en los mercados laborales. Esto aumenta 
+aún más la importancia y responsabilidad de los sistemas educativos y de formación profesional para 
+preparar a la fuerza de trabajo para los empleos del siglo XXI. 
+Es clave señalar que estas deficiencias y tendencias no solo influyen en los niveles de pobreza, 
+sino también en la clase media, que recibe el principal impacto social y desigualador del deterioro 
+educativo combinado con la revolución tecnológica. Desafortunadamente, la mayoría de los sistemas 
+educativos y de formación profesional de los países de la región no están a la altura de estos retos. Las 
+transferencias sociales y el Estado de bienestar pueden ayudar a reducir desigualdad, pero tanto o más 
+importante es la generación de buenos empleos y soluciones para dinamizar los mercados de trabajo.
+El quinto factor es la marcada desigualdad de género, que en sí misma constituye una dimensión 
+central de la elevada desigualdad existente en la región. Esta desigualdad se analiza más adelante en 
+el presente artículo. 
+El sexto factor son los aspectos políticos, sociológicos e históricos relacionados con las 
+discriminaciones y violaciones de los derechos humanos que sufren ciertas etnias y grupos de población, 
+como las poblaciones indígenas y los afrodescendientes, que no tienen igualdad de oportunidades 
+respecto de otros grupos de la población, ni en el sistema educativo, ni en el mercado laboral, lo que 
+se suma a sus desventajas históricas en el acceso al capital. El enfoque de derechos humanos es un 
+poderosa dimensión transversal en los diagnósticos sobre desigualdad y en la formulación de políticas 
+para una mayor igualdad de oportunidades. 
+Podrían señalarse otros factores, pero los seis mencionados explican la mayor parte de las 
+desigualdades existentes en la región y, a la vez, echan luz sobre las áreas en las que hay que incidir 
+para reducirla.
+3. Brechas de protección social
+La región sigue caracterizándose por sus altos niveles de pobreza: el 29% de la población, es decir 
+181 millones de personas, se encontraban bajo la línea de pobreza en 2022, y un 11,2%, de la población, 
+es decir 70 millones de personas, se encontraban en situación de pobreza extrema el mismo año. Sin 
+22
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Repensar, reimaginar, transformar: los “qué” y los “cómo” para avanzar hacia un modelo de desarrollo…
+embargo, como se explica en el artículo “Protección social universal, integral, sostenible y resiliente 
+para erradicar la pobreza, reducir la desigualdad y avanzar hacia un desarrollo social inclusivo”, de 
+Alberto Arenas de Mesa, incluido en esta edición especial, ciertos grupos sufren más esas condiciones: 
+la incidencia de la pobreza es un 16% mayor entre las mujeres en edad activa que entre los hombres 
+de la misma edad; es mayor en las áreas rurales (44,1%) que en las urbanas (21,2%), entre la población 
+indígena (46,3%) y afrodescendiente (30%), y entre las niñas, niños y adolescentes (de 0 a 17 años) (45,5%). 
+Además, está altamente asociada con el nivel educativo, ya que la pobreza entre las personas con 
+educación primaria incompleta es del 46,8%, entre las personas con secundaria completa es 31,8% y 
+entre aquellas con educación terciaria completa es de solo un 9%. Asimismo, las personas con alguna 
+discapacidad, estimadas en unos 70 millones en toda la región, sufren desigualdades en el ejercicio 
+de sus derechos y elevados niveles de exclusión, incluso en el mercado de trabajo, que están lejos de 
+ser compensados por los sistemas de protección social. 
+Además de la situación de pobreza, los niveles de vulnerabilidad por estrato social son muy 
+diversos: en 2019, el 52,1% de las personas de la región residía en hogares de ingresos bajos (menos 
+de 1,8 líneas de pobreza por persona). Si a este estrato se le suman los hogares de ingreso medio 
+bajo (22%), el resultado es que un 74,1% de los habitantes de la región, o sea tres de cada cuatro 
+personas, viven en hogares vulnerables. Los niveles de acceso a educación también son muy dispares 
+como se verá más adelante.
+En cuanto a las pensiones, en 2021 solo el 45,7% de la población económicamente activa 
+(PEA) cotizaba a un sistema de pensiones, lo que refleja la alta incidencia de la informalidad laboral y 
+la debilidad de los mecanismos de fiscalización de la evasión y elusión previsionales. 
+Los datos muestran que la región ha avanzado en el aumento de la cobertura de los sistemas 
+de protección social, tanto contributiva como no contributiva. En el caso de los mecanismos no 
+contributivos, los programas de transferencias condicionadas aumentaron significativamente durante 
+la década de 1990 y hasta 2010, hasta llegar a una cobertura del 22,9%. En 2000, solo 11 de los 
+33 países de la región contaban con un sistema de pensiones no contributivo; en 2021, 28 de ellos lo 
+tenían, lo que hizo que la cobertura de los sistemas de pensiones no contributivos entre la población 
+de 65 años y más aumentara del 3,4% en 2000 al 26,6% en 2021.
+En cuanto a los sistemas de salud, también ha habido avances, pero persisten grandes 
+brechas que quedaron de manifiesto durante la pandemia de COVID-19. Los sistemas de salud están 
+subfinanciados, segmentados y fragmentados, con largas listas de espera en el caso de los sistemas 
+públicos, y problemas en la organización de los servicios. Esto hace que, entre otras cosas, la esperanza 
+de vida al nacer en los países de la región vaya de 65 años y más a 80 años, dependiendo del país. 
+Claramente queda mucho por hacer en los países de la región para desarrollar sistemas de 
+protección social universales, integrales, sostenibles y resilientes, lo cual es fundamental para construir 
+Estados de bienestar que cierren las brechas de protección social y fortalezcan la cohesión social, 
+es decir, que erradiquen la pobreza, reduzcan la desigualdad y logren un desarrollo y un crecimiento 
+económico más inclusivo. Esto es particularmente importante ante las nuevas tendencias —como la 
+transición demográfica, la transformación digital, los rápidos cambios que condicionan los mercados 
+de trabajo, los impactos del cambio climático y la mayor frecuencia de los desastres naturales— que 
+crean mayores demandas de protección social y contra la desigualdad y la exclusión. 
+Las dificultades están asociadas con múltiples factores: el espacio fiscal para financiar y dar 
+sostenibilidad a los sistemas de protección social, la arquitectura de financiamiento de algunos de 
+los programas, y los déficit y debilidades en materia de institucionalidad social, las debilidades en los 
+sistemas de información y otras. Además, hay debates conceptuales y sobre los costos comparativos 
+de aumentar los programas de transferencias condicionadas, aumentar los programas de ingresos de 
+emergencia, desarrollar mecanismos de ingresos mínimos garantizados o un ingreso básico universal. 
+23
+Revista de la CEPAL N° 141 • diciembre de 2023
+José Manuel Salazar-Xirinachs
+4. Sistemas educativos y de formación profesional débiles
+La educación es un derecho humano y un elemento central para avanzar en la reducción de las 
+demás brechas mencionadas en esta sección en los modelos de desarrollo de la región: el rezago de 
+la productividad y la insuficiencia dinámica del crecimiento económico; la exclusión, la desigualdad y 
+la escasa movilidad social; la ausencia de un mercado de trabajo dinámico que funcione como imán 
+para la inversión; el escaso avance hacia una mayor igualdad de género y la sociedad del cuidado; los 
+desafíos de un gran impulso ambiental que exige altas calificaciones en la fuerza de trabajo; las brechas 
+digitales y en el impulso a la transformación digital, entre otras. Es decir, la educación es un elemento 
+transversal y absolutamente central para la transformación de los modelos de desarrollo de la región. 
+En el artículo “Mejorar la educación es crucial para un desarrollo social y económico inclusivo 
+y sostenible”, de Daniela Trucco, incluido en esta edición especial, se señala que los países de 
+América Latina y el Caribe han realizado importantes avances en términos de acceso, progresión y 
+conclusión en la educación. En el nivel de educación primaria, en 2020 los países alcanzaban niveles 
+cercanos a la universalidad en la educación primaria (93,3%), sin embargo, en la educación secundaria 
+los avances son menores y dispares, con tasas de conclusión del 79,1% en secundaria baja, pero de 
+solo del 63,7% en secundaria alta. 
+Además, en años recientes la velocidad de los avances ha venido disminuyendo y sufrieron serios 
+reveses por el apagón educativo asociado con la pandemia de COVID-19. Hay fuertes desigualdades 
+en la finalización de estudios, sobre todo en secundaria, entre el quintil más bajo de ingresos y el 
+más alto. En 2021, la tasa de conclusión de los estudiantes en el quintil más alto de ingresos en la 
+educación secundaria alta fue del 90,5%, pero en el quintil más bajo fue de solo el 55,7%. Esta es una 
+brecha muy significativa que reproduce desigualdades sociales, a pesar de ser una importante mejora 
+con respecto a la situación en 2000. Esta y otras desigualdades se relacionan con el género, el área 
+geográfica de residencia, el origen étnico y racial y el estatus migratorio. 
+En materia de educación preprimaria, a pesar de los avances, en 2021 más de la mitad de 
+los niños y niñas no accedía a este nivel educativo hasta los 5 años de edad, una etapa crítica en la 
+formación de las llamadas habilidades blandas y socioemocionales. En el caso de los jóvenes que sí 
+asisten a la educación secundaria, los resultados del aprendizaje en distintas pruebas estandarizadas 
+eran muy deficientes aún antes de la pandemia. Los datos muestran que el nivel socioeconómico de 
+las escuelas y colegios es el factor con mayor impacto en los logros de aprendizaje. Esto revela el 
+impacto en los resultados del aprendizaje de la elevada segregación social en materia educativa y, por 
+lo tanto, en las trayectorias de empleo. 
+No hay duda de que los sistemas educativos necesitan una transformación profunda, no solo 
+para asegurar su sostenibilidad financiera, sino para asegurar buenos resultados en el aprendizaje. 
+Lo mismo puede afirmarse de la formación profesional o formación para el trabajo. Los programas 
+educativos cortos cumplen un papel fundamental en la generación del talento humano, en línea con las 
+necesidades de los mercados de trabajo y los sectores productivos. La educación técnica y profesional 
+es parte de la oferta formativa en el nivel secundario y superior en la región, y también hay instituciones 
+especializadas en este segmento. Sin embargo, en muchos casos la coordinación con las necesidades 
+de los sectores productivos es deficiente, la escala está por debajo de las necesidades, y hace falta 
+flexibilidad para facilitar el tránsito de los estudiantes entre los sistemas formales de educación y los 
+sistemas la formación técnica y profesional 11. La iniciativas clúster son un mecanismo muy eficiente 
+para avanzar en esta alineación, pero muy subutilizado. También hay deficiencias en los sistemas de 
+certificación de competencias. 
+11 Véanse también Salazar-Xirinachs y Vargas-Zúñiga (2017); Busso y otros (2012). 
+24
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Repensar, reimaginar, transformar: los “qué” y los “cómo” para avanzar hacia un modelo de desarrollo…
+5. Elevada desigualdad de género
+La desigualdad de género en los países de la región continúa siendo inaceptablemente elevada. Este es 
+un tema no solo de derechos humanos: es un imperativo moral y es económicamente ineficiente. Esta 
+desigualdad tiene múltiples orígenes, como la cultura machista o patriarcal que limita las posibilidades 
+de las mujeres de ingresar en el mercado laboral, que genera estereotipos de las mujeres en ciertas 
+ocupaciones y que lleva a las mujeres a asumir la mayoría del trabajo de cuidado de niños y adultos 
+mayores en forma no remunerada, lo que se ve influido por la falta de redes de cuidado que permitan 
+a las mujeres trabajar remuneradamente. Estos factores explican que la brecha de participación 
+laboral entre mujeres y hombres sea de 25 puntos porcentuales, a pesar de que en los últimos años la 
+tendencia ha mejorado. Además, el envejecimiento de la población aumenta la demanda de cuidados 
+de personas mayores al punto de que, en los próximos años, dependiendo del país, superará a la 
+demanda de cuidados de niños y niñas.
+La desigualdad entre hombres y mujeres está profundamente arraigada en la cultura, la normativa 
+y la organización de la actividad económica en la región, y sus efectos perniciosos no se limitan a 
+la violencia y la injusticia individuales, sino que constituyen un freno firme contra las posibilidades de 
+crecimiento económico, cohesión social y convivencia democrática plena. Quizás en pocos campos 
+como en este quede tan de manifiesto el acierto de la tesis de que “la desigualdad es ineficiente”. 
+Además, se trata de una forma de desigualdad que no puede aliviarse recurriendo únicamente 
+a una normativa que prohíba la discriminación, penalice la violencia o asegure la participación paritaria 
+de hombres y mujeres en los diversos ámbitos de la vida política, económica y social; es necesaria, 
+además, la provisión de servicios públicos específicos, particularmente en relación con la inclusión 
+laboral de las mujeres, y en lo referente a la salud, incluida la salud reproductiva, y la organización social 
+del cuidado de niños, niñas y adultos mayores. 
+El artículo sobre “Igualdad de género y sociedad del cuidado”, de Ana Güezmes García, 
+Nicole Bidegain Ponte y María Lucía Scuro, incluido en esta edición especial, profundiza en las diferentes 
+dimensiones de las brechas de género en la región, describe el amplio trabajo intergubernamental 
+que se ha hecho en esta materia y la agenda regional de género que se ha desarrollado, y explica la 
+propuesta de la CEPAL para avanzar hacia la sociedad del cuidado y sus implicaciones para las políticas 
+públicas, incluido el financiamiento. 
+Específicamente, se explican cuatro nudos estructurales de la desigualdad de género: i) la 
+desigualdad socioeconómica y la persistencia de la pobreza; ii) los patrones culturales patriarcales 
+discriminatorios y violentos, iii) la división sexual del trabajo y la injusta organización social del cuidado 
+y iv) la concentración del poder y las relaciones de jerarquía en el ámbito público, y se abordan diversos 
+ámbitos de política para superar estos nudos y avanzar hacia la sociedad del cuidado, concepto que 
+supone un cambio de paradigma para diagnosticar y definir estrategias y políticas integrales que marquen 
+un norte con un claro cambio de rumbo en materia de igualdad de género y de cuidados. Esta es otra 
+de las dimensiones en las que los modelos de desarrollo de la región requieren una gran transformación.
+6. Desarrollo ambientalmente  
+no sostenible y cambio climático
+En esta, como en otras áreas, América Latina y el Caribe es una región de contrastes, como se analiza 
+en el artículo “Medio ambiente y desarrollo sostenible: desafíos contemporáneos para la CEPAL y 
+América Latina y el Caribe”, de Carlos de Miguel y Jeannette Sánchez, incluido en esta edición especial. 
+Por una parte, es una región con gran riqueza de recursos naturales renovables y no renovables, 
+con una rica biodiversidad, con seis países megabiodiversos, y es donde se encuentra el pulmón del 
+25
+Revista de la CEPAL N° 141 • diciembre de 2023
+José Manuel Salazar-Xirinachs
+planeta: la Amazonía. Cuenta, además, con un tercio del agua dulce del mundo y un 15% de la tierra 
+agrícola, la matriz eléctrica más limpia del planeta y con cuantiosas reservas mundiales de minerales 
+estratégicos para la transición energética y la electromovilidad. Todo esto ofrece importantes oportunidades 
+para que la región impulse su propio desarrollo sostenible y contribuya a la descarbonización, no solo 
+propia, sino también del resto del mundo.
+Por otra parte, la región ha venido perdiendo área boscosa a un ritmo acelerado debido a la 
+deforestación (lo que reduce su población de especies), ha perdido al menos un 30% del área de 
+glaciares en los Andes desde 1980, y ha sufrido la erosión del suelo y las tendencias negativas en 
+materia de uso del suelo y biodiversidad. Los niveles de contaminación del aire, agua y océanos por 
+plástico y otros residuos son elevados. Los sistemas productivos están apenas iniciando el largo 
+camino hacia la economía circular. Con más del 80% de la población viviendo en zonas urbanas, los 
+residuos urbanos han venido creciendo significativamente sin que se cuente con métodos modernos 
+de tratamiento, disposición y reciclado. 
+En paralelo, los crecientes efectos del cambio climático y la alta vulnerabilidad ante eventos 
+extremos (huracanes, olas de calor, sequías, inundaciones, entre otros) son una pesada carga para 
+el desarrollo económico, que demanda mayores inversiones en adaptación al cambio climático, 
+incrementa las restricciones fiscales y limita aún más la disponibilidad de recursos para las políticas 
+sociales y otras prioridades. 
+La combinación de bajo crecimiento económico y escasa creación de empleo de calidad, 
+con degradación ambiental y choques climáticos, exacerba la conflictividad socioambiental, en un 
+contexto en el que los recursos de uso múltiple, como el agua, se tornan críticos. Esta convergencia de 
+demandas insatisfechas en lo económico, lo social y lo ambiental se suma a la erosión de la confianza 
+de la población en las instituciones y da gran centralidad a las discusiones sobre cómo lograr una 
+transición justa y responsable. 
+El reto es aprovechar las oportunidades de desarrollo productivo y competitividad en sectores 
+esenciales para la transición carbónica mundial sin dejar de aprovechar las ventajas comparativas 
+tradicionales (en la minería y la industria agroalimentaria, por ejemplo), pero haciéndolo responsablemente, 
+obteniendo un reparto justo de los costos y beneficios y asumiendo conjuntamente los costos de evitar 
+la degradación ambiental.
+De esta manera, la dimensión ambiental es una parte consustancial de la nueva estrategia 
+de crecimiento propuesta, que plantea ampliar el alcance de las políticas de desarrollo productivo 
+enfocándose en una serie de sectores dinamizadores, varios de ellos directamente relacionados con 
+el crecimiento verde, como la transición energética, la electromovilidad, la bioeconomía, la economía 
+circular, la seguridad alimentaria y el turismo sostenible. En esa línea, la CEPAL ha ofrecido alternativas 
+para el desarrollo en el marco de lo que ha denominado “gran impulso ambiental para la sostenibilidad”. 
+La región ha demostrado su compromiso con el medio ambiente a través de sus contribuciones 
+determinadas a nivel nacional, los compromisos con la neutralidad en carbono, la preocupación por 
+la biodiversidad y la deforestación, la protección de los océanos y la lucha contra la contaminación 
+por plásticos, por mencionar algunos ejemplos. Cabe subrayar que es importante ver todos estos 
+esfuerzos, no como elementos aislados o circunscritos al tema ambiental, sino como elementos 
+centrales de la estrategia de crecimiento y desarrollo productivo, y los respectivos esfuerzos de 
+inversión, financiamiento e innovación.
+26
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Repensar, reimaginar, transformar: los “qué” y los “cómo” para avanzar hacia un modelo de desarrollo…
+7. Brecha digital
+Las brechas de acceso y uso de las tecnologías digitales son significativas en los países de la región. Y 
+esto es un reto para el desarrollo porque el futuro es digital, y cuanto más tarden los países en aumentar 
+no solo el acceso sino el uso inteligente y masivo de las oportunidades de la nueva economía digital, 
+más retrasarán el aprovechamiento de sus beneficios (Salazar-Xirinachs, 2021). 
+En cuanto al acceso, en 2022 la penetración de Internet en la región superó el 80%, lo que 
+representa un aumento de aproximadamente 20 puntos porcentuales con respecto a 2016. Este 
+crecimiento fue el resultado de varios factores: la expansión de la cobertura de Internet de banda 
+ancha, impulsada por el despliegue de redes 4G y 5G, la disminución de los costos de acceso gracias 
+al desarrollo de los mercados de telecomunicaciones y la creciente adopción de dispositivos móviles, 
+entre otros. Sin embargo, la penetración de Internet en hogares en las áreas urbanas es del 80,1%, 
+mientras que en las áreas rurales es del 44,4%, en los hogares de los quintiles de ingresos más altos 
+es del 84,7%, mientras que en los de ingresos más bajos es del 50,3%12.
+Parte de la explicación de estas desigualdades de acceso es que la región mantiene una 
+importante brecha de inversión en infraestructura de telecomunicaciones con respecto a regiones 
+como Europa o países como los Estados Unidos, que invierten aproximadamente el doble en términos 
+del PIB. Además, existen problemas relacionados con el entorno regulatorio y de incentivos para el 
+despliegue de infraestructura en zonas de baja rentabilidad.
+Otros factores se relacionan con las brechas de demanda. Sobresale la falta de competencias 
+digitales en varios sectores de la población, así como la incapacidad de pagar los costos de los equipos 
+y el servicio de Internet, aun cuando la infraestructura esté disponible. Estos elementos plantean la 
+necesidad de políticas que atiendan estas deficiencias de manera proactiva. En ese sentido, la CEPAL 
+ha propuesto la implementación de una “canasta digital” que financie el acceso de dispositivos básicos 
+y servicios digitales para las personas y familias en situación de pobreza (CEPAL, 2020). 
+Una dimensión central de la brecha digital en la región es la relacionada con el desarrollo 
+productivo. Destaca la baja adopción de tecnologías digitales, incluso las más básicas, por parte de 
+las empresas. Por ejemplo, más del 60% de las empresas de la región con presencia en Internet tienen 
+una presencia pasiva, es decir, ni siquiera la utilizan para realizar transacciones. La situación es peor 
+en el caso de las microempresas y pequeñas y medianas empresas (mipymes), donde se estima que 
+más del 70% ni siquiera tiene presencia en Internet. En una región en la que en numerosos países las 
+mipymes representan más del 95% del tejido empresarial y generan alrededor del 70% del empleo, 
+esta brecha afecta seriamente la productividad y la competitividad y llama a profundizar y aumentar 
+los esfuerzos de extensión de la tecnología digital.
+Si persisten brechas de adopción para las tecnologías maduras, estas son mucho mayores 
+cuando se trata de tecnologías digitales emergentes, como la inteligencia artificial. Por ejemplo, entre 
+2010 y 2021, la inversión privada agregada en IA de todos los países de América Latina no superó 
+el 1,7% del monto de la inversión de los Estados Unidos o el 5% de China, y solo el 2,7% de las 
+publicaciones científicas sobre IA perteneció a América Latina13.
+Los emprendimientos basados en tecnologías avanzadas son un motor fundamental del 
+desarrollo digital. En la última década, estos han aumentado significativamente en la región: de cada 
+diez empresas emergentes ( startups) casi nueve de ellas (86%) se basan en tecnologías digitales o 
+pertenecen al sector. En 2022 se contaba con 34 empresas unicornio (empresa emergente valorada 
+en más de 1.000 millones de dólares) en la región. Sin embargo, este número dista mucho todavía de 
+12 Véase Observatorio Regional de Banda Ancha (ORBA) de la CEPAL [en línea] https://www.cepal.org/es/observatorio-regional-
+de-banda-ancha. 
+13 Véase Observatorio de Desarrollo Digital [en línea] https://desarrollodigital.cepal.org/. 
+27
+Revista de la CEPAL N° 141 • diciembre de 2023
+José Manuel Salazar-Xirinachs
+los 633 y 180 en los Estados Unidos y Europa, respectivamente 14. Por tanto, existe todavía mucho 
+espacio para aumentar la inversión en el emprendimiento digital, y los gobiernos, las empresas y los 
+inversores deben trabajar en estrategias conjuntas a tal fin.
+La digitalización puede ser una herramienta poderosa para abordar problemas estructurales 
+de la región en diferentes dimensiones, como la educación, la salud, la seguridad, la justicia, el 
+fortalecimiento institucional, la transformación productiva, entre otros, solo si se la considera como un 
+elemento fundamental de las estrategias nacionales de desarrollo, se utiliza una adecuada gobernanza 
+y se adopta un enfoque sistémico que impida que se convierta en una nueva fuente de desigualdad. 
+Además, es esencial que las iniciativas nacionales se vean complementadas por agendas y esfuerzos 
+regionales en la materia.
+8. Flujos migratorios intrarregionales crecientes
+La migración internacional ha adquirido un lugar central en el debate político en América Latina y  
+el Caribe. Prácticamente todos los países de la región son parte de los ciclos migratorios, como países 
+de origen, destino, retorno o tránsito. Según estimaciones de las Naciones Unidas, en 2020, 43 millones  
+de personas de la región vivían fuera de sus países de nacimiento, lo que representa el 15%  de 
+la población mundial de migrantes (Naciones Unidas, 2020). Los Estados Unidos siguen siendo el 
+principal destino migratorio, aunque varios países de América del Sur han atraído a muchos migrantes. 
+Por ejemplo, la Plataforma Regional de Coordinación Interagencial para Refugiados y Migrantes de 
+Venezuela (R4V) estima que seis millones de venezolanos son migrantes y refugiados en la región y 
+viven principalmente en Colombia, el Perú, el Ecuador, Chile y Brasil. 
+Los movimientos migratorios en la región se explican tanto por factores de expulsión, como de 
+atracción. Los primeros incluyen la falta estructural de oportunidades de trabajo decente y las crisis 
+económicas, los desastres ambientales y los efectos del cambio climático, las crisis humanitarias y, 
+crecientemente, el aumento de la inseguridad y las violencias de todo tipo. Los segundos incluyen 
+mayores oportunidades de empleo, de estudio, mejores salarios y de reunificación familiar. 
+Si bien América Latina y el Caribe ha sido tradicionalmente tierra de migración, uno de los 
+rasgos destacados del panorama migratorio actual es su intensificación y complejización. La migración 
+internacional se caracteriza cada vez más por flujos irregulares e incluye migrantes económicos, migrantes 
+ambientales, migración forzada o involuntaria, solicitantes de asilo, refugiados, migrantes en situación 
+irregular, personas traficadas, víctimas de trata y migrantes varados, niños, niñas y adolescentes no 
+acompañados, entre otros. La principal característica de estos movimientos mixtos es la condición de 
+vulnerabilidad de muchas de las personas involucradas. 
+Las dificultades que enfrentan las personas migrantes en sus desplazamientos han alcanzado 
+ribetes inaceptables que interpelan las conciencias. El tránsito hacia los Estados Unidos se caracteriza 
+por la movilidad en caravanas y la migración de niños, niñas y adolescentes no acompañados en 
+Centroamérica y México, así como por el fuerte aumento del flujo de migrantes a través de la brecha 
+de Darién, una de las rutas de migración más peligrosas del mundo: se estima que en los primeros 
+nueve meses de 2023 alrededor de 400.000 personas utilizaron esta ruta. En América del Sur también 
+hay varias rutas, como el paso fronterizo de Colchane en el altiplano chileno-boliviano, cuyo cruce 
+supone pérdidas de vidas humanas.
+La migración es un asunto de desarrollo y de derechos, que exige repuestas basadas en una 
+mirada integral de desarrollo sostenible y la obligación de los Estados de proteger la dignidad humana 
+sin distinción alguna de género, edad, origen, etnia o condición migratoria. Como se señala en el 
+14 Ibid. 
+28
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Repensar, reimaginar, transformar: los “qué” y los “cómo” para avanzar hacia un modelo de desarrollo…
+artículo “Migración internacional en América Latina y el Caribe: una mirada de desarrollo y derechos”, 
+de Simone Cechini y Jorge Martínez Pizarro, incluido en esta edición especial, la CEPAL propone 
+una mirada enmarcada en una gobernanza migratoria profundamente humana, que permita a los 
+países tomar decisiones apropiadas sin afectar la dignidad de las personas migrantes y en la que se 
+reconozcan sus contribuciones al desarrollo sostenible. Se plantea una migración segura, ordenada 
+y regular, en línea con el Pacto Mundial para la Migración Segura, Ordenada y Regular. La migración 
+tiene estas características cuando ocurre de acuerdo con las leyes y reglamentos que rigen la salida, 
+entrada y el regreso a los países y la estancia en ellos, y de acuerdo con las obligaciones que emanan 
+del derecho internacional sobre el respeto, la protección y el cumplimiento de los derechos de las 
+personas migrantes, reconociendo y mitigando los riesgos asociados al movimiento de personas.
+Las contribuciones de las personas migrantes son muchas. En varios de los países con mayor 
+inmigración en la región, la población envejece, lo cual plantea la necesidad de incorporar población 
+en edad de trabajar, habida cuenta que se comienza a detectar escasez de mano de obra en algunos 
+sectores, como la agricultura, el cuidado o el sector de los servicios. Además, en estudios de la CEPAL 
+se indican los significativos aportes al crecimiento económico y a la diversidad cultural. En todos los 
+países, las remesas son un factor no menor en la composición del ingreso familiar de los hogares, y 
+contribuyen a aliviar situaciones de pobreza. 
+Sin embargo, resultan preocupantes las dificultades de acceso al trabajo decente, la protección 
+social, la salud, la educación, así como a la vivienda por parte de muchas personas migrantes, quienes 
+constituyen uno de los grupos poblacionales más vulnerables. Para permitir que las personas migrantes 
+accedan al empleo y a los servicios sociales, se deben facilitar los procesos de regularización. Asimismo, 
+hay que combatir la xenofobia y la discriminación hacia la población migrante.
+La CEPAL recomienda la cooperación y la corresponsabilidad entre los Estados, teniendo en 
+cuenta el ciclo migratorio completo. Asimismo, se recomienda a los Estados actualizar sus legislaciones 
+migratorias para que respondan adecuadamente a los nuevos desafíos. Más profundamente, se 
+recomienda avanzar en el cierre de las otras brechas y deficiencias en los modelos de desarrollo a las que 
+se hace referencia en esta sección y en los demás artículos incluido en esta edición especial de Revista 
+CEPAL, que con frecuencia son, precisamente, causa de los flujos migratorios en los países de origen.
+9. Insuficiente integración económica regional
+A pesar de la ilusión que por décadas han tenido los países de la región en cuanto a promover la 
+integración regional y el entusiasmo y la retórica sobre el tema, los resultados son más bien modestos. 
+El comercio intrarregional ha oscilado en torno al 15% del comercio total, y es más intenso entre los 
+países centroamericanos y entre estos y México, que entre los países de América del Sur. Por ejemplo, 
+las exportaciones a los demás socios del Mercado Común Centroamericano (MCCA) representan, en 
+promedio, una cuarta parte del total de las exportaciones de los países miembros, y el MCCA es para 
+ellos el tercer mercado de destino, luego de los Estados Unidos y Europa. 
+También es baja la participación de los países de la región en el total de flujos de inversión extranjera 
+directa que se reciben. Aunque el proyecto integracionista ha llevado a la creación de numerosas 
+instituciones regionales, los avances son modestos y heterogéneos. Estas caracterizaciones y otras 
+más, así como las razones por las que sigue siendo importante fortalecer la integración económica 
+sobre bases renovadas, y una serie de sugerencias pragmáticas sobre cómo hacerlo, se analizan en 
+el artículo “La permanente búsqueda de la integración en América Latina y el Caribe”, de Luz María de 
+la Mora, incluido en esta edición especial de Revista CEPAL.
+Como se señala en el artículo, la integración económica en la región se ha concebido desde dos 
+perspectivas muy diferentes: la comercial y económica, y otra más política e ideológica. Desafortunadamente, 
+29
+Revista de la CEPAL N° 141 • diciembre de 2023
+José Manuel Salazar-Xirinachs
+esta última con frecuencia ha dominado, lo que ha frenado o desviado el avance hacia la integración 
+económico-comercial. Avanzar hacia una verdadera integración requiere un enfoque pragmático y 
+económico más que ideológico y esta sería una primera conclusión y recomendación. 
+Hay también otros elementos de lo que podrían llamarse nuevas bases para un proceso de 
+integración regional revitalizado 15. En primer lugar, reconocer que históricamente la economía del 
+desarrollo vio a la integración regional como una alternativa a la inserción internacional, o, en una versión 
+más en línea con el pensamiento de Raúl Prebisch, como una etapa previa necesaria para desarrollar 
+un sector industrial capaz de habilitar las exportaciones industriales hacia los países desarrollados y 
+competir con ellas. Los cambios en materia tecnológica y comercial exigen ajustes en estas visiones. A 
+causa, por un parte, de la fuerte integración de diversas economías de la región con socios comerciales 
+como los Estados Unidos, Europa y China, no solo en términos de flujos de comercio sino mediante 
+acuerdos comerciales, y a causa, por otra parte, de los nuevos paradigmas productivos y tecnológicos 
+alrededor de cadenas globales y regionales de valor, la integración regional y la inserción a la economía 
+mundial no pueden seguir viéndose como alternativas mutuamente excluyentes sino que deben verse 
+como complementarias. 
+En segundo lugar, el peso y dinamismo de las cadenas globales de valor y las fuertes tendencias 
+hacia su reconfiguración causadas por la geopolítica, la relocalización en países geográficamente 
+cercanos (nearshoring) y las tendencias tecnológicas, abren grandes oportunidades para redefinir las 
+estrategias de integración, no solamente a través de la reducción de aranceles, sino, y sobre todo, 
+de la reducción de barreras no arancelarias y la convergencia de estándares técnicos. La cercanía 
+geográfica permite integrar estructuras productivas solo si existe la infraestructura adecuada para el 
+transporte y el contacto físico, con las reglas adecuadas para dar seguridad jurídica, pero también 
+para permitir y reducir el costo de la interoperabilidad en puestos fronterizos, los pagos, y el trasiego 
+de los productos. Por lo tanto, los temas tradicionales de la integración, conocidos en la literatura 
+moderna como “facilitación del comercio” siguen siendo fundamentales. Los costos del comercio 
+entre países de América Latina y el Caribe son muy altos y esto explica, en parte, por qué la región 
+comercia poco entre sí en comparación con otras regiones (Mesquita, Volpe y Blyde, 2008). Por eso, 
+la agenda de reducción de costos y de facilitación del comercio es muy importante. También hay gran 
+diversidad de reglas de origen que no solo elevan costos sino que también vuelven más complejo 
+el comercio y el suministro entre países de la región para exportar entre ellos mismos y al resto del 
+mundo. Los países de la región participan en 33 acuerdos preferenciales de comercio que en total 
+suman 47 grupos de reglas de origen específicas para diferentes productos. Para que el comercio 
+intrarregional e interindustrial florezca también es preciso homologar regulaciones técnicas, dimensión 
+que cobra aún más importancia con los nuevos paradigmas productivos.
+En tercer lugar, en contraste con los análisis y realidades de la integración de vieja data, circunscrita 
+al comercio de bienes, la nueva integración debe reconocer la revolución digital y el enorme potencial 
+del comercio de servicios y el comercio electrónico o por medios digitales. Por esto los esfuerzos de 
+integración siglo XXI deben avanzar hacia acuerdos más profundos que incorporen nuevas disciplinas 
+relacionadas con el comercio electrónico, la competencia, las compras gubernamentales, los servicios 
+y las regulaciones técnicas, entre otras. Debe, además, aumentar la interoperabilidad de los sistemas 
+de información de los países. En el campo de la integración digital es necesaria la armonización 
+regulatoria de temas como la ciberseguridad, la privacidad y la protección de datos, los protocolos 
+de transferencia de datos, la tributación de las plataformas y la facilitación del comercio electrónico, 
+así como el fortalecimiento de las capacidades locales para la interconectividad en cuanto a marcos 
+regulatorios, ancho de banda, fibra óptica y alfabetización digital16. En este sentido existe una agenda 
+15 Véanse diversas perspectivas sobre estas nuevas bases en Sanguinetti y otros (2021), Rocha y Ruta (2022), y Mesquita (2018). 
+16 Estos y otros temas son los que incluye el Acuerdo de Asociación de Economía Digital (DEPA), que Chile firmó con Nueva Zelandia 
+y Singapur. 
+30
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Repensar, reimaginar, transformar: los “qué” y los “cómo” para avanzar hacia un modelo de desarrollo…
+digital para América Latina y el Caribe para desarrollar un ecosistema digital regional, que se ha venido 
+negociando y actualizando en sucesivas Conferencias Ministeriales sobre la Sociedad de la Información de 
+América Latina y el Caribe, sin embargo, el avance es más lento del que sería deseable (CEPAL, 2022b).
+Estos son algunos de los nuevos temas, pero la proliferación de acuerdos comerciales de nueva 
+generación, tanto entre países de la región entre sí como con socios comerciales extrarregionales, 
+también hace que hoy día la aspiración integracionista plantee otras preguntas fundamentales: ¿cómo 
+avanzar hacia la convergencia? ¿cuáles son las opciones operativas para este fin? Una posibilidad 
+sería volver a un modelo de acuerdo regional ambicioso y comprensivo, como la vieja idea del Área de 
+Libre Comercio de las Américas (ALCA), ya sea con o sin los Estados Unidos. Este sería un acuerdo 
+único regional, una versión moderna del mercado común latinoamericano que formuló el mismo 
+Raúl Prebisch, en el que todos los países negociarían un nuevo acuerdo que los cubre a todos. Esta 
+no parece ser una opción factible actualmente. Otro modelo sería trabajar en temas específicos como 
+la acumulación de origen, la facilitación del comercio, la integración energética y el mejoramiento de la 
+infraestructura, entre otros. Esta parece ser la vía más factible, mediante un enfoque pragmático para 
+profundizar los acuerdos de integración y acelerar su convergencia, agregando además los nuevos 
+temas para el comercio de servicios.
+Otra línea de trabajo es la atracción de IED para aprovechar conjuntamente las oportunidades de 
+la reconfiguración de las cadenas globales de valor. La forma tradicional de hacer esto es mejorando el 
+clima local de negocios, la capacidad institucional para la atracción de IED, en los servicios posteriores 
+al establecimiento y en la generación de encadenamientos. Pero hoy en día también debe pensarse 
+en políticas de desarrollo productivo conjuntas o cooperativas en sectores o grupos de cadenas de 
+valor con potencial, como los sectores dinamizadores del crecimiento que se presentan en el artículo 
+“Hacia la transformación de la estrategia de crecimiento y desarrollo de América Latina y el Caribe: el 
+papel de las políticas de desarrollo productivo” ya mencionado.
+En conclusión, se necesita una nueva hoja de ruta para relanzar la integración con este tipo de 
+agendas. Se trata de una nueva etapa, basada en un nuevo paradigma de integración. Es un trabajo 
+práctico enfocado en la generación de convergencia en los acuerdos y normativas de integración, 
+introduciendo los nuevos temas y complementado por la colaboración en áreas más tradicionales, 
+como la infraestructura física, la interconexión energética y la facilitación aduanera. 
+10. Espacios fiscales limitados  
+y altos costos del financiamiento
+El síndrome de bajo crecimiento que sufre la región es resultado de varios factores, entre los que se 
+destacan las tasas muy bajas de inversión y el lento crecimiento de la productividad. Por lo tanto, 
+elevar las tasas de inversión y el crecimiento de la productividad son dos tareas prioritarias para salir 
+de la situación crónica de bajo crecimiento, cerrar o reducir el decálogo de brechas identificadas, y 
+acelerar el paso hacia el cumplimiento de los Objetivos de Desarrollo Sostenible (ODS). Además, los 
+crecientes choques climáticos (huracanes, inundaciones, olas de calor y otros desastres naturales) 
+y sus impactos sobre la agricultura, la infraestructura y las poblaciones, está exigiendo un esfuerzo 
+de inversión adicional, que con frecuencia alcanza varios puntos del PIB, solo para compensar los 
+impactos destructivos de estos fenómenos.
+De esta manera, tal como se señala en el artículo “Políticas macroeconómicas para la inversión y el 
+crecimiento sostenido y sostenible”, de Daniel Titelman, incluido en esta edición especial, para dinamizar 
+el crecimiento, avanzar hacia los ODS y enfrentar los impactos del cambio climático, la región enfrenta 
+la imperiosa necesidad de aumentar la inversión, en un contexto en el que la capacidad para hacerlo 
+se ve afectada por los limitados espacios fiscales y los altos costos de financiamiento. Esto requiere 
+31
+Revista de la CEPAL N° 141 • diciembre de 2023
+José Manuel Salazar-Xirinachs
+de un marco macroeconómico que aplique activamente la política fiscal, monetaria, macroprudencial, 
+cambiaria y financiera, complementado por esfuerzos en la agenda internacional para reestructurar 
+deudas y reducir las restricciones para el desarrollo ( development distress) que imponen el elevado 
+servicio de la deuda y los altos costos de financiamiento. El artículo examina una variedad de temas 
+sobre las características de marcos macroeconómicos que sean menos procíclicos, que incorporen 
+estabilizadores automáticos y sirvan para una mejor gestión del ciclo económico. También analiza 
+propuestas para mejorar el nivel de recaudación tributaria y su progresividad, así como las oportunidades 
+para obtener acceso a financiamiento a través de instrumentos innovadores como los bonos temáticos. 
+El concepto de “restricciones para el desarrollo” se refiere al hecho de que la creciente carga 
+del pago de intereses y su impacto en el espacio fiscal imponen fuertes restricciones al crecimiento. 
+En varios países este pago equivale o supera los gastos en educación, salud y protección social. 
+Además, la reducción de la inversión pública ha sido el principal factor de ajuste fiscal en la última 
+década. La mayoría de los países dedica más recursos al pago de intereses que a la inversión pública, 
+en detrimento del crecimiento económico, el desarrollo productivo y las inversiones en mitigación y 
+adaptación al cambio climático (CEPAL, 2023d).
+En cuanto a la inversión privada, parte de la explicación sobre por qué el sector privado no 
+invierte más tiene que ver con factores de clima de inversión, y parte tiene que ver con los bajos niveles 
+de inversión pública, pero a esto debe agregarse que una parte importante del bajo nivel de inversión 
+privada es la ausencia de mayor claridad y escala en las políticas de desarrollo productivo con apuestas 
+sectoriales y alianzas público-privadas, tema que se trata en el artículo “Hacia la transformación de la 
+estrategia de crecimiento y desarrollo de América Latina y el Caribe: el papel de las políticas de desarrollo 
+productivo”, redactado junto con Marco Llinás e incluido en esta edición especial.
+En suma, este decálogo de brechas, brevemente resumido en los párrafos anteriores, y tratado 
+con más amplitud en cada uno de los artículos de esta edición especial de Revista CEPAL, es una 
+forma de puntualizar debilidades fundamentales de los actuales patrones de desarrollo de los países 
+de la región. Por supuesto que las situaciones son muy heterogéneas, pero claramente, en mayor o 
+menor medida, cada una de estas caracterizaciones afecta sin excepciones a los países de la región. 
+Además, esta lista de brechas y, por lo tanto, de áreas prioritarias de acción, no son independientes 
+sino altamente interdependientes y se refuerzan mutuamente, de manera que el avance en unas 
+impulsan en avance en otras. Así, los mayores impulsos transformacionales se lograrían si se avanza 
+simultáneamente en varios de estos frentes.
+V. ¿Qué hacer? Las 11 grandes 
+transformaciones para crear un futuro 
+más productivo, inclusivo y sostenible
+1. Las 11 grandes transformaciones
+A diferencia del diagrama 1, en el que se presenta un decálogo de brechas estructurales a modo de 
+diagnóstico, en el diagrama 2 se presentan 11 grandes transformaciones en el modelo de desarrollo, de 
+manera prescriptiva para alentar una conversación sobre qué debe hacerse y cómo hacerlo para cerrar 
+o reducir esas brechas. En el diagrama 2 se identifican 11 grandes transformaciones en el modelo de 
+desarrollo de los países de la región para avanzar hacia un futuro más productivo, inclusivo y sostenible. 
+Estas transformaciones son las necesarias para enfrentar cada una de las diez brechas estructurales 
+identificadas, más una adicional que es transversal y que se refiere a los “cómo”: el fortalecimiento de 
+32
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Repensar, reimaginar, transformar: los “qué” y los “cómo” para avanzar hacia un modelo de desarrollo…
+las capacidades institucionales, de gobernanza y de diálogo social para las políticas públicas. Como 
+se dijo al inicio de este artículo, además de las trampas de bajo crecimiento y alta desigualdad, una 
+tercera trampa que afecta a la región es la baja capacidad institucional y de gobernanza para enfrentar 
+los retos del desarrollo y su magnitud que caracterizan a los países17.
+Diagrama 2 
+Once grandes transformaciones en el modelo de desarrollo
+Crecimiento rápido, sostenido, sostenible e inclusiv o;
+Desarrollo productivo – productividad – empleo
+Reducción de la desigualdad y aumento
+de la movilidad y la cohesión social
+Ampliación de la protección social
+y del Estado de bienestar
+Educación efectiva para todos y acceso
+amplio a la formación profesional
+Gran impulso ambiental para promover
+la sostenibilidad y enfren tar el cambio climático
+Transformación digital
+Migración segura,
+ordenada y regular
+Avance hacia una mayor integració n
+económica regional y mundial
+Avance hacia la igualdad de género
+y la sociedad del cuidado
+Macroeconomía para el desarrollo
+y ﬁscalidad sana y fuerte
+Capacidades del Estado fortalecidas:
+instituciones,  gobernanza  y diálogo social
+Fuente: Elaboración propia, sobre la base de J. M. Salazar-Xirinachs, “Hacia la transformación del modelo de desarrollo en 
+América Latina y el Caribe: producción, inclusión y sostenibilidad”, presentación realizada en el trigésimo noveno 
+período de sesiones de la Comisión Económica para América Latina y el Caribe (CEPAL), 2022 [en línea] https://
+periododesesiones.cepal.org/39/sites/pses39/files/presentations/ppt_se_espanol_-_periodo_de_sesiones_cepal.pdf.
+La experiencia demuestra que no basta con hacer listas de objetivos y aspiraciones si no se 
+tienen estrategias claras para promover los cambios y si las instituciones no tienen las capacidades 
+para impulsar las transformaciones o transiciones necesarias. Estas capacidades son esenciales para 
+la gestión y gobernanza de las transformaciones e incluyen la creación y gestión de espacios de diálogo 
+social para el desarrollo de visiones prospectivas ampliamente compartidas por los actores clave, así 
+como la ejecución o seguimiento a la ejecución por los mismos actores en cada área de política. 
+En la sección VI se repasan los retos de gobernanza, capacidades y procesos para gestionar 
+las transformaciones, pero antes conviene dar un ejemplo de la visión transformadora de los modelos 
+de desarrollo presentada aquí con referencia al caso de las políticas de desarrollo productivo, como 
+instrumento para salir de la trampa de bajo crecimiento.
+17 Este enfoque de 11 grandes transformaciones se inspira en el clásico libro de Karl Polanyi (1944). En su argumentación sobre 
+lo que en ese momento él consideró la gran transformación que la política pública debía gestionar, Polanyi señaló los costos 
+de no gestionarla. De manera similar, hoy en día se puede decir que no tener éxito en gestionar estas 11 transformaciones es 
+algo que puede hundir a los países más profundamente en las tres trampas que hemos identificado y dejarnos indefensos ante 
+el cambio climático, además de amenazar la vida democrática misma.
+33
+Revista de la CEPAL N° 141 • diciembre de 2023
+José Manuel Salazar-Xirinachs
+2. Promoción de un crecimiento más alto, 
+sostenido, inclusivo y sostenible como ejemplo 
+de integración de los “qué” y los “cómo”
+La propuesta de la CEPAL sobre “qué” hacer y “cómo” hacerlo para evitar una tercera década perdida, 
+dinamizar el crecimiento económico y orientarlo hacia uno más sostenido, inclusivo y sostenible incluye 
+como ingrediente fundamental que los países amplíen sus políticas de desarrollo productivo con el foco 
+puesto en la nueva generación de estas políticas. Para ello es preciso hacer apuestas sectoriales y utilizar 
+el enfoque de clústeres como una forma concreta y efectiva de organizar los procesos de colaboración y 
+gestión para el desarrollo productivo y mejorar la gobernanza de las políticas de desarrollo productivo18.
+Para promover esta gran transformación productiva hemos propuesto los 15 sectores impulsores 
+o dinamizadores del crecimiento que se incluyen en el diagrama 3. Por sus efectos de arrastre (y en la 
+innovación y la creación de empleo decente) y, en un importante número de casos, por estar alineados 
+con ventajas competitivas potenciales de los países, además de sus impactos favorables en la transición 
+energética y producción amigable con la naturaleza y el planeta, estos sectores, de manera diversa, 
+ofrecen importantes oportunidades de liderar transformaciones productivas que le den al crecimiento 
+no solo mayor dinamismo y mayor productividad, sino también mayor tracción en la creación de empleo 
+y mayor sostenibilidad en términos ambientales. 
+Una advertencia importante es que el planteo de este conjunto de sectores no es aplicable a 
+todos los países, sino un ejemplo de lo que puede ser un conjunto de apuestas sectoriales de alto 
+retorno para el desarrollo, pero en el entendido de que cada país o territorio dentro de un país debe 
+definir sus prioridades, eliminando algunos sectores y agregando otros, para equilibrar un grupo de 
+apuestas productivas de acuerdo con sus propias ventajas competitivas y capacidades institucionales. El 
+mensaje central es que para dinamizar y orientar el crecimiento en la dirección de mayor productividad, 
+inclusión y sostenibilidad es importante que las políticas de desarrollo productivo definan un norte en 
+términos de un conjunto de sectores prioritarios y organicen procesos de colaboración entre los actores 
+clave de cada sector. Esto no es algo que se pueda dejar librado a las fuerzas del mercado, es algo 
+que debe ser orientado y gestionado por la política pública, trabajando en estrecha colaboración con 
+el sector privado, el sector académico, los actores locales y otros actores relevantes. 
+Otro mensaje importante es que, al igual que ocurre con los portafolios financieros, no es razonable 
+esperar que todas las apuestas en sectores productivos sean exitosas; sin embargo, el esfuerzo es 
+rentable para el desarrollo si una mayoría lo es y resulta en un impulso transformador en términos de 
+productividad y crecimiento de la economía. Para esto, es importante tener sistemas de seguimiento 
+claro, para no apoyar iniciativas y proyectos estén mal orientados (Rodrik, 2024a).
+La definición en el ámbito nacional de una serie de sectores prioritarios para las políticas de 
+desarrollo productivo presenta una serie de ventajas: i) da señales a las instituciones educativas y 
+de formación profesional y a los jóvenes sobre el tipo de especialidades profesionales que tendrán 
+demanda en el futuro y ofrece oportunidades concretas de participar en el desarrollo productivo del 
+país o región, ii) da señales a los inversionistas y a los socios comerciales del país sobre las áreas de 
+política pública en que se está trabajando en favor de la inversión, el crecimiento y la colaboración y 
+ofrece oportunidades concretas de participación19 y iii) da señales sobre las áreas en que el país está 
+haciendo esfuerzos especiales para aprovechar la tendencia de reubicación geográfica de la producción 
+y de reconfiguración de las cadenas de valor que está ocurriendo en la nueva etapa de la globalización.
+18 Véanse más detalles en el artículo “Hacia la transformación de la estrategia de crecimiento y desarrollo de América Latina y 
+el Caribe: el papel de las políticas de desarrollo productivo” incluido en esta edición especial. Además, sobre el valor del enfoque 
+de clústeres bajo principios de gobernanza experimentalista véanse, por ejemplo, Llinás (2021); Salazar-Xirinachs (2020a y b); 
+Monge-González y Salazar-Xirinachs (2016).
+19 Véase, por ejemplo, CEPAL (2023b).
+34
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Repensar, reimaginar, transformar: los “qué” y los “cómo” para avanzar hacia un modelo de desarrollo…
+Diagrama 3 
+Gran transformación productiva para la productividad, la inclusión  
+y la sostenibilidad: portafolio de sectores impulsores
+Industri a
+Industria farmacéutica
+y de ciencias de la vida
+Industria de dispositivos
+médicos
+Fabricación avanzada
+Servicios
+Exportación de servicios
+modernos o habilitados por
+las tecnologías de la información
+y las comunicaciones (TIC)
+Sociedad del cuidado
+Servicios intensivos
+en trabajo
+Gobierno digital
+Gran impulso para
+la sostenibilidad
+Bioeconomía: agricultura
+sostenible, recursos
+genéticos y bioindustrialización
+Transición energética :
+energías renovables,
+hidrógeno verde y litio
+Agricultura para la
+seguridad alimentaria
+Gestión sostenible del agua
+Electromovilidad
+Economía circular
+Turismo sostenible
+Reubicación geográﬁca de la producción y de las cadenas de valor a nivel mundial
+Fuente: Elaboración propia, sobre la base de Comisión Económica para América Latina y el Caribe (CEPAL), Oportunidades para 
+la inversión y la colaboración entre América Latina y el Caribe y la Unión Europea (LC/TS.2023/78), Santiago, 2023.
+La organización de los sectores en tres columnas en el diagrama 3 muestra otra característica muy 
+importante de la nueva estrategia de crecimiento y desarrollo propuesta: que esta ya no está limitada 
+a la industrialización, sino que debe también apostar decididamente por los sectores de servicios, así 
+como por el “gran impulso para la sostenibilidad”, en particular en áreas como la transición energética, 
+la electromovilidad y la economía circular, entre otras20.
+Otras sugerencias sobre qué hacer para promover las transformaciones del decálogo se presentan 
+en los diferentes artículos incluidos en esta edición especial de Revista CEPAL.
+20 Véase un análisis que enfatiza estos dos temas como pilares para una nueva estrategia de crecimiento para los países en 
+desarrollo en Rodrik y Stiglitz (2024). 
+35
+Revista de la CEPAL N° 141 • diciembre de 2023
+José Manuel Salazar-Xirinachs
+VI. ¿Cómo hacerlo? Capacidades, procesos 
+y tipos de gobernanza necesarios para 
+gestionar las transformaciones
+1. Tipos de conocimiento necesarios 
+para transformar el mundo
+Tal como sugiere Swilling (2020), es necesario distinguir tres tipos de conocimiento que son importantes 
+para actuar con efectividad en un mundo incierto, complejo y cambiante: i) el conocimiento técnico 
+de los sistemas, que es el referido a los sistemas socioeconómicos, ecológicos y tecnológicos, ii) el 
+conocimiento prospectivo o de objetivos, que es la formulación y comprensión de los futuros deseables, 
+tomando en cuenta de manera anticipada (en la medida de lo posible) los impactos disruptivos y las 
+tendencias que pueden afectar los senderos de avance y iii) el conocimiento de las transformaciones, 
+que es el conocimiento sobre los procesos de cambio y las transiciones, es decir, sobre cómo pasar 
+de donde estamos a donde queremos estar, incluidas, en particular, las capacidades y procesos de 
+gobernanza para orientar la acción colectiva hacia los escenarios deseados y evitar perder el rumbo.
+El conocimiento técnico de los sistemas en cada una de las diez áreas identificadas en esta visión 
+sobre los retos del desarrollo en la región, lo que he llamado el decálogo, se pone de manifiesto en 
+cada uno de los artículos de esta edición especial de Revista CEPAL, en que los sistemas y brechas se 
+analizan con una combinación de narrativas apoyadas por la teoría y los datos empíricos sobre el tema. 
+Los otros dos tipos de conocimiento van más allá del contenido técnico de las políticas, son 
+más bien construcciones sociales y, como tales, fundamentales para promover la acción colectiva, 
+construyendo sobre la compresión que la colectividad tenga de los sistemas. Estos dos tipos de 
+conocimiento y su papel en la transformación de los modelos de desarrollo se comentan a continuación.
+2. ¿Cómo gestionar las transformaciones? 
+El conocimiento de los procesos de transformación es complejo y ha recibido relativamente poca 
+atención analítica. Con frecuencia se definen objetivos y aspiraciones, pero sin una idea clara de cómo 
+llegar a esos objetivos o escenarios futuros. Por eso, el análisis y la comprensión de los procesos de 
+cambio estructural o transiciones es un tema de suma relevancia al que la CEPAL le está dedicando 
+creciente atención analítica y práctica. 
+Los países de la región tienen una historia de innumerables reformas para transformar diversos 
+aspectos de sus patrones de desarrollo, desde estrategias fuertemente lideradas por el Estado, hasta 
+estrategias que confiaban más en los mercados, la desregulación y la apertura económica. Pero la 
+dicotomía Estado-mercado se queda corta y puede ser incluso dañina para pensar las condiciones y 
+los procesos de transformación, porque simplifica la complejidad de estos procesos y puede llevar a 
+discusiones más ideológicas que prácticas. 
+Lo cierto es que la experiencia demuestra que el proceso por el cual se diseñan, adoptan, y, sobre 
+todo, se ejecutan las políticas es tan importante como el contenido de las mismas porque las políticas 
+se formulan y aplican en contextos específicos con ciertas capacidades institucionales, restricciones 
+sociopolíticas y financieras, así como de la economía y geopolítica internacional.
+De esta manera, la capacidad institucional del Estado y la forma en que una variedad de actores 
+estatales y no estatales actúan e interactúan para formular y poner en práctica una política o reforma 
+económica, social o institucional, incide sobre la eficacia de estas políticas. Por lo tanto, analizar los 
+36
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Repensar, reimaginar, transformar: los “qué” y los “cómo” para avanzar hacia un modelo de desarrollo…
+“cómo” requiere conocimiento que van más allá del contenido técnico específico de las políticas para 
+comprender los procesos (diálogo social, negociación, definición de objetivos, evaluación, corrección 
+de rumbos), las capacidades institucionales y las estrategias para poner en práctica determinadas 
+políticas, todo lo cual define la capacidad y eficacia directiva, orientadora y facilitadora del Estado. 
+Este es un tema amplio en el que la CEPAL está haciendo renovados esfuerzos de investigación y 
+diálogo con actores clave. 
+3. La necesidad de pensar el futuro y el papel de 
+la prospectiva como herramienta para liderar 
+el cambio y mantener o ajustar el rumbo 
+Un ingrediente fundamental para impulsar las grandes transformaciones en los modelos de desarrollo 
+es tener espacios colectivos donde diversos grupos de la sociedad y las instituciones del Estado 
+puedan pensar el futuro, para que a partir de esos ejercicios puedan incidir en él sobre la base en 
+amplios acuerdos y a través de esto tener políticas de largo plazo o políticas de Estado. Las decisiones 
+y estrategias de largo plazo no deberían estar a merced del cortoplacismo y de los vaivenes políticos, y 
+menos cuando estos obedecen a una dinámica de polarización. La disciplina de la prospectiva provee 
+métodos para la construcción de visiones de desarrollo de largo plazo y la conducción de diálogos 
+encaminados a definir escenarios futuros y acuerdos sobre el futuro deseado por todos. Provee 
+herramientas útiles para generar consensos, articular visiones de futuro, acordar compromisos y construir 
+políticas de Estado. Sin embargo, las capacidades prospectivas en las instituciones y en la sociedad 
+no surgen espontáneamente, es necesario crearlas y desarrollarlas y esto debe verse como una de 
+las transformaciones necesarias como parte de las políticas de desarrollo (Máttar y Perrotti, 2023 y 
+Medina Vásquez, 2023). 
+La prospectiva facilita la exploración y el análisis de futuros posibles, la construcción de escenarios 
+alternativos de mediano y largo plazo, proporciona insumos para anticipar eventos inesperados de 
+alto impacto y, junto con la planificación y las políticas públicas, identifica métodos para la elección de 
+escenarios. Su utilización como componente de las políticas públicas sirve para desarrollar capacidades 
+de resiliencia y recuperación transformadora, abordar la incertidumbre global y las crisis recurrentes, 
+vislumbrar alternativas de salida de las crisis, producir gobernanza anticipatoria e intertemporal, y 
+generar un diálogo social permanente, que conecte a las instituciones con la ciudadanía y los actores 
+políticos y sociales y cree amplios consensos sobre las direcciones del desarrollo.
+Sin embargo, son pocos los países de la región que han utilizado la prospectiva como herramienta 
+cotidiana del quehacer de lo público. Existen visiones de país y escenarios deseados que han sido 
+construidos con la participación de los respectivos gobiernos, pero su aplicación en el campo de las 
+políticas es escasa y muy reciente. En rigor, la prospectiva y la planeación estratégica deberían ser 
+herramientas orgánicas tanto del quehacer público y como del sector privado y la sociedad civil, y 
+en la CEPAL nos hemos propuesto darle una prioridad elevada al objetivo de ayudar a fortalecer los 
+procesos de prospectiva en la región. Por ejemplo, ya existen comisiones de futuro en tres Congresos 
+nacionales de la región, y la CEPAL está iniciando un proyecto para facilitar la creación de más espacios 
+de este tipo en diversos países. 
+37
+Revista de la CEPAL N° 141 • diciembre de 2023
+José Manuel Salazar-Xirinachs
+4. Las capacidades técnicas, operativas, políticas 
+y prospectivas (TOPP) de las instituciones
+Las capacidades técnicas, operativas, políticas y prospectivas (TOPP) de las instituciones en cada 
+área de política son esenciales para que las políticas públicas sean eficaces en la transformación de las 
+realidades en sus áreas de competencia. En el cuadro 1 se resumen las características de cada una 
+de estas cuatro categorías de capacidades. En él se ofrece un marco analítico para hacer diagnósticos 
+y elaborar estrategias para el fortalecimiento de estas capacidades en diversas áreas de política, 
+como las del decálogo, lo que es un ingrediente central para que un Estado y una sociedad tengan la 
+capacidad de gestionar las grandes transformaciones que requieren los modelos de desarrollo en los 
+países de América Latina y el Caribe. 
+Además, las instituciones deben, por supuesto, disponer del financiamiento adecuado para contar 
+con estas capacidades y darles sostenibilidad, aunque debe señalarse que disponer de financiamiento 
+adecuado de ninguna manera garantiza que una institución tenga capacidades técnicas, operativas, 
+políticas y prospectivas, lo que es un reto en sí mismo más allá del financiamiento. El reto financiero 
+supone condiciones como un suficiente espacio fiscal para apoyar a las instituciones encargadas de las 
+transformaciones prioritarias, una gestión presupuestaria que permita alcanzar la suficiencia de recursos 
+proporcionales a la magnitud del reto institucional, procesos efectivos de negociación presupuestaria con 
+la autoridad fiscal, alineación de los planes nacionales de desarrollo con las grandes transformaciones 
+prioritarias y los respectivos procesos presupuestarios, así como transparencia y rendición de cuentas.
+Cuadro 1 
+Capacidades institucionales técnicas, operativas, políticas y prospectivas (TOPP) necesarias 
+para impulsar las grandes transformaciones en el modelo de desarrollo
+Capacidades Objetivos
+Técnicas • Incorporar la planificación estratégica con visión de mediano y largo plazo  
+en el proceso/ciclo de las políticas.
+• Generar políticas integrales con enfoques transversales en áreas clave del desarrollo. 
+• Crear y gestionar sistemas integrales de información para apoyar  
+la gestión e implementación de las políticas.
+• Evaluar el impacto de las políticas y los resultados de los programas.
+• Fortalecer la coherencia de los mandatos normativos con la capacidad de los organismos públicos. 
+• Rendir cuentas para optimizar la función pública.
+• Generar una cultura de aprendizaje continuo.
+Operativas (dimensión  
+operacional de la gestión  
+y la administración públicas)
+• Uso de herramientas modernas de gestión pública en materia de procedimientos presupuestarios, 
+de planificación, de gestión y evaluación de resultados, y de rendición de cuentas.
+• Mecanismos para evaluar la productividad y garantizar la provisión eficiente y eficaz  
+de los bienes y servicios públicos.
+• Fortalecer las políticas de recursos humanos para aumentar las capacidades profesionales,  
+técnicas y administrativas para la ejecución de las políticas.
+• Interfases modernas basadas en el gobierno digital para la interacción y los servicios a la ciudadanía.
+• Instancias de coordinación público-pública efectivas.
+• Optimizar la participación significativa del sector privado y otros actores.
+• Mecanismos para la ejecución transparente y honesta de los recursos públicos.
+• Medición y seguimiento de la satisfacción ciudadana con los servicios y las instituciones públicas.
+Políticas • Gestión de espacios de diálogo social entre los actores del desarrollo 
+para la formulación y ejecución de políticas públicas.
+• Liderazgos públicos que generen confianza y potencien la coordinación y la colaboración  
+con la sociedad civil, el sector privado y el sector académico. 
+• Colaboración y coordinación entre los diferentes niveles de gobierno.
+• Colaboración entre pares, a nivel local, nacional, regional e internacional.
+• Obtención de consensos entre y dentro de comunidades, gobierno, sector privado,  
+sociedad civil, entre otros actores.
+Prospectivas • Anticipación y seguimiento de mega tendencias globales que afectan el desarrollo regional.
+• Construcción participativa de escenarios futuros de desarrollo deseables  
+y su apropiación por los agentes del desarrollo.
+• Apoyo al diseño y ejecución de políticas públicas de Estado.
+• Respuestas institucionales rápidas y eficaces frente a crisis, disrupciones y acontecimientos 
+inesperados de alto impacto que trastocan el desarrollo.
+• Cultura del diálogo instalada para anticipar y gestionar conflictos entre actores del desarrollo.
+Fuente: Elaboración propia.
+38
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Repensar, reimaginar, transformar: los “qué” y los “cómo” para avanzar hacia un modelo de desarrollo…
+5. Modalidades de diálogo social21
+Como se ha argumentado, los procesos de transformación económica y social son el resultado de 
+múltiples fuerzas y están inmersos en contextos institucionales, económicos e ideológicos muy específicos 
+de cada país, así como lo está cualquier esfuerzo de diálogo social orientado a la construcción de 
+visiones ampliamente compartidas para orientar la acción colectiva en concordancia con ellas, y evitar 
+la parálisis, o el logro de acuerdos sobre reformas en áreas especificas. El diálogo social es, de esta 
+manera, un instrumento clave para gestionar y orientar las transformaciones.
+Sin pretender abarcar lo que es un tema sumamente amplio y complejo, sí es posible acotar la 
+temática distinguiendo cuatro ámbitos o modalidades de diálogo: i) diálogo social para la estabilización 
+macroeconómica, ii) diálogo social en materia de políticas laborales, iii) diálogo social para el desarrollo 
+productivo y iv) los diálogos para el desarrollo territorial.
+a) Diálogo social para la estabilización macroeconómica 
+En una mayoría de experiencias, este tipo de diálogos se inician en momentos de crisis, ya sea 
+inflacionaria, financiera, recesiva o de empleo. El objetivo de estos procesos es negociar un paquete de 
+medidas macroeconómicas (fiscales, monetarias, salariales, entre otras) donde pesan marcadamente 
+los aspectos distributivos relacionados con la forma en que se van a distribuir los costos del ajuste 
+entre diferentes grupos de la sociedad. Con frecuencia se trata de negociar programas que logren 
+un equilibrio económico y político entre medidas de recorte o contención de una variedad de gastos 
+fiscales (que incluye cómo proteger las transferencias sociales, en particular para los grupos más 
+vulnerables), aumentos de impuestos, acuerdos sobre la fijación y trayectoria de los salarios, tanto 
+públicos como privados, y el compromiso sindical de deponer huelgas y movilizaciones en las calles 
+o lugares públicos. Países como Irlanda, en un momento de seria crisis económica, logr ó negociar 
+exitosamente un acuerdo de este tipo que ayudó a resolverla. Algunos países han tenido largos procesos 
+de concertación para llegar a acuerdos amplios y comprensivos, con diverso grado de éxito, y también 
+de fracaso, en términos de posterior implementación. 
+b) Diálogo social en materia de políticas laborales 
+Los objetivos de este tipo de diálogo social son la negociación de salarios, condiciones laborales 
+y diversos tipos de legislación laboral. Este es el típico proceso tripartito que es tradicional en la 
+Organización Internacional del Trabajo (OIT) y en el que participan ministerios de trabajo, representantes 
+de las organizaciones de empleadores y representantes de organizaciones de trabajadores. La mayoría 
+de estas negociaciones ocurren en el contexto de instituciones específicamente establecidas para estos 
+fines, como consejos superiores de trabajo, consejos para el salario mínimo o mesas de diálogo ad hoc. 
+c) Diálogo social para el desarrollo productivo 
+Existe una nutrida experiencia internacional y regional de diálogo social en temas de formación 
+vocacional para resolver necesidades y definir políticas y programas en materia de competencias 
+laborales. En América Latina y el Caribe el modelo de centros de formación vocacional o profesional fue 
+establecido desde un principio con un estilo de gobernanza tripartita, con participación del gobierno, 
+los empleadores y los trabajadores (Salazar-Xirinachs y Vargas-Zúñiga, 2017). 
+21 Esta sección se basa en Salazar-Xirinachs (2022a). 
+39
+Revista de la CEPAL N° 141 • diciembre de 2023
+José Manuel Salazar-Xirinachs
+Además, desde hace unas dos décadas se popularizaron en varios países los consejos de promoción 
+de la productividad y de la competitividad. Sin embargo, estos consejos, salvo pocas excepciones, se 
+organizaron con una representación y gobernanza bipartita, es decir, como alianzas público-privadas, 
+donde la parte privada estaba constituída solo por líderes o representantes empresariales. Este es un 
+tipo de diálogo que se diferencia de los diálogos laborales y salariales porque son diálogos para hacer 
+una construcción conjunta de “suma positiva”, es decir, donde todos los actores ganan, en vez de ser 
+juegos que aunque no lo sean, generalmente se perciben como de “suma cero”, en donde lo que lo 
+que una parte gana, tiende a verse como una pérdida para la otra parte. 
+Uno de los tipos de interacción, que más que de diálogo es de construcción conjunta mediante 
+múltiples interacciones y colaboración, son las políticas basadas en el enfoque de clústeres, que se han 
+extendido en los últimos 20 años en América Latina. Los clústeres aportan gobernanza y coordinación 
+(con enfoque de triple hélice: sector público, sector privado y sector académico) a nivel de sectores o 
+cadenas de valor, allí donde esta es débil o inexistente. El objetivo es resolver problemas muy concretos 
+de bienes públicos, talento humano e innovación, y promover la competitividad, la productividad y la 
+internacionalización de las empresas integrantes de los clústeres. 
+d) Diálogo para el desarrollo territorial
+Finalmente, no todos los procesos de diálogo social se dan en el ámbito nacional, son muy 
+importantes los procesos de diálogo en el ámbito local en torno a proyectos de infraestructura, o en una 
+variedad de ámbitos de política para el desarrollo local y territorial, con la participación de una variedad 
+de actores. Estos diálogos con participación de actores locales son importantes para definir estrategias 
+regionales y para romper la tradición muy centralizada de toma de decisiones que es característica 
+en muchos países. Es importante lograr un adecuado equilibrio entre las políticas que construyen “de 
+arriba hacia abajo” (top-down) y las que construyen “de abajo hacia arriba” (bottom-up). 
+Existen, por supuesto, varios otros tipos de diálogo y consultas, como los que involucran a 
+las comunidades locales alrededor de los impactos sociales o ambientales de grandes proyectos de 
+infraestructura o de minería.
+En conclusión, estas distinciones sobre ámbitos y modalidades del diálogo social son importantes, 
+pero se trata solo de una parte del reto político y de acción colectiva mucho más amplio sobre cómo 
+llegar a acuerdos, promover procesos continuos de reforma de políticas en una serie de ámbitos y 
+promover una amplia participación ciudadana a través de diversos mecanismos en proyectos de reforma 
+y transformación, particularmente en la situación de crisis del desarrollo que caracteriza actualmente a 
+la mayoría de los países de la región. En este marco, el papel de los liderazgos, no solo a nivel nacional, 
+sino de todos los sectores, es fundamental. 
+La institucionalidad de los países latinoamericanos y caribeños debe incorporar nuevas modalidades 
+de participación, diálogo y consulta en las escalas nacional, subnacional y local. Estos espacios son 
+fundamentales para mejorar los procesos de gobernanza y viabilizar las transformaciones necesarias.
+En suma, las capacidades, procesos y tipos de gobernanza para impulsar las transformaciones, 
+lo que hemos llamado los “cómo” del desarrollo económico, es un área de conocimiento para la 
+transformación de los modelos de desarrollo que considero que ha estado subestimada, y cuyo 
+conocimiento no es sistemático y mucho menos ampliamente compartido entre los líderes de todos 
+los sectores interesados en los cambios y las reformas económicas y sociales. 
+40
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Repensar, reimaginar, transformar: los “qué” y los “cómo” para avanzar hacia un modelo de desarrollo…
+VII. Comentario final
+América Latina y el Caribe está sumida en tres trampas de desarrollo: bajo crecimiento, no solo en el 
+corto plazo sino también en el largo plazo; elevada desigualdad y baja movilidad social, y baja capacidad 
+institucional y gobernanza poco efectiva para enfrentar los retos del desarrollo. Por eso no es exagerado 
+afirmar que la región se encuentra en una crisis del desarrollo. 
+Además, las condiciones de la economía mundial no son las más favorables. Las características 
+de la globalización y la interdependencia están cambiando hacia una nueva era con predominancia de 
+la geopolítica, una globalización descentralizada en varios polos de influencia (poliglobalización) y un 
+nuevo conjunto de reglas para el comercio y la inversión. El reto para la región es navegar con éxito 
+este proceso de globalización redefinido, comprenderlo bien para identificar sus riesgos y amenazas, 
+aprovechar las oportunidades que abre, y también influir con posiciones regionales en las negociaciones 
+multilaterales para evitar escenarios desfavorables y fortalecer el sistema multilateral. 
+Este artículo ha ofrecido una lectura de los retos del desarrollo en los países de la región alrededor 
+de diez áreas de grandes brechas que en mayor o menor medida son comunes a todos los países, lo 
+que he llamado el decálogo, que define una lista de áreas prioritarias de acción para la política pública 
+y los esfuerzos colectivos de transformación.
+Sin embargo, decir qué hacer en términos de señalar las brechas y definir metas y objetivos no nos 
+lleva muy lejos si no se tiene una conversación sistemática sobre cómo pasar de la situación presente 
+a los escenarios deseables. La pregunta sobre los “cómo” lleva a analizar los retos de gobernanza, de 
+capacidades institucionales y de espacios de diálogo social no solo para pensar el futuro, sino también 
+como instrumentos para la gestión del cambio, que son esenciales para que cada sociedad defina su 
+norte y desarrolle estrategias efectivas de acción colectiva para avanzar. Estos temas constituyen un 
+área de gran importancia en sí misma en la conversación sobre los retos del desarrollo regional y sobre 
+la gestión de las transformaciones. Todo lo anterior define una agenda de 11 grandes transformaciones 
+que presentamos como una lista mínima de temas prioritarios que la región debe abordar.
+Estos temas constituyen el principio organizador de las contribuciones a esta edición especial 
+de Revista CEPAL en ocasión del 75° aniversario de nuestra institución. 
+Aspirar a crear un nuevo consenso sobre el desarrollo en la región puede ser un objetivo demasiado 
+ambicioso, pero es, sin duda, un objetivo deseable, y en ese espíritu ofrecemos esta edición especial 
+de Revista CEPAL. Con visión y estrategia de largo plazo, con la participación real de todos los actores 
+y un Estado e instituciones competentes con capacidades para orientar, convocar y dar servicios de 
+calidad es posible avanzar hacia un futuro más productivo, inclusivo y sostenible en la región. 
+Bibliografía
+Artecona, R. y H. Velloso (2022), “Towards a new industrial policy: The United States economic policy 
+agenda post-COVID-19”, serie Estudios y Perspectivas-Oficina de la CEPAL en Washington, D.C. , 
+Nº 22 (LC/TS.2022/152-LC/WAS/TS.2022/3), Santiago, Comisión Económica para América Latina  
+y el Caribe (CEPAL).
+Brown, G., M. El-Erian y M. Spence (2023), Permacrisis: A Plan to Fix a Fractured World , Londres, Simon 
+& Schuster.
+Busso, M. y otros (2012), Desconectados: habilidades, educación y empleo en América Latina , 
+Banco Interamericano de Desarrollo (BID).
+Cardoso, F. H. y E. Faletto (1967), Dependencia y desarrollo en América Latina, Siglo XIX Editores.
+41
+Revista de la CEPAL N° 141 • diciembre de 2023
+José Manuel Salazar-Xirinachs
+CEPAL (Comisión Económica para América latina y el Caribe) (2023a), Balance Preliminar de las Economías 
+de América Latina y el Caribe, 2023 (LC/PUB.2023/22-P), Santiago. 
+(2023b), Oportunidades para la inversión y la colaboración entre América Latina y el Caribe y la 
+Unión Europea (LC/TS.2023/78), Santiago. 
+(2023c), Deuda pública y restricciones para el desarrollo en América Latina y el Caribe (LC/TS.2023/20), 
+Santiago.
+(2023d), América Latina y el Caribe en la mitad del camino hacia 2030: avances y propuestas de 
+aceleración. Síntesis (LC/FDS.6/4/Rev.1), Santiago. 
+(2023e), Estudio Económico de América Latina y el Caribe, 2023 (LC/PUB.2023/11-P/Rev.1), Santiago.
+(2022a), Hacia la transformación del modelo de desarrollo en América Latina y el Caribe: producción, 
+inclusión y sostenibilidad (LC/SES.39/3-P), Santiago. 
+(2022b), Un camino digital para el desarrollo sostenible de América Latina y el Caribe  (LC/CMSI.8/3), 
+Santiago.
+(2020), “Universalizar el acceso a las tecnologías digitales para enfrentar los efectos del COVID-19”, 
+Informe Especial COVID-19, Nº 7, Santiago, agosto.
+(2016), Horizontes 2030: la igualdad en el centro del desarrollo sostenible (LC/G.2660/Rev.1), Santiago. 
+(2014), Pactos para la igualdad: hacia un futuro sostenible (LC/G.2586(SES.35/3)), Santiago. 
+(2012), Cambio estructural para la igualdad: una visión integrada del desarrollo  (LC/G.2524  
+(SES.34/3)), Santiago. 
+(2010), La hora de la igualdad: brechas por cerrar, caminos por abrir (LC/G.2432(SES.33/3)), Santiago.
+(2006), La protección social de cara al futuro: acceso, financiamiento y solidaridad  (LC/G.2294  
+(SES.31/3)), Santiago. 
+(2004), Desarrollo productivo en economías abiertas (LC/G.2234(SES.30/3)), Santiago. 
+(2002), Globalización y desarrollo (LC/G.2157(SES.29/3), Santiago.
+(1994), El regionalismo abierto en América Latina y el Caribe: la integración económica al servicio de la 
+transformación productiva con equidad, Libros de la CEPAL, Nº 39 (LC/G.1801(SES.25/4)), Santiago. 
+(1990), Transformación productiva con equidad: la tarea prioritaria del desarrollo de América Latina y 
+el Caribe en los años noventa, Libros de la CEPAL, N° 25 (LC/G.1601-P), Santiago. 
+(1986), El decenio de la mujer en el escenario latinoamericano: realidades y perspectivas , Libros de 
+la CEPAL, N° 25 (LC/G.1372-P), Santiago. 
+(1984), “Políticas de ajuste y renegociación de la deuda externa en América Latina”, Cuadernos de la 
+CEPAL, Nº 48 (LC/G.1332), Santiago.
+(1963), “La dificultad de conformar un mercado común latinoamericano”, Santiago.
+(1961), “Desarrollo económico, planificación y cooperación internacional”, Santiago.
+Fajardo, M. (2022), The World that Latin America Created: The United Nations Economic Commission for 
+Latin America in the Development Era, Harvard University Press, Cambridge, Massachusetts. 
+Fajnzylber, F. (1990), “Industrialización en América Latina: de la ‘caja negra’ al ‘casillero vacio’: comparación 
+de patrones contemporáneos de industrialización”, Cuadernos de la CEPAL, Nº 60 (LC/G.1534/Rev.1-P), 
+Santiago, Comisión Económica para América latina y el Caribe (CEPAL). 
+(1983), La industrialización trunca de América Latina, Ciudad de México, Nueva Imagen.
+Ffrench Davis, R. (1988), “Esbozo de un planteamiento neoestructuralista”, Revista de la CEPAL , Nº 34 
+(LC/G.1521-P), Santiago, Comisión Económica para América Latina y el Caribe (CEPAL), abril.
+Furtado, C. (1958), “The external disequilibrium in the underdeveloped economies”, Indian Journal of 
+Economics, vol. 38, Nº 151.
+(1952), “Capital formation and economic development”, International Economic Papers, vol. 4. 
+Iglesias, E. y otros (1972), Transformación y desarrollo: la gran tarea de América Latina , vol. 2, Fondo de 
+Cultura Económica. 
+Khanna, R. (2023), “The new industrial age: America. should once again become a manufacturing superpower”, 
+Foreign Affaires, vol. 102, Nº 141.
+Llinás, M. (2021), Iniciativas clúster: una forma concreta y efectiva de “mover la aguja” de la productividad, 
+Puntoaparte Editores.
+Máttar, J. y D. Perroti (2023), “Prospectiva del desarrollo sostenible y el cambio climático en América Latina”, 
+Latinoamérica 2050, retos, escenarios y acciones , C. Olavarrieta, G. Gándara y J. Máttar (coords.), 
+Universidad Franz Tamayo (UNIFRANZ).
+42
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Repensar, reimaginar, transformar: los “qué” y los “cómo” para avanzar hacia un modelo de desarrollo…
+Mazzuca, S. L. y G. Munck (2020), A Middele-Quality Institutional Trap: Democracy and State Capacity in 
+Latin America, Cambridge Elements in Politics and Society in Latin America, Cambridge University Press.
+Medina Vásquez, J. (2023), Prospectiva para un mundo interdependiente, Bogotá, Academia Colombiana 
+de Ciencias Económicas.
+Mesquita, M. (2018), “Conectando los puntos: una hoja de ruta para una mejor integración de América Latina 
+y el Caribe”, Informe Especial sobre Integración y Comercio, Banco Inter-Americano de Desarrollo (BID).
+Mesquita, M., C. Volpe y J. S. Blyde (2008), “Unclogging the arteries. The impact of transport costs on Latin 
+American and Caribbean Trade”, Informe Especial sobre Integración y Comercio, Banco Inter-Americano 
+de Desarrollo (BID).
+Monge-González, R. y J. N. Salazar-Xirinachs (2016), “Políticas de clústeres y de desarrollo productivo en la 
+Comunidad Autónoma del País Vasco: lecciones para América Latina y el Caribe”, OIT Américas Informes 
+Técnicos, Nº 3 [en línea] https://www.ilo.org/americas/sala-de-prensa/WCMS_605088/lang--en/index.htm.
+Naciones Unidas (2023), Informe de políticas de Nuestra Agenda Común 6. Reformas de la arquitectura 
+financiera internacional, Nueva York, mayo.
+(2021), Nuestra Agenda Común: Informe del Secretario General, Nueva York.
+(2020), International Migration 2020 Highlights (ST/ESA/SER.A/452), Nueva York.
+Ocampo, J. A. (2023), “Conferencia magistral de José Antonio Ocampo: ‘Reformas al sistema financiero 
+internacional’”, Santiago, 18 de agosto [en línea] https://www.cepal.org/es/discursos/conferencia-
+magistral-jose-antonio-ocampo-reformas-al-sistema-financiero-internacional. 
+Ocampo, J. A. y G. Rosenthal (1998), El pacto fiscal: fortalezas, debilidades y desafíos, Libros de la CEPAL, 
+N° 47 (LC/G.1997/REV.1-P), Santiago, Comisión Económica para América Latina y el Caribe (CEPAL). 
+Pinto, A. (1976), “Nota sobre los estilos de desarrollo en América Latina”, Revista de la CEPAL, Santiago, 
+Comisión Económica para América Latina (CEPAL).
+Polany, K. (1944), La gran transformación: crítica del liberalismo económico, Madrid, Ediciones de La Piqueta. 
+Prebisch, R. (1981), Capitalismo Periférico: crisis y transformación, Fondo de Cultura Económica.
+(1979), “Las teorías neoclásicas del liberalismo económico”, Revista de la CEPAL, Nº 7 (E/CEPAL/1084), 
+Santiago, Comisión Económica para América Latina (CEPAL), abril.
+(1978), “Notas sobre el capitalismo periférico”, Estudios Internacionales, vol. 11, Nº 43.
+(1976), “Crítica al capitalismo periférico”, Revista de la CEPAL , Santiago, Comisión Económica para 
+América Latina (CEPAL).
+(1970), Transformación y desarrollo: la gran tarea de América Latina, Santiago, Naciones Unidas.  
+(1963), Hacia una dinámica del desarrollo latinoamericano: con un apéndice sobre el falso dilema entre 
+desarrollo económico y estabilidad monetaria, Ciudad de México, Fondo de Cultura Económica. 
+(1959), El mercado común latinoamericano  (E/CN.12/531), Santiago, Comisión Económica para 
+América Latina y el Caribe (CEPAL), julio. 
+(1950), “Crecimiento, desequilibrio y disparidades: interpretación del proceso de desarrollo económico”, 
+Estudio económico de América Latina, 1949  (E/CN.12/164/Rev.1), Nueva York, Comisión Económica 
+para América Latina y el Caribe (CEPAL), enero. 
+(1949), “El desarrollo económico de la América Latina y algunos de sus principales problemas”, El Trimestre 
+Económico, vol. 16, N° 63, Ciudad de México, Fondo de Cultura Económica. 
+Rocha, N. y M. Ruta (eds.) (2022), Deep Trade Agreements: Anchoring Global Value Chains in Latin America 
+and the Caribbean, World Bank Publications.
+Rodrik, D. (2024a), “Getting industrial policy right”, Financial Times, 9 de febrero. 
+(2024b), “Addressing challenges of a new era: against rule of thumb economics”, Finance & Development, 
+Fondo Monetario Internacional (FMI), marzo.
+(2011), The Globalization Paradox: Democracy and the future of the world economy , Nueva York,  
+W. W. Norton & Co.
+(1997), Has Globalization Gone Too Far?, Washington, D.C., Instituto de Economía Internacional (IIE). 
+Rodrik, D. y J. Stiglitz (2024), “A new growth strategy for developing nations”, Universidad Harvard [en línea] 
+https://drodrik.scholar.harvard.edu/publications/new-growth-strategy-developing-nations. 
+Salazar-Xirinachs, J. M. (2022a), “Estrategias y políticas para la reconstrucción con transformación pospandemia 
+en América Latina y el Caribe”, Documentos de Proyectos (LC/TS.2022/22), Santiago, Comisión Económica 
+para América Latina y el Caribe (CEPAL).
+(2022b), “Presentación del documento de posición de la CEPAL a cargo de José Manuel Salazar-Xirinachs,  
+Secretario Ejecutivo de la CEPAL” [en línea] https://periododesesiones.cepal.org/39/es/videos/presentacion-
+documento-posicion-la-cepal-cargo-jose-manuel-salazar-xirinachs-secretario.
+43
+Revista de la CEPAL N° 141 • diciembre de 2023
+José Manuel Salazar-Xirinachs
+(2021), Transformación digital, reactivación económica y empleo en América Latina y el Caribe  
+post-COVID-19, XI Foro de Competitividad de las Américas, Organización de los Estados Americanos (OEA)/
+Red Interamericana de Competitividad (RIAC) [en línea] https://riacevents.org/RIACforo/presentaciones.
+(2020a), “Cluster-based policies: what have we learned?”, The Oxford Handbook on Industrial Hubs and 
+Economic Development, Oxford University Press. 
+(2020b), “Estado de las políticas de desarrollo de clústeres para la exportación en América Latina y 
+el Caribe con énfasis en su institucionalidad y gobernanza. Informe para el Banco Interamericano de 
+Desarrollo”, Washington, D.C., inédito.
+Salazar-Xirinachs, J. M y F. Vargas-Zúñiga (2017), El futuro de la formación profesional en América Latina 
+y el  Caribe: diagnósticos y lineamientos para su fortalecimiento , Oficina Regional de la OIT para 
+América Latina y el Caribe/ Centro Interamericano para el Desarrollo del Conocimiento en la Formación 
+Profesional (CINTERFOR). 
+Salazar-Xirinachs, J. M. y M. Llinás (2024), Hacia la transformación de la estrategia de crecimiento y desarrollo 
+de América Latina y el Caribe: el papel de las políticas de desarrollo productivo. Revista CEPAL, Nº 141 
+(LC/PUB.2023/29-P), Santiago, Comisión Económica para América Latina y el Caribe (CEPAL).
+Sanguinetti, P . y otros (2021), RED 2021: caminos para la integración: facilitación del comercio, infraestructura 
+y cadenas globales de valor, Caracas, Banco de Desarrollo de América Latina y el Caribe (CAF).
+Stiglitz, J. (2003), Globalization and its Discontents, Norton & Company.
+Sunkel, O. (comp.) (1991), “El desarrollo desde dentro: un enfoque neoestructuralista para la América Latina”, 
+Ciudad de México, Fondo de Cultura Económica.
+Sunkel, O. (1981), La dimensión ambiental en los estilos de desarrollo de América Latina, Libros de la CEPAL, 
+N° 5 (E/CEPAL/G.1143), Santiago, Comisión Económica para América Latina y el Caribe/Programa de 
+las Naciones Unidas para el Medio Ambiente (CEPAL/PNUMA).
+(1958), “La inflación: un enfoque heterodoxo”, El Trimestre Económico.
+Sunkel, O. y P . Paz (1970), El subdesarrollo latinoamericano y la teoría del desarrollo , Ciudad de México, 
+Siglo XXI.
+Sunkel, O. y G. Zulueta (1990), “Neoestructuralismo versus neoliberalismo en los años noventa”, Revista de 
+la CEPAL, Nº 42 (LC/G.1642-P), Santiago, Comisión Económica para América Latina y el Caribe (CEPAL).
+Sunkel, O. y E. F. Fuenzalida (1978), “Capitalismo transnacional y desarrollo nacional”, Estudios Internacionales, 
+vol. 11, Nº 44. 
+Swilling, M. (2020), The Age of Sustainability: Just Transitions in a Complex World, Londres, Routledge.

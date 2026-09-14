@@ -1,0 +1,1949 @@
+Business Strategy and the Environment, 2025; 34:10118–10130
+https://doi.org/10.1002/bse.70128
+10118
+Business Strategy and the Environment
+RESEARCH ARTICLE
+OPEN ACCESS
+Climate Transition Challenges: Exploring Credit Portfolio 
+Misalignment in European Banks
+Lorenzo Fichera  |  Simona Galletta
+  |  Sebastiano Mazzù
+Department of Economics and Business, University of Catania, Catania, Italy
+Correspondence: Simona Galletta (simona.galletta@unict.it)
+Received: 24 April 2025  |  Revised: 9 July 2025  |  Accepted: 21 July 2025
+Funding: This study was funded by the European Union -­ NextGenerationEU, Mission 4, Component 2, in the framework of the GRINS -­ Growing 
+Resilient, INclusive and Sustainable project (GRINS PE00000018 -­ CUP E63C22002120006). This study was also funded by DM n. 118, 02-­03-­2023 -­ ID: 
+7131. Open access publishing was facilitated by Universita degli Studi di Catania, as part of the Wiley -­ CRUI-­CARE agreement.
+Keywords: banking industry | credit portfolio | environmental policy | sustainable finance
+ABSTRACT
+This paper examines the underlying factors contributing to the misalignment of banks' credit portfolios with European environ-
+mental objectives. Drawing on panel data on green lending from 2015 to 2023, the empirical analysis reveals that such misalign-
+ment is primarily influenced by the country and sector in which the financed firms operate. The main findings indicate a positive 
+relationship between green lending and the environmental performance of the country where the firm is based. Moreover, the 
+significant presence of carbon-­intensive sectors within national economies shapes banks' credit allocation decisions, reflecting 
+broader structural characteristics rather than bank-­specific strategies. Policymakers are therefore encouraged to support the 
+alignment of bank lending with climate goals through public policies and enhanced regulations that promote firms' business 
+model innovation. In addition, the implementation of appropriate macroprudential tools may help address the systemic dimen-
+sion of climate-­related financial risk.
+1   |   Introduction
+The financial sector is a central actor in the global transition 
+toward a low-­carbon economy, yet it remains highly exposed 
+to climate-­related risks that threaten financial stability. As 
+global commitments—such as the Paris Agreement (United 
+Nations Framework Convention on Climate Change 2015), the 
+European Green Deal (European Commission  2019) and the 
+latest United Nations Climate Change Conference (COP281)—
+underscore the urgency of decarbonization, banks and financial 
+institutions face mounting pressures to align their portfolios 
+with sustainability objectives (Antimiani et  al.  2023; Arzaghi 
+and Squalli 2023).
+The transition to a low-­carbon economy represents for the 
+banking industry a critical issue, with both physical and 
+transition risks threatening substantial financial losses. To 
+address these challenges, the United Nations Environment 
+Programme Finance Initiative (2019) introduces the Principles 
+for Responsible Banking (PRB), comprising six targets that 
+require signatory banks to align their strategies, decision-­
+making, and investment practices with the UN Sustainable 
+Development Goals and global agreements. Industries highly 
+reliant on carbon emissions are predominantly debt-­financed, 
+exposing banks to significant risks due to the obsolescence of 
+fossil fuel assets (Delis et al. 2024). Against this background, 
+the European Central Bank (2020) and the European Banking 
+Authority  (2021) provide both definitions of climate-­related 
+physical and transition risks and insights into their impact on 
+credit, market, and operational risks. These may affect stake-
+holders and might expose the bank to reputation and liability 
+risks because of the funding of ecologically or socially question-
+able operations (European Central Bank 2020). While physical 
+climate risk is commonly assessed at the regional or city level 
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, 
+provided the original work is properly cited.
+© 2025 The Author(s). Business Strategy and the Environment published by ERP Environment and John Wiley & Sons Ltd.
+
+
+10119
+Business Strategy and the Environment, 2025
+(Basel Committee on Banking Supervision  2021a; European 
+Central Bank 2023), transition risk primarily arises from pol-
+icies designed to regulate carbon emissions (Dunz et al. 2021; 
+Roncoroni et al. 2021). Banks with portfolios with high levels of 
+carbon are more likely to experience increased transition risk. 
+Consequently, authorities and other stakeholders have been 
+closely monitoring banks' efforts to incorporate environmen-
+tal, social, and governance (ESG) factors into their risk man-
+agement strategies and financing decisions (European Central 
+Bank 2022).
+Notwithstanding the regulatory pressures and the growing 
+interest from stakeholders, the path towards sustainability is 
+not straightforward. Recent investigations (European Central 
+Bank 2024) have identified a misalignment within banks' credit 
+portfolios, highlighting the challenges encountered by financial 
+institutions to align with decarbonization objectives. Among the 
+95 significant institutions analyzed by the ECB, 90% were found 
+misaligned, exhibiting varying degrees of exposure and mis-
+alignment. In European Central Bank (2024), “misalignment” 
+is defined as a situation in which a corporation is adjusting its 
+production more slowly than necessary to comply with decar-
+bonization goals.
+The misalignment of banks' credit portfolios raises important 
+questions regarding its underlying causes. Specifically, what 
+are the main drivers of the misalignment of banks' credit 
+portfolios? To what extent is it grounded in banks' endog-
+enous choices, or driven by exogenous forces beyond banks' 
+control? This paper sets out to explore the role of country and 
+industry effects on green lending and, consequently, their im-
+pact on credit portfolio misalignment. First, the industry to 
+which financed companies belong may affect the allocation of 
+green loans. Corporate counterparties tend to exhibit risk ex-
+posure commonalities along sectoral classification, typically 
+for transition risk but also for physical risk (Basel Committee 
+on Banking Supervision 2021b). Second, the country in which 
+banks operate may exert an influence on their business strat-
+egy on climate change risks. In less sustainable countries, 
+banks may struggle to engage with suitably sustainable coun-
+terparties. Conversely, when operating in more sustainable 
+countries, banks may benefit from broader awareness and pro-
+active engagement of their stakeholders and society at large. 
+Previous studies have also shown that banks adjust their be-
+havior to react to cross-­country heterogeneity in climate pol-
+icies (Benincasa  2021; Bruno and Lombini  2023; Erten and 
+Ongena 2024).
+Despite the importance of sustainable lending practices, there 
+has been little discussion about the drivers of banks' portfolio 
+misalignment. The rationale for investigating these drivers is 
+grounded in the need to achieve ambitious climate objectives. 
+Identifying and measuring the environmental misalignment of 
+banks' portfolios represent a crucial first step in critically recog-
+nizing the challenges involved in meeting these goals. Analyzing 
+the underlying causes of this phenomenon is a natural progres-
+sion of this process and is essential for policymakers and author-
+ities to design effective and targeted measures to mitigate the 
+issue. The effectiveness of any institutional intervention—from 
+public support schemes to enhanced regulations—depends on a 
+careful consideration of the specific characteristics and needs of 
+the contexts in which they are implemented, to ensure flexible 
+adaptation.
+To fill this gap, we employ data on green syndicated loans from 
+2015 to 2023. The use of syndicated loans data is particularly 
+suited to this analysis for several reasons. The syndicated loan 
+market serves as an exemplary setting for examining bank-
+ing conduct, as highlighted by a growing body of research 
+(Ivashina 2009; Cerutti et al. 2015; Kleimeier and Viehs 2018; 
+Degryse et al. 2023). Syndicated loans accurately record bank-­
+borrower interactions, differentiating between factors of credit 
+demand and supply. Moreover, the syndicated loans data pro-
+vide significant information on loan characteristics, including 
+the sustainability of the funding itself. This detail is fundamen-
+tal to this study, given that the misalignment of credit portfolios 
+inherently depends on the sustainability profile of the loans in 
+which banks have participated. Lastly, syndicated loans gener-
+ally feature medium-­term maturities and are often used to fi-
+nance capital-­intensive sectors (De Haas and Popov 2019; Delis 
+et al. 2024), which makes them suitable for the analysis of the 
+green transition as it tends to be highly capital-­intensive and 
+innovation-­driven.
+By using different econometric specifications, we find that 
+banks' drivers of credit portfolio misalignment with EU climate 
+objectives stem from the inherent characteristics of the country 
+in which financed firms operate and the sectors with which they 
+engage.
+The remainder of the paper proceeds as follows. Section 2 reviews 
+the related literature and outlines our hypotheses. Section 3 de-
+scribes the research design, including data and methodology. 
+Section 4 is dedicated to robustness checks. Section 5 discusses 
+the results. Section 6 concludes.
+2   |   Theoretical Background and Hypotheses
+The growing relevance of the environmental issue compels 
+the banking industry to reassess the financial risks related to 
+continuing to invest in carbon-­intensive technologies. Earlier 
+research calls (Gallego-­Álvarez and Pucheta-­Martínez 2020; 
+Di Tommaso and Thornton  2020; Khattak and Saiti  2021) 
+have emphasized the need for a deeper investigation into the 
+effects of the banks' strategy on climate change, with respect 
+to their true environmental impact. Previous research has es-
+tablished that banks are increasingly aware of environmental 
+risks and are beginning to incorporate green criteria into their 
+evaluation of borrowers' creditworthiness (Weber et al. 2008; 
+European Central Bank 2020; Basel Committee on Banking 
+Supervision  2023; Song and Rimmel  2025). Additionally, 
+banks are being urged to enhance transparency regarding the 
+financial and material risks stemming from climate change, 
+as well as their strategies to address climate-­related chal-
+lenges (Friedrich et al. 2023; Cregan et al. 2024). This trend 
+is fostering the promotion of green lending to businesses in 
+countries with stronger sustainability frameworks (Fard 
+et al. 2020). The environmental sustainability of a borrower 
+has increasingly become a pivotal factor that can influence the 
+financial valuation of credit, positively affecting the quality of 
+bank loans and reducing credit risk (Birindelli et al. 2022). By 
+ 10990836, 2025, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.70128 by Capes, Wiley Online Library on [11/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+10120
+Business Strategy and the Environment, 2025
+contrast, banks engaged in lending to high-­polluting compa-
+nies, such as those in the oil and gas sector, are experiencing 
+heightened operational, credit, and reputation risks to such an 
+extent that they are now required to disclose the environmen-
+tal impacts of their lending practices (Nandy and Lodh 2012; 
+Erragragui 2018).
+Conversely, other studies have reported that banks continue to 
+extend larger loan amounts to corporations that do not align 
+with their stated sustainability objectives, resulting in aver-
+age exposures more than double those toward aligned firms 
+(Benincasa 2021; Bruno and Lombini 2023; European Central 
+Bank 2024). It follows that the increasing transition risk within 
+credit portfolios originates from financing counterparties who 
+demonstrate resistance to swift actions in addressing transition 
+challenges, such as a lack of expediency in either discontinu-
+ing their high-­carbon production capacities or expanding their 
+renewable energy production capabilities (European Central 
+Bank 2024).
+The literature on the assessment of climate-­related risks in bank-
+ing loan markets remains quite limited. The lack of emission data 
+for unlisted entities significantly hinders accurate greenhouse 
+gas accounting for bank loan portfolios. Considering these lim-
+itations, some authors have focused on techniques for determin-
+ing financed emissions held by investors, rather than exploring 
+banks' lending practices (Bolton and Kacperczyk  2021; Ilhan 
+et al. 2021).
+In contrast, other studies have relied on syndicated loans data 
+as a valuable context for examining banking lending prac-
+tices. Delis et al. (2024) analyze syndicated loan data for fos-
+sil fuel firms to evaluate whether banks are pricing the risk 
+of stranded assets. They find that after the Paris Agreement 
+in 2015, banks have begun to incorporate the risk of stranded 
+fossil fuel reserves into their pricing strategies. Degryse 
+et al. (2023) highlight that green banks have rewarded environ-
+mentally responsible firms through cheaper loans. Kleimeier 
+and Viehs  (2018) examine whether companies that choose 
+to disclose their carbon emissions to the Carbon Disclosure 
+Project (CDP) can reduce their credit costs. By employing syn-
+dicated loan data, they show that companies voluntarily dis-
+closing their CO2 emissions experience decreased credit costs 
+in comparison to those that do not disclose. Likewise, Bruno 
+and Lombini (2023) observe that banks react to heightened cli-
+mate risks by adjusting the cost and the amount of credit to 
+heavily polluting firms situated in jurisdictions with rigorous 
+climate regulations. Ehlers et al. (2022) show that the pricing 
+of carbon risk in the syndicated loan market has undergone 
+substantial changes following the implementation of the Paris 
+Agreement. Additionally, Benincasa (2021) observes that dis-
+parities in climate policies across countries drive banks to 
+intensify their cross-­border lending activities. Banks expand 
+such operations when subject to stringent domestic climate 
+regulations, as local lending can become less profitable. Also 
+drawing on syndicated loan data, Del Gaudio et al. (2022) iden-
+tify a correlation between the propensity for green lending and 
+a reduction in risk-­profitability within financial institutions. 
+Their findings suggest that banks typically adopt a cautious 
+credit policy and cooperative strategies in their green lending 
+practices. Consequently, banks that prioritize investments in 
+environmentally sustainable projects tend to experience lower 
+default and credit risk compared to those that do not prioritize 
+green initiatives.
+Differently from previous research that explores banks' environ-
+mental practices and their relationship with performance or risk 
+metrics, our study investigates which factors have the greatest 
+impact on increasing portfolio misalignment, thereby heighten-
+ing banks' exposure to transition risk. Therefore, we propose the 
+following hypotheses.
+Hypothesis 1.  Industry-­specific characteristics foster (hin-
+der) banks' green lending practices.
+Hypothesis  1 explores the existence of an industry-­specific 
+influence on the allocation of green loans, proxied by syndi-
+cated green loans. Different industries encompass activities 
+with varying degrees of sustainability and risk exposure and 
+have received different levels of attention from environmental 
+initiatives (Intergovernmental Panel on Climate Change 2014; 
+Basel Committee on Banking Supervision 2021b). The energy 
+sector has been at the forefront of environmental efforts, 
+thereby facilitating a smoother transition to environmental 
+sustainability (Green and Reyes 2023; Joshipura et al. 2025). 
+Furthermore, commonalities along sectoral classification that 
+affect green lending may be the result of isomorphic processes, 
+as outlined by DiMaggio and Powell (1983). Isomorphism is 
+a constraining force that drives the homogenization of orga-
+nizational behavior. In the case of environmental transition, 
+isomorphism can manifest through its three fundamental 
+mechanisms: coercive isomorphism, arising from direct or 
+subtle pressures, persuasion or invitations; mimetic isomor-
+phism, whereby organizations emulate standard responses to 
+uncertainty, when facing problems with ambiguous causes or 
+unclear solutions; normative isomorphism, associated with 
+professionalization and the emergence of individuals who 
+occupy similar positions across organizations and share com-
+mon orientations and dispositions.
+Hypothesis 2.  Countries' sustainability fosters (hinders) 
+banks' green lending practices.
+Hypothesis  2 investigates country-­level differences in green 
+loans driven by countries' environmental performance. Some 
+CSR and environmental studies employ both the institutional 
+and legitimacy theory to conclude that corporate behavior 
+is shaped by the context in which they operate, respectively 
+through social pressure, public and private rules as well as 
+the seek for social acceptance and legitimacy (Delmas and 
+Toffel 2004; Ioannou and Serafeim 2012; Baldini et al. 2018). 
+In a careful synthesis of the literature on organizational le-
+gitimacy, Suchman (1995) defines legitimacy as a generalised 
+perception that an entity's actions are desirable or appropriate 
+within some socially constructed system of norms, values and 
+beliefs. Organizations seek legitimacy as it enhances their sta-
+bility and comprehensibility and audiences tend to perceive 
+legitimate organizations as more worthy, meaningful, predict-
+able and trustworthy. In this perspective, countries' environ-
+mental commitment may provide firms with guidance on what 
+is considered the “right thing to do” (moral legitimacy), high-
+light their broader interests that trigger firms' responsiveness 
+ 10990836, 2025, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.70128 by Capes, Wiley Online Library on [11/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+10121
+Business Strategy and the Environment, 2025
+in exchange for support (pragmatic legitimacy) or furnish 
+cultural models that make corporate actions meaningful and 
+comprehensible (cognitive legitimacy).
+3   |   Research Design
+3.1   |   Data
+To investigate the key determinants of loan environmental 
+sustainability, we use a dataset on syndicated loans over the 
+2015–2023 period. The initial dataset comprises 17,035 syndi-
+cated loans closed between January 1, 2015, and December 31, 
+2023, in which at least one European bank—from countries 
+within the European System of Central Banks—participates. 
+Each observation includes information about the loan and the 
+bookrunner banks2 involved, as well as the country and in-
+dustry of the financed company and the sustainability of the 
+financing itself. This last feature consists of a dummy variable 
+which is equal to 1 if the loan meets at least one of the following 
+conditions: the proceeds are used for green purposes; its pric-
+ing is tied to the borrower's sustainability performance; or the 
+borrower is classified under a list of sustainable business activi-
+ties3; otherwise, it is 0. Additionally, we include various control 
+variables that may affect our results to alleviate concerns about 
+omitted variables, such as controls for banks' financial metrics 
+and the environmental performance of the financed country. 
+The final sample—reduced to 16,428 observations due to miss-
+ing data in those covariates—consists of data collected match-
+ing three different sources: Refinitiv Eikon, International 
+Monetary Fund (IMF), and BankFocus. Detailed information 
+on their respective definitions is provided in Table 1. For the 
+descriptive analysis of our sample, we complement the main 
+dataset with data from the Organisation for Economic Co-­
+operation and Development (OECD) on industry-­level produc-
+tion covering the EU countries of the borrowers' firms in our 
+sample. Prior to conducting the regression analysis, we first 
+explore the dataset's structure. The variable INDUSTRY refers 
+to the Refinitiv Business Classification (TRBC) developed by 
+Thomson Reuters for the borrower firms. The variables SIZE, 
+LIQRATIO, and ROA represent bank-­level economic and fi-
+nancial metrics to control for the characteristics of the loan's 
+bookrunners. For each observation, the value of these variables 
+corresponds to the average of the individual values reported 
+by each European bookrunner bank participating in that spe-
+cific loan.
+Table 2 provides the summary statistics of the continuous vari-
+ables employed in the analysis, while Table 3 and Table 4 exhibit 
+the sample distribution by COUNTRY and INDUSTRY.
+All the continuous independent variables have been winsorized 
+at 1% and 99% levels to reduce the effect of potential outliers and 
+are lagged by 1 year.
+In addition to the overall sample distribution by industry and 
+country, Table 5 reports the sectoral breakdown of the domestic 
+economy for each of the EU countries in our sample, as measured 
+by the share of production attributable to each industry. The 
+data are derived from industry-­level production values sourced 
+from a repository of structural business statistics provided by the 
+OECD. Across most countries, we observe that Auto, Machinery 
+& Vehicles, Construction, Food & Accommodation, Oil, Gas & 
+Metals, and Technology are among the industries with the high-
+est production shares.
+TABLE 1    |    Variables description.
+Variable
+Description
+Source
+Dependent variable
+GREENSYND
+Dummy variable 
+equal to 1 if the 
+syndicated loan is 
+classified as green, 
+and 0 otherwise
+Refinitiv 
+Eikon (2024)
+Variables of interest
+INDUSTRY
+Classification of 
+the industry in 
+which the borrower 
+primarily operates
+Refinitiv 
+Eikon (2024)
+COUNTRY
+The country in 
+which the borrower 
+firm is established
+Refinitiv 
+Eikon (2024)
+YEAR
+The year in which 
+the loan syndication 
+was signed and 
+completed
+Refinitiv 
+Eikon (2024)
+GHG
+Total Greenhouse 
+Gas emissions of 
+the borrower's 
+country relative 
+to its GDP
+Authors' 
+calculations 
+based on 
+the IMF
+Control variables: Loan characteristics
+LOANSIZE
+The total 
+monetary value 
+of the syndicated 
+loan package
+Refinitiv 
+Eikon (2024)
+TRANCHENUM
+Total number of 
+tranches within 
+the loan package
+Refinitiv 
+Eikon (2024)
+BOOKNUM
+Number of 
+Bookrunner 
+banks involved in 
+the syndication 
+of the loan
+Refinitiv 
+Eikon (2024)
+Control variables: Bank characteristics
+SIZE
+Bookrunner banks' 
+total assets
+BankFocus 
+(2024)
+ROA
+Bookrunner banks' 
+return on assets
+BankFocus 
+(2024)
+LIQRATIO
+The ratio between 
+liquid assets and 
+short-­term funding 
+and deposits
+Authors' 
+calculations 
+based on 
+BankFocus
+Note: Definition of variables.
+ 10990836, 2025, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.70128 by Capes, Wiley Online Library on [11/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+10122
+Business Strategy and the Environment, 2025
+We finally examine the pairwise correlations among the vari-
+ables to check for any potential multicollinearity. The resulting 
+correlation matrix is presented in Table 6. Statistically signifi-
+cant coefficients are predominantly below|0.5|, suggesting the 
+presence of weak to moderate correlations. Consequently, we 
+find no evidence of a severe multicollinearity problem within 
+the dataset.
+3.2   |   Model and Methodology
+To analyze the relationship between the independent variables 
+and the sustainability of syndicated loans, we begin by setting a 
+TABLE 2    |    Main descriptive statistics.
+Variable
+Obs
+Mean
+Median
+SD
+Min
+Max
+GREENSYND
+16,428
+0.142
+0
+0.350
+0
+1
+LOANSIZE
+16,428
+715.737
+276.804
+1166.566
+5.061
+7114.155
+TRANCHENUM
+16,428
+1.798
+1
+1.084
+1
+6
+BOOKNUM
+16,428
+3.974
+3
+3.569
+1
+17
+SIZE
+16,428
+1073.967
+967.929
+579.864
+26.311
+2634.444
+ROA
+16,428
+0.299
+0.319
+0.274
+−0.590
+0.924
+LIQRATIO
+16,428
+0.652
+0.621
+0.308
+0.109
+2.330
+GHG
+16,371
+0.315
+0.277
+0.207
+0.062
+1.476
+Note: This table presents the summary statistics of the variables used in the analysis.
+TABLE 3    |    Sample distribution by COUNTRY.
+COUNTRY
+Obs
+Austria
+112
+Belgium
+159
+Bulgaria
+16
+Croatia
+17
+Cyprus
+5
+Czech Republic
+41
+Denmark
+89
+Estonia
+11
+Finland
+150
+France
+1712
+Germany
+1484
+Greece
+40
+Hungary
+25
+Ireland
+104
+Italy
+695
+Lithuania
+19
+Luxembourg
+129
+Netherlands
+403
+Poland
+71
+Portugal
+50
+Romania
+21
+Slovakia
+10
+Spain
+1453
+Sweden
+192
+Non-­EU
+9420
+Total
+16,428
+Note: This table presents the number of syndicated loans in our sample by 
+country.
+TABLE 4    |    Sample distribution by INDUSTRY.
+INDUSTRY
+Obs
+Auto, Machinery & Vehicles
+1119
+Chemicals & Plastics
+778
+Construction
+1049
+Consumer Goods
+626
+Education & Entertainment
+625
+Food & Accommodation
+1325
+Healthcare
+917
+Oil, Gas & Metals
+1874
+Paper & Woods
+193
+Professional & Business Services
+1103
+Real Estate
+1155
+Technology
+1640
+Trade
+690
+Transportation & Logistics
+968
+Utilities
+2366
+Total
+16,428
+Note: This table presents the number of syndicate loans in our sample by 
+industry.
+ 10990836, 2025, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.70128 by Capes, Wiley Online Library on [11/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+10123
+Business Strategy and the Environment, 2025
+TABLE 5    |    Sectoral composition of domestic production (%).
+AMV
+CHP
+CST
+CGO
+EDE
+FOA
+HLT
+OGM
+PAW
+PBS
+RES
+TEC
+TRD
+TRL
+UTL
+AT
+11.2
+4.0
+11.9
+4.1
+2.4
+9.8
+4.5
+14.9
+3.1
+6.6
+3.3
+7.2
+5.4
+4.9
+6.7
+BE
+6.3
+5.3
+11.0
+6.3
+2.9
+9.8
+10.2
+10.6
+1.0
+11.2
+1.8
+6.4
+4.7
+6.5
+6.1
+BG
+5.9
+3.9
+10.8
+6.3
+3.4
+11.9
+2.4
+14.4
+1.4
+5.7
+2.0
+9.8
+5.9
+9.2
+6.9
+HR
+5.0
+0.7
+5.8
+6.2
+3.4
+14.5
+1.1
+4.0
+0.7
+12.5
+3.1
+11.5
+15.6
+13.2
+2.6
+CY
+2.3
+0.6
+13.9
+2.8
+4.9
+15.1
+4.5
+3.8
+0.7
+10.4
+0.7
+17.9
+6.3
+11.7
+4.4
+CZ
+19.0
+5.3
+9.9
+4.0
+2.5
+2.5
+2.5
+11.8
+1.9
+6.7
+2.2
+11.8
+4.5
+5.9
+9.5
+DK
+6.8
+2.0
+10.7
+4.2
+4.0
+8.3
+7.0
+4.6
+0.7
+8.5
+12.1
+7.9
+3.9
+15.0
+4.5
+EE
+4.9
+2.3
+11.2
+5.1
+3.1
+8.1
+2.4
+7.5
+7.0
+7.8
+4.2
+13.1
+5.6
+12.2
+5.4
+FI
+9.0
+3.3
+15.0
+2.8
+3.2
+6.5
+4.3
+7.7
+6.8
+7.4
+4.2
+12.5
+5.4
+7.4
+4.4
+FR
+10.4
+3.6
+12.2
+3.8
+3.9
+11.0
+5.7
+6.9
+1.0
+10.1
+2.9
+8.9
+6.5
+7.8
+5.1
+DE
+15.6
+4.4
+7.5
+3.2
+2.7
+6.4
+8.5
+10.2
+1.3
+6.9
+2.1
+8.2
+4.5
+4.5
+13.9
+GR
+2.3
+2.4
+6.8
+5.8
+7.0
+18.1
+4.2
+14.6
+1.0
+6.4
+1.2
+7.0
+6.2
+7.9
+9.0
+HU
+18.6
+5.3
+8.1
+3.3
+3.7
+9.7
+3.2
+9.6
+1.4
+6.4
+2.1
+13.6
+5.6
+5.7
+3.7
+IE
+2.3
+6.6
+9.2
+3.3
+3.2
+13.9
+2.9
+3.3
+0.5
+17.8
+0.9
+23.1
+5.1
+4.6
+3.3
+IT
+11.4
+4.5
+9.2
+8.0
+3.2
+10.5
+4.4
+11.5
+1.6
+8.0
+1.8
+7.3
+5.5
+7.2
+6.0
+LT
+5.6
+7.0
+13.9
+8.5
+3.2
+4.3
+2.5
+4.5
+3.7
+7.6
+3.2
+7.7
+6.3
+16.7
+5.3
+LU
+5.0
+0.8
+15.9
+1.7
+1.3
+13.1
+5.7
+8.3
+0.4
+9.9
+3.7
+14.2
+7.6
+11.7
+0.6
+NL
+6.9
+5.4
+9.3
+4.2
+3.9
+11.1
+11.1
+7.4
+1.0
+13.0
+2.6
+9.7
+4.4
+7.3
+2.6
+PL
+9.0
+5.1
+10.8
+4.6
+3.7
+11.6
+3.4
+13.0
+2.6
+6.3
+2.9
+8.0
+6.9
+7.5
+4.6
+PT
+7.3
+3.7
+9.2
+7.9
+3.2
+13.0
+4.4
+9.7
+2.9
+8.4
+2.5
+7.5
+6.3
+8.0
+5.9
+RO
+12.8
+3.8
+11.7
+5.2
+2.9
+8.7
+2.6
+9.1
+2.0
+6.4
+2.0
+9.6
+8.0
+8.8
+6.4
+SK
+23.9
+4.0
+7.8
+3.0
+3.1
+5.3
+2.2
+10.3
+1.7
+8.2
+2.0
+9.9
+6.3
+6.1
+6.3
+ES
+9.5
+4.4
+11.5
+4.7
+4.8
+15.8
+4.2
+9.6
+1.5
+8.1
+1.8
+6.7
+5.7
+6.1
+5.6
+SE
+11.0
+2.1
+14.0
+4.3
+4.3
+6.3
+4.8
+7.8
+3.8
+9.6
+5.4
+10.8
+4.4
+7.3
+4.0
+Note: This table presents the shares of total domestic production across industries for each of the EU countries in our sample. Country names are indicated by their 
+two-­letter ISO codes along the rows, while each numbered column corresponds to a specific industry, as follows: Auto, Machinery & Vehicles (AMV); Chemicals 
+& Plastics (CHP); Construction (CST); Consumer Goods (CGO); Education & Entertainment (EDE); Food & Accommodation (FOA); Healthcare (HLT); Oil, Gas & 
+Metals (OGM); Paper & Woods (PAW); Professional & Business Services (PBS); Real Estate (RES); Technology (TEC); Trade (TRD); Transportation & Logistics (TRL); 
+Utilities (UTL). To enhance readability, a color gradient is applied to the table, with more intense tones corresponding to higher percentages. Columns outlined in 
+black correspond to sectors that most frequently feature among the main contributors to domestic production across countries.
+TABLE 6    |    Correlation matrix.
+Variables
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(1) GREENSYND
+1.000
+(2) LOANSIZE
+−0.055*
+1.000
+(3) TRANCHENUM
+0.016*
+0.109*
+1.000
+(4) BOOKNUM
+−0.079*
+0.567*
+0.009
+1.000
+(5) SIZE
+−0.114*
+0.204*
+−0.047*
+0.220*
+1.000
+(6) ROA
+0.075*
+−0.084*
+−0.027*
+−0.097*
+−0.124*
+1.000
+(7) LIQRATIO
+−0.031*
+0.062*
+−0.022*
+0.076*
+0.042*
+−0.184*
+1.000
+(8) GHG
+−0.060*
+−0.002
+−0.048*
+0.015*
+0.058*
+0.014*
+0.005
+1.000
+Note: This table presents the pairwise correlations of the variables used in our analyses. Asterisk (*) indicates significance at the 10% level.
+ 10990836, 2025, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.70128 by Capes, Wiley Online Library on [11/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+10124
+Business Strategy and the Environment, 2025
+multiple logistic regression model that incorporates the categor-
+ical variables for the financed country, financed industry, and 
+closing year as regressors. The baseline model is:
+where GREENSYNDit is the dummy response variable, LOANit-­1 
+is the vector of control variables accounting for loan characteris-
+tics, BANKit-­1 is the vector of control variables for bank charac-
+teristics, while COUNTRY, INDUSTRY, and YEAR represent 
+the fixed effects at the levels of, respectively, financed companies' 
+country, financed companies' industry, and time.
+Table 7 shows the results of the logistic regression, expressed 
+in terms of odds ratios. It can be observed that most of the co-
+efficients are statistically significant, providing evidence that 
+differences exist with respect to the base level chosen for each 
+categorical regressor (Column 1, Table  7). First, concerning 
+the temporal dimension, the odds of syndicated loans being 
+green have increased compared to 2015—the reference year—
+reaching a peak in 2022, when the odds ratio with respect to 
+2015 is 14.426. Second, at the industry level, the highest odds 
+are associated with Utilities4—chosen as the reference cat-
+egory—since every odds ratio is lower than one. This result 
+shows the existence of an industry-­specific influence, as stated 
+in Hypothesis  1. Environmental efforts have predominantly 
+targeted the energy sector, to ensure a reliable, sustainable, and 
+efficient energy system. Some initiatives (European Parliament 
+and Council 2012) precede the Paris Agreement and have pro-
+gressively consolidated over time. As a result, the path to en-
+vironmental transition has been better defined for those firms 
+(Green and Reyes 2023), which, in turn, facilitates the origina-
+tion of syndicated green loans. Third, for most EU countries in 
+the sample, the odds are higher than those of non-­EU countries, 
+used as the reference level for the variable concerning the bor-
+rower's country.
+We then compute the predicted probabilities associated with the 
+two dimensions of interest in our research question, countries and 
+industries (Column 2, Table 7). With a focus on syndicated loans 
+to firms in EU countries, the aim is to identify which category is 
+lagging the most, thereby impacting green lending. Probabilities 
+are rather low across both dimensions, which corroborates the 
+existence of a limited sustainability challenge and the consequent 
+misalignment issue in the loan market. The lowest probabilities 
+tend to be recorded at the industry level, except for Utilities, which 
+show a significantly different profile relative to the others.
+These results suggest that almost every industry struggles to 
+generate syndicated green loans, regardless of both the bank and 
+the country involved. Not even the combinations of industries 
+at the country level result in remarkably higher probabilities, 
+as most remain below 30%. No country outperforms the others 
+and stands out as markedly better associated with green loans, 
+thus representing a clear benchmark for best practices. Instead, 
+an opposite situation is observed with Utilities at an industry 
+level, highlighting how certain sectors may be more responsive 
+to align with environmental goals.
+(1)
+GREENSYNDit =βcLOANit−1 +βbBANKit−1 +βjCOUNTRYi
++βkINDUSTRYi +βhYEARi,
+TABLE 7    |    Syndicated green loans and COUNTRY, INDUSTRY, and 
+YEAR.
+Variables
+(1)
+(2)
+GREENSYND
+GREENSYND
+Austria
+2.658 (0.676)***
+0.220 (0.031)***
+Belgium
+3.303 (0.741)***
+0.248 (0.029)***
+Bulgaria
+1.973 (1.686)
+0.185 (0.094)***
+Croatia
+0.527 (0.397)
+0.077 (0.043)*
+Cyprus
+4.439 (4.374)
+0.290 (0.144)**
+Czech Republic
+0.494 (0.224)
+0.074 (0.025)***
+Denmark
+2.919 (0.759)***
+0.232 (0.033)***
+Estonia
+1.134 (1.019)
+0.131 (0.077)*
+Finland
+2.355 (0.575)***
+0.206 (0.028)***
+France
+2.000 (0.201)***
+0.188 (0.010)***
+Germany
+1.241 (0.139)*
+0.139 (0.009)***
+Greece
+1.712 (0.834)
+0.170 (0.050)***
+Hungary
+0.693 (0.329)
+0.094 (0.031)***
+Ireland
+2.324 (0.552)***
+0.204 (0.028)***
+Italy
+3.030 (0.335)***
+0.237 (0.013)***
+Lithuania
+0.187 (0.160)**
+0.034 (0.025)
+Luxembourg
+0.909 (0.337)
+0.113 (0.028)***
+Netherlands
+2.295 (0.370)***
+0.203 (0.018)***
+Poland
+1.252 (0.446)
+0.140 (0.032)***
+Portugal
+8.030 (2.797)***
+0.383 (0.057)***
+Romania
+0.298 (0.256)
+0.050 (0.034)
+Slovakia
+2.782 (2.598)
+0.226 (0.118)*
+Spain
+3.200 (0.286)***
+0.244 (0.010)***
+Sweden
+2.201 (0.463)***
+0.198 (0.024)***
+Auto, Machinery & 
+Vehicles
+0.123 (0.015)***
+0.163 (0.012)***
+Chemicals & Plastics
+0.109 (0.015)***
+0.148 (0.014)***
+Construction
+0.119 (0.014)***
+0.159 (0.012)***
+Consumer Goods
+0.074 (0.012)***
+0.110 (0.014)***
+Education & 
+Entertainment
+0.031 (0.008)***
+0.052 (0.012)***
+Food & 
+Accommodation
+0.124 (0.013)***
+0.163 (0.011)***
+Healthcare
+0.049 (0.008)***
+0.079 (0.011)***
+Oil, Gas & Metals
+0.092 (0.010)***
+0.131 (0.010)***
+Paper & Woods
+0.155 (0.032)***
+0.191 (0.026)***
+Professional & 
+Business Services
+0.080 (0.010)***
+0.117 (0.011)***
+Real Estate
+0.144 (0.015)***
+0.181 (0.012)***
+(Continues)
+ 10990836, 2025, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.70128 by Capes, Wiley Online Library on [11/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+10125
+Business Strategy and the Environment, 2025
+3.3   |   Further Analysis
+To deepen the understanding of the underlying impact at the 
+country level on syndicated green loans, we propose a revised 
+specification of Model (1), incorporating the GHG variable as a 
+proxy for the sustainability level of the country where the bor-
+rower firms are established.
+To distinguish this effect between EU countries and not, and to 
+prevalently examine this relationship in EU countries, we adopt 
+a logistic model including an interaction between the GHG vari-
+able and the dummy EU, which is equal to 1 if the country is 
+among those belonging to the EU and 0 otherwise.
+Model (2), whose output is displayed in Table 8, has the follow-
+ing framework:
+where GHGit-­1 is the variable concerning environmental sustain-
+ability in terms of emissions over GDP, EUi is the dummy vari-
+able separating EU countries from non-­EU countries, LOANit-­1 
+is the vector of controls accounting for loan characteristics, 
+BANKit-­1 is the vector of controls for bank characteristics, while 
+INDUSTRY and YEAR are the fixed effects at the industry and 
+time level, as already specified in Model 1.
+Table  8 displays a statistically significant coefficient associated 
+with the aforementioned interaction term, suggesting that the re-
+lationship between country-­level sustainability and the issuance 
+of syndicated green loans varies between EU and non-­EU coun-
+tries. The coefficients in Table  9 present the average marginal 
+effects of GHG on the likelihood of sustainable loans for the two 
+groups of EU countries (EU = 1) and non-­EU countries (EU = 0). 
+Notably, for borrowers located in EU countries, a negative relation-
+ship emerges between the level of GHG emissions per GDP and 
+the probability of green lending. In other words, in more sustain-
+able countries the probability of a loan being green is higher and 
+increases with its level. With regard to Hypothesis 2, this result 
+supports the existence of a positive relationship between countries' 
+environmental sustainability and banks' green lending practices. 
+However, this relationship does not hold for loans to companies in 
+non-­EU countries, as evidenced by the corresponding coefficient 
+in Table 9, which remains negative but is substantially smaller and 
+statistically insignificant. This suggests that institutional forces, 
+pressures, and the pursuit of legitimacy are stronger and more ev-
+ident in EU countries.
+4   |   Robustness Checks
+To support the previous findings, in this section we conduct a 
+robustness check, which involves the adoption of an alternative 
+dependent variable and a different model specification. The obser-
+vations of the original dataset on syndicated loans are now disag-
+gregated to capture the participation of each bookrunner involved 
+in every loan tranche, along with the corresponding amount cred-
+ited to it (Refinitiv). All other key information is maintained, such 
+as the environmental flag, as well as the borrowers' country and in-
+dustry. The data on banks' participation in syndicated loans is then 
+aggregated by bank and year, distinguishing between green syndi-
+cated loans and not. The ratio between the amount of syndicated 
+green loans and the total amount of syndicated loans for each bank 
+each year represents our new outcome variable (GREENSHARE), 
+(2)
+GREENSYNDit =βeGHGit−1 +βjEUi +βw
+(GHGit−1 ×EUi
+)+βc
+LOANit−1 +βbBANKit−1 +βkINDUSTRYi +βhYEARi,
+Variables
+(1)
+(2)
+GREENSYND
+GREENSYND
+Technology
+0.077 (0.009)***
+0.113 (0.009)***
+Trade
+0.105 (0.014)***
+0.144 (0.013)***
+Transportation & 
+Logistics
+0.102 (0.013)***
+0.141 (0.012)***
+Utilities
+0.508 (0.012)***
+2016
+0.699 (0.132)*
+2017
+1.357 (0.223)*
+2018
+2.005 (0.308)***
+2019
+3.846 (0.565)***
+2020
+4.586 (0.680)***
+2021
+10.240 (1.442)***
+2022
+14.426 (2.047)***
+2023
+11.510 (1.654)***
+Loan controls
+Yes
+Bank controls
+Yes
+Pseudo R2
+0.275
+Observations
+16,428
+Note: This table presents the estimation results for the logistic regression of 
+GREENSYND on COUNTRY, INDUSTRY, and YEAR variables, controlling 
+for loan and bank characteristics. In Column 1, coefficients are reported as 
+odds ratios with respect to their corresponding reference category, respectively, 
+non-­EU, Utilities, 2015. Column 2 presents the corresponding predicted 
+probabilities. *, **, and *** represent p-­values smaller than 10%, 5%, and 1%, 
+respectively. Robust standard error in parentheses in Column 1. Delta-­method 
+standard error in parentheses in Column 2.
+TABLE 7    |    (Continued)
+TABLE 8    |    Syndicated green loans and country's sustainability.
+Variables
+GREENSYND
+GHGt-­1
+0.843 (0.167)
+1.EU
+2.830 (0.396)***
+GHGt-­1 × 1.EU
+0.296 (0.149)**
+Loan Controls
+Yes
+Bank Controls
+Yes
+Industry FE
+Yes
+Year FE
+Yes
+Pseudo R2
+0.265
+Observations
+16,371
+Note: This table presents the estimation results for a logistic regression of 
+GREENSYND on GHG interacting with the dummy variable EU, controlling for 
+loan characteristics, industry, and year fixed effects. Coefficients are reported 
+as odds ratios. *, **, and *** represent p-­values smaller than 10%, 5%, and 1%, 
+respectively. Robust standard error in parentheses.
+ 10990836, 2025, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.70128 by Capes, Wiley Online Library on [11/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+10126
+Business Strategy and the Environment, 2025
+taken as a proxy for banks' portfolio misalignment. A similar ag-
+gregation at the bank-­year level is then performed to identify the 
+industry with which each bookrunner is most involved.
+We also consider CO2 emissions over GDP as a different proxy 
+for the environmental sustainability level of the country where 
+the bookrunner is involved in the loan operations. Therefore, the 
+resulting dataset consists of a bank-­level panel, where each obser-
+vation reflects the yearly aggregated characteristics of the syndi-
+cated loan participations attributed to a given bookrunner bank.
+We estimate a fixed-­effect linear regression model on 
+GREENSHARE, with the following equation:
+where GREENSHAREit is the dependent variable accounting 
+for the ratio between syndicated green loans and total syndi-
+cated loans credited to the bookrunners, BANKit-­1 is the vector 
+of controls for bank characteristics, INDUSTRYi captures the 
+fixed effects of the primary sectoral engagement for each bank, 
+CO2it-­1 is the lagged variable concerning the country's environ-
+mental sustainability in terms of CO2 emissions over GDP, and 
+YEAR represents the time fixed effects.
+Table 10 shows the model results in Column 1 and the corre-
+sponding predicted margins for each industry in Column 2, 
+respectively. These findings corroborate those of the previous 
+Model (1) (Table 7). At the industry level, the highest proportion 
+of syndicated green loans is recorded among banks primarily 
+involved in the Utilities sector, chosen as the reference category 
+(Column 2, Table  10). All the other industries are associated 
+with lower shares. At the country level, the positive relationship 
+between the country's environmental sustainability and the is-
+suance of syndicated green loans is confirmed by a negative co-
+efficient associated with the logarithm of CO2.
+Finally, we propose a further specification of Model (3) in which 
+we add the 1-­year lagged dependent variable (GREENSHAREit-­1) 
+as a new regressor to capture the potential persistence effects of 
+the dependent variable over time:
+where GREENSHAREit-­1 is the lagged dependent variable intro-
+duced as a new regressor, BANKit-­1 is the vector of controls for 
+bank characteristics, INDUSTRYi captures the fixed effects of the 
+primary sectoral engagement for each bank, CO2it-­1 is the lagged 
+variable concerning the country's environmental sustainability 
+in terms of CO2 emissions over GDP, and YEAR represents the 
+time fixed effects. Column 3 of Table 10 contains the output of a 
+dynamic OLS regression model. The results align with the pre-
+vious findings on the industry-­level and country's sustainability 
+effects on the shares of syndicated green loans. Another import-
+ant result that also serves as a check of the dynamic estimation 
+is the coefficient associated with the lagged dependent variable. 
+Persistence in GREENSHARE is present, as indicated by a statis-
+tically significant coefficient (0.378) on its lagged value.
+5   |   Discussion
+This paper sets out to investigate the main determinants of 
+the misalignment in banks' credit portfolios, through data of 
+the syndicated loans market. The aim is to determine whether 
+exogenous factors such as the characteristics of the countries 
+in which banks operate—and notably their sustainability—as 
+well as the financed industries may be considered the primary 
+obstacles for banks in aligning with climate objectives. Our 
+results reflect an important shift in perspective that comple-
+ments much of the previous literature primarily focused on 
+the proactive role of the financial system in driving the en-
+vironmental transition (Kleimeier and Viehs  2018; Degryse 
+et al. 2023; Delis et al. 2024; Erten and Ongena 2024; Song and 
+Rimmel 2025). Instead, building on recent acknowledgments 
+of the difficulties encountered by financial institutions in the 
+path towards decarbonization (European Central Bank 2024), 
+we highlight the major role played by structural elements, such 
+as country-­ and sector-­specific characteristics, in explaining 
+portfolio misalignment. In this sense, these factors may repre-
+sent constraints that undermine the environmental efforts of 
+financial institutions previously documented in the literature.
+The main findings indicate that there are statistically signif-
+icant differences in green syndicated loan issuance among 
+different countries and sectors. With respect to the industry 
+receiving the financing, Utilities are found to be more associ-
+ated with green loans, while the other industries show lower 
+probabilities of their issuance. Additionally, when compar-
+ing industry-­ and country-­specific effects, it can be observed 
+that the major impediment to green lending lies at the indus-
+try level. The exception represented by Utilities suggests that 
+higher levels of sustainable financing are attainable, whereas 
+all other industries consistently lag behind. However, it is worth 
+noting that Utilities is still a rather marginal industry across 
+EU countries' economies (as reported in Table 5), while those 
+with larger production shares—such as Auto, Machinery & 
+Vehicles, Construction, Food & Accommodation, Oil, Gas & 
+Metals, and Technology—tend to be relatively less likely to se-
+cure syndicated green loans. This reinforces the notion that the 
+major barrier in transitioning toward decarbonization comes 
+from industries with a more entrenched role in national econo-
+mies. Consequently, these structural constraints are reflected in 
+banks' portfolios, as they are not fully independent in the alloca-
+tion of financial resources.
+Furthermore, as far as the differences among countries are 
+concerned, it has also been shown that countries' sustainabil-
+ity facilitates the origination of syndicated green loans. In this 
+context, countries' GHG emissions over GDP serve as a proxy for 
+(3)
+GREENSHAREit = βkINDUSTRYi + βwCO2it−1 + βhYEARi + βbBANKit−1,
+(4)
+GREENSHAREit =βdGREENSHAREit−1 +βkINDUSTRYi
++βwCO2it−1 +βhYEARi +βbBANKit−1,
+TABLE 9    |    Average marginal effects of GHG on syndicated green 
+loans.
+VARIABLES
+GREENSYND
+At EU = 0
+−0.012 (0.014)
+At EU = 1
+−0.159 (0.053)***
+Note: This table presents the average marginal effects of GHG on the probability 
+of syndicated green loans for the two groups of EU countries (EU = 1) and 
+non-­EU countries (EU = 0). *, **, and *** represent p-­values smaller than 10%, 
+5%, and 1%, respectively. Delta-­method standard errors are in parentheses.
+ 10990836, 2025, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.70128 by Capes, Wiley Online Library on [11/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+10127
+Business Strategy and the Environment, 2025
+their environmental performance, reflecting the broader socie-
+tal commitment to climate issues signaled to firms. In response 
+to this—as explained by institutional and legitimacy theo-
+ries—companies may experience direct pressures or more sub-
+tle persuasion to align with certain societal expectations on the 
+environmental dimension (DiMaggio and Powell  1983), while 
+also becoming aware of the dedicated efforts needed to achieve 
+legitimacy (Suchman 1995). Therefore, the higher a country's en-
+vironmental commitment, the stronger the pressure local firms 
+will face—for example, stronger environmental requirements—
+and the higher the threshold they must meet to gain legitimacy. 
+Consequently, as firms become more environmentally respon-
+sive, banks will find it easier to engage with green counterpar-
+ties, which results in a greater allocation of syndicated green 
+loans, thereby reducing their portfolio misalignment.
+6   |   Conclusion
+Overall, this study provides evidence that banks' portfolio 
+misalignment is not primarily attributable to their allocation 
+choices, but rather to exogenous factors related to the industrial 
+structure of the countries in which they operate. Our results 
+set some implications for banks and policymakers. The issue of 
+portfolio misalignment must be contextualized with the busi-
+ness characteristics of the bank's operating area. From this 
+perspective, although banks can take a proactive role in urg-
+ing firms toward the green transition by applying higher credit 
+costs or fewer financing opportunities to polluting firms, their 
+financing decisions are influenced by exogenous factors that are 
+difficult to control. Furthermore, such choices could generate a 
+compression of bank profitability margins in the short run, par-
+ticularly due to the constraints imposed by the environmental 
+characteristics inherent to the industries in which these banks 
+operate. Despite the role they may play in incentivizing the 
+pathway to decarbonization, banks remain constrained—by the 
+need to preserve revenue streams—to continue financing firms 
+not yet fully aligned with the low-­carbon economy objective.
+From the perspective of policymakers, the pursuit of a greater 
+environmental transition of firms must be based on public 
+policies aimed at the green innovation of companies' business 
+models. Indeed, the role banks can play in promoting the eco-
+logical transition can be undermined by political decisions at 
+TABLE 10    |    Share of syndicated green loans on INDUSTRY and CO2.
+Variables
+(1)
+(2)
+(3)
+GREENSHARE
+GREENSHARE
+GREENSHARE
+GREENSHAREt-­1
+0.378 (0.060)***
+CO2t-­1
+−4.463 (2.080)**
+−4.329 (2.485)*
+Auto, Machinery & Vehicles
+−15.256 (4.433)***
+20.961 (3.379)***
+−7.411 (4.789)
+Chemicals & Plastics
+−17.330 (4.872)***
+18.887 (3.972)***
+−14.198 (4.718)***
+Construction
+−17.610 (3.891)***
+18.607 (2.615)***
+−10.234 (4.474)**
+Consumer Goods
+−23.278 (3.898)***
+12.939 (2.644)***
+−16.676 (4.288)***
+Education & Entertainment
+−24.309 (4.003)***
+11.908 (2.783)***
+−14.687 (4.544)***
+Food & Accommodation
+−20.109 (3.802)***
+16.108 (2.494)***
+−11.556 (4.202)***
+Healthcare
+−22.008 (4.135)***
+14.210 (3.047)***
+−17.186 (3.776)***
+Oil, Gas & Metals
+−27.421 (3.432)***
+8.797 (1.854)***
+−18.382 (3.970)***
+Paper & Woods
+−12.916 (7.700)*
+23.302 (7.111)***
+−14.542 (5.457)***
+Professional & Business Services
+−17.329 (4.468)***
+18.889 (3.450)***
+−14.284 (4.444)***
+Real Estate
+−20.253 (4.534)***
+15.964 (3.457)***
+−9.245 (5.304)*
+Technology
+−25.053 (3.499)***
+11.164 (2.042)***
+−21.742 (3.954)***
+Trade
+−21.596 (3.997)***
+14.621 (2.780)***
+−11.546 (4.716)**
+Transportation & Logistics
+−22.749 (3.989)***
+13.468 (2.708)***
+−16.457 (4.721)***
+Utilities
+36.217 (2.845)***
+Bank Controls
+Yes
+Yes
+Year FE
+Yes
+Yes
+Observations
+1099
+696
+Adj R2
+0.277
+0.365
+Note: This table presents the estimation results for the linear regression of GREENSHARE on CO2, INDUSTRY, and YEAR variables, controlling for bank 
+characteristics. INDUSTRY identifies the industry with which each bookrunner is most involved. *, **, and *** represent p-­values smaller than 10%, 5%, and 1%, 
+respectively. Robust standard errors in parentheses in Columns 1 and 3. Delta-­method standard error in parentheses in Column 2.
+ 10990836, 2025, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.70128 by Capes, Wiley Online Library on [11/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+10128
+Business Strategy and the Environment, 2025
+other levels that are not equally responsive and sensitive to en-
+vironmental issues. Advancing the green transition of the EU 
+economy requires substantial investments, and despite recent 
+progress, further efforts are needed to keep decarbonization on 
+track toward carbon neutrality by 2050. The existence of an envi-
+ronmental misalignment problem underscores the complexity of 
+the green finance landscape, and the public sector needs to sup-
+port the process, acting as a catalyst through the crowding-­in of 
+green private investment (European Central Bank 2025). On the 
+regulatory side, strengthening the EU taxonomy and increasing 
+the transparency and consistency of sustainability-­related dis-
+closures could lay the groundwork for gradually introducing 
+regulatory requirements for businesses. However, the scope and 
+effectiveness of this normative intervention cannot overlook 
+structural factors and should tailor those macro contexts facing 
+greater challenges in private green financing.
+Beyond this, the widespread misalignment in banks' portfolios 
+signals a significant transition risk for the entire financial system 
+(European Central Bank 2024), thus requiring a supervisory and 
+regulatory approach to the issue. Applying standard and uniform 
+measures, such as higher capital requirements for exposures to 
+carbon-­intensive firms, may reduce the availability and affordabil-
+ity of financing for these firms, thereby undermining their capacity 
+to adjust their business models (Financial Stability Institute 2023). 
+Macroprudential instruments should therefore be defined not to 
+hinder the provision of transition finance. The European Central 
+Bank and European Systemic Risk Board (2022) have proposed 
+several candidate tools for addressing climate-­related systemic 
+risks in the banking sector. Many of these instruments—such as 
+the sectoral systemic risk buffer, concentration thresholds, con-
+centration charges, and the sectoral leverage ratio—could be de-
+ployed with greater flexibility and allow for tailored application 
+across different sectors and geographical areas.
+Finally, there are certain limitations to this study that should be 
+addressed in future research. First, industry-­level categories are 
+obtained by aggregating TRBC sub-­industries to reduce fragmen-
+tation and ensure better comparability with the OECD dataset's 
+ISIC Rev.4 classification. Second, future studies could extend our 
+findings on the drivers of banks' portfolio misalignment, exploring 
+whether and how bank business models are differently affected by 
+such external drivers. Third, the analysis could also be extended 
+from a geographical perspective, investigating whether non-­
+European banks face the same challenges in aligning with climate 
+objectives, influenced by the context in which they operate.
+Acknowledgements
+Galletta acknowledges the GRINS project for support related to issues 
+included in the GRINS Project, such as “Resilience, recovery and sustain-
+ability: Sustainable Finance.” This study was funded by the European 
+Union – NextGenerationEU, Mission 4, Component 2, in the framework 
+of the GRINS – Growing Resilient, INclusive and Sustainable project 
+(GRINS PE00000018 – CUP E63C22002120006). The views and opinions 
+expressed are solely those of the authors and do not necessarily reflect 
+those of the European Union, nor can the European Union be held re-
+sponsible for them. Lorenzo Fichera acknowledges the fund funded by 
+DM n. 118, 02-03-2023 – ID: 7131. Open access publishing facilitated by 
+Universita degli Studi di Catania, as part of the Wiley – CRUI–CARE 
+agreement. [Correction added on 20 October 2025, after first online pub-
+lication: Acknowledgements section has been updated in this version.]
+Conflicts of Interest
+The authors declare no conflicts of interest.
+Endnotes
+	1	United Nations Climate Change Conference -­ United Arab Emirates 
+30 November -­ 12 December 2023 https://​unfccc.​int/​cop28​.
+	2	The bookrunner leads, originates, structures, and runs the books on 
+the deal, maintains a record of activity for the syndicate and under-
+writes the largest portion of the securities (Refinitiv Eikon).
+	3	Renewable Energy Equipment & Services (5020101010), Wind 
+Systems & Equipment (5020101011), Stationary Fuel Cells 
+(5020101012), Photovoltaic Solar Systems & Equipment (5020101013), 
+Thermal Solar Systems & Equipment (5020101014), Biomass Power 
+Energy Equipment (5020101015), Waste to Energy Systems & 
+Equipment (5020101016), Hydropower Equipment (5020101017), 
+Wave Power Energy Equipment (5020101018), Renewable Energy 
+Services 
+(5020101019), 
+Geothermal 
+Equipment 
+(5020101020), 
+Renewable Fuels (5020102010), Biodiesel (5020102011), Ethanol 
+Fuels (5020102012), Pyrolytic & Synthetic Fuels (5020102013), 
+Biomass & Biogas Fuels (5020102014), Hydrogen Fuel (5020102015), 
+Carbon Capture & Storage (5220301015), Electrical (Alternative) 
+Vehicles (5310101014), Sustainable & Energy Efficient Home Builders 
+(5320301014), Organic Farming (5410201023), Power Charging 
+Stations (5910101014), Alternative Electric Utilities (5910101020), 
+Hydroelectric & Tidal Utilities (5910101021), Solar Electric Utilities 
+(5910101022), Wind Electric Utilities (5910101023), Biomass & 
+Waste to Energy Electric Utilities (5910101024), Geothermal Electric 
+Utilities (5910101025), Independent Power Producers (5910102010), 
+Renewable IPPs (5910102012).
+	4	According to the TRBC scheme, the “Utilities” economic sector com-
+prises both renewable and fossil-­fuels-­based firms within its sub-­
+sectors of “Electric utilities” and “Independent power producers.”
+References
+Antimiani, A., V. Costantini, and E. Paglialunga. 2023. “Fossil Fuels 
+Subsidy Removal and the EU Carbon Neutrality Policy.” Energy 
+Economics 119: 106524. https://​doi.​org/​10.​1016/j.​eneco.​2023.​106524.
+Arzaghi, M., and J. Squalli. 2023. “The Environmental Impact of Fossil 
+Fuel Subsidy Policies.” Energy Economics 126: 106980. https://​doi.​org/​
+10.​1016/j.​eneco.​2023.​106980.
+Baldini, M., L. D. Maso, G. Liberatore, F. Mazzi, and S. Terzani. 2018. 
+“Role of Country-­ and Firm-­Level Determinants in Environmental, 
+Social, and Governance Disclosure.” Journal of Business Ethics 150: 
+79–98. https://​doi.​org/​10.​1007/​s1055​1-­​016-­​3139-­​1.
+Basel Committee on Banking Supervision. 2021a. Climate-­Related Risk 
+Drivers and Their Transmission Channels, April 2021. https://​www.​bis.​
+org/​bcbs/​publ/​d517.​pdf.
+Basel Committee on Banking Supervision. 2021b. Climate-­Related 
+Financial Risks – Measurement Methodologies. https://​www.​bis.​org/​
+bcbs/​publ/​d518.​pdf.
+Basel Committee on Banking Supervision 2023. Consultative 
+Document. Disclosure of Climate Related Financial Risks https://​www.​
+bis.​org/​bcbs/​publ/​d560.​pdf.
+Benincasa, E. 2021. “Climate Policy and Cross-­Border Lending: 
+Evidence From the Syndicated Loan Market.” Economic and Political 
+Studies 9, no. 4: 463–476. https://​doi.​org/​10.​1080/​20954​816.​2021.​
+1976904.
+Birindelli, G., G. Bonanno, S. Dell'Atti, and A. P. Iannuzzi. 2022. 
+“Climate Change Commitment, Credit Risk and the Country's 
+Environmental Performance: Empirical Evidence From a Sample of 
+International Banks.” Business Strategy and the Environment 31, no. 4: 
+1641–1655. https://​doi.​org/​10.​1002/​bse.​2974.
+ 10990836, 2025, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.70128 by Capes, Wiley Online Library on [11/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+10129
+Business Strategy and the Environment, 2025
+Bolton, P., and M. Kacperczyk. 2021. “Do Investors Care About Carbon 
+Risk?” Journal of Financial Economics 142, no. 2: 517–549. https://​doi.​
+org/​10.​1016/j.​jfine​co.​2021.​05.​008.
+Bruno, B., and S. Lombini. 2023. “Climate Transition Risk and Bank 
+Lending.” Journal of Financial Research 46, no. S1: 59–106. https://​doi.​
+org/​10.​1111/​jfir.​12360​.
+Cerutti, E., G. Hale, and C. Minoiu. 2015. “Financial Crises and the 
+Composition of Cross-­Border Lending.” Journal of International Money 
+and Finance 52: 60–81. https://​doi.​org/​10.​1016/j.​jimon​fin.​2014.​11.​013.
+Cregan, C., J. A. Kelly, and J. P. Clinch. 2024. “Do Environmental 
+and Climate Scores for Financial Institutions Reflect Lending and 
+Underwriting Activity? A Case Study of Global Banks.” Business 
+Strategy and the Environment 33, no. 7: 6433–6450. https://​doi.​org/​10.​
+1002/​bse.​3833.
+De Haas, R., and A. Popov. 2019. Finance and Carbon Emissions. 
+Working Paper Series 2318. European Central Bank. https://​doi.​org/​10.​
+2139/​ssrn.​3459987.
+Degryse, H., R. Goncharenko, C. Theunisz, and T. Vadasz. 2023. “When 
+Green Meets Green.” Journal of Corporate Finance 78: 102355. https://​
+doi.​org/​10.​1016/j.​jcorp​fin.​2023.​102355.
+Del Gaudio, B. L., D. Previtali, G. Sampagnaro, V. Verdoliva, and S. 
+Vigne. 2022. “Syndicated Green Lending and Lead Bank Performance.” 
+Journal of International Financial Management & Accounting 33: 412–
+427. https://​doi.​org/​10.​1111/​jifm.​12151​.
+Delis, M. D., K. Greiff, M. Iosifidi, and S. Ongena. 2024. “Being Stranded 
+With Fossil Fuel Reserves? Climate Policy Risk and the Pricing of Bank 
+Loans.” Financial Markets, Institutions & Instruments 33: 239–265. 
+https://​doi.​org/​10.​1111/​fmii.​12189​.
+Delmas, M., and M. W. Toffel. 2004. “Stakeholders and Environmental 
+Management Practices: An Institutional Framework.” Business Strategy 
+and the Environment 13: 209–222. https://​doi.​org/​10.​1002/​bse.​409.
+Di Tommaso, C., and J. Thornton. 2020. “Do ESG Scores Effect Bank 
+Risk Taking and Value? Evidence From European Banks.” Corporate 
+Social Responsibility and Environmental Management 27: 2286–2298. 
+https://​doi.​org/​10.​1002/​csr.​1964.
+DiMaggio, P. J., and W. W. Powell. 1983. “The Iron Cage Revisited: 
+Institutional Isomorphism and Collective Rationality in Organizational 
+Fields.” American Sociological Review 48: 147–160. https://​doi.​org/​10.​
+2307/​2095101.
+Dunz, N., A. Naqvi, and I. Monasterolo. 2021. “Climate Sentiments, 
+Transition Risk, and Financial Stability in a Stock-­Flow Consistent 
+Model.” Journal of Financial Stability 54: 100872. https://​doi.​org/​10.​
+1016/j.​jfs.​2021.​100872.
+Ehlers, T., F. Packer, and K. De Greiff. 2022. “The Pricing of Carbon 
+Risk in Syndicated Loans: Which Risks Are Priced and Why?” Journal 
+of Banking & Finance 136: 106180. https://​doi.​org/​10.​1016/j.​jbank​fin.​
+2021.​106180.
+Erragragui, E. 2018. “Do Creditors Price Firms' Environmental, Social 
+and Governance Risks?” Research in International Business and Finance 
+45: 197–207. https://​doi.​org/​10.​1016/j.​ribaf.​2017.​07.​151.
+Erten, I., and S. Ongena. 2024. “Do Banks Price Environmental Risk? 
+Only When Local Beliefs Are Binding!” Swiss Finance Institute 
+Research Paper No. 24–40. https://​doi.​org/​10.​2139/​ssrn.​4932511.
+European Banking Authority 2021. Report on Management and 
+Supervision of ESG Risks for Credit Institutions and Investment Firms, 
+June 2021 https://​www.​eba.​europa.​eu/​sites/​defau​lt/​files/​docum​ent_​
+libra​ry/​Publi​catio​ns/​Repor​ts/​2021/​10156​56/​EBA%​20Rep​ort%​20on%​
+20ESG%​20ris​ks%​20man​ageme​nt%​20and%​20sup​ervis​ion.​pdf.
+European Central Bank 2020. Guide on Climate-­Related and 
+Environmental Risks, November 2020 https://​www.​banki​ngsup​ervis​
+ion.​europa.​eu/​ecb/​pub/​pdf/​ssm.​20201​1fina​lguid​eoncl​imate​-­​relat​
+edand​envir​onmen​talri​sks~​58213​f6564.​en.​pdf.
+European Central Bank 2022. 2022 Climate Risk Stress Test, July 2022 
+https://​www.​banki​ngsup​ervis​ion.​europa.​eu/​ecb/​pub/​pdf/​ssm.​clima​
+te_​stress_​test_​report.​20220​708~​2e3cc​0999f.​en.​pdf.
+European Central Bank 2023. The Importance of Being Transparent. 
+A Review of Climate-­Related and Environmental Risks Disclosures 
+Practices and Trends. Results of the 2022 Supervisory Assessment of 
+Institutions' Climate-­Related and Environmental Risks Disclosures, 
+April 2023 https://​www.​banki​ngsup​ervis​ion.​europa.​eu/​ecb/​pub/​pdf/​
+ssm.​theim​porta​nceof​being​trans​paren​t0420​23~​1f0f8​16b85.​en.​pdf.
+European Central Bank 2024. Risks From Misalignment of Banks' 
+Financing With the EU Climate Objectives. Assessment of the 
+Alignment of the European Banking Sector, January 2024. https://​
+www.​banki​ngsup​ervis​ion.​europa.​eu/​ecb/​pub/​pdf/​ssm.​banki​ngsec​
+toral​ignme​ntrep​ort20​2401~​49c65​13e71.​en.​pdf.
+European Central Bank 2025. Investing in Europe's Green Future. Green 
+Investment Needs, Outlook and Obstacles to Funding the Gap. https://​
+www.​ecb.​europa.​eu/​pub/​pdf/​scpops/​ecb.​op367​~​16f0c​ba571.​en.​pdf.
+European Central Bank and European Systemic Risk Board 2022. The 
+Macroprudential Challenge of Climate Change, July 2022 https://​www.​
+esrb.​europa.​eu/​pub/​pdf/​repor​ts/​esrb.​ecb.​clima​te_​repor​t2022​07~​622b7​
+91878.​en.​pdf.
+European Commission 2019. The European Green Deal. COM (2019) 
+640 Final. Brussels 2019 https://​eur-­​lex.​europa.​eu/​legal​-­​conte​nt/​EN/​
+TXT/?​uri=​CELEX:​52019​DC0640.
+European Parliament and Council 2012. Directive 2012/27/EU on 
+Energy Efficiency https://​eur-­​lex.​europa.​eu/​legal​-­​conte​nt/​EN/​TXT/​
+PDF/?​uri=​CELEX:​32012​L0027​.
+Fard, A., S. Javadi, and I. Kim. 2020. “Environmental Regulation and 
+the Cost of Bank Loans: International Evidence.” Journal of Financial 
+Stability 51: 100797. https://​doi.​org/​10.​1016/j.​jfs.​2020.​100797.
+Financial Stability Institute 2023. Macroprudential Policies for 
+Addressing Climate-­Related Financial Risks: Challenges and Trade-­
+Offs https://​www.​bis.​org/​fsi/​fsibr​iefs18.​pdf.
+Friedrich, T. J., P. Velte, and I. Wulf. 2023. “Corporate Climate Reporting 
+of European Banks: Are These Institutions Compliant With Climate 
+Issues?” Business Strategy and the Environment 32, no. 6: 2817–2834. 
+https://​doi.​org/​10.​1002/​bse.​3272.
+Gallego-­Álvarez, I., and M. C. Pucheta-­Martínez. 2020. “Do Board 
+Characteristics Drive Firm Performance? An International Perspective.” 
+Review of Managerial Science 14: 1251–1297. https://​doi.​org/​10.​1007/​
+s1184​6-­​019-­​00330​-­​x.
+Green, J. F., and R. S. Reyes. 2023. “The History of Net Zero: Can We 
+Move From Concepts to Practice?” Climate Policy 23, no. 7: 901–915. 
+https://​doi.​org/​10.​1080/​14693​062.​2023.​2218334.
+Ilhan, E., Z. Sautner, and G. Vilkov. 2021. “Carbon Tail Risk.” Review 
+Of Financial Studies 34, no. 3: 1540–1571. https://​doi.​org/​10.​1093/​rfs/​
+hhaa071.
+Intergovernmental Panel on Climate Change 2014. Key Economic 
+Sectors and Services, in AR5 Climate Change 2014: Impacts, Adaptation, 
+and Vulnerability https://​www.​ipcc.​ch/​site/​assets/​uploa​ds/​2018/​02/​
+WGIIA​R5-­​Chap10_​FINAL.​pdf.
+Ioannou, I., and G. Serafeim. 2012. “What Drives Corporate Social 
+Performance? The Role of Nation-­Level Institutions.” Journal of 
+International Business Studies 43: 834–864. https://​doi.​org/​10.​1057/​jibs.​
+2012.​26.
+Ivashina, V. 2009. “Asymmetric Information Effects on Loan Spreads.” 
+Journal of Financial Economics 92, no. 2: 300–319. https://​doi.​org/​10.​
+1016/j.​jfine​co.​2008.​06.​003.
+Joshipura, M., N. Nasrallah, and N. Kedia. 2025. “Green and 
+Climate Finance for Sustainability: Hybrid Review and Framework 
+Development.” Business Strategy and the Environment 34: 3618–3634. 
+https://​doi.​org/​10.​1002/​bse.​4173.
+ 10990836, 2025, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.70128 by Capes, Wiley Online Library on [11/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+10130
+Business Strategy and the Environment, 2025
+Khattak, M. A., and B. Saiti. 2021. “Banks' Environmental Policy and 
+Business Outcomes: The Role of Competition.” Business Strategy and 
+the Environment 30: 302–317. https://​doi.​org/​10.​1002/​bse.​2622.
+Kleimeier, S., and M. Viehs 2018. Carbon Disclosure, Emission Levels, 
+and the Cost of Debt. Available at SSRN: https://​doi.​org/​10.​2139/​ssrn.​
+2719665.
+Nandy, M., and S. Lodh. 2012. “Do Banks Value the Eco-­Friendliness of 
+Firms in Their Corporate Lending Decision? Some Empirical Evidence.” 
+International Review of Financial Analysis 25: 83–93. https://​doi.​org/​10.​
+1016/j.​irfa.​2012.​06.​008.
+Roncoroni, A., S. Battiston, L. O. Escobar-­Farfán, and S. Martinez-­
+Jaramillo. 2021. “Climate Risk and Financial Stability in the Network 
+of Banks and Investment Funds.” Journal of Financial Stability 54: 
+100870. https://​doi.​org/​10.​1016/j.​jfs.​2021.​100870.
+Song, H., and G. Rimmel. 2025. “Debtholders' Reaction to Sustainability 
+Reporting Regulations: International Evidence.” Business Strategy and 
+the Environment 34, no. 1: 88–115. https://​doi.​org/​10.​1002/​bse.​3959.
+Suchman, M. C. 1995. “Managing Legitimacy: Strategic and Institutional 
+Approaches.” Academy of Management Review 20, no. 3: 571. https://​doi.​
+org/​10.​2307/​258788.
+United Nation Environment Programme Finance Initiative 2019. 
+Principles for Responsible Banking. Guidance Document https://​www.​
+unepfi.​org/​wordp​ress/​wp-­​conte​nt/​uploa​ds/​2022/​04/​PRB-­​Guida​nce-­​
+Docum​ent-­​Jan-­​2022-­​D3.​pdf.
+United Nations Framework Convention on Climate Change. 2015. 
+Report of the Conference of the Parties on Its Twenty-­First Session, 
+Held in Paris From 30 November to 13 December 2015. Addendum. Part 
+Two: Action Taken by the Conference of the Parties at Its Twenty-­First 
+Session. UNFCCC Secretariat, Bonn. https://​unfccc.​int/​resou​rce/​docs/​
+2015/​cop21/​eng/​10.​pdf.
+Weber, O., M. Fenchel, and R. W. Scholz. 2008. “Empirical Analysis of the 
+Integration of Environmental Risks Into the Credit Risk Management 
+Process of European Banks.” Business Strategy and the Environment 17: 
+149–159. https://​doi.​org/​10.​1002/​bse.​507.
+ 10990836, 2025, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.70128 by Capes, Wiley Online Library on [11/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

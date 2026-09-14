@@ -1,0 +1,845 @@
+SEPARATA
+ABRIL • 2024 Nº142
+El Estado en contracción:  
+un análisis del vínculo entre  
+el gasto público y la vulnerabilidad 
+de clase, raza y género en el Brasil
+Arthur Welle y Ana Luíza Matos de Oliveira
+El Estado en contracción:  
+un análisis del vínculo entre  
+el gasto público y la 
+vulnerabilidad de clase, raza  
+y género en el Brasil1
+Arthur Welle y Ana Luíza Matos de Oliveira
+Recibido: 11/01/2023
+Aprobado: 02/10/2023
+Resumen
+El objeto de este artículo es comprender el perfil de clase, raza y género de las personas 
+que se verían más afectadas si el Estado brasileño dejara de prestar servicios de salud 
+y educación. Se analizan las desigualdades de clase, raza y género en el Brasil y 
+se examina el papel del Estado en ese sentido. Asimismo, se presenta un análisis 
+del gasto público en educación y salud a través de una discusión de los perfiles 
+de clase, raza y género de los usuarios y una simulación de la eliminación de dicho 
+gasto público. Los resultados indican que la eliminación de los servicios públicos 
+sumiría a las personas más pobres, a la población negra2 y a las mujeres (categorías 
+que a menudo se superponen) en graves dificultades financieras y perjudicaría 
+su bienestar, lo que podría profundizar la pobreza o llevar a la extrema pobreza.
+Palabras clave
+Gastos públicos, seguridad social, política social, salud, educación, igualdad, 
+género, clases sociales, grupos étnicos y raciales, pobreza, Brasil
+Clasificación JEL
+H4, N16, B54
+Autores
+Arthur Welle es Investigador Posdoctoral del Centro de Estudios Sindicales y 
+Economía del Trabajo (CESIT) de la Universidad Estatal de Campinas (UNICAMP) 
+del Brasil. Correo electrónico: arthurwelle@yahoo.com.
+Ana Luíza Matos de Oliveira es Oficial Asociada de Asuntos Económicos de la sede 
+subregional de la Comisión Económica para América Latina y el Caribe (CEPAL) en 
+México. Correo electrónico: ana.matosdeoliveira@un.org.
+1 Los autores agradecen a Alejandro Márquez-Velázquez, Binay Kumar Pathak, Erica Aloe, Fatima Mboup, Izaskun Zuazu, Luisa 
+Cardoso, Luiza Nassif-Pires, Margarita Olivera, Patrícia Andrade de Oliveira e Silva, Stephanie Seguino, Valeria Esquivel y al 
+revisor por sus valiosos comentarios sobre versiones anteriores de este documento.
+2 Las categorías raciales en el Brasil se obtienen por autoidentificación en los censos y encuestas oficiales. Las opciones 
+proporcionadas por el Instituto Brasileño de Geografía y Estadística (IBGE) para las estadísticas oficiales son: preto (negro), 
+pardo (literalmente “marrón”, que significa mestizo), branco (blanco), indígena (indígena) y amarelo (literalmente “amarillo”, que 
+significa de ascendencia asiática). Este artículo se centrará en las categorías de branco y en el concepto adicional de negros 
+(que en realidad es una combinación de las categorías preto y pardo).
+212
+Revista CEPAL N° 142 • abril de 2024 
+El Estado en contracción: un análisis del vínculo entre el gasto público y la vulnerabilidad de clase…
+I. Introducción
+Como se destaca en González (2020) y Carneiro (2011), la raza y el género continúan siendo elementos 
+fundamentales de la discusión sobre cuestiones de clase. En el Brasil, donde la provisión pública de 
+bienes y servicios se mantiene precaria y ha sufrido recortes desde 2015, es importante comprender 
+la participación del Estado en las vulnerabilidades históricas. 
+En este artículo se examina el problema mediante el análisis de los vínculos entre el gasto 
+público (sobre todo en educación y salud) y las vulnerabilidades relacionadas con el género y la raza 
+en el Brasil. Al igual que en Silveira y otros (2021), se utiliza la Encuesta de Presupuestos Familiares 
+2017-2018 (Pesquisa de Orçamentos Familiares)3 para explorar el uso de servicios públicos, lo que, 
+según estos autores, reduce el coeficiente de Gini en el país. También se recurre a la Encuesta Nacional 
+de Hogares 2019 (PNAD) y la Encuesta Nacional de Salud 2019 (PNS). Finalmente, al igual que en  
+Nassif-Pires, Cardoso y Oliveira (2021), el estudio contiene una reflexión sobre el impacto que el 
+gasto público en el Brasil tiene en las vulnerabilidades relacionadas con la clase, la raza y el género, 
+contribuyendo así a la literatura sobre el tema. 
+Seguino y Heintz (2012) afirman que, en comunidades racialmente heterogéneas de los 
+Estados Unidos, la carga de vulnerabilidad (en el caso de su artículo, relacionada con el desempleo 
+resultante del endurecimiento de la política monetaria) recae con más fuerza en la población negra 
+que en las mujeres. En otras palabras, la raza es un marcador más importante que el género para 
+comprender la pobreza, la desigualdad y la vulnerabilidad en comunidades racialmente heterogéneas. 
+En cambio, en comunidades más racialmente homogéneas, la desigualdad estaría más estrechamente 
+relacionada con el género. En el presente artículo, se plantea que el primer caso es aplicable al Brasil 
+y se explora dicha tesis.
+El artículo comienza con una revisión de las desigualdades de clase, raza y género en el Brasil, y 
+luego se examina el papel del Estado en relación con esas desigualdades. A continuación, se presenta 
+un análisis del gasto público en educación y salud, analizando los perfiles de clase, raza y género de los 
+usuarios, y una simulación de la eliminación del gasto público en salud y educación. La última sección 
+contiene las conclusiones del estudio. 
+En este estudio se sugiere que los recortes en los servicios públicos podrían sumir a las personas 
+más pobres, las poblaciones negras y las mujeres (categorías que a menudo se superponen) en graves 
+dificultades financieras y empeorarían su bienestar, lo que podría profundizar la pobreza o llevar a 
+la extrema pobreza. Se destaca que, cuando se reducen los gastos públicos debido a limitaciones 
+financieras, las familias no necesariamente recurrirán a sustitutos del mercado para esos servicios o 
+encontrarán sustitutos precarios. Por lo tanto, el verdadero efecto de tales recortes no es solo que 
+empeoran las condiciones presupuestarias (como se estima en este estudio), sino también que se priva 
+de plano a estas poblaciones de la oportunidad de obtener atención médica y educación.
+3 Véase [online] https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html.
+213
+Revista CEPAL N° 142 • abril de 2024
+Arthur Welle y Ana Luíza Matos de Oliveira
+II. Las desigualdades de clase, raza  
+y género en el Brasil y el papel del Estado
+El Brasil tiene una larga historia en lo que respecta a distintos tipos de desigualdad, especialmente en 
+materia de raza, género y clase. En cuanto a la raza, es un país que ha sido profundamente moldeado 
+por la esclavitud4. Durante los 388 años del régimen esclavista, llegaron al país 5,1 millones de africanos 
+(Slave Voyages, 2022). En cuanto al género, el patriarcado, que se estableció a través de la colonización, 
+es otro pilar de la sociedad brasileña, donde el poder se concentra en manos de hombres blancos5 y la 
+autonomía física y económica y la toma de decisiones de las mujeres y las niñas están limitadas (Matos 
+de Oliveira y Fares, 2021; CEPAL, 2021). Por último, en cuanto a la clase6, la concentración de poder 
+y riqueza en manos de unos pocos está relacionada con cuestiones raciales, de género y regionales y 
+también se remonta al modelo colonial adoptado en el Brasil (González, 2020; Carneiro, 2011). 
+Dado que el país está estructurado en torno a las desigualdades mencionadas y han sido 
+pocas las reformas profundas, la desigualdad en el Brasil continúa siendo significativa y el poder sigue 
+concentrado en manos de hombres blancos de clase alta. Como ejemplo, según el Observatorio de 
+Igualdad de Género de América Latina y el Caribe, solo el 15,2% de los escaños en el parlamento nacional 
+están ocupados por mujeres (CEPAL, 2022a) y, aunque las personas negras representan el 55,9% de 
+la población (IBGE, 2022b), solo ocupan el 17,8% de los escaños parlamentarios (O Globo, 2019). Las 
+mujeres, las personas indígenas, las personas LGBTQI+ y los jóvenes negros son blanco de la violencia 
+(perpetrada tanto por el Estado como por individuos y alentada por las desigualdades sistémicas). La 
+proporción de mujeres y niñas de 15 a 49 años que han sufrido violencia física o sexual a manos de su 
+pareja actual o anterior en los 12 meses previos al estudio es del 6,5% (CEPAL, 2022b). En 2019, la tasa 
+de homicidios en el caso de los hombres negros fue de 56,19 por cada 100.000 habitantes, mientras 
+que la tasa en el caso de otros hombres fue de 20,85 por cada 100.000 habitantes (IPEA, 2022). Más 
+recientemente, Moïse Kabagambe, un inmigrante negro, fue golpeado hasta la muerte por exigir su 
+salario, lo que ejemplifica la importancia de la interseccionalidad en el análisis de las vulnerabilidades 
+en el Brasil. Según la Asociación Nacional de Travestis y Transexuales del Brasil (ANTRA, 2022), el país 
+ha registrado la tasa de homicidios de personas transexuales más alta del mundo durante 13 años.
+4 En el Brasil, históricamente, las agresiones sexuales han sido perpetradas por hombres blancos contra mujeres negras e indígenas. 
+Según Carneiro (2011), ese fue el “pegamento” para todas las jerarquías de género y raza, mientras que la contribución de 
+las mujeres negras a la formación de la cultura nacional nunca se ha reconocido. El concepto de “amefricanidad”, una mezcla 
+de identidad “americana” y “africana”, es utilizado por González (1988) para resaltar el impacto de la población negra en la 
+configuración de toda la cultura latinoamericana. González (1988) sostiene que este legado fue invisibilizado y clasificado como 
+cultura popular o folclore nacional. Plantea que esta negación de las raíces negras del país explica cómo el racismo se vuelve 
+contra aquellos que son el testimonio viviente de este impacto: la población negra. Incluso hoy en día, las mujeres negras son 
+cosificadas y subvaloradas por las mujeres blancas, para quienes trabajan como empleadas domésticas, o son erotizadas 
+(Carneiro, 1995).
+5 En las economías de origen colonial, el papel de amo atribuido a los hombres blancos moldeó, por oposición, los roles de 
+los hombres y mujeres negros y de las mujeres blancas. Dado que se aplicaban criterios biológicos para justificar el hecho 
+de hacer sentir inferiores a los demás y subyugarlos en función de la raza y el sexo, la esclavitud era “aceptable” y convertía 
+a las mujeres (blancas) en sirvientas de los hombres a quienes “pertenecían” (ya fueran sus padres o esposos). Además, las 
+características atribuidas a las mujeres blancas (pureza, fragilidad y, por ende, falta de aptitud para el trabajo productivo) se 
+oponían al papel impuesto a las mujeres negras (promiscuidad y brutalidad, adecuación para trabajos pesados, ya fueran 
+productivos, domésticos o sexuales) (Saffioti, 2013). Por lo tanto, la división sexual del trabajo establecida históricamente ha 
+determinado que los hombres se centraran en la esfera productiva y las mujeres blancas, en la esfera reproductiva. Las mujeres 
+negras se encargaban del trabajo productivo y reproductivo, a menudo realizando trabajo reproductivo remunerado para una 
+familia blanca y luego el trabajo doméstico de sus propias familias también. De esta manera, el sistema desvaloriza hábilmente 
+tanto el trabajo productivo de las mujeres, ya que no es su tarea principal, como su trabajo reproductivo, ya que se realiza por 
+“razones naturales” y “por amor” (Saffioti, 2013). 
+6 Aunque en este artículo la clase se considera una categoría, el análisis se centrará únicamente en los ingresos. Véanse análisis 
+más profundos relacionados con la clase en Mills (1951), Bourdieu y Passeron (2013), Saffioti (2013), Hirata (2014), Engels (1995) 
+y Pochmann (2015).
+214
+Revista CEPAL N° 142 • abril de 2024 
+El Estado en contracción: un análisis del vínculo entre el gasto público y la vulnerabilidad de clase…
+Por último, la intersección de raza, género y clase sitúa a las mujeres y a la población negra 
+en los estratos más bajos de la sociedad en términos de clase, y hace que su acceso a los derechos 
+sociales sea más restringido, sus ingresos, más bajos, y sus tasas de desempleo e informalidad, más 
+elevadas. Según el Instituto Brasileño de Geografía y Estadística (IBGE, 2022a), en 2020, la tasa de 
+desempleo femenino fue del 16,5% y la de los hombres fue del 11,7%; la tasa de desempleo de la 
+población negra fue del 15,9% y la de la población blanca fue del 11,1%, y el 44,7% de los trabajadores 
+negros estaban empleados informalmente, mientras que, en el caso de los trabajadores blancos, esta 
+cifra fue del 31,8%7.
+Disfrazado de “democracia racial” (González, 1984; Carneiro, 1995), el Brasil se caracteriza por 
+la división sexual y racial del trabajo. Esto delega en las mujeres el trabajo doméstico y de cuidados 
+tanto remunerado como no remunerado. Las trabajadoras domésticas (en su mayoría negras) son mal 
+remuneradas e infravaloradas y, sin embargo, constituyen una característica estructural de la sociedad: 
+solo fueron reconocidas como trabajadoras en 2013 y obtuvieron derechos laborales parciales con 
+la aprobación de la Enmienda Constitucional Nº 72 de 2 de abril de 2013 (Gobierno del Brasil, 2013). 
+A lo largo de la historia, el Estado brasileño ha influido en estas desigualdades (y se ha visto influido 
+por ellas). Los cambios en el sistema político siempre han estado en manos de las fuerzas dominantes, 
+lo que ha controlado las aspiraciones populares y bloqueado las oportunidades de realizar reformas 
+sociales destinadas a reducir las desigualdades. Dado que los ingresos, la riqueza y el poder están muy 
+concentrados, las iniciativas revolucionarias siempre han sido derribadas por fuerzas conservadoras 
+(Pochmann, 2015, pág. 34). La transición a la democracia tras la dictadura militar que se extendió 
+de 1964 a 1985 fue negociada y controlada por las propias fuerzas armadas. Sin embargo, después 
+de este proceso y eludiendo el control mencionado, el Brasil adoptó una nueva Constitución Federal 
+en 1988, que recibió el apodo de “Constitución ciudadana” debido a su vanguardista consagración 
+de derechos, especialmente el derecho a la salud y la educación. La Constitución Federal de 1988 se 
+considera un caso atípico en la historia del Brasil (Fagnani, 2017), ya que entre sus objetivos se encuentra 
+la reducción de las desigualdades. Su tercer artículo dice lo siguiente (Gobierno del Brasil, 2023): 
+Art. 3. Constituyen objetivos fundamentales de la República Federativa del Brasil:
+I construir una sociedad libre, justa y solidaria;
+II garantizar el desarrollo nacional;
+III erradicar la pobreza y la marginación y reducir las desigualdades sociales y regionales;
+IV promover el bien de todos, sin prejuicios de origen, raza, sexo, color edad o cualesquiera 
+otras formas de discriminación.
+En cuanto al sistema de salud del Brasil, después de la presión del movimiento de salud en la 
+década de 1980, se estableció en la Constitución Federal de 1988 el Sistema Único de Salud (SUS). 
+Este sistema público no está vinculado a la situación laboral ni de asistencia social y, por lo tanto, 
+está disponible para todos los que habiten en suelo brasileño, independientemente de su condición 
+contributiva. El sistema está descentralizado y la responsabilidad recae en la Unión federal, los estados 
+y el Distrito Federal 8, y los municipios. Sin embargo, el sistema de salud privado del Brasil también 
+7 González (1979) sostiene que no es una “coincidencia” que la mayoría de los brasileños negros estén marginados por el 
+desempleo, la informalidad y la vulnerabilidad (González, 1979). Al igual que la fuerza laboral femenina, la fuerza laboral negra 
+funciona como un “amortiguador” que se activa y desactiva según el ciclo económico. La autora plantea que el privilegio racial es 
+una característica importante de la sociedad brasileña, que beneficia no solo al capitalismo blanco, sino también a la población 
+blanca pobre, porque, cuando las personas negras compiten por un puesto con recompensas materiales o simbólicas, incluso 
+si poseen las mismas habilidades, los resultados siempre favorecen a los competidores blancos. En una sociedad pluricultural, 
+multirracial y racista como la del Brasil, el racismo tiene un impacto significativo en las relaciones y jerarquías de género. En 
+este sentido, la pobreza a la que las personas negras en el Brasil siguen condenadas hasta el día de hoy forma parte de la 
+estrategia racista de naturalizar la inferioridad social (Carneiro, 2005).
+8 El Brasil se compone de 26 estados y el Distrito Federal, donde se ubica la capital.
+215
+Revista CEPAL N° 142 • abril de 2024
+Arthur Welle y Ana Luíza Matos de Oliveira
+está muy extendido: 48,4 millones de brasileños (un 22,7% de la población total) tenían acceso a él 9 
+en 2021 (ANS, 2021) y, en 2019, el gasto interno en salud privada representó el 59,1% de los gastos 
+totales en salud del país (Banco Mundial, 2022).
+En cuanto a la educación, la Constitución Federal de 1988 es la primera constitución brasileña 
+que define la educación como un derecho. Dispone la distinta priorización de ciertos niveles educativos 
+entre las entidades federativas (la Unión, los estados y el Distrito Federal, y los municipios). Según el 
+artículo 211, la Unión administra el sistema educativo federal, financia las instituciones federales de 
+educación pública (principalmente enfocadas en la educación superior) y ejerce una función redistributiva 
+y complementaria para garantizar la igualdad de oportunidades educativas mediante la asistencia técnica 
+y financiera a los estados, el Distrito Federal y los municipios. Los estados y el Distrito Federal se centran 
+en la educación primaria y secundaria, mientras que los municipios se enfocan en la educación primaria 
+y de primera infancia. Esta división también se ajusta al gasto mínimo dispuesto constitucionalmente 
+para cada una de las entidades (un porcentaje fijo de su presupuesto). Según el Instituto Nacional de 
+Estudios e Investigaciones Educativas (INEP , 2022), en 2021, el 82,57% de los estudiantes de primaria y 
+secundaria estaban inscritos en instituciones públicas (un 0,81% en instituciones federales, un 32,18% 
+en instituciones estatales y un 49,57% en instituciones municipales), mientras que el 17,43% de los 
+alumnos de los mismos niveles estudiaban en instituciones privadas.
+Si bien reducir las desigualdades es un objetivo fundamental de la Constitución, el Estado no 
+ha utilizado todas las herramientas disponibles para contrarrestar dichas desigualdades. Por ejemplo, 
+en distintos trabajos se demuestra que, aunque el Estado brasileño puede reducir la desigualdad 
+mediante el gasto en salud pública y educación (Silveira y otros, 2021), el sistema tributario es muy 
+desigual (Fagnani, 2018), lo que permite que las desigualdades persistan. Este artículo se centra en el 
+impacto que tiene el gasto público (principalmente en educación y salud) en la inclusión social, dejando 
+la cuestión de los impuestos para futuras investigaciones.
+Últimamente, la contracción de las políticas sociales y la adopción de medidas de austeridad 
+(Dweck, Rossi y Oliveira, 2020)10 también han debilitado la capacidad redistributiva del Estado11. Por 
+lo tanto, la simulación en este artículo es simplemente un caso extremo de lo mismo. Matos de Oliveira 
+y Alloatti (2022) sostienen que la mayor parte del peso de los recortes del gasto social en el Brasil ha 
+recaído en las mujeres y las personas negras, sobre todo aquellas de clases más bajas y usuarias de 
+servicios públicos. En primer lugar, dado que, en los sectores más afectados por los recortes, como 
+la salud y la educación, predominan las trabajadoras mujeres 12, estos recortes provocan pérdidas 
+de empleo y una disminución de la participación de las mujeres en el mercado laboral. En segundo 
+lugar, la contracción afecta el equilibrio entre la vida laboral y familiar, ya que reduce el margen de 
+“desfamiliarización”, es decir, la reducción de la carga que supone para las familias la prestación de 
+estos servicios (Guerrina, 2015; Tepe-Belfrage y Steans, 2016; Gálvez y Rodríguez -Modroño, 2016; 
+Périver, 2018; Power y Hall, 2018). Los recortes incluyen una disminución del presupuesto para las 
+políticas que apoyan la reproducción social, como las guarderías, y la limitación de las políticas para 
+combatir la violencia de género y garantizar la autonomía económica de las mujeres. En tercer lugar, la 
+regresión de los Estados de bienestar, a través de una contracción de los derechos sociales y de las 
+políticas públicas destinadas a reducir las desigualdades de género, empeora las condiciones de las 
+9 Esto no significa que no sean usuarios también del SUS, ya que este proporciona acceso a controles médicos, medicinas, 
+vacunas y procedimientos de alta complejidad como trasplantes, por ejemplo, incluso a aquellos que cuentan con seguros 
+de salud.
+10 Desde 2015, el Brasil ha orientado su política fiscal hacia lo que la literatura define como austeridad (Blyth, 2017). Esta política 
+se incorporó mediante la Enmienda Constitucional Nº 95 de 2016. Véase más información en Dweck, Rossi y Oliveira (2020) y 
+Matos de Oliveira y Alloatti (2022).
+11 Reducir el papel del Estado de esta manera es también una opción de política pública y se puede dar junto con un incremento 
+del autoritarismo, como ocurrió en Chile en la época de Pinochet (Hyman, 2005). 
+12 Con respecto a la educación, véase Matos de Oliveira (2022).
+216
+Revista CEPAL N° 142 • abril de 2024 
+El Estado en contracción: un análisis del vínculo entre el gasto público y la vulnerabilidad de clase…
+mujeres más desfavorecidas (incluidas las mujeres negras), con el riesgo de aumentar la feminización 
+de la pobreza (Martínez, Dueñas y Meireles, 2020). Si no se cuenta con suficiente financiamiento para 
+las políticas sociales, las soluciones temporales terminan por afianzarse, lo que no hace más que 
+prolongar la emergencia (Grotti y otros, 2019; Thomson, Niedzwiedz y Katikireddi, 2018). Por último, la 
+igualdad de género y los derechos de las mujeres se ven directamente amenazados cuando el apoyo 
+a los organismos que promueven la igualdad se ve mermado por los recortes presupuestarios.
+Tras este panorama de las desigualdades de género, raza y clase en el Brasil y del impacto 
+de los recortes en su reproducción, en la siguiente sección se presenta un análisis de los perfiles de 
+género, clase y raza de los usuarios de servicios públicos.
+III. Análisis de los perfiles de usuarios de los 
+servicios de educación y salud y simulaciones
+En esta sección se presenta un análisis del gasto público en educación, salud y sistemas de pensiones, 
+utilizando la Encuesta Nacional Permanente de Hogares (PNAD Continua) de 2019 para trazar el perfil 
+de los usuarios de los servicios educativos en el Brasil y la Encuesta Nacional de Salud de 2019 para el 
+perfil de los usuarios de los servicios de salud. En el gráfico 1 se observa la proporción de la población 
+que utiliza servicios educativos, tanto públicos como privados, por ingresos per cápita del hogar. 
+Las tasas de uso de servicios educativos son mayores en los estratos de menores ingresos, aunque 
+siguen siendo significativas en los vigintiles decimosexto a vigésimo, donde un promedio del 19,5% 
+de las personas utilizan los servicios educativos. El decimotercer vigintil parece ser un valor atípico 
+por la concentración en torno al salario mínimo, y se supone una concentración de jubilados en ello13.
+Gráfico 1 
+Brasil: usuarios de servicios educativos, por vigintil de ingresos per cápita del hogar, 2019
+(En porcentajes)
+Vigintiles
+II I III IV VV IV II VIII IX XX IX II XIII XIVX VX VI XVII XVIIIX IX XX
+40
+30
+20
+10
+0
+Fuente: Elaboración propia sobre la base de Instituto Brasileño de Geografía y Estadística (IBGE), Encuesta Nacional Permanente 
+de Hogares (PNAD Continua). 
+Nota: Intervalo de confianza del 95%.
+13 En el Brasil, la mayoría de los pensionados reciben el salario mínimo mensual como pensión.
+217
+Revista CEPAL N° 142 • abril de 2024
+Arthur Welle y Ana Luíza Matos de Oliveira
+En el gráfico 2, que incluye solo a los usuarios declarados de servicios educativos, se muestra 
+la proporción que utiliza servicios educativos privados, por vigintil de ingresos. Como era de esperarse, 
+una mayor proporción de quienes están en los vigintiles de mayores ingresos utilizan servicios privados: 
+en el primer vigintil, la cifra es del 5,3%; en el último es del 78,6%. Esto significa que el 94,7% de los 
+que están en el primer vigintil utilizan los servicios públicos de educación, en comparación con el 21,4% 
+del último vigintil.
+Gráfico 2 
+Brasil: usuarios de servicios educativos privados, por vigintil  
+de ingresos per cápita del hogar, 2019 
+(En porcentajes)
+Vigintiles
+II I III IV VV IV II VIII IX XX IX II XIII XIVX VX VI XVII XVIIIX IX XX
+100
+75
+50
+25
+0
+Fuente: Elaboración propia sobre la base de Instituto Brasileño de Geografía y Estadística (IBGE), Encuesta Nacional Permanente 
+de Hogares (PNAD Continua). 
+Nota: Intervalo de confianza del 95%.
+Por lo tanto, los gráficos 1 y 2 muestran que las poblaciones de bajos ingresos en el Brasil son más 
+dependientes de los servicios de educación pública y más vulnerables a los recortes en estos servicios.
+En cuanto a los servicios de salud, en el gráfico 3 se observa la proporción de la población que 
+requirió servicios de atención de la salud en las dos semanas anteriores a la encuesta, por ingresos 
+per cápita del hogar y sexo. De acuerdo con los datos, las mujeres eran las que usaban con más 
+frecuencia los servicios de atención de la salud en todos los vigintiles de ingresos, pero también que, 
+cuanto mayores los ingresos de las personas, más requerían servicios de atención de la salud.
+El gráfico 4 muestra que, cuanto más bajos son los ingresos de un individuo, más probabilidades 
+tiene de acceder a los servicios de salud públicos. Solo en el vigintil 18 se vuelve más frecuente el 
+acceso a los servicios de salud privados.
+218
+Revista CEPAL N° 142 • abril de 2024 
+El Estado en contracción: un análisis del vínculo entre el gasto público y la vulnerabilidad de clase…
+Gráfico 3 
+Brasil: usuarios de servicios de salud en las dos semanas anteriores a la encuesta,  
+por ingresos per cápita del hogar y sexoa, 2019
+(En porcentajes)
+HombresMujeres
+Vigintiles
+II I III IV VV IV II VIII IX XX IX II XIII XIVX VX VI XVII XVIIIX IX XX
+40
+30
+20
+10
+0
+Fuente: Elaboración propia sobre la base de Instituto Brasileño de Geografía y Estadística (IBGE), Encuesta Nacional Permanente 
+de Hogares (PNAD Continua). 
+Nota: Intervalo de confianza del 95%.
+a Se refiere al sexo del usuario, no al sexo del padre o tutor de una persona (como un menor) que accede a la atención médica.
+Gráfico 4 
+Brasil: uso de servicios de salud públicos y privados, por ingresos per cápita del hogar, 2019
+(En porcentajes)
+PrivadosPúblicos
+Vigintiles
+II I III IV VV IV II VIII IX XX IX II XIII XIVX VX VI XVII XVIIIX IX XX
+100
+75
+50
+25
+0
+Fuente: Elaboración propia sobre la base de Instituto Brasileño de Geografía y Estadística (IBGE), Encuesta Nacional Permanente 
+de Hogares (PNAD Continua). 
+Nota: Intervalo de confianza del 95%.
+219
+Revista CEPAL N° 142 • abril de 2024
+Arthur Welle y Ana Luíza Matos de Oliveira
+Metodológicamente, el uso de los servicios de salud y educación se calcula por individuo, 
+pero, para calcular el costo de los servicios, se utilizan los gastos per cápita de los hogares. La razón 
+estriba en que los gastos se efectúan dentro de una unidad de consumo (una familia o un hogar). 
+Por ejemplo, aunque los niños no contribuyan con ingresos, probablemente son los que más utilizan 
+servicios de educación.
+En el gráfico 5 se resume la distribución de los gastos mensuales per cápita en atención de la 
+salud de los hogares de los usuarios de servicios de salud privada. La mediana del gasto en atención 
+médica es de 130,43 reales (equivalente a 25,31 dólares al 19 de junio de 2022). 
+Gráfico 5 
+Brasil: distribución del gasto mensual per cápita en atención de la salud de los hogares, 
+usuarios de servicios de salud privada, 2017-2018 
+(En densidad de probabilidad y reales)
+Mediana = 130,43
+Densidad de probabilidad
+Gasto mensual per cápita
+0 2505 00 7501  000
+0,005
+0,006
+0,004
+0,003
+0,002
+0,001
+0
+Fuente: Elaboración propia sobre la base de Instituto Brasileño de Geografía y Estadística, Encuesta de Presupuestos Familiares 
+(2017-2018), Río de Janeiro.
+Con respecto a la educación, el gráfico 6 muestra la distribución de los gastos mensuales per 
+cápita de los hogares en servicios educativos. La mediana del gasto es de 166,68 reales (32,34 dólares 
+al 19 de junio de 2022).
+Sin embargo, para ilustrar las diferentes realidades que coexisten a lo largo del país, el gráfico 7 
+muestra cómo varía la mediana del gasto en salud y educación por estado y en el Distrito Federal 14. 
+Por ejemplo, la mediana del desembolso requerido en el Distrito Federal para acceder a la salud y la 
+educación privadas es mucho mayor que en el estado de Amazonas.
+14 El Instituto Brasileño de Geografía y Estadística (IBGE) ha dividido el país en regiones según las características socioeconómicas 
+y físicas de sus estados. Las cinco regiones son: norte (Acre, Amazonas, Amapá, Pará, Rondônia, Roraima y Tocantins), nordeste 
+(Alagoas, Bahía, Ceará, Maranhão, Piauí, Pernambuco, Paraíba, Rio Grande do Norte y Sergipe), centro oeste (Goiás, Mato 
+Grosso do Sul, Mato Grosso y Distrito Federal), sureste (Sao Paulo, Rio de Janeiro, Minas Gerais y Espírito Santo) y sur (Paraná, 
+Rio Grande do Sul y Santa Catarina). El índice de desarrollo humano es mayor en el sur y sureste.
+220
+Revista CEPAL N° 142 • abril de 2024 
+El Estado en contracción: un análisis del vínculo entre el gasto público y la vulnerabilidad de clase…
+Gráfico 6 
+Brasil: distribución del gasto mensual per cápita en educación de los hogares,  
+usuarios de servicios de educación privada, 2017-2018
+(En densidad de probabilidad y reales)
+Mediana = 166,68
+Gasto mensual per cápita
+0 2505 00 7501  000
+Densidad de probabilidad
+0,003
+0,004
+0,002
+0,001
+0
+Fuente: Elaboración propia sobre la base de Instituto Brasileño de Geografía y Estadística, Encuesta de Presupuestos Familiares 
+(2017-2018), Río de Janeiro.
+Gráfico 7 
+Brasil: mediana del gasto mensual per cápita de los hogares en servicios privados de salud  
+y educación, por estado y en el Distrito Federal, 2017-2018
+(En reales)
+A. Educación
+05 01 00 1502 00 2503 00
+DF
+SP
+PR
+RS
+MG
+SC
+ES
+RJ
+TO
+GO
+BA
+SE
+MT
+MS
+RN
+PI
+RO
+CE
+AP
+PE
+RR
+PA
+PB
+AL
+AC
+MA
+AM
+221
+Revista CEPAL N° 142 • abril de 2024
+Arthur Welle y Ana Luíza Matos de Oliveira
+B. Salud
+01 00 1502 50 30050 200
+DF
+SE
+ES
+BA
+SP
+RJ
+RS
+PE
+MS
+MT
+RN
+RO
+MG
+SC
+PB
+AL
+AC
+PR
+GO
+TO
+PI
+CE
+AP
+RR
+PA
+MA
+AM
+Fuente: Elaboración propia sobre la base de Instituto Brasileño de Geografía y Estadística, Encuesta de Presupuestos Familiares 
+(2017-2018), Río de Janeiro.
+Nota: AC: Acre; AL: Alagoas; AM: Amazonas; AP: Amapá; BA: Bahia; CE: Ceará; DF: Distrito Federal; ES: Espírito Santo; 
+GO: Goiás; MA: Maranhão; MG: Minas Gerais; MS: Mato Grosso do Sul; MT: Mato Grosso; PA: Pará; PB: Paraíba; 
+PE: Pernambuco; PI: Piauí; PR: Paraná; RJ: Rio de Janeiro; RN: Rio Grande do Norte; RO: Rondônia; RR: Roraima; 
+RS: Rio Grande do Sul; SC: Santa Catarina; SE: Sergipe; SP: São Paulo; TO: Tocantins.
+En cuanto a los efectos de hipotéticos recortes del gasto en servicios públicos, el gráfico 8 
+representa las necesidades presupuestarias estimadas de los hogares en comparación con el presupuesto 
+efectivamente disponible. Esto demuestra que los presupuestos de los hogares ya están sobrecargados, 
+a pesar de que los hogares de bajos ingresos tienen acceso a servicios públicos de salud y educación. 
+Los hogares situados por debajo del percentil de ingresos trigésimo octavo informan que sus ingresos 
+actuales no son suficientes para satisfacer sus necesidades. Las personas cuyo presupuesto no cubre 
+sus necesidades se encontrarían en una situación muy vulnerable si se recortara total o parcialmente 
+el gasto en salud pública y educación.
+Sin embargo, no solo se considerarían vulnerables aquellos que se encuentran por debajo del 
+umbral necesario: el gráfico 9 muestra los gastos adicionales que tendrían que afrontar los hogares 
+para poder costear servicios de salud y educación. Es importante resaltar que en este ejercicio se 
+considera lo que sucedería si los hogares asumieran los costos de salud y educación directamente, 
+pagando la mediana del gráfico 7 para los usuarios de servicios privados. En suma, los montos 
+regionales calculados en el gráfico 7 se utilizan para simular el monto que se necesitaría para pagar 
+directamente los servicios de salud y educación si el Estado dejara de hacerlo. El uso de la mediana 
+regional en lugar de la mediana promedio permite una comprensión más profunda del panorama, ya 
+que los niveles de pobreza y vulnerabilidad varían mucho de un estado a otro dentro del Brasil, al igual 
+que el gasto medio en servicios (que generalmente es más elevado en los estados con un mayor índice 
+de desarrollo humano). Sin embargo, debido a las limitaciones financieras, los hogares podrían verse 
+obligados a optar por no recibir servicios de salud o educación o a buscar soluciones más precarias, 
+y podrían no gastar la totalidad de los montos adicionales calculados. 
+222
+Revista CEPAL N° 142 • abril de 2024 
+El Estado en contracción: un análisis del vínculo entre el gasto público y la vulnerabilidad de clase…
+Gráfico 8 
+Brasil: presupuesto familiar mensual mínimo necesario y presupuesto familiar real,  
+por percentil de ingresos per cápita del hogar, 2017-2018
+(En miles de reales)
+NecesarioReal
+Percentiles
+02 5 50 75 100
+6
+7
+8
+4
+5
+2
+3
+0
+1
+Fuente: Elaboración propia sobre la base de Instituto Brasileño de Geografía y Estadística, Encuesta de Presupuestos Familiares 
+(2017-2018), Río de Janeiro.
+Gráfico 9 
+Brasil: gastos adicionales previstos en servicios de educación y atención de la salud privados  
+a falta de financiamiento estatal, como porcentaje de los ingresos,  
+por percentil de ingresos per cápita de los hogares, 2017-2018
+(En porcentajes)
+Percentiles
+0% a 10%
+10% a 20%
+20% a 30%
+30% a 40%
+40% a 50%
+50% a 60%
+60% a 70%
+70% a 80%
+80% a 90%
+No resulta afectado
+> 90%
+2505 07 51 00
+100
+75
+50
+25
+0
+Fuente: Elaboración propia sobre la base de Instituto Brasileño de Geografía y Estadística, Encuesta de Presupuestos Familiares 
+(2017-2018), Río de Janeiro.
+223
+Revista CEPAL N° 142 • abril de 2024
+Arthur Welle y Ana Luíza Matos de Oliveira
+Dicho esto, el gráfico 9 demuestra que, en el caso del 65,83% de quienes se encuentran en 
+el primer percentil, si la salud y la educación públicas dejaran de existir, el incremento de sus gastos 
+sería de al menos un 90% de sus ingresos actuales y que, en el caso del 66,2% de quienes se ubican 
+hasta en el décimo percentil de ingresos (el primer decil), los recortes en los servicios públicos de salud 
+y educación provocarían un aumento de sus gastos de al menos el 50% de sus ingresos actuales. La 
+carga de asumir los costos que actualmente sufraga la sociedad a través del Estado sería demasiado 
+grande y lo más probable es que los hogares no pudieran costear los servicios o se vieran obligados 
+a recurrir a alternativas más precarias. La sección gris representa a los participantes de la encuesta 
+que no informaron haber utilizado los servicios públicos de salud y educación en la semana anterior 
+a la recopilación de datos.
+El mapa 1 muestra el impacto regional de este escenario. Como el nordeste tiene una mayor 
+incidencia de pobreza y vulnerabilidad, una mayor parte de la población se vería afectada (definida 
+como las personas que se enfrentarían a un incremento del gasto superior al 50% de sus ingresos 
+actuales). Por ejemplo, el 23,5% de la población de Alagoas y el 22,1% de la población de Bahía 
+resultaría afectada. Sin embargo, en el Distrito Federal y Espírito Santo, ubicados en el centro oeste y 
+sureste, respectivamente, y donde los gastos medios en servicios privados son mayores, estas cifras 
+serían del 15,3% y el 15,1%.
+Mapa 1 
+Brasil: población afectada por una contracción hipotética del gasto público,  
+por estado, 2017-2018
+(En porcentajes)
+10 15 20
+Fuente: Elaboración propia sobre la base de Instituto Brasileño de Geografía y Estadística, Encuesta de Presupuestos Familiares 
+(2017-2018), Río de Janeiro.
+Nota: La población afectada se define como las personas que se enfrentarían a un incremento del gasto superior al 50% de 
+sus ingresos actuales.
+224
+Revista CEPAL N° 142 • abril de 2024 
+El Estado en contracción: un análisis del vínculo entre el gasto público y la vulnerabilidad de clase…
+Por último, en el gráfico 10 se observa cómo aumentarían las desigualdades de género si se 
+recortaran los servicios de salud y educación: el número de mujeres que se verían afectadas por un 
+aumento de los gastos superior al 50% de sus ingresos es mayor que el de hombres (las mujeres 
+representan el 55,3% de la población afectada pero solo el 51,6% de la población total).
+Gráfico 10 
+Brasil: población afectada por una contracción hipotética del gasto público  
+y población total, por sexo, 2017-2018
+(En porcentajes)
+HombresM ujeres
+HombresM ujeres
+B. Población total
+A. Población afectada
+50
+45
+55
+60
+40
+35
+30
+25
+20
+15
+10
+5
+0
+50
+45
+55
+60
+40
+35
+30
+25
+20
+15
+10
+5
+0
+Fuente: Elaboración propia sobre la base de Instituto Brasileño de Geografía y Estadística, Encuesta de Presupuestos Familiares 
+(2017-2018), Río de Janeiro.
+Nota: La población afectada se define como las personas que se enfrentarían a un incremento del gasto superior al 50% de 
+sus ingresos actuales.
+225
+Revista CEPAL N° 142 • abril de 2024
+Arthur Welle y Ana Luíza Matos de Oliveira
+En lo que respecta a la raza, el gráfico 11 ilustra cómo aumentarían las desigualdades raciales 
+en el Brasil si se recortaran los servicios de salud y educación: la proporción de personas negras que 
+tendrían que afrontar un aumento del gasto de más del 50% de sus ingresos es mayor que en el resto 
+de los grupos de población (representan el 66,2% de la población afectada pero solo el 54,6% de la 
+población total). 
+Gráfico 11 
+Brasil: población afectada por una contracción hipotética del gasto público  
+y población total, por raza, 2017-2018
+(En porcentajes)
+B. Población total
+A. Población afectada
+Negros Blancos Otros
+Negros Blancos Otros
+60
+40
+20
+0
+70
+50
+30
+10
+60
+40
+20
+0
+70
+50
+30
+10
+Fuente: Elaboración propia sobre la base de Instituto Brasileño de Geografía y Estadística, Encuesta de Presupuestos Familiares 
+(2017-2018), Río de Janeiro.
+Nota: La población afectada se define como las personas que se enfrentarían a un incremento del gasto superior al 50% de 
+sus ingresos actuales.
+226
+Revista CEPAL N° 142 • abril de 2024 
+El Estado en contracción: un análisis del vínculo entre el gasto público y la vulnerabilidad de clase…
+Los gráficos 10 y 11 ponen de relieve la carga que recaería en las mujeres y la población negra 
+si se redujera el gasto público. En la intersección de estos dos grupos, hay otro —las mujeres negras— 
+que sería aún más vulnerable. Por lo tanto, resulta imposible disociar el análisis de la vulnerabilidad 
+(incluso en términos hipotéticos, como se hizo en este ejercicio, ya que es difícil determinar de manera 
+precisa el impacto monetario que tendrían los recortes del gasto social) del análisis de las desigualdades 
+raciales y de género en el Brasil. Para este país, racialmente heterogéneo (Seguino y Heintz, 2012), la 
+raza puede ser un marcador de pobreza, desigualdad y vulnerabilidad incluso más importante que el 
+género, como se desprende de los gráficos 10 y 11.
+Utilizando un enfoque interseccional, en el gráfico 12 se destaca la prevalencia de las mujeres 
+negras en el grupo afectado (35,8%), cuya cifra es mucho mayor que la de la población total (27,6%). 
+Los hombres negros también están sobrerrepresentados en el grupo afectado en comparación con 
+la población total.
+Los datos utilizados para la elaboración de este artículo se refieren a una época anterior a 
+la pandemia de la enfermedad por coronavirus (COVID-19). Una vez que se hayan actualizado las 
+bases de datos, se realizarán otros estudios con el fin de comprender el impacto de la pandemia en 
+la pobreza, la desigualdad y la vulnerabilidad en relación con el género y la raza, así como el papel del 
+sector público (Matos de Oliveira y Alloatti, 2022).
+Gráfico 12 
+Brasil: población afectada por una contracción hipotética del gasto público  
+y población total, por raza y sexo, 2017-2018
+(En porcentajes)
+A. Población afectada
+30,0
+36,8
+17,5
+14,6
+0,7
+0,4
+Otras mujeres
+Mujeres blancas
+Mujeres negras
+Otros hombres
+Hombres blancos
+Hombres negros
+10 20 30 400
+227
+Revista CEPAL N° 142 • abril de 2024
+Arthur Welle y Ana Luíza Matos de Oliveira
+B. Población total
+26,9
+27,8
+20,9
+23,1
+0,6
+0,7Otras mujeres
+Mujeres blancas
+Mujeres negras
+Otros hombres
+Hombres blancos
+Hombres negros
+10 20 30 400
+Fuente: Elaboración propia sobre la base de Instituto Brasileño de Geografía y Estadística, Encuesta de Presupuestos Familiares 
+(2017-2018), Río de Janeiro.
+Nota: La población afectada se define como las personas que se enfrentarían a un incremento del gasto superior al 50% de 
+sus ingresos actuales.
+IV. Conclusiones
+El Brasil tiene una larga historia en lo que respecta a distintos tipos de desigualdad, especialmente en 
+materia de raza, género y clase, que se han perpetuado y afianzado con el tiempo. En este sentido, 
+la Constitución Federal de 1988 se considera un caso atípico en la historia del Brasil, ya que entre 
+sus objetivos se encuentra la reducción de las desigualdades (por ejemplo, mediante la garantía del 
+acceso a la salud pública y la educación). Sin embargo, siempre está presente la posibilidad de que 
+se produzcan nuevos recortes en los servicios de salud y educación, y más aún desde 2015. Este 
+ejercicio, aunque extremo en el sentido de que plantea la eliminación del gasto público en estas dos 
+áreas, ayuda a comprender las consecuencias que tal medida tendría desde el punto de vista de la 
+clase, el género y la raza.
+Como se ha argumentado, si bien la Constitución estipula que la reducción de las desigualdades es 
+un objetivo fundamental, el Estado no ha utilizado todas las herramientas disponibles para contrarrestarlas 
+(como una reforma tributaria progresiva) y, más recientemente, la regresión de la política social y la 
+contracción del Estado también han afectado enormemente a las personas que no pueden pagar los 
+servicios privados.
+Después de la pandemia de COVID-19, la cuestión resulta todavía más apremiante: en primer 
+lugar, debido a la mayor vulnerabilidad de la población brasileña como resultado de las repercusiones 
+socioeconómicas de la pandemia; en segundo lugar, porque la pandemia ha puesto de relieve la 
+importancia de la prestación pública de servicios de salud y educación y de impulsar la coordinación 
+estatal en tiempos de crisis. Con información actualizada, el ejercicio realizado en este estudio se puede 
+repetir para confirmar si la población se ha vuelto aún más vulnerable después de este acontecimiento 
+mundial histórico.
+Los datos muestran que, para quienes se encuentran en los tramos de ingresos más bajos, los 
+presupuestos familiares ya están sobrecargados (y lo estaban incluso antes de la pandemia). Cuando se 
+228
+Revista CEPAL N° 142 • abril de 2024 
+El Estado en contracción: un análisis del vínculo entre el gasto público y la vulnerabilidad de clase…
+recortan los gastos públicos, debido a las limitaciones financieras, las familias no necesariamente recurren 
+a sustitutos del mercado, o encuentran sustitutos precarios para los servicios. Sin embargo, existe un 
+componente de clase, género, raza y región en el impacto monetario de la hipotética eliminación de 
+los servicios públicos de salud y educación, ya que las personas que viven en la pobreza, las mujeres 
+y la población negra son históricamente más vulnerables y dependientes de la provisión pública de 
+bienes, especialmente las poblaciones del nordeste del país. La eliminación de los servicios públicos 
+representaría un duro golpe a los presupuestos familiares ya sobrecargados de estas poblaciones, 
+como se ilustra en el gráfico 8, lo que posiblemente produciría un aumento de la pobreza monetaria, que 
+se habrá de medir en estudios futuros. Los datos analizados en este artículo indican que las mujeres 
+experimentan consecuencias extremas como “destinatarias” de las políticas públicas. No obstante, 
+también cabe señalar que igualmente se verían afectadas como “productoras” de políticas públicas, 
+dado que constituyen la mayor parte de la fuerza laboral en los ámbitos de la salud y la educación. 
+Ninguno de estos efectos puede dejarse de lado al discutir el presupuesto público y la importancia de 
+las prestaciones sociales para abordar las desigualdades históricas.
+Bibliografía
+ANS (Agencia Nacional de Salud Suplementaria) (2021), “Dados e Indicadores do Setor” [en línea] https://
+www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-e-indicadores-do-setor.
+ANTRA (Asociación Nacional de Travestis y Transexuales de Brasil) (2022), Dossiê assassinatos e violências 
+contra travestis e transexuais brasileiras em 2021 [en línea] https://antrabrasil.files.wordpress.com/2022/01/
+dossieantra2022-web.pdf.
+Banco Mundial (2022), “Domestic private health expenditure (% of current health expenditure) – Brazil”  
+[en línea] https://data.worldbank.org/indicator/SH.XPD.PVTD.CH.ZS?locations=BR.
+Blyth, M. (2017), Austeridade: a história de uma ideia perigosa, São Paulo, Autonomia Literária.
+Bourdieu, P . y J. C. Passeron (2013), Os herdeiros: os estudantes e a cultura, Editora UFSC.
+Carneiro, S. (2011), “Enegrecer o feminismo: a situação da mulher negra na América Latina a partir de uma 
+perspectiva de gênero”, Geledés [en línea] https://www.geledes.org.br/enegrecer-ofeminismo-situacao-
+da-mulher-negra-naamerica-latina-partir-de-uma-perspectiva-degenero/.
+(2005), “A construção do outro como não-ser como fundamento do ser”, Tesis de doctorado, São Paulo”, 
+Universidad de São Paulo.
+(1995), “Gênero, raça e ascensão social”, Revista Estudos Feministas, vol. 545, Nº 2/95.
+CEPAL (Comisión Económica para América Latina y el Caribe) (2022a), “Indicators”, Observatorio de Igualdad 
+de Género de América Latina y el Caribe [en línea] https://oig.cepal.org/es/indicadores. 
+(2022b), “Banco de datos regional para el seguimiento de los ODS en América Latina y el Caribe”  
+[en línea] https://agenda2030lac.org/estadisticas/banco-datos-regional-seguimiento-ods.html?lang=es. 
+(2021), “La autonomía económica de las mujeres en la recuperación sostenible y con igualdad”, Informe 
+Especial COVID-19, N° 9, Santiago, 10 de febrero. 
+Dweck, E., P . Rossi y A. L. M. Oliveira (eds.) (2020), Economia pós-pandemia: desmontando os mitos da 
+austeridade fiscal e construindo um novo paradigma econômico, São Paulo, Editora Autonomia Literária.
+Engels, F. (2015), Sobre a questão da moradia, São Paulo, Editora Boitempo. 
+Fagnani, E. (org.) (2018), A Reforma Tributária Necessária: diagnóstico e premissas , Brasilia, Asociación 
+Nacional de Auditores Fiscales de la Hacienda Federal de Brasil (ANFIP)/Federación Nacional de Autoridades 
+Fiscales Estatales y Distritales (FENAFISCO).
+(2017), “O fim do breve ciclo da cidadania social no Brasil (1988-2015)”, Texto para Discussão, Nº 308, 
+UNICAMP [en línea] https://goo.gl/BBijEb. 
+Gálvez, L. y P . Rodríguez-Modroño (2016), “A gender analysis of the great recession and “Austericide”  
+in Spain”, Revista Crítica de Ciências Sociais, vol. 111.
+Gobierno del Brasil (2023), “Constituição Federal de 1988 atualizada até a Emenda Constitucional nº 132/2023” 
+[en línea] https://www2.camara.leg.br/atividade-legislativa/legislacao/constituicao1988. 
+(2013), “Emenda Constitucional Nº 72 de 02 de abril de 2013” [en línea] https://legislacao.presidencia.
+gov.br/atos/?tipo=EMC&numero=72&ano=2013&ato=285UTT61ENVpWT27c.
+229
+Revista CEPAL N° 142 • abril de 2024
+Arthur Welle y Ana Luíza Matos de Oliveira
+González, L. (2020), Por um Feminismo Afro Latino Americano, Río de Janeiro, Zahar Editora.
+(1988), “A categoria político-cultural de amefricanidade”, Tempo Brasileiro, Nº 92/93, Río de Janeiro, 
+enero-junio.
+(1984), “Racismo e Sexismo na Cultura Brasileira”, Revista Ciências Sociais Hoje, Anpocs.
+(1979), “A juventude negra brasileira e a questão do desemprego”, documento presentado en la Segunda 
+Conferencia Anual de la Asociación de Estudios del Patrimonio Africano, Pittsburgh, 26–29 de abril.
+Grotti, V. y otros (2019), “Temporalities of emergency: migrant pregnancy and healthcare networks in Southern 
+European borderlands”, Social Science & Medicine. 
+Guerrina, R. (2015), “Socio-economic challenges to work-life balance at times of crisis”, Journal of Social 
+Welfare and Family Law, vol. 37, Nº 3.
+Hirata, H. (2014), “Gênero, classe e raça: Interseccionalidade e consubstancialidade das relações sociais”, 
+Tempo Social, vol. 26, Nº 1, junio.
+Hyman, R. (2005), “Europeização ou erosão das relações laborais?”, Mudanças no trabalho e ação sindical: 
+Brasil e Portugal no contexto da transnacionalização, E. Estanque y otros, São Paulo, Editora Cortez.
+IBGE (Instituto Brasileño de Geografía y Estadística) (2022a), “Síntese de Indicadores Sociais” [en línea] https://
+www.ibge.gov.br/estatisticas/sociais/trabalho/9221-sintese-de-indicadores-sociais.html?=&t=resultados.
+(2022b), “Tabela 6403 – Populaçao, por cor ou raça” [en línea] https://sidra.ibge.gov.br/tabela/6403#resultado.
+INEP (Instituto Nacional de Estudios e Investigaciones Educativas Anísio Teixeira) (2022), “Sinopse Estatística 
+da Educação Básica 2021”, Brasilia.
+IPEA (Instituto de Investigación Económica Aplicada) (2022), Atlas da Violência 2022 [en línea] https://www.
+ipea.gov.br/atlasviolencia/dados-series/146.
+Martínez, O., I. Dueñas y M. Meireles (2020), “Austerity policies, public expenditure, and development from a 
+gender perspective: What Is the status of Mexican and Brazilian Women?”, Panoeconomicus, vol. 67, Nº 3.
+Matos de Oliveira, A. L. (2022), “Educação no Brasil: ocupação no setor público de 2003 a 2019”, Trajetórias 
+da Burocracia na Nova República: heterogeneidades, desigualdades e perspectivas (1985-2020), F. Lopez, 
+J. Cardoso Júnior y José Celso Pereira, Instituto de Investigación Económica Aplicada (IPEA).
+Matos de Oliveira, A. L. y M. Alloatti (2022), “Gendering the crisis: austerity and the COVID-19 pandemic in 
+Brazil”, Economia Politica, vol. 39 [en línea] https://doi.org/10.1007/s40888-021-00243-7.
+Matos de Oliveira, A. L. y L. S. Fares (2021), “Sexual division of labour in Brazil: Interpretations of domestic 
+and care work under COVID-19”, Agenda, vol. 35, Nº 4. 
+Mills, W. (1969), A Nova Classe Média (White Collar), Río de Janeiro, Zahar Editores.
+Nassif-Pires, L., L. Cardoso y A. L. M. Oliveira (2021), “Gender and Race in the Spotlight during the COVID-19 
+Pandemic”, Policy Note , Nº 2021/2 [en línea] https://www.levyinstitute.org/publications/gender-and-
+race-in-the-spotlight-during-the-covid-19-pandemicthe-impact-of-the-emergency-benefit-on-poverty-
+and-extreme-poverty-in-brazil.
+O Globo (2019), “No congresso, só 17,8% dos parlamentares sao negros” [en línea] https://oglobo.globo.
+com/politica/no-congresso-so-178-dos-parlamentares-sao-negros-24091102. 
+Périvier, H. (2018), “Recession, austerity and gender: A comparison of eight European labour markets”, 
+International Labour Review, vol. 157, Nº 1.
+Pochmann, M. (2015), Desigualdade econômica no Brasil, São Paulo, Ideias & Letras.
+Power, A. y E. Hall (2018), “Placing care in times of austerity”, Social & Cultural Geography, vol.19, Nº 3.
+Saffioti, H. (2013), A mulher na sociedade de classe: mito e realidade, São Paulo, Expressão Popular. 
+Seguino, S. y J. Heintz, (2012), “Monetary tightening and the dynamics of US race and gender stratification”, 
+American Journal of Economics and Sociology, vol. 71, Nº 3 [en línea] http://www.jstor.org/stable/23245191. 
+Sidra IBGE (2022), “Tabela 6403 – Populaçao, por cor ou raça” [en línea] https://sidra.ibge.gov.br/
+tabela/6403#resultado.
+Silveira, F. y otros (2021), “Equidade fiscal no Brasil: impactos distributivos da tributação e do gasto social”, 
+Comunicados IPEA, Nº 92 [en línea] http://repositorio.ipea.gov.br/handle/11058/5207.
+Slave Voyages (2022), “Trans-Atlantic Slave Trade – Estimates” [en línea] https://www.slavevoyages.org/
+assessment/estimates.
+Tepe-Belfrage, D. y J. Steans (2016), “The new materialism: re-claiming a debate from a feminist perspective”, 
+Capital & Class, vol. 40, Nº 2.
+Thomson, R., C. Niedzwiedz y S. Katikireddi (2018), “Trends in gender and socioeconomic inequalities in 
+mental health following the Great Recession and subsequent austerity policies: A repeat cross-sectional 
+analysis of the Health Surveys for England”, British Medical Journal Open, vol.8, Nº 8.
+COMISIÓN ECONÓMICA PARA AMÉRICA LATINA Y EL CARIBE

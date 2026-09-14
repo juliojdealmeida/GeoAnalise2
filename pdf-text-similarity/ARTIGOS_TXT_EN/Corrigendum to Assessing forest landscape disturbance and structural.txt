@@ -1,0 +1,36 @@
+Corrigendum to “Assessing forest landscape disturbance and structural 
+integrity through synthetic indices in the Brazilian Amazon” [Environ. 
+Sustain. Indicat. 28 (2025) 101009]
+´Erick Teixeira Rodrigues *, Antˆonio Miguel Vieira Monteiro, Maria Isabel Sobral Escada
+LiSS-Laboratory for Investigation of Socio-Environmental Systems of DIOTG - Division on Earth Observation & Geoinformatics, Brazilian Institute for Space Research, Av. 
+Astronautas, 1.758 - Jardim da Granja, S˜ao Jos´e dos Campos, S˜ao Paulo, Brazil
+The authors regret the errors in the Funding and Acknowledgements 
+sections of the published article. The corrected statements are provided 
+below:
+Funding sources: This study was financed in part by the Coor­
+denaç˜ao de Aperfeiçoamento de Pessoal de Nível Superior – Brasil 
+(CAPES) – Finance Code 001. It was also partially funded by the Well­
+come Trust (https://wellcome.org/) through the HARMONIZE project 
+(https://www.harmonize-tools.org/) with award reference: 224694/Z/ 
+21/Z. KRvD is funded by the BHF Cambridge Centre for Research 
+Excellence RE/24/130011. The funders had no role in the study design. 
+The authors would like to thank the FIOCRUZ group, partners in this 
+stage of the project and its operator, FIOTEC.
+Acknowledgements: The authors wish to acknowledge the Labo­
+rat´orio de Investigaç˜ao em Sistemas Socioambientais (LiSS) and the 
+Brazilian National Institute for Space Research (INPE) for their support, 
+and CAPES and the HARMONIZE project for their funding. The authors 
+also thank Melanie de Oliveira for her thorough English language review 
+of this work, and the anonymous reviewers for their valuable comments 
+on the manuscript.
+The authors would like to apologise for any inconvenience caused.
+DOI of original article: https://doi.org/10.1016/j.indic.2025.101009.
+* Corresponding author. Av. Astronautas, 1.758 - Jardim da Granja, S˜ao Jos´e dos Campos, S˜ao Paulo, Brazil.
+E-mail address: erick.rodrigues@inpe.br (´E.T. Rodrigues). 
+Contents lists available at ScienceDirect
+Environmental and Sustainability Indicators
+journal homepage: www.sciencedirect.com/journal/environmental-and-sustainability-indicators
+https://doi.org/10.1016/j.indic.2025.101024
+Environmental and Sustainability Indicators 28 (2025) 101024 
+Available online 7 November 2025 
+2665-9727/© 2025 The Author(s). Published by Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 

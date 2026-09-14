@@ -1,0 +1,746 @@
+Keynesianos", monetaristas, 
+novos-elássicos e novos-keynesianos: 
+Fernando Ferrari Fillio* 
+Passados 60 anos da publicação da The general theory of employment, 
+interest, and money, de agora em diante denominada GT, a análise de 
+Keynes continua sendo objeto de discussões em teoria econômica. 
+Escrito no período em que a Lei de Say, também conhecida como lei dos 
+mercados, era predominante no pensamento econômico,^ a análise keyne­
+siana para o desemprego crônico observado durante a Grande Depressão 
+revolucionou o estudo da Economia: Keynes argumenta que a existência de 
+insuficiência de demanda efetiva se constitui na principal característica de 
+economias monetárias capitalistas. 
+Desde então, a revolução keynesiana, caracterizada pelas idéias e pres­
+crições econômicas de Keynes apresentadas em seu livro, vem suscitando 
+Professor Titular do Departamento de Ciências Econômicas da Universidade Federal do Rio 
+Grande do Sul (UFRGS). 
+O autor agradece ao Professor Paul Davidson as sugestões iniciais apresentadas e ao 
+Professor Gentil Corazza os comentários a uma das versões do artigo. Os erros eventual­
+mente contidos no artigo são, contudo, tão-somente do autor. 
+Agradece, ainda, o apoio financeiro do CNPq, que lhe possibilitou a realização do programa 
+de pós-doutorado na The University of Tennessee, para o que foi imprescindível. 
+Para enfatizar a importância que a Lei de Say exercia na teoria clássica, Keynes escreve que 
+"(...) Ricardo's doctrine (...) conquered England as completely as the Holy Inquisition con-
+quered Spain" (KEYNES, 1964, p.32). 
+["(.-) a doutrina de Ricardo (...) conquistou a Inglaterra tanto quanto a Santa Inquisição 
+conquistou a Espanha".] 
+1 - A evolução da macroeconomia 
+a partir da revolução keynesiana 
+1.1 - Os modelos IS-LM e de desequilíbrio: 
+a "neoclassização" da teoria keynesiana 
+Dentro do que se denomina na literatura econômica de keynesianismo 
+neoclássico, há duas estruturas teóricas em macroeconomia relacionadas à 
+interpretação da revolução keynesiana: por um lado, existe uma análise 
+interpretativa da GT, conhecida como diagramas IS-LM, que está centrada na 
+proposição de que o desemprego involuntário keynesiano se constitui em um 
+caso particular da teoria clássica devido tão-somente à existência da armadilha 
+tanto vertentes interpretativas quanto reações críticas, as quais, diga-se de 
+passagem, têm contribuído para o desenvolvimento da macroeconomia. 
+Este artigo tem como objetivo inicial apresentar, de maneira 
+sucinta, as principais concepções teóricas, sejam elas provenientes 
+das interpretações da análise de Keynes, sejam elas decorrentes das 
+críticas à teoria keynesiana, que fazem parte do debate em teoria 
+macroeconômica. Em segundo lugar, à luz da teoria pós-keynesiana, o 
+artigo objetiva mostrar que essas concepções teóricas apresentam 
+algumas inconsistências lógicas em relação tanto à estrutura analítico-
+-teórica de Keynes quanto à dinâmica comportamental das economias 
+empresariais modernas. 
+Para tanto, o artigo está dividido como segue: na primeira seção, as 
+atenções estão voltadas para a apresentação das teorias macroeconômi­
+cas elaboradas a partir da revolução keynesiana, quais sejam, (a) keyne­
+siana neoclássica, (b) monetarista e novo-clássica e (c) novo-keynesiana; 
+na seção seguinte, as argumentações procuram, por um lado, mostrar que 
+as versões interpretativas da GT se distanciam, em grande parte, das 
+idéias de Keynes, dirimindo, assim, o caráter revolucionário da teoria 
+keynesiana, e, por outro, questionar o realismo de determinados pressu­
+postos teóricos dos modelos críticos da GT, principalmente quando estes 
+são confrontados com o real worid; por fim, são apresentados alguns 
+comentários conclusivos. 
+1.1.1 - A análise hicksiana da GT 
+Partindo de uma situação em que as análises keynesiana e clássica podem 
+ser representadas por uma estrutura teórica similar, Hicks, no referido artigo, 
+objetiva comparar as idéias de Keynes com as dos clássicos. Para tanto, três 
+modelos são formalizados como segue: 
+Modelo Modelo Modelo da 
+"clássico" "especial de Keynes" 'Teoria Geral" 
+(1)M = kl {1)M = L{i) (1)M = L(i,l) 
+(2) Ix = C(i) (2) Ix = C(i) (2) Ix = C(i) 
+(3) Ix = S(i,l) (3) Ix = S(l) (3) Ix = S(i) 
+onde IW é a quantidade de moeda, k é a constante marshalliana da equação 
+quantitativa de Cambridge, I é o nível de renda, Ix é o investimento total, i é a 
+taxa de juros e S é a poupança. 
+Situação na qual a demanda por moeda é perfeitamente elástica em relação à taxa de juros. 
+Em outras palavras, o público, face à incerteza em relação ao futuro, prefere reter moeda, 
+quaisquer que sejam os níveis de taxa de juros da economia, em seus encaixes reais. 
+A posição inicial de equilíbrio da economia está relacionada à existência de falhas de mercado, 
+provenientes de inflexibilidades de preços e salários, que acabam impondo restrições de 
+quantidades, sejam demandadas, sejam ofertadas. 
+da liquidez^; por outro, existe um approach, denominado desequilibrista, que 
+interpreta o princípio da demanda efetiva de Keynes em um contexto no qual 
+a economia se move, ao longo do tempo, de uma situação de equilíbrio parcial 
+para uma de equilíbrio geral.^ 
+Das interpretações acima, sem dúvida nenhuma, a mais divulgada e 
+amplamente discutida nos livros-texto de macroeconomia diz respeito aos 
+diagramas IS-LM, que, como se sabe, têm como origem o artigo de Hicks, 
+Mr. Keynes and the "classics": a suggested interpretation, escrito em 
+1937. 
+Na simbologia adotada por Hicks, a curva LM é denominada LL. 
+A primeira equação de cada modelo define a curva LM'*, ao passo que as 
+duas equações seguintes dos modelos definem a curva IS. As referidas curvas, 
+por sua vez, determinam as condições de equilíbrio dos mercados monetário 
+e real, expressas pelas possíveis combinações entre taxas de juros e níveis 
+de renda respectivamente. 
+O passo seguinte é a apresentação do que Hicks considera ser as diferenças 
+entre os modelos "clássico", "especial de Keynes" e da 'Teoria Geral". 
+Ao comparar os dois primeiros modelos, Hicks entende que o modelo 
+"especial de Keynes" difere do modelo "clássico" em duas questões: função 
+poupança e demanda por moeda. Nesse particular, ele argumenta que a 
+diferença essencial entre os referidos modelos se encontra na análise da 
+demanda por moeda: em Keynes, a demanda por moeda é explicada pela 
+função preferência pela liquidez, ao passo que, para os clássicos, a demanda 
+por moeda é parte integrante da equação quantitativa de Cambridge. 
+Quanto à comparação entre os modelos "especial de Keynes" e da 'Teoria 
+Geral", Hicks afirma que a análise monetária da GT, devido ao fato de Keynes 
+apresentar a demanda por moeda como função dos motivos especulação e 
+transação, é"(...) something appreciably more orthodox" (HICKS, 1937, p. 152). 
+["(...) algo apreciavelmente mais ortodoxo."] 
+A adjetivação de Hicks está relacionada ao que ele entende ser o retorno de 
+Keynes às suas origens quantitativistas da teoria monetária. Conforme Hicks 
+(1937, p.153), "[wjith this revision, Mr. Keynes takes a big step back to Marshallian 
+orthodoxy, and his theory becomes hard to distinguish from the revised and 
+qualified Marshallian theories, which, as we have seen, are not new". 
+["Com essa revisão, o Senhor Keynes retorna para a ortodoxia 
+marshalliana, e sua teoria torna-se difícil de ser diferenciada das 
+teorias marshallianas revisadas, as quais, nós sabemos, não são 
+novas."] 
+Por que, pela passagem acima, as teorias monetárias de Keynes e a 
+marshalliana não são distintas? Pela argumentação de Hicks, quando a 
+1.1.2 - As análises desequilibristas 
+No que concerne à interpretação da GT a partir de um approach desequili-
+brista, Patinkin (1965) foi o primeiro economista a formalizar um modelo 
+"keynesiano" de desequilíbrio. Ao longo do Capítulo 13 de seu Money, in­
+terest, and prices, Patinkin desenvolve uma estrutura teórica em que o 
+desemprego involuntário é explicado como decorrência da rigidez de salários 
+no mercado de trabalho. 
+Se, contudo, o mercado de trabalho se comportar conforme a lógica do 
+Tâtonnement wairasiano, então, segundo Patinkin "(...) these forces [market 
+freely flexible prices] will restore the economy to a state of full employment (...)" 
+(PATINKIN, 1965, p.328). 
+["(...) essas forças [preços de mercado livremente flexíveis] res­
+taurarão a economia para um estado de pleno emprego."] 
+Seguindo essa linha de argumentação, Patinkin diz que, no longo prazo, 
+"(...) an equilibrium position aiways exists and (...) the economy will aiways 
+converge to it (grifos nossos)" (Ibid., p.328). 
+["(...) uma posição de equilíbrio sempre existe e (...) a economia 
+sempre convergirá para ela {grifos nossos)."] 
+economia keynesiana se encontra na armadilha da liquidez, as equações 
+monetárias dos modelos da "Teoria Geral" e "clássico" passam a ter uma 
+relação funcional comum: variações na demanda por moeda dependem, 
+exclusivamente, do nível de renda. 
+A partir desse argumento, Hicks entende que o desemprego involuntário keyne­
+siano surge porque a política monetária não consegue alterar a taxa de juros e, por 
+conseguinte, o nível de renda. Nesse sentido, ele conclui que"(...) the General Theory 
+of employment is the Economics of Depression" (HICKS, 1937., p.155). 
+["(...) a Teoria Geral do emprego é a Economia da Depressão."] 
+Tendo como referência a conclusão hicksiana de que a economia keyne­
+siana é a economia da depressão, a síntese neoclássica interpreta a revolução 
+keynesiana como sendo tão-somente a solução fiscalista de Keynes para as 
+crises temporárias de desemprego. 
+Dentro desse contexto, os desequilíbrios da teoria keynesiana passam a 
+ser interpretados como desequilíbrios dinâmicos do sistema de equilíbrio geral 
+wairasiano. 
+Os modelos de desequilíbrio ocuparam espaço significativo nas discussões 
+em macroeconomia através dos trabalhos de Barro, Grossman (1971), 
+Benassy (1975) e Malinvaud (1977). 
+Barro e Grossman, ao contrário de Patinkin, que formaliza um modelo de 
+desequilíbrio parcial a partir de imperfeições no mercado de trabalho, desen­
+volvem um modelo de desequilíbrio geral, tanto para booms quanto para 
+depressões, objetivando, por um lado, especificar regras de racionamento nos 
+mercados de bens e de trabalho e, por outro, examinar as implicações no 
+equilíbrio macroeconômico decorrentes das restrições quantitativas da 
+economia. 
+A partir da formalização de um non-market-clearing model, os autores 
+mostram que o sistema econômico responde diferentemente aos stiocks, 
+dependendo de como o vetor de preços da economia, caracterizado pela 
+rigidez de preços e salários, difere dos preços de equilíbrio. 
+Benassy e Malinvaud procuram investigar os fundamentos microeconômi-
+cos da macroeconomia, visando compreender os motivos que determinam a 
+rigidez de preços e salários. Nesse particular, apesar de alguns insights 
+relacionados aos custos de informação e à formação de preços em mercados 
+não concorrenciais, os autores limitam-se a sugerir linhas de pesquisa nessa 
+área. Malinvaud, por exemplo, entende que "[tjhe general equilibrium approach, 
+in a world where prices are sticky in short run, is not only highly relevant but 
+aiso highly challenging" (MALINVAUD, 1977, p.116). 
+["A análise de equilíbrio gerai, em um mundo onde os preços são 
+fixos no curto prazo, não é somente relevante, porém também 
+desafiante."] 
+Em termos gerais, quaisquer que sejam as análises desequilibristas — 
+parcial, geral e de miocrofundamentos da macroeconomia — os approaches 
+de desequilíbrio mostram que as flutuações cíclicas nos níveis de produto e 
+emprego estão relacionadas ao fato de que os preços, em unidades 
+monetárias, se ajustam lentamente para equilibrar oferta e demanda. Dessa 
+maneira, a teoria desequilibrista parece ser uma teoria de fé no sistema de 
+equilíbrio wairasiano de longo prazo. 
+^ Pela curva de Phillips original, há um trade-off permanente entre as taxas de inflação e 
+desemprego. Ver, para tanto, Phillips (1958). 
+1.2 - A contra-revolução keynesiana 
+1.2.1 - Friedman e a escola monetarista 
+Qual é a relação entre moeda e níveis de preços e produto? Procurando 
+responder a essa questão, os monetaristas tornaram-se um dos principais 
+críticos da análise keynesiana. 
+A teoria monetarista é alicerçada na idéia de que moeda é extremamente 
+importante na macroeconomia, seja porque ela afeta os níveis de produto e 
+emprego no curto prazo, seja pelo fato de que o estoque de moeda provoca 
+modificações no nível de preços no longo prazo. Nas palavras de Friedman, 
+"(...) money is ali that matters for changes in nominal income and for short-run 
+changes in real income" (FRIEDMAN, 1970, p.217). 
+["(...) moeda é tudo que importa para mudanças na renda nominal e 
+para, no curto prazo, mudanças na renda real."] 
+Se moeda importa, quais devem ser as regras monetárias para que o 
+sistema econômico seja estável? Friedman, em The role of monetary policy, 
+artigo escrito em 1968, apresenta considerações nessa direção. 
+Após critirar Keynes por entender que a teoria keynesiana não tem uma 
+explicação monetária para a crise, Friedman centra a sua análise em duas 
+questões: quais são as limitações da política monetária? Como as autoridades 
+monetárias devem conduzir a política monetária? 
+A resposta à primeira questão está relacionada à hipótese friedmaniana de 
+taxa natural de desemprego. Isto é,"(...) the levei that would be ground out by the 
+Wairasian system of general equilibrium equations" (FRIEDMAN, 1968, p.8). 
+["(...) o nível no qual estaria sustentado o sistema wairasiano de 
+equações de equilíbrio geral."] 
+Friedman inicia sua análise dizendo que a relação empírica da curva de 
+Phillips^ não se sustenta no longo prazo devido à intervenção dos policy 
+makers no mercado. Nesse particular, Friedman apresenta uma versão modi-
+ficada da curva de Píiillips, introduzindo regras de formação de expectativas, 
+por parte do público, sobre o comportamento da inflação. 
+O modelo de Friedman, denominado expectations-augmented Phillips 
+curve, está centrado na idéia de que os agentes econômicos otimizam suas 
+funções de preferência, tendo como referência suas expectativas acerca da 
+dinâmica do nível de preços da economia, em um futuro próximo. Este, por sua 
+vez, é calculado como segue: 
+P^t = f(Pa)(1),?oe {1,2,...}, 
+onde P^t é o nível de preços esperado no período t, e Pt-X é o nível de todos 
+os preços ocorridos no passado. 
+A equação acima diz que a previsão ótima do nível de preços no futuro é o 
+próprio comportamento dos preços observados no passado. Ou seja, as expec­
+tativas relativas à dinâmica do nível de preços são formadas adaptativamente. 
+Seguindo a lógica da argumentação de Friedman, suponhamos que as 
+autoridades monetárias queiram reduzir o nível de desemprego da economia que 
+se encontra, inicialmente, em sua taxa natural. Para tanto, a estratégia adotada é 
+a expansão da taxa de crescimento da oferta monetária, cujo efeito imediato é a 
+redução da taxa de juros. Como decorrência da política monetária expansiva, os 
+dispêndios de demanda agregada crescem — especificamente, consumo e 
+investimento — o que faz com que as firmas demandem uma maior quantidade 
+de trabalho. Nesse particular, o crescimento da produção tem, como contrapartida, 
+um impacto positivo no nível de preços: inflação. Em um contexto no qual os 
+agentes econômicos formam as suas expectativas de maneira adaptativa, os 
+trabalhadores, cedo ou tarde, perceberão o movimento inflacionário e, por con­
+seguinte, o incorporarão nos seus salários, deslocando, assim, a oferta de 
+trabalho. Por sua vez, quando os salários crescem, fazendo com que o mercado 
+de trabalho passe a apresentar, em relação à situação inicial de expansão da 
+economia, um excesso de demanda, as firmas passam a reduzir a demanda por 
+trabalho, pois seus custos de produção aumentam. Dessa maneira, o equilíbrio 
+no mercado de trabalho é restaurado às expensas da recessão. 
+Generalizando a análise f riedmaniana, variações iniciais na taxa de desem­
+prego ocorrem devido ao fato de que os agentes econômicos não conseguem 
+prever a inflação futura. Contudo, com o passar do tempo, a partir de um 
+processo contínuo de revisão das expectativas, a inflação esperada pelos 
+1.2.2 - A teoria novo-clássica 
+Nos anos 70, a economia clássica sofre a sua própria "evolução": as 
+expectativas racionais passam a ser incorporadas nos modelos de equilíbrio 
+geral. 
+agentes econômicos tende a ajustar-se à inflação corrente e, como resultado 
+dessa antecipação inflacionária, por parte dos agentes econômicos, o nível de 
+emprego retorna à sua taxa natural de desemprego. 
+Nesse sentido, a conclusão de Friedman em relação às limitações da 
+política monetária é que esta, ao longo do tempo, provoca tão-somente 
+distúrbios nominais na economia. Segundo ele, 
+"(...) there is aiways a temporary trade-off between inflation and unemploy-
+ment; there is no permanent trade-off. The temporary trade-off comes not 
+from inflation per se, but from unanticipated inflation, which generally 
+means, from a rising rate of inflation" (FRIEDMAN, 1968, p.11). 
+["(...) há sempre um trade-off temporário entre inflação e desem­
+prego; não existe um trade-off permanente. O trade-off temporário 
+surge não devido à inflação, porém da inflação não antecipada, o que 
+geralmente significa um aumento na taxa de inflação."] 
+Em seguida, Friedman discute como a política monetária deve ser conduzida 
+pelas autoridades monetárias. Nesse particular, a proposição friedmaniana é relati­
+vamente simples: a taxa de crescimento da oferta monetária deve ser constante. A 
+partir dessa regra, ele entende que a"(...) monetary policy can prevent money itself 
+from being a major source of economic disturbance" (FRIEDMAN, 1968, p.12). 
+["(...) política monetária pode evitar que a moeda seja, por si própria, 
+a principal fonte de distúrbio econômico."] 
+Diante do exposto, Friedman e os monetaristas, ao entenderem que a 
+economia é inerentemente estável — excetuando-se os distúrbios monetários 
+de curto prazo, a economia encontra-se em torno da sua taxa natural de 
+desemprego —, rejeitam quaisquer poli'ticas econômicas ativas, sejam fiscais, 
+sejam monetárias, como forma de estabilizar o sistema econômico. Em outras 
+palavras, o livre-mercado é sinônimo de estabilização econômica. 
+"terir P CEDÔG 
+Ensaios FEE, Porto Alegre(17)2:78-101, 1996 | 1 t. l- T 87 
+BtBtíOTECA 
+Discutidas inicialmente por Muth (1961), as expectaVVâs racjç 
+difundidas na análise macroeconômica a partir, principalmente, dos traba­
+lhos de Lucas Júnior (1972, 1973), Sargent (1973) e Sargent, Wallace 
+(1975). 
+A teoria novo-clássica, conforme ficaram conhecidas na literatura 
+econômica as análises de equilíbrio geral ampliadas pelas expectativas racio­
+nais, objetiva, por um lado, apresentar uma visão alternativa à teoria keyne­
+siana para os modelos de ciclos econômicos e, por outro, criticar a versão de 
+Friedman para a curva de Phillips. 
+A formulação de um modelo novo-clássico para a explicação dos ciclos 
+econômicos está relacionada ao fato de que, segundo os novos-clássicos, os 
+modelos keynesianos, tendo como estrutura teórica a hipótese de longo prazo 
+da curva de Phillips — frade-off permanente entre inflação e desemprego —, 
+não conseguiram prever e explicar o processo de "estagflação" da economia 
+mundial, verificado no início dos anos 70. Em After Keynesian macroeco­
+nomics, por exemplo, Lucas e Sargent afirmam que as 
+"(...) recommendations based on Keynesian models (...) produced the 
+highest unemployment rates since the 1930s. This was econometric 
+failure on a grand scale (...) [tjhe central fact is that Keynesian policy 
+recommendations have no sounder basis, in a scientific sense (...)" 
+(LUCAS JÚNIOR, SARGENT, 1981, p.303). 
+["(...) recomendações baseadas em modelos keynesianos (...) pro­
+duziram as maiores taxas de desemprego desde os anos 30. Isso 
+representa falha econometrica em grande escala (...) A questão 
+central é que recomendações de política keynesiana não têm susten­
+tação em termos científicos."] 
+Dessa maneira, uma vez que os modelos keynesianos apresentam falhas 
+econométricas, eles, segundo os autores, não podem ser um goodguide para 
+operacionalizar as políticas fiscal e monetária. 
+No que diz respeito à crítica ao modelo de Friedman para a curva de 
+Phillips, a análise está centrada em torno da seguinte questão: como as 
+expectativas dos agentes econômicos são formadas? Para os novos-clássicos, 
+o valor esperado de uma variável não é, necessariamente, uma função estável 
+de seus valores passados. Nesse particular, a teoria novo-clássica entende 
+Conforme a teoria das expectativas racionais, os agentes econômicos conhecem o processo 
+estocástico, que governa o comportamento das variáveis em cada período de tempo. Ver, 
+para tanto, IVluth (1961). 
+que as expectativas — ao contrário de Friedman, que as formaliza adaptati-
+vamente — são racionais^. Em termos de equação, 
+PVX=E(PtA/lt)(2),Xe{0,1,2, ...}, 
+onde P^t+Xé o nível de preços esperado no período i+X; Px+Xé o nível de preços 
+observado no período t+X; e It é o conjunto de informações disponíveis ao final 
+do período t. 
+A referida equação diz que o melhor previsor do nível de preços futuro é a 
+esperança do preço condicionada às informações obsen/adas no período passado. 
+Com a introdução da hipótese de expectativas racionais nos modelos 
+macroeconômicos, permitindo, assim,"(...) a treatment of the relation of Infor­
+mation to expectations which is in some ways much more satisfactory than is 
+possible with conventional adaptative expectations hypotheses" (LUCAS 
+JÚNIOR, 1972, p.104), 
+["(...) um tratamento acerca da informação para as expectativas muito 
+mais satisfatório do que o apresentado pelas hipóteses convencio­
+nais de expectativas adaptativa^'], 
+as análises em torno da existência de um trade-off, seja temporário, seja 
+permanente, entre inflação e desemprego passam a ser questionadas e 
+rejeitadas. Isto é, os novos-clássicos entendem que as políticas de adminis­
+tração de demanda agregada não têm impacto na determinação do nível de 
+equilíbrio da economia, que se encontra na sua taxa natural de desemprego. 
+Uma vez que as políticas de demanda são negligenciadas, como os 
+novos-clássicos explicam as flutuações dos níveis de produto e emprego? 
+Segundo eles, as flutuações econômicas são explicadas como manifestações 
+temporárias de choques exógenos de oferta, tais como variações tecnológicas 
+e de produtividade, que implicam mudanças nos preços relativos da economia. 
+Dessa maneira, ao centrar as atenções na oferta agregada, a teoria 
+novo-clássica resgata os principais pressupostos teóricos que fundamentam a 
+1.3 - A teoria novo-lceynesiana: os microfundamentos 
+dos equilíbrios macroeconômicos não wairasianos 
+A teoria novo-keynesiana, desenvolvida a partir dos anos 80, tem como 
+objetivo apresentar uma estrutura teórica, fundamentada em princípios microe-
+conômicos da macroeconomia keynesiana, alternativa à crise da teoria keyne­
+siana — subentendem-se modelos IS-LM — e, ao mesmo tempo, crítica aos 
+modelos novo-clássicos.^ Esta, por sua vez, está sistematizada na investigação 
+do que os novos-keynesianos entendem ser a questão central da teoria de Keynes: 
+rigidez de preços e salários. Conforme Mankiw e Romer, "[bjecause wage and 
+price rigidities are often viewed as central to Keynesian economics (grifo 
+nosso), much effort was aimed at shoeing how these rigidities arise from the 
+microeconomics of wage and price setting" (MANKIW, ROMER, 1991, p.1). 
+Segundo os novos-keynesianos, a síntese neoclássica não tem uma explicação lógica para 
+a rigidez de preços e salários, bem como a análise novo-clássica dos microfundamentos da 
+macroeconomia, tendo como referência modelos de marl(et-clearing, é inadequada para 
+explicar por que a função oferta agregada não varia quando há choques de demanda. 
+economia clássica, quais sejam: lei dos mercados, caracterizada pela idéia de 
+que a economia é self-correcting, e neutralidade da moeda. As palavras de 
+Lucas, a seguir, ilustram essa idéia: 
+"(...) equilibrium prices and quantities exhibit what may be the central 
+feature of the modern business cycle (...)" (LUCAS JÚNIOR., p.103). 
+["(...) quantidades e preços de equilíbrio são a questão centrai da 
+moderna teoria do ciclo dos negócios (...)".] 
+"(...) postulating economic agents free of money illusion (...) monetary 
+expansion will have no real consequences (that is, so that money is 
+aveil)"(lbid., p.121). 
+["(...) postulando que os agentes econômicos são livres de ilusão 
+monetária (...) uma expansão monetária não terá conseqüências 
+reais {isto é, moeda é um véu)."] 
+["Porque inflexibilidades de preços e salários são freqüentemente 
+vistos como o ponto central da economia Ifeynesiana (grifo 
+nosso), muitos esforços têm sido observados para mostrar que estas 
+podem ser explicadas pela análise microeconômica."] 
+Por que preços e salários são rígidos e quais são as implicações da rigidez 
+dos mesmos sobre os níveis de produto e emprego? A resposta à referida 
+questão é a essência da teoria novo-keynesiana. 
+Gordon (1990) e Greenwaid, Stiglitz (1993) identificam alguns insights da 
+teoria novo-keynesiana que vão nessa direção: o desequilíbrio no mercado de 
+trabalho, decorrente da inflexibilidade do salário nominal, é explicado pelos 
+modelos de salário-eficiência, contrato implícito e insider-outsider, ao passo 
+que a rigidez de preços é analisada por modelos de custos de ajustamento de 
+preços, comumente relacionados às estruturas de mercados não competitivos. 
+Partindo da idéia de que trabalho não é um bem homogêneo, o modelo de 
+salário-eficiência supõe que a produtividade do trabalho é afetada pelo salário 
+pago pelas firmas. Uma vez que a eficiência dos trabalhadores é condicionada 
+aos salários recebidos, qualquer redução de salário proposta pelas firmas, 
+visando à diminuição de custos, tem como efeito direto as quedas de produ­
+tividade e, por conseguinte, de lucro. Nesse sentido, as firmas evitam reduzir 
+salários, porque temem que as referidas quedas de produtividade e de lucro, 
+ao serem realizadas, reduzam a participação delas no mercado. 
+Os modelos de contrato implícito supõem que, em um contexto no qual os 
+trabalhadores são avessos ao risco e possuem limitado acesso ao mercado 
+financeiro, as firmas oferecem um seguro contra a incerteza da renda futura 
+dos trabalhadores, como forma de estabilizar o poder de compra de seus 
+salários. Dessa maneira, se os contratos de trabalho são negociados conforme 
+essa regra, os salários reais, quaisquer que sejam as flutuações no nível de 
+produto, permanecem relativamente estáveis. 
+Pelo modelo insider-outsider, o mercado de trabalho é constituído por 
+trabalhadores empregados, insiders, geralmente qualificados e sindicalizados, 
+e desempregados, outsiders, desprovidos de qualificação profissional e desor­
+ganizados politicamente. A partir dessa estrutura organizacional no mercado 
+de trabalho, existe um "consenso tácito" entre as firmas e os trabalhadores que 
+impede a redução dos salários: seja porque a substituição de um trabalhador 
+insiderpor um oufs/def ocasiona elevados custos de contratação e treinamento 
+a serem absorvidos pelas firmas, seja pelo fato de que os trabalhadores 
+2 - A visão pós-keynesiana 
+da teoria macroeconômica 
+No prefácio da GT, Keynes escreve que "[tjhe difficulty lies, not in the new 
+ideas, but in escaping from the old ones (grifo nosso), which ramify, forthose 
+brought up as most of us have been, into every corner of our minds" (KEYNES, 
+1964, p.viii). 
+insiders utilizam-se do poder sindical para que demissões e reduções de 
+salários sejam evitadas. 
+Os modelos de custos de ajustamento de preços, denominados modelos 
+de menu cost, partem do pressuposto de que a firma "(...) sets its price in 
+advance, and changes that price ex post only by incurring a small menu cost" 
+(MANKIW, 1985, p.530). 
+["(...) estabelece seu preço antecipadamente, e variações 'ex post' de 
+preços somente ocorrem se houver um pequeno custo de 'etiquetagem'."] 
+Nesse sentido, mesmo quando ocorrem variações de demanda, as de­
+cisões de mudanças de preços por parte da firma são postergadas, porque 
+estas implicam reestruturação de custos. Em outras palavras, a idéia central 
+dos modelos de menu cost está relacionada ao poder de monopólio das firmas. 
+Abstraindo-se as discussões que possam surgir em relação à lógica dos 
+referidos modelos, duas questões pertinentes à hipótese central da teoria 
+novo-keynesiana, rigidez de preços e salários como fator determinante das 
+flutuações econômicas, merecem reflexão: por um lado, quais são as impli­
+cações de rigidez de preços e salários na análise de equilíbrio geral? A resposta 
+foi, em parte, apresentada nos anos 70 pelos desequilíbrios. A originalidade 
+da teoria novo-keynesiana, contudo, está na tentativa de encontrar uma 
+consistência teórica para os problemas de falhas de mercado, mostrando, 
+assim, como os agentes econômicos otimizam seus comportamentos sob tais 
+imperfeições. Por outro, por que a adjetivação keynesiana? Nesse particular, 
+a explicação parece estar centrada em uma leitura equivocada da GT: o 
+desemprego involuntário keynesiano é analisado, não devido à situação de 
+insuficiência de demanda efetiva, explicada pela natureza monetária, mas, sim, 
+como sendo decorrente da hipótese de inflexibilidade de preços e salários. 
+® Ver, para tanto, Davidson (1994, p.17-18 ). 
+^ Segundo Hicks,"(.-) as time lias gone on, I have myself become dissatiáfied with it [IS-LM 
+diagram]" (HICKS, 1980-81, p.139). 
+["(...) com o passar do tempo, eu mesmo fiquei insatisfeito com isso [diagrama IS-LI\/I\."] 
+['A dificuldade reside não em aceitar as novas idéias, porém em escapar 
+das antigas (grifo nosso), que ramificam, pelo menos para aqueles que 
+foram educados como nós, por cada parte de nossas mentes."] 
+A citação acima, sem dúvida nenhuma, adapta-se às diferentes estruturas 
+teóricas apresentadas na seção anterior: interpretando e criticando as con­
+cepções teóricas de Keynes contidas na GT, as teorias macroeconômicas, 
+além de se distanciarem da análise revolucionária da teoria keynesiana, 
+parecem convergir, a longo prazo, para uma situação em que a "mão invisível" 
+do mercado continua, ainda, sendo a solução para manter o nível de pleno 
+emprego da economia. 
+O projeto de Keynes na GT consiste, basicamente, em, por um lado, negar 
+o sistema econômico de mercado auto-equilibrante e auto-regulador e, por 
+outro, apresentar mecanismos econômicos que evitem as flutuações e as 
+depressões econômicas. 
+Para tanto, Keynes desenvolve seu projeto a partir de três proposições 
+teóricas: teoria da determinação da renda (propensão a consumir e multipli­
+cador da renda), teoria do investimento (eficiência marginal do capital) e teoria 
+da taxa de juros (preferência pela liquidez). Estas, por sua vez, conforme a 
+teoria pós-keynesiana, são desenvolvidas em um contexto no qual o real world 
+apresenta as seguintes características: a moeda, além de não ser neutra, 
+possui algumas propriedades específicas que a difere dos demais ativos; o 
+futuro é incerto e unpredictable; os contratos são denominados em unidades 
+monetárias; e o desemprego é o resultado normal da atividade econômica.^ 
+Nesse sentido, entende-se que, quaisquer que sejam as interpretações e 
+controvérsias relacionadas à GT, estas devem ser fundamentadas tendo como 
+referencial as proposições e características acima mencionadas. 
+O que fazem as teorias macroeconômicas pós-revolução keynesiana? 
+A interpretação hicksiana da GT apresenta alguns equívocos teóricos, 
+reconhecidos pelo próprio Hicks anos mais tarde^, em relação à teoria de 
+Uma discussão especifica sobre a natureza do equilíbrio na teoria de Keynes pode ser 
+encontrada no Capitulo 2 do livro de Leijonhufvud (1968). 
+Keynes, tais como: substitui a concepção marshalliana de Keynes de equilíbrio 
+parcial pela análise de equiíbrio geral wairasiana, departamentaliza os mer­
+cados real e monetário, inverte a relação causai entre investimento e poupança 
+e desconsidera o papel que as expectativas e a incerteza exercem na demanda 
+efetiva. 
+No que diz respeito à primeira questão, a noção de equilíbrio keynesiano 
+na GT está relacionada a um processo de ajustamento da economia, que 
+envolve, sempre, oscilações nas condições ceteris paribus. Em outras 
+palavras, Keynes trabalha com a idéia de equilíbrio parcial marshalliano.^° 
+Esse equívoco interpretativo é admitido por Hicks. Segundo ele, a GT"(...) 
+was a model that was consistent with unemployment, while mine, in his terms, 
+was a full employment model" (HICKS, 1980-81, p.141). 
+["(...) era um modelo consistente com desemprego, enquanto a minha 
+teoria, em seus termos, era um modelo de pleno emprego."] 
+Além do mais, Hicks escreve que "(...) the idea of IS-LM diagram came to 
+me as a result of the work I had been doing on three-way exchange, conceived 
+in a Wairasian manner" (Ibid., p.141-142). 
+["(...) a idéia do diagrama IS-LM surgiu como resultado do estudo que 
+eu estava realizando em relação à formulação de uma análise 
+wairasiana."] 
+A departamentalização dos mercados real e monetário descaracteriza a 
+teoria de Keynes, uma vez que as esferas real e monetária fazem parte de uma 
+teoria de "escolha de ativos". A passagem, a seguir, ilustra que, na GT, os 
+mercados real e monetário são interdependentes e, portanto, não podem ser 
+departamentalizados: "The division of Economics between Theory of Value and 
+Distribution on the one hand and the Theory of Money on the other hand is, I 
+think, a false division (grifo npsso)" (KEYNES, 1964, p.293). 
+["A divisão da Economia entre Teoria do Valore Distribuição de um lado 
+e Teoria da Moeda de outro é, eu acho, uma divisão falsa (grifo nosso)."] 
+Analisando-se a relação causai entre investimento e poupança, Hicks 
+contraria a lógica keynesiana do princípio da demanda efetiva, quando escreve 
+que "(...) is impossible to increase investment without increasing the willigness 
+to save or the quantity of money"(HICKS, 1937, p.152). 
+["(...) é impossível que o investimento cresça sem que haja um 
+crescimento de poupança ou de quantidade de moeda."] 
+Por fim, Hicks reconhece que as expectativas, formadas sob um contexto 
+de incerteza, conforme Keynes admite na GT, são preteridas na análise de 
+equilíbrio dos diagramas IS-LM. Nas palavras dele, 
+"(...) there is no sense in liquidity, uniess expectations are uncertain. 
+But how is an uncertain expectation to be realized? When the moment 
+arrives to which the expectations refers, what replaces it is fact, fact 
+which is not uncertain (grifo nosso)" (HICKS, 1980-81, p.152). 
+["(...) não há sentido para a preferência pela liquidez, a menos que 
+as expectativas sejam incertas. Porém como é que uma expectativa 
+incerta pode ser realizada? Quando o momento para o qual a 
+expectativa é aguardada, chega, o fato é que a expectativa deixa de 
+ser incerta {grifo nosso)."] 
+Diante das considerações apresentadas, não se estranha o fato de que a 
+teoria keynesiana tenha sido interpretada por Hicks como a "economia da 
+depressão". Nesse particular, contudo, há um outro equívoco de Hicks que, de 
+certa maneira, pode ser dirimido por motivos cronológicos: em How to pay for 
+thiewar (KEYNES 1972), escrito anos após a publicação da GT, Keynes mostra 
+que a sua teoria se aplica, também, a situações em que as restrições quanti­
+tativas não são somente de demanda. 
+Os desequilibristas e, por extensão, os novos-keynesianos entendem que 
+o desequilíbrio keynesiano deve-se, fundamentalmente, à existência da rigidez 
+de preços e salários. 
+A despeito da suposição de inflexibilidade de preços e salários admitida 
+por Keynes na GT, esta não é condição necessária e nem suficiente para que 
+o desemprego involuntário keynesiano seja manifestado. Segundo Keynes, as 
+flutuações econômicas surgem, porque "(...) booms and depressions are 
+phenomena peculiar to an economy in which (...) money is not neutral (grifo 
+nosso)" (KEYNES, 1973, p.411). 
+["(...) prosperidades e depressões são fenômenos peculiares em uma 
+economia na qual (...) moeda não é neutra (grifo nosso)."] 
+Retornando à questão da rigidez de preços e salários, as passagens que 
+seguem, extraídas da GT, ilustram que, na análise de Keynes, o desemprego 
+involuntário ocorre mesmo quando preços e salários são flexíveis: 
+"(...) we shall assume that the money-wage and the other factor costs 
+are constant per unit of labour employed. But this simplification, with 
+which we shall dispense later (grifo nosso), is introduced solely to 
+facilitate the exposition" (KEYNES, 1964, p.27). 
+["(...) nós assumiremos que o salário-monetário e outros custos são 
+constantes por unidade de trabalho empregado. Porém essa simpli­
+ficação, a qual nós dispensaremos depois (grifo nosso), é introdu­
+zida somente para facilitar a exposição."] 
+"We take as given (...) the degree of competition (...) This does not 
+(grifo nosso) mean that we assume these factors to be constant; bu 
+merely that (...) we are not considering or taking account the effects 
+and consequences of changes in [it]." (Ibid., p.245) 
+["Nós tomamos como dado (...) o grau de competição (...). Isso não 
+(grifo nosso) quer dizer que nós assumimos que ele seja constante; 
+nós, tão-somente, não estamos considerando os efeitos e as con­
+seqüências que decorrem de variações [nele]."] 
+"A reduction in money-wage is quite capable in certain circumstances 
+of affording a stimuius to output, as the classical theory supposes. lUly 
+difference from this theory is primarily a difference of analysis." 
+(grifo nosso) (Ibid., p.257) 
+["Uma redução no salário-monetário é capaz de, em certas circunstân­
+cias, produzir um estímulo no produto, como a teoria clássica supõe. 
+Mintia diferença em relação a essa teoria é uma diferença de 
+análise (grifo nosso)."] 
+'There is (...) no ground forthe belief (grifo nosso) that aflexible wage 
+policy is capable of maintaining a state of continuous full employ­
+ment." (Ibid., p.267) 
+['Não tiá (...) base para acreditar (grifo nosso) que uma política de 
+flexibilidade salarial seja capaz de estimular um estado contínuo de 
+pleno emprego."] 
+A partir das citações acima, é difícil aceitar a hipótese de que falhas de 
+mercado, caracterizadas pela rigidez de preços e salários, sejam a causa do 
+desemprego involuntário keynesiano. 
+Em relação aos modelos monetaristas e novo-clássicos, críticos à GT, as 
+reflexões são as seguintes: em primeiro lugar, a teoria monetária desses 
+modelos é, essencialmente, diferente da teoria monetária de Keynes; segundo, 
+algumas hipóteses dos referidos modelos têm suas consistências lógicas 
+fragilizadas quando confrontadas com a dinâmica comportamental das 
+economias empresariais modernas. 
+A teoria monetária de Keynes envolve uma questão que, obviamente, não 
+faz parte da análise monetária dos modelos monetaristas e novo-clássicos, 
+qual seja: quais são as propriedades essenciais da moeda? 
+O Capítulo 17 da GT mostra que a moeda possui duas propriedades 
+essenciais: por um lado, sua elasticidade de produção é zero; isto é, moeda 
+não é produzida pela quantidade de trabalho que o setor privado incorpora no 
+processo produtivo; por outro, a elasticidade-substituição da moeda é nula, o 
+que, em outras palavras, quer dizer que nenhum outro ativo, não líquido, exerce 
+as funções de unidade de conta, meio de troca e, principalmente, reserva de 
+valor atribuídas à moeda. 
+A partir dessas propriedades, Keynes diz que a retenção de liquid assets 
+por parte dos agentes, se constitui em uma forma de segurança contra a 
+incerteza do retorno futuro de quaisquer bens que sejam produzidos por 
+trabalho. 
+Nesse sentido, as crises de insuficiência de demanda efetiva, provocando, 
+por conseguinte, desemprego, manifestam-se porque, numa situação em que 
+a incerteza acerca do futuro aumenta, os indivíduos passam a reter moeda, 
+postergando, assim, suas decisões de dispêndio. 
+Como se pode perceber, ao contrário da afirmação de Friedman de que 
+moeda não tem importância na economia de Keynes (FRIEDMAN, 1968, p.1), 
+a moeda desempenha um papel imprescindível na teoria keynesiana: a teoria 
+de Keynes é uma teoria monetária da produção. 
+Se money matters para ambas as teorias monetárias, a questão central 
+está em qualificar essa idéia: moeda é ou não neutra no sistema econômico? 
+Ver, para tanto, Keynes (1973a, p.113-114). 
+Em Keynes, moeda não é neutra, ao passo que a neutralidade monetária é 
+comumente incorporada nos modelos monetaristas, pelo menos no longo 
+prazo, e novo-clássicos, tanto no curto quanto no longo prazos. 
+No que diz respeito ao realismo das hipóteses dos modelos novo-clássicos, 
+é difícil supor que no real world"{...) ali prices are market clearing, ali agents 
+behave optimally in light of their objectives and expectations, and expectations 
+are formed optimally (...)"(LUCAS JÚNIOR, 1972, p.103). 
+["(...) todos os preços são ajustados no mercado, todos os agentes 
+têm comportamentos ótimos à luz de seus objetivos e expectativas, 
+e as expectativas são formadas otimamente (...)".] 
+Muito pelo contrário, a dinâmica do sistema econômico demonstra que a 
+economia não converge para uma situação de "(...) Wairasian general equili­
+brium (...) [which] the invisible hand aiways guides the economy to the efficient 
+allocation of resources" (MANKIW, ROMER, 1991, p.1). 
+["(...) equilíbrio geral wairasiano (...) [no qual\ a mão invisível conduz 
+a economia para a alocação eficiente dos recursos."] 
+Além do mais, diante das flutuações cíclicas dos níveis de produto, em­
+prego e preços observadas, constantemente, no sistema econômico, as ex­
+pectativas por parte dos agentes econômicos parecem ser formadas não com 
+base em um processo estocástico, mas, sim, tendo como referência o que 
+Keynes chama de "conhecimento incerto".*^ Em outras palavras, conforme 
+Keynes,"(...) human decisions affecting the future, whther personal or political 
+or economic, cannot depend on strict mathematical expectation, since the basis 
+for making such calculations does not exist" (KEYNES, 1964, p.162-163). 
+["(...) decisões humanas afetando o futuro, por razões pessoais, 
+políticas ou econômicas, não podem depender de expectativas 
+matemáticas, visto que a base de cálculo para estas não existe."] 
+Por fim, aceitar a explicação novo-clássica de que as variações nos níveis 
+de emprego estão relacionadas à escolha intertemporal entre renda e lazer 
+dos agentes econômicos é, de acordo com Greenwaid e Stiglitz, supor que 
+3 - À guisa de conclusão 
+De 1936 para cá, a evolução da macroeconomia está, sem dúvida ne­
+nhuma, relacionada ao grau de sofisticação de sua estrutura teórica: análises 
+matemáticas e de inferências estocásticas tornaram-se parte integrante dos 
+modelos de estabilização e crescimento econômico. 
+A despeito de sua evolução, o debate em macroeconomia, 60 anos após 
+a publicação da GT, continua, ainda, sendo polemizado pelas análises apre­
+sentadas no referido livro: seja (re)interpretando as idéias de Keynes, seja 
+criticando as proposições teóricas e prescrições econômicas keynesianas. 
+Nesse particular, o artigo objetivou mostrar que tanto os approaches 
+interpretativos da teoria de Keynes quanto as teorias críticas à revolução 
+keynesiana têm algumas inconsistências teóricas e lógicas à luz da teoria 
+pós-keynesiana. No que diz respeito aos "keynesianos" — neoclássicos e 
+novos-keynesianos —, estes, ao suporem que o desemprego involuntário 
+keynesiano está relacionado à rigidez do vetor de preços, distanciam-se da 
+essência da teoria de Keynes, qual seja, teoria monetária da produção, 
+dirimindo, assim, a importância do caráter revolucionário da análise keyne­
+siana. Os monetaristas e os novos-clássicos, por sua vez, fundamentam suas 
+análises em alguns pressupostos, tais como, market-clearing e competição e 
+informação perfeitas, que parecem não se verificar no cotidiano das economias 
+empresariais contemporâneas. 
+Independentemente, todavia, da concordância ou não que o leitor tenha 
+em relação à linha básica do artigo, sintetizada pela idéia do parágrafo anterior, 
+a teoria macroeconômica, ao analisar as crises de desemprego e propor 
+mecanismos de solução para o mesmo, parece estar contextualizada em um 
+período anterior à GT, onde os economistas acreditavam que, cedo ou tarde, 
+a economia atingiria o seu equilíbrio de pleno emprego. 
+"(...) workers in 1932, for exemple, took more leisure because wages looked 
+low" (GREENWALD, STIGLITZ, 1987, p. 119). 
+["(...) trabaltiadores em 1932, por exemplo, preferiram mais lazer, 
+porque os salários eram baixos."] 
+Bibliografia 
+BARRO, R, GROSSMAN, H. (1971). A general disequilibrium model of income 
+and employment. American Economic Review, v.61, n.1, p.82-93, mar. 
+BENASSY, J. P. (1975). Neo-keynesian disequilibrium theory in monetary 
+economy. Review of Economic Studies, v.42, n.4, p.503-523, oct. 
+DAVIDSON, P. (1994). Post iceynesian macroeconomic theory. Aldershot, 
+UK: Edward Elgar. 
+FRIEDMAN, M. (1968). The role of monetary theory. American Economic 
+Review, v.58, n.1, p.1-17, mar. 
+FRIEDMAN, M. (1970). A theoretical framework for monetary analysis. Jour­
+nai of Poiitical Economy, v.78, n.2, p.193-238, mar./apr. 
+GORDON, R. (1990). What is new-keynesian economics? Journal of Eco­
+nomic Literature, v.28, p.1115-1171, sept. 
+GREENWALD, B, STIGLITZ, J. E. (1987). New keynesian and new classical 
+economics. Oxford Economic Papers, v.39, n.1, p.119-132, mar. 
+GREENWALD, B., STIGLITZ, J. E. (1993). New and old keynesians. Journal 
+of Economic Perspectives, v.7, n.1, p.23-44, winter. 
+HICKS, J. (1937). Mr. Keynes and "classics": a suggested interpretation. 
+Econometrica, v.5, p.145-159, apr. 
+HICKS, J. (1980-81). IS-LM: an explanation. Journal of Post Keynesian 
+Economics, v.3, n.2, p.139-154, winter. 
+KEYNES, J. M. (1964). The general theory of employment, interest, and 
+money. New York: HBS Books. 
+KEYNES, J. M. (1972). Essays in persuasion. In: . The collected writings 
+of John Maynard Keynes. London: MacmilIa. v.9 
+Diante da persistência do desemprego nos anos 90, quão longe deve ser 
+o longo prazo para que as forças de mercado restaurem o equilíbrio da 
+economia a pleno emprego? 
+Por mais que no "longo prazo todos estejam mortos", o debate em 
+Economia não pode prescindir da análise revolucionária de Keynes para 
+explicar e, talvez, solucionar as crises de desemprego observadas na 
+economia mundial. Esta é, em síntese, a mensagem do artigo. 
+KEYNES, J. M. (1973). The general theory and after: preparation. In: . The 
+collected writings of John Maynard Keynes. London: MacmilIa. v.13 (Ed. 
+by D. Moggridge) 
+KEYNES, J. M. (1973a). The general theory and after: defence and develop-
+ment. In: . Thecollected writings of John IVlaynard Keynes. London: 
+MacmilIa. v.14. (Ed. by D. Moggridge) 
+LEIJONHUFVUD, A. (1968). On keynesian economics and the economics 
+of Keynes. New York: Oxford University. 
+LUCAS JÚNIOR, R. (1972). Expectations and the neutrality of money. Jour­
+nal of Economic Theory, v.4, n.2, p.103-124, apr. 
+LUCAS JÚNIOR, R. (1973). Some International evidence on output-inflation 
+trade-offs. American Economic Review, v.63, n.3, p.326-334, jun. 
+LUCAS JÚNIOR, R., SARGENT, T. (1981). After keynesian macroeconomics. 
+In: —, eds. Rational expectations and econometric practice. Minnea­
+polis: University of Minnesota, (reimpr. do orig. 1978). 
+MALINVAUD, E. (1977). The theory of unemployment reconsidered. Ox­
+ford: Basil Blackwell. 
+MANKIW, N. G. (1985). Small menu costs and large business cycles: a 
+macroeconomic model of monopoly. Quarterly Journal of Economics, 
+v.100, p.529-539, may. 
+MANKIW, N. G., ROMER, D., eds. (1991). New keynesian economics. 
+Cambridge: MIT. 
+MUTH, J. (1961). Rational expectations and the theory of movements. 
+Econometrica, v.29, p.315-335, jul. 
+PATINKIN, D. (1965). IMoney, interest, and prices. New York: Harper & Row. 
+PHILLIPS, A. W. (1958). The relation between unemployment and the rate of 
+change of money wage rates in the United Kingdon, 1861-1957. 
+Econômica, v.25, n.100, p.283-299, nov. 
+SARGENT, T. (1973). Rational expectations, the real rate of interest, and 
+natural rate of unemployment. Brookings Papers on Economic Activity, 
+V.2, p.429-480. 
+SARGENT, T., WALLACE, N. (1975). "Rational" expectations, the optimal 
+monetary instrument, and the optimal money suppiy ruie. Journal of 
+Political Economy, v.83, n.2, p.241-254, apr. 
+Abstract 
+The primary purpose of this article is to present bríefly the principal 
+theoretical interpretations and criticisms of Keynes's Ideas that have 
+become embedded in theoretical discussions on macroeconomic theory. 
+Secondiy, this paper explains, according to the post Keynesian view, why 
+most accepted theoretical interpretations and criticisms of the Keynesian 
+theory (a) involve logical inconsistencies when compared with Keynes's 
+theoretical structure and (b) misrepresent the dynamic characteristics of 
+modern entrepreneurial economies. 

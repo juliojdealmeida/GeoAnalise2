@@ -1,0 +1,941 @@
+CICLOS ECONÔMICOS NO BRASIL: POLÍTICAS PÚBLICAS EM 
+PERÍODOS DE CRISE 
+ 
+Lucas Petterson Sousa e Silva1 
+ 
+RESUMO 
+Entender as razões do movimento cíclico das economias capitalistas e procurar 
+maneiras de antecipar e se precaver contra ele é um dos principais desafios da 
+pesquisa macroeconômica. Diversos são os motivos que levam a economia a se 
+comportar com essa alternância entre ascensões e recessões, onde 
+compreende-los é de suma importância para fornecer informações que poderão 
+contribuir na tomada de decisão dos agentes macroeconômicos. Diante disso, o 
+presente trabalho tem por objetivo o estudo dos ciclos econômicos brasileiros, a 
+partir da datação cronológica feita pelo Comitê de Datação de Ciclos Econômicos 
+(CODACE), procurando compreender o papel desempenhado pelas políticas 
+públicas na fase descendente dos ciclos. Através da exposição da conjuntura 
+brasileira, busca-se identificar as possíveis causas e quais variáveis econômicas 
+tiveram contribuições para as nove crises e recessões datadas entre 1980 a 
+2020.  
+Palavras-chave: Ciclos Econômico. Ciclo dos Negócios. Crise Financeira. 
+Políticas Públicas.  
+ 
+ABSTRACT 
+Understanding the reasons for the cyclical movement of capitalist economies and 
+looking for ways to anticipate and guard against it is one of the main challenges 
+of macroeconomic research. There are several reasons that lead the economy to 
+behave with this alternation between rises and recessions, where understanding 
+them is of paramount importance to provide information that can contribute to 
+decision-making by macroeconomic agents. Therefore, this paper aims to study 
+Brazilian economic cycles, based on the chronological dating carried out by the 
+Economic Cycles Dating Committee (CODACE), seeking to understand the role 
+played by public policies in the descending phase of cycles. Through the 
+exposure of the Brazilian situation, we seek to identify the possible causes and 
+which economic variables contributed to the nine crises and recessions dating 
+from 1980 to 2020. 
+Keywords: Economic Cycles. Business Cycles. Financial Crisis. Public Policy. 
+ 
+ 
+1 Acadêmico do curso Ciências Econômicas da Universidade São Judas Tadeu (USJT) da rede Ânima 
+Educação. E-mail: lucpetterson19@gmail.com. Artigo apresentado como requisito parcial para a 
+conclusão do curso de Graduação em Ciências Econômicas da Universidade São Judas Tadeu (USJT) da 
+rede Ânima Educação. 2021. Orientador: Prof. Doutor Paulo Vitor Sanches Lira. 
+1. INTRODUÇÃO  
+A história do sistema econômico capitalista é marcada pelos ciclos 
+econômicos, onde inúmeros períodos de alternância entre crescimento e 
+recessão da atividade econômica podem ser observados ao longo do tempo.  
+O estudo dos ciclos econômicos é algo que gera interesse dos economistas 
+a partir da Primeira Revolução Industrial e, desde então, tornou-se um dos 
+principais desafios da pesquisa macroeconômica entender as razões do 
+movimento cíclico nas economias e procurar formas de torna-lo mais satisfatório 
+para a sociedade, ou seja, fazer com que os períodos recessivos sejam menores 
+e os períodos expansivos sejam cada vez mais maiores e duradouros. Por isso, 
+o entendimento dos ciclos econômicos é de suma importância para as 
+sociedades modernas. Afinal, todos os agentes econômicos tem interesse em 
+saber e entender qual é o estado atual da economia e qual poderá ser esse 
+mesmo estado em um futuro próximo dado que as tomadas de decisões são 
+influenciadas pelas expectativas em torno dessas flutuações. 
+Desde os anos 80 a economia brasileira vem alternando pequenos ciclos de 
+crescimento com desacelerações econômicas.  O Comitê de Datação de Ciclos 
+Econômicos (CODACE) da Fundação Getulio Vargas (FGV), que se propôs a 
+datar cronologicamente os ciclos dos negócios brasileiros, identificou nove ciclos 
+completos na economia brasileira e um décimo ainda em andamento, onde  
+variáveis significativas como inflação, juros, taxa de câmbio, investimentos e 
+outros afetaram o desempenho dos ciclos brasileiros. Diante do exposto, o 
+presente trabalho tem por objetivo o estudo destes ciclos, buscando identificar 
+as recessões e depressões em nossa economia de 1980 até os dias atuais, a 
+fim de identificar a natureza do período recessivo e entender qual o impacto 
+destas crises sobre os principais indicadores de políticas públicas do governo, 
+ou seja, entender se o governo teve comportamento pró-cíclico ou anticíclico. A 
+hipótese inicial é de que há limitações nas políticas públicas em períodos 
+recessivos no Brasil. Onde, preocupa-se demasiadamente no regime de metas 
+de inflação e em não ampliar os gastos públicos para preservar a austeridade 
+fiscal. 
+Estudar crises e recessões justifica-se uma vez que essas afetam 
+diretamente de forma negativa o bem-estar das famílias, das empresas e dos 
+governos, onde nestes períodos há aumento nos níveis de desemprego, 
+desigualdade e pobreza. Dessa forma, ampliar o debate acerca dos períodos 
+recessivos da economia brasileira pode contribuir para a formulação de diretrizes 
+de enfrentamento diante do atual cenário recessivo imposto pela pandemia do 
+coronavírus.  
+O presente artigo está organizado da seguinte forma: na seção 2 será 
+revisada a literatura referente a ciclos econômicos, com ênfase na teoria de 
+Schumpeter e de Keynes. Na seção 3 será apresentada a metodologia de 
+datação dos ciclos de negócios e quais as crises encontradas na economia 
+brasileira. Na seção 4 são expostas as conjunturas das possíveis 
+causas/naturezas das crises brasileiras. Por fim, a seção 5 as conclusões do 
+autor. 
+ 
+2. REVISÃO DE LITERATURA 
+ 
+2.1.  O CONCEITO DE CICLO ECONÔMICO 
+O comportamento das economias capitalistas são erráticas e instáveis, 
+podendo ser observadas oscilações nas tendências de longo prazo. Por isso, o 
+crescimento econômico é sempre marcado por instabilidades, alternando entre 
+períodos de altas e baixas na atividade econômica. E são as flutuações entre 
+expansão e contração que chamamos de Ciclos Econômicos, onde dizemos que 
+essas flutuações são cíclicas pelo fato das fases de expansão e contração 
+repetirem-se com frequência e de formas semelhantes (ESTEY, 1965).  
+Para Estey (1965), corroborando os estudos de Mitchell2, o estudo dos ciclos 
+econômicos é importante, na medida em que o ciclo não é apenas uma flutuação 
+que ocorre na atividade econômica agregada (PIB), mas sim um conjunto de 
+pequenas variações, expansão e contração, que ocorrem em diversos setores 
+da economia ao mesmo tempo, não sendo fenômenos isolados. O autor conclui: 
+ 
+O grande número de ciclos específicos que aparecem em 
+nossos processos econômicos acham-se claramente 
+interrelacionados. (...) Isto é, os ciclos econômicos são 
+flutuações da atividade econômica geral que surgem do conjunto 
+de flutuações relacionadas entre si de numerosos ciclos 
+específicos. (ESTEY,1965) 
+ 
+Na literatura econômica, ciclos econômicos também são chamados de ciclo 
+dos negócios, pois as “empresas estão ligadas umas às outras, através de 
+vínculos industriais, comerciais e financeiros, de modo que nenhuma delas 
+prospera ou entra em decadência sem afetar as outras” (BRUE, 2006). A 
+definição mais influente dos ciclos dos negócios foi escrita por Arthur F. Burns e 
+Wesley Clair Mitchell no livro “Measuring business cycles (1946)”: 
+ 
+Ciclos de negócios são um tipo de flutuação encontrada na 
+atividade econômica agregada de nações que organizem seu 
+trabalho principalmente em empresas privadas: um ciclo 
+consiste de expansão ocorrendo simultaneamente em muitas 
+atividades econômicas, seguidas de fases similares de 
+recessões, contrações e recuperações, as quais se consolidam 
+em uma fase de expansão do próximo ciclo. Essa sequência de 
+mudanças é recorrente, mas não periódica. Em termos de 
+duração, os ciclos econômicos variam de mais de um ano a dez 
+ou doze anos (...)3 
+ 
+ 
+2 Wesley Clair Mitchell, economista americano referência nos estudos empíricos dos Ciclos Econômicos. 
+3 Tradução feita pelo CODACE, disponível em: https://ciclo-economico-ibre.fgv.br/ 
+O ciclo do negócio se completa quando o mesmo passa pelos quatro estágios 
+que o compõem: expansão, pico, contração e vale. 
+ 
+i. Expansão (Crescimento): período em que o país apresenta um 
+crescimento constante na produção e serviços;  
+ii. Pico (Boom): consistente no ponto mais alto atingido pelo ciclo, onde a 
+oferta passa a apresentar excessos e desequilíbrios macroeconômicos 
+aparecem (como a inflação e déficits de contas externas ou déficits fiscais) 
+onde inicia a recessão;  
+iii. Recessão (Contração): momento de diminuição da atividade econômica, 
+afetando fatores como a produção, vendas, emprego e salário. 
+iv. Vale (Depressão): período onde é mais forte a crise econômica atingindo 
+a máximo da recessão, onde a falta de demanda agregada leva ao alto 
+nível de desemprego. O vale será seguido pela expansão, dando início a 
+um novo ciclo. 
+ 
+Figura 1: Representação Gráfica de um Ciclo dos Negócios 
+ 
+Fonte: Edital Concursos Brasil.  
+ 
+Apesar da imagem 1 ser apenas uma representação, é possível observar que 
+os ambos os estágios de um ciclo, tanto os ascendentes quanto os 
+descendentes, ocorrem fora da tendência.  E os estudos por trás dos ciclos 
+econômicos buscam as causas e motivos que essas flutuações sempre se 
+repetem na história, nunca seguindo a tendência prevista. 
+ 
+ 
+
+2.2. O ESTUDO DOS CICLOS ECONÔMICOS 
+O estudo dos ciclos econômicos, segundo Carvalho (1988), surge na 
+segunda metade do século XIX, buscando compreender o fenômeno das crises 
+que assolavam repetidas vezes as economias capitalistas, principalmente a 
+economia inglesa pós Revolução Industrial. Os economistas, cada um à sua 
+maneira, deram diversas explicações para os comportamentos cíclicos, onde 
+mesmo autores que pertenciam à mesma escola de pensamento econômico 
+apontam fatores diferentes para o movimento ondulatório da economia. De um 
+modo geral, as pesquisas sobre ciclos econômicos dividiam-se em dois grupos: 
+De um lado os estatísticos econômicos, utilizando abordagens empíricas e de 
+outro os teóricos que buscavam teorizar as causas e a natureza dos ciclos. 
+A abordagem empírica no estudo dos ciclos tem como referência Wesley 
+Mitchell junto com o National Bureau of Economic Research (NBER). Mitchell 
+observou que buscar a causa para os ciclos econômicos seria difícil pois, apesar 
+de os ciclos serem periódicos, eles são determinados por “mudanças 
+cumulativas”, provocadas por acontecimentos únicos, o que impede a 
+elaboração de uma teoria generalizante (OLIVEIRA; GENNARI, 2009) e, por 
+isso, escolheu-se estudar os ciclos de maneira empírica. A linha de pesquisa 
+desta abordagem partia da exploração das características cíclicas das séries 
+econômicas agregadas, procurando padrões que coincidissem durante as 
+flutuações. E é a partir destes estudos das séries econômicas que surgem 
+métodos para a criação de indicadores de previsão cíclica, utilizados atualmente 
+por órgãos como NBER e pela OCDE. 
+A segunda abordagem teórica que almejava identificar a causa dos 
+fenômenos cíclicos dividia-se em dois subgrupos. O primeiro grupo a ser citado 
+trabalha com o conceito de que os ciclos são oscilações intermináveis, 
+intrínsecas às economias capitalistas. As oscilações nasceram com o 
+capitalismo e não podem ser eliminadas sem uma profunda mudança dentro do 
+próprio sistema. Os modelos teóricos conhecidos como acelerador/multiplicador 
+são aqueles que representam este conceito, onde apenas os fatores reais são 
+responsáveis diretos pelas flutuações, como a demanda agregada e a 
+instabilidade dos investimentos privados (LIMA, 2005). Exemplos de modelos 
+acelerador/multiplicador são os de Paul Samuelson (1939), Nicholas Kaldor 
+(1940) e o de John Hicks (1950). Carvalho e Hermanny (2003) explicam que o 
+conceito acelerador/multiplicador é dado pela natureza do investimento 
+agregado, onde a teoria do multiplicador keynesiano é utilizada junto com a teoria 
+do acelerador (criador da capacidade produtiva) e “assim, um ato de 
+investimento gera ao mesmo tempo demanda e capacidade de oferta”. Portanto, 
+o ciclo seria resultado da capacidade de demanda do multiplicador ser maior que 
+a capacidade de criação de investimentos, causando assim as flutuações e os 
+períodos de recessão. 
+O outro grupo teórico sobre a natureza dos ciclos econômicos são os 
+chamados modelos de propagação. Nesta visão, cada ciclo é visto como único 
+e se inicia quando a economia está em estado de repouso ou de normalidade 
+quando é atingida por choques e perturbações exógenas. Quando absorvidos, 
+esses choques se propagam por toda a economia, às vezes causando avanços 
+outras vezes defasagens, caracterizando assim o fenômeno cíclico. O modelo 
+mais influente de uma teoria dos ciclos por propagação deve-se a Schumpeter. 
+Em sua teoria, a perturbação exógena que seria a causa da flutuação é dada por 
+uma inovação, no processo denominado “destruição criativa”. Keynes também 
+estudou os efeitos dos choques exógenos na economia. Para ele, os ciclos 
+econômicos podem ser causados por perturbações na demanda agregada, mais 
+especificamente nas flutuações do nível de investimentos. Devido a importância 
+dos dois autores, ambos serão discutidos mais à frente neste trabalho. 
+O atual debate em torno dos ciclos econômicos é feito pela escola 
+neoclássica e a escola keynesiana.  Tal debate entre as escolas é feito em torno 
+das variáveis que participam da formação de um ciclo econômico, tendo início 
+após o estado de estagflação que atingiu países da Europa e os EUA após um 
+choque na oferta do petróleo, promovido pelo aumento do preço da comoditie 
+pela Organização dos Países Exportadores de Petróleo (OPEP) em 1973.  
+Após o choque do petróleo, os neoclássicos passaram a dar maior ênfase 
+aos fatores do lado da oferta para explicarem a instabilidade econômica. Assim, 
+surge a teoria dos ciclos reais dos negócios para argumentar que apenas 
+variáveis e fatores reais, como os distúrbios tecnológicos de Schumpeter, seriam 
+as causas das flutuações cíclicas. Já os keynesianos continuavam a argumentar 
+que os ciclos econômicos podem ser causados por flutuações na demanda 
+agregada, sendo ocasionadas por variáveis de causas reais ou monetárias. 
+Entretanto, seja economistas neoclássicos ou keynesianos, havia o consenso 
+de que “a instabilidade causada pelas flutuações dos ciclos econômicos era 
+assumida como socialmente indesejável por ambas as escolas, pois reduziam o 
+bem estar econômico” (LIMA, 2005). Outra concordância entre essas correntes 
+teóricas era de a causa de um vale (depressão) é o seu pico (boom). Seja qual 
+for o motivo causador do fenômeno expansivo do ciclo, real ou monetário, ele 
+por si só não é forte o suficiente para manter-se, sendo assim auto limitador.  
+Mesmo havendo essas convergências nas teorias, na parte descendente do 
+ciclo surge a principal das discordâncias: à política de estabilização da economia. 
+Como já visto, após a fase de depressão espera-se que inicie um o período de 
+transição para uma nova fase de expansão, para dar seguimento ao ciclo. A 
+discordância é dada pelos keynesianos entenderem que esse processo de 
+recuperação também não ser forte o suficiente, ou seja, a economia não possui 
+naturalmente um processo auto gerador para sua recuperação. Assim, é devido 
+esperar que apareça algum estímulo que gere as forças capazes de proporcionar 
+a recuperação e assim seguir o ciclo. Geralmente esse estímulo é o feito pelo 
+Estado e suas políticas anticíclicas o que é completamente rejeitado por 
+neoclássicos, que confiam no poder de equilíbrio do mercado, cuja força levará 
+a economia de uma depressão para o estágio de expansão. 
+ 
+2.3. SCHUMPETER E A TEORIA DA INOVAÇÃO 
+Joseph Alois Schumpeter foi um economista austríaco cujas principais 
+contribuições mais importantes para a ciência econômica estão na teoria do 
+desenvolvimento econômico e na abordagem dos ciclos econômicos.  
+Nos seus estudos sobre o desenvolvimento das economias capitalistas, 
+Schumpeter observou que o sistema econômico é dinâmico e opera sempre em 
+um fluxo circular, buscando sempre estar em equilíbrio. Schumpeter enxergou 
+então que a única coisa capaz de tirar o sistema capitalista do equilíbrio são as 
+inovações, pois outros eventos exógenos como guerras, problemas nas 
+colheitas, mudanças na política e legislação, aumento da população e do capital 
+causam apenas distúrbios na economia, onde o sistema encontraria maneiras 
+de se adaptar às novas exigências e voltar ao equilíbrio.  
+No processo de desenvolvimento econômico as inovações são introduzidas 
+na economia pelos empresários empreendedores e, elas podem ser definidas 
+como “mudanças nos métodos de ofertas de mercadorias” (BRUE, 2006). Com 
+isso, ocorre uma inovação quando: 1) ocorre a criação de um novo bem; 2) novo 
+método de produção de um bem já conhecido; 3) criação de um novo mercado 
+ainda não explorado; 4) novas fontes de matérias-primas. Contudo, Brue (2006) 
+e Estey (1965) distinguem invenções das inovações. Para eles, invenções 
+tornam-se inovações quando estas são postas em prática e utilizadas na 
+economia nos processos industriais. 
+Agora, por que as inovações perturbam o equilíbrio e geram os ciclos 
+econômicos? A explicação dada por Schumpeter ocorre no processo de 
+expansão do ciclo. O empreendedor ao desenvolver uma inovação, rapidamente 
+será seguido por outros empreendedores não inovadores que buscam lucrar 
+com a nova oportunidade de mercado e, com isso, precisam de crédito para 
+investir em recursos produtivos. Logo uma onda de expectativa e entusiasmo se 
+propaga pela economia, expandindo os investimentos e o nível de emprego 
+causando o boom econômico. Na medida em que as inovações tecnológicas são 
+absorvidas pelo mercado, o natural é que ocorra redução no entusiasmo pela 
+nova descoberta, desta forma ocorrerá diminuição no crescimento econômico e 
+nos níveis de emprego e investimentos iniciando assim o processo recessivo do 
+ciclo até que uma outra inovação surja para reiniciar o ciclo. Em suma, “não há, 
+portanto, evolução sem inovação, nem inovação sem empresário, nem 
+empresário sem crédito, nem crédito sem juro” (LIMA, 2005). 
+Intuitivamente, pensar em inovações leva-nos a crer que ocorrem apenas 
+ações inventivas/criativas durante o processo. Porém, há consequências 
+destrutivas no processo de inovação, pois esse torna obsoleto produtos antigos 
+e métodos de produção antiquados, além de poder eliminar empresas do 
+mercado. Assim se explica o termo destruição criativa, utilizado por Schumpeter 
+no estudo da natureza do desenvolvimento econômico. 
+Em resumo, o processo de introdução de uma inovação causa a expansão 
+do ciclo econômico enquanto o mesmo processo está se realizando. Há 
+recessões quando a sociedade está se adequando/adaptando às mudanças 
+causadas pelas inovações. Sendo assim, este processo cíclico faz parte do 
+desenvolvimento das sociedades, não havendo conflito entre o progresso e as 
+flutuações oriundas das inovações tecnológicas. Portanto, a recessão é o preço 
+pago pela sociedade para que haja o progresso onde, tentar combater e/ou 
+estabilizar as recessões poderia ter o efeito adverso de desestimular a 
+introdução de novas inovações e, consequentemente, não haveria assim 
+desenvolvimento e progresso econômico. Por isso, de acordo com a teoria 
+schumpeteriana, intervenções estatais e suas políticas anticíclicas seriam 
+desaconselhadas. Porém, um ponto não explicado por essa teoria era de onde 
+surgem os investimentos que induzem as novas ondas de crescimento. 
+Já no estudo específico dos ciclos econômicos, Schumpeter sintetizou 
+inúmeros estudos e pesquisas que vinham sendo feitos por outros autores sobre 
+o tema. Através desses estudos, Schumpeter classificou os ciclos em três tipos: 
+o ciclo de Kitchin, o de Juglar e o de Kontradief. Os nomes de cada ciclo 
+homenageavam o autor da teoria que o originou o estudo de Schumpeter. 
+O ciclo de Kitchin é de curto prazo, tendo duração de 3 a 4 anos (40 meses). 
+Este ciclo está relacionado ao comportamento das vendas, sendo explicado da 
+seguinte forma: 
+Assim que as vendas ingressaram em uma fase de expansão, 
+as empresas ampliaram seus estoques para se antecipar à 
+demanda. Essa antecipação gerava estímulos à produção, ao 
+emprego e à renda e se prolongava até a redução do ritmo das 
+vendas. Aos primeiros sinais de queda nas vendas, as empresas 
+reduziam imediatamente a produção e os estoques até que as 
+vendas voltaram a se acelerar e um novo ciclo recomeçasse. 
+(OLIVEIRA; GENNARI, 2009) 
+ 
+  
+O ciclo de Juglar é o de médio/longo prazo, com duração entre 9 e 10 anos. 
+Este é o ciclo relacionado a variação dos investimentos, cuja explicação é: 
+O ciclo de Juglar se inicia quando as empresas partem para 
+investimentos na modernização das fábricas e na aquisição de 
+máquinas e equipamentos para ampliar a produção. Esse 
+período dura de quatro a cinco anos. Com o novo parque 
+produtivo instalado, o ritmo de investimentos decai e as 
+máquinas entram numa fase de intensa utilização e desgaste. 
+Esse período se estende por aproximadamente cinco anos. O 
+novo ciclo tem início quando a necessidade de reposição do 
+maquinário desencadeia uma nova onda de investimentos. 
+(OLIVEIRA; GENNARI, 2009) 
+  
+O ciclo de Kontradief é o de longuíssimo prazo, com duração média entre 50 
+a 60 anos, estando ligado as revoluções tecnológicas que devem ser 
+incorporadas na economia em grande escala, como foi a Primeira Revolução 
+Industrial tida como o primeiro ciclo longo. Segundo Oliveira e Gennari (2009), o 
+ciclo se inicia quando um conjunto de invenções são acumuladas ao longo do 
+tempo. Quando se transformam em inovações e passam a ser introduzidas na 
+vida econômica, desencadeiam uma expansão dos investimentos, da produção, 
+do emprego e da renda, cuja fase de ascensão dura entre 12 e 14 anos. Quando 
+as inovações já estão generalizadas, ocorre o mesmo processo explicado por 
+Schumpeter: o investimento se reduz, os empresários tomam menos créditos, 
+diminuindo o nível da produção, do emprego e do produto da economia, iniciando 
+assim o período recessivo. Quando a retração da economia coincide nos três 
+ciclos, temos uma depressão econômica que será revertida apenas quando um 
+novo conjunto de invenções for acumulado pra ser introduzido na economia para 
+serem transformados em inovações.  
+ 
+ 
+2.4. VISÃO KEYNESIANA E AS POLÍTICAS ANTICÍCLICAS  
+Carvalho (1988) explicou que a teoria de Keynes para os ciclos econômicos 
+foi explicada pela primeira vez no livro “A Treatise on Money” (O tratado sobre a 
+moeda, 1930) e posteriormente revisada em sua mais famosa obra “The General 
+Theory of Employment, Interest and Money” (A Teoria Geral do Emprego, do 
+Juro e da Moeda, 1936). 
+Em sua primeira explicação, contida em “O tratado sobre a moeda”, Keynes 
+propôs um “modelo razoavelmente de propagação de choques exógenos” 
+(CARVALHO, 1988). Onde a economia se inicia em estado de equilíbrio e algo 
+acontece que influencia os ânimos dos investimentos. Ainda segundo Carvalho, 
+esse “algo” não é explicado por Keynes, podendo ser “uma nova invenção, ou o 
+desenvolvimento de um novo país, ou uma guerra, ou um retorno da ‘confiança 
+dos empresários’ como resultado de mais pequenas influências apontando para 
+a mesma direção”. Após esse choque, uma onda adicional de investimentos 
+seria induzida pela expectativa dos capitalistas de realizarem lucros. Até este 
+momento, Keynes deixa explícito a semelhança com a teoria de expansão de 
+ciclo de Schumpeter. 
+Nesta primeira abordagem do ciclo de propagação de Keynes, os ciclos eram 
+causados pelas expectativas e por choques exógenos nos investimentos, onde 
+a expansão é resultante das expectativas de lucros superiores aos esperados e 
+enquanto as recessões seriam resultadas de expectativas excessivamente 
+otimistas.   
+Em um segundo momento, Keynes revisou o estudo dos ciclos econômicos 
+em seu livro da Teoria Geral. No mesmo é explicado que ciclos econômicos são 
+flutuações nos níveis de emprego, renda e produção que são inerentes ao 
+sistema capitalista onde ocorrem de maneira regular, sendo que a renda e a 
+produção dependem do volume de empregos. Em seus estudos, Keynes utilizou 
+o princípio da demanda efetiva para argumentar e explicar essas flutuações na 
+economia. 
+O princípio da demanda efetiva surge para contrapor a escola clássica de 
+economia e a lei de Say, que afirmava que toda oferta gera sua própria demanda. 
+Keynes argumentava o oposto, o nível de produção de uma sociedade moderna 
+é guiado pela demanda agregada, cuja natureza seria o somatório do consumo 
+das famílias e os investimentos dos empresários capitalistas. Assim temos a 
+função Y=C+I, onde (Y) representa o nível de produto da economia e a renda, 
+(C) o consumo e (I) os investimentos. Neste sistema, a oferta agregada é a 
+função que determina o potencial da produção desta mesma economia. 
+Dada a função da renda, Keynes identifica que as instabilidades no 
+investimento (I) é a chave para compreender os movimentos cíclicos do produto 
+de uma economia.  Por isso, Keynes trata como central em sua análise o 
+empresário capitalista, pois é a partir da decisão destes empresários que surgem 
+os investimentos em capacidade produtiva (I), determinando se haverá ou não 
+aumento da produção, se irá produzir este ou aquele produto e assim por diante. 
+A tomada de decisão dos capitalistas irá depender da Eficiência Marginal do 
+Capital, que nada mais é que a rentabilidade esperada de um determinado 
+investimento. Ou seja, só serão realizados investimentos cuja expectativa de 
+retorno seja maior que a da taxa de juros. Desta forma, temos que o investimento 
+é determinado por duas variáveis: a Eficiência Marginal do Capital e a taxa de 
+juros. A expectativa sobre uma melhora na demanda futura pelo capitalista não 
+só afeta o nível de produção, mas também o nível de utilização de trabalho: ou 
+seja, as expectativas dos empresários impactam no nível de emprego. 
+Outro importante componente da demanda efetiva que altera o equilíbrio e 
+que geram as flutuações é a moeda. Diferentemente dos clássicos e da lei de 
+Say – estes viam o dinheiro com menos importância que a mercadoria em si, 
+sendo função da moeda apenas ser intermediária de troca – Keynes entendia 
+que a moeda era crucial para a realização da produção e na determinação do 
+nível de equilíbrio econômico. O autor apresentou a propensão marginal a 
+consumir e a poupar e o estado de preferência pela liquidez para explicar o papel 
+da moeda na atividade econômica.  
+Propensão marginal a consumir é quanto uma pessoa aumenta o consumo 
+quando há acréscimo na renda, já a propensão marginal a poupar se refere a 
+renda de um consumidor que foi economizada e não se transformou em bens ou 
+serviços. O argumento de Keynes da importância da moeda parte de que nem 
+toda a renda obtida pelos trabalhadores seria utilizada de forma imediata no 
+mercado através de consumo, onde uma parte poderia ser poupada e utilizada 
+como reserva de valor. Como a demanda efetiva depende do consumo e do 
+investimento, o ato de poupar tem o poder de deprimir uma economia ao 
+ocasionar uma deficiência na demanda agregada já que haveria uma interrupção 
+na reposição da renda por parte da demanda no fluxo circular da economia. 
+Para Keynes, a economia sempre opera no risco de haver falta de demanda 
+efetiva e, por isso, está sujeita a crises. Os ciclos econômicos são causados por 
+diferentes variáveis que afetem a eficiência marginal do capital, a taxa de juros 
+e a propensão a consumir. Por isso, Keynes argumentou que o Estado deveria 
+ser atuante na economia, tendo papel de organizar os Investimentos – o Estado 
+deve aumentar os investimentos em momentos de crise, quando os empresários 
+estiverem com incertezas em relação ao futuro e, cortar esses gastos quando a 
+economia estiver em pleno equilíbrio, deixando os investimentos serem 
+realizados pelos empresários. Seria também função do Estado a realização de 
+política monetária, através da ampliação/contração da base monetária e a da 
+manutenção da taxa de juros, onde caso o Estado esteja praticando juros baixos, 
+a tendência é investimento na produção. Caso contrário, a tendência é o não 
+investimento em produção, mas sim em títulos públicos, afetando o equilíbrio de 
+mercado e o nível de emprego. 
+ 
+3. METODOLOGIA DE DATAÇÃO DOS CICLOS DOS NEGÓCIOS E A 
+IDENTIFICAÇÃO DE CRISES 
+ 
+A linha de pesquisa empírica dos ciclos econômicos desenvolveu alguns 
+métodos de previsão dos estágios da atividade econômica agregada. Dentre 
+esses os métodos, o mais conhecido é o sistema de indicadores antecedentes 
+(SIA) criado por Wesley Mitchell e Arthur Burns, partindo da já citada definição 
+de ciclos dos negócios teorizada pelos mesmos em 1946.  
+Carvalho e Hermanny (2003) explicam que o sistema de indicadores 
+antecedentes (SIA) consiste em determinar uma variável agregada que será 
+usada de referência, como o PIB, cujo movimento cíclico buscará se antecipar. 
+Definida a referência, será medida a sensibilidade cíclica e a correlação desta 
+com outras variáveis agregadas selecionadas, como produção industrial, 
+emprego, renda pessoal e vendas. Após este processo, os seguintes conjuntos 
+de indicadores serão formados:  
+ 
+(i) Indicadores Coincidentes: - são aqueles que têm suas 
+flutuações centradas sobre o próprio ciclo econômico, 
+acompanhando contemporaneamente os movimentos da 
+variável de referência. Informam com maior agilidade 
+movimentos na série de referência que demorem a ser 
+divulgados; 
+ 
+(ii) Indicadores Antecedentes: - seus movimentos antecipam aos da 
+variável alvo; devido ao seu poder de previsão, são os mais 
+importantes dentro do sistema; servindo para sinalizar 
+antecipadamente o comportamento desta variável; 
+ 
+(iii) Indicadores Defasados: - seus movimentos se dão 
+posteriormente aos da variável alvo. A ocorrência de 
+movimentos nestes indicadores serve para confirmar ou retificar 
+o que está apontado na série de referência. (LIMA, 2005) 
+ 
+Conseguindo antever o comportamento do PIB, por exemplo, o SIA pode 
+não apenas ser utilizado para acompanhar e datar dos ciclos econômicos, mas 
+mostra-se também útil também para a auxiliar na formulação e planejamento de 
+políticas públicas por parte de governos, na alocação dos investimentos privados 
+dos empresários, além de servir como referência para pesquisas acadêmicas 
+como essa. A crítica a esse sistema deve-se ao fato de o mesmo não conseguir 
+mensurar a amplitude da recessão ou expansão.  
+O National Bureau of Economics Research – NBER – desde sua criação 
+em 1920 é referência no estudo dos ciclos econômicos por estabelecer uma 
+cronologia para os ciclos da economia norte-americana. O NBER implementou 
+a metodologia do SIA para determinar os turning points (pontos de reversão) 
+entre picos e vales da atividade econômica. Desta forma, se torna possível 
+enquadrar as recessões e expansões dentro da cronologia econômica. Para o 
+NBER, a definição de recessão seria: 
+Uma recessão é o período entre um pico da atividade econômica 
+e seu subsequente vale, ou ponto mais baixo (...) A definição do 
+NBER enfatiza que uma recessão envolve um declínio 
+significativo na atividade econômica que se espalha pela 
+economia e dura mais do que alguns meses.4 
+ 
+ 
+4 Tradução própria. Disponível em: https://www.nber.org/research/business-cycle-dating 
+Quando identificada uma recessão, o NBER também avalia três critérios 
+- profundidade, difusão e duração - durante esse período recessivo. A 
+profundidade é determinada pela magnitude do declínio do pico ao. A difusão é 
+medida pela extensão de sua propagação pelas atividades econômicas. Sua 
+duração é determinada pelo intervalo de tempo entre o pico e o vale. 
+ 
+3.1. OS CICLOS ECONÔMICOS NO BRASIL 
+Em 2004 surge no Brasil o Comitê de Datação de Ciclos Econômicos 
+(CODACE), com o objetivo de “determinar uma cronologia de referência para os 
+ciclos econômicos brasileiros”. O método de trabalho adotado pelo CODACE 
+segue o modelo do National Bureau of Economic Research (NBER), onde busca 
+identificar os turning points através de uma série de indicadores antecedentes. 
+No Brasil, o Instituto Brasileiro de Economia da Fundação Getulio Vargas 
+(FGV IBRE) produz o IACE (Indicador Antecedente Composto da Economia) e o 
+ICCE (Indicador Coincidente Composto da Economia) em parceria com o The 
+Conference Board (TCB), que são utilizados na datação dos ciclos brasileiros. A 
+composição/componentes destes índices são: 
+● O IACE é composto por oito componentes: Índices de 
+Expectativas das sondagens da Indústria, de Serviços e do 
+Consumidor; Índice de produção física de bens de consumo 
+duráveis; Índice de quantum de exportações; Índice de Termos 
+de troca; Ibovespa; e Taxa referencial de swaps DI pré-fixada - 
+360 dias. 
+● O ICCE é constituído pelos seguintes componentes: Índice de 
+produção física da Indústria; Consumo de energia elétrica na 
+indústria; Índice de volume de vendas do comércio varejista; 
+Expedição de papel e papelão ondulado; Número de pessoas 
+ocupadas; e Rendimento médio real do trabalho assalariado. 5 
+ 
+Utilizando o PIB trimestral como referência, o CODACE definiu a cronologia 
+de recessões e expansões para a economia brasileira, a partir de 1980, da 
+seguinte maneira: 
+ 
+ 
+5 Disponível em: https://portalibre.fgv.br/estudos-e-pesquisas/indices-de-precos/iace-e-icce 
+Gráfico 1: Cronologia Trimestral dos Ciclos dos Negócios Brasileiros
+ 
+Fonte: CODACE (2020) 
+ 
+Tabela 1: Cronologias trimestral do Ciclo de Negócios Brasileiros – 
+Duração e Amplitude 
+RECESSÕES EXPANSÕES 
+Período 
+Duração 
+em 
+trimestres 
+Cresc. % 
+Acumulado 
+de Pico a 
+Vale 
+Cresc. % 
+Trimestral 
+Médio 
+(anualizado) 
+Período 
+Duração 
+em 
+trimestres 
+Cresc. % 
+Acumulado 
+de Vale a 
+Pico 
+Cresc. % 
+Trimestral 
+Médio 
+(anualizado) 
+1981:T1 ao 
+1983:T1 9 -8,5% -3,9% 1983:T2 ao 
+1987:T2 17 30,0% 6,4% 
+1987:T3 ao 
+1988:T4 9 -4,2% -2,8% 1989:T1 ao 
+1989:T2 2 8,5% 17,7% 
+1989:T3 ao 
+1992:T1 11 -7,7% -2,9% 1992:T2 ao 
+1995:T1 12 19,2% 6,0% 
+1995:T2 ao 
+1995:T3 2 -2,8% -5,6% 1995:T4 ao 
+1997:T4 9 8,0% 3,5% 
+1998:T1 ao 
+1999:T1 5 -1,1% -0,9% 1999:T2 ao 
+2001:T1 8 7,3% 3,6% 
+2001:T2 ao 
+2001:T4 3 -0,9% -1,1% 2002:T1 ao 
+2002:T4 4 5,2% 5,2% 
+2003:T1 ao 
+2003:T2 2 -1,5% -3,0% 2003:T3 ao 
+2008:T3 21 30,2% 5,2% 
+2008:T4 ao 
+2009:T1 2 -5,1% -10,0% 2009:T2 ao 
+2014:T1 20 22,5% 4,1% 
+2014:T2 ao 
+2016:T4 11 -8,0% -3,0% 2017:T1 ao 
+2019:T4 12 5,1% 1,7% 
+2020:T1 em 
+andamento - - - - - - - 
+Fonte: CODACE (2020) 
+ 
+ Ao analisarmos a datação realizada pelo CODACE, no período compreendido 
+entre 1980 e 2020 foram identificadas nove crises com ciclos completos na 
+economia brasileira e uma décima crise ainda em andamento, identificada pelo 
+CODACE no primeiro trimestre de 2020. O gráfico e a tabela 1 apresentam os 
+
+anos e os trimestres em que as crises se iniciaram, informando quais foram suas 
+amplitudes e os valores percentuais do crescimento destes ciclos. 
+ Com os dados, é possível afirmar que a última crise completa da economia 
+brasileira, iniciada no segundo trimestre de 2014, tenha sido a mais severa das 
+recessões. Pois, ainda que tenha tido a mesma duração de 11 trimestres como 
+a crise iniciada no terceiro trimestre de 1989, a queda da atividade econômica 
+medida do pico ao vale foi de 8%, com médias anuais de decréscimo em 3%. 
+ A partir destes dados, surgem importantes questões: qual o impacto dessas 
+crises sobre os principais indicadores de bem-estar social da população 
+brasileira? As políticas públicas/econômicas buscam reduzir a amplitude e 
+suavizar o impacto das crises na economia brasileira durante o período 
+recessivo? 
+ 
+4. NATUREZA DAS CRISES ECONÔMICAS BRASILEIRAS 
+Vimos que nas teorias do modelo de propagação cada ciclo econômico é 
+único, onde o choque exógeno causador das flutuações muda de um ciclo para 
+o outro. Nesta seção, tentara-se evidenciar a natureza dos choques e/ou as 
+causas para as dez crises identificadas pela CODACE na economia brasileira a 
+partir de 1980, conforme a tabela 1.  
+As primeiras três crises têm seus inícios na década de 80. Década esta que 
+é um período complexo para o Brasil. Do ponto de vista político, a década marca 
+o fim do regime autoritário para dar início à democracia. Do ponto de vista 
+econômico, a década é marcada por estagnação do PIB, instabilidade, 
+hiperinflação e endividamento externo elevado. 
+Os problemas econômicos dos anos 80 se iniciam na verdade na década 
+anterior, onde os governos militares aproveitaram a expansão do crédito do 
+mercado externo e tomaram empréstimos, principalmente com os Estados 
+Unidos, onde tais recursos foram aplicados em obras e infraestrutura, o que 
+gerou altas taxas de crescimento do PIB (período este chamado de “Milagre 
+Brasileiro”). 
+O cenário de entusiasmo se reverte com os choques do petróleo, cujo preço 
+teve um aumento extremamente significativo no primeiro choque em 1973 e 
+também no segundo em 1979, o que elevou a inflação e a taxa de juros da 
+economia estadunidense. Tendo em vista que os juros dos empréstimos 
+tomados pelo governo brasileiro com os americanos eram pós-fixados, o choque 
+do petróleo fez a dívida brasileira elevar-se de maneira exponencial, tornando-
+se impagável. O resultado disso para a economia brasileira foi o disparo 
+incontrolável da inflação e do dólar, causando queda na atividade econômica do 
+país. 
+Para dar conta da hiperinflação que assolava o país e tentar controlar o déficit 
+público, durante a segunda metade da década de 80, já sob o regime 
+civil/democrático, três planos econômicos foram postos em prática para tentar 
+resolver os problemas: i) Plano Cruzado I e II (instituído em fevereiro/86); ii) 
+Plano Bresser (instituído em junho/87); iii) Plano Verão (instituído em janeiro/89). 
+Todos os planos fracassaram na tentativa de controlar a inflação e sem uma 
+resolução para o problema da dívida externa. Por conta disso, os anos 80 para 
+a economia brasileira são conhecidos como “A Década Perdida”. 
+A década de 1990 inicia com a 3ª crise indicada pelo CODACE em 
+andamento, com a inflação atingindo altas históricas. Fernando Collor de Mello 
+assumiu a presidência em março de 1990 e para resolver a questão da inflação 
+um novo plano econômico é posto em prática: O plano Collor I e II. O novo plano 
+não só fracassou como os da década anterior, mas trouxe consigo uma enorme 
+crise política. Acusado de corrupção, Collor renunciou à presidência em 1992 
+para não sofrer impeachment. 
+O novo presidente, Itamar Franco, também montou junto com sua equipe um 
+plano econômico para pôr fim à hiperinflação que afetava o país. O plano Real 
+foi posto em prática em julho de 1994, e graças a uma reforma monetária no país 
+pôs fim a quinze anos de descontrole inflacionário. 
+A quarta e quinta crises datadas pelo CODACE também ocorrem nos anos 
+90: a que teve início no 2º trimestre de 1995 e a iniciada no 1º trimestre de 1998. 
+No intervalo de 1994-1999 percebe-se crises e desvalorizações das moedas dos 
+países emergentes, onde ocorreram crises no México, dos chamados tigres 
+asiáticos e na Rússia, afetando o andamento da economia brasileira.  
+O México, de 1991 a 1994, vivia uma ascensão de sua economia. O país 
+assinou o acordo NAFTA (North American Free Trade Agreement - Acordo de 
+livre-comércio da América do Norte) que diminuía barreiras econômicas e 
+alfandegárias com os Estados Unidos e Canadá, esperando manter o ritmo do 
+crescimento. Por conta disso, o país conseguiu atrair a atenção de investidores 
+estrangeiros, pois os títulos do governo mexicanos eram emitidos em peso e 
+garantiam o pagamento em dólar. Porém, o país logo se viu com uma valorização 
+do peso frente à moeda norte-americana, onde para manter o valor da sua 
+moeda, o banco central mexicano precisou desfazer-se das reservas 
+internacionais, fazendo essas atingirem níveis muito baixos. As instabilidades 
+políticas cresceram, os desajustes macroeconômicos aumentaram e o risco país 
+fez os investidores externos se afastarem tornando assim o país incapaz de se 
+financiar. A crise foi atenuada apenas no final de 1995, quando o Fundo 
+Monetário Internacional (FMI) auxiliou o país através de empréstimos.  
+Em 1997, foi a vez do sudeste asiático ser atingido por desvalorização das 
+moedas locais. Da mesma forma que o ocorrido no México, as economias 
+asiáticas apresentavam altas taxas de crescimento, porém apresentavam 
+fragilidades com os endividamentos utilizados para estimular este crescimento. 
+A Tailândia foi o primeiro destes países a sofrer com ataques especulativos, 
+tendo perda de capital estrangeiro de forma generalizada. O mesmo efeito 
+passou a atingir as moedas de outros países do leste asiático como Indonésia, 
+Malásia e Coreia do Sul, onde a solução para conter a crise, assim como o caso 
+mexicano, foi buscar empréstimos junto ao FMI.  
+A crise asiática teve como consequência a queda do preço do petróleo, 
+atingindo de forma direta a Rússia, grande exportador desse produto. Em 1998, 
+a Rússia viu sua moeda, o rublo, desvalorizar mediante a fuga de capital dos 
+investidores externos. Mesmo com aporte do FMI, o governo russo suspende o 
+pagamento da dívida externa e amplia a base monetária para movimentar o 
+mercado interno. O resultado foi o aumento da inflação e a estagnação na 
+produção. 
+O Brasil foi outro país a ser atingido pelas crises dos mercados emergentes. 
+Como o país ainda buscava uma consolidação com a implementação do real, os 
+juros estavam elevados e o câmbio apreciado, tornando o país suscetível a 
+choques exógenos já que essa política enfraquecia a produção interna. Com a 
+iminente desvalorização do real, uma crise no balanço de pagamentos, a dívida 
+pública aumentando por conta dos juros elevados somando-se a perda das 
+reservas de dólares fez com que o governo precisasse, em 1999, abandonar o 
+regime de banda cambial e reformular as diretrizes na política cambial, monetária 
+e fiscal a ser implementado no país. Tal medida deu início ao chamado tripé 
+macroeconômico, que consiste na adoção de um câmbio flutuante, regime de 
+metas de inflação e metas fiscais de superávits primários.  
+Indo para o século XXI, durante o começo da década 2000, encontraremos 
+as crises seis e sete: 2º trimestre 2001 e 1º trimestre 2003. Em maio de 2001, o 
+Brasil iniciou um plano de racionamento de energia elétrica, onde o consumo de 
+eletricidade teve de ser diminuído em 20% sob risco de sanções para o brasileiro 
+que descumprisse a meta. Na época, quase 90% da energia do país tinha origem 
+hídrica e a falta de chuvas levou o nível de água nos reservatórios a níveis 
+baixíssimos, gerando assim a chamada Crise do Apagão. Tal crise atingiu a 
+economia do país por conta da falta de oferta de energia, fazendo com que as 
+empresas e indústrias deixassem de produzir por determinados períodos 
+afetando assim a cadeia produtiva nacional. 
+Já no fim de 2002, o motivo que afetou as expectativas dos investidores foi a 
+conturbada eleição presidencial, que terminou com a vitória de Luiz Inácio Lula 
+da Silva do Partido dos Trabalhadores. Sendo de um partido de oposição ao de 
+seu antecessor, o mercado não sabia o que esperar do novo governo. Havia 
+temores de alterações na condução da política macroeconômica, de um possível 
+decreto de moratória como os argentinos fizeram um ano antes. Com isso, mais 
+uma vez houve fuga de capitais e um desbalanço nas reservas internacionais e 
+aumento na taxa de juros para segurar a inflação. A situação logo se controlou 
+quando Lula acenou que manteria as políticas do tripé macroeconômico 
+iniciadas no governo anterior, assinando acordo com o FMI para o pagamento 
+da dívida e, assim, atraindo de volta os investidores. 
+O período de 2003 a 2008 representou para o Brasil um período de alta da 
+economia, aproveitando o boom de commodities e o alto crescimento global. 
+Neste período, para ser mais preciso a partir de 2005, políticas são adotadas 
+para ampliar ainda mais esse crescimento ancoradas em 3 pilares: i) o pilar 
+distributivo através da ampliação da renda, via Bolsa Família e elevação do 
+salário mínimo; ii) ampliação do acesso ao crédito; iii) ampliação dos 
+investimentos públicos, via PAC (Programa de Aceleração de Crescimento). O 
+ritmo só desacelera graças à grande Crise Financeira de 2008 causando a crise 
+de número oito datada pelo CODACE. 
+A crise financeira de 2008, também conhecida como a crise do subprime, 
+iniciou nos EUA por conta de uma bolha imobiliária onde a renda das famílias 
+não acompanhou o aumento do valor dos imóveis devido à grande demanda no 
+setor, gerando inúmeras inadimplências nas hipotecas. Os bancos norte-
+americanos negociavam títulos financeiros lastreados nessas dívidas 
+hipotecárias e, por serem a maior economia do mundo, conseguiam 
+comercializar esses títulos em quase todas as bolsas de valores do mundo. No 
+estouro da crise, as bolsas financeiras entraram em colapso quando os 
+investidores tentaram resgatar o valor de suas aplicações, gerando falta de 
+liquidez no mercado e a diminuição no valor de mercado das bolsas como um 
+todo. 
+Para recuperar a confiança dos investidores, os principais Bancos Centrais 
+precisaram intervir na economia. O governo dos EUA foi forçado a lançar um 
+pacote de medidas no valor de US$ 700 bilhões para então ajudar o mercado 
+financeiro do país e evitar um colapso ainda maior, já que o desemprego atingiu 
+quase 10% em 2009. Na Europa, os bancos centrais de Alemanha, França, 
+Áustria, Holanda e a Itália anunciaram pacotes emergenciais que, juntos, 
+somavam quase 1,2 trilhões de euros.   
+O Brasil foi menos atingido pela crise se comparado aos países já citados. 
+Porém, como já dito, a crise do subprime foi suficiente para gerar uma crise no 
+país, sendo assim identificada pelo CODACE. No enfrentamento da crise, houve 
+um rompimento ainda maior do governo com o tripé macroeconômico para 
+ampliar as medidas fiscais e monetárias expansionistas para que essas 
+estimulassem o consumo para manter a economia em funcionamento. A 
+diminuição da taxa de juros (SELIC), diminuição do depósito compulsório para 
+os bancos comerciais e a redução de impostos sob consumo (como o IPI), são 
+exemplos de medidas tomadas pelo governo a época. 
+Avançando para a década de 2010, a crise de número nove se inicia no 
+segundo trimestre de 2014. Como já dito anteriormente, essa foi a mais severa 
+das crises para a economia brasileira que se iniciaram após 1980. Os pilares que 
+impulsionaram o crescimento econômico da última década e suavizaram o 
+impacto da crise de 2008 no país haviam chego a seu limite. Como o preço das 
+commodities sofreram quedas com a crise de 2008, somente estímulos ao 
+consumo não seriam mais capazes de manter o crescimento da demanda 
+agregada sem o auxílio dos resultados favoráveis na balança comercial.  
+O governo sucessor a Lula, da presidente Dilma Rousseff, decide romper 
+com esse modelo de crescimento, principalmente no pilar do investimento, 
+cortando os gastos públicos ao mesmo tempo que oferecia subsídios para que 
+os investimentos partissem da iniciativa privada. Não aconteceu os 
+investimentos por dois motivos:  i) não houve uma transformação na estrutura 
+produtiva do país durante o governo Lula, onde os estímulos focaram-se no lado 
+da demanda via consumo e não para o lado da oferta afetando as indústrias para 
+aumentar produtividade; ii) a iniciativa privada ainda estava endividada devido a 
+expansão de crédito que havia ocorrido no governo anterior, então os novos 
+subsídios foram utilizados para diminuir suas dívidas e não realizar novos 
+investimentos. Desta forma, não havia expectativas de melhora em relação ao 
+futuro o que prejudica a eficiência marginal do capital. Portanto, não houve os 
+investimentos. Somado a falta de investimentos, houve um brusco reajuste nos 
+preços administrados, principalmente nos preços do gás, dos combustíveis e da 
+energia elétrica, gerando inflação. No primeiro indício de aumento da inflação, o 
+BC eleva juros o que também contribuí para a falta de investimentos e o não 
+crescimento da atividade econômica. 
+ O resultado de todos esses fatores levou o PIB a significativas quedas de 
+3,8% em 2015 e de 3,3% em 2016. O desemprego atingiu o auge em 2017, com 
+uma taxa de 13,7%, o que representou mais de 14 milhões de brasileiros 
+economicamente ativos desempregados. Mesmo com esse cenário de 
+desaceleração, o governo optou pela austeridade fiscal, decidindo de vez cortar 
+gastos almejando conseguir superávits primários já que a divida publica estava 
+aumentando por conta dos aumentos na taxa de juros. Mas, como não estava 
+havendo produção também não haveria arrecadação através dos impostos, 
+dessa forma opção pela austeridade não se fez válida por incapacitar a atuação 
+do governo. 
+Segundo o CODACE, o período recessivo terminou no inicio de 2017 durando 
+11 trimestres assim como a crise número 3. Porém, a recuperação que se seguiu 
+após a crise de 2014 durou 12 trimestres com um crescimento acumulado do 
+PIB de 5,1%, em comparação a recuperação da crise 3 também durou os 
+mesmos 12 trimestres, mas com crescimento do PIB acumulado de 19,2%. 
+Em 2020, entramos na crise de número 10, imposta pela pandemia do vírus 
+Sars-Cov-19. As medidas de restrições de circulação de pessoas para conter o 
+avanço do vírus causou um choque na oferta de bens e serviços, havendo um 
+colapso simultâneo na produção e demanda agregada global. Como a 
+recuperação da crise anterior caminhava lentamente e foi subitamente 
+interrompida, talvez seja possível afirmar que a recuperação da atual crise será 
+ainda mais difícil, tendo em vista que a economia não havia se recuperado por 
+completo. Diante da atual conjuntura (novembro/21) onde temos taxa de 
+desemprego em 14%, IPCA nos últimos doze meses em 10,67%, expectativa 
+PIB para 2022 em 0,9%, segundo relatório Focus, faz com que o desafio de 
+recuperar a economia brasileira seja imenso. 
+ 
+5. CONSIDERAÇÕES FINAIS 
+Buscou-se neste trabalho, no primeiro momento, compreender o que diz a 
+literatura sobre o estudo dos ciclos econômicos. A abordagem teórica de estudo 
+dos ciclos se divide em duas vertentes sobre as causas das flutuações 
+econômicas: A primeira delas considera as flutuações cíclicas como inerentes 
+ao modo de produção das economias capitalistas. As oscilações nasceram com 
+o capitalismo e não podem ser eliminadas sem uma profunda mudança dentro 
+do próprio sistema. A segunda abordagem considera cada ciclo como único, 
+onde as flutuações são desvios do produto agregado em relação à sua tendência 
+de longo prazo, causados por choques exógenos na oferta e na demanda 
+agregada. Dentro dessas teorias, diversas variáveis podem ser 
+responsabilizadas como as causadoras dos ciclos econômicos e isso impediu 
+que houvesse a elaboração de uma teoria única e generalizante onde as 
+principais teorias apontam para fatores reais e para fatores monetários como 
+responsáveis pela causação dos ciclos. 
+A vertente que explica que a natureza dos ciclos econômicos são os choques 
+exógenos, chamados de modelo de propagação por Carvalho (1988), teve em 
+Schumpeter sua principal referência com a teoria de que a inovação tecnológica 
+é quem causa a perturbação exógena na economia. Com uma visão parecida 
+com a de Schumpeter, Keynes adiciona outros fatores juntos das variáveis reais 
+para explicar o ciclo, como o tempo e as variáveis monetárias (a não neutralidade 
+da moeda e a taxa de juros). A partir do estudo feito sob a ótica destes dois 
+autores, conclui-se que os ciclos econômicos são melhor explicados através de 
+uma junção de ambas as teorias.  A visão de Schumpeter possui elementos de 
+melhor compreensão para a fase de expansão do ciclo enquanto Keynes, 
+através da demanda efetiva, se dispõe a discutir sobre os elementos que 
+ocasionam as crises e as recessões. Por isso, a visão keynesiana se preocupa 
+em atribuir ao Estado a função de estabilização da economia, através de políticas 
+macroeconômicas anticíclicas. 
+Os estudos empíricos sobre os ciclos econômicos também são fundamentais 
+para a compreensão do fenômeno cíclico. Sem propor uma abordagem teórica, 
+Mitchell e o NBER não só definiram que o ciclo dos negócios são expansões e 
+contrações ocorrendo simultaneamente em vários setores da economia, mas 
+também criaram um sistema de indicadores antecedentes (SIA) que permite 
+identificar o momento de inflexão da economia entre os movimentos 
+ascendentes e descendentes. A relevância do trabalho de Mitchell, que se iniciou 
+nos anos 1920, é observada até os dias atuais ao perceber que o SIA ainda é 
+utilizado na datação dos ciclos dos negócios, inclusive pelo CODACE que é 
+referência na realização deste trabalho. 
+O CODACE identificou na economia brasileira nove ciclos dos negócios 
+completos desde 1980, estando em curso o décimo ciclo em sua fase recessiva. 
+Nos anos 80, durante as três primeiras crises datadas pelo CODACE, o contexto 
+histórico da década perdida fez com que o foco das políticas econômicas 
+adotadas fosse no intuito de resolver a questão da hiperinflação e do descontrole 
+da dívida pública, desta forma o governo não utilizou políticas anticíclicas para 
+recuperar a economia. O mesmo pode ser dito das crises de número quatro a 
+sete, onde também não houveram medidas anticíclicas pois, os objetivos eram 
+consolidar e estabelecer o plano real e a nova política que consistia no tripé 
+macroeconômico. A crise de número oito foi quando o governo de fato interveio 
+com políticas anticíclicas, pois a conjuntura da época apontava para a maior crise 
+financeira internacional desde a grande depressão dos anos 30. Estímulos 
+monetários e fiscais para aumentar o consumo e aumento dos investimentos 
+foram adotados pelo governo para manter a economia em andamento. Porém, 
+mesmo tendo sucesso na recuperação econômica e tendo recessão em apenas 
+dois trimestres, as políticas anticíclicas adotadas para a crise oito são apontadas 
+como uma das causas da crise seguinte. Argumenta-se que estímulos ao lado 
+da demanda não eram sustentáveis, o governo poderia ter priorizado o lado da 
+oferta para alterar e melhorar a estrutura produtiva do país. Além disso, há 
+também a crítica que o aumento da base monetária sem o devido controle da 
+política monetária resultou em endividamento e investimentos não tiveram 
+expectativas atingidas.  
+A última observação a ser apontada fica por conta do sistema de metas para 
+a inflação, uma das políticas que compõem o tripé macroeconômico. Sem a 
+devida testagem econométrica, o autor deste trabalho não será leviano em fazer 
+afirmações sem as devidas comprovações. Porém, a relação taxa de 
+juros/inflação foi uma variável importante para criar o movimento cíclico em 
+quase todas as nove crises estudadas. Os constantes aumentos da taxa de 
+juros, com a justificativa para combater a inflação, impede os empréstimos e os 
+investimentos privados, consequentemente impacta no desemprego e na 
+geração da renda na atividade econômica. Talvez exista uma correlação entre 
+os juros e o desemprego, onde diminuir o primeiro possa, novamente talvez, 
+diminuir também o segundo. 
+ 
+ 
+REFERÊNCIAS 
+ 
+ALMEIDA, Rafael Galvão de. Uma história dos modelos de ciclos 
+econômicos e sua relação com a história da econometria, 1875-1936 . 
+Revista Debate Econômico, v.2, n.1, p. 5-30, 2014. 
+BRUE, Stanley L. História do Pensamento Econômico . São Paulo:  Editora 
+Thomson Learning, 2006. 
+CAMARA, Marcia R. G. da. A Instabilidade do Capitalismo: A Visão de 
+Keynes e Schumpeter. Semina: Ciências Sociais e Humanas, ISSN 1679-0383, 
+1991. 
+CARVALHO, Fernando J. C. de. Keynes, a instabilidade do capitalismo e a 
+teoria dos ciclos econômicos. Pesquisa e Planejamento Econômico, v.18, n.3, 
+p.741-764, 1988. 
+CARVALHO, Fernando J. C. de; HERMANNY, Paulo Fernando.  Ciclos e 
+Previsão Cíclico: O Debate Teórico e um Modelo de Indicadores 
+Antecedentes para o Economia Brasileira . Faculdade de Ciências 
+Econômicas da Universidade Federal do Rio Grande do Sul, ISSN 0102-9924, 
+2003. 
+COMITÊ DE DATAÇÃO DE CICLOS ECONÔMICOS (CODACE). 
+Descomplicando o Ciclo Econômico . Portal do Ciclo. Disponível em: 
+https://ciclo-economico-ibre.fgv.br/. Acesso em outubro/2021. 
+COMITÊ DE DATAÇÃO DE CICLOS ECONÔMICOS (CODACE). Comunicado 
+de Datação de Ciclos Mensais Brasileiros – Jun/2020 . Portal do Ciclo. 
+Disponível em: https://portalibre.fgv.br/sites/default/files/2020-06/comunicado-
+do-comite-de-datacao-de-ciclos-economicos-29_06_2020-1.pdf. Acesso em 
+outubro/2021. 
+DUARTE, Angelo J. M.; ISSLER, João V.; SPACOV, Andrei. Indicadores 
+Coincidentes de Atividade Econômica e uma Cronologia de Recessões 
+para o Brasil. Fundação Getulio Vargas, Ensaios Econômicos, ISSN 0104-8910, 
+2004. 
+ELLERY JR, Roberto; GOMES, Victor. Política Fiscal, Choques de Oferta e a 
+Expansão Econômica de 2003-2007 . Brazilian Busines Review, v.11, n.3, p. 
+56-80, 2014. 
+ESTEY, James Arthur. Ciclos Econômicos: Sua natureza, causa e controle . 
+São Paulo: Editora Mestre Jou, 1965. 
+FERREIRA, Mariana Fialho. Crises Econômicas Brasileiras: Persistência e 
+profundidade das recessões e velocidade das recuperações. Dissertação 
+(Mestre em Ciências Econômicas) – Universidade de Brasília, Brasília, 2011. 
+GIANNINI, Fabio Augusto. Ciclos dos Negócios: Um estudo empírico para as 
+flutuações da economia brasileira no período compreendido entre 1992 e 
+2007. Dissertação (Mestrado em Ciências Econômicas) – Universidade Estadual 
+de Maringá, Maringá, 2009. 
+LIMA, Izabel Cristina de. Ciclos Econômicos e Previsão Cíclica: Um Estudo 
+de Indicadores Antecedentes para a Economia Brasileira . Dissertação 
+(Mestrado em Ciências Econômicas) – Universidade Federal de Minas Gerais, 
+Belo Horizonte, 2005. 
+MITCHELL, Wesley C. Os Ciclos Econômicos e suas causas . São Paulo: 
+Editora Abril Cultural, 1984. 
+NATIONAL BUREAU OF ECONOMIC RESEARCH (NBER). Business Cycle 
+Dating. Disponível em: https://www.nber.org/research/business-cycle-dating. 
+Acesso em outubro/2021. 
+NATIONAL BUREAU OF ECONOMIC RESEARCH (NBER). About: History.  
+Disponível em: https://www.nber.org/about-nber/history. Acesso em 
+outubro/2021. 
+OLIVEIRA, Roberson Campos de; GENNARI, Adilson Marques. História do 
+Pensamento Econômico. São Paulo: Editora Saraiva, 2009. 
+PIRES, Manoel Carlos de C. Política Fiscal e Ciclos Econômicos no Brasil . 
+Economia Aplicada, v. 18, n. 1, p. 69-90, 2014. 
+VAZ-CURADO, Samuel Fernandes L. Teoria dos Ciclos Econômicos: O Caso 
+Brasileiro entre 2003 e 2018 . Dissertação (Mestre em Ciências Econômicas) 
+– Universidade Federal de Sergipe, São Cristóvão (SE), 2019. 
+ 
+ 
+ 

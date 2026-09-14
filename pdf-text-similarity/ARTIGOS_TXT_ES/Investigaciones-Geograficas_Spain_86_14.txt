@@ -1,0 +1,1667 @@
+Instituto Interuniversitario de Geografía
+Universidad de Alicante
+ISSN: 0213-4691 | eISSN: 1989-9890
+https://www.investigacionesgeograficas.com
+ D O I
+https://doi.org/10.14198/INGEO.30557
+ C I TA C I Ó N
+Casado-Montilla, J., Pulido-Fernández, J.I., 
+Pulido-Fernández, M.C., & Carrillo-Hidalgo, I. 
+(2026). Territorio y competitividad turística: una 
+lectura regional del espacio mediterráneo a 
+través de un índice compuesto basado en ACP. 
+Investigaciones Geográficas, (86), 293-313. 
+https://doi.org/10.14198/INGEO.30557
+ C O R R E S P O N D E N C I A
+Jairo Casado-Montilla (jcasado@ujaen.es)
+ H I S T O R I A
+Recibido: 29 julio 2025
+Aceptado: 27 mayo 2026
+Publicado: 6 julio 2026
+ T É R M I N O S
+© 2026 Jairo Casado-Montilla, Juan Ignacio 
+Pulido-Fernández, María de la Cruz Pulido-
+Fernández, Isabel Carrillo-Hidalgo.
+ Este trabajo se publica bajo una 
+licencia Creative Commons de Atribución-
+NoComercial-CompartirIgual 4.0 Internacional
+Resumen
+El presente estudio analiza la competitividad turística de las regiones del 
+Mediterráneo mediante la elaboración de un índice sintético derivado 
+del Análisis de Componentes Principales (ACP). A partir de un conjunto 
+de 89 indicadores agrupados en 12 pilares temáticos, los datos 
+fueron estandarizados y ajustados direccionalmente para garantizar 
+su coherencia interpretativa. La aplicación del ACP permitió reducir la 
+dimensionalidad del conjunto de variables e identificar los principales 
+factores latentes que explican las diferencias territoriales en términos de 
+competitividad turística. Con los componentes extraídos se construyó 
+un índice sintético escalado de 0 a 100, que permite una clasificación 
+y comparación homogénea del desempeño regional en el ámbito 
+mediterráneo. Los resultados evidencian la existencia de componentes 
+territoriales diferenciados y ponen de manifiesto la importancia estructural 
+de variables como la infraestructura, la gobernanza y la capacidad de 
+innovación. Asimismo, el análisis demuestra la robustez metodológica 
+del ACP para la construcción de índices sintéticos compuestos a escala 
+regional, destacando su replicabilidad en otros contextos geográficos. 
+Más allá del ámbito mediterráneo, este enfoque ayuda a comprender 
+las dinámicas espaciales de la competitividad turística y ofrece una 
+herramienta de apoyo a la planificación regional. Los hallazgos ponen 
+de relieve la relevancia de la sostenibilidad, la digitalización y la 
+gobernanza multinivel como dimensiones estructurales para alcanzar 
+modelos de planificación turística más resiliente y equitativa.
+Palabras clave: competitividad turística; territorio; desempeño 
+regional; Mediterráneo; análisis de componentes principales; índices 
+compuestos.
+Abstract
+This study analyses the tourism competitiveness of Mediterranean 
+regions through the construction of a composite index derived 
+from Principal Component Analysis (PCA). Based on a dataset of 89 
+indicators grouped into 12 thematic pillars, data were standardized and 
+directionally adjusted to ensure interpretative coherence. The application 
+of PCA made it possible to reduce the dimensionality of the variables 
+and to identify the main latent factors explaining territorial differences 
+in tourism competitiveness. A synthetic index scaled from 0 to 100 
+was built from the components extracted, allowing for a consistent 
+Territorio y competitividad turística:
+una lectura regional del espacio mediterráneo
+a través de un índice compuesto basado en ACP
+Territory and tourism competitiveness: a regional reading
+of the Mediterranean space through a PCA-based composite index
+ A U T O R Í A
+Jairo Casado-Montilla 
+Laboratorio de Análisis e Innovación Turística. 
+Universidad de Jaén. España.
+Juan Ignacio
+Pulido-Fernández 
+Laboratorio de Análisis e Innovación Turística. 
+Universidad de Jaén. España.
+María de la Cruz
+Pulido-Fernández 
+Laboratorio de Análisis e Innovación Turística. 
+Universidad Internacional de Valencia. España.
+Isabel Carrillo-Hidalgo 
+Laboratorio de Análisis e Innovación Turística. 
+Universidad de Jaén. España.
+
+
+Casado-Montilla et al.
+294
+ Investigaciones Geográficas, 86, 293-313
+classification and comparison of regional performance across the Mediterranean area. The results reveal 
+distinct territorial components and highlight the structural importance of variables such as infrastructure, 
+governance, and innovation capacity in explaining regional competitiveness. The analysis also shows the 
+methodological robustness of PCA for constructing composite indices at the regional level, demonstrating 
+its replicability for other geographical contexts. Beyond the Mediterranean, this approach contributes to 
+the understanding of the spatial dynamics of tourism competitiveness and provides a decision-support tool 
+for regional planning. The findings emphasize the relevance of sustainability, digitalization, and multilevel 
+governance as structural dimensions for achieving more resilient, equitable, and territorially balanced tourism 
+models.
+Keywords: tourism competitiveness; territory; regional performance; Mediterranean; principal component 
+analysis; composite indices.
+1. Introducción
+En un contexto global marcado por la intensificación de la competencia entre destinos turísticos, el análisis 
+de la competitividad turística regional se ha consolidado como un eje prioritario tanto en la investigación aca­
+démica como en la formulación de políticas públicas (Dwyer & Kim, 2003; Croes, 2011). En el ámbito medite­
+rráneo, caracterizado por una alta densidad de destinos con fuerte especialización turística, la necesidad de 
+disponer de herramientas analíticas que permitan evaluar de forma sistemática el desempeño de las regiones 
+se vuelve aún más crítica. La región mediterránea, además de su centralidad geoestratégica, posee una he­
+terogeneidad significativa en sus estructuras económicas, institucionales y turísticas (Pivčević et al., 2020), lo 
+que convierte al análisis comparativo de su competitividad en un desafío técnico y político de primer orden.
+La competitividad turística se entiende, en términos generales, como la capacidad de un destino para ge­
+nerar valor añadido, asegurar su sostenibilidad a largo plazo y mantener o incrementar su participación en 
+los mercados internacionales (Hassan, 2000). Sin embargo, su medición implica enfrentar una elevada com­
+plejidad técnica derivada del carácter multidimensional del fenómeno, que abarca desde la infraestructura 
+turística y la calidad del entorno natural hasta la innovación tecnológica, la seguridad, la gobernanza y la 
+conectividad (Hefny, 2024; Huang & Liu, 2024). En este sentido, el uso de índices compuestos se ha conver­
+tido en una práctica ampliamente aceptada para sintetizar múltiples dimensiones y facilitar la comparación 
+entre destinos (Crouch, 2011).
+Además, la competitividad turística es uno de los ejes centrales del debate contemporáneo sobre desarrollo 
+regional, resiliencia económica y sostenibilidad territorial. Más allá de una lectura puramente sectorial, la com­
+petitividad turística debe entenderse como el resultado de una interacción compleja entre factores endógenos, 
+capacidades institucionales, recursos naturales y culturales, así como dinámicas espaciales y relaciones te­
+rritoriales (Organización para la Cooperación y el Desarrollo Económicos [OECD], 2022; Hefny, 2024). En este 
+sentido, su análisis requiere enfoques integrados que reconozcan el papel estructurante del territorio como 
+soporte, condicionante y diferencial clave del desempeño turístico.
+1.1. Marco teórico y antecedentes
+La literatura sobre competitividad turística ha evolucionado desde enfoques centrados en precios y eficien­
+cia (Hassan, 2000) hacia modelos más integradores, como los de Dwyer y Kim (2003) o Crouch (2011), que 
+reconocen dimensiones sistémicas, institucionales y cualitativas. Sin embargo, estos marcos suelen presen­
+tar una escasa territorialización, lo que limita su capacidad para explicar las desigualdades regionales y las 
+trayectorias espaciales diferenciadas de los destinos. Desde una perspectiva territorial, la competitividad tu­
+rística no puede analizarse aisladamente de los procesos de desarrollo regional. Tal como apuntan Camagni 
+(2002, 2008), Hall (2007), Romão et al. (2013), Merinero-Rodríguez et al. (2014), Barrado (2016) o Sangkaew 
+et al. (2025), el espacio geográfico actúa como un mediador activo que incide en la configuración de ventajas 
+comparativas y en la traducción de recursos en ventajas competitivas sostenibles. Factores como la locali­
+zación relativa, la conectividad territorial, la morfología urbana, la estructura del poblamiento, la capacidad 
+de gobernanza multiescalar y la especialización productiva turística son fundamentales para explicar los 
+distintos grados de desempeño turístico regional (European Commission, 2016).
+Esta visión conecta con las aproximaciones de la geografía económica evolutiva, que entienden el desarrollo 
+regional como un proceso dependiente del camino (path dependent), donde los territorios construyen su com­
+petitividad a partir de trayectorias históricas, estructuras institucionales heredadas y dinámicas relacionales 
+en red (Rodríguez-Pose, 2013). En este contexto, la competitividad turística no se puede entender de manera 
+
+
+Territorio y competitividad turística: una lectura regional del espacio mediterráneo a través de un índice compuesto basado en ACP
+295
+ Investigaciones Geográficas, 86, 293-313
+exclusiva como el resultado de factores económicos o sectoriales, sino como una expresión de dinámicas 
+territoriales complejas que son el reflejo de la interacción entre recursos, instituciones y estructuras espaciales.
+Para captar adecuadamente esta multidimensionalidad, se han desarrollado numerosos sistemas de medi­
+ción de la competitividad turística. El más reconocido a escala global es el Travel & Tourism Development 
+Index, del World Economic Forum (2021), seguido por los sistemas de indicadores europeos como el ETIS 
+(Font et al., 2021) o los marcos desarrollados por la OCDE. Aunque estos modelos contribuyen significativa­
+mente a la medición comparativa de la competitividad, presentan limitaciones cuando se aplican a escalas 
+subnacionales, ya que frecuentemente omiten variables con carga territorial significativa, como el capital 
+social regional, la coordinación institucional o los efectos de frontera (OECD, 2025). Esta limitación refuerza 
+la necesidad de enfoques analíticos que permitan realizar una radiografía de la heterogeneidad territorial y un 
+análisis desde una perspectiva regional.
+El presente estudio propone un enfoque alternativo mediante el uso del ACP para construir un índice sintético 
+de competitividad turística con base regional. Esta técnica estadística multivariante ha demostrado su efi­
+cacia para reducir grandes conjuntos de indicadores correlacionados y extraer factores latentes explicativos 
+del desempeño turístico (Abdi & Williams, 2010; Hair et al., 2010). Lo distintivo en este caso es su aplicación 
+a unidades territoriales regionales del espacio mediterráneo, permitiendo visualizar diferencias competitivas 
+alineadas con dinámicas geográficas, históricas y políticas. Estudios previos han aplicado técnicas similares 
+para analizar patrones territoriales en el ámbito turístico. Tsiotas et al. (2020), por ejemplo, utilizaron el ACP para 
+analizar patrones de temporada en las regiones griegas, identificando perfiles estacionales diferenciados, que 
+se relacionan con atributos geográficos y socioeconómicos según si la región es insular, continental, costera, 
+etc. En estudios similares, Palma et al. (2024) o Croes (2011) han demostrado cómo el componente territorial 
+modifica significativamente la distribución de la competitividad, más allá de los indicadores turísticos clásicos.
+El Mediterráneo constituye un espacio singular para el análisis de la competitividad turística con enfoque 
+territorial. Su carácter transcontinental, la confluencia de modelos económicos diversos, la heterogeneidad 
+institucional y las tensiones entre desarrollo turístico e impactos territoriales lo convierten en un laboratorio 
+privilegiado para el estudio de desigualdades regionales (Gargano, 2021). 
+Desde una lectura geográfica, pueden distinguirse, al menos, tres subespacios turísticos en el Mediterráneo: 
+las regiones europeas situadas en la orilla Norte del Mediterráneo (Italia, Francia, España), con estructuras 
+turísticas maduras y capacidades de innovación; el Este del mar Mediterráneo (Croacia, Grecia, Albania), 
+con una consolidación parcial y fuerte dependencia de los mercados internacionales; y la ribera sur (Túnez, 
+Egipto, Marruecos), con menor desarrollo turístico estructural, alta vulnerabilidad externa y necesidad de 
+políticas de diversificación. Esta clasificación está basada en diferencias estructurales observables en el 
+desarrollo turístico regional, entre las que se incluyen el volumen de llegadas internacionales, el grado de 
+especialización turística y la integración en los mercados turísticos a nivel global (ONU Turismo, 2024; OECD, 
+2022). Dichas diferencias permiten identificar subespacios con niveles de consolidación turística distinguible, 
+lo que justifica su utilización como marco de análisis territorial.
+El componente territorial permite también examinar fenómenos como la congestión litoral, la concentración 
+del desarrollo en enclaves turísticos, la fragmentación de productos, o la escasa integración de hinterlands 
+rurales, todos ellos con efectos sobre la competitividad real a largo plazo. Además, introduce el papel de las 
+políticas públicas regionales, los instrumentos de planificación territorial y las redes de cooperación como 
+factores diferenciales de competitividad no recogidos en los modelos puramente económicos (Hefny, 2024). 
+En los últimos años, la transición hacia un modelo turístico más sostenible e inclusivo ha reforzado la ne­
+cesidad de incorporar variables territoriales en los análisis de competitividad. El paradigma de los destinos 
+turísticos inteligentes (DTI) representa una aproximación integradora, en la que la competitividad se vincula al 
+uso estratégico de datos, a la gobernanza participativa y a la adaptación territorial a los desafíos climáticos, 
+sociales y tecnológicos (Boes et al., 2016; Ivars-Baidal et al., 2019).
+Este nuevo enfoque rompe con la visión tradicional de competitividad basada exclusivamente en el creci­
+miento del número de turistas o la rentabilidad económica, y propone indicadores relacionados con la calidad 
+de vida local, la resiliencia del territorio y la capacidad de co-creación de valor con agentes públicos y priva­
+dos. Tal como advierte la OECD (2025), una competitividad sin cohesión territorial reproduce desigualdades y 
+pone en riesgo la sostenibilidad a largo plazo del propio sistema turístico. Por tanto, en el contexto mediterrá­
+neo, incorporar el componente territorial en los análisis de competitividad turística permite avanzar hacia po­
+líticas diferenciadas y adaptadas a las singularidades de cada región. Esto implica reconocer que no existe 
+un único modelo de destino competitivo, sino múltiples trayectorias territoriales de éxito turístico, vinculadas 
+a contextos locales, capacidades institucionales, relaciones centro-periferia y escalas de intervención.
+
+
+Casado-Montilla et al.
+296
+ Investigaciones Geográficas, 86, 293-313
+1.2. Hipótesis y objetivos
+Para abordar esta complejidad de forma metodológicamente sólida, el presente estudio aplica un Análisis 
+de Componentes Principales (ACP) sobre un conjunto de 89 indicadores agrupados en 12 pilares temáticos 
+que configuran el sistema de evaluación de la competitividad turística regional. Esta técnica multivariante 
+permite reducir la dimensionalidad del conjunto de datos, extrayendo las componentes que explican la ma­
+yor proporción de la varianza total, y facilitando así la construcción de un índice sintético interpretativo y 
+territorialmente comparable (Hair et al., 2010). A diferencia de aproximaciones más simples, el ACP permite 
+identificar patrones latentes de correlación entre variables y captar estructuras ocultas en los datos, lo que 
+resulta especialmente útil en contextos con alta multicolinealidad y diversidad territorial.
+El enfoque adoptado presta especial atención al componente territorial del análisis, reconociendo que la 
+competitividad turística no es únicamente una función de variables económicas o sectoriales, sino también 
+de dinámicas espaciales, dotaciones endógenas y modelos de gobernanza regional (Baggio & Sainaghi, 
+2011). En los últimos años han aparecido indicadores como el Travel & Tourism Competitiveness Index (TTCI) 
+del World Economic Forum o el European Tourism Indicator System (ETIS) auspiciado por la Comisión Eu­
+ropea. No obstante, muchos de estos instrumentos operan a escala nacional y/o presentan un sesgo hacia 
+dimensiones macroeconómicas o institucionales, sin capturar la heterogeneidad intrarregional que caracte­
+riza al espacio mediterráneo.
+Por tanto, la investigación se inscribe así en una línea emergente que propone la lectura territorializada de la 
+competitividad como clave para el desarrollo turístico sostenible, especialmente en regiones que comparten 
+marcos geográficos comunes, pero exhiben trayectorias diferenciadas de desarrollo turístico (Romão et al., 
+2013).
+En suma, este estudio tiene como objetivo analizar la competitividad turística de las regiones del Medite­
+rráneo mediante la construcción de un índice sintético basado en un ACP, con el fin de identificar patrones 
+territoriales y diferenciales estructurales que condicionan el desempeño turístico regional en este espacio 
+geográfico estratégico.
+Acorde con los planteamientos teóricos sobre competitividad turística y territorial expuestos en el apartado 
+anterior (Camagni, 2008; Dwyer & Kim, 2003; Hall, 2007; Barrado, 2016; Rodríguez-Pose, 2013) se han plan­
+teado las siguientes hipótesis, las cuales se pretenden validar mediante el objetivo expuesto hasta este punto.
+•	H1. Existe una estructura latente de componentes principales que permite sintetizar de forma robusta los 
+múltiples indicadores de competitividad turística regional en el ámbito mediterráneo, manteniendo una 
+elevada proporción de la varianza explicada.
+•	H2. Las regiones mediterráneas no presentan un comportamiento homogéneo en términos de competitivi­
+dad turística.
+•	H3. Las regiones con mayores niveles de desarrollo económico, infraestructura turística y gobernanza pre­
+sentan valores significativamente más altos en el índice compuesto de competitividad turística.
+•	H4. La dimensión territorial influye de manera significativa en la configuración del posicionamiento compe­
+titivo, mostrando divergencias entre subregiones (norte, sur y este del Mediterráneo) asociadas a modelos 
+turísticos diferenciados.
+•	H5. El índice sintético generado mediante ACP permite identificar los puntos fuertes y débiles de cada re­
+gión, constituyendo una herramienta válida para la toma de decisiones estratégicas en políticas de turismo 
+territorial.
+Los hallazgos obtenidos en esta investigación permitirán dotar a responsables políticos, gestores turísticos 
+y académicos de una herramienta útil para el benchmarking estratégico y la orientación de políticas basadas 
+en evidencia empírica.
+2. Metodología
+El presente estudio se basa en una metodología cuantitativa de tipo descriptivo y comparativo, orientada 
+a construir un índice sintético de competitividad turística para las regiones del Mediterráneo a partir de un 
+análisis multivariante de datos. La elección metodológica responde a la necesidad de manejar un conjunto 
+
+
+Territorio y competitividad turística: una lectura regional del espacio mediterráneo a través de un índice compuesto basado en ACP
+297
+ Investigaciones Geográficas, 86, 293-313
+elevado de indicadores heterogéneos, de naturaleza tanto estructural como funcional, que reflejan el desem­
+peño turístico regional desde una perspectiva multidimensional.
+2.1. Fuentes
+La presente investigación adopta una metodología cuantitativa de carácter comparativo y exploratorio, sus­
+tentada en el marco analítico de la plataforma estratégica IMPULSA BALEARS. Esta plataforma constituye un 
+instrumento de inteligencia económica y estratégica, orientado a fortalecer la capacidad competitiva de las 
+Islas Baleares en un contexto regional, nacional y europeo. Su diseño responde a los principios de gobernan­
+za, enfoque sistémico y toma de decisiones basada en evidencia, alineándose con las directrices europeas 
+en materia de desarrollo sostenible y crecimiento inteligente.
+El análisis de la posición competitiva de las Islas Baleares se estructura en torno al Índice de Competitividad 
+Global (i|ICG), uno de los instrumentos desarrollados por IMPULSA BALEARS. Este índice tiene por finalidad 
+medir y comparar la competitividad estructural de las Islas Baleares con respecto a otras regiones europeas, 
+particularmente aquellas clasificadas en la categoría NUTS-2, de acuerdo con el sistema estadístico de la 
+Unión Europea. Su construcción metodológica se sustenta en un modelo de agregación jerárquica de va­
+riables e indicadores que permite capturar, de manera integral, los factores determinantes del desempeño 
+competitivo de un territorio. 
+En este contexto, este trabajo ha analizado las 58 regiones NUTS-2 vinculadas territorialmente al ámbito 
+Mediterráneo, las cuales se eligieron por su vinculación territorial con la actividad turística mediterránea, 
+atendiendo a la clasificación de la Unión Europea (Eurostat, 2021). Dichas regiones muestran una diversidad 
+en su desarrollo económico, infraestructuras turísticas, gobernanza y especialización (Bertocchi et al., 2023), 
+permitiendo un análisis comparativo de competitividad y eficiencia. La escala NUTS-2 garantiza un equilibrio 
+óptimo en la disponibilidad de información y datos y está alineada con las estrategias europeas que buscan 
+garantizar la resiliencia económica y modelos de turismo sostenible. En el caso de los países que no cuentan 
+con escala NUTS, se ha empleado el nivel 1 de las Áreas Administrativas Globales (GADM), equivalente a 
+regiones de análisis con un tamaño similar a las NUTS-2. En concreto, este último criterio se ha aplicado en 
+los casos de Israel, Turquía, Montenegro, Albania, Marruecos, Egipto, Bosnia y Herzegovina, Túnez y Líbano.
+Siendo el Mediterráneo el escenario para el desarrollo de destinos turísticos líderes, con un elevado número 
+de llegadas internacionales, fuerte estacionalidad y grandes desafíos estructurales para asegurar su soste­
+nibilidad (Niavis & Kallioras, 2021), el enfoque regional adoptado permite identificar perfiles diferenciados de 
+competitividad turística, contribuyendo a una mejor comprensión territorial para la formulación de estrategias 
+y políticas.
+La base empírica del análisis está compuesta por 89 indicadores, agrupados en 12 pilares temáticos que 
+recogen dimensiones clave de la competitividad turística, tales como recursos naturales y culturales, infraes­
+tructura de transporte, servicios turísticos, sostenibilidad, innovación, gobernanza y conectividad digital. Es­
+tos datos fueron recopilados a partir de organismos oficiales como Eurostat, el Instituto Nacional de Estadís­
+tica (INE), el Instituto Balear de Estadística (IBESTAT), la Oficina de Propiedad Intelectual de la Unión Europea 
+(EUIPO) y otras agencias especializadas. La lista completa con los 89 indicadores utilizados, su agrupación 
+por pilares y las fuentes empleadas pueden consultarse en el Anexo II.
+2.2. Métodos
+El planteamiento metodológico se ha desarrollado en tres fases: en primer lugar, la elección y normalización 
+de indicadores, seguido por la aplicación del ACP para, posteriormente, construir el índice sintético y el aná­
+lisis comparado. Debido a que los indicadores presentan diferentes unidades de medida, escalas y sentidos 
+de interpretación, se aplicó, en primera instancia, un proceso de normalización mediante estandarización 
+z-score, que transforma los valores en función de su medida y desviación estándar, permitiendo comparabi­
+lidad y neutralidad en la agregación posterior. Desde una perspectiva interpretativa, los indicadores emplea­
+dos pueden diferenciarse en dimensiones tangibles (infraestructuras, accesibilidad, equipamientos, recursos 
+turísticos, etc.) e intangibles (gobernanza, entorno institucional, capital humano, clima empresarial, etc.). 
+Esta distinción hace más fácil la lectura territorial sin modificar la construcción del índice sintético. Además, 
+los indicadores con signo negativo (por ejemplo, tasas de criminalidad o estacionalidad excesiva) fueron 
+invertidos para asegurar una interpretación coherente, de manera que los valores más altos, reflejan siempre 
+mayor competitividad. 
+
+
+Casado-Montilla et al.
+298
+ Investigaciones Geográficas, 86, 293-313
+Sobre la matriz de datos estandarizados se aplicó un ACP, técnica estadística multivariante que permite redu­
+cir la dimensionalidad del conjunto de variables originales, extrayendo un número reducido de componentes 
+que capturan la mayor parte de la varianza total del sistema (Hair et al., 2010). La elección del ACP responde 
+a su capacidad para sintetizar estructuras latentes complejas y evitar problemas de multicolinealidad, comu­
+nes en indicadores socioeconómicos interrelacionados (Abdi & Williams, 2010). El número de componentes 
+retenidos se determinó mediante el criterio de autovalores mayores que 1 (Kaiser) y el análisis del gráfico 
+scree plot (Cattell, 1966), garantizando un equilibrio entre simplificación y capacidad explicativa. 
+A partir de los componentes seleccionados, se calcularon las puntuaciones factoriales de cada región, que 
+fueron agregados mediante combinación lineal ponderada. Estos fueron reescalados linealmente en un ran­
+go de 0 a 100, con el fin de facilitar su interpretación y permitir la construcción de un índice compuesto de 
+competitividad turística. Este índice actúa como una medida sintética del desempeño turístico regional en el 
+espacio mediterráneo.
+Finalmente, se realizó una clasificación jerárquica mediante un análisis de conglomerados para identificar pa­
+trones entre regiones con perfiles de competitividad similares. Esta fase interpretativa incorpora un enfoque 
+geográfico para comprender las diferencias espaciales en el posicionamiento competitivo y ofrece insumos 
+relevantes para la planificación turística regional y las estrategias de gobernanza. Asimismo, el análisis agre­
+gado por países se ha realizado mediante el cálculo de la media aritmética de los scores regionales obteni­
+dos en el ACP mencionado anteriormente. 
+Es necesario mencionar que el presente estudio se basa únicamente en indicadores cuantitativos obtenidos 
+de fuentes estadísticas oficiales, garantizando replicabilidad y comparabilidad entre regiones. No obstante, 
+a diferencia de marcos como el European Tourism Indicator System (ETIS) o algunos esquemas propuestos 
+por ONU Turismo, no se han incorporado variables cualitativas relativas a la percepción de la sostenibilidad, 
+gobernanza o satisfacción del visitante. 
+Esta decisión se basa en la necesidad de disponer de una estadística fiable a escala regional y una con­
+sistencia metodológica del modelo. Sin embargo, se reconoce que la integración de información cualitativa 
+podría enriquecer el enfoque y apoyar la interpretación territorial de la competitividad turística.
+En suma, la metodología adoptada combina rigor estadístico, robustez comparativa y sensibilidad territorial 
+para identificar brechas territoriales, lo que permite aportar evidencias empíricas sólidas para la formulación 
+de políticas diferenciadas y sostenibles en el ámbito turístico mediterráneo.
+3. Resultados
+3.1. Ranking regional de competitividad turística
+Con el objetivo de sintetizar la información contenida en los 89 indicadores que componen los 12 pilares del 
+índice de competitividad turística, se ha aplicado un Análisis de Componentes Principales (ACP). El resultado 
+final es un ranking global de las 58 regiones mediterráneas incluidas en el estudio (Figura 1), ordenadas de 
+mayor a menor según su puntuación reescalada en el primer componente del ACP, que resume la estructura 
+general del índice de competitividad (Anexo I).
+En las primeras posiciones destacan regiones del sur de Europa con un fuerte desarrollo turístico consolida­
+do. Chipre lidera el ranking con la máxima puntuación, seguida por Cataluña y Andalucía, lo que evidencia la 
+fortaleza de España en materia turística. Les siguen Provenza-Alpes-Costa Azul en Francia y la Comunidad 
+Valenciana, completando el top 5 con puntuaciones superiores a 75, lo que indica altos niveles de competiti­
+vidad en términos globales. En general, estas regiones presentan sistemas turísticos consolidados, elevados 
+niveles de desarrollo infraestructural y mayor capacidad institucional para gestionar la actividad turística.
+En una posición intermedia aparecen regiones como Croacia Adriática, Eslovenia Occidental, Lacio o Ática, 
+que, aunque presentan un buen desempeño, reflejan una competitividad más moderada. En el extremo infe­
+rior del ranking se sitúan principalmente regiones de países del sur y este del Mediterráneo no pertenecientes 
+a la UE, como Túnez, Egipto, Líbano, Marruecos y Albania, muchas de las cuales obtienen puntuaciones 
+inferiores a 25. Monte Líbano ocupa la última posición, con una puntuación de 0, lo que refleja una brecha 
+significativa respecto a las regiones mejores posicionadas.
+El ranking pone de manifiesto una clara división geográfica entre las regiones altamente competitivas del oeste 
+del Mediterráneo (especialmente pertenecientes a la UE) y las regiones del este, que aún enfrentan importantes 
+retos en términos de desarrollo turístico, con la excepción de Chipre, que se posiciona como líder destacado.
+
+
+Territorio y competitividad turística: una lectura regional del espacio mediterráneo a través de un índice compuesto basado en ACP
+299
+ Investigaciones Geográficas, 86, 293-313
+Figura 1. Mapa del ranking global de competitividad turística de las regiones del Mediterráneo
+Elaboración propia
+3.2. Análisis comparado de la competitividad turística por países
+Con el objetivo de complementar el análisis regional y obtener una visión comparada a nivel nacional, se ha 
+calculado un índice de competitividad turística por país (Tabla 2). Para ello, se ha tomado como base el score 
+obtenido en el ACP por cada región y se ha calculado la media de los valores regionales correspondientes 
+a cada país. Este enfoque permite elaborar un ranking agregado de países mediterráneos, ofreciendo una 
+perspectiva sintética del posicionamiento relativo de cada nación en términos de competitividad turística. 
+El ranking nacional confirma la ventaja de los países del norte y oeste del Mediterráneo en competitividad 
+turística (Figura 2). Chipre se mantiene como líder absoluto, al igual que en el ranking regional. España y Fran­
+cia ocupan también posiciones destacadas, coherentes con la presencia de varias de sus regiones en el top 
+10 regional (Cataluña, Andalucía, Provenza-Alpes-Costa Azul, etc.). Croacia y Eslovenia, pese a tener menos 
+regiones analizadas, logran buenos resultados agregados, reforzando su posicionamiento.
+En cambio, países como Italia y Grecia, aunque tienen regiones bien situadas (como Lacio o Ática), descien­
+den en el ranking nacional debido a la mayor heterogeneidad y la presencia de regiones con puntuaciones 
+más bajas, lo que reduce su media. Algo similar ocurre con Israel y Malta, que logran posiciones medias 
+pese a no contar con regiones entre las mejor valoradas individualmente. Por el contrario, los países del sur 
+y este mediterráneo (Túnez, Líbano, Egipto, Marruecos) se sitúan en los últimos puestos, en línea con los 
+resultados a escala regional, donde la mayoría de sus regiones ocupan las posiciones más bajas del ranking. 
+En estos casos, la competitividad baja es tanto regional como estructural a nivel país, reflejando desafíos 
+generalizados.
+En conjunto, el análisis nacional apoya la idea de la existencia de un patrón territorial diferenciado en la 
+competitividad turística del Mediterráneo, zona en la que los países con economías más desarrolladas y 
+sistemas turísticos consolidados presentan un mejor posicionamiento que aquellos con sendas limitaciones 
+estructurales.
+
+
+Casado-Montilla et al.
+300
+ Investigaciones Geográficas, 86, 293-313
+Tabla 2. Ranking global de competitividad turística por países
+Ranking Global
+País
+Media Factor Score PCA
+Score Global
+1
+Chipre
+2,42903
+100
+2
+España
+1,536046
+78,46
+3
+Francia
+1,3239
+73,34
+4
+Croacia
+1,07553
+67,35
+5
+Eslovenia
+0,96775
+64,75
+6
+Israel
+0,55753
+54,86
+7
+Italia
+0,521528182
+53,99
+8
+Grecia
+0,461381111
+52,54
+9
+Malta
+0,23512
+47,08
+10
+Turquía
+-0,25962625
+35,15
+11
+Montenegro
+-0,40839
+31,56
+12
+Albania
+-0,7272
+23,87
+13
+Marruecos
+-0,7615025
+23,04
+14
+Egipto
+-0,958665714
+18,29
+15
+Bosnia
+-1,33708
+9,16
+16
+Túnez
+-1,482763333
+5,64
+17
+Líbano
+-1,716765
+0
+Elaboración propia
+Figura 2. Mapa del ranking global de competitividad turística por países
+Elaboración propia
+3.3. Análisis de la competitividad turística por pilares
+Además de estos dos análisis globales, se ha realizado un estudio para conocer el posicionamiento compe­
+titivo de las regiones del Mediterráneo en cada uno de los pilares que componen el índice i|ICT. Se muestran 
+a continuación los principales hallazgos.
+
+
+Territorio y competitividad turística: una lectura regional del espacio mediterráneo a través de un índice compuesto basado en ACP
+301
+ Investigaciones Geográficas, 86, 293-313
+Los resultados del Pilar 1, centrado en la calidad del entorno de negocio, presentan un patrón claramente 
+diferenciado respecto al ranking global. Israel lidera el ranking con sus dos regiones (Distrito Meridional y 
+Distrito Norte) compartiendo la primera posición, lo que indica un entorno empresarial muy favorable para el 
+desarrollo turístico. Les sigue de cerca la región de Marruecos, Tánger-Tetuán-Alhucemas, que se sitúa entre 
+las primeras posiciones. Por otro lado, las regiones de países tradicionalmente fuertes en competitividad 
+turística, como España y Francia, aparecen en posiciones intermedias, lo que sugiere que, a pesar de su 
+liderazgo general, su entorno de negocio podría no ser tan competitivo como otros factores que impulsan 
+su desempeño global.
+En contraste, la parte baja del ranking está ocupada principalmente por regiones del sur de Italia, Grecia, 
+Croacia, Albania y Bosnia y Herzegovina, con puntuaciones significativamente más bajas. Esto refleja limi­
+taciones estructurales en su entorno de negocio, como mayores barreras burocráticas, menor eficiencia 
+institucional o menor atractivo para la inversión turística privada.
+El buen posicionamiento de las regiones indicadas en este pilar viene determinado principalmente por el alto 
+rendimiento en los indicadores relacionados con el impacto de la regulación en la inversión extranjera directa 
+y la eficiencia del marco legal para resolver disputas.
+El ranking del Pilar 2 muestra un panorama completamente distinto al observado en otros pilares. En este 
+caso, Grecia se posiciona como líder destacado en seguridad, salud e higiene, con sus regiones de Ática, Ma­
+cedonia Central, Tesalia, Grecia Occidental y Creta ocupando varias de las posiciones más altas del ranking.
+También sobresalen Eslovenia Occidental, Cataluña, Murcia y Malta, consolidándose como destinos con 
+entornos seguros y saludables para los visitantes. España presenta un desempeño sólido, con todas sus 
+regiones situadas en la parte superior del ranking, lo que refuerza su imagen como destino turístico confiable 
+en términos sanitarios. En posiciones intermedias se encuentran diversas regiones italianas (Lacio, Toscana, 
+Sicilia), del sur de Francia y de Chipre, que mantienen niveles aceptables, aunque no destacan especialmen­
+te en este pilar. En este caso, el alto rendimiento de las regiones griegas se explica por el alto rendimiento de 
+los indicadores de acceso a sanitarios adecuados y acceso a agua potable, con un mayor peso en este pilar, 
+además de estar vinculados a condiciones sanitarias y de seguridad. 
+El Pilar 3, centrado en el capital humano y mercado laboral en el ámbito turístico, muestra una distribu­
+ción bastante diversa entre regiones mediterráneas. Francia lidera este pilar con sus regiones Provenza-Al­
+pes-Costa Azul y Languedoc-Rosellón ocupando las dos primeras posiciones, lo que identifica un entorno 
+laboral dinámico. Les sigue el Distrito Meridional y Norte de Israel con muy buen desempeño en ambas 
+regiones.
+Un dato especialmente destacable es el ascenso de Eslovenia Occidental (4.ª posición) y de Albania (7.ª y 
+11.ª posición para sus dos regiones), lo que indica una mejora significativa en este ámbito. España también 
+mantiene una posición fuerte, con Cataluña, Comunidad Valenciana, Andalucía, Murcia y Baleares dentro del 
+top 15, lo que confirma la robustez de su estructura laboral para sostener la actividad turística.
+En la mitad de la tabla se sitúan varias regiones italianas y griegas, con resultados sólidos, aunque más 
+moderados. La parte baja del ranking está dominada por regiones del norte de África (Túnez, Marruecos y 
+Egipto), junto con algunas regiones de Turquía y Bosnia. Los indicadores que muestran la formación perma­
+nente y la facilidad para contratar trabajadores extranjeros, vinculados a cualificación laboral y dinamismo de 
+mercado de trabajo turístico, son los que tienen más incidencia en la posición dentro del pilar. 
+El Pilar 4 evalúa el nivel de adopción y uso de tecnología en el sector turístico. Los resultados muestran una 
+clara división tecnológica en el espacio mediterráneo. Israel lidera este pilar con sus dos regiones (Distrito 
+Norte y Distrito Meridional) ocupando el primer y segundo lugar, con puntuaciones excepcionalmente altas. 
+Le siguen de cerca varias regiones francesas (Provenza-Alpes-Costa Azul, Languedoc-Rosellón y Córcega) 
+y españolas (Cataluña, Baleares, Comunidad Valenciana, Murcia y Andalucía), todas ellas con altos niveles 
+de digitalización turística.
+En posiciones medias se encuentran regiones italianas como Toscana, Lacio, Liguria y Cerdeña, junto con 
+Croacia y Montenegro, que muestran avances, aunque todavía con margen de mejora. En cambio, las re­
+giones del sur y este del Mediterráneo, especialmente de Grecia, Turquía, Egipto, Túnez, Albania y Líbano, 
+ocupan las posiciones más bajas. En el caso de Líbano, ambas regiones cierran el ranking, evidenciando 
+graves deficiencias en digitalización.
+
+
+Casado-Montilla et al.
+302
+ Investigaciones Geográficas, 86, 293-313
+En resumen, este pilar pone de manifiesto una brecha digital significativa en el Mediterráneo. Mientras que 
+las regiones del norte y oeste avanzan hacia un modelo tecnológico, muchas aún enfrentan desafíos impor­
+tantes en materia de infraestructura, capacitación y acceso a tecnologías, como puede ser el simple uso de 
+la red para las transacciones con consumidores o el uso de TICs por parte de las empresas para disponer 
+de servicios digitales. 
+El Pilar 5 mide el grado en que las regiones priorizan el turismo como sector estratégico, evaluando el esfuer­
+zo institucional, las políticas públicas específicas y el nivel de inversión destinado al desarrollo turístico. Es­
+paña domina claramente este ranking: sus cinco regiones mediterráneas (Islas Baleares, Comunidad Valen­
+ciana, Andalucía, Cataluña y Murcia) ocupan las cinco primeras posiciones con puntuaciones notablemente 
+superiores al resto. Este liderazgo absoluto evidencia un fuerte respaldo institucional al turismo, con políticas 
+activas de promoción y apoyo empresarial.
+En el grupo de cabeza también destacan varias regiones de Grecia, como Egeo Meridional, Islas Jónicas, 
+Creta o Ática, que se sitúan entre las 15 primeras. Esto sugiere un enfoque estratégico y sostenido en el 
+fomento del turismo. Francia, por su parte, presenta un buen desempeño con Córcega, Languedoc-Rosellón 
+y Provenza-Alpes-Costa Azul bien posicionadas.
+En posiciones intermedias aparecen regiones italianas (principalmente del sur), turcas y Malta, lo que indica 
+una priorización del turismo más variable y dependiente del contexto regional. En el otro extremo, las regio­
+nes del norte de África, Balcánicos y Líbano aparecen sistemáticamente en los últimos puestos del ranking. 
+El liderazgo de las regiones que ocupan la parte alta de la clasificación española en este pilar se ha asociado 
+a un alto desempeño en varios de los indicadores que lo componen, relacionados con la priorización política 
+del turismo, el esfuerzo promovido en la promoción o la inversión institucional en el área. Las regiones de 
+la parte baja de la clasificación (Bosnia, Montenegro, varias regiones egipcias y prácticamente toda Túnez) 
+muestran valores inferiores con respecto a estos indicadores.
+El Pilar 6 analiza la competitividad de las regiones mediterráneas en relación con los precios turísticos, con­
+siderando aspectos como alojamiento, tasas o combustible. Malta se sitúa en la primera posición del ranking 
+con la máxima puntuación, seguida de las cinco regiones mediterráneas de España (Cataluña, Comunidad 
+Valenciana, Baleares, Andalucía y Murcia), todas ellas con puntuaciones muy próximas. Esto sugiere que 
+estos destinos, pese a su elevada demanda y consolidación turística, mantienen una estructura de precios 
+competitiva en relación con el conjunto del Mediterráneo.
+También destacan con valores elevados las regiones de Líbano, Turquía, Montenegro y Grecia. Estos resulta­
+dos apuntan a una cierta homogeneidad en los precios turísticos dentro del área mediterránea. Italia se en­
+cuentra en una posición intermedia-alta. A pesar de su reputación como destino turístico de alto coste, estos 
+datos sugieren una relación calidad-precio más equilibrada. En un rango similar se sitúan Croacia, Marruecos 
+y Túnez, que mantienen niveles de precios relativamente competitivos.
+Por otro lado, Francia presenta puntuaciones algo inferiores, si bien aún dentro de un margen alto, lo que 
+indica precios más elevados. Las regiones de Egipto se encuentran ligeramente por debajo de la media, 
+mientras que Albania y Bosnia presentan puntuaciones más bajas, aunque aún dentro de un rango aceptable. 
+Las distinciones que son observadas en este pilar están relacionadas con el comportamiento en particular de 
+las tasas aeroportuarias, que presenta variaciones relevantes entre regiones. Las mejores regiones muestran 
+valores más competitivos de estos componentes, mientras que territorios como Chipre tienen costes relati­
+vos más elevados, lo que justifica su puntuación menor en la dimensión de precios turísticos.
+El Pilar 7 evalúa la ordenación del espacio turístico en las regiones mediterráneas. En primer lugar, destaca 
+con gran diferencia Chipre, que lidera el ranking con un factor score significativamente superior al resto. A 
+gran distancia, le siguen tres regiones de Francia (Córcega, Languedoc-Rosellón y Provenza-Alpes-Costa 
+Azul), así como Eslovenia Occidental y Cerdeña (Italia). Estos resultados apuntan a una mejor estructuración 
+del espacio turístico en regiones donde el equilibrio entre desarrollo urbano, preservación ambiental y fun­
+cionalidad turística es prioritario.
+Israel, con sus dos regiones incluidas, se posiciona también en el grupo de cabeza, seguido de forma más 
+moderada por algunas regiones de Italia y España, como Comunidad Valenciana, Baleares y Andalucía. Sin 
+embargo, la mayoría de regiones españolas presentan puntuaciones medias o bajas, lo que indica una cierta 
+fragmentación en los niveles de ordenación del territorio turístico. En contraste, regiones de Grecia, Turquía 
+y países del norte de África como Marruecos, Túnez o Egipto presentan resultados más modestos.
+
+
+Territorio y competitividad turística: una lectura regional del espacio mediterráneo a través de un índice compuesto basado en ACP
+303
+ Investigaciones Geográficas, 86, 293-313
+En las últimas posiciones del ranking se encuentran regiones de Egipto, Albania, Líbano y Bosnia, con pun­
+tuaciones muy reducidas. Estos resultados reflejan una clara debilidad en la ordenación del espacio turístico, 
+principalmente en los indicadores de regulación ambiental, la ratificación de tratados ambientales o el trata­
+miento de aguas residuales.
+El Pilar 8, sobre transporte aéreo, revela importantes contrastes entre las regiones del Mediterráneo. En pri­
+mera posición se encuentra el Egeo Meridional (Grecia), seguida por Islas Baleares (España). En este sentido 
+y en última instancia, se confirma una gran importancia del tráfico aéreo en esta región insular, mostrando 
+una sólida estructura de su red aeroportuaria y el peso del turismo internacional. Le siguen Córcega (Francia) 
+e Islas Jónicas (Grecia), lo que consolida una tendencia: las regiones insulares y costeras con gran afluencia 
+turística internacional tienden a liderar este pilar. 
+Los últimos puestos están ocupados por regiones como Monte Líbano (Líbano), Nabeul (Túnez) y Albania 
+del Sur, que poseen los valores más bajos. Las diferencias encontradas en este pilar tienen una asociación 
+principal con el comportamiento que mide la calidad e infraestructura aeroportuaria. Este indicador muestra 
+grados de diferencias importantes entre regiones. Las áreas insulares mejor posicionadas tienen muy buenos 
+valores en este componente, mientras que las regiones peor posicionadas en el ranking muestran valores 
+muy bajos.
+El Pilar 9, sobre transporte marítimo y terrestre, refleja importantes diferencias entre las regiones del Medite­
+rráneo en cuanto a conectividad y accesibilidad por medios terrestres y portuarios. La región mejor posicio­
+nada es Chipre, que lidera el ranking, situándose muy por encima del resto por su carácter insular y su fuerte 
+dependencia de la infraestructura portuaria. A continuación, se sitúan las regiones de España. Las regiones 
+de Francia, como Languedoc-Rosellón, Provenza-Alpes-Costa Azul y Córcega, también presentan buenos 
+resultados, reforzando el papel estratégico del arco mediterráneo en materia logística. 
+Por su parte, algunas regiones de Israel, Eslovenia e Italia mantienen posiciones intermedias, lo que indica 
+una infraestructura adecuada, pero con margen de mejora. En el bloque medio-bajo del ranking aparecen 
+regiones de Turquía, Egipto y Marruecos. Aunque estas zonas cuentan con ciertas infraestructuras, los da­
+tos sugieren limitaciones en la integración de sus redes de transporte. Por debajo de este grupo, muchas 
+regiones de Grecia, Malta y los Balcanes muestran puntuaciones considerablemente bajas, lo que pone de 
+manifiesto retos en su geografía.
+Finalmente, las últimas posiciones del ranking las ocupan regiones de Túnez, Bosnia y Líbano, con puntua­
+ciones muy reducidas, evidenciando carencias notables en infraestructura portuarias, viarias y ferroviarias, 
+es decir, con peores valores en sus indicadores.
+El Pilar 10 hace referencia a equipamiento turístico. El análisis revela una marcada heterogeneidad entre las 
+regiones, con claras diferencias en la dotación de recursos turísticos básicos que inciden directamente en la 
+experiencia del visitante. Croacia Adriática lidera de forma destacada el ranking con un factor score muy por 
+encima del resto, lo que refleja una excelente dotación de equipamiento turístico. Le siguen, con puntuacio­
+nes muy similares y también elevadas, las regiones españolas, lo que evidencia la alta capacidad turística del 
+litoral mediterráneo español.
+También destacan positivamente varias regiones de Francia (Languedoc-Rosellón, Provenza-Alpes-Costa 
+Azul y Córcega), y los dos distritos israelíes, lo que subraya la fortaleza de estos destinos en términos de 
+servicios y facilidades para el turista. Asimismo, Turquía obtiene buenos resultados en diversas regiones. Por 
+su parte, Italia presenta una buena dotación, aunque sin alcanzar los niveles más altos, manteniéndose en 
+una franja intermedia-alta. Asimismo, Eslovenia y algunas regiones griegas como Grecia Occidental, Creta o 
+las Islas Jónicas muestran resultados positivos, si bien con puntuaciones algo más moderadas.
+En el extremo opuesto, aparecen numerosas regiones con valores bajos que reflejan déficits significativos en 
+equipamiento turístico, reflejado de manera ponderada por todos indicadores del pilar. Entre ellas se encuen­
+tran regiones de Túnez, Egipto, Líbano, Albania y Bosnia, muchas de las cuales se concentran en la parte 
+baja del ranking. Estos resultados sugieren importantes limitaciones en la oferta de servicios turísticos y su 
+calidad, lo que puede actuar como freno al desarrollo turístico sostenible en estas áreas.
+El Pilar 11 recoge datos sobre recursos naturales, evaluando el potencial turístico natural de las regiones del 
+Mediterráneo. En esta clasificación, la región mejor posicionada es la Costa Adriática de Croacia, confirmando 
+el importante valor paisajístico y ambiental de esta región. Le siguen varias regiones españolas con destacadas 
+
+
+Casado-Montilla et al.
+304
+ Investigaciones Geográficas, 86, 293-313
+puntuaciones: Andalucía, Cataluña, Comunidad Valenciana y Murcia. Estos buenos resultados reflejan la 
+amplia red de espacios naturales protegidos y la consolidación del turismo activo y de naturaleza en España.
+Entre las diez primeras posiciones también se encuentran regiones de Grecia como Macedonia Central, Te­
+salia y Grecia Occidental, junto con la región PACA en Francia, la Toscana y Eslovenia Occidental. Italia ocu­
+pa muchas posiciones intermedias con regiones como Sicilia y Apulia, evidenciando una notable diversidad 
+natural y una oferta turística bien desarrollada, aunque algo desigual en algunos territorios.
+Las Baleares y Córcega también destacan como islas con buena conservación ambiental, aunque por debajo 
+de otras regiones continentales de sus respectivos países. En contraste, los últimos lugares del ranking lo 
+ocupan regiones de países del sur y este del Mediterráneo. Bosnia cierra la tabla con la puntuación más baja, 
+seguida por Líbano, varias regiones de Turquía y de Túnez. Estas bajas posiciones podrían reflejar un menor 
+nivel de protección o visibilidad de sus recursos naturales, además de una oferta turística de naturaleza 
+menos desarrollada o con menor demanda internacional, sin ser determinante en las mejores posiciones la 
+existencia de parajes naturales Patrimonio de la Humanidad.
+El Pilar 12 recoge el ranking correspondiente a recursos culturales y recreativos. En este ranking, Cataluña 
+(España) se posiciona como la región más competitiva del Mediterráneo en este ámbito. Este resultado des­
+taca la importancia del patrimonio cultural material e inmaterial catalán, su amplia red de museos y teatros, 
+así como su dinamismo en eventos culturales y recreativos. Le siguen también en muy buena posición otras 
+regiones españolas como Andalucía, Comunidad Valenciana, Murcia y, con una puntuación más moderada, 
+Baleares, lo que consolida a España como uno de los países con mayor dotación y aprovechamiento turísti­
+co de sus recursos culturales.
+Croacia se sitúa en tercera posición gracias a la región de la Costa Adriática. Francia también logra destacar 
+con las regiones de PACA y Languedoc-Rosellón, que se benefician de una oferta cultural consolidada y muy 
+integrada en su modelo turístico. Italia ocupa varias posiciones destacadas con regiones como Toscana, La­
+cio, Campania y Sicilia, confirmando su tradicional potencia en cuanto a patrimonio histórico. Turquía entra 
+en el top 10 con Estambul, una ciudad histórica con una oferta diversa de atracciones culturales y recreativas.
+Por su parte, Grecia obtiene una posición intermedia en regiones como Ática, Macedonia Central o Tesalia, 
+aunque su rendimiento decrece significativamente en islas como Creta, Islas Jónicas o el Egeo Septentrional, 
+a pesar de su potencial patrimonial. En contraste, los últimos puestos del ranking reflejan regiones con baja 
+dotación o escasa valorización turística de sus recursos culturales. Es el caso de Túnez, cuyas regiones ocu­
+pan 8 de los 10 últimos lugares. Líbano, Montenegro, Albania y la región egipcia de Matrú también presentan 
+puntuaciones muy bajas. De nuevo, al igual que en el pilar anterior, el hecho de contar con Bienes culturales 
+Patrimonio de la Humanidad no es relevante para su posicionamiento.
+A modo de conclusión, el ranking global de competitividad turística para los países del Mediterráneo estudia­
+dos sitúa a Chipre en el primer puesto, destacando por su extraordinaria puntuación media en los factores 
+analizados, particularmente en pilares como la ordenación del espacio turístico (Pilar 7) y transporte terrestre 
+y marítimo (Pilar 9). España, aunque segunda en el ranking general, presenta un perfil altamente equilibrado, 
+posicionándose en el top 3 en numerosos pilares, como equipamiento turístico (P10), recursos culturales y 
+recreativos (P12), y priorización del turismo (P5), lo que subraya su madurez como destino turístico integral. 
+Le siguen Francia, Croacia, Eslovenia y Grecia, con perfiles diferenciados pero sólidos, posicionándose lí­
+deres en pilares como capital humano y mercado laboral (P3), recursos naturales (P11), seguridad, salud e 
+higiene (P2) y transporte aéreo (P8), respectivamente.
+El análisis por pilares evidencia la diversidad en las fortalezas estructurales y funcionales de los países. Israel 
+lidera en integración tecnológica (P4) y seguridad, salud e higiene (P2), mostrando una apuesta por la inno­
+vación y bienestar del turista. Croacia se destaca en recursos naturales (P11), equipamiento turístico (P10) y 
+recursos culturales y recreativos (P12), elementos clave para su posicionamiento turístico. Malta, a pesar de 
+una posición intermedia en el ranking global, se sitúa primera en precios turísticos (P6), un factor competitivo 
+en mercados sensibles al coste. Por otro lado, países como Túnez, Egipto, Líbano y Bosnia se sitúan siste­
+máticamente en las posiciones más bajas del ranking general y de muchos pilares, mostrando carencias en 
+infraestructura, gobernanza turística y dotación de recursos culturales y naturales.
+En términos de oportunidades, los resultados sugieren que mientras los países del norte y occidente del 
+Mediterráneo presentan una competitividad más consolidada y homogénea, los del sur y este muestran un 
+potencial aún no capitalizado, especialmente en pilares clave como transporte aéreo, recursos culturales, y 
+seguridad, salud e higiene. 
+
+
+Territorio y competitividad turística: una lectura regional del espacio mediterráneo a través de un índice compuesto basado en ACP
+305
+ Investigaciones Geográficas, 86, 293-313
+4. Discusión
+Los resultados de este estudio permiten profundizar en la comprensión de la competitividad turística desde 
+una perspectiva territorial, confirmando la utilidad del ACP como herramienta estadística idónea para sinte­
+tizar información multivariable y revelar patrones espaciales latentes, tal como han señalado Abdi y Williams 
+(2010) y Hair et al. (2010). La robustez del índice construido se manifiesta en su capacidad para ordenar 
+de forma coherente las regiones del Mediterráneo, poniendo en evidencia no solo el grado de desempeño 
+turístico de cada territorio, sino también las lógicas estructurales y espaciales que lo condicionan. La dis­
+tribución desigual identificada refuerza el enfoque de competitividad territorial, entendiendo el desempeño 
+competitivo como el resultado de la capacidad del territorio para organizar y movilizar sus recursos de 
+manera eficiente (Camagni, 2002; 2008). Dicho esto, los resultados que se han alcanzado sugieren que las 
+principales diferencias observadas dan respuesta no sólo la existencia de recursos turísticos, sino a factores 
+estructurales e institucionales que condicionan el desarrollo competitivo regional.
+A diferencia de aproximaciones agregadas de carácter nacional, el enfoque regional adoptado permite captar 
+con mayor precisión las disparidades intraestatales, resaltando que la competitividad no es homogénea den­
+tro de un mismo país. Esto resulta particularmente evidente en el caso de Italia y Grecia, donde conviven re­
+giones altamente posicionadas con otras claramente rezagadas, un fenómeno que pone de relieve la vigen­
+cia de los planteamientos de Rodríguez-Pose (2013) en torno a la dependencia del camino (path dependent), 
+y la persistencia de estructuras institucionales dispares dentro de un mismo marco nacional. Esta evidencia 
+pone de manifiesto los planteamientos que resaltan la importancia de la escala regional en el análisis de la 
+competitividad turística, capturando con más precisión las dinámicas territoriales que influyen en la misma 
+(Hall, 2007; OECD, 2022). De hecho, los resultados confirman que la competitividad turística responde a 
+configuraciones territoriales específicas y no a escalas nacionales (Romão et al., 2013; Barrado, 2016).
+Asimismo, el análisis muestra que la competitividad turística responde a la interacción compleja entre dimen­
+siones tangibles (como la infraestructura de transporte o el equipamiento turístico) e intangibles (como la ca­
+lidad del entorno institucional o la gobernanza territorial), en línea con los marcos conceptuales propuestos 
+por Crouch (2011) y Dwyer y Kim (2003). De hecho, las regiones mejor posicionadas combinan altos niveles 
+de dotación física con marcos institucionales estables y políticas públicas proactivas, lo que refuerza la tesis 
+de que la competitividad es un fenómeno sistémico.
+Otro aspecto relevante es la identificación de patrones similares en territorios que comparten perfiles de 
+desempeño turístico. Esta agrupación no es aleatoria, sino que refleja dinámicas geográficas, históricas y 
+políticas comunes, como había anticipado la literatura de base territorial (Martín et al., 2017; Romão et al., 
+2013). La proximidad geoespacial no siempre implica similitud en la competitividad, lo que sugiere que los 
+modelos de desarrollo turístico están mediados por factores institucionales y de planificación diferenciados. 
+Este patrón es coherente con planteamientos de la geografía económica regional, los cuales destacan el ca­
+rácter condicionado territorialmente de la competitividad turística (Hall, 2007). La concentración de regiones 
+con perfiles competitivos similares muestra la influencia de factores estructurales e institucionales compar­
+tidos (Barrado, 2016)
+Además, la divergencia observada en los resultados por pilares indica que algunas regiones presentan ven­
+tajas comparativas específicas (por ejemplo, en precios o recursos culturales) que no siempre se traducen 
+en una competitividad global elevada. Este desajuste evidencia la necesidad de incorporar indicadores es­
+tructuralmente sensibles al contexto territorial, tal como advierten Hefny (2024) o Huang y Liu (2024), evitan­
+do interpretaciones simplistas que asocien la competitividad únicamente con el crecimiento turístico. Este 
+carácter multidimensional casa con los modelos teóricos que conciben la competitividad turística como un 
+fenómeno sistémico y la interacción entre factores territoriales, institucionales y económicos (Dwyer y Kim, 
+2003; Crouch, 2011).
+Finalmente, el estudio constata que la brecha entre regiones del norte y del sur del Mediterráneo no solo 
+responde a diferencias en recursos o demanda, sino a factores más profundos vinculados con capacidades 
+institucionales, acceso a financiación, planificación territorial y gobernanza multinivel. En conjunto, los resul­
+tados apoyan los planteamientos teóricos que conciben la competitividad como un proceso condicionado 
+por el territorio, en el que el desempeño de las regiones va a depender de cómo interactúan los elementos 
+estructurales, espaciales e institucionales (Rodríguez-Pose, 2013). Así, el componente territorial no solo per­
+mite explicar el posicionamiento competitivo, sino que también señala el camino para repensar las estrate­
+gias turísticas bajo una lógica más equitativa, resiliente y alineada con las exigencias del desarrollo sostenible. 
+
+
+Casado-Montilla et al.
+306
+ Investigaciones Geográficas, 86, 293-313
+Siguiendo esta afirmación, las diferencias que se dilucidan entre regiones en variables relacionadas con go­
+bernanza, capital humano, entorno institucional e infraestructuras ponen en evidencia que es necesaria una 
+consolidación de capacidades estructurales territoriales, no dependiendo únicamente de un crecimiento de 
+la demanda. Así, se apoyan los planteamientos de Camagni (2008) y Rodríguez-Pose (2013) que destacan la 
+relación entre capital territorial, cohesión regional y desarrollo sostenible.
+5. Conclusiones
+Los hallazgos de esta investigación han permitido validar las cinco hipótesis planteadas a su inicio. En primer 
+lugar, la aplicación del ACP permitió identificar una estructura latente robusta que sintetiza de forma eficaz 
+los 89 indicadores empleados, explicando una elevada proporción de la varianza total (H1). Es necesario 
+anotar que esta hipótesis no se ha formulado con el fin de demostrar la validez del ACP como técnica esta­
+dística, hecho demostrado por Hair et al. (2010), sino aplicarla en un nuevo contexto territorial.
+En segundo lugar, los resultados del índice muestran una clara heterogeneidad territorial, reflejada en la con­
+formación de perfiles regionales diferenciados a lo largo del Mediterráneo, lo que confirma la hipótesis de que 
+no existe un comportamiento homogéneo en términos de competitividad (H2). 
+Asimismo, las regiones con mayor desarrollo económico, infraestructura consolidada y gobernanza eficiente 
+(correspondientes a Chipre, España o Francia) ocupan las primeras posiciones del ranking, lo que avala la 
+relación positiva entre estos factores estructurales y la competitividad turística (H3). 
+Igualmente, el estudio revela divergencias significativas entre las subregiones del Mediterráneo (norte, sur y 
+este) asociadas a distintos modelos turísticos, niveles de inversión y contextos institucionales, lo que respal­
+da la influencia determinante del componente territorial en el posicionamiento competitivo (H4). 
+En definitiva, el índice compuesto elaborado no solo permite clasificar de manera precisa las regiones, sino 
+también identificar fortalezas y debilidades específicas en cada uno de los pilares analizados, dotando a los 
+responsables públicos de una herramienta útil para la toma de decisiones estratégicas, tal como postulaba 
+la quinta hipótesis (H5). En conjunto, los hallazgos empíricos confirman la solidez del enfoque metodológico 
+adoptado y la pertinencia de las hipótesis en la explicación de las disparidades territoriales en la competiti­
+vidad turística mediterránea.
+La competitividad turística presenta una distribución territorialmente desigual en el Mediterráneo, con una 
+clara polarización entre regiones con economías más diversificadas, infraestructuras consolidadas y políticas 
+turísticas sostenidas en el tiempo, frente a territorios con menor articulación institucional y dependencia de 
+modelos turísticos estacionales o de bajo valor añadido. Los hallazgos obtenidos reflejan que los componen­
+tes más determinantes están vinculados a la conectividad, la innovación turística, la sostenibilidad ambiental 
+y la gobernanza territorial. Dicho esto, los resultados muestran una brecha significativa entre las regiones del 
+norte y sur del Mediterráneo, justificada, principalmente, por diferencias estructurales los citados indicadores.
+No obstante, el modelo propuesto no está exento de limitaciones. La disponibilidad de información y la 
+homogeneidad de datos estadísticos a escala NUTS-2 ha sido una de ellas. Por otro lado, el enfoque com­
+pletamente cuantitativo puede suponer un hándicap para la interpretación total de las regiones, al no contar 
+con información basada en la percepción de la sostenibilidad, la calidad de la gobernanza y/o el grado de 
+cooperación público-privada. En futuras investigaciones, se podrían abordar estas dimensiones mediante 
+la inclusión de indicadores cualitativos o dinámicos para captar la evolución temporal de la competitividad.
+Como en toda investigación que se preste, la metodología propuesta es plenamente replicable en otros 
+contextos turísticos regionales. Su aplicabilidad empírica, gracias a su fundamento estadístico la convierten 
+en una herramienta útil para el análisis comparativo de destinos en regiones de todo el mundo, donde las 
+dinámicas territoriales, institucionales y de desarrollo turístico presentan patrones análogos.
+Los resultados de este estudio permiten proponer una serie de orientaciones estratégicas para las políticas 
+turísticas regionales. La competitividad ha de considerarse partiendo de la idea de inteligencia territorial, 
+combinando análisis basados en datos, planificación a diferentes escalas y cooperación entre actores pú­
+blicos y privados. Esto conlleva a crear estrategias diferenciadas según las características de cada territorio, 
+reforzar la cohesión y cooperación interregional e impulsar sistemas de observación, análisis y evaluación 
+continua de la competitividad. 
+
+
+Territorio y competitividad turística: una lectura regional del espacio mediterráneo a través de un índice compuesto basado en ACP
+307
+ Investigaciones Geográficas, 86, 293-313
+Finalmente, y como apunte prioritario, es necesario equilibrar la inversión en infraestructuras, digitalización 
+y capital humano, además de integrar la sostenibilidad y la gobernanza multinivel como principios estructu­
+rales de las políticas turísticas. En conjunto, estas acciones pueden contribuir a fortalecer las capacidades 
+institucionales, mejorar la sostenibilidad de los destinos y garantizar un desarrollo turístico equitativo e inte­
+grado adecuadamente en el territorio. 
+Contribución de autoría 
+•	Conceptualización: idea y diseño del estudio. – Jairo Casado-Montilla y Juan Ignacio Pulido Fernández
+•	Curación de datos: organización, gestión y mantenimiento de datos. – María de la Cruz Pulido-Fernández 
+e Isabel Carrillo-Hidalgo
+•	Análisis formal: aplicación de técnicas estadísticas o matemáticas. – Juan Ignacio Pulido-Fernández 
+•	Investigación: realización de experimentos o recopilación de datos. – Jairo Casado-Montilla 
+•	Metodología: desarrollo y diseño de los métodos utilizados. – Juan Ignacio Pulido-Fernández y María de la 
+Cruz Pulido-Fernández
+•	Administración del proyecto: supervisión y coordinación del estudio. – Jairo Casado-Montilla 
+•	Software: desarrollo o programación de herramientas informáticas. – Isabel Carrillo-Hidalgo y Juan Ignacio 
+Pulido-Fernández
+•	Supervisión: dirección y liderazgo en el estudio. – Jairo Casado-Montilla 
+•	Validación: verificación de la reproducibilidad de los resultados. – María de la Cruz Pulido-Fernández e 
+Isabel Carrillo-Hidalgo 
+•	Visualización: creación de gráficos o figuras. – María de la Cruz Pulido-Fernández
+•	Redacción – borrador original: redacción inicial del manuscrito. Juan Ignacio Pulido-Fernández
+•	Redacción – revisión y edición: revisión crítica y ajustes al texto. Jairo Casado-Montilla
+Anexos
+Anexo I. Ranking global de competitividad turística de las regiones del Mediterráneo
+Ranking 
+Global
+NUTS2
+País
+Región
+Factor Score 
+ACP
+Score Global
+1
+CY00
+Chipre
+Chipre
+2,42903
+100
+2
+ES51
+España
+Cataluña
+1,89351
+87,57
+3
+ES61
+España
+Andalucía
+1,6746
+82,48
+4
+FRL0
+Francia
+Provenza-Alpes-Costa Azul
+1,57156
+80,09
+5
+ES52
+España
+Comunidad Valenciana
+1,51437
+78,76
+6
+FRJ1
+Francia
+Languedoc-Rosellón
+1,37229
+75,46
+7
+ES53
+España
+Baleares
+1,31887
+74,22
+8
+ES62
+España
+Murcia
+1,27888
+73,29
+9
+HR03
+Croacia
+Croacia Adriática
+1,07553
+68,57
+10
+FRM0
+Francia
+Córcega
+1,02785
+67,47
+11
+SI04
+Eslovenia
+Eslovenia Occidental
+0,96775
+66,07
+12
+ITI4
+Italia
+Lacio
+0,86382
+63,66
+13
+ITI1
+Italia
+Toscana
+0,8612
+63,60
+14
+EL30
+Grecia
+Ática
+0,82704
+62,80
+15
+EL52
+Grecia
+Macedonia Central
+0,6908
+59,64
+16
+IS02
+Israel
+Distrito Meridional (Israel)
+0,63931
+58,44
+17
+ITC3
+Italia
+Liguria
+0,62146
+58,03
+18
+ITG1
+Italia
+Sicilia
+0,57724
+57,00
+
+
+Casado-Montilla et al.
+308
+ Investigaciones Geográficas, 86, 293-313
+19
+ITF3
+Italia
+Campania
+0,57153
+56,87
+20
+ITG2
+Italia
+Cerdeña
+0,55553
+56,50
+21
+EL42
+Grecia
+Egeo Meridional
+0,53614
+56,05
+22
+IS05
+Israel
+Distrito Norte (Israel)
+0,47575
+54,65
+23
+ITF4
+Italia
+Apulia
+0,46556
+54,41
+24
+EL43
+Grecia
+Creta
+0,45527
+54,17
+25
+EL61
+Grecia
+Tesalia
+0,44748
+53,99
+26
+EL62
+Grecia
+Islas Jónicas
+0,41839
+53,32
+27
+ITF1
+Italia
+Abruzos
+0,36743
+52,13
+28
+ITF6
+Italia
+Calabria
+0,36541
+52,08
+29
+EL63
+Grecia
+Grecia Occidental
+0,30624
+50,71
+30
+ITF2
+Italia
+Molise
+0,26926
+49,85
+31
+EL65
+Grecia
+Peloponeso
+0,26454
+49,74
+32
+MT00
+Malta
+Malta
+0,23512
+49,06
+33
+ITF5
+Italia
+Basilicata
+0,21837
+48,67
+34
+EL41
+Grecia
+Egeo Septentrional
+0,20653
+48,40
+35
+TR10
+Turquía
+Estambul
+0,12594
+46,52
+36
+TR31
+Turquía
+Esmirna
+-0,13316
+40,51
+37
+TR61
+Turquía
+Antalya, Isparta, Burdur
+-0,15536
+39,99
+38
+TR32
+Turquía
+Aydin, Denizli, Mugla
+-0,2511
+37,77
+39
+TR62
+Turquía
+Adana, Mersin
+-0,31477
+36,29
+40
+ME00
+Montenegro
+Montenegro
+-0,40839
+34,12
+41
+TR22
+Turquía
+Balikesir, Çanakkale
+-0,43484
+33,50
+42
+TR21
+Turquía
+Tekirdag, Edirne, Kirklareli
+-0,44911
+33,17
+43
+TR63
+Turquía
+Hatay, Kahramanmaraş, Osmaniye
+-0,46461
+32,81
+44
+AL02
+Albania
+Albania Central
+-0,59994
+29,67
+45
+EG02
+Egipto
+Alejandría
+-0,78306
+25,42
+46
+MA01
+Marruecos
+Tánger-Tetuán-Alhucemas
+-0,79962
+25,03
+47
+AL03
+Albania
+Albania del Sur
+-0,85446
+23,76
+48
+EG03
+Egipto
+Puerto Saíd
+-0,93159
+21,97
+49
+TN23
+Túnez
+Túnez
+-1,09995
+18,06
+50
+EG33
+Egipto
+Matrú
+-1,10104
+18,04
+51
+BIH2
+Bosnia
+Federación de Bosnia y 
+Herzegovina
+-1,33708
+12,55
+52
+TN20
+Túnez
+Susa
+-1,43961
+10,17
+53
+TN15
+Túnez
+Monastir
+-1,48704
+9,07
+54
+LB01
+Líbano
+Beirut
+-1,55573
+7,48
+55
+TN16
+Túnez
+Nabeul
+-1,574
+7,05
+56
+TN12
+Túnez
+Medenine
+-1,59109
+6,66
+57
+TN05
+Túnez
+Gabes
+-1,70489
+4,01
+58
+LB03
+Líbano
+Monte Líbano
+-1,8778
+0
+Elaboración propia
+
+
+Territorio y competitividad turística: una lectura regional del espacio mediterráneo a través de un índice compuesto basado en ACP
+309
+ Investigaciones Geográficas, 86, 293-313
+Anexo II. Indicadores de competitividad turística
+Pilar
+ID
+País
+Fuente
+1. Entorno de 
+negocio
+1.1
+Derechos de propiedad
+World Economic Forum
+1.2
+Impacto de la regulación en la inversión 
+extranjera directa
+World Economic Forum
+1.3
+Eficiencia del marco legal para resolver disputas
+World Economic Forum
+1.4
+Eficiencia del marco legal para desafiar 
+acciones/regulaciones gubernamentales
+World Economic Forum
+1.5
+Tiempo necesario para tramitar licencias de obra
+Banco Mundial
+1.6
+Coste de tramitar licencias de obra
+Banco Mundial
+1.7
+Poder de mercado de las empresas
+World Economic Forum
+1.8
+Tiempo necesario para iniciar un negocio
+Banco Mundial
+1.9
+Coste de iniciar un negocio
+Banco Mundial
+1.10
+Efectos del sistema fiscal sobre el empleo
+World Economic Forum
+1.11
+Efectos del sistema fiscal sobre la inversión
+World Economic Forum
+1.12
+Grado de presión fiscal
+Banco Mundial
+2. Seguridad, 
+salud e higiene
+2.1
+Costes empresariales de la violencia y la 
+delincuencia
+World Economic Forum
+2.2
+Fiabilidad de los servicios policiales
+World Economic Forum
+2.3
+Costes empresariales del terrorismo
+World Economic Forum
+2.4
+Incidencia del terrorismo
+Datos de Global Terrorism Database
+2.5
+Tasa de homicidios
+OCDE
+2.6
+Densidad de médicos
+Eurostat
+2.7
+Acceso a sanitarios adecuados
+OMS
+2.8
+Acceso a agua potable
+OMS
+2.9
+Camas de hospital
+Eurostat
+3. Capital 
+humano y 
+mercado 
+laboral
+3.1
+Tasa de escolarización (4 años)
+Eurostat
+3.2
+Tasa de escolarización (17 años)
+Eurostat
+3.3
+Formación permanente
+Datos de World Economic Forum y 
+Eurostat
+3.4
+Trato con el cliente
+World Economic Forum
+3.5
+Facilidad de contratación y despido
+World Economic Forum
+3.6
+Facilidad para encontrar trabajadores 
+cualificados
+Eurostat
+3.7
+Facilidad para contratar trabajadores extranjeros
+World Economic Forum
+3.8
+Vinculación del salario a la productividad
+World Economic Forum
+3.9
+Participación laboral femenina
+Eurostat
+4. Integración 
+tecnológica
+4.1
+Uso de TIC para las transacciones entre 
+negocios
+World Economic Forum
+4.2
+Uso de la red para las transacciones con 
+consumidores
+World Economic Forum
+4.3
+Uso de la red entre la población
+Eurostat
+4.4
+Penetración de la banda ancha
+Eurostat
+4.5
+Penetración de la telefonía móvil
+International Telecommunication Union
+4.6
+Penetración de la banda ancha móvil
+Datos de International 
+Telecommunication Union y Eurostat
+4.7
+Cobertura móvil
+International Telecommunication Union
+4.8
+Calidad del suministro energético
+World Economic Forum
+
+
+Casado-Montilla et al.
+310
+ Investigaciones Geográficas, 86, 293-313
+5. Priorización 
+del turismo
+5.1
+Prioridad política del turismo
+World Economic Forum
+5.2
+Gasto público en turismo 
+World Travel and Toursim Council via 
+World Economic Forum
+5.3
+Capacidad de las campañas de marketing para 
+atraer turistas
+World Economic Forum
+5.4
+Importancia del turismo
+Eurostat
+5.5
+Disponibilidad de información turística
+UNWTO via World Economic Forum
+5.6
+Retraso en la publicación de información 
+turística
+UNWTO via World Economic Forum
+5.7
+Estrategia de marca del país
+Bloom Consulting
+5.8
+Requerimientos de visados
+UNWTO via World Economic Forum
+5.9
+Grado de apertura de los servicios aéreos
+Organización Mundial del Comercio via 
+World Economic Forum
+5.10
+Acuerdos comerciales
+Organización Mundial del Comercio via 
+World Economic Forum
+6. Precios
+6.1
+Tasas aeroportuarias
+IATA via World Economic Forum
+6.2
+Índice de precios hoteleros
+Deloitte - STR Global via World 
+Economic Forum
+6.3
+Paridad del poder de compra
+Eurostat
+6.4
+Precio del combustible
+GIZ
+7. Ordenación 
+del espacio 
+turístico
+7.1
+Grado de rigurosidad de la regulación ambiental
+World Economic Forum
+7.2
+Cumplimiento de la regulación ambiental
+World Economic Forum
+7.3
+Efectividad de las medidas gubernamentales 
+para promover la sostenibilidad de la industria 
+turística
+World Economic Forum
+7.4
+Concentración de partículas PM 2,5
+Banco Mundial
+7.5
+Ratificación de tratados ambientales
+Unión Internacional para la Conservación 
+de la Naturaleza via World Economic 
+Forum
+7.6
+Índice de estrés hídrico
+World Resource Institute
+7.7
+Especies amenazadas
+Datos de la Unión Internacional para la 
+Conservación de la Naturaleza
+7.8
+Variación de la superficie forestal
+Datos de Eurostat y Banco Mundial
+7.9
+Tratamiento de aguas residuales
+Environmental Performance Index
+7.10
+Presión pesquera
+Sea Around Us
+8. Transporte 
+aéreo
+8.1
+Calidad de las infraestructuras aeroportuarias
+World Economic Forum
+8.2
+Tránsito aéreo en vuelos regulares domésticos
+Datos de École Nationale de l’Aviation 
+Civile, Eurostat y gestores aeroportuarios 
+nacionales
+8.3
+Tránsito aéreo en vuelos regulares 
+internacionales
+Datos de École Nationale de l’Aviation 
+Civile, Eurostat y gestores aeroportuarios 
+nacionales
+8.4
+Tránsito de aeronaves
+Datos de École Nationale de l’Aviation 
+Civile, Eurostat y gestores aeroportuarios 
+nacionales
+8.5
+Densidad de aeropuertos
+Datos de École Nationale de l’Aviation 
+Civile, Eurostat y gestores aeroportuarios 
+nacionales
+8.6
+Líneas aéreas operativas 
+IATA via World Economic Forum
+
+
+Territorio y competitividad turística: una lectura regional del espacio mediterráneo a través de un índice compuesto basado en ACP
+311
+ Investigaciones Geográficas, 86, 293-313
+9. Transporte 
+marítimo y 
+terrestre
+9.1
+Calidad de las carreteras
+World Economic Forum
+9.2
+Calidad de las infraestructuras ferroviarias
+World Economic Forum
+9.3
+Calidad de las infraestructuras portuarias
+World Economic Forum
+9.4
+Grado de eficiencia del transporte terrestre
+World Economic Forum
+9.5
+Densidad de líneas ferroviarias
+Eurostat
+9.6
+Densidad de la red de carreteras
+Eurostat
+9.7
+Tránsito marítimo de pasajeros
+Eurostat
+10. 
+Equipamientos 
+turísticos
+10.1
+Plazas de alojamiento disponibles
+Eurostat
+10.2
+Calidad de las infraestructuras turísticas 
+World Economic Forum
+10.3
+Presencia de las principales compañías de 
+alquiler de vehículos
+Datos de Avis, Budget, Europcar, Hertz, 
+National Car Rental, Sixt y Thrifty
+10.4
+Densidad de cajeros automáticos 
+Banco Mundial
+11. Recursos 
+naturales
+11.1
+Parajes naturales ‘Patrimonio de la Humanidad’
+Datos de UNESCO
+11.2
+Especies conocidas
+Datos de Unión Internacional para la 
+Conservación de la Naturaleza via World 
+Economic Forum
+11.3
+Superficie protegida
+Protected Planet
+11.4
+Demanda turística relacionada con los recursos 
+naturales
+Bloom Consulting via World Economic 
+Forum
+11.5
+Grado de atractivo de los recursos naturales
+World Economic Forum
+12. Recursos 
+culturales y 
+recreativos
+12.1
+Bienes culturales ‘Patrimonio de la Humanidad’
+UNESCO
+12.2
+Expresiones orales y prácticas inmateriales del 
+patrimonio cultural
+UNESCO
+12.3
+Recintos deportivos de gran capacidad
+Datos de Stadiumdb.com
+12.4
+Celebración de congresos internacionales
+Datos de Asociación Internacional de 
+Congresos y Convenciones
+12.5
+Demanda turística relacionada con actividades 
+culturales y de entretenimiento
+Bloom Consulting via World Economic 
+Forum
+Elaboración propia
+
+
+Casado-Montilla et al.
+312
+ Investigaciones Geográficas, 86, 293-313
+Referencias
+Abdi, H., & Williams, L. J. (2010). Principal component analysis. Wiley Interdisciplinary Reviews: Computational 
+Statistics, 2(4), 433–459. https://doi.org/10.1002/wics.101
+Baggio, R., & Sainaghi, R. (2011). Complex and chaotic tourism systems: Towards a quantitative 
+approach. International Journal of Contemporary Hospitality Management, 23(6), 840–861. https://doi.
+org/10.1108/09596111111153501
+Barrado, D. A. (2016). Tourist destination and territorial competitiveness: a closer look geography to territorial 
+competitiveness and the role of the territory as a competitive factor. ESIC Market Economics and Business 
+Journal, 47(2), 253-273. https://doi.org/10.7200/esicm.153.0472.2e
+Bertocchi, D., Camatti, N., Salmasi, L., & van der Borg, J. (2023) Assessing the tourism sustainability of EU 
+regions at the NUTS-2 level with a composite and regionalised indicator. Journal of Sustainable Tourism, 
+31(7), 1738-1755. https://doi.org/10.1080/09669582.2021.2000993
+Boes, K., Buhalis, D., & Inversini, A. (2016). Smart tourism destinations: Ecosystems for tourism destination 
+competitiveness. International Journal of Tourism Cities, 2(2), 108–124. https://doi.org/10.1108/IJTC-12-
+2015-0032
+Camagni, R. (2002). On the Concept of Territorial Competitiveness: Sound or Misleading? Urban Studies, 
+39(13), 2395-2411. https://doi.org/10.1080/0042098022000027022
+Camagni, R. (2008). Regional competitiveness: Towards a concept of territorial capital”. In R. Capello, R., 
+Camagni, B. Chizollini, & U. Fratesi (Eds.), Modelling regional scenarios for the enlarged Europa. Springer 
+(pp. 33-47). Springer. https://doi.org/10.1007/978-3-540-74737-6_3
+Cattell, R. B. (1966). The Scree Test For The Number Of Factors. Multivariate Behavioral Research, 1(2), 
+245–276. https://doi.org/10.1207/s15327906mbr0102_10
+Croes, R. (2011). Measuring and Explaining Competitiveness in the Context of Small Island Destinations. 
+Journal of Travel Research, 50(4), 431-442. https://doi.org/10.1177/0047287510368139
+Crouch, G. I. (2011). Destination Competitiveness: An Analysis of Determinant Attributes. Journal of Travel 
+Research, 50(1), 27-45. https://doi.org/10.1177/0047287510362776
+Dwyer, L., & Kim, C. (2003). Destination Competitiveness: Determinants and Indicators. Current Issues in 
+Tourism, 6(5), 369–414. https://doi.org/10.1080/13683500308667962
+European Commission (2016). The European tourism indicator system—ETIS toolkit for sustainable destination 
+management. Office of the European Union, Brussel, BE. https://op.europa.eu/it/publication-detail/-/
+publication/4b90d965-eff8-11e5-8529-01aa75ed71a1/language-en
+Eurostat (2021). Territorial typologies manual. Publications Office of the European Union.
+Font, X., Torres-Delgado, A., Crabolu, G., Palomo Martinez, J., Kantenbacher, J., & Miller, G. (2021). The 
+impact of sustainable tourism indicators on destination competitiveness: the European Tourism Indicator 
+System. Journal of Sustainable Tourism, 31(7), 1608–1630. https://doi.org/10.1080/09669582.2021.191
+0281
+Gargano, R. (2021). Tourism Competitiveness in Mediterranean Countries: A Quantitative Approach. In 
+F. Grasso, & B.S. Sergi (Eds.), Tourism in the Mediterranean Sea: An Italian Perspective. https://doi.
+org/10.1108/978-1-80043-900-920211008
+Hair, J., Black, W. C., Babin, B. J., & Anderson, R. E. (2010). Multivariate data analysis (7th ed.). Pearson 
+Educational International.
+Hall. C.M. (2007). Tourism and regional competitiveness. In J. Tribe, & D. Airey (Eds.), Advances in Tourism 
+Research, Tourism Research, New Directions, Challenges and Applications (pp. 217-230). Elsevier, Oxford. 
+https://doi.org/10.1016/B978-0-08-045328-6.50021-2
+Hassan, S. S. (2000). Determinants of Market Competitiveness in an Environmentally Sustainable Tourism 
+Industry. Journal of Travel Research, 38(3), 239-245. https://doi.org/10.1177/004728750003800305
+
+
+Territorio y competitividad turística: una lectura regional del espacio mediterráneo a través de un índice compuesto basado en ACP
+313
+ Investigaciones Geográficas, 86, 293-313
+Hefny, L. I. (2024). An overview of literature on destination competitiveness: A theoretical analysis of the 
+Travel and Tourism Competitiveness Index (TTCI). Pharos International Journal of Tourism and Hospitality, 
+2(2), 45–60. https://doi.org/10.21608/pijth.2023.253372.1006
+Huang, X., & Liu, Y. (2024). Evaluation model of urban tourism competitiveness in the context of sustainable 
+development: A machine learning‑empowerment and TOPSIS approach. Frontiers in Public Health, 12, 
+1-14. https://doi.org/10.3389/fpubh.2024.1396134
+Ivars-Baidal, J. A., Celdrán-Bernabeu, M. A., Mazón, J. N., & Perles-Ivars, Á. F. (2018). Smart destinations 
+and the evolution of ICTs: a new scenario for destination management? Current Issues in Tourism, 22(13), 
+1581–1600. https://doi.org/10.1080/13683500.2017.1388771
+Martín, J. C., Mendoza, C. & Román, C. (2017). Regional Spanish Tourism Competitiveness. A DEA-MONITUR 
+approach. REGION, 4(3), 153–173. https://doi.org/10.18335/region.v4i3.145
+Merinero‑Rodríguez, R., Pulido‑Fernández, J. I. & Navarro‑Yáñez, C. (2014). Propuesta metodológica para la 
+caracterización territorial del turismo a escala local. Boletín de la Asociación de Geógrafos Españoles, 66, 
+291–321. https://doi.org/10.21138/bage.1791
+Niavis, S., & Kallioras, D. (2021). The efficiency of tourism sector in EU mediterranean coastal regions: The 
+effects of seasonality and spatiality on demand. Region, 8(1), 135-152. https://doi.org/10.18335/region.
+v8i1.318
+ONU Turismo. (2024). International Tourism Highlights, 2024 Edition. UN Tourism. https://doi.
+org/10.18111/9789284425808
+Organización para la Cooperación y el Desarrollo Económicos (OECD). (2022). Tourism Trends and Policies 
+2022: Building resilience in the tourism ecosystem. OECD Tourism Papers, No. 2022/‎04. OECD Publishing. 
+https://www.oecd.org/en/publications/oecd-tourism-trends-and-policies-2022_a8dd3019-en/full-report/
+building-resilience-in-the-tourism-ecosystem_de7284f5.html
+Organización para la Cooperación y el Desarrollo Económicos (OECD). (2025). Strengthening the evidence 
+base for a sustainable tourism future in Portugal: A tailored set of sustainability indicators. OECD 
+Tourism Papers, 2025/06. https://www.oecd.org/en/publications/strengthening-the-evidence-base-for-a-
+sustainable-tourism-future-in-portugal_e362c609-en.html
+Palma, M., De Iaco, S., Cappello, C., & Distefano, V. (2024). Tourism composite spatial indicators through 
+variography and geographically weighted principal components analysis. Annals of Operations Research, 
+342, 1687–1705. https://doi.org/10.1007/s10479-023-05329-y
+Pivčević, S., Petrić, L., & Mandić, A. (2020). Sustainability of Tourism Development in the Mediterranean—
+Interregional Similarities and Differences. Sustainability, 12(18), 7641. https://doi.org/10.3390/su12187641
+Rodríguez-Pose, A. (2013). Do Institutions Matter for Regional Development? Regional Studies, 47(7), 1034–
+1047. https://doi.org/10.1080/00343404.2012.748978
+Romão, J., Guerreiro, J., & Rodrigues, P.M.M. (2013). Territorial Differentiation, Competitiveness and 
+Sustainability of Tourism. In: Matias, Á., Nijkamp, P., & Sarmento, M. (eds), Quantitative Methods in 
+Tourism Economics. Physica, Heidelberg. https://doi.org/10.1007/978-3-7908-2879-5_15
+Sangkaew, N., Phucharoen, C., & Nanthaamornphong, A. (2025). Can Attractions Influence the Geographic 
+Distribution of Tourist Accommodations? Evidence from a Spatial Analysis in Thailand. Tourism Planning 
+& Development, 22(4), 592–616. https://doi.org/10.1080/21568316.2025.2515037
+Tsiotas, D., Krabokoukis, T., & Polyzos, S. (2020). Detecting interregional patterns in tourism seasonality of 
+Greece: A principal components analysis approach. Regional Science Inquiry, XII(2), 91-112.
+World Economic Forum (WEF). (2021). Travel & Tourism Development Index 2021. Geneva: WEF. https://www.
+weforum.org/publications/travel-and-tourism-development-index-2021/

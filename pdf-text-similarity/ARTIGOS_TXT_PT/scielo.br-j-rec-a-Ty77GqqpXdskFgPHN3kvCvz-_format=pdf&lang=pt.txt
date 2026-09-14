@@ -1,0 +1,888 @@
+1
+DOI: 10.1590/198055272416Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+Revista de Economia Contemporânea (2020) 24(1): p. 1-23
+(Journal of Contemporary Economics) 
+ISSN 1980-5527
+DOI - http://dx.doi.org/10.1590/198055272416
+elocation - e202416
+https://revistas.ufrj.br/index.php/rec | www.scielo.br/rec
+Artigos
+Todo o conteúdo deste periódico, salvo indicação em contrário, está licenciado sob os termos da Creative Commons 
+Attribution License.
+ESTADO E DESENVOLVIMENTO 
+NA AMÉRICA LATINA
+José Luís Fioria
+aProfessor Colaborador do Instituto de Economia da Universidade Federal do Rio de Janeiro (IE-UFRJ). 
+Rio de Janeiro, RJ, Brasil. ORCID: http://orcid.org/0000-0002-8132-7181.
+Recebido em 08 de março de 2018 
+Aceito em 16 de abril de 20181
+RESUMO: Este trabalho foi escrito em atendimento a uma solicitação da CEPAL, 
+com o objetivo de sugerir – de forma sintética – algumas premissas para um novo 
+programa de pesquisa sobre o tema do estado e do desenvolvimento na América 
+Latina. Primeiro, ele resume as principais posições do debate clássico sobre este tema, 
+do período áureo do desenvolvimentismo latino-americano, entre os anos 1950 e 1970 
+do século passado. E logo depois sugere uma nova perspectiva, e uma rediscussão da 
+questão do desenvolvimento, a partir de um ponto de vista que privilegia o ângulo do 
+“poder” e da competição pelo poder dentro do “sistema interestatal” , como condições 
+essenciais do sucesso econômico das principais potencias capitalistas do sistema 
+internacional. Para finalmente, apresentar alguns cenários possíveis do desenvolvimento 
+latino-americano, dentro de um sistema mundial em plena transformação. 
+PALAVRAS-CHAVE: sistema estatal; poder; guerra; desenvolvimento.
+CLASSIFICAÇÃO JEL: F59.
+ Correspondência para: José Luis Fiori
+ Contato: jlfiori@uol.com.br
+Número temático em homenagem aos 70 anos do Manifesto da CEPAL
+FIORI, J. L. Estado e desenvolvimento na América Latina
+2Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+DOI: 10.1590/198055272416
+STATE AND DEVELOPMENT IN LATIN AMERICA
+ABSTRACT: This paper was written in response to a request from ECLAC, to 
+briefly suggest some premises for a new research program on the theme of state and 
+development in Latin America. First, it summarizes the main positions of the 
+classical debate on this theme, from the golden period of Latin American 
+developmentalism, between the 1950s and 1970s. And then it suggests a new 
+perspective, with the re-discussion of the issue of development, from a point of view 
+that privileges the angle of ‘power’ and competition for power within the ‘interstate 
+system’ as essential conditions of the economic success of the main capitalist powers 
+of the international system. Finally, it introduces some possible scenarios for Latin 
+American development, within a transforming world system.
+KEYWORDS: interstate system; power; war; development.
+FIORI, J. L. Estado e desenvolvimento na América Latina
+3
+DOI: 10.1590/198055272416Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+“O capitalismo só triunfa quando se identifica com o Estado, quando é o Estado. ”
+F . Braudel
+(A Dinâmica do Capitalismo,
+Rio de Janeiro: Rocco, 1987, p. 43)
+INTRODUÇÃO*
+O debate sobre o Estado e o desenvolvimento econômico teve grande importância 
+política e intelectual na América Latina, sobretudo, depois da II Guerra Mundial.1 Mas 
+ele foi mais pragmático do que teórico, e respondeu a problemas e desafios imediatos, 
+mais do que a uma estratégia de pesquisa sistemática e de longo prazo. Mesmo a 
+pesquisa acadêmica desta época foi policy-oriented e voltada para o estudo comparativo 
+dos “padrões de intervenção do Estado", ou para a discussão normativa do planejamento 
+e das políticas públicas, em particular, da política econômica. Neste período, é possível 
+identificar duas grandes “agendas hegemônicas” , que se consolidaram nos anos 1940-
+1950 e 1980-1990, respectivamente, e que orientaram a discussão, a pesquisa e as 
+políticas concretas nas duas décadas sucessivas. 
+Logo depois da Segunda Guerra Mundial, o mundo enfrentou o desafio da recons-
+trução dos países envolvidos no conflito e o da descolonização afro-asiática. A Amé -
+rica Latina se propôs uma agenda centrada no problema do “atraso” e no desafio do 
+desenvolvimento e da “modernização” de suas sociedades e economias nacionais. A 
+reflexão política sobre a natureza e o papel do Estado seguiu esta mesma trilha, inde -
+pendente da orientação teórica dos seus pensadores da época: fosse ela estruturalista, 
+marxista, weberiana, etc. Foi a época da hegemonia das ideias desenvolvimentistas. 
+Algumas décadas mais tarde, na sequência da crise internacional dos anos 1970 e, em 
+particular, depois da crise da “dívida externa” dos anos 1980 (FIORI, 2001), se impôs 
+na América Latina uma nova “agenda” que priorizou o “ajuste” das economias latino- 
+americanas à nova ordem financeira global. Neste período, predominou a crítica ao 
+intervencionismo estatal e a defesa intransigente das privatizações e da “despolitização
+1 O mapeamento deste debate já foi feito por vários autores e se pode encontrar, entre outros, em: Fiori 
+(1990, 1999). Sobre a “economia do desenvolvimento” , ver Hirschman (1981). Com relação às ideias da 
+CEPAL, ver Bielschowsky (2000). Com relação às teorias da dependência, ver Palma (1981).
+* Nota do Editor: Este texto foi elaborado pelo autor no âmbito do Convênio CEPAL/IPEA e originalmente 
+publicado como documento de pesquisa em novembro de 2013 (cf. FIORI, 2013). O texto original foi 
+editado e reformatado para se adequar ao projeto gráfico e editorial da REC.
+FIORI, J. L. Estado e desenvolvimento na América Latina
+4Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+DOI: 10.1590/198055272416
+dos mercados” . Foi a época da hegemonia neoliberal em quase todo o mundo e da des-
+montagem das políticas e do Estado desenvolvimentista na América Latina. Mas no 
+início do século XXI, o fracasso das políticas neoliberais, a crise econômica de 2008 e as 
+grandes mudanças geopolíticas mundiais, que estão em pleno curso, criaram um novo 
+desafio e produziram uma nova inflexão política e ideológica na América Latina, tra -
+zendo de volta ao debate político alguns temas da antiga agenda desenvolvimentista.
+Este texto contém três partes. A primeira faz um balanço sintético e crítico deste 
+“debate líbero-desenvolvimentista” do século XX e do início do século XXI; a segunda 
+propõe as premissas e hipóteses de um novo “programa de pesquisa” sobre o Estado e 
+o desenvolvimento capitalista; e a terceira apresenta três especula ções sobre o futuro 
+do sistema mundial e da América Latina.2
+1. A CONTROVÉRSIA DO ESTADO E DO DESENVOLVIMENTO
+O “debate desenvolvimentista” latino-americano n ão teria nenhuma especificidade  
+se tivesse se reduzido a uma discuss ão macroeconômica entre “ortodoxos” 
+neoclássicos ou liberais e “heterodoxos” keynesianos ou estruturalistas. Na verdade, 
+ele não teria existido se não fosse por causa do Estado e da discussão sobre a eficácia 
+ou não da intervenção estatal para acelerar o crescimento econômico por cima das 
+“leis do mercado” . Até porque, na América Latina como na Ásia, os governos 
+desenvolvimentistas sempre utilizaram políticas macroeconômicas ortodoxas, 
+segundo a ocasião e as circunstâncias. O inverso também se pode dizer de muitos 
+governos europeus ou norte-americanos conservadores ou ultraliberais que utilizam 
+frequentemente políticas de corte keynesiano. Na verdade, o pivot de toda a discussão 
+e o grande pomo da discórdia foram sempre o Estado e a definição do seu papel no 
+processo do desenvolvimento econômico. Apesar disso, depois de mais de meio 
+século de discussão, o balanço teórico é decepcionante. Dos dois lados do debate 
+“líbero-desenvolvimentista” , utilizou-se – quase sempre – um conceito de Estado 
+igualmente impreciso, atemporal e a-histórico, como se o Estado fosse uma espécie 
+de “ente” lógico e funcional criado intelectualmente para resolver os problemas do 
+crescimento ou da regulação econômica, como se pode ver por meio de uma rápida 
+releitura das duas grandes “agendas” e das principais matrizes teóricas que 
+participaram da “controvérsia latino-americana”:
+2 São ideias extraídas de Fiori (2008). 
+FIORI, J. L. Estado e desenvolvimento na América Latina
+5
+DOI: 10.1590/198055272416Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+i) A “agenda desenvolvimentista” deita raízes nos anos 1930, consolida-se nos 
+anos 1950 e passa por uma autocrítica e uma transformação conceitual nos 
+anos 1960, para perder seu vigor intelectual na década de 1980. Nesse percurso, 
+é possível identificar quatro grandes “matrizes teóricas” que analisaram a 
+“questão do Estado” e contribuíram para a construção e a legitimação da 
+ideologia nacional-desenvolvimentista, que teve um papel central nos grandes 
+conflitos políticos e ideológicos latino-americanos da segunda metade do 
+século XX:
+a) A matriz weberiana e as suas várias versões da “teoria da modernização” , que 
+foram contemporâneas da “economia do desenvolvimento” anglo-saxônica e 
+apareceram quase sempre associadas à teoria das “etapas do desenvolvi -
+mento econômico” , de Rostow (1952, 1960). Dedicaram-se à pesquisa dos 
+processos de formação histórica dos Estados nacionais europeus compara-
+dos com o “desenvolvimento político” das sociedades “atrasadas” . Sua pro-
+posta e sua estratégia de modernização supunham e apontavam, ao mesmo 
+tempo, de forma circular, para uma idealização dos Estados e dos sistemas 
+políticos europeu e norte-americano, definidos como padrão ideal de mo-
+dernidade, e como objetivo e ponto de chegada do desenvolvimento e da 
+transição das “sociedades tradicionais” (EISENSTADT e ROKKAN, 1973; 
+LAPALOMBARA e WEINER, 1966).
+b) A matriz estruturalista e as suas várias versões da teoria do “centro-periferia” 
+e do “intercambio desigual” , cuja referência fundamental foram os textos 
+clássicos da CEPAL, dos anos 1950 e 1960, com algumas contribuições 
+posteriores importantes, sobretudo, no Brasil (TAV ARES, 1974; CARDOSO 
+DE MELO, 1982; BELUZZO e COUTINHO, 1982). Só a CEPAL 
+desenvolveu instrumentos analíticos e operacionais específicos para o 
+planejamento econômico dos Estados latino-americanos. Mas devido à sua 
+própria condição como organismo internacional, a CEPAL sempre tratou 
+os estados da América Latina como se fossem iguais e homogêneos, sem 
+tomar em conta, na sua teoria e nas suas propostas concretas, a existência 
+de conflitos de interesse diferentes dentro de cada país, e entre os próprios 
+países, dentro e fora da região. Por isso, as teses industrializantes da CEPAL 
+lembram muitas vezes as ideias protecionistas de List e Hamilton, mas, ao 
+mesmo tempo, a CEPAL se diferencia dos dois economistas por não dar 
+importância teórica e prática aos conceitos de nação, poder e guerra, que 
+ocupavam um lugar central na visão do estado e do desenvolvimento 
+econômico, sobretudo, no caso do “sistema nacional de economia política” 
+de Friedrich List (ver BIELSCHOWSKY , 2000, 1988).
+FIORI, J. L. Estado e desenvolvimento na América Latina
+6Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+DOI: 10.1590/198055272416
+c) A matriz marxista e as suas várias versões da teoria da “revolução 
+democrático-burguesa” , sustentadas nos textos clássicos de Marx sobre as 
+etapas do desenvolvimento capitalista e nos textos de Lenin e da Terceira 
+Internacional sobre a estratégia da luta anticolonialista na Ásia e no Egito. 
+Sua tradução para a realidade latino-americana foi feita de forma mecânica 
+e pouco sofisticada, do ponto de vista teórico, sem considerar as 
+especificidades e heterogeneidades regionais. Por isso, apesar de falar de 
+classes, luta de classes e imperialismo, propunha o mesmo modelo e a 
+mesma estratégia para todos os países do continente, independentemente 
+da sua estrutura interna e da sua posição dentro da hierarquia de poder 
+regional e internacional. Nos anos 1960, a teoria marxista da dependência 
+criticou essa estratégia reformista da “esquerda tradicional” e a própria 
+possibilidade de uma “revolução democrático-burguesa” na América 
+Latina, mas não aprofundou sua nova visão crítica do Estado latino-
+americano (BARAN, 1957; DAVIS, 1967; MORI, 1978).
+d) Por fim, é necessário incluir a matriz geopolítica da teoria da “segurança na-
+cional” , formulada pela Escola Superior de Guerra do Brasil (ver GOLBERY , 
+1955; MATTOS, 1975; CASTRO, 1979, 1982), fundada no início da década 
+de 1950. Suas ideias também remontam aos anos 1930, à defesa da industria-
+lização nacional (por parte dos militares que participaram da Revolução de 
+1930) e ao Estado Novo. Na década de 1950, entretanto, esse primeiro desen-
+volvimentismo pragmático dos militares brasileiros se transformou em um 
+projeto de defesa e expansão do poder nacional, condicionado por sua visão 
+da “segurança nacional” , dentro de um mundo dividido pela Guerra Fria. 
+Essa matriz teve um desenvolvimento teórico menor do que o das outras 
+três, mas acabou tendo uma importância histórica muito maior, devido ao 
+lugar central ocupado pelos militares na construção e no controle do Estado 
+desenvolvimentista brasileiro, durante a maior parte dos seus cerca de 50 
+anos de existência. O seu projeto geopolítico e econômico era expansionista 
+e tinha uma visão competitiva do sistema mundial, mas nunca foi muito 
+além de algumas ideias elementares sobre o próprio poder e a defesa, porque 
+girava em torno de uma obsessão com um inimigo externo e interno que 
+nunca ameaçou nem desafiou efetivamente o país, que foi importado ou im-
+posto pela geopolítica anglo-saxônica da Guerra Fria. Assim mesmo, essa foi 
+a única teoria e estratégica dentro do universo desenvolvimentista que asso-
+ciou, explicitamente, a necessidade da industrialização e do crescimento eco-
+nômico acelerado com o problema da defesa nacional, mas sua visão sim-
+plista e maniqueísta do mundo explica o seu caráter antipopular e autoritário 
+e a facilidade com que foi derrotado e desconstruído nos anos 1980 e 1990 
+(ver FIORI, 1995, 1984).
+FIORI, J. L. Estado e desenvolvimento na América Latina
+7
+DOI: 10.1590/198055272416Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+Se existiu algum denominador comum entre todas essas teorias e estratégias 
+desenvolvimentistas, foi sua crença inabalável na existência de um Estado racional, 
+homogêneo e funcional, capaz de formular políticas de crescimento econômico, por 
+cima de divisões, conflitos e contradições que pudessem atravessar e paralisar o 
+próprio Estado. Além disso, todos consideravam que o desenvolvimento era um 
+objetivo consensual – por si mesmo – capaz de constituir e unificar a nação, bem como 
+de mobilizar a sua população por cima de suas divisões internas, de classe, etnia e 
+regiões. Talvez por isso, apesar da sua hegemonia ideológica, depois da II Guerra 
+Mundial as políticas desenvolvimentistas só tenham sido aplicadas na América Latina 
+– de forma pontual, irregular e inconsistente –, e só se possa falar efetivamente, nesse 
+período, da existência em todo continente de dois “Estados desenvolvimentistas”: um, 
+com certeza, no Brasil; e o outro, com muitas reservas, no México.
+ii) Do outro lado da controvérsia latino-americana, a origem da “agenda neoliberal” 
+remonta à década de 1940, mas ela permaneceu em estado latente (ou defensivo) 
+durante a “era desenvolvimentista” , somente conquistando o poder e a hegemonia 
+ideológica nas últimas décadas do século XX. Nos anos 1980, as teses neoliberais 
+apareceram e se difundiram na América Latina como resposta à “crise da dívida 
+externa” e à inflação galopante dos anos 1980 e trouxeram junto uma proposta de 
+reformas institucionais voltadas para a privatização e a desregulação dos 
+mercados, bem como para a austeridade fiscal e monetária (DORNBUSCH e 
+EDW ARDS, 1991). É possível identificar, pelo menos, duas grandes teorias que 
+participaram da crítica intelectual e da legitimação ideológica da desmontagem 
+das políticas e das instituições desenvolvimentistas: a teoria dos “buscadores de 
+renda” e a teoria neoinstitucionalista (KRUEGER, 1974; NORTH, 1981), que 
+exerceram grande influ ência dentro dos organismos internacionais de 
+Washington e, em particular, dentro do Banco Mundial.
+a) Para a teoria dos “buscadores de renda” , o Estado é apenas mais um mercado 
+de trocas entre burocratas movidos por interesses egoístas e empresários em 
+busca de privilégios e de rendas monopólicas garantidas por meio do controle 
+e/ou da influência dentro da máquina estatal. Dessa perspectiva, qualquer 
+aumento do setor público ampliaria, automaticamente, as oportunidades de 
+obtenção de rendas extraordinárias à custa do cidadão e do consumidor 
+comum, que acabaria tendo que pagar preços mais altos do que os definidos 
+“normalmente” pelos mercados competitivos e desregulados. 
+b) A teoria neoinstitucionalista também defende a “retirada do Estado” , mas, 
+ao contrário da teoria anterior, sustenta a sua importância para a construção 
+e a preservação do ambiente institucional associado à garantia do direito 
+de propriedade privada e da liberdade individual das pessoas, considerados 
+FIORI, J. L. Estado e desenvolvimento na América Latina
+8Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+DOI: 10.1590/198055272416
+pelos neoinstitucionalistas como condições indispensáveis de todo e 
+qualquer processo de desenvolvimento econômico. No final do século XX, 
+a agenda neoliberal reforçou um viés da discussão que já vinha crescendo 
+desde o período desenvolvimentista: o deslocamento do debate para o 
+campo da macroeconomia. Como volta a acontecer com o chamado “Novo 
+Desenvolvimentismo” , que se propõe inovar e construir uma terceira via 
+“entre o populismo e a ortodoxia” . Como se tratasse de uma gangorra que 
+ora aponta para o fortalecimento do mercado, ora para o fortalecimento do 
+Estado. Na prática, o “Novo Desenvolvimentismo” acaba se reduzindo a 
+um programa de medidas macroeconômicas ecléticas, que se propõem 
+fortalecer, simultaneamente, o Estado e o mercado; a centralização e a 
+descentralização; a concorrência e os grandes “campeões nacionais”; o 
+público e o privado; a política industrial e a abertura; e uma política fiscal 
+e monetária que seja ao mesmo tempo ativa e austera. E, finalmente, com 
+relação ao papel do Estado, o “Novo Desenvolvimentismo” propõe que ele 
+seja recuperado e fortalecido, mas não esclarece em nome de quem, para 
+quem e para quê, deixando de lado a questão central do poder – e dos 
+interesses contraditórios das classes e das nações – como já acontecera com 
+o “velho desenvolvimentismo” do século XX.
+Apesar de suas grandes divergências ideológicas e políticas, desenvolvimentistas e 
+liberais sempre compartilharam uma mesma visão do Estado como criador ou 
+destruidor da boa ordem econômica, mas sempre visto como se fosse um deus ex-
+machina, atuando desde fora da atividade econômica propriamente dita. Ambos 
+criticam os processos de monopolização e idealizam os mercados competitivos, vendo 
+com maus olhos toda forma de associação ou envolvimento entre o Estado e os capitais 
+privados. Ambos consideram que o poder, as lutas pelo poder e o processo de 
+acumulação de poder a escala nacional e internacional não têm a ver diretamente com 
+o processo simultâneo de desenvolvimento econômico e acumulação do capital. Além 
+disso, todos consideram os Estados latino-americanos como se fossem iguais e não 
+fizessem parte de um sistema regional e internacional único, desigual, hierarquizado, 
+competitivo e em permanente processo de transformação. E mesmo quando os 
+desenvolvimentistas falaram de Estados centrais e periféricos e de Estados dependentes, 
+falavam de um sistema econômico mundial que tinha um formato bipolar relativamente 
+estático, no qual as lutas de poder entre os Estados e as nações ocupavam um lugar 
+secundário (FRANK, 1969; CARDOSO e FALETTO, 1970).
+Por fim, essa convergência entre desenvolvimentistas e liberais latino-americanos 
+permite extrair duas conclusões críticas de todos este debate. A primeira é que o 
+desenvolvimentismo latino-americano sempre teve um parentesco muito maior com o 
+FIORI, J. L. Estado e desenvolvimento na América Latina
+9
+DOI: 10.1590/198055272416Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+Keynesianismo e com “economia do desenvolvimento” anglo-saxônica, do que com o 
+nacionalismo econômico e o anti-imperialismo, que foram até hoje a mola mestra e 
+propulsora de todos os desenvolvimentos tardios, em particular, dos desenvolvimentos 
+asiáticos. E a segunda é a certeza de que os desenvolvimentistas e os liberais latino-
+americanos compartilham a mesma concepção econômica do Estado, que é comum ao 
+paradigma da economia política clássica, marxista e neoclássica. Esta coincidência de 
+paradigmas explica a facilidade com que muitos passam, teoricamente, de um lado para 
+o outro da “gangorra líbero-desenvolvimentista” , sem precisar sair do mesmo lugar.
+2. DOZE NOTAS PARA UM NOVO “PROGRAMA DE PESQUISA”
+É muito pouco provável que o velho paradigma “líbero-desenvolvimentista” consiga se 
+renovar. Seu núcleo duro perdeu vitalidade e não consegue gerar novas perguntas, 
+nem consegue dar conta dos novos problemas latino-americanos, e muito menos do 
+desenvolvimento asiático e do desafio chinês. Nesses momentos, é preciso ter a 
+coragem intelectual de romper com as velhas ideias, para propor novos caminhos 
+teóricos e metodológicos. Com este objetivo iremos expor, em seguida, algumas 
+premissas e hipóteses de um novo “programa de pesquisa” , que partem dos conceitos 
+de “poder global” , “Estados-economias nacionais” e “sistema interestatal capitalista” , 
+para repensar a relação entre os Estados nacionais e o desenvolvimento desigual das 
+economias capitalistas que se formaram na Europa e fora da Europa, a partir da 
+expansão mundial global do “poder europeu” (ver FIORI, 2004, 2007; FIORI, 
+MEDEIROS e SERRANO, 2008).
+i) No final século XX, falou-se com insistência do fim das fronteiras e da sobe -
+rania dos Estados nacionais, que estariam sendo atropeladas pelo avanço in -
+controlável da globalização econômica. Ao mesmo tempo, falou-se do poder 
+imperial e unipolar dos EUA, depois do fim da Guerra Fria. Mas foi exata -
+mente nesse período que se deu a universalização do sistema interestatal, que 
+foi “inventado” pelos europeus e que contabilizava cerca de 60 estados inde -
+pendentes depois do fim da Segunda Guerra Mundial e hoje inclui cerca de 
+200 Estados nacionais, a maioria deles com assento nas Nações Unidas. É 
+óbvio que se trata de estados muito diferentes entre si, do ponto de vista das 
+suas dimensões e população, mas, sobretudo, do ponto de vista do seu poder 
+e da sua riqueza, bem como da sua capacidade de defender a sua própria so -
+berania. A maior parte destes novos estados havia sido colônia europeia, e 
+depois de sua independência permaneceram sob a camisa de força da Guerra 
+FIORI, J. L. Estado e desenvolvimento na América Latina
+10Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+DOI: 10.1590/198055272416
+Fria. Eles só adquiriram maior grau de autonomia depois de 1991, a despeito 
+de seguirem sendo países muito pobres e impotentes, em muitos casos. É im-
+portante perceber que essa multiplicação do n úmero dos Estados nacionais 
+que agora são membros do sistema político mundial ocorreu em simultâneo 
+aos processos de acumulação do poder global dos EUA e de globalização pro-
+dutiva e financeira, que se aceleraram depois das décadas 1950 e 1980, respec-
+tivamente. Essa coincidência poderia representar um paradoxo se não fosse 
+um produto contraditório e necessário do próprio “sistema interestatal capi-
+talista” , que nasceu na Europa (e só na Europa) e se universalizou a partir da 
+expansão do poder imperial europeu.
+ii) A origem histórica desse sistema remonta às “guerras de conquista” e à 
+“revolução comercial” , que se somaram na Europa dos séculos XII e XIII, 
+para criar a energia que moveu dois processos que foram decisivos nos 
+séculos seguintes: o da centralização do poder e o da monetização dos 
+tributos e das trocas. Como se sabe, depois do fim do Império de Carlos 
+Magno, houve na Europa uma fragmentação do poder territorial e um 
+desaparecimento quase completo da moeda e da economia de mercado. Mas 
+nos dois séculos seguintes – entre 1150 e 1350 – houve uma revolução que 
+mudou a história da Europa e do mundo: naquele período, forjou-se no 
+continente europeu uma associação expansiva entre a “necessidade da 
+conquista” e a “necessidade de excedentes” econômicos cada vez maiores. 
+Essa mesma associação se repetiu pela Europa em várias de suas unidades 
+territoriais de poder, que foram obrigadas a criar tributos e sistemas de 
+tributação, além das moedas soberanas, para financiar suas guerras de 
+defesa e de conquista, assim como a administração dos novos territórios 
+conquistados por meio dessas guerras.
+iii) As guerras, os tributos, as moedas e o comércio sempre existiram. A grande 
+novidade europeia foi a forma em que se combinaram, somaram e multiplica-
+ram em conjunto, dentro de pequenos territórios altamente competitivos, e 
+em estado de permanente guerra ou preparação para a guerra. Essas guerras 
+permanentes se transformaram em um grande multiplicador de tributos e de 
+dívidas e, por derivação, em um multiplicador do excedente do comércio e do 
+mercado de moedas e de títulos da dívida, criando um circuito acumulativo 
+absolutamente original entre os processos de acumulação do poder e da ri -
+queza. Além disso, estas guerras soldaram uma aliança indissolúvel entre 
+príncipes e banqueiros e deram origem às primeiras formas de acumulação 
+do “dinheiro pelo dinheiro” através da senhoriagem das moedas soberanas e 
+da negociação das dívidas públicas pelos “financistas” , primeiro nas “feiras” e 
+FIORI, J. L. Estado e desenvolvimento na América Latina
+11
+DOI: 10.1590/198055272416Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+depois nas bolsas de valor. No longo prazo, essa centralização do poder e essa 
+monetização dos tributos e das trocas permitiu a formação, nos séculos XVI e 
+XVII, dos primeiros “Estados-economias nacionais” europeus, que se trans -
+formaram em verdadeiras máquinas de acumulação de poder e de riqueza 
+durante os séculos seguintes, com seus sistemas de bancos e de crédito, com 
+seus exércitos e burocracias, e com seu sentimento coletivo de identidade e de 
+“interesse nacional” .
+iv) Estes “Estados-economias nacionais” não nasceram de forma isolada:  já 
+nasceram dentro de um sistema que se move continuamente, competindo e 
+acumulando poder e riqueza, em conjunto e dentro de cada uma de suas 
+unidades territoriais. Foi dentro dessas u nidades territoriais expansivas e 
+desse sistema competitivo de poder que se forjou o “regime capitalista” . Desde 
+o início, o movimento de internacionalização dos seus mercados e dos seus 
+capitais se deu junto à expansão e à consolidação dos grandes impérios 
+marítimos e territoriais dos primeiros estados europeus. E, desde então, foram 
+sempre esses estados expansivos e ganhadores que lideraram a acumulação 
+do capital em escala mundial. Esses primeiros estados nasceram e se 
+expandiram para fora de si mesmos, de forma quase simultânea. Enquanto 
+lutavam para impor seu poder e sua soberania interna, já se expandiam e 
+conquistavam novos territórios, construindo seus impérios coloniais. Por 
+isso, pode-se dizer que o “imperialismo” foi uma força e uma dimensão 
+constitutiva e permanente de todos os estados e do próprio sistema interestatal 
+europeu. Essa luta contínua, dentro e fora da Europa, promoveu uma rápida 
+hierarquização do sistema, com a constituição de um pequeno “núcleo 
+central” de “estados/impérios” que se impuseram aos demais, dentro e fora da 
+Europa. Assim nasceram as chamadas “grandes potências” , que seguiram 
+mantendo entre si relações a um só tempo complementares e competitivas. A 
+composição interna desse núcleo foi sempre muito estável, devido ao próprio 
+processo contínuo de concentração do poder, mas também devido às 
+“barreiras à entrada” de novos “sócios” que foram sendo criadas e recriadas 
+pelas potências ganhadoras ao longo dos séculos. De qualquer forma, o ponto 
+importante é que o sistema mundial em que vivemos até hoje não foi o 
+produto de uma somatória simples e progressiva de territórios, países e 
+regiões, e muito menos foi o produto da simples expansão dos mercados ou 
+do capital; foi uma criação do poder expansivo de alguns Estados e economias 
+nacionais europeus que conquistaram e colonizaram o mundo, durante os 
+cinco séculos em que lutaram entre si pela monopolização das hegemonias 
+regionais e do “poder global” . 
+FIORI, J. L. Estado e desenvolvimento na América Latina
+12Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+DOI: 10.1590/198055272416
+v) Sempre existiram projetos e utopias cosmopolitas propondo algum tipo de 
+“governança global” para o conjunto do sistema interestatal capitalista. Contudo, 
+todas as formas conhecidas e experimentadas de “governo supranacional” 
+foram até hoje uma expressão do poder e da ética das potências que compõem 
+o núcleo central do sistema e, em particular, da potência que lidera esse núcleo 
+central. Muitos autores falam em “hegemonia” para se referir à função 
+estabilizadora do líder do sistema, mas esses autores não percebem – em geral 
+– que a existência dessa liderança ou hegemonia não interrompe o expansionismo 
+dos demais Estados, muito menos o expansionismo do próprio líder ou 
+hegemon. Dentro deste sistema mundial, o aparecimento e a ascensãode uma 
+nova “potência emergente” serão sempre um fator de desestabilização do seu 
+núcleo central. Todavia,o maior desestabilizador de qualquer situação 
+hegemônica será sempre o seu próprio líder (ou hegemon), porque ele não pode 
+parar de conquistar para poder manter sua posição relativa na luta pelo poder 
+global. Por isso, é logicamente impossível que algum país “hegemônico” possa 
+estabilizar o sistema mundial. Nesse “universo em expansão” que nasceu na 
+Europa, durante o “longo século XIII” , nunca houve nem haverá “paz perpétua” , 
+nem sistemas políticos internacionais estáveis. Trata-se de um “universo” que se 
+estabiliza e se ordena por meio da sua própria expansão e, portanto, também 
+das crises e das guerras provocadas pela contradição entre sua tendência 
+permanente à internacionalização e ao poder global, de um lado, e sua contra 
+tendência ao fortalecimento contínuo dos poderes, das moedas e dos capitais 
+nacionais, de outro.
+vi) A expansão competitiva dos “Estados-economias nacionais” europeus criou 
+impérios coloniais e internacionalizou a economia capitalista, mas nem os 
+impérios, nem o capital internacional eliminaram os Estados e as economias 
+nacionais. Isto se deve ao fato de o capital sempre apontar, contraditoria -
+mente, na direção da sua internacionalização e, ao mesmo tempo, na direção 
+do fortalecimento da sua economia nacional de origem, como percebeu cor -
+retamente Nikolai Bukharin.3 O que Bukharin  não disse ou não percebeu é 
+que essa contradição entre os movimentos simultâneos de internacionaliza -
+3 “ A internacionalização dos interesses capitalistas exprime apenas um lado da internacionalização da vida 
+econômica, torna-se também indispensável conhecer o outro lado que ela contém: isto é, o processo 
+de nacionalização dos interesses capitalistas [...] O desenvolvimento do capitalismo mundial traz como 
+resultado, de um lado, a internacionalização da vida econômica e o nivelamento econômico; e, de outro, 
+em medida infinitamente maior, o agravamento extremo da tendência à nacionalização dos interesses 
+capitalistas [...]” (BUKHARIN, 1984, p. 54 e p. 97).
+FIORI, J. L. Estado e desenvolvimento na América Latina
+13
+DOI: 10.1590/198055272416Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+ção e nacionalização do capital se deve ao fato de que os capitais só podem se 
+internacionalizar na medida em que mant êm sua relação originária com a 
+moeda nacional em que se realizam como riqueza, seja sua própria ou a de 
+um Estado nacional mais poderoso. Por isso, sua internacionalização contí -
+nua não é uma tendência apenas do “capital em geral” , é uma obra simultânea 
+do capital e dos estados emissores das moedas e das dívidas de referência in -
+ternacionais, que souberam conquistar e preservar, mais do que todos os ou-
+tros, situações e condições monopólicas.
+vii) As “moedas internacionais” sempre foram cunhadas pelos Estados vitoriosos, 
+que conseguiram projetar seu poder para fora de suas fronteiras até o limite 
+do próprio sistema. Desde o “longo século XVI” e a consolidação do “sistema 
+interestatal capitalista” , só existiram duas moedas internacionais: a libra e o 
+dólar. E só se pode falar da existência de três sistemas monetários globais: o 
+“padrão libra-ouro” , que ruiu na década de 1930; o “padrão dólar-ouro” , que 
+terminou em 1971; e o “padrão dólar-flexível” , que nasceu na década de 1970 
+e que segue vigente neste início do s éculo XXI. Em todos os casos, e desde a 
+origem do sistema interestatal capitalista: 
+ vii.1) Nenhuma moeda nacional foi jamais apenas um “bem público” , e 
+muito menos ainda, as moedas nacionais que se transformaram em 
+referência internacional. Todas elas envolvem relações sociais e de poder 
+entre seus emissores e os seus detentores, entre os seus credores e os seus 
+devedores, entre os poupadores e os investidores, e assim por diante. Por 
+trás de toda moeda e de todo sistema monetário, esconde-se e se reflete 
+sempre uma correlação de poder, nacional ou internacional.
+ vii.2) Por sua vez, as moedas de referência regional ou internacional não 
+são apenas uma escolha dos mercados. São o produto de uma luta pela 
+conquista e dominação de novos territórios econômicos supranacionais, e 
+ao mesmo tempo, e depois das conquistas, seguem sendo um instrumento 
+de poder dos seus Estados emissores e dos seus capitais financeiros.
+ vii.3) Por isso, o uso dentro do sistema interestatal capitalista de uma 
+moeda nacional que seja, ao mesmo tempo, uma moeda de referência 
+supranacional, é uma contradição coconstitutiva e inseparável do próprio 
+sistema. E, nesse sentido, a moeda poderá até mudar nas próximas décadas 
+(o que é muito pouco provável), mas a regra seguirá sendo a mesma, com 
+o yuan, o yen, o euro, ou o real.
+ vii.4) Por fim, é parte do poder do emissor da “moeda internacional” 
+transferir os custos de seus ajustes internos para o resto da economia 
+mundial, em particular para sua periferia monetário-financeira.
+FIORI, J. L. Estado e desenvolvimento na América Latina
+14Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+DOI: 10.1590/198055272416
+viii) A “dívida pública” dos estados vitoriosos sempre teve maior credibilidade do 
+que a dívida dos derrotados ou dos subordinados. Por isso, também os títulos 
+da dívida pública das grandes potências têm maior “credibilidade” do que os 
+títulos dos estados situados nos degraus inferiores da hierarquia do poder e da 
+riqueza internacional. Marx 4 percebeu a import ância decisiva da “dívida 
+pública” para a acumulação privada do capital, e vários historiadores 5 têm 
+chamado a atenção para a import ância do endividamento dos estados que 
+foram os “grandes predadores” do sistema mundial. Para financiar suas 
+guerras e a projeção internacional do seu poder, e para sustentar seus sistemas 
+nacionais e internacionais de bancos e de crédito, a “dívida pública” da 
+Inglaterra, por exemplo, passou de 17 milhões de libras esterlinas, em 1690, 
+para 700 milhões de libras, em 1800. E contribuiu decisivamente para o 
+financiamento da expansão do poder britânico, dentro e fora da Europa, a 
+despeito do desequilíbrio fiscal de curto prazo das contas públicas inglesas, o 
+que jamais afetou a “credibilidade” de sua dívida ao redor do mundo. 
+Aconteceu da mesma forma com os Estados Unidos, onde a capacidade de 
+tributação e de endividamento do estado também cresceu de mãos dadas com 
+a expansão do poder americano, dentro e fora da América. Ainda na entrada 
+do século XXI, são os títulos da dívida pública americana que lastreiam seu 
+crédito internacional e sustentam o atual sistema monetário internacional. 
+Quando se olha desse ponto de vista, entende-se melhor a natureza da crise 
+financeira de 2008, por exemplo, e se percebe que ela não foi produzida por 
+nenhum tipo de “ deficit de atenção” do estado americano. Pelo contrário, 
+também nesse caso o que ocorreu foi que o estado e o capital financeiro norte-
+americano se fortaleceram juntos durante as décadas de 1980-1990 e agora 
+estão se defendendo juntos, a cada novo passo e a cada nova arbitragem que 
+4 “Como pelo toque de uma vara de condão, ela [a dívida pública] dota o dinheiro de capacidade criadora, 
+transformando-o assim em capital, sem ser necessário que o seu dono se exponha aos aborrecimentos 
+e riscos inseparáveis das aplicações industriais e mesmo usurárias. Os credores do Estado nada dão na 
+realidade, pois a soma emprestada converte-se em títulos da dívida pública facilmente transferíveis, que 
+continuam a funcionar em suas mãos como se fossem dinheiro. A dívida pública criou uma classe de 
+capitalistas ociosos, enriqueceu, de improviso, os agentes financeiros que servem de intermediários entre 
+o governo e a nação. As parcelas de sua emissão adquiridas pelos arremates de impostos, comerciantes e 
+fabricantes particulares lhes proporcionam o serviço de um capital caído em céu” (MARX, 1947, p. 642). 
+5 “Qualquer teoria sobre o significado econômico da dívida pública está obrigada a esclarecer por que tanto 
+no século XVIII quanto no século XIX, a Grã-Bretanha foi capaz de superar concorrentes superiores 
+econômica e demograficamente, por que conseguiu evitar crises políticas internas associadas a uma dí -
+vida muito alta, e sobretudo por que emergiu como a ‘primeira nação industrial’ apesar de sustentar uma 
+dívida pública de tamanha e duração ímpar” (FERGUSON, 2007, p. 138).
+FIORI, J. L. Estado e desenvolvimento na América Latina
+15
+DOI: 10.1590/198055272416Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+imponha o seu enfraquecimento dentro e fora dos EUA. Mas, apesar da crise, 
+uma coisa é certa: os títulos da dívida pública norte-americana seguirão 
+ocupando um lugar central dentro do sistema interestatal capitalista enquanto 
+o poder americano seguir sendo um poder expansivo, com ou sem a parceria 
+da China. Também nesse caso, os ganhadores não podem parar nem deixar de 
+aumentar o seu poder, por maior que ele  já seja.  Agora bem: esta “mágica” 
+estará ao alcance de todos os estados e todas as economias capitalistas? Sim e 
+não, a um só tempo, porque nesse jogo, se todos ganhassem, ninguém 
+ganharia, e os que já ganharam estreitam o caminho dos demais, reproduzindo 
+dialeticamente as condições da desigualdade.
+ix) A conquista e preservação de “situações monopólicas” é talvez o lugar ou a 
+conexão onde fica mais visível a relação entre a acumulação do poder e a 
+acumulação do capital. É disso que está falando Braudel quando afirma que “o 
+capitalismo só triunfa quando se identifica com o Estado, quando é o Estado” 
+(BRAUDEL, 1987, p. 43), porque seu objetivo são os lucros extraordinários 
+que se conquistam por intermédio de posições monopólicas, e essas posições 
+monopólicas se conquistam por meio do poder, elas são poder, como fica 
+claro – desde a primeira hora do sistema, no longo século XIII – na forma em 
+que Veneza e Gênova disputaram e conquistaram suas posições hegemônicas, 
+dentro da “economia-mundo mediterrânea. Para Braudel, “o capitalismo é o 
+antimercado” , exatamente porque o mercado é o lugar das trocas e dos “ganhos 
+normais” , enquanto o capitalismo é o lugar dos “grandes predadores” e dos 
+“ganhos anormais” . A acumulação do poder cria situações monopólicas, e a 
+acumulação do capital “financia” a luta por novas fatias de poder. Nesse 
+processo conjunto, os estados estimularam e financiaram desde o início o 
+desenvolvimento e o controle monopólico de “tecnologias de ponta” , 
+responsáveis pelo aumento do excedente econômico e da capacidade de 
+defesa e ataque desses estados. Como dizia Braudel ainda uma vez, “só há 
+crescimento significativo da empresa quando há associação com o Estado – o 
+Estado, a mais colossal das empresas modernas que, crescendo sozinho, tem 
+o privilégio de fazer crescer as outras” (BRAUDEL, 1996, p. 391). Assim 
+mesmo, com o passar dos séculos, o mundo do capital adquiriu uma 
+autonomia relativa crescente em relação ao mundo do poder, mas manteve a 
+sua relação de dependência essencial, sem a qual não existiria o próprio 
+sistema “interestatal capitalista” . É nesse sentido que Braudel também conclui 
+que, se o capitalismo é o antimercado, ele não pode sobreviver sem o mercado. 
+Ou seja, ao contrário do que pensam os institucionalistas, o desenvolvimento 
+econômico e a acumulação do capital não passam apenas pelo respeito às 
+FIORI, J. L. Estado e desenvolvimento na América Latina
+16Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+DOI: 10.1590/198055272416
+regras e às instituições. Pelo contrário, quase sempre passam pelo desrespeito 
+às regras e pela negação frequente dos regimes e das instituições construídas 
+em nome do mercado e da competição perfeita. Regimes e instituições que 
+servem muitas vezes para bloquear o acesso às inovações e aos monopólios, 
+por parte dos concorrentes mais débeis que são obrigados a se submeterem às 
+regras. Quem liderou a expansão vitoriosa do capitalismo foram sempre os 
+“grandes predadores” e as economias nacionais que souberam navegar com 
+sucesso na contramão das “leis do mercado” .
+x) Até o fim do século XVIII, o “sistema interestatal capitalista” se restringia aos 
+estados europeus e aos territórios incluídos dentro de seu espaço de dominação 
+colonial. Esse sistema só se expandiu e mudou sua organização interna depois 
+da independência dos Estados Unidos e dos demais estados latino-americanos. 
+No momento da independência, os estados latino-americanos não dispunham 
+de centros de poder eficientes, nem contavam com “economias nacionais” 
+integradas e coerentes. E foi só no cone sul do continente que se formou um 
+subsistema estatal e econômico regional, com características competitivas e 
+expansivas, sobretudo, na região da Bacia do Prata, pelo menos até o século 
+XX. Esse mesmo cenário se repetiu depois de 1945, com a maioria dos novos 
+estados criados na África, na Ásia Central e no Oriente Médio: não possuíam 
+estruturas centralizadas e eficientes de poder, nem dispunham de economias 
+expansivas. Só no sul e no sudeste da Ásia é que se pode falar da existência de 
+um sistema de estados e de economias nacionais integradas e competitivas, 
+que lembra o modelo original europeu. Apesar da sua enorme heterogeneidade, 
+é possível formular algumas generalizações a respeito do desenvolvimento 
+econômico e político destes países. Existem países ricos que não são nem 
+nunca serão potências expansivas, nem farão parte do jogo competitivo das 
+grandes potências. Existem Estados militarizados, na periferia do sistema 
+mundial, que nunca chegarão a ser potências econômicas. Mas não há 
+possibilidade de que algum desses Estados nacionais se transforme em uma 
+nova potência sem dispor de uma economia dinâmica e de um projeto 
+político-econômico expansivo. E é pouco provável que algum capital 
+individual ou bloco de capitais nacionais, públicos ou privados, consiga se 
+internacionalizar com sucesso, se não for junto a estados que tenham projetos 
+de poder extraterritorial.
+xi) Olhando para o movimento conjunto do sistema, pode-se ver que a expansão 
+dos “Estados-economias nacionais”  líderes  gera uma espécie de “rastro 
+econômico” , que se alarga a partir da sua própria economia nacional, 
+começando pelas economias do “núcleo central” , cujo crescimento define as 
+FIORI, J. L. Estado e desenvolvimento na América Latina
+17
+DOI: 10.1590/198055272416Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+fronteiras externas do “rastro do sistema” . Cada um desses “Estados-economias 
+nacionais” expansivos produz seu próprio rastro e, dentro dele, as demais 
+economias nacionais se hierarquizam em três grandes grupos, segundo suas 
+estratégias político-econômicas internas. Em um primeiro grupo, estão as 
+economias nacionais que se desenvolvem sob o efeito imediato do líder. 
+Vários autores já falaram de “desenvolvimento a convite” ou “associado” para 
+referir-se ao crescimento econômico de países que têm acesso privilegiado 
+aos mercados e aos capitais da potência dominante. Como aconteceu com os 
+antigos domínios ingleses do Canadá, Austrália e Nova Zelândia, depois de 
+1931, e também com a Alemanha, o Japão e a Coreia, depois da Segunda 
+Guerra Mundial, no momento em que foram transformados em protetorados 
+militares dos EUA, com acesso privilegiado aos mercados norte-americanos. 
+Em um segundo grupo, situam-se os países que adotam estratégias de catch-
+up para alcançar as “economias líderes” . Por razões ofensivas ou defensivas, 
+aproveitam os períodos de bonança internacional para mudar sua posição 
+hierárquica e aumentar sua participação na riqueza mundial, por meio de 
+políticas agressivas de crescimento econômico. Nesses casos, o fortalecimento 
+econômico vai junto com o fortalecimento militar e o aumento do poder 
+internacional do país. São projetos que podem ser bloqueados, como já 
+aconteceu muitas vezes, mas também podem ter sucesso e dar nascimento a 
+um novo estado e a uma nova economia líder, como aconteceu com os Estados 
+Unidos na segunda metade do século XIX e começo do XX, e está em vias de 
+acontecer com a China, na segunda década do século XXI. Por fim, em um 
+terceiro grupo muito mais amplo, localizam-se quase todas as demais 
+economias nacionais do sistema mundial, que atuam como periferia 
+econômica do sistema. São economias nacionais que podem ter fortes ciclos 
+de crescimento e alcançar altos níveis de renda per capita , e podem se 
+industrializar, sem deixarem de ser periféricos, do ponto de vista de sua 
+posição dentro do “rastro do cometa” , ou seja, dentro da hierarquia regional e 
+global de poder.
+xii) Se existisse um denominador comum entre todos os países de forte 
+desenvolvimento econômico, com certeza seria a existência de um grande 
+desafio ou inimigo externo competitivo, responsável pela existência de uma 
+orientação estratégica defensiva e permanente, envolvendo quase sempre 
+uma dimensão político-militar e uma competição acirrada pelo controle das 
+“tecnologias sensíveis” . Esse foi o caso de todos os estados e todas as economias 
+nacionais que fazem parte do núcleo central das grandes potências do sistema. 
+Nesses casos, a guerra real ou virtual teve um papel decisivo na trajetória dos 
+FIORI, J. L. Estado e desenvolvimento na América Latina
+18Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+DOI: 10.1590/198055272416
+seus desenvolvimentos econômicos. Mas, atenção, porque não se trata da 
+importância apenas das armas ou da indústria de armamentos, trata-se de um 
+fenômeno mais complexo que envolveu sempre uma grande mobilização 
+nacional, uma grande capacidade central de comando estratégico, além de 
+uma economia dinâmica e inovadora. As armas e as guerras, por si mesmas, 
+podem não ter nenhum efeito dinamizador sobre as economias nacionais, 
+como no caso da Coreia do Norte, do Paquistão e de tantos outros países que 
+possuem grandes exércitos e estoques de armamentos e baixíssima capacidade 
+de mobilização nacional e crescimento econômico. Neste sentido, tudo indica 
+que Max Weber tenha razão quando afirma que “em última instância, os 
+processos de desenvolvimento econômico são lutas de dominação” , ou seja, 
+que não existe desenvolvimento econômico capitalista que não envolva uma 
+luta de poder e pelo poder (WEBER, 1982, p. 18).
+3.TRÊS NOTAS SOBRE O FUTURO
+Quando se pesquisa o passado, se está sempre tentando diminuir – de uma forma ou 
+outra – a opacidade do futuro, ainda mais em um tempo de grandes mutações e 
+incertezas. Mas pensar o futuro não é uma tarefa fácil e sempre envolve uma alta dose 
+de especulação. Mesmo assim, o pesquisador deve manter a mais absoluta fidelidade 
+com relação às hipóteses utilizadas na sua leitura do passado, e é isso que nos propomos 
+fazer nestas três notas finais deste trabalho, sobre o futuro do sistema interestatal 
+capitalista e da própria América Latina: 
+i) Do nosso ponto de vista, quando se olha para o sistema interestatal capitalista, 
+de uma perspectiva macro-história e de longa duração, pode-se identificar 
+quatro momentos em que ocorreram grandes “explosões expansivas” , dentro 
+do próprio sistema. Nesses períodos, primeiro ocorreu um aumento da 
+“pressão competitiva” , e depois uma grande “explosão” ou alargamento das 
+suas fronteiras internas e externas. O aumento da “pressão competitiva” foi 
+provocado – quase sempre – pelo expansionismo de uma ou várias “potências 
+líderes” e envolveu também um aumento do número e da intensidade do 
+conflito entre as outras unidades políticas e econômicas do sistema. E a 
+“explosão expansiva” que se seguiu projetou o poder dessas unidades ou 
+“potências” mais competitivas para fora de si mesmas, ampliando as fronteiras 
+do próprio “universo” . A primeira vez que isso ocorreu foi no “longo século 
+XIII” , entre 1150 e 1350. O aumento da “pressão competitiva” , dentro da 
+Europa foi provocado pelas invasões mongóis, pelo expansionismo das 
+FIORI, J. L. Estado e desenvolvimento na América Latina
+19
+DOI: 10.1590/198055272416Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+Cruzadas e pela intensificação das guerras “internas” na península ibérica, no 
+norte da França e na Itália. A segunda vez que isso ocorreu foi no “longo 
+século XVI” , entre 1450 e 1650. O aumento da “pressão competitiva” foi 
+provocado pelo expansionismo do Império Otomano e do Império Habsburgo 
+e pelas guerras da Espanha com a França, com os Países Baixos e com a 
+Inglaterra. É o momento em que nascem os primeiros Estados europeus, com 
+suas economias nacionais e com uma capacidade bélica muito superior a das 
+unidades soberanas do período anterior. A terceira vez que isso ocorreu foi no 
+“longo século XIX” , entre 1790 e 1914. O aumento da “pressão competitiva” 
+foi provocado pelo expansionismo francês e inglês, dentro e fora da Europa, 
+pelo nascimento dos Estados americanos e pelo surgimento, depois de 1860, 
+de três potências políticas e econômicas – Estados Unidos, Alemanha e Japão 
+–, que cresceram muito rapidamente e revolucionaram a economia capitalista 
+e o “núcleo central” das grandes potências. Por fim, do nosso ponto de vista, 
+neste momento está em pleno curso uma quarta grande “explosão expansiva” 
+do sistema mundial, que começou na década de 1970. Nossa hipótese é que o 
+aumento da pressão dentro do sistema foi provocado pela própria estratégia 
+expansionista e imperial dos Estados Unidos, que se aprofundou e radicalizou 
+depois dos anos 1970; mas também pelo grande alargamento das fronteiras 
+do sistema, com a criação de cerca de 130 novos Estados nacionais, após o fim 
+da II Guerra Mundial; e, finalmente, pelo crescimento vertiginoso do poder e 
+da riqueza dos Estados asiáticos, em particular, da China (FIORI, 2008). 
+Mesmo assim, do nosso ponto de vista, este aumento da pressão sistêmica não 
+aponta para o fim do poder americano, e muito menos para o fim do sistema 
+capitalista, ou do próprio sistema interestatal.
+ii) Pelo contrário, depois da derrota do Vietnã e da reaproximação com a China, 
+entre 1971 e 1973, o poder americano cresceu de forma contínua, construindo 
+uma extensa rede de alianças e uma infraestrutura militar global, que lhe 
+permite até o hoje o controle, quase monopólico, naval, aéreo e espacial de 
+todo o mundo. Mas, ao mesmo tempo, essa expansão do poder americano 
+contribuiu para a “ressurreição” militar da Alemanha e do Japão e para a 
+autonomização e o fortalecimento da China, da Índia, do Irã e da Turquia, 
+além do retorno da Rússia ao “grande jogo” da Ásia Central e do Oriente 
+Médio. Os revezes militares dos Estados Unidos na primeira década do século 
+desaceleraram o seu projeto imperial. Mas uma coisa é certa: os EUA não 
+abdicarão voluntariamente do poder global que já conquistaram e não 
+renunciarão à sua expansão contínua no futuro. Por outro lado, depois do fim 
+do Sistema de Bretton Woods, entre 1971 e 1973, a economia americana 
+FIORI, J. L. Estado e desenvolvimento na América Latina
+20Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+DOI: 10.1590/198055272416
+cresceu de forma quase contínua até o início do século XXI. Ao associar-se 
+com a economia chinesa, a estratégia norte-americana diminuiu a importância 
+relativa da Alemanha e do Japão para sua “máquina de acumulação” global de 
+capital. Ao mesmo tempo, contribuiu para transformar a Ásia no principal 
+centro de acumulação capitalista do mundo, transformando a China em uma 
+economia nacional com enorme poder de gravitação sobre toda a economia 
+mundial. Essa nova geometria política e econômica do sistema mundial se 
+consolidou na primeira década do século XXI e deve se manter nos próximos 
+anos. Do nosso ponto de vista, os Estados Unidos manterão sua centralidade 
+dentro do sistema, como a única potência efetivamente capaz de intervir em 
+todos os tabuleiros geopolíticos do mundo, e mantendo-se, ao mesmo tempo, 
+o Estado que emite a moeda de referência internacional. Daqui para frente, a 
+União Europeia terá um papel cada vez mais secundário, como coadjuvante 
+dos Estados Unidos, sobretudo, se a Rússia e a Turquia aprofundarem seus 
+laços com os EUA dentro Oriente Médio. Nesse novo contexto internacional, 
+a Índia, o Brasil, a Turquia, o Irã, a África do Sul, e talvez a Indonésia, deverão 
+aumentar o seu poder regional e global, em escalas diferentes, mas ainda não 
+terão por muito tempo, capacidade de projetar seu poder militar além das 
+suas fronteiras regionais. De qualquer forma, duas coisas se podem dizer com 
+bastante certeza, neste início da segunda década do século XXI:
+a) Não existe nenhuma “lei” que defina a sucessão obrigatória e a data do 
+fim da supremacia americana. Mas é absolutamente certo que a simples 
+ultrapassagem econômica dos EUA não transformará, automaticamente, 
+a China em uma potência global, muito menos na  líder do sistema 
+mundial. 
+b) Terminou, definitivamente, o tempo dos “pequenos países” 
+conquistadores. O futuro do sistema mundial envolverá – daqui para 
+frente – um permanente “jogo de guerra de posições” entre grandes 
+“países continentais” , como é o caso pioneiro dos EUA, e agora é também 
+o caso da China,  Rússia, Índia e do Brasil. Nessa disputa, os EUA já 
+ocupam o epicentro do sistema mundial; porém, mesmo antes que os 
+outros quatro países adquiram a capacidade militar e financeira 
+indispensável à condição de potência global, eles já controlam em 
+conjunto cerca de um terço do território e quase metade da população 
+mundial. 
+c) Por fim, com relação à América Latina, o Brasil conquistou um razoável 
+grau de autonomia neste início do século XXI, e já entrou no grupo dos 
+estados e das economias nacionais que fazem parte do “caleidoscópio 
+FIORI, J. L. Estado e desenvolvimento na América Latina
+21
+DOI: 10.1590/198055272416Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+central” do sistema, no qualtodos competem com todos, e todas as 
+alianças são possíveis, em função dos objetivos estratégicos do país e da 
+sua proposta de mudança do próprio sistema internacional. Essa nova 
+importância política e econômica deverá crescer nos próximos anos de 
+forma regular, na América do Sul, no Atlântico Sul e no sul da África, 
+mas o Brasil seguirá sendo um país sem capacidade de projeção global do 
+seu poder militar. Deste ponto para frente, a América Latina será cada 
+vez mais hierarquizada, e o futuro da América do Sul, em particular, será 
+cada vez mais dependente das escolhas e decisões tomadas pelo Brasil. 
+Em primeiro lugar, se o Brasil tomar o “caminho do mercado’ ele deve se 
+transformar, com toda certeza, numaeconomia exportadora de alta 
+intensidade, de petróleo, alimentos e commodities, uma espécie de 
+“periferia de luxo” das grandes potências compradoras do mundo, como 
+foram no seu devido tempo a Austrália e Argentina, ou o Canadá, mesmo 
+depois de industrializado. Neste caso, o resto da América do Sul deve 
+seguir o mesmo caminho e manter-se na sua condição originária de 
+periferia “primário-exportadora” da economia mundial. Mas o Brasil 
+também pode seguir um caminho novo dentro da América do Sul, 
+combinando indústrias de alto valor agregado, com a produção de 
+alimentos e commodities de alta produtividade, sendo, ao mesmo tempo, 
+autossuficiente do ponto de vista energético. Mas esta não será nunda 
+uma escolha puramente técnica ou mesmo econômica, porque ela supõe 
+uma escolha prévia, de natureza política e estratégica, sobre os objetivos 
+do Estado e da inserção internacional do Brasil. E aqui de novo, existem 
+pelo menos duas alternativas para o Brasil: manter-se como sócio 
+privilegiado dos Estados Unidos, na administração da sua hegemonia 
+continental; ou lutar para aumentar sua capacidade de decisão estratégica 
+autônoma, no campo da economia e da sua própria segurança, por meio 
+de uma política determinada de complementaridade e competitividade 
+crescente com os Estados Unidos, de forma solidária com a América do 
+Sul, formando alianças variáveis e e circunstanciais com as demais 
+potências do sistema mundial.Tudo isto, entretanto, só poderá se 
+transformar em realidade se o Brasil for capaz de  desenvolver seus 
+próprios recursos e instrumetos de ação e projeção de sua presença 
+dentro do seu tabuleiro regional, e no contexto do sistema internacional..
+FIORI, J. L. Estado e desenvolvimento na América Latina
+22Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+DOI: 10.1590/198055272416
+REFERÊNCIAS
+BARAN, P . The political economy of economic growth. Monthly Review Press, New Y ork, 1957. 
+BELLUZZO, L. G.; COUTINHO, R. (Orgs.) Desenvolvimento capitalista no Brasil. Vol. 1 e 2. São 
+Paulo: Editora Brasiliense, 1982.
+BIELSCHOWSKY , R. “Introdução” . In: BIELSCHOWSKY , R. (Org.). Cinquenta Anos do 
+Pensamento da CEPAL. Rio de Janeiro: Editora Record, 2000. 
+BIELSCHOWSKY , R. Pensamento econômico brasileiro: o ciclo ideológico do desenvolvimen -
+tismo. Rio de Janeiro: IPEA/INPES, 1988.
+BRAUDEL, F . A dinâmica do capitalismo. Rio de Janeiro: Rocco, 1987. 
+BRAUDEL, F . Civilização material e capitalismo, séculos XV-XVIII. O jogo das trocas. Rio de 
+Janeiro: Martins Fontes, 1996.
+BUKHARIN, N. A economia mundial e o imperialismo. São Paulo: Editora Abril Cultural, 1984.
+CARDOSO DE MELO, J. M. O capitalismo tardio. São Paulo: Editora Brasiliense, 1982. 
+CARDOSO, F . H.; FALETTO, E. Dependência e desenvolvimento na América Latina . Rio de 
+Janeiro: Zahar Editores, 1970.
+CASTRO, T. de et al. Geohistória, geopolítica e relações internacionais. Rio de Janeiro: Ed. Livraria 
+Freitas Bastos, 1979.
+CASTRO, T. de. O Brasil no mundo atual. Posicionamento e diretrizes. Rio de Janeiro: Editora 
+Colégio Pedro II, 1982.
+DAVIS, H. B. Nationalism and socialism. Monthly Review Press, New Y ork, 1967.
+DORNBUSCH, R.; EDW ARDS, S. The macroeconomics of populism in Latin America. Chicago: 
+The Chicago University Press, 1991.
+EISENSTADT, S. N.; ROKKAN, S. Building states and nations. London: Sage Publications, 1973. 
+Vol. 1 e 2.
+FERGUSON, N. A lógica do dinheiro, riqueza e poder no mundo moderno, 1700-2000 . Rio de 
+Janeiro: Record, 2007.
+FIORI, J. L. Estado e desenvolvimento para América Latina: notas para um novo “programa de 
+pesquisa” . (Documentos de Projetos, Estudos e Investigações) Brasília, DF: CEPAL, 2013.
+FIORI, J. L. Brasil e América do Sul: o desafio da inserção internacional soberana. Textos para 
+Discussão, CEPAL-IPEA, n. 42, 2011.
+FIORI, J. L. “O sistema interestatal capitalista no início do século XXI” . In: FIORI, J. L.; 
+MEDEIROS, C.; SERRANO, F . O mito do colapso do poder americano . Rio de Janeiro: 
+Editora Record, 2008.
+FIORI, J. L. O poder global e a nova geopolítica das nações. São Paulo: Editora Boitempo, 2007.
+FIORI, J. L. “Formação, expansão e limites do poder global” . In: FIORI, J. L. (Org.). O poder 
+americano. Petrópolis: Editora Vozes, 2004. 
+FIORI, J. L. 60 Lições dos Anos 90. Rio de Janeiro: Editora Record, 2001.
+FIORI, J. L. Estado e desenvolvimento na América Latina
+23
+DOI: 10.1590/198055272416Rev. Econ. Contemp., v. 24, n. 1, p. 1 -23, 2020, e202416
+FIORI, J. L. “De volta à questão da riqueza de algumas nações” . In: FIORI, J. L. (Org.). Estados e 
+moedas no desenvolvimento das nações. Petrópolis: Editora Vozes, 1999.
+FIORI, J. L. O vôo da coruja. Uma leitura não liberal da crise do Estado desenvolvimentista. Rio 
+de Janeiro: Eduerj, 1995.
+FIORI, J. L. Para uma crítica da teoria latino-americana do Estado. Revista Síntese Nova Fase, 
+Belo Horizonte, n. 90, 1990.
+FIORI, J. L. Conjuntura e crise na dinâmica de um Estado periférico . Tese (Doutorado em 
+Ciências Políticas) – Instituto de Filosofia, Letras e Ciências Humanas, Universidade de São 
+Paulo, São Paulo, 1984.
+FIORI, J. L.; MEDEIROS, C.; SERRANO, F . O mito do colapso do poder americano . Rio de 
+Janeiro: Editora Record, 2008. 
+FRANK, A. G. Capitalism and underdevelopment in Latin America. Monthly Review Press, New 
+Y ork, 1969.
+GOLBERY , C. S. Planejamento estratégico. Rio de Janeiro: Editora Biblioteca do Exército, 1955.
+HIRSCHMAN, A. "The rise and decline of development economics". In: HIRSCHMAN, A.  
+Essays in trespassing : economics to politics and beyond. Cambridge, UK; New Y ork: 
+Cambridge University Press, 1981.
+KRUEGER, A. The political economy of the rent-seeking society. American Economic Review, 
+Princenton, v. 64, 1974.
+LAPALOMBARA, J.; WEINER, M. Political parties and political development . Princenton: 
+Princenton University Press, 1966.
+MARX. C. O Capital. Crítica de la Economia Política. México, DF: Fondo de Cultura Económica, 
+1947. 
+MATTOS, C. M. Brasil – geopolítica e destino. Rio de Janeiro: Editora Biblioteca do Exército, 
+1975.
+MORI, K. Marx and ‘underdevelopment’: his thesis on the ‘historical role of British free trade’ 
+revisited. Annals of the Institute of Social Science, University of Tokyo, n. 19, 1978.
+NORTH, D. Structure and change in economic history. New Y ork: W .W . Norton & Co., 1981.
+PALMA, G. “Dependence and development: a critical overview” . In: SEERES, D. (Ed.). 
+Dependence theory: a critical reassessment. London: Frances Pinter, 1981.
+ROSTOW , W . W . The process of economic growth. New Y ork: Norton, 1952. 
+ROSTOW , W . W . The stages of economic growth. A non-Communist Manifesto. Cambridge, UK: 
+Cambridge University Press, 1960.
+TAV ARES, M. C. Acumulação de capital e industrialização no Brasil . Campinas: Editora 
+Unicamp, 1974.
+WEBER, M. Escritos políticos. México, DF: Folios Ediciones, 1982. Vol. 1.

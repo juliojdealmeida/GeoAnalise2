@@ -1,0 +1,996 @@
+Towards the Construction of Territorial Intelligence Tourism Concept in Latin America 
+José  Luis Cornejo-Ortega* , Rodrigo Espinoza-Sá nchez , José  Alejandro Ló pez-Sá nchez
+Centro Universitario de la Costa, Universidad de Guadalajara, Puerto Vallarta, Jalisco 48280, Mé xico 
+Corresponding Author Email: jluis.cornejo@academicos.udg.mx
+Copyright: ©2024 The authors. This article is published by IIETA and is licensed under the CC BY 4.0 license 
+(http://creativecommons.org/licenses/by/4.0/).
+https://doi.org/10.18280/ijsdp.190422 ABSTRACT 
+Received: 20 November 2023 
+Revised: 14 March 2024 
+Accepted: 12 April 2024 
+Available online: 28 April 2024 
+The objective of this research is to analyze from the Latin American perspective (Colombia, 
+Costa Rica and Mexico), the construct of Territorial Intelligence Tourism concept. The 
+methodological tool chosen, given the characteristics of the research carried out, has been the 
+realization of a remote expert panel, which has allowed validating the methodology proposed 
+to strengthen, through the concept of territorial intelligence and its relationship with tourism. 
+The responses to the interviews were analyzed through the ATLAS.ti 22 software. Within the 
+code table of the expert groups, the frequencies of words that stood out the most with th e 
+answers are concentrated, giving 399 co-occurrences in codes, 257 routings and 174 densities. 
+Part of the construct of the concept of Territorial Intelligence Tourism concept in the three 
+participating countries (Mexico, Colombia and Costa Rica) of this study are located around 
+Territorial Intelligence, where the categories are directly related to the three countries, these 
+being: sustainable development, global community, tourism, urban development and 
+development of science, technology and innovation. 
+Keywords: 
+intelligent territory, tourism, Latin 
+America 
+1. INTRODUCTION
+Some of the problems that society is currently experiencing 
+are due to the prevailing economic model, based on 
+consumption, where unlimited growth is the maxim that 
+cannibalizes natural and cultural resources, and leads to 
+increasingly pronounced social inequalities. A society that 
+seeks to solve these differences by means of measures that are 
+not only economic but also integral, must act inte lligently 
+given the degree of existing knowledge. It is, in this context 
+that the concept of "territorial intelligence (TI)" arises, with 
+the three elements that define it: sustainable development, 
+governance and information and communication technologies 
+(ICT) [1]. 
+Today numerous organizations and institutions promote the 
+progress of Territorial Intelligence. One of the supranational 
+organizations and promoter of research in this field is 
+Coordination Action of the European Network of Territorial 
+Intelligence (CAENTI), leader in the study and development 
+of TI. According to Ortoll [2], territorial intelligence refers to 
+the knowledge needed to understand territorial dynamics and 
+structures, as well as the instruments used for the generation 
+and use of this knowledge. All this, in order to guarantee and 
+promote sustainable territorial development. Its main 
+objective is to promote new forms of relationships between 
+different actors involved in a territory, since applying 
+territorial intelligence policies or initiatives c an constitute a 
+differentiating axis between one territory and another, 
+contributing to the development of the region and by extension 
+to its companies and to the wellbeing of society in general" 
+[3]. 
+The scenarios that have been created, served for the 
+discussion, scientific and technological development of 
+territorial intelligence. 
+"From the European school, three programmatic axes are 
+worked on: 1) the development of theoretical references on 
+territorial intelligence, 2) the design and validation of methods 
+and 3) the development of technological tools oriented to the 
+application of territorial intelligence systems for diverse 
+actors, problems and contexts. From the perspective of this 
+group, various conceptions of TI are identified" [4]. 
+"From the Latin American school guided by Horacio 
+Bozzano, the axes are: 1) TI as a strategy for the sustainable 
+development of territories; 2) a process based on the 
+construction of people into subjects, of banal spaces into 
+territories and of vague ideas  into concrete projects, and 3) 
+aims to work for identities, needs and future scenarios [4]". 
+TI is the application of Competitive Intelligence at local, 
+regional or state level, in order to know better the territory and 
+to be able to reach acceptable levels of development and 
+sustained economic growth. TI takes into account the 
+information of the environment and from its interpretation 
+designs and carries out improvement actions related to the 
+territory [3]. 
+Territorial development does not depend only on the 
+"purely technological" capabilities that have been developed 
+in the region, but also on a set of "social capabilities", which 
+are reflected not only in the quality of governance of the 
+regional innovation system, but also in the values, beliefs and 
+institutions that encourage and drive the active participation of 
+society in the processes of development and regional learning 
+[5]. 
+International Journal of Sustainable Development and 
+Planning 
+Vol. 19, No. 4, April, 2024, pp. 1447-1455 
+Journal homepage: http://iieta.org/journals/ijsdp 
+1447
+
+One of territorial intelligence objectives, within the 
+challenges linked to territorial sustainability and the 
+application of ICT, is the co -construction of a territory, 
+respecting the needs and expectations from a local perspective, 
+territorial sustainability and the application of ICT. Is the co -
+construction of a territory, respecting the needs and 
+expectations from a local perspective, in line with the global -
+local relationship, as an indispensable condition for the 
+development of a territory from a loca l perspective. 
+Considering the singularities and the projection that same 
+territory offers in the globalization paradigm, understanding 
+that the tourist space is not a unique element, since there are a 
+multitude of resources integrated in multiple territor ial forms 
+according to the previous characteristics of the incorporated 
+space and the conditions of appropriation according to the 
+actors in the presence of capitals, ideologies, and cultural 
+patterns [6, 7]. 
+Despite this scarce interest in the field of tourism, it is 
+interesting to plan the development of a tourist destination 
+from the perspective of territorial intelligence, in which the 
+actors are the main "intelligent entities" capable of shaping a 
+strategy, monitoring the results and implementing lines of 
+future action; capable of enhancing the value of tourist 
+destinations and, therefore, strengthening a territory, offering 
+opportunities and prospects for structural change, 
+accompanied by population wellbeing [8]. 
+In this sense, the objective of this research is to analyze from 
+the Latin American perspective (Colombia, Costa Rica and 
+Mexico), the construct of Territorial Intelligence Tourism 
+concept. 
+2. LITERATURE REVIEW
+The variables to assess community resilience in tourist the 
+concept and tools of TI originated in the late 1980s in response 
+to the needs of a group of territorial stakeholders working on 
+projects to combat poverty [9]. In 1989, the absence of 
+territorial plans based on participation, the demand for critical 
+approaches in the field of sustainable development, the 
+revolution of information and communication technologies, 
+led to the emergence in Europe (Besanç on, France) by the 
+"Catalyse" method [10], whose m ain objective was the 
+creation of collective intelligences through various tools 
+(diagnostic and evaluation), in order to enable the actors to 
+elaborate, argue, animate and evaluate sustainable 
+development projects [1]. The two fundamental aspects that 
+will mark other definitions: the scientific approach and the 
+actors-territorial community [11-19]. 
+The scientific approach in territorial intelligence has the 
+function of integrating and developing multidisciplinary 
+knowledge and methods necessary to understand territorial 
+structures, territorial systems and territorial dynamics [20]. It 
+follows that IT  cannot be seen as a discipline, it is not the 
+simple sum of knowledge, but is shaped as a set of knowledge 
+obtained through observation and structured reasoning [1]. 
+Tourism destinations, as spaces whose competitiveness 
+depends on the overall quality of their territory (environment, 
+landscape, business fabric, infrastructure, public facilities and 
+services, heritage, etc.), have not been unaware of this concept, 
+and th e expression tourism governance has gained strength 
+[21]. 
+In this regard, in recent years there has been a growing 
+number of scientific approaches to the application of the TI 
+approach to tourism activity [22]. 
+The actors-territorial community suppose the second pillar 
+of IT; in fact, this is defined as a process that is based on the 
+understanding that articulates knowledge, being essential the 
+co-participation, co-construction and collaboration carried out 
+by the different actors [15, 17, 23]. 
+The definition used by ENTI states that "Territorial 
+Intelligence is the science aimed at sustainable development 
+and whose subject is the territorial community" [14]. Frediani 
+[17] also proposes that territorial intelligence is a way of doing
+science. However, authors such as Girardot [24], Devillet and
+Breuer [13] and Sá nchez  et al.  [18], who propose that
+territorial intelligence is a scientific approach due to its
+multidisciplinary nature, do not propose it as a science.
+The tools and methods developed from territorial 
+intelligence are based on the close collaboration of territorial 
+actors and research teams, focused on a research -action 
+dynamic to provide real solutions to current problems. Most of 
+the tools that have bee n developed by ENTI and by the 
+interdisciplinary research team Territory Actors and 
+Governance for Transformation (TAG) in Latin America, have 
+been designed to be used by a group of actors acting on the 
+same problem or space. Such tools are characterized b y 
+combining qualitative, quantitative and spatial techniques 
+based on ICT's [1]. 
+From this perspective in Latin America there are already 
+some TI initiatives as is the case of Argentina, Colombia and 
+now Mexico is incorporated from the tourism vision to TI [25-
+27]. However, at the global level the conceptualization of this 
+TI in question and the ways of how to interrelate the tourism 
+dimension for the development of such territory continues to 
+proliferate [1, 28]. 
+In Latin America, the TAG team bases its tools on the 
+Understanding, Intelligence and Territorial Development 
+(UITD) Methodological Perspective, whose objective is to 
+build among local actors research methods and territorial 
+intervention instruments that s ystematically accompany the: 
+image of the future, strategy that will lead to it and obtaining 
+collective achievements [15]. 
+2.1 Territorial intelligence and tourism 
+As recognized by Luque et al. [29], tourism has been a 
+sector scarcely addressed by the methodologies of territorial 
+intelligence; there are only a few projects in this line in 
+Uruguay, Argentina and Morocco, framed in the development 
+of tools for the promotion of sustainable tourism initiatives at 
+the local level. 
+Tourism projects have been scarce, in fact, only five actions 
+have been found that combine territorial intelligence and 
+tourism: 
+(1) Uruguay (Punta del Este) in 2009, where work was
+carried out to generate employment, promote ecological and 
+social innovation, and enhance the value of the destination's 
+natural and cultural resources;  
+(2) Uruguay (Lavalleja) in 2010, where tourism was
+addressed with the aim of conserving biodiversity and cultural 
+heritage, and investigating its impact on the quality of 
+population life;  
+(3) Argentina (La Plata) in 2012, it is about rescuing
+heritage assets that are linked to the city and its social practices; 
+(4) Argentina, the "Parador ecoló gico La Posada" is carried
+out to revalue cultural and natural heritage and generate links 
+with local stakeholders;  
+1448
+(5) Argentina (Santa Fé  and Paraná ) in 2011, the project
+"Organization of Territorial Intelligence, for Sustainable 
+Tourism in the RMSP" was carried out [1]. 
+Of this series of territorial intelligence initiatives focused on 
+tourism, the last two have been analyzed in detail, which, like 
+the others, seek to be promoted and developed by the host 
+communities themselves [19]. Despite this scarce interest in 
+the field of tourism, it is interesting to plan the development of 
+a tourist destination from the perspective of TI, in which the 
+actors are the main "intelligent entities" capable of shaping a 
+strategy, monitoring the results and implementing lines of 
+future act ion; capable of enhancing the value of tourist 
+destinations [8]. 
+From the perspective of the relationship between territorial 
+intelligence and tourism, we are witnessing a paradigm shift 
+linked to the valorization of the tourist territory by tourists and 
+tourism producing agents, generating tourist attractions in 
+which there is a tendency to connect history, tourist identity, 
+environmental characteristics and, in general, resources and 
+activities disjointed from the economic activity of the territory 
+[8]. 
+3. METHODOLOGY
+The methodological tool chosen, given the characteristics of 
+the research carried out, has been the realization of a remote 
+expert panel, which has allowed validating the methodology 
+proposed to strengthen, through the concept of territorial 
+intelligence and its relationship with tourism. The panel of 
+experts can be def ined as a group of independent specialists 
+with experience in the topic to be evaluated, who are asked to 
+make a consensus judgment on that topic [30-33]. 
+The group of experts that participated in this research 
+consisted of nine experts, 4 from Colombia, 2 from Costa Rica 
+and 3 from Mexico. It was established as a sine qua non  
+condition that the participating experts should be people with 
+recognized knowledge in the subject under evaluation, i.e. 
+territorial intelligence applied to a territory, in this case to 
+tourist destinations. 
+A group of remote experts was chosen because of the 
+linkage of having previously worked with researchers from 
+Colombia, Costa Rica and Mexico. 
+The study focused on obtaining empirical knowledge and 
+subjective experiences of key actors through interviews, 
+whereby this qualitative methodological approach allows to 
+explore in depth the perceptions, experiences and lived 
+realities of the participants , providing an in -depth 
+understanding of the general ideologies and significant events 
+in their statements [34]. In this way the study focuses on key 
+aspects that are representative of the diverse realities of the 
+concept of TI in the Latin American contex t, although the 
+sample may not be extensive in a quantitative approach, the 
+depth and relevance of the experiences in the qualitative 
+approach compensate for its numerical limitation, ensuring 
+that the perspectives are meaningful and relevant to the study 
+of TI. 
+For this research, experts in different topics related to 
+territorial intelligence and tourism were consulted in order to 
+broaden the perspective and take into account elements of each 
+of the topics, the characteristics of the interview are presented 
+in Table 1. 
+Table 1. Semi-structured interview 
+Expert Interview Format . Territorial Intelligence and 
+Tourism 
+Instrument: Semi-structured interview 
+Interview No: 
+Date: 
+Place: 
+Objective: To recognize how the different dynamics 
+associated with the territory intervene in territorial 
+intelligence in tourism. 
+Justification: Territorial intelligence is the improvement to 
+the dialogue between the territory and society. Society, it is 
+when knowledge and information become concrete and 
+begin to play a very important role in the interpretation of 
+the territory dynam ics. based on multiple factors and 
+variables from very important role in the interpretation of 
+the dynamics of a territory from multiple factors and 
+variables from which an endless number of relationships 
+with a high social sense are derived. 
+The possibility of the existence of technological platforms 
+that allow the communication of people's knowledge about 
+their territories, tourism and their feedback is very broad 
+and valuable; the challenge is to identify the appropriate 
+method to achieve it. For this purpose, a series of interviews 
+were conducted aimed at understanding territorial 
+intelligence from different approaches to the territory, in 
+order to understand the dynamics associated with it and how 
+to intervene it. 
+Questions 
+1. What is Territorial Intelligence for you?
+2. Do you agree that people are the pillar of Territorial
+intelligence?
+Why do you agree?
+3. How do you think tourism is related to territorial
+intelligence?
+4. In order to dynamism territorial intelligence from
+tourism, would it be pertinent to use ICTs in a participatory
+manner.
+5. Do you believe that people's perception of tourism can be
+better supported scientifically through ICTs?
+6. What are the aspects, elements or variables of tourism
+that should be taken into account in your territory?
+7. Can they be monitored through ICTs?
+8. Do you believe that the community in your territory is
+interested in these aspects, elements or variables?
+9. Do you believe that participation (from the monitoring of
+these variables in tourism) should be remunerated in some
+way?
+How?
+10. Would you be willing to participate in the construction
+of a participation process with ICT's as a contribution to
+territorial intelligence in tourism?
+Source: Own elaboration 
+The procedure at the time of applying the interview was 
+done through the selection of experts and the sending of the 
+interview via email, with a follow-up through telephone calls, 
+thus verifying that the wording of the interview was clear and 
+verifying com pliance with the times and responses of these 
+experts, for subsequent processing and analysis of results, 
+Atlas.ti© software was used. 
+1449
+ 
+The purpose of the main functions of the program is to 
+accommodate the theory-building procedures. In this sense, it 
+facilitates the organization of the analysis through functions 
+that allow segmenting quotations, conceptualizing, recording 
+reflections, categorizing, relating processes and showing the 
+theory that is constructed through diagrams. All these first - 
+and second -order procedu res give the analysis greater 
+explanatory power for the research. 
+Finally, the responses to the interviews were analyzed 
+through the ATLAS.ti 22 [35] software, given that it includes 
+a set of tools that allow the management, extraction, 
+exploration, and restructuring of significant data elements 
+[36]. Which allowed identifying those codes (linked citations) 
+that need to be saturated, this is possible through the function: 
+codes-primary-documents-tables-networks, which show the 
+number of citations that each code has, their co -occurrences 
+(link between the citations), densi ties (relationships that are 
+generated between the linked codes) and rooting (citations that 
+are held with that code). 
+Although there are other tools such as NVivo and 
+MaxQDA; which offer their own strengths and characteristics, 
+ATLAS.ti was selected for its specific alignment with the 
+methodological and theoretical needs for the study of IT [37]. 
+Its focus on grounded theory and content analysis, along with 
+its flexibility and depth in handling qualitative data, makes it 
+a more suitable tool for our analysis, facilitating a richer and 
+more detailed understanding of the data obtained. 
+The study adopted an interpretive theoretical approach, 
+based on the premise that cultural systems of meaning 
+influence the perception and creation of subjective and social 
+reality, recognizing the importance of shaping individual and 
+collective experiences [38]. Therefore, the data analysis 
+process was designed to capture and understand these cultural 
+and social complexities, allowing for an in -depth 
+interpretation of the TI. 
+The data analysis conducted in the research followed a 
+qualitative methodological approach; detailed and structured 
+where each interview was carefully examined to ensure 
+understanding and extraction of relevant information from 
+each key stakeholder. Under this meticulous approach it was 
+ensured that each piece of data was considered, providing a 
+solid basis for subsequent IT analysis in ATLAS.ti software; 
+facilitating the categorization and in -depth analysis of the 
+elements that constitute this concept as e xpressed in the 
+interview transcripts. 
+Therefore, this software function facilitates the application 
+of the content saturation of each code and category, as 
+proposed in the Grounded Theory and as shown in the 
+following Table 2 of the operationalization of the object of 
+study analyzed. 
+The applicability of ATLAS.ti in diverse areas of 
+knowledge and research forms is evidenced by its successful 
+use in different types of research, such as the analysis of 
+interviews, surveys and student work, citing specific studies as 
+examples [39 -42]. Therefore, it not only demonstrates the 
+versatility of the tool, but also for its ability to contribute to the 
+understanding and analysis of complex qualitative data 
+structures, allowing to discuss in detail the results obtained 
+with ATLAS.ti in the c ontext of the relevant theoretical 
+literature of IT and strengthening the contribution of existing 
+knowledge [43, 44]. 
+The purpose of the main functions of the program is to 
+accommodate the theory building procedures. In this sense, it 
+facilitates the organization of the analysis through functions 
+that allow: segment citations, conceptualize, record 
+reflections, categorize , relate processes and show the theory 
+that is built through diagrams or networks. All these first and 
+second order procedures give the analysis greater explanatory 
+power for research [35]. 
+The research implied that perception and the construction of 
+subjective reality vary in importance and manifestation among 
+different groups and contexts. Therefore, the 
+operationalization of this concept implies identifying and 
+defining the specific compon ents of TI, determining how its 
+components influence the perception and experience of key 
+stakeholders. 
+ 
+Table 2. Operationalization of the object of study of the construct of the concept of territorial intelligence  
+ 
+Analysis Unit Interviewees Dimension Categories Subcategories 
+Territorial 
+intelligence 
+Group of 
+experts 
+Construct of the concept of tourism territorial 
+intelligence in Latin America 
+Colombia. 
+Costa 
+Rica. 
+Mexico. 
+Global community. Sustainable 
+development. 
+Tourism. 
+Urban Development. 
+Development of science, technology 
+and innovation. 
+Source: Own elaboration 
+ 
+ 
+4. RESULTS AND DISCUSION  
+ 
+For the analysis of the results, codes were generated for the 
+linking of the information of the construct of the IT concept, 
+this provided a summarized vision of the descriptions 
+according to the categories and subcategories considered in the 
+interviews, likewise, the frequency of the co -occurrences of 
+the codes generated by the rooting and densities of the 
+responses provided by the groups of experts were quantified. 
+Within the code table of the expert groups, the frequencies 
+of words that stood out the most with the answers are 
+concentrated, giving 399 co -occurrences in codes, 257 
+routings and 174 densities. The yellow dot indicates that 
+everything was around the object of study; ITEM. The green 
+dots are the categories, being the home countries of the expert 
+groups. The red dots are the subcategories. The blue dots are 
+the significant elements that arose from the unit of analysis of 
+the answers (Table 3). 
+Finally, a network was created (as shown in Figure 1) that 
+provides an overview of the entities of the linked codes, 
+showing each of the results of the expert groups in the 
+construction of the IT concept. In the same way, the meanings 
+of the network connectors are shown; A: It is associated with; 
+G: is part of; A: contradicts. 
+ 
+ 
+1450
+ 
+Table 3. Codes of the responses of the expert groups 
+ 
+Codes (25) Colombia Costa Rica Mexico Totals Grounded Density 
+● Academic institutions 8 8 7 23 15 5 
+● Artificial intelligence 4 0 7 11 8 4 
+● Big data 4 3 2 8 6 5 
+● Circular economy 3 8 2 12 7 3 
+● Colombia 4 0 0 4 4 6 
+● Community and its habitat 16 8 9 33 24 5 
+● Companies 0 13 2 14 6 3 
+● Costa Rica 0 5 0 5 2 6 
+● Covid-19 3 5 4 12 7 3 
+● Cultural 2 3 4 8 5 3 
+● Cultural transformation 4 8 2 13 8 5 
+● Development of science, technology, and innovation 11 3 4 17 14 14 
+● Digital education 7 8 6 20 13 5 
+● Economic 5 5 7 18 11 5 
+● Entrepreneurship 0 5 2 7 3 5 
+● Environmental 2 3 6 10 6 3 
+● Gig economy 7 5 7 20 13 5 
+● Global community 13 13 9 35 23 19 
+● México 0 0 6 6 3 6 
+● Quality of life 4 10 11 25 14 5 
+● Social 3 8 11 22 12 5 
+● Sustainable development 6 8 6 19 12 18 
+● Territorial intelligence 1 3 2 5 3 3 
+● Tourism 21 5 13 39 30 17 
+● Urban development 5 3 4 11 8 16 
+Totals 133 133 133 399 257 174 
+Source: Own elaboration 
+ 
+ 
+ 
+Figure 1. Linking network of codes for the construct of the concept of tourism territorial intelligence in Latin America  
+Source: Own elaboration 
+ 
+Part of the construct of the concept of tourism IT in the three 
+participating countries (Mexico, Colombia and Costa Rica) of 
+this study are located around IT, where the categories are 
+directly related to the three countries, these being: sustainable 
+development, global community, tourism, urban development 
+and development of science, technology and innovation. From 
+these categories in the network, the codes that were generated 
+were in the sense of the perspectives of the group of experts in 
+the analysis of their responses. 
+ 
+4.1 Colombia 
+ 
+In the group of experts from Colombia, their results showed 
+that IT has to do with the management of space, the 
+transformations of the social conditions of the community and 
+its habitat, of which they seek to improve the living conditions 
+of urban communities and rural, in turn, the benefit of IT must 
+be supported by technology and innovation, since they are 
+important elements that manage to transform cultural 
+traditions and at the same time change social relations in all 
+areas. Likewise, t hey redefine the current thinking of water 
+waste and waste management, emphasizing green cities, 
+specifically the circular economy and agroecology. 
+Regarding the capacity of the IT construct for the 
+articulation of the agents involved in the development of a 
+territory, they mention that one of the essential elements is the 
+work in coordination for the fulfillment of collective 
+objectives, where the co mmunity acts as an important pillar 
+for obtaining information, joining efforts and the main 
+strategists in favor of tourism for the benefit of the 
+communities, these being important in the knowledge of the 
+territory and promotion of their tourist activities. 
+1451
+In addition, they consider  that knowledge  in  IT  requires 
+understanding and  planning different  dynamics from  each 
+region, as well as their  techniques for  creating  knowledge, 
+being the  fundamental  people  in this  process, because their 
+intelligence is closely linked to the rational condition of the 
+human being.  Therefore,  the plans that are designed  and 
+intended for the tourism sector and like any economic activity, 
+a strategic  direction  process  must  be  considered  so  that  its 
+analysis identifies and evaluates the impact of all exogenous 
+and endogenous variables of the sector. 
+Therefore, they  mentioned  that  there  must  be  a political 
+agreement or collective agreement between the actors of the 
+territory for the efficient use of natural resources through legal 
+mechanisms and territorial planning, which lead to social and 
+economic use  for  the  well-being of the  community,  local 
+community, Equally important, institutional conditions  must 
+be fostered so that people can access technical, technological 
+and higher education,  allowing  the  activation  and  collective 
+participation of community actors, without neglecting critical 
+and scientific thinking. 
+4.2 Costa Rica 
+The group of experts from Costa Rica, IT must be linked to 
+the interaction between the different entities of the State and 
+society, who disclose their strategic plans and the actions to be 
+followed in compliance with the different actions in regarding 
+tourism, giving as an example the official institutions, where 
+their strategic plans are contemplated, their programs aimed at 
+companies and  that people  from local  communities  are 
+included, adding all efforts for a superstructure,  carrying out 
+their laws and  incentives  for  benefit to  the actions  of its 
+resources, without  leaving aside  the  responsible 
+accompaniment of all the people involved in the action plans 
+in the face of real needs and the effects of COVID-19. 
+Another point mentioned was ICT,  where they mentioned 
+that its impacts influence the strategic direction of companies 
+and people, being a necessary element for the operation and 
+internal administration of  the company,  where  different 
+marketing strategies  can  be  carried  out and  among others. 
+Actions with a direct  interaction between  client-company. 
+Therefore, current  companies,  as of  the  pandemic,  sanitary 
+security measures were implemented for safe destinations and 
+actively participated  with local  communities,  not  only  in 
+promoting them, but also in verifying and providing incentives 
+to those who formulate and execute the actions proposed in 
+their plans. 
+There must also be an active link with the universities, in 
+this way their interrelationship can be strengthened in favor of 
+considering smart tourist destinations.  Therefore,  this new 
+normality requires  reinventing  itself  for  the  adaptation  of 
+companies and their workforce, as it is  in the Gig Economy, 
+being the  human talent  that  chooses  where,  how much and 
+when they want to work through mobile applications, allowing 
+companies to adapt and not die, also activate a collaborative 
+economy in local development. 
+Part of this, they mentioned that the present capacities of the 
+territory are  considered the elements of  knowledge, 
+experiences, cultural, social and historical heritage, since they 
+are the people who carry out the activities and it is they who 
+shape the territories, taking  advantage  of and enhancing  the 
+conditions endogenous  IT  that  is integrated into the 
+community in co-construction processes. Also, its importance 
+of applying accessible instruments  that  collect  cultural 
+historical bases, geographical cond itions, natural heritage, 
+ecological, socioeconomic, political and entrepreneurial 
+ecosystems, these indicators being to generate opportunities 
+for the creation of locally-based tourism products in territorial 
+co-creation and ecosystems of entrepreneurs in the territory. 
+4.3 Mexico 
+Lastly, the group of experts from Mexico argued that IT is 
+the understanding of the interrelationships that occur between 
+the actors in a territory that seek their own development and 
+that part of the premises of the knowledge of said actors should 
+be inco rporated into the processes of formulation and 
+management of development plans for the territorial space. In 
+turn, ICTs are an important element for supporting work and 
+intelligent territorial development itself, thus reaching the 
+basic construction of the IT concept, which are people or local 
+actors, basic pillars to sustain themselves on intelligence 
+manifold of the human being. 
+In addition to the interrelationships and interactions 
+between the people who cohabit in the territory, they affect 
+cultural diversity and worldviews towards development that 
+are integrated by their identity and their relationship with 
+nature in their loca l communities. In this sense, from its 
+construct of IT, from the phenomenon of tourism, it is 
+embedded in its spaces and the resources that allow it to 
+develop from human interaction between foreigners and hosts, 
+enabling the tourist experience from the sp heres of life of the 
+human being that impacts on the economic, social, cultural, 
+environmental and political aspects, mainly. 
+Such impacts allow their intelligent territorial development 
+to nurture the local sphere of the communities and, where ICTs 
+serve as essential tools to streamline the processes of detecting 
+the needs of the local population and at the same time generate 
+the necessary information to project proposals of local 
+development, starting from the bottom up so that they are the 
+tenants who provide the precise information about what they 
+want and what is required for the benefit of the local 
+community. 
+In addition, the perception of the responsibility and 
+seriousness of each individual in promoting intelligent 
+development enters, in turn, the support of the scientific optics 
+that are the academic institutions for the theoretical and 
+methodological suppor t for the analysis of social reality. 
+Therefore, people from the local sphere must rethink that 
+tourism positively impacts their quality of life and that the 
+territory is not only a container of complexities, but also a 
+series of living relationships betwe en the impacts to society 
+and nature, that is the development of IT. 
+At this time, where the valuation of different spaces by 
+tourism tends to reproduce attractions, often disconnected 
+from their history and identities, from their environmental 
+characteristics and disjointed from other economic activities, 
+it is proposed th at IT provides a theoretical -methodological 
+basis robust and proven. IT can be applied to any tourist 
+destination, regardless of the degree of maturity, the tourist 
+segment, etc., helping to improve the planning and 
+management processes of tourism and the destination. In this 
+way, there would be a more holistic and consensual vision that 
+would have a positive impact on all the actors involved [1]. 
+Therefore, its importance in the knowledge dedicated to the 
+study of innovation and its thinking to satisfy the needs of the 
+people who benefit their territory from the local, determining 
+the various social strata and the differentiations that may exist. 
+1452
+ 
+Therefore, their relationship generates a series of activities 
+related to the economic, social, cultural and environmental 
+aspects, where from a generation of enterprises they can be 
+strengthened in their sector, as long as it is planned correctly 
+and does not affect irregularities or is only exclusive to a few. 
+The construction of its concept alludes to other countries in 
+the world reflecting on the various problems within their 
+territories and, such effects of IT are a priority and that digital 
+platforms are decisive in exercising a base support or, where 
+appropriate, the causes for the opinions of consumers and 
+make possible the opinions of the tourist influx, thus taking 
+advantage of the spaces measuredly under the concept of IT 
+and rethinking the load capacity, diversity of its tourist 
+products and its local regulations of the communities. 
+The themes identified from the theory are in two aspects, 
+the European school has three programmatic axes, theoretical 
+references; design of methods and the development of 
+technological tools, in this sense, the findings of this research 
+differ with these axes, since the results reflect that, for the three 
+countries studied, what is important is community knowledge, 
+sustainable development, tourism aspects and strategies, 
+people and territory, which coincides with the Latin American 
+school whose axes are: sustainable development of territories, 
+people and identities. 
+ 
+ 
+5. CONCLUSIONS 
+ 
+The dynamic situation of the territory is based on the 
+acquisition of knowledge based on the natural and cultural 
+resources that the territory has, in the particular case of the 
+Colombian experts; their results showed that IT has to do with 
+the management of the space. The transformations of the 
+social conditions of the community and its habitat, in this 
+sense, put tourism, the community and development as the 
+main aspects of tourism territorial intelligence (Figure 2). 
+Regarding the group of experts from Costa Rica, they state 
+that IT must be linked to the interaction between the different 
+entities of the State and society, who make known their 
+strategic plans and the actions to be followed in compliance 
+with the different actions. In terms of tourism, in this sense, 
+they put the differences, aspects and strategies as the main 
+variables of tourism territorial intelligence (Figure 3). 
+The group of experts from Mexico argued that TI is the 
+understanding the interrelationships that occur between the 
+actors of a territory that seek their own development and that 
+part of the premises of the knowledge of said actors must be 
+incorporated into  the processes of formulation and 
+management of development plans for the territorial space, in 
+this sense, put the territory, tourism and development as the 
+main aspects of tourism territorial intelligence (Figure 4). 
+ 
+ 
+ 
+Figure 2. Cloud of words for the construct of the concept of 
+tourism territorial intelligence in Colombia 
+Source: Own elaboration 
+ 
+ 
+Figure 3. Cloud of words for the construct of the concept of 
+tourism territorial intelligence in Costa Rica 
+Source: Own elaboration 
+ 
+ 
+ 
+Figure 4. Cloud of words for the construct of the concept of 
+tourism territorial intelligence in Mexico 
+Source: Own elaboration 
+ 
+The construct of the concept of tourism IT in the three 
+participating countries (Mexico, Colombia and Costa Rica) of 
+the present study are located around the territory, the 
+community, development and tourism; where these categories 
+are directly related to the three countries. Something important 
+is that the actors do not see ICT as one of the main aspects for 
+tourism IT. 
+This work is the first approach to the construction of a 
+concept of territorial tourism intelligence from the point of 
+view of three Latin American countries. Most of the concepts 
+focus on smart destinations and smart cities but not a 
+composite concept of territorial intelligence and its relation to 
+tourism. Therefore, it is proposed that the territorial tourism 
+intelligence is the community knowledge applied to 
+sustainable development focusing on aspects and tourism 
+strategies framed in the territory having as a fundamental 
+entity the people and the use of ICT. 
+According to the above, it can be clearly assumed that the 
+present work contributes to the theoretical conception of the 
+object of study or research construct related to IT and tourism 
+as important elements for the development of a territory 
+according to t he results of the Latin American experts who 
+participated in the study 
+Qualitative research avoids quantification; narrative records 
+are made of the phenomena that are studied through techniques 
+such as participant observation and structured interviews. 
+Qualitative methodology, aims at describing the qualities of a 
+phenomenon. It seeks a concept that can encompass a part of 
+reality. It is not a matter of proving or measuring to what 
+degree a certain quality is found in a certain given event, but 
+of discovering as many qualities as possible. 
+In qualitative research, one should speak of in -depth 
+understanding rather than accuracy: it is a matter of obtaining 
+as deep an understanding as possible. 
+One of the limitations of this study is the limited 
+information provided by the experts involved, which makes it 
+possible for future studies to approach the research from a 
+quantitative or mixed approach in order to generalize better 
+results. 
+1453
+ 
+This level of reflection and transparency in the discussion 
+of methodological limitations not only increases the credibility 
+and robustness of the current study, but also establishes a solid 
+foundation for future research in the field of IT, generated by 
+the development of more refined techniques to minimize 
+subjectivity and bias in the interpretation of the data. 
+ 
+ 
+REFERENCES  
+ 
+[1] Perea-Medina, M.J., Navarro -Jurado, E., Luque -Gil, 
+A.M. (2018). Inteligencia territorial: Conceptualizació n 
+y avance en el estado de la cuestió n. Ví nculos posibles 
+con los destinos turí sticos. Cuadernos de Turismo, (41): 
+535-554. https://doi.org/10.6018/turismo.41.327141 
+[2] Ortoll, E. (2012). Intelligè ncia territorial: iniciatives i 
+models. COMeIN Revista de los Estudios de Ciencias de 
+la Informació n y de la Comunicació n, 9 : 1217. 
+https://doi.org/10.7238/c.n9.1217 
+[3] Muñ oz-Cañ avate, A., Herrera -Barragá n, M. (2019). 
+Inteligencia competitiva y territorial en Españ a: Una 
+aproximació n al modelo de las Agencias de Desarrollo 
+Regional. Anales de Documentació n, 22(1). 
+http://doi.org/10.6018/analesdoc.22.1.336081 
+[4] Gonzá lez, S., (2014). Inteligencia territorial y la 
+observació n colectiva. Espacialidades. Revista de temas 
+contemporá neos sobre lugares, polí tica y Cultura, 4(2): 
+91-109.  
+[5] Fagerberg, J., Srholec, M. (2013). Knowledge, 
+capabilities, and the poverty trap: The complex interplay 
+between technological, social, and geographical factor s. 
+In Knowledge and the Economy. Springer, Dordrecht. 
+https://doi.org/10.1007/978-94-007-6131-5_7 
+[6] Bozzano, H. (2011). Territorio e Inteligencia Territorial: 
+Geografí as, Saberes, Ciencia y Transformació n. UNLP-
+CONICET, La Plata. 
+[7] Hiernaux, D. (2002) ¿ Có mo definir el turismo? Un 
+repaso disciplinario. Aportes y Transferencias , 6(2): 11-
+27.  
+[8] Parrilla-Gonzá lez, J.A., Pulido-Ferná ndez, J.I. (2017). 
+Inteligencia Territorial y Turismo Hacia la integració n de 
+un modelo de transformació n econó mica. Estudios y 
+Perspectivas en Turismo, 26 (1): 1-21. 
+https://hdl.handle.net/10953/1720 
+[9] Miedes, B. , Ferná ndez I.M. (2011). Inteligencia 
+territorial para la lucha contra la pobreza. Aprendizajes 
+de 20 añ os sobre el terreno. Revista Iberoamericana de 
+Relaciones Laborales, 23 : 41-73. 
+https://doi.org/10.33776/trabajo.v23i0.957 
+[10] Mérigot, B. (2014). Qu’est -ce que l’intelligence 
+territoriale? (Jean -Jacques Girardot), Savigny -Avenir, 
+Territoires et Dé mocratie Numé rique Locale. 
+https://www.savigny-avenir.fr/2014/01/06/quest-ce-que-
+lintelligence-territoriale-jean-jacques-girardot/. 
+[11] Girardot, J. (2002). L›intelligence Territoriale, Mélanges 
+Jean-Claude WIEBER. Annales Litté raires de Franche-
+Comté , Besaç on. 
+[12] Bertacchini, Y., Laroussi, O. (2003). Entre information 
+& Processus de communication: L'intelligence 
+territoriale. International Journal of Info & Com Sciences 
+for Decision Making, 9: 1-16.  
+[13] Devillet, G., Breuer, C. (2014). Contribution à  
+l'intelligence territoriale appliqué e: Catalogue raisonné  
+de l'information territoriale disponible sur internet et 
+sources en Europe . In International Conference of 
+Territorial Intelligence, Besanç on 2008, Besanç on, 
+France. https://shs.hal.science/halshs-00516276 
+[14] Girardot, J. (2009). Evolution of the concept of territorial 
+intelligence within the coordination action of the 
+European network of territorial intelligence. Res-Ricerca 
+e Sviluppo per le Politiche Sociali, 1-2: 11-29.  
+[15] Bozzano, H. (2010). Transformació n entre actores 
+polí ticos y actores territoriales con sustento cientí fico. V 
+Congreso Internacional Crisis de la globalizació n 
+econó mica y el crecimiento insustentable en Amé rica 
+Latina, octubre de 2010, Guayana, Venezuela. UNEG. 
+[16] Almasa, B. (2010). Inteligencia Territorial para una 
+Redefinició n Eficiente de las Polí ticas Pú blicas. 
+TRABAJO. Revista Iberoamericana de Relaciones 
+Laborales, 23: 75-94. 
+https://doi.org/10.33776/trabajo.v23i0.959 
+[17] Karol, J., Cirio, G., Frediani, J., Paolasso, P., Carut, C., 
+Furlan, A., Tortora, T. (2012). Inteligencia territorial y 
+transformació n II: El lugar del Estado. Aplicació n a 
+cinco casos. 4°  Simposio Internacional de Investigació n 
+"La Investigació n en la Universidad", San Salvador de 
+Jujuy, Argentina, pp. 475 -494. 
+https://shs.hal.science/halshs-00796452 
+[18] Sá nchez, N., Betancourt, M., Falcó n, M. (2012). 
+Acercamiento teó rico al desarrollo local sostenible y su 
+repercusió n para el turismo. El Periplo Sustentable, 22 : 
+7-36.  
+[19] Gliemmo, F. (2014). Inteligencia territorial y turismo: 
+Un diá logo hacia la definició n de lugares. Necesidades y 
+expectativas. Estudios de casos en Argentina y Uruguay. 
+11th Annual International Conference of Territorial 
+intelligence of INTI, "Territorial intelligence and 
+globalization tensions, transition and transformation", La 
+Plata, Argentina, pp. 1-12. https://shs.hal.science/halshs-
+00941343. 
+[20] Soulier, E., Neffati, H., Legrand, J., Rousseau, F., 
+Bugeaud, F., Calvez, P. , Saurel, P. (2013). Territorial 
+assemblages simulation for territorial intelligence. In 
+10th International Conference of Territorial Intelligence, 
+Liè ge, Belgium, p. 9. https://shs.hal.science/halshs -
+00777450. 
+[21] Bock, I.A., Costa, R., Rodrigues, C., Macke, J. (2021). 
+Examining the concept of governance in tourism 
+research. Tourism and Hospitality Management, 27(3) : 
+629-668. https://doi.org/10.20867/thm.27.3.9 
+[22] Ivars-Baidal, J., Solsona-Monzoní s, F J., Giner-Sá nchez, 
+D. (2016). Gestió n turí stica y tecnologí as de la 
+informació n y la comunicació n (TIC): El nuevo enfoque 
+de los destinos inteligentes. Documents d’Anàlisi 
+Geogrà fica, 62(2): 327-346. 
+http://doi.org/10.5565/rev/dag.285 
+[23] Masselot, C. (2017). Territorial intelligence 
+communicational and community system (TICCS). Res-
+Ricerca e Sviluppo per le politiche sociali, (1 -2 Numero 
+speciale 2008), 90 -104. https://shs.hal.science/halshs -
+01521592. 
+[24] Girardot, J. (2010). Principes, mé thodes et outils 
+d'intelligence territoriale. é valuation participative et 
+observation coopé ra tive. In Sé minaire Europé en 
+"Conhecer Melhor Para Agir Melhor" Evora 2000, Evora, 
+Portugal, pp. 7-17. https://shs.hal.science/halshs -
+00539811. 
+[25] Canaveri, T.,  Masselot, C. (2018). Aplicació n de 
+1454
+ 
+mé todos territorii y catalyse en el diagnó stico de 
+problemá ticas sociales y ambientales en dos zonas del 
+gran la plata ; Universidad Cató lica de Pereira. Facultad 
+de Arquitectura y Diseñ o; Arquetipo , 16: 79 -96. 
+http://hdl.handle.net/11336/87866 
+[26] Villareal-Gó mez, A. (2017). Inteligencia territorial como 
+proceso para el aná lisis territorial y el desarrollo local de 
+Isla Grande en el Archipié lago de Islas del Rosario 
+(Distrito de Cartagena de Indias, Colombia). Tesis 
+Doctoral. Universidad de Huelva, Españ a, Departamento 
+de Historia, Geografí a y Antropologí a. 
+http://hdl.handle.net/10272/14512. 
+[27] Espinoza, R, Bravo, J.L., Verduzco, M.C., Má rquez, A.R. 
+(2023). Inteligencia territorial, innovació n y 
+emprendimientos sociales turí sticos. Disrupciones para 
+el desarrollo regional sustentable y la calidad de vida. 
+Universidad de Guadalajara. 
+http://www.cuc.udg.mx/es/inteligencia-territorial-
+innovacion-y-emprendimientos-sociales-turisticos-
+disrupciones-para-el. 
+[28] Garcí a-Madurga, M.Á., Grilló-Mé ndez, A.J., Esteban-
+Navarro, M.Á. (2020). Territorial intelligence, a 
+collective challenge for sustainable development: A 
+scoping review. Social Sciences, 9(7) : 126. 
+https://doi.org/10.3390/socsci9070126 
+[29] Luque, A., Zayas, B., Caro, J. (2015). Los Destinos 
+Turí sticos inteligentes en el marco de la inteligencia 
+territorial: Conflictos y oportunidades. Investigaciones 
+turíSticas, 10: 1-25. 
+https://doi.org/10.14198/INTURI2015.10.01 
+[30] Berg, B.L. (2001). Qualitative research methods for the 
+social sciences. Allyn and Bacon, Pearson Education 
+Company, Needham Heights. 
+[31] Bogdan, R., Taylor, S.J. (1975). Introduction to 
+Qualitative Research Methods : A Phenomenological 
+Approach to the Social Sciences. Wiley: New York 
+[32] Pulido, M., Pulido, J. (2016). Existe un buen modelo para 
+implementar la gobernanza en destinos turí sticos? La 
+opinió n de los expertos en sostenibilidad en los modelos 
+actuales de gestió n turí stica. In Sostenibilidad en los 
+Modelos Actuales de Gestió n turíStica. Actas del XIX 
+Congreso Internacional de Turismo, Universidad, 
+Empresa. Tirant lo Blanch, Valencia, En Prensa, pp. 57-
+85. 
+[33] Sancho, A. (2001). Apuntes de metodologí a de la 
+investigació n en turismo. Organizació n Mundial del 
+Turismo, Madrid. https://www.e -
+unwto.org/doi/pdf/10.18111/9789284404889. 
+[34] Kvale, S. (2011). Las Entrevistas en Investigació n 
+Cualitativa. Ediciones Morata, S. L. 
+[35] ATLAS.ti 22. (2022). ATLAS.ti qualitative data analysis. 
+https://atlasti.com/es/. 
+[36] Villanueva-Sá nchez, R., Velá zquez -Torres, J.C., 
+Rosales-Cervantes, G. (2021). ATLAS.ti: herramienta 
+para medir la participació n de actores estraté gicos 
+locales en la gestió n del turismo rural para Tomatlá n, 
+Jalisco. Rosa dos Ventos-Turismo e Hospitalidade, 13(3): 
+681-700. https://doi.org/10.18226/21789061.v13i3p681 
+[37] Mativi, C., Niveiros, S. , Carneiro-Junior, J. (2020). 
+Software de aná lisis cualitativo de datos (QDA): Aná lisis 
+de artí culos publicados en las bases de datos SPELL y 
+SCIELO. Revista Estudos e Pesquisas em Administraç ã o, 
+4(2): 156173. https://doi.org/10.30781/repad.v4i2.10318 
+[38] Flick, U. (2007). Introducció n a la Investigació n 
+Cualitativa. Ediciones Morata, S. L. 
+[39] Woods, M., Paulus,  T., Atkins, D. , Macklin, R. (2015) 
+Advancing qualitative research using qualitative data 
+analysis software (QDAS)? Reviewing potential versus 
+practice in published studies using ATLAS.ti and NVivo, 
+1994-2013. Social Science Computer Review , 34(5) : 
+597-617. https://doi.org/10.1177/0894439315596311 
+[40] Vila-Henninger, L.A. (2019) . Turning talk into 
+“Rationales”: Using the extended case method for the 
+coding and analysis of semi -structured interview data in 
+ATLAS.ti. Bulletin de Methodologie Sociologique, 143: 
+28-52. https://doi.org/10.1177/0759106319852887 
+[41] Scales, J. (2013) Qualitative analysis of student 
+assignments: A practical look at ATLAS.ti . Reference 
+Services Review, 41 (1): 134-147. 
+https://doi.org/10.1108/00907321311300956 
+[42] Paulus, T.M., Bennett, A.M. (2017). ‘I have a love -hate 
+relationship with ATLAS.ti’ ™: Integrating qualitative 
+data analysis software into a graduate research methods 
+course. International Journal of Research & Method in 
+Education, 40(1): 19-35. 
+https://doi.org/10.1080/1743727X.2015.1056137 
+[43] Lopezosa, C., Codina, L., Pere F. (2022). ATLAS.ti para 
+entrevistas semiestructuradas: Guí a de uso para un 
+aná lisis cualitativo eficaz. Barcelona: DigiDoc Research 
+Group (Pompeu Fabra University), DigiDoc Reports, 
+2022 RTI11/2022. http://hdl.handle.net/10230/52848. 
+[44] Gibbs, G. (2012). El aná Lisis de Datos Cualitativos en 
+Investigació n Cualitativa. Ediciones Morata, S. L. 
+ 
+1455

@@ -1,0 +1,2385 @@
+Turismo rural:  
+legislação e  
+gestão de 
+empreendimentos
+Coleção SENAR
+ 286
+286   |   Coleção SENAR   •Turismo rural: legislação e gestão de empreendimentos
+Presidente do Conselho Deliberativo
+João Martins da Silva Junior
+Entidades Integrantes do Conselho Deliberativo
+Confederação da Agricultura e Pecuária do Brasil - CNA
+Confederação dos Trabalhadores na Agricultura - CONTAG
+Ministério do Trabalho e Emprego - MTE
+Ministério da Agricultura, Pecuária e Abastecimento - MAPA
+Ministério da Educação - MEC
+Organização das Cooperativas Brasileiras - OCB
+Confederação Nacional da Indústria - CNI
+Diretor Executivo
+Daniel Klüppel Carrara
+Diretora de Educação Profissional e Promoção Social
+Janete Lacerda de Almeida
+
+Coleção SENAR
+Turismo rural: legislação e 
+gestão de empreendimentos 
+Senar – Brasília, 2020
+SERVIÇO NACIONAL DE APRENDIZAGEM RURAL 
+286
+© 2020, SERVIÇO NACIONAL DE APRENDIZAGEM RURAL – SENAR
+Todos os direitos de imagens reservados. É permitida a reprodução do  
+conteúdo de texto desde que citada a fonte.
+A menção ou aparição de empresas ao longo desta cartilha não implica que 
+sejam endossadas ou recomendadas pelo Senar em preferência a outras não 
+mencionadas.
+Coleção SENAR - 286
+Turismo rural: legislação e gestão de empreendimentos 
+COORDENAÇÃO DE PRODUÇÃO E DISTRIBUIÇÃO DE MATERIAIS INSTRUCIONAIS
+Fabíola de Luca Coimbra Bomtempo
+EQUIPE TÉCNICA
+Marcelo de Sousa Nunes / Valéria Gedanken
+AGRADECIMENTOS
+Aos estabelecimentos em Pirenópolis-GO: Refúgio da Serra, Restaurante Pilares, 
+Pirenópolis Natural, Promessa de Futuro, Associação de Desenvolvimento Co-
+munitário de Caxambu, Pirenópolis, Fazenda Vagafogo, Restaurante Dona Cida, 
+Pousada Arvorear, Pizzaria Boca do Forno, Café Pand’Oro, Restaurante Encontro 
+Marcado & Aravinda Bar.
+FOTOGRAFIA
+Wenderson Araújo
+ILUSTRAÇÃO
+Willian Barbosa
+Serviço Nacional de Aprendizagem Rural.
+ Turismo rural: legislação e gestão de empreendimentos / 
+Serviço Nacional de Aprendizagem Rural. – Brasília: Senar, 2020.
+108 p; il. 21 cm (Coleção Senar, 286)
+ ISBN: 978-85-7664-239-8
+1. Turismo Rural 2. Conceito. 3. Legislação de turismo rural. I. Título.
+CDU 338.48
+Dados Internacionais de Catalogação na Publicação (CIP)
+Apresentação
+O elevado nível de sofisticação das operações agropecuárias definiu 
+um novo mundo do trabalho, composto por carreiras e oportunida-
+des profissionais inéditas, em todas as cadeias produtivas.
+Do laboratório de pesquisa até o ponto de venda no supermercado, 
+na feira ou no porto, há pessoas que precisam apresentar competên-
+cias que as tornem ágeis, proativas e ambientalmente conscientes.
+O Serviço Nacional de Aprendizagem Rural (Senar) é a escola que dis-
+semina os avanços da ciência e as novas tecnologias, capacitando ho-
+mens e mulheres em cursos de Formação Profissional Rural e Promo-
+ção Social, por todo o país. Nesses cursos, são distribuídas cartilhas, 
+material didático de extrema relevância por auxiliar na construção do 
+conhecimento e constituir fonte futura de consulta e referência.
+Conquistar melhorias e avançar socialmente e economicamente é o 
+sonho de cada um de nós. A presente cartilha faz parte de uma série 
+de títulos de interesse nacional que compõem a Coleção SENAR. Ela 
+representa o comprometimento da instituição com a qualidade do 
+serviço educacional oferecido aos brasileiros do campo e pretende 
+contribuir para aumentar as chances de alcance das conquistas a 
+que cada um tem direito.
+Um excelente aprendizado!
+Serviço Nacional de Aprendizagem Rural
+www.senar.org.br
+3
+Turismo rural: legislação e gestão de empreendimentos
+4
+Esta cartilha possui o recurso QR Code, por meio do qual 
+o participante do treinamento poderá acessar, utilizando a 
+câmera fotográfica do celular, informações complementares 
+que irão auxiliar no aprendizado.
+Acesse pelo seu celular
+Sumário
+Introdução .....................................................................................................7
+I. Entender o turismo rural  ....................................................................8
+1. Entenda o conceito de turismo rural e suas modalidades  ............8
+2. Entenda as características do turismo rural .....................................9
+3. Conheça a importância do setor rural para o segmento  
+do turismo  ...............................................................................................13
+4. Conheça o perfil do turista rural  .....................................................14
+5. Saiba o que oferecer como atividade turística  ..............................16
+II. Identificar as potencialidades turísticas na região  .......................20
+1. Identifique os atrativos turísticos da região  ..................................20
+2. Identifique o potencial para a hospedagem rural  ........................28
+3. Identifique o potencial gastronômico da região  ...........................35
+4. Crie roteiros turísticos  .......................................................................37
+III. Conhecer a legislação para o empreendimento turístico rural ...39
+1. Conheça a legislação para o turismo rural  ....................................39
+IV. Fazer a legalização do empreendimento turístico rural  ..............49
+1. Saiba como legalizar o empreendimento turístico rural  .............49
+2. Prepare o empreendimento turístico para a vistoria do  
+Corpo de Bombeiros  .............................................................................59
+3. Solicite o talão de notas fiscais do empreendimento turístico  ...61
+4. Cadastre o empreendimento rural no Cadastur ...........................64
+V. Fazer a gestão do empreendimento turístico rural  ......................66
+1. Identifique e analise os recursos necessários para o 
+funcionamento do empreendimento turístico rural .........................66
+2. Estabeleça parcerias e cooperação e forme redes estratégicas 
+para viabilizar o turismo rural  ..............................................................70
+3. Envolva a comunidade local para participar do turismo rural ....71
+4. Planeje as atividades diversificadas e sustentáveis que  
+serão ofertadas .......................................................................................72
+5. Elabore o plano de marketing e divulgação do  
+empreendimento turístico ....................................................................86
+VI. Administrar o empreendimento turístico rural .............................95
+1. Conheça o que é fluxo de caixa e sua aplicação gerencial ...........95
+2. Conheça o controle de estoques  .....................................................99
+3. Conheça os direitos trabalhistas e sua relação com o 
+empreendimento turístico  ................................................................100
+Considerações finais  ..............................................................................107
+Referências  ..............................................................................................108
+Introdução
+O segmento do turismo rural vem despontando de forma promisso-
+ra e com incontestável potencial no país. Esse crescimento pode ser 
+explicado pela necessidade que o homem do campo tem de diversi-
+ficar sua fonte de renda e agregar valor a seus produtos e pela von-
+tade dos moradores dos centros urbanos de reencontrar suas raízes 
+e conviver em meio à natureza, com os modos de vida, tradições e 
+costumes do campesino. 
+Desse modo, o turismo rural proporciona o contato direto do consu-
+midor com o produtor rural que vende, além dos serviços de hospeda-
+gem, alimentação e entretenimento, produtos in natura ou beneficia-
+dos produzidos por ele ou por propriedades vizinhas.
+É considerável o número de propriedades rurais que estão introdu-
+zindo as atividades turísticas em suas rotinas. Nesse caso, percebe-
+-se que são necessárias ações para a estruturação e caracterização 
+desse tipo de turismo para que nada ocorra de forma desordenada, 
+de modo a consolidar o turismo rural como uma opção de lazer para 
+o turista e uma importante e viável oportunidade de renda para o 
+homem do campo. Diante disso, esta cartilha tem como finalidade 
+informar sobre os aspectos do turismo rural no Brasil, sua legislação 
+e a gestão do empreendimento. 
+7
+Turismo rural: legislação e gestão de empreendimentos
+I Entender o turismo rural 
+Atualmente, existem aproximadamente 15 mil propriedades abertas 
+a turistas e espalhadas por todas as cinco regiões do país. Sair do am-
+biente urbano com destino ao meio rural traz consigo a essência do 
+reencontro do turista com as raízes, para viver experiências culturais 
+tradicionais, com observância aos costumes familiares e às formas 
+de viver e produzir com sustentabilidade.
+1. Entenda o conceito de turismo rural e 
+suas modalidades 
+O turismo rural pode ser considerado uma categoria de turismo na 
+qual a principal razão do viajante é o contato mais próximo com tra-
+dições, costumes, valores, gastronomia, práticas e pessoas de uma 
+região. Esse contato tem por base a hospedagem em propriedades 
+domiciliares num ambiente familiar e rural.
+O desenvolvimento do turismo rural contempla um conjunto diversi-
+ficado de modalidades, sendo:
+• Agroturismo: atividades turísticas que ocorrem no interior das 
+propriedades;
+• Turismo cultural:  deslocamento em busca de conhecimentos 
+sobre manifestações culturais e registros históricos das popula -
+ções do meio rural;
+• Turismo pedagógico: viagem organizada com o objetivo de pro-
+mover o conhecimento e completar o aprendizado dos estudantes; 
+• Turismo de eventos: deslocamento de pessoas ao meio rural 
+para participar de eventos;
+8
+• Turismo ecológico: passeios para áreas naturais preservadas, 
+com o objetivo de estudar e admirar a paisagem;
+• Ecoturismo: viagens para áreas naturais preservadas para des-
+frutar e interagir com seus atrativos;
+• Turismo de aventura: atividades esportivas radicais, geralmen-
+te praticadas em áreas naturais preservadas; 
+• Turismo de negócios: deslocamento ao meio rural para conhe-
+cer as novas tecnologias produtivas adotadas;
+• Turismo de compras: viagens ao meio rural para adquirir pro-
+dutos elaborados pelos seus moradores; 
+• Turismo de saúde: necessidade de deslocamento para trata -
+mento de saúde; 
+• Turismo de recreação: busca de atividades de diversão realiza-
+das no meio rural;
+• Turismo esportivo: viagens para participação em competições 
+esportivas realizadas no meio rural; e 
+• Turismo de aldeia: viagens para povoamentos rurais.
+2. Entenda as características do turismo rural
+Conhecer as características que compõem a paisagem rural é fun-
+damental para entender sobre o segmento e o que os turistas mais 
+buscam e esperam do setor. 
+2.1. Entenda o turismo rural quanto à escala do 
+atendimento 
+Uma das principais características do turismo rural é a pequena ca-
+pacidade de atendimento simultâneo, de modo a permitir atenção 
+personalizada aos viajantes, sem espera, filas e barulho.
+9
+Turismo rural: legislação e gestão de empreendimentos
+2.2. Entenda o turismo rural quanto à localização
+O empreendimento, em geral, se localiza em lugares agradáveis e 
+tranquilos em meio à natureza.
+2.3. Entenda o turismo rural quanto às atividades 
+produtivas 
+É a manutenção de todas as atividades produtivas tradicionais da 
+propriedade, mesmo após o sucesso conseguido com a exploração 
+da propriedade para o turismo.
+10
+COLEÇÃO SENAR • Nº 286
+2.4. Entenda o turismo rural quanto à qualidade da 
+paisagem
+É a conservação dos recursos naturais constantes em toda proprieda-
+de (preservação da flora e da fauna nativas, rios, lagos e nascentes).
+É a conservação das características arquitetônicas pertencentes à re-
+gião e ao ano da construção da propriedade.
+11
+Turismo rural: legislação e gestão de empreendimentos
+São os cuidados nas instalações e lidas agropecuárias, de forma que 
+o turista possa observar e participar das rotinas das atividades tradi-
+cionais da propriedade
+2.5. Entenda o turismo rural quanto aos aspectos 
+culturais 
+É a preservação das culturas tradicionais da região como as manifes-
+tações folclóricas, a culinária, a produção artesanal, as celebrações, 
+os valores e os modos de vida da comunidade.
+1. O turismo rural deve oferecer ao turista a oportunidade 
+de desfrutar do que é produzido ou é mais característico na 
+propriedade ou região.
+2. O atendimento precisa ser personalizado, para transmitir a 
+hospitalidade do homem do campo ao visitante.
+Atenção
+12
+COLEÇÃO SENAR • Nº 286
+3. Conheça a importância do setor rural para 
+o segmento do turismo 
+As viagens para as propriedades rurais são uma prática antiga e co-
+mum no país, mas somente há pouco mais de trinta anos passaram 
+a ser consideradas uma atividade econômica e caracterizadas como 
+turismo rural.
+O deslocamento para as áreas rurais começou a ser tratado como 
+atividade turística na década de 80, quando propriedades em San-
+ta Catarina e no Rio Grande do Sul, devido às dificuldades do setor 
+agropecuário, resolveram diversificar suas atividades e começaram 
+a receber turistas.
+A prática do turismo rural no Brasil pode promover benefícios: 
+• Diversificação da economia regional, pelo estabelecimento de 
+micro e pequenos negócios;
+• Melhoria das condições de vida das famílias rurais; 
+• Interiorização do turismo; 
+• Difusão de conhecimentos e técnicas das ciências agrárias;
+• Diversificação da oferta turística; 
+• Diminuição do êxodo rural; 
+• Promoção de intercâmbio cultural; 
+• Conservação dos recursos naturais;
+• Reencontro dos cidadãos com suas origens rurais e com a natureza;
+• Geração de novas oportunidades de trabalho;
+• Melhoria da infraestrutura de transporte, comunicação e sa-
+neamento; 
+• Criação de comércio alternativo que valoriza as atividades rurais; 
+13
+Turismo rural: legislação e gestão de empreendimentos
+• Melhoria dos equipamentos e dos bens imóveis; 
+• Integração do campo com a cidade; 
+• Integração das propriedades rurais e da comunidade;
+• Agregação de valor ao produto primário por meio da verticaliza-
+ção da produção;
+• Promoção da imagem e revigoramento do interior; 
+• Valorização das práticas rurais, tanto sociais quanto de trabalho; e
+• Resgate da autoestima do homem do campo.
+4. Conheça o perfil do turista rural 
+O consumidor de turismo rural busca a aproximação com ambientes 
+naturais e com o meio rural. Conhecer o perfil do turista é funda-
+mental para a oferta de produtos que atendam às suas expectativas, 
+tornando mais eficientes as ações de estruturação, promoção, divul-
+gação e comercialização do empreendimento. 
+A paisagem deve representar um indicador de que a pessoa está 
+fora do seu ambiente de rotina, não se tratando simplesmente de 
+uma viagem, mas sim de uma experiência diferente e autêntica.
+Atenção
+De modo geral, os turistas desse segmento apresentam algumas ca-
+racterísticas:
+• São moradores de centros urbanos; 
+• Possuem entre 20 e 55 anos; 
+• São casais com filhos e ou amigos; 
+• Possuem ensino médio e/ou superior completos; 
+• Deslocam-se em automóveis particulares, em um raio de até 
+150 km dos centros urbanos; 
+14
+COLEÇÃO SENAR • Nº 286
+• Fazem viagens de curta duração, em fins de semana e feriados; 
+• Organizam suas próprias viagens ao meio rural;
+• Têm na internet e nos parentes e amigos sua principal fonte de 
+informação para a preparação da viagem; 
+• São apreciadores da culinária típica regional; 
+• Valorizam produtos autênticos e artesanais; e
+• Levam para casa produtos agroindustriais e/ou artesanais. 
+1. Vale ressaltar que as características aqui apresentadas 
+representam o segmento de modo geral, não sendo 
+necessariamente observadas em todos os casos. 
+2. É necessário realizar pesquisas específicas para se entender o 
+perfil do turista que visita as diferentes localidades do país (seja 
+uma propriedade, um município ou uma região), tendo em mente 
+que esse perfil representará apenas a parcela maior dos visitantes.
+Atenção
+15
+Turismo rural: legislação e gestão de empreendimentos
+5. Saiba o que oferecer como atividade 
+turística 
+No meio rural, é possível oferecer uma série de serviços e atividades 
+turísticas aos visitantes. 
+5.1. Conheça alguns serviços turísticos
+As edificações e instalações rurais são indispensáveis ao desenvolvi-
+mento da atividade turística e à prestação de serviços.
+• Hospedagem: empreendimentos que oferecem alojamento e ser-
+viços fundamentais para o conforto do turista. No turismo rural, os 
+tipos mais frequentes são fazenda-hotel ou hotel-fazenda, hospe-
+dagem domiciliar (quarto nas propriedades rurais, cama e café, alo-
+jamento) e pousada.
+• Alimentação: as refeições podem ser oferecidas por meio de 
+restaurantes tradicionais da região ou pelos estabelecimentos 
+rurais, que geralmente oferecem café colonial, almoço e jantar 
+com pratos típicos e degustação de produtos caseiros.
+16
+COLEÇÃO SENAR • Nº 286
+• Transporte: os meios de transporte devem ser conveniados 
+com o empreendimento ou pertencentes a ele, para que ofere-
+çam o deslocamento dos turistas ao seu destino. Alguns exem-
+plos são carros de passeio, vans, ônibus de excursão e veículos 
+rurais (trator, charrete).
+5.2. Conheça algumas atividades turísticas no 
+meio rural
+• Atividades agropecuárias 
+ » Agricultura: plantio de frutas, hortaliças, leguminosas, cereais, 
+entre outros.
+ » Criação de animais: manejo com animais: bovinocultura, capri-
+nocultura, ovinocultura, suinocultura, piscicultura, entre outros.
+17
+Turismo rural: legislação e gestão de empreendimentos
+• Atividades de transformação: produção agroindustrial (com-
+potas, doces, bebidas, pães, queijos, polpas) ou manual (panos e 
+bordados, objetos de madeira).
+• Atividades ecoturísticas: atividades de interação com a natu-
+reza como caminhadas, trilhas, banhos de cachoeira e rio e pas-
+seios de bicicleta.
+• Aventura: atividades recreativas que envolvem riscos contro-
+lados e assumidos como arvorismo, boia cross, rapel, tirolesa, 
+montanhismo, mountain bike e trekking.
+• Atividades interativas com gado: atividades que compreendem 
+a interação do homem com alguns animais, para desempenho de 
+alguma lida no campo ou para lazer, como práticas de ordenha, 
+cavalgadas, campeadas, torneios, comitivas, tropeadas ou outras 
+denominações regionais, passeios de carroça, rodeios e hipismo.
+18
+COLEÇÃO SENAR • Nº 286
+• Pesca: pesca em rios, lagos e represas.
+• Atividades esportivas: jogos e disputas competitivas como corri-
+das de moto, de bicicleta, de aventura, rali, canoagem, entre outros. 
+• Atividades pedagógicas: atividades com caráter educativo que 
+auxiliam no processo de ensino das escolas. 
+Turismo rural pedagógico é um meio complementar de 
+aprendizagem e ensino, capaz de auxiliar na formação dos alunos, 
+reforçando conceitos como os de cidadania, consciência ambiental 
+e patrimonial.
+Atenção
+• Atividades culturais 
+ » Manifestações populares: teatro, danças típicas, artes plás-
+ticas, literatura, folclore, práticas religiosas ou manifestações 
+de fé, rodas de viola, folia de reis, crenças, catira, rezas, nove-
+nas e contação de casos; 
+ » Produção de artesanato: objetos produzidos manualmente, 
+característicos da produção de artistas locais com utilização 
+de matéria-prima encontrada na região;
+ » Visitas a museus: os turistas podem visitar museus perten-
+centes à cidade onde a propriedade se encontra, vinícolas de-
+sativadas e moinhos; e
+ » Gastronomia: degustação de pratos tradicionais da região, 
+com a presença de ingredientes locais.
+• Atividades recreativas 
+ » Jogos de tabuleiro, rodas cantadas, bingos, piscina natural e 
+sauna a carvão.
+19
+Turismo rural: legislação e gestão de empreendimentos
+II Identificar as potencialidades 
+turísticas na região 
+Primeiramente, para obter o sucesso de um empreendimento de 
+turismo rural, é necessário fazer um inventário detalhado sobre as 
+potencialidades turísticas do local. Esse inventário compreende o le-
+vantamento, a identificação e o registro dos atrativos, dos serviços e 
+equipamentos turísticos e da infraestrutura de apoio necessários à 
+atividade turística na região.
+O sucesso de qualquer empresa de turismo rural depende do 
+desejo e da capacidade de receber turistas, atendendo às suas 
+expectativas e conseguindo oferecer algo que eles não encontram 
+no seu dia a dia na correria dos centros urbanos.
+Atenção
+1. Identifique os atrativos turísticos da região 
+Para identificar os atrativos, é necessário conhecer os recursos turís-
+ticos da região onde se quer abrir o empreendimento, como bens na-
+turais, históricos e culturais pertencentes à propriedade ou à região.
+1.1. Conheça os atrativos naturais 
+• Relevo montanhoso: picos, serras e colinas;
+• Planaltos e planícies: chapadas, patamares, vales e rochedos; 
+• Litoral: praias; restingas, mangues, baías, dunas e falésias; 
+20
+• Terras insulares: ilhas e recifes; 
+• Hidrografia: rios, lagos e represas;
+• Quedas d’água; 
+• Pântanos; 
+• Fontes hidrominerais ou hidrotermais; 
+• Parques; 
+• Grutas, cavernas e furnas;
+• Reservas de flora e fauna; e
+• Áreas de caça e pesca, entre outros.
+Identificar as potencialidades 
+turísticas na região 
+21
+Turismo rural: legislação e gestão de empreendimentos
+ 
+  
+ 
+22
+COLEÇÃO SENAR • Nº 286
+1.2. Conheça os atrativos histórico-culturais 
+• Monumentos: arquitetura civil, religiosa, funerária, industrial, 
+agrícola, militar, ruínas, esculturas e pinturas; 
+• Sítios: históricos e científicos; 
+• Instituições culturais de estudo, pesquisa e lazer: bibliotecas, 
+arquivos, institutos históricos e geográficos;
+• Festas, comemorações e atividades: religiosas, populares, fol-
+clóricas e cívicas;
+• Gastronomia típica; 
+• Artesanato; e
+• Feiras e mercados, entre outros.
+23
+Turismo rural: legislação e gestão de empreendimentos
+1.3. Conheça os atrativos técnico-científicos 
+• Exploração de minério; 
+• Fazendas-modelo; 
+• Estações experimentais; 
+• Exploração industrial; 
+• Centros científicos e técnicos;
+• Zoológicos, aquários e viveiros;
+• Jardins botânicos e hortos florestais; 
+• Planetários;
+• Observatórios; e
+• Exploração agrícola/pastoril, entre outros.
+24
+COLEÇÃO SENAR • Nº 286
+1.4. Conheça os atrativos pedagógicos 
+• Visitas a processos produtivos: acompanhamento do plantio 
+até a colheita;
+• Visitas aos patrimônios histórico-culturais da propriedade; e
+• Vivência do modo de vida rural, entre outros 
+25
+Turismo rural: legislação e gestão de empreendimentos
+1.5. Conheça os eventos ou acontecimentos 
+programados 
+• Congressos e convenções; 
+• Feiras e exposições: comerciais e agropecuárias; e
+• Realizações diversas: desportivas, artísticas, culturais, sociais e 
+gastronômicas.
+26
+COLEÇÃO SENAR • Nº 286
+Atrativos turísticos são recursos aproveitados pelos visitantes que 
+determinam a seleção do destino de uma viagem. Desse modo, 
+identificando os atrativos presentes na propriedade e/ou região, 
+pode-se investir em um empreendimento que será voltado a 
+atividades e eventos a eles relacionados.
+Atenção
+27
+Turismo rural: legislação e gestão de empreendimentos
+2. Identifique o potencial para a 
+hospedagem rural 
+Ao receber turistas no espaço rural, não basta ter hospitalidade e 
+atender bem às pessoas. A aparência física do local, das instalações, 
+das edificações e dos objetos também é importante para comple-
+mentar todo o serviço de hospedagem.
+A maioria dos clientes do turismo rural é proveniente das cidades. 
+Como seus hábitos são os de moradores urbanos, quando se hospe-
+dam no espaço rural procuram sensações diferentes das que estão 
+acostumados a viver no seu dia a dia. 
+Conhecendo bem quem é o público-alvo, suas características, suas 
+necessidades, seus comportamentos e suas expectativas, pode-se 
+hospedá-lo muito melhor. 
+2.1. Identifique o meio de hospedagem 
+O local onde os visitantes se hospedam e satisfazem suas necessida-
+des é chamado meio de hospedagem: um local para se acomodar, 
+descansar, repor energias, se alimentar e se divertir. 
+Para identificar o meio de hospedagem que se pode oferecer aos vi-
+sitantes, destacam-se os principais empreendimentos que têm lugar 
+no espaço rural:
+28
+COLEÇÃO SENAR • Nº 286
+• Hotel fazenda
+Estabelecimento de médio a grande porte que pode ser adaptado 
+em fazendas ou propriedades rurais desmembradas, não necessa-
+riamente produtivas. Apresentam amplas instalações receptivas, al-
+gumas de valor histórico e arquitetônico, em áreas rurais de destaca-
+do valor paisagístico. É caracterizado como um hotel no espaço rural, 
+que oferece serviços de alojamento, hospedagem e lazer, podendo 
+ainda oferecer espaços diferenciados para eventos, tratamento de 
+saúde, entre outros. O público que mais o frequenta são famílias em 
+busca de uma aproximação com a vida no campo.
+Hotel fazenda Pedra Negra - Três Pontas/MG
+29
+Turismo rural: legislação e gestão de empreendimentos
+• Fazenda hotel
+Estabelecimento situado em propriedade rural, cujo dife-
+rencial é a produção agrícola e pastoril e a manutenção 
+dos hábitos rurais do campesino. Seu principal atrativo é a 
+participação do hóspede na rotina do trabalho no campo, as-
+sociada a passeios a cavalo, caminhadas, reuniões para ouvir 
+“causos”, lendas e cantigas e a comida típica regional ou local.  
+Oferece serviços de um hotel, como alojamento, alimentação e en-
+tretenimento, sem comprometer a integração do hóspede ao espa-
+ço rural. Recebe, principalmente, famílias, além de grupos de estu-
+dantes com finalidades educativas e jovens em busca do contato 
+com a natureza e a vida no campo.
+https://web.archive.org/web/20161029005718/http://www.panoramio.com/pho-
+to/108215994 - Autor: Paulo JC Nogueira
+30
+COLEÇÃO SENAR • Nº 286
+• Pousada rural
+Estabelecimento de pequeno porte que utiliza construções novas ou 
+de valor histórico, situadas em fazendas ou pequenas e médias pro-
+priedades. Sua administração é familiar e se destaca na arte de aco-
+lher o hóspede. Possui instalações rústicas e confortáveis, oferece 
+serviços de alojamento, alimentação baseada na cozinha regional ou 
+local, contato com a natureza e com as lidas do campo e atendimento 
+personalizado e informal. Geralmente se vincula a um forte atrativo 
+turístico na propriedade ou região (processo produtivo, arquitetura 
+típica, festa popular e atrativo natural, entre outros). Seu principal 
+cliente são as famílias que buscam o aconchego e a simplicidade da 
+vida no campo.
+https://web.archive.org/web/20161025094107/http://www.panoramio.com/pho-
+to/71278264 - Autor: Paulo JC Nogueira
+31
+Turismo rural: legislação e gestão de empreendimentos
+• Acantonamento
+Estabelecimento destinado especialmente a crianças e jovens para a 
+prática de atividades recreativas, esportivas e culturais. Geralmente 
+apresenta dormitórios e banheiros coletivos, restaurante ou refeitó-
+rio e estruturas que permitem atividades em grupos. É comerciali-
+zado em pacotes, principalmente nos períodos de férias e feriados 
+prolongados. Fora destes, é utilizado para a realização de eventos 
+de organizações como igrejas, associações e empresas, entre outros.
+32
+COLEÇÃO SENAR • Nº 286
+• Camping ou acampamento turístico
+Estabelecimento que oferece espaços, instalações e serviços para acam-
+pamento ao ar livre (espaço gramado ou não e arborizado). Seus clientes 
+fazem uso de barracas, tendas, trailers ou outros equipamentos como 
+motorhome. Possui infraestrutura básica (pontos de energia elétrica, 
+área para lavar e estender roupas, telefone comunitário ou público) e 
+edificações centralizadas de higiene e alimentação (banheiros, refeitó-
+rio, lanchonete). É procurado principalmente por jovens e famílias que 
+gostam de acampar e valorizam o contato com a natureza. 
+ 
+Foto: Lukas no Pexels 
+33
+Turismo rural: legislação e gestão de empreendimentos
+• Spa rural
+Estabelecimento que disponibiliza aos seus hóspedes equipamentos 
+voltados para o bem-estar físico e emocional, como salas de massa-
+gem, banhos especiais, alimentação balanceada, caminhadas e ati-
+vidades ao ar livre. Seu principal cliente é o turista individual, jovens 
+ou adultos, em busca de tratamentos antiestresse, pós-operatório, 
+emagrecimento, rejuvenescimento, antidepressivo, descanso, desin-
+toxicação alimentar ou de valores espirituais junto à natureza. É ne-
+cessária mão de obra especializada conforme os serviços oferecidos 
+(médico, psicólogo, nutricionista, massagista e orientador espiritual).
+• Outros
+Colônia de férias: de propriedade corporativa, apresenta equipamen-
+tos, instalações e serviços de hospedagem destinados aos associados 
+de entidades privadas ou públicas, geralmente com instalações mais 
+simples. É utilizada principalmente em períodos de férias, feriados e 
+finais de semana ou durante todo o ano por associados aposentados.
+34
+COLEÇÃO SENAR • Nº 286
+Locação de imóveis para temporada: o proprietário aluga sua pro-
+priedade (sítio ou chácara) para uma pessoa particular, para uma 
+organização para temporada (férias, feriados e finais de semana) ou 
+para determinados eventos (casamentos, seminários, reuniões, en-
+tre outros).
+3. Identifique o potencial gastronômico 
+da região 
+A gastronomia expressa a identidade cultural de um povo e pode ser 
+um importante atrativo no desenvolvimento do turismo rural.
+Nem toda região tem seu prato típico, que é aquele que atrai ainda 
+mais consumidores para se deliciar com sua culinária típica. No en-
+tanto, ao analisar as origens históricas e culturais regionais e a pro-
+dução agropecuária, pode-se descobrir a existência de receitas dife-
+renciadas ou peculiares. Para criar ou resgatar um “prato turístico” 
+local, alguns passos são importantes.
+3.1. Identifique a história da cidade 
+- Qual é a origem e formação da cidade?
+- Qual é a etnia dos antepassados? 
+- Quais são os fatos históricos mais importantes ou marcantes? 
+3.2. Identifique as receitas difundidas no município 
+- O que a comunidade come normalmente?
+- O que se costuma comer em ocasiões festivas em suas casas? 
+- O que se come em festas religiosas, quermesses, eventos e feiras? 
+35
+Turismo rural: legislação e gestão de empreendimentos
+- Existe algum prato que seja diferente, não comum a outras regiões?
+- Conhece receitas de família que não sejam mais elaboradas atual-
+mente, mas que já foram muito apreciadas e que deixaram saudade?
+3.3. Identifique a produção agropecuária local 
+- Quais são os produtos agropecuários de maior expressão?
+- Qual é a base da economia local? 
+- Que produções agropecuárias são favorecidas pelas condições 
+climáticas? 
+- Quão próximo o município está de importantes centros de produ-
+ção agropecuária? 
+Analisando essas questões, é possível definir qual ou quais pratos 
+serão trabalhados no empreendimento local de modo a agradar e 
+chamar a atenção dos visitantes.
+36
+COLEÇÃO SENAR • Nº 286
+4. Crie roteiros turísticos 
+A criação de um roteiro turístico é o produto final a ser consumido e 
+com ele aumentam as possibilidades de atração de turistas ao mu-
+nicípio. Trata-se da união dos locais a serem visitados, dos serviços 
+disponibilizados e das informações necessárias para atender às de-
+mandas do cliente durante a realização da viagem.
+1. Procure saber se o município ou a região já faz parte de algum 
+roteiro.
+2. É importante elaborar um roteiro dentro do município, incluindo 
+todos os atrativos e produtos turísticos existentes e agregando 
+sempre os que forem criados. 
+3. Normalmente, é possível conseguir o apoio do poder público 
+para ajudar no sucesso do empreendimento.
+Atenção
+Para ser bem-sucedido como empreendedor no turismo rural, é ne-
+cessário trabalhar em sintonia com a comunidade local. Isso quer di-
+zer desenvolver o negócio estando bem informado tanto em relação 
+às próprias potencialidades como em relação às possibilidades dos 
+vizinhos e do município como um todo. 
+1) Estimule os artesãos e artistas locais;
+2) Procure estar sempre informado sobre os principais eventos cul-
+turais da região;
+3) Alie-se à comunidade para diversificar o seu negócio;
+4) Dê preferência a produtos locais; e
+5) Valorize o patrimônio histórico da cidade.
+37
+Turismo rural: legislação e gestão de empreendimentos
+38
+COLEÇÃO SENAR • Nº 286
+III 
+Conhecer a legislação  
+para o empreendimento 
+turístico rural
+Os proprietários de empresas do turismo rural devem ter conheci-
+mento sobre o segmento e saber como administrar o seu empreen-
+dimento para garantir o lucro e a continuidade do negócio. Para isso, 
+é fundamental respeitar a legislação, para que o empreendimento 
+obtenha sucesso e não tenha gastos desnecessários.
+1. Conheça a legislação para o turismo rural 
+As atividades de turismo rural experimentam um regime misto, parte 
+rural e parte urbana, no que diz respeito às questões trabalhistas, 
+previdenciárias, sanitárias e tributárias. Por vezes, enquadram o agri-
+cultor e empreendedor familiar rural ora sob as normas da cidade, 
+ora sob as normas do campo. 
+Em âmbito federal, merecem destaque algumas normas legais relacio-
+nadas ao setor, divididas pelo tipo de legislação em que se enquadram.
+1.1. Entenda a legislação federal para o segmento 
+turístico 
+Toda e qualquer instituição, organização, empresa, propriedade ru-
+ral e ou entidade está submetida a regras e à legislação brasileira. No 
+caso do segmento turístico não é diferente, devendo o empreende-
+dor do turismo rural respeitar a legislação específica do setor.
+Turismo rural: legislação e gestão de empreendimentos
+A Lei 11.771, de 17 de setembro de 2008, e o De-
+creto 7.381, de 02 de dezembro de 2010, definem 
+as normas sobre a Política Nacional de Turismo, 
+dispõem sobre o Plano Nacional de Turismo 
+(PNT), instituem o Sistema Nacional de Turismo 
+e o Comitê Interministerial de Facilitação Turística 
+e tratam do fomento a atividades turísticas com su-
+porte financeiro do Fundo Geral de Turismo (FUN-
+GETUR) e das atribuições do governo federal no 
+planejamento, desenvolvimento e estímulo ao 
+setor turístico.
+1.2. Conheça as normas e as penalidades da 
+prestação de serviços turísticos 
+Informam as obrigatoriedades das empresas ou pessoas que exer-
+çam atividades econômicas relacionadas ao turismo.
+O capítulo V do Decreto 7.381, de 02 de dezembro de 2010, esta-
+belece, entre outros, normas, mecanismos e critérios para o bom 
+funcionamento do Sistema Nacional de Cadastramento, Classifica-
+ção e Fiscalização dos Prestadores de Serviços Turísticos (SINASTUR). 
+Além disso, define as infrações e as penalidades administrativas para  
+meios de hospedagem, agências de turismo, transportadoras, orga-
+nizadoras de eventos, parques temáticos e acampamentos turísticos.
+Um desses mecanismos é a Classificação Nacional de Atividades Eco-
+nômicas (CNAE), que é uma forma de padronizar, em todo o territó-
+rio nacional, os códigos das atividades econômicas e os critérios de 
+enquadramento usados pelos mais diversos órgãos da administra-
+ção tributária do Brasil. A CNAE serve para delimitar as operações 
+que se pode fazer e de qual segmento a empresa faz parte.
+40
+COLEÇÃO SENAR • Nº 286
+A CNAE é aplicada a todos os agentes econômicos que se encaixam 
+na produção de bens e serviços. Isso inclui empresas e organismos 
+públicos ou privados, estabelecimentos agrícolas, instituições sem 
+fins lucrativos e até mesmo agentes autônomos (pessoa física).
+Para descobrir o código da empresa em questão, o código da ativi-
+dade econômica principal e de atividades secundárias, quando for o 
+caso, é preciso consultar a tabela CNAE no site www.cnae.ibge.gov.br
+Uma vez acessado o site, basta clicar no item “estrutura”, no qual 
+será disponibilizada uma lista com as principais atividades. A cada 
+clique, elas se tornarão mais específicas, até que se encontre a mais 
+apropriada ao empreendimento.
+A CNAE foi criada para facilitar a vida dos empresários, diminuindo 
+a burocracia e facilitando o pagamento de impostos e tributos. 
+Atenção
+• Código de Defesa do Consumidor - Lei 8.078/1990
+As relações de consumo na área de turismo são pro-
+tegidas pela Constituição Brasileira e regidas pelo 
+Código de Defesa do Consumidor, que estabelece 
+normas de proteção e defesa do consumidor, de 
+ordem pública e interesse social. É um instrumen-
+to fundamental ao segmento por garantir direitos 
+aos turistas.
+41
+Turismo rural: legislação e gestão de empreendimentos
+• Código Civil – Lei 10.406/2002 – Artigos 186  
+e 927
+Indica a responsabilidade do prestador de serviço 
+ao causar danos a uma pessoa.
+1. É preciso estar atento às questões de responsabilidade civil, 
+principalmente a civil objetiva, que independe da culpa do 
+agente. O empreendedor deve prevenir acidentes, utilizando 
+sinalização e treinando funcionários para acompanhar os 
+turistas em certas atividades.
+2. Os termos de responsabilidade assinados pelos turistas são 
+passíveis de contestação legal.
+3. Para mais informações sobre as normas e penalidades da 
+prestação de serviços no segmento turístico rural, procure o órgão 
+responsável em seu estado e/ou município. 
+Atenção
+1.3.  Conheça a legislação trabalhista para o 
+empreendimento turístico 
+A legislação trabalhista traz especificidades a serem seguidas na re-
+lação com os empregados do empreendimento rural.
+• Estatuto do Trabalhador Rural - Lei 5.889/1973
+Estatui normas reguladoras do trabalho rural.
+42
+COLEÇÃO SENAR • Nº 286
+• Lei 11.718/2008
+Cria o contrato de trabalhador rural por pequeno 
+prazo, estabelece normas transitórias sobre a apo-
+sentadoria do trabalhador rural (admite que a ex-
+ploração da atividade turística não anula a condi-
+ção de segurado especial) e prorroga o prazo de 
+contratação de financiamentos rurais.
+1.4. Conheça sobre a legislação previdenciária do 
+empreendimento turístico 
+É importante observar a legislação previdenciária no que diz respeito 
+à relação com os empregados do empreendimento rural. 
+• Regulamento da Previdência Social - Decreto 
+3.048/1999 - Artigo 9º
+Aborda a obrigatoriedade de contribuição na Pre-
+vidência Social para pessoas físicas.
+• Lei 10.256/2001 - Artigos do 1º ao 3º
+Dispõe sobre a contribuição de pessoa jurídica à 
+Previdência Social.
+• Organização da Seguridade Social - Lei 
+8.212/1991 – Capítulo V
+Reza sobre a contribuição obrigatória do produtor 
+rural à Previdência Social.
+43
+Turismo rural: legislação e gestão de empreendimentos
+1.5. Conheça a legislação sanitária do 
+empreendimento turístico 
+A legislação sanitária estabelece exigências para se garantir a manu-
+tenção da saúde humana.
+• Decreto 5.741/2006 – Capítulos III e X
+Aborda o Sistema Unificado de Atenção à Sanidade 
+Agropecuária (SUASA), que integra os serviços mu-
+nicipal, estadual e federal de inspeção, seus proces-
+sos, cadastros e registros.
+• RDC/Anvisa - 216/2004 – Capítulo 4
+Resolve sobre as boas práticas para serviços de ali-
+mentação. Regulamento Técnico de Boas Práticas 
+para Serviços de Alimentação. Resolução da Diretoria 
+Colegiada da Agência Nacional de Vigilância Sanitária.
+• RDC/Anvisa - 218/2005 - Capítulo 4
+Resolve sobre procedimentos higiênico-sanitários 
+para manipulação de alimentos e bebidas prepara-
+dos com vegetais. Regulamento Técnico de Proce-
+dimentos Higiênico-Sanitários para Manipulação 
+de Alimentos e Bebidas Preparados com Vegetais. 
+Resolução da Diretoria Colegiada da Agência Nacio-
+nal de Vigilância Sanitária.
+44
+COLEÇÃO SENAR • Nº 286
+1.6. Conheça a legislação ambiental 
+A legislação ambiental estabelece as normas referentes à proteção 
+do meio ambiente.
+• Lei dos Crimes Ambientais – Lei 9.605/1998 –  
+Capítulo V
+Aborda os crimes contra o meio ambiente.
+• Lei do Sistema Nacional de Unidades de  
+Conservação – Lei 9.985/2000
+Institui o Sistema Nacional de Unidades de Con-
+servação (SNUC) e estabelece critérios e normas 
+para a criação, implantação e gestão de unidades 
+de conservação.
+1.7. Conheça a legislação sobre a proteção do 
+patrimônio histórico cultural em empreendimentos 
+turísticos 
+Informa o que contempla a proteção que o Estado oferece em rela-
+ção ao patrimônio rural.
+• Decreto-lei 25/1937
+Conceitua e organiza a proteção do patrimônio  
+histórico e artístico nacional e dispõe sobre o 
+tombamento.
+45
+Turismo rural: legislação e gestão de empreendimentos
+1.8. Conheça sobre a legislação agrária em 
+empreendimentos turísticos 
+A legislação dispõe sobre os dispositivos referentes às práticas agrárias.
+• Política Agrícola – Lei 8.171/1991 – Capítulos V 
+e XIII e Artigo 99
+Dispõe sobre assistência técnica e extensão rural, 
+crédito rural e obrigatoriedade do proprietário ru-
+ral em recompor a reserva florestal legal, quando 
+necessário.
+• Política Nacional da Agricultura Familiar e Empreendimentos 
+Familiares Rurais - Lei 11.326/2006 – Artigo 3º
+Apresenta os beneficiários e expõe sobre a Política 
+Nacional da Agricultura Familiar e Empreendimen-
+tos Familiares Rurais.
+1.9. Conheça sobre as regras e formas 
+de acessibilidade 
+Refere-se às formas de preparação para o atendimento de pessoas 
+com deficiência.
+• Decreto-lei 5.296/2004
+Regulamenta a Lei 10.098/2000, que estabelece 
+normas gerais e critérios básicos para a promoção 
+da acessibilidade das pessoas com deficiência ou 
+mobilidade reduzida.
+46
+COLEÇÃO SENAR • Nº 286
+• ABNT NBR 9050/2004 
+Normatiza a acessibilidade a edificações, mobiliá-
+rio, espaços e equipamentos.
+1.10. Conheça as normas técnicas para 
+atividades turísticas 
+São documentos que estabelecem regras, diretrizes ou característi-
+cas acerca de um produto ou serviço.
+• ABNT NBR 15507-1 
+Turismo Equestre – Parte1: Requisitos para Pro-
+duto
+• ABNT NBR 15505-1 
+Turismo com Atividades de Caminhada – Parte 1: 
+Requisitos para Produto
+• ABNT NBR 15505-2 
+Turismo com Atividades de Caminhada – Parte 2: 
+Classificação de Percursos
+47
+Turismo rural: legislação e gestão de empreendimentos
+ABNT NBR 15509-1 
+Cicloturismo – Parte 1: Requisitos para Produto
+1. Outras normas – até mesmo em âmbito estadual e municipal – 
+também trazem impactos ao segmento, apesar de não terem sido 
+abordadas aqui.
+2. É fundamental contar com profissionais da área e uma boa 
+assessoria para tomar decisões importantes e estabelecer 
+estratégias em momentos de dificuldade, já que a grande  
+maioria dos empreendedores não detém conhecimentos em 
+todas essas áreas. 
+Atenção
+48
+COLEÇÃO SENAR • Nº 286
+IV 
+Fazer a legalização 
+do empreendimento 
+turístico rural 
+Toda empresa está submetida à legislação brasileira, até mesmo as 
+que estão localizadas em espaço rural. Portanto, é necessário respei-
+tar as leis federais, estaduais e municipais. Dessa forma, para uma 
+empresa funcionar da melhor maneira possível, é necessário fazer 
+toda a regularização necessária para o funcionamento correto do 
+empreendimento.
+Aquele que decide economizar um pouco hoje sem legalizar seu ne-
+gócio pode enfrentar graves prejuízos amanhã. Quem se mantém 
+irregular corre diversos riscos que podem ser fatais.
+1. Saiba como legalizar o empreendimento 
+turístico rural 
+Para iniciar a atividade de turismo rural e legalizá-la, é preciso atentar 
+para os passos legais de criação de uma empresa. Para obter suces-
+so no empreendimento, é importante legalizar todos os credencia-
+mentos e as licenças para a atividade turística no meio rural. 
+1.1. Defina e registre a sua marca 
+É interessante que um empreendimento de turismo rural defina sua 
+identidade e crie sua marca, de modo a caracterizar os atrativos ou 
+as potencialidades da propriedade que acolherá os turistas. 
+Turismo rural: legislação e gestão de empreendimentos
+1.1.1. Faça a pesquisa de similaridade junto ao INPI 
+Após a criação da marca, caso opte por registrá-la, procure o  Institu-
+to Nacional de Propriedade Industrial (INPI). 
+a) Faça uma busca prévia no INPI para saber se existe nome se-
+melhante no mesmo ramo de atividade econômica. Essa bus-
+ca pode ser realizada gratuitamente no site www.inpi.gov.br. 
+Se solicitada diretamente ao INPI, será cobrada uma taxa;
+b) Protocole o pedido de registro no INPI com a documentação 
+necessária e pague a taxa de depósito da marca. Há diferen-
+ciação no preço no caso de micro e pequena empresa;
+c) Retorne ao INPI depois de 30 dias para obter o número 
+do processo;
+d) Acompanhe o processo no site do INPI ou na Revista da Pro-
+priedade Industrial (RPI), disponível para consulta no instituto;
+e) Faça o pagamento de uma nova taxa para a emissão do re-
+gistro, após o deferimento do pedido, podendo esta sair em 
+60 dias. Em até 90 dias, deve-se fazer o pagamento da taxa 
+de proteção da marca no primeiro decênio; e
+f) Renove a taxa de proteção a cada dez anos, sob pena de 
+extinção do registro.
+O processo para o registro da marca leva de dois a três anos.
+Atenção
+50
+COLEÇÃO SENAR • Nº 286
+Quadro 1. Documentos necessários para  
+registrar a marca
+Para Pessoa Jurídica Para Pessoa Física
+Cópia autenticada da 
+declaração de firma individual, 
+do contrato social, do estatuto 
+social e dos aditivos
+Cópia autenticada do CPF e  
+do RG
+Cópia do CNPJ (atualizado)
+Cópia autenticada de 
+comprovação de atividade 
+profissional autônoma, 
+reconhecida pelo órgão 
+fiscalizador
+Cópia da declaração de 
+microempresa (se for o caso)
+Cópia autenticada do cartão do 
+CIM (Comprovante de Inscrição 
+Municipal) e etiquetas (para 
+marcas mistas ou figurativas)
+Etiquetas (para marcas mistas  
+ou figurativas)
+Formulário próprio fornecido pelo 
+INPI, em quatro vias, e guia de 
+recolhimento do INPI, em três vias
+Formulário próprio fornecido pelo 
+INPI, em quatro vias, e guia de 
+recolhimento do INPI, em três vias
+1.2. Providencie a documentação da propriedade 
+rural para registro do empreendimento turístico 
+A escritura estabelece o direito de propriedade, ou seja, comprova 
+quem é o dono. No Brasil, tanto na compra de um imóvel quanto 
+nos casos de herança, é a escritura que garante a propriedade ao 
+novo dono.
+51
+Turismo rural: legislação e gestão de empreendimentos
+Uma propriedade rural pode obter os mesmos docu-
+mentos que um imóvel urbano: escritura, registro 
+e matrícula. Entretanto, exige um processo dife-
+rente até a conclusão do registro. Antes de tudo, 
+o imóvel deve estar legalizado, ou seja, possuir 
+situação cadastral, tributária e jurídica de acordo 
+com as normas previstas na Lei 6.015/73.
+Caso ainda não se tenha a escritura da propriedade, o processo para 
+providenciá-la consiste nas seguintes ações:
+a) Regularize e cadastre o imóvel no Sistema Nacional de Ca-
+dastro Rural (SNCR), do Instituto Nacional de Colonização e 
+Reforma Agrária (INCRA), para emitir o Certificado de Cadas-
+tro de Imóvel Rural (CCIR). 
+O documento é indispensável para transferir, aderir, arrendar, 
+hipotecar, desmembrar, partilhar (divórcio ou herança) e obter 
+financiamento bancário.
+Atenção
+b) Caso o documento já tenha sido emitido, sempre que houver 
+alterações nas informações do imóvel, atualize o cadastro 
+por meio da Declaração para Cadastro Rural, e declare anual-
+mente o Imposto sobre a Propriedade Territorial Rural (ITR).
+c) Com essa documentação em mãos, solicite uma Escritura Pú-
+blica, em Cartório de Notas, para formalizar a compra e ven-
+da, transferência, doação ou partilha do imóvel rural. Além 
+da participação das partes, será necessário apresentar:
+52
+COLEÇÃO SENAR • Nº 286
+• Certidão original de Inteiro Teor e Ônus atualizada (validade de 
+30 dias);
+• Certidão de Cadastro de Imóvel Rural (CCIR), referente aos exer-
+cícios dos últimos cinco anos (quitada);
+• Certidão do Imposto Territorial Rural (ITR);
+• Certidão do GRPU, caso a área se confronte com rio federal; e
+• Georreferenciamento, que é exigido para imóveis com área aci-
+ma de 100 hectares (ha). 
+d) Após a lavratura da Escritura Pública, registre e/ou atualize 
+a matrícula no Cartório de Registro de Imóveis.
+1.3. Elabore um contrato social para a regularização 
+do empreendimento turístico 
+O contrato social é um documento no qual constam as regras e as 
+condições sob as quais a empresa funcionará e estão estabelecidos 
+os direitos e as obrigações para cada um dos proprietários que com-
+põem a sociedade.
+Não é aconselhável que o empreendedor faça o contrato social 
+sozinho, sem a consultoria de um profissional especializado no 
+assunto. Porém, saber dos instrumentos que o contrato social deve 
+conter ajuda na supervisão do trabalho e evita surpresas futuras.
+Atenção
+Para elabor um contrato social em acordo com o Código Civil, é ne-
+cessário informar:
+• nome e qualificação dos sócios (mais de um sócio no caso de 
+sociedade limitada); 
+53
+Turismo rural: legislação e gestão de empreendimentos
+• nome da empresa (depois da pesquisa no INPI); 
+• local do empreendimento (conforme escritura); 
+• capital social integralizado (quotas por sócio); 
+• objetivos da empresa; 
+• duração das atividades; 
+• responsabilidade dos sócios; 
+• período de apuração de resultados; e
+• outros elementos que se façam necessários.
+1. O objetivo do contrato social deve ser amplo no que se refere à 
+prestação de serviços. 
+2. O proprietário deve entender que, apesar de começar pequeno, 
+pode no futuro ampliar as suas atividades turísticas. Nesse 
+caso, é importante citar os serviços que a médio ou longo prazo 
+poderá oferecer, tais como alimentação, estada, eventos, lazer, 
+hospedagem equestre, cursos, treinamentos, atividades de pesca, 
+entre outros. 
+Atenção
+1.3.1. Registre o contrato social do empreendimento turístico 
+O registro do contrato social na Junta Comercial do Estado onde está 
+localizada a propriedade é uma condição indispensável para a aber-
+tura do negócio. 
+Entre outras funções, ele dá publicidade ao ato de constituição da 
+empresa, informando à sociedade e aos interessados que ela é vá-
+lida, está registrada e não possui a mesma razão social ou o nome 
+fantasia de outro empreendimento.
+54
+COLEÇÃO SENAR • Nº 286
+1.3.2. Verifique os documentos necessários à inscrição do em-
+preendimento turístico 
+O registro na Junta Comercial ou no Cartório de Registros varia con-
+forme o estado. Isso significa que as exigências quanto a documen-
+tos podem ser uma na Bahia, outra no Distrito Federal e outra total-
+mente diferente em Santa Catarina, por exemplo.
+Procure o órgão responsável pelo registro empresarial do seu 
+município para conhecer as exigências. A maioria deles fornece 
+a relação de documentos necessários para a inscrição em seus 
+próprios sites. Os papéis devem ser apresentados presencialmente, 
+não sendo aceito o envio por correio.
+Atenção
+Entre os documentos solicitados, podem constar:
+• Formulário de inscrição com qualificação completa;
+• Documentos de arrecadação com comprovantes de pagamento;
+• Requerimento de empresário;
+• Cópia de RG e/ou CPF do empresário e de seus sócios;
+• Consulta de viabilidade; e
+• Documento Básico de Entrada (DBE).
+1.4. Faça o cadastro do CNPJ do empreendimento 
+turístico junto ao Ministério da Fazenda
+Todas as empresas, independentemente de suas atividades, devem 
+se cadastrar na Receita Federal para obter o CNPJ (Cadastro Nacional 
+de Pessoa Jurídica).
+55
+Turismo rural: legislação e gestão de empreendimentos
+O CNPJ é o cadastro da empresa que fará com que ela exista nacio-
+nalmente. Ele é o responsável por provar de qual seguimento o em-
+preendimento faz parte e quais impostos devem ser pagos. Sem um 
+CNPJ, a empresa não existe de fato e é considerada ilegal.
+Para viabilizar a retirada do CNPJ, é preciso ir até a Receita Federal de 
+sua cidade portando os seguintes documentos:
+• Identidade dos donos da empresa (original e cópia); 
+• CPF;
+• Comprovante de residência; 
+• Endereço de onde a empresa irá funcionar; e
+• Contrato social. 
+A taxa varia de acordo com a época do ano e do seguimento do 
+empreendimento e deve ser paga no ato da inscrição.
+Atenção
+1.5. Solicite o alvará de funcionamento do 
+empreendimento turístico junto à Prefeitura 
+Municipal 
+O alvará de funcionamento é o documento mais importante de uma 
+empresa, já que sem ele ela não pode abrir as portas para o público. 
+Mesmo que toda a documentação restante esteja em ordem, enquanto 
+o alvará não for expedido, a empresa não pode funcionar legalmente.
+56
+COLEÇÃO SENAR • Nº 286
+Após o cadastro do CNPJ, é necessário retirar o alvará de funciona-
+mento da empresa na prefeitura da cidade. Os documentos neces-
+sários são:
+ » Planta do imóvel onde se pretende abrir o negócio;
+ » Cópia do recibo do IPTU pago;
+ » CPF e RG (originais ou cópias) da pessoa responsável pelo 
+negócio; e
+ » Cadastro do Contribuinte Mobiliário (CCM), obtido na Secreta-
+ria das Finanças.
+Esse documento é o que habilita o local onde a empresa está 
+instalada a funcionar e realizar as atividades desejadas.
+Atenção
+1.6. Retire o alvará junto ao órgão de Vigilância 
+Sanitária
+Todo empreendimento que, direta ou indiretamente, possa consti-
+tuir algum tipo de risco à saúde, pelo tipo de atividade que desenvol-
+ve, necessita do alvará da Vigilância Sanitária.
+O alvará sanitário é um documento emitido pelo Departamento de 
+Vigilância Sanitária da Secretaria Municipal de Saúde (SMS) após a 
+análise das condições higiênico-sanitárias de estabelecimentos, ve-
+ículos e equipamentos que mantenham atividades relacionadas à 
+saúde dos cidadãos.
+57
+Turismo rural: legislação e gestão de empreendimentos
+1. O alvará comprova que um estabelecimento, veículo ou 
+equipamento está em acordo com a legislação sanitária vigente, 
+garantindo a saúde e o bem-estar da população do município.
+2. Um empreendimento no turismo rural é um estabelecimento 
+que necessita desse alvará devido à oferta de hospedagem, lazer, 
+comidas e bebidas a seus visitantes
+Atenção
+Para retirar o alvará da Vigilância Sanitária:
+a) Solicite o requerimento do alvará sanitário na Vigilância Sa-
+nitária Municipal ou Regional. Caso sua solicitação não pos-
+sa ser atendida em sua cidade, procure a Diretoria de Vigi-
+lância Sanitária;
+b) Providencie a documentação necessária conforme os  
+pré-requisitos para cada tipo de alvará. Geralmente os  
+documentos são:
+ » Inscrição Municipal (obtida na Secretaria de Finanças);
+ » Cópia do Contrato social; 
+ » Cópia do CNPJ; e
+ » Cópia do alvará sanitário do último exercício (quando for 
+renovação).
+c) Obtenha o número do protocolo para acompanhar o processo. 
+Após a vistoria realizada, o alvará será ou não liberado.
+O prazo para a emissão do alvará varia em virtude do tipo de 
+atividade exercido e da disponibilidade da vistoria sanitária que 
+deve ser realizada no local. 
+Atenção
+58
+COLEÇÃO SENAR • Nº 286
+2. Prepare o empreendimento turístico para 
+a vistoria do Corpo de Bombeiros 
+O Corpo de Bombeiros é um dos responsáveis pelo alvará de funcio-
+namento do estabelecimento. Para cada caso, existem uma categoria 
+e uma norma de segurança a serem cumpridas. Portanto, é importan-
+te buscar a informação necessária na Companhia do Corpo de Bom-
+beiros da região antes de projetar ou construir seu empreendimento.
+O Auto de Vistoria do Corpo de Bombeiros (AVCB) é um documento 
+emitido pelo Corpo de Bombeiros da Polícia Militar, certificando que, 
+durante a vistoria, a edificação inspecionada cumpria e possuía to-
+das as condições de segurança contra incêndio e pânico, oferecendo 
+um conjunto de medidas técnicas, estruturais e organizacionais para 
+garantir proteção de acordo com as normas previstas na lei.
+Para obtenção do AVCB, uma série de itens de segurança e preserva-
+ção da vida são avaliados:
+• Hidrantes com mangueiras 
+de comprimento suficiente 
+no caso de necessidade de 
+combate a incêndio, número 
+adequado de extintores para 
+distintas finalidades, alar-
+me de acionamento manu-
+al, sprinklers, detectores de 
+temperatura e fumaça
+59
+Turismo rural: legislação e gestão de empreendimentos
+• Saídas de emergência e rotas 
+de fuga com piso antiderra-
+pante, desobstruídas e bem 
+sinalizadas por placas fotolu-
+minescentes e iluminação de 
+emergência que acendam no 
+caso de interrupção de energia 
+elétrica. Além da sinalização na 
+rota de fuga, a largura das es-
+cadas e dos degraus deve ser 
+compatível com as normas téc-
+nicas e o número de pessoas 
+que o local comporta
+• Corrimão começando e terminando dentro da parede para evi-
+tar ferimentos em caso de evacuação do local e guarda-corpos 
+dentro das normas
+• Porta corta-fogo com molas em pleno funcionamento e adequa-
+da pressurização interna de escadas, caso existam
+Dentro de um projeto técnico para apresentação dos sistemas de se-
+gurança contra incêndio, para solicitação do AVCB costumam constar:
+• Cartão de identificação;
+• Pasta do projeto técnico;
+• Formulário de segurança contra incêndio;
+• Anotação de responsabilidade técnica sobre riscos na edificação, 
+instalações ou áreas de risco;
+• Planta de risco de incêndio (implantação);
+• Planta de medidas de segurança contra incêndio (planta de 
+bombeiro); e
+• Documentos adicionais solicitados conforme necessidade.
+60
+COLEÇÃO SENAR • Nº 286
+1. Existem empresas especializadas em pré-vistoria para apontar 
+mudanças e detectar falhas de segurança contra fogo e pânico, 
+antes da vistoria do Corpo de Bombeiros, mas é importante que 
+esse serviço seja prestado com a participação de um engenheiro 
+para assinar as Anotações de Responsabilidade Técnica (ARTs).
+2. Toda empresa que funcione sem o AVCB, com o documento 
+vencido, que tenha modificado de forma significativa sua estrutura 
+(mudança de ocupação ou uso, ampliação de área construída ou 
+reforma, dentre outros casos) ou tenha modificado os mecanismos 
+de segurança de que dispunha quando o alvará foi emitido pode 
+ser considerada irregular.
+Atenção
+3. Solicite o talão de notas fiscais do 
+empreendimento turístico 
+A nota fiscal é o documento fiscal que comprova os serviços presta-
+dos, os produtos vendidos pela empresa e sua regularidade com os 
+tributos devidos ao governo.
+As principais opções de notas fiscais disponíveis hoje são:
+• Nota Fiscal Avulsa Eletrônica: para usá-la, é necessário solici-
+tar à SEFAZ (Secretaria da Fazenda), o que pode ser feito gratui-
+tamente pela internet. Nem todos os estados possuem esse tipo 
+de nota;
+• Nota Fiscal Eletrônica (NF-e): é necessário solicitar um certifi-
+cado digital ou, dependendo da localidade, a senha Web, além 
+de possuir um emissor de nota fiscal ;
+61
+Turismo rural: legislação e gestão de empreendimentos
+• Nota Fiscal Avulsa: é a mais simples, porém não usada em to-
+dos os estados, sendo necessário fazer uma solicitação à Secre-
+taria da Fazenda do estado ou município. Em alguns estados, o 
+pedido pode ser feito pela internet;
+• Nota Fiscal de Venda ao Consumidor: é a tradicional nota do 
+talão de notas, impresso em gráfica, utilizada para venda de pro-
+dutos. Depende da Autorização de Impressão de Documentos Fis-
+cais (AIDF) e deve seguir as normas para a impressão do talão; e
+62
+COLEÇÃO SENAR • Nº 286
+• Nota Fiscal de Entrada: é usada para formalizar a compra de 
+produtos sem nota fiscal. O empreendedor deve emitir uma 
+nota em seu próprio talão de notas, com seus dados no campo 
+do destinatário, detalhando a entrada de mercadorias adquiri -
+das sem comprovantes.
+1. Emitir notas fiscais é a prova de que sua empresa paga os 
+tributos devidos ao governo da forma correta, o que gera confiança 
+para os fornecedores e clientes.
+2. Emitir nota fiscal dá ao empreendedor a oportunidade de 
+crescer, realizar negócios realmente expressivos com grandes 
+empresas que exigem a emissão da nota fiscal para a contratação 
+de um serviço ou para a compra de produtos.
+Atenção
+63
+Turismo rural: legislação e gestão de empreendimentos
+4. Cadastre o empreendimento rural no 
+Cadastur
+Cadastur é o sistema de cadastro de pessoas físicas e jurídicas que 
+atuam no setor de turismo. O cadastro garante diversas vantagens 
+e oportunidades de negócio aos seus cadastrados e é também uma 
+importante fonte de consulta para o turista.
+O programa é executado pelo Ministério do Turismo 
+em parceria com os órgãos oficiais de turismo nos 
+26 estados e no Distrito Federal.
+• Benefícios do Cadastur para a empresa:
+ » Incentivo a participar de programas e projetos do 
+governo federal;
+ » Participação em programas de qualificação promovidos e 
+apoiados pelo Ministério do Turismo;
+ » Acesso a financiamentos por meio de bancos oficiais;
+ » Apoio em eventos, feiras e ações do Ministério do Turismo;
+ » Visibilidade nos sites do Cadastur e do Programa Viaje Legal; e 
+ » Participação, em seu município, em eventos e conselhos que 
+exijam o cadastro, dando visibilidade à sua empresa quanto 
+ao respeito e profissionalismo no setor em que atua.
+• Empreendimentos que devem se cadastrar no Cadastur:
+O cadastro é obrigatório para as seguintes atividades:
+ » Agências de turismo;
+ » Meios de hospedagem (albergue, condo-hotel, flat, hotel urbano, 
+hotel de selva, hotel fazenda, hotel histórico, pousada, resort);
+ » Guias de turismo;
+ » Transportadoras turísticas;
+ » Acampamentos turísticos;
+ » Organizadoras de eventos; e
+ » Parques temáticos.
+64
+COLEÇÃO SENAR • Nº 286
+Em caráter opcional, também poderão se cadastrar:
+ » Restaurantes, cafeterias, bares e similares;
+ » Centros ou locais destinados a convenções, feiras, exposições 
+e similares;
+ » Parques temáticos aquáticos;
+ » Empreendimentos de equipamentos de entretenimento e lazer;
+ » Marinas e empreendimentos de apoio ao turismo náutico;
+ » Empreendimentos de apoio à pesca desportiva;
+ » Casas de espetáculos, shows e equipamentos de animação 
+turística;
+ » Prestadores de serviços de infraestrutura de apoio a eventos;
+ » Locadoras de veículos para turistas; e
+ » Prestadores especializados em segmentos turísticos.
+4.1. Faça o cadastro eletrônico de prestadores de 
+serviços turísticos no MTur 
+Para realizar a prestação de serviços turísticos de forma legal, é 
+necessário: 
+a) Ter em mãos o número do CNPJ e o CPF do responsável legal 
+pela empresa;
+b) Preencher o formulário eletrônico no site: http://www.cadastur.
+turismo.gov.br/cadastur/ComoCadastrar.mtur; e 
+c) Aguardar comunicação por e-mail quando o certificado estiver 
+disponível.
+1. O cadastro é feito de forma totalmente virtual.
+2. O cadastro é válido por dois anos, no caso das  
+pessoas jurídicas, e por cinco anos para os guias  
+de turismo.
+Atenção
+65
+Turismo rural: legislação e gestão de empreendimentos
+X
+V 
+Fazer a gestão do 
+empreendimento 
+turístico rural 
+A implantação de um empreendimento de turismo rural requer do 
+empresário uma série de considerações sobre o potencial de sua 
+propriedade, sua capacidade de transformar os atrativos que ela ofe-
+rece aos visitantes em produto turístico e também da necessidade de 
+identificar o potencial do município para o turismo.
+É fundamental que a comunidade local se convença da importância 
+do turismo para o seu desenvolvimento econômico, social, cultural e 
+ambiental. No entanto, não basta somente à comunidade estar en-
+volvida; é preciso vontade política para que o turismo aconteça. O 
+poder público, por meio da prefeitura e de suas secretarias, detém 
+um papel importante na hora de planejar e gerir a atividade turística. 
+Na atividade turística, todos têm papéis importantes no 
+planejamento e na gestão: a comunidade, os trabalhadores, os 
+empresários e os políticos.
+Atenção
+1. Identifique e analise os recursos 
+necessários para o funcionamento do 
+empreendimento turístico rural
+Para identificar e analisar a viabilidade de determinada localidade 
+para o turismo rural, bem como para sua estruturação, é necessário 
+conhecer o que existe na região. É preciso que sejam inventariados 
+os recursos naturais, além dos materiais e imateriais, denominados 
+recursos turísticos.
+66
+Os recursos turísticos são responsáveis por despertar o interesse 
+do turista e motivá-lo a se deslocar até a região. 
+Atenção
+1.1. Realize o inventário para a oferta turística 
+O inventário da oferta turística compreende o levantamento, a iden-
+tificação e o registro dos atrativos, dos serviços e equipamentos tu-
+rísticos e da infraestrutura de apoio à atividade.
+67
+Turismo rural: legislação e gestão de empreendimentos
+Algumas ações são necessárias para inventariar esses recursos:
+• Descubra o que o local oferece. É uma tarefa que irá exigir o en-
+volvimento dos moradores, que são quem realmente conhece o 
+lugar e suas características, e que, portanto, poderão contribuir 
+muito com o levantamento; 
+• Explore os aspectos marcantes que os ciclos econômicos deixa-
+ram na paisagem e que podem constituir um rico patrimônio; e
+• Leve em consideração a proximidade do produto/atrativo em re-
+lação aos centros urbanos. 
+O conjunto de atrativos situado fora dos limites das propriedades 
+rurais pode se agregar a elas e formar um roteiro turístico 
+integrado e participativo, que leve em conta as características 
+produtivas de toda a região.
+Atenção
+Identificados os recursos turísticos, é necessária a realização de uma 
+análise daqueles que podem caracterizar a propriedade e a região 
+como propícia ao desenvolvimento do turismo rural. 
+É importante lembrar que um dos principais motivos que trazem os 
+viajantes para esse segmento é a paisagem rural, composta pela na-
+tureza, pela cultura, pelas atividades agropecuárias e pelos “fazeres” 
+artesanais. Dessa maneira, o empreendedor deverá aproveitar o que 
+já é produzido e trabalhado em suas terras ou em sua região, uma 
+vez que muitos turistas desejam vivenciar o modo de vida do homem 
+do campo.
+68
+COLEÇÃO SENAR • Nº 286
+Por isso, é essencial a manutenção contínua do que a propriedade 
+produz e trabalha, bem como de suas características principais. Nes-
+se sentido, uma fazenda cujo principal fator econômico seja a produ-
+ção do vinho e que passe a ter foco no turismo não deve deixar de 
+produzi-lo, pois este é, provavelmente, seu principal fator de atrativi-
+dade e diferenciação no mercado. 
+O trabalho de estruturação do turismo rural em uma região desde 
+o seu momento inicial – identificação dos recursos existentes – não 
+pode ocorrer apenas sob a ótica de uma propriedade rural isolada, 
+mas deve considerar também o que se encontra ao seu redor.
+Atenção
+69
+Turismo rural: legislação e gestão de empreendimentos
+2. Estabeleça parcerias e cooperação e 
+forme redes estratégicas para viabilizar o 
+turismo rural 
+Parceria e cooperação são itens indispensáveis ao processo de de-
+senvolvimento de um empreendimento ou de uma comunidade. 
+Além de ser uma estratégia, o desenvolvimento de parcerias é uma 
+condição para a viabilidade do turismo rural.
+A cooperação entre os diversos agentes, além de facilitar a organiza-
+ção, a divulgação e a comercialização do negócio, aumenta o leque 
+de atrativos ofertados e potencializa a chance de envolvimento e par-
+ticipação do poder público, especialmente na melhoria da infraestru-
+tura básica, no fomento e na promoção da atividade.
+Antes de rotular um empreendimento como concorrente, é 
+necessário perceber que, mesmo sendo um concorrente, ele pode 
+ser um parceiro, na medida em que pode trabalhar em conjunto, 
+seja na promoção do destino, na recepção dos visitantes ou na 
+reivindicação por melhorias no acesso.
+Atenção
+2.1. Forme parcerias no turismo rural
+• Identifique lideranças entre os envolvidos no segmento; 
+• Analise e avalie parcerias já estabelecidas; 
+• Estabeleça diretrizes para a atração de parceiros;
+• Estabeleça contatos com parceiros potenciais (Sistema S, institui-
+ções de ensino, entidades privadas e órgãos públicos); e
+• Busque ou crie espaços para a discussão de assuntos de interes-
+se comum.
+70
+COLEÇÃO SENAR • Nº 286
+Parcerias exigem confiança, responsabilidade, valores e estratégias 
+que permitam ganhos sociais, políticos, econômicos e ambientais 
+para todos os envolvidos. 
+Para que uma parceria obtenha sucesso, é importante que o 
+empreendedor se enxergue como componente de um grupo e 
+que, portanto, coopere com os demais componentes, muitas 
+vezes abrindo mão de seus próprios interesses em benefício dos 
+interesses coletivos. 
+Atenção
+3. Envolva a comunidade local para 
+participar do turismo rural
+Um dos valores do turismo rural está justamente na relação da co-
+munidade local com o meio rural e é essa relação que o turista busca. 
+Apesar de ter um papel fundamental e de destaque, as comunidades 
+nem sempre estão preparadas para a atividade turística, o que exi-
+ge um exercício de envolvimento e sensibilização. Em muitos casos, 
+é necessário um trabalho de identificação e resgate de identidade, 
+tradições e formas de expressão para coletivamente ser construído 
+o produto turístico e definir como ele deve ser mostrado para os via-
+jantes.
+Para que haja um envolvimento da comunidade com o turismo rural, 
+é necessário um trabalho contínuo de sensibilização para resultar: 
+• na elevação da autoestima da população;
+• na geração de atitudes positivas entre comunidade e turista;
+71
+Turismo rural: legislação e gestão de empreendimentos
+• na melhoria do processo de interpretação;
+• no desenvolvimento do respeito mútuo; e 
+• na compreensão do turismo rural como forma de melhoria do am-
+biente rural e de redução da migração para as grandes cidades.
+É preciso que as pessoas com perfil de liderança busquem esse en-
+volvimento com o restante da comunidade e estabeleçam um traba-
+lho contínuo para resultar nessa sensibilização e nesse resgate da 
+identidade local.
+4. Planeje as atividades diversificadas e 
+sustentáveis que serão ofertadas
+Para aumentar o número de turistas, é preciso conhecer o que os 
+leva a optar pelo empreendimento e combinar atrativos com um pú-
+blico variado.
+72
+COLEÇÃO SENAR • Nº 286
+Deve-se tomar cuidado para não perder a identidade rural das 
+atividades.
+Atenção
+Há uma parte da população que pode ser considerada como consu-
+midora potencial de turismo rural. Esse público será captado desde 
+que sejam incluídas e planejadas atividades mais atrativas nas pro-
+priedades rurais.
+4.1. Planeje atividades de vivências 
+agrossilvipastoris
+• Visita às áreas produtivas
+Demonstre aos turistas os procedimentos do trabalho agrícola de área 
+produtiva e explique cada uma das etapas trabalhadas. Em alguns ca-
+sos, pode-se programar a atividade agrícola para fazer com que o tu-
+rista esteja realmente participando desse processo produtivo.
+73
+Turismo rural: legislação e gestão de empreendimentos
+• Leite ao pé da vaca
+O turista irá observar a presença do bezerro junto à vaca, o peia-
+mento da vaca leiteira e a higienização das tetas da vaca, ouvindo e 
+vivenciando todos os procedimentos de retirada do leite.
+Os visitantes poderão ser convidados a fazer o procedimento de 
+retirada manual do leite e degustá-lo.
+Atenção
+74
+COLEÇÃO SENAR • Nº 286
+• Colha e coma
+O turista recebe informações sobre processo produtivo, origem da 
+planta, valores nutritivos, usos, forma correta de colheita, ponto ideal 
+de colheita e outras informações que poderão ser pertinentes.
+• Cavalgada
+75
+Turismo rural: legislação e gestão de empreendimentos
+O passeio a cavalo deve ser em grupos, com destino a um determi-
+nado local de beleza natural ou de importância histórico-cultural. Em 
+algumas regiões, é utilizado frigomula (geralmente um muar carre-
+gando uma caixa térmica com bebidas frescas). A cavalgada pode ser 
+diurna ou noturna, esta última com a presença da lua cheia.
+1. Os animais usados para cavalgadas devem estar acostumados a 
+essa atividade e ser dóceis o suficiente para se manterem em grupo.
+2. Devem ser tomados cuidados especiais com crianças e turistas 
+que não dominam a prática.
+3. É recomendável o uso de capacetes especiais, luvas e botas, 
+sendo necessárias instruções pré-passeio aos iniciantes.
+Atenção
+• Pesque e pague
+Os proprietários podem explorar a atividade, seja pela criação de 
+pesque-pagues ou pela exploração dos recursos naturais ou artifi-
+ciais existentes na propriedade (rios, lagos e represas). No primei-
+ro caso, o proprietário deverá instalar a estrutura necessária para a 
+76
+COLEÇÃO SENAR • Nº 286
+criação dos peixes (lagos artificiais). Em ambos os casos, o estabele-
+cimento deverá apresentar estrutura para fazer a pesagem e limpeza 
+dos peixes, além de estrutura de recepção a turistas (sanitários, área 
+de descanso e lanchonete ou restaurante).
+1. Para construir um pesqueiro, é necessário solicitar o 
+licenciamento no DEPRN. 
+2. A polícia ambiental do município poderá informar sobre a 
+legislação específica de pesca amadora, se é necessária a carteira 
+de pescador amador, se ocorre piracema no rio de sua região e se 
+existe alguma data no ano de pesca proibida.
+Atenção
+   
+4.2. Planeje atividades de aventura 
+• Arvorismo
+Foto de Eric Sanman no Pexels
+Atividade que oferece a possibilidade de caminhar no nível das copas 
+77
+Turismo rural: legislação e gestão de empreendimentos
+das árvores, em meio à natureza, por meio de um circuito de habili-
+dades. Tem como principal objetivo tirar as pessoas do chão e levá-
+-las a um local onde o acesso é restrito, para apreciar a fauna, a flora 
+e a paisagem, de uma forma diferente e inusitada, ou por pura emo-
+ção. Existe uma grande variedade de atividades e pontes que podem 
+ser montadas num circuito.
+1. Pontes e estruturas são feitas basicamente utilizando cabos de 
+aço, eucaliptos tratados, madeiras diversas (tábuas, compensados, 
+vigas), cordas, redes e plataformas fixas (usadas para fazer a 
+interligação das pontes).
+2. Deve haver monitores em todo o circuito para dar suporte e 
+orientar os turistas.
+Atenção
+Todo praticante da atividade e todos os monitores devem utilizar 
+EPIs: cadeirinha, fitas solteiras, mosquetões, capacete e sistema de 
+proteção antiqueda.
+Precaução
+• Trekking / Hiking
+As atividades ocorrem em ambientes naturais, com diversos graus 
+de dificuldade, e podem ser guiadas ou autoguiadas. Podem ser rea-
+lizadas por qualquer pessoa, em qualquer idade, e devem estar sem-
+pre acompanhadas de alguma motivação, seja física ou psíquica. São 
+classificadas em: caminhada curta (hiking), caminhada de travessia 
+(trekking) e caminhada de velocidade.
+78
+COLEÇÃO SENAR • Nº 286
+Foto de Eric Sanman no Pexels
+• Canionismo
+79
+Turismo rural: legislação e gestão de empreendimentos
+Consiste na descida esportiva de cânions e gargantas. É uma ativida-
+de muito dinâmica e utiliza diversas técnicas, dependendo dos obs-
+táculos oferecidos pelo cânion explorado. De acordo com o grau de 
+dificuldade, o cânion pode ser uma caminhada leve ou uma atividade 
+esportiva mais complexa como a prática de rapel, saltos, desescalada, 
+passagens estreitas em corrimãos, natação e tobogãs, entre outras .
+1. É necessário o uso de equipamentos corretos (adequados à 
+prática do canionismo).
+2. A prática deve ser acompanhada de guias experientes que 
+conheçam bem o cânion visitado e que possuam qualificação para 
+a atividade.
+3. Deve-se procurar empresas legalmente constituídas, com seguro 
+e equipe qualificada.
+Atenção
+ 
+• Águas brancas
+80
+COLEÇÃO SENAR • Nº 286
+Pode-se destacar cinco tipos de modalidades: rafting é a atividade 
+de descida em botes infláveis em corredeiras fluviais; canoagem é a 
+atividade de descida em corredeiras em caiaques, nas modalidades 
+descida de rio e rodeio (que é brincar com o caiaque em uma onda 
+do rio); duck é um caiaque inflável para descer rios com corredeiras 
+até a classe IV; boia cross é uma descida em câmaras infláveis em 
+rios pequenos e com corredeiras fracas; aqua ride é uma evolução 
+do boia cross, na qual a câmara é recoberta com uma capa, poden-
+do ser uma boia construída especialmente em PVC (ela fica com um 
+formato oval, o que facilita as manobras, possibilitando descer até a 
+classe III).
+Cada modalidade exige o uso de um equipamento obrigatório para 
+proteção e conforto do praticante.
+Precaução
+• Tirolesa
+81
+Turismo rural: legislação e gestão de empreendimentos
+Consiste em superar um vale ou outro acidente geográfico utilizando 
+cordas ou cabos de aço, equipamentos e roldanas especiais. O turis-
+ta se desloca pendurado na roldana e o circuito pode ou não acabar 
+em águas brandas. 
+1. Deve-se buscar profissionais do setor.
+2. A terceirização para uma empresa idônea é recomendada devido 
+ao risco de acidentes, mesmo em circuitos considerados fáceis.
+Atenção
+• Montanhismo
+É a prática de escalada de paredes e montanhas rochosas. Consiste 
+nas seguintes modalidades: escalada em rocha, que pode ser reali-
+zada em grandes paredes denominadas big walls, ou em pequenas 
+82
+COLEÇÃO SENAR • Nº 286
+paredes, visando maior dificuldade na rota. A escalada em rocha de 
+pequenas paredes pode ser subdividida em escalada tradicional e 
+escalada esportiva. 
+1. Quando a escalada for em vias com equipamentos de proteção 
+fixa, deve-se avaliar seu estado.
+2. Deve-se estabelecer um programa de emergência e resgate e 
+procurar sempre instrutores ou monitores credenciados e com 
+muito bom conhecimento da região e do local.
+Atenção
+• Voo livre
+É o voo praticado com asas desprovidas de motor. Pode-se identifi-
+car duas modalidades principais: asa delta e parapente. 
+83
+Turismo rural: legislação e gestão de empreendimentos
+1. Evite voar em equipamentos com mais de 5 anos de fabricação.
+2. Prefira voar em rampas homologadas pelo órgão competente, 
+onde haja um clube de voo que se responsabilize por checar os 
+equipamentos e pela sua segurança.
+3. Evite locais onde ninguém jamais voou.
+4. Voe sempre com piloto habilitado, que é o responsável pela 
+segurança do praticante.
+5. Nunca dispense o uso de Equipamentos de Proteção 
+Individual (EPIs).
+Atenção
+4.3. Planeje as atividades de ecoturismo
+• Cicloturismo
+Atividade que une o esporte (ciclismo) com o lazer e o turismo. Com 
+a bicicleta, o praticante pode ter um contato maior com a natureza e 
+a cultura dos locais visitados. 
+84
+COLEÇÃO SENAR • Nº 286
+Deve-se utilizar somente caminhos que sejam próprios para 
+bicicleta.
+Atenção
+• Águas mansas
+O Brasil possui, em qualquer ambiente, um espelho d’água, seja 
+praia, lago, rio, represa ou açude. Todo espelho d’água frequentado 
+para banho deve ser protegido por guarda-vidas, que é um profissio-
+nal treinado para proteger o banhista, orientando-o quanto ao local 
+mais seguro e agindo em caso de emergência.
+1. Sinalize com destaque as diferentes profundidades dos espelhos 
+d’água situados dentro e próximo ao empreendimento, alertando 
+sobre os riscos de mergulhos (áreas rasas) ou afogamentos (áreas 
+mais profundas).
+2. Placas de perigo e atenção devem estar em locais de fácil 
+visualização e mantidas em bom estado de conservação.
+Atenção
+85
+Turismo rural: legislação e gestão de empreendimentos
+• Caminhada
+São caminhadas com fins específicos, em locais especiais, tais como 
+matas, florestas, praias, entre outros. As trilhas podem ser autoguia-
+das (com placas interpretativas) ou dispor de guias/monitores para 
+acompanhar os turistas. 
+5. Elabore o plano de marketing e divulgação 
+do empreendimento turístico
+O marketing corresponde à ação no mercado e se concentra nos 
+clientes com a intenção de atendê-los bem e torná-los fiéis na utiliza-
+ção do seu negócio. 
+O marketing do produto turístico compreende:
+• a descoberta daquilo que os turistas desejam (pesquisa de mercado); 
+• o desenvolvimento de serviços turísticos adequados (planeja-
+mento do produto); 
+86
+COLEÇÃO SENAR • Nº 286
+• a informação aos turistas sobre o que está disponível (publicida-
+de e promoção); e
+• a orientação sobre os locais onde estes podem comprar os ser-
+viços (ponto de venda e canais de distribuição), de modo a dar 
+valor (preço) ao produto e lucro à empresa, atingindo as metas. 
+1. Um marketing bem feito pode atrair cada vez mais o interesse 
+turístico para as comunidades rurais.
+2. É importante que o empreendedor rural invista na divulgação de 
+seu empreendimento para trazer mais visitantes a ele.
+Atenção
+5.1. Crie um site com design interativo 
+O número de usuários de internet no Brasil vem crescendo rapida-
+mente. Uma das principais formas de uma empresa ficar disponível 
+para todo esse enorme público é tendo o próprio site na internet. 
+Nele serão apresentados a empresa, os produtos e os serviços. 
+5.1.1. Defina um endereço na internet para o empreendimen-
+to turístico 
+O endereço na internet se chama domínio. É preciso escolher um do-
+mínio e registrar no site www.registro.br, que é o órgão responsável 
+por regulamentar os endereços da internet no país. Pode-se fazer o 
+registro de domínio por meio de um dos vários prestadores desse 
+serviço no Brasil e no exterior.
+87
+Turismo rural: legislação e gestão de empreendimentos
+Opte por registrar um domínio fácil de escrever (curto e simples), 
+pois quando o endereço eletrônico é complicado, o internauta 
+pode errar a digitação.
+Atenção
+5.1.2. Hospede o site do empreendimento turístico em um 
+servidor 
+Para que as pessoas possam ver o site empresarial, é preciso hospe-
+dá-lo em um local chamado servidor. Existem várias empresas que 
+fazem esse serviço de hospedagem de site. Os servidores mantêm o 
+site armazenado por um pagamento de mensalidade.
+O custo da hospedagem é baixo no Brasil. Os pacotes de hospeda-
+gem mais simples custam, em média, R$ 30,00 por mês. 
+Faça uma boa pesquisa e compare os serviços e os recursos 
+disponíveis antes de contratar a hospedagem. 
+Atenção
+Algumas empresas oferecem hospedagem sem custo para o site 
+(HDFree, HPG, CriandoSite etc) e há também grandes portais de sites 
+comerciais que oferecem espaço gratuito para assinantes (UOL, AOL, 
+Terra etc). A desvantagem dessas opções é, provavelmente, ter de 
+exibir o anúncio do site no topo da sua página ou dentro dela. Esse 
+serviço está cada vez mais restrito.
+88
+COLEÇÃO SENAR • Nº 286
+Muitas empresas oferecem a contratação do domínio junto com a 
+hospedagem. Adotar essa opção pode simplificar as coisas, já que 
+representa um intermediário a menos.
+Atenção
+5.1.3. Escolha a ferramenta para a criação do site do empreen-
+dimento turístico 
+Existem diversos serviços online que auxiliam, de forma gratuita ou 
+paga, na criação de um site. Qualquer pessoa pode usar esses cons-
+trutores de sites disponíveis na internet. Com a ajuda deles, é mais 
+fácil dar uma aparência profissional para um website, visto que as 
+ferramentas para criação e edição de páginas ficam em um painel de 
+administração onde se pode montá-las, adicionar e editar os textos, 
+incluir imagens, entre outros recursos.
+Existem bons construtores de sites, como: 
+• Google Sites: www.google.com/sites;
+• WebNode: www.webnode.com.br; e
+• Wix: www.wix.com.
+5.1.4. Verifique o conteúdo a ser destacado no site 
+É preciso determinar algumas prioridades sobre o conteúdo do site. 
+Existem cinco pontos fundamentais na página de uma empresa de 
+turismo rural na internet:
+• Coloque o mais importante na primeira página (homepage);
+• Informe quem é a empresa;
+• Informe o que a empresa faz;
+89
+Turismo rural: legislação e gestão de empreendimentos
+• Informe onde e como o cliente pode encontrar a empresa; e
+• Disponibilize fotos das acomodações e das atividades que po-
+dem ser realizadas.
+5.2. Conheça as principais ferramentas de  
+mídias sociais 
+As redes sociais se tornaram grandes aliadas do turismo, especial-
+mente pelo poder de divulgar destinos e atrair os viajantes rapida-
+mente. Elas têm o papel de divulgar a marca do empreendimento 
+rural de uma maneira simples, fácil e praticamente sem gastos.  
+Se utilizada e aproveitada da maneira correta, pode atingir um nú-
+mero grande de pessoas e, entre elas, potenciais visitantes para o 
+empreendimento local.
+O acesso à internet pela rede móvel intensificou as interações online, 
+de modo que hoje, viajantes, agentes de viagem e demais profissio-
+nais do setor interagem com as publicações em tempo real. 
+Essas publicações são feitas por meio das mais diversas redes so-
+ciais, dentre as quais podemos citar:
+• Facebook 
+É considerada a rede social mais popular, sendo difícil pensar em um 
+negócio que não encontre seu público nela. Só no Brasil, são milha-
+res de usuários cadastrados na plataforma, com público que apre-
+senta diferentes interesses em diferentes áreas.
+90
+COLEÇÃO SENAR • Nº 286
+O Facebook pode ser utilizado para:
+• Divulgar o empreendimento;
+• Construir a imagem da marca;
+• Se relacionar com o público; e
+• Publicar lançamentos, ofertas e promoções.
+Para incluir o seu empreendimento nessa plataforma, é necessária a 
+criação de uma página empresarial. 
+Não se trata da criação de um perfil pessoal, e sim de uma página 
+empresarial.
+Atenção
+Para isso, é necessário seguir as seguintes etapas:
+a) Faça o login no Facebook com um perfil qualquer;
+b) Clique na seta que fica na parte superior direita e escolha a op-
+ção “criar página”;
+91
+Turismo rural: legislação e gestão de empreendimentos
+c) Em seguida, escolha que tipo de página quer criar: negócio ou 
+marca, comunidade ou figura pública.
+Nas duas opções, você deve indicar o nome da sua empresa e a cate-
+goria na qual ela se encaixa; e
+d) Feito isso, siga as instruções e leia os termos das páginas do 
+Facebook.
+Depois da página criada, várias ações podem ser feitas, como:
+• Fazer posts com fotos, vídeos e textos;
+• Compartilhar conteúdos de outros canais;
+• Interagir com pessoas e outras empresas;
+• Participar de grupos e conhecer melhor o público;
+• Criar páginas de eventos; e
+• Criar anúncios altamente segmentados para levar a marca e pro-
+dutos ao público.
+92
+COLEÇÃO SENAR • Nº 286
+• Instagram 
+Os usuários do Instagram publicam fotos e vídeos com todos os re-
+cursos disponíveis na plataforma. 
+Ao utilizar essa rede, a empresa deve procurar publicar fotos e 
+vídeos das atividades do dia a dia, de modo a aproximar os clientes 
+e o empreendimento.
+Atenção
+Usar todas as funcionalidades do Instagram também é fundamental 
+para ter sucesso. Por meio dele, é possível anunciar, mostrar novida-
+des, desenvolver tutoriais, realizar enquetes e, se a conta tiver mais 
+de 10 K de seguidores, é possível inserir links.
+Para usar a conta empresa, basta ter a conta da página da empresa 
+no Facebook vinculada à conta do Instagram.
+Veja as ações necessárias para fazer essa mudança:
+a) Abra o Instagram no celular e acesse a conta de quem ficará res-
+ponsável pela ferramenta. Na tela inicial do app, toque na guia 
+“Editar perfil”;
+b) Em perfil, clique em “Experimentar as ferramentas de negócio 
+do Instagram”; 
+c) Na tela “Conecte sua página do Facebook”, é possível ver todas 
+as páginas do Facebook das quais o responsável é administrador 
+no momento. Selecione a página à qual gostaria de associar o 
+perfil comercial do Instagram e clique em “Avançar”; e
+93
+Turismo rural: legislação e gestão de empreendimentos
+d) Em “Configure seu perfil comercial”, informe ou remova as infor-
+mações que devem ser exibidas e clique em “Concluir”.
+No final, uma mensagem será recebida informando que o proces-
+so foi bem-sucedido e que se pode dar início à exploração desses 
+novos recursos.
+Poste fotos e vídeos das instalações, mostrando as atividades que 
+podem ser desenvolvidas no empreendimento para chamar cada 
+vez mais visitantes para o negócio local.
+Atenção
+5.3. Conheça os websites para reservas de diárias
+Nos dias de hoje, durante o planejamento de uma viagem por conta 
+própria, reservar hospedagem é muito fácil e rápido, pois na internet 
+é possível encontrar centenas e até milhares de opções, dependendo 
+do destino, com os mais diversos preços e estilos. 
+Para realizar essas reservas, além do uso do próprio site do estabe-
+lecimento, os usuários utilizam os websites para reservas. Dessa for-
+ma, é importante que o empreendimento seja cadastrado nos mais 
+diversos sites.
+Dentre os mais utilizados pelos viajantes podemos destacar: 
+94
+COLEÇÃO SENAR • Nº 286
+X
+VI 
+Administrar o 
+empreendimento 
+turístico rural
+Administrar devidamente um empreendimento é saber planejar as 
+ações, organizar as atividades, coordenar e controlar toda a série de re-
+cursos e distribuí-las da melhor forma possível, no momento adequado, 
+para os departamentos de destino, com todos os requisitos propostos. 
+É saber agradar os clientes e atender às suas necessidades, de forma a 
+obter os melhores resultados financeiros, logísticos e operacionais. 
+Com uma boa administração, a empresa consegue se tornar apta a 
+concorrer com qualquer outro empreendimento do ramo.
+Atenção
+1. Conheça o que é fluxo de caixa e a sua 
+aplicação gerencial
+Fundamental para a administração dos negócios, o fluxo de caixa é 
+uma ferramenta indispensável para o acompanhamento financeiro 
+de qualquer empresa. Por meio dessa ferramenta, é possível contro-
+lar todas as entradas e saídas monetárias e proporcionar uma visão 
+precisa da situação administrativa e financeira do empreendimento.
+O acompanhamento diário do fluxo de caixa auxilia não apenas no 
+controle, mas principalmente na saúde do negócio. 
+Com o fluxo de caixa diário, é possível identificar os problemas que 
+levam à perda de recursos, aumentando as chances de reverter o 
+quadro antes que se torne um problema irreversível.
+Atenção
+Turismo rural: legislação e gestão de empreendimentos
+1.1. Saiba como fazer o controle do fluxo de caixa 
+Independentemente do valor que devemos considerar como despe-
+sa ou receita, é fundamental que ambos sejam registrados e/ou con-
+tabilizados de forma correta e precisa, na data efetivamente realiza-
+da. Portanto, para iniciar o planejamento, é preciso definir o período 
+a ser controlado. 
+Por exemplo: previsão para os próximos 12 meses.
+1.1.1. Identifique o saldo das contas do empreendimento turístico 
+Reúna e some todos os saldos da empresa desse momento: contas 
+bancárias, cofre, caixinha administrativa e todo o dinheiro que está 
+disponível. Esse número será o ponto de partida para o controle do 
+fluxo de caixa da empresa.
+1.1.2. Registre todas as contas a pagar e a receber 
+Anote todas as contas que a empresa tem a pagar aos fornecedores 
+e todas as contas que tem para receber dos clientes.
+Se a empresa realiza compras ou vendas a prazo, é preciso acompa-
+nhar os vencimentos de perto. Evite pagamento de juros e multas 
+por atraso e receba dos clientes em dia.
+Por exemplo, se a empresa comprou um equipamento em seis ve-
+zes, anote as seis parcelas no fluxo de caixa. Assim, é possível ver 
+que, nos próximos seis meses, parte do caixa estará comprometida 
+com o pagamento do fornecedor.
+Deve-se fazer o mesmo com as contas a receber.
+Atenção
+96
+COLEÇÃO SENAR • Nº 286
+Tabela 1. Registro de contas a pagar e a receber
+Período Jan Fev Mar Abr Mai Jun
+Saldo 
+inicial R$ 1.000,00
+Entradas 
+de caixa
+R$ 
+ 5.000,00
+R$  
+0,00
+R$  
+500,00
+R$ 
+5.000,00
+R$  
+0,00
+R$ 
+2.000,00
+Saídas 
+de caixa
+R$  
+1.000,00
+R$ 
+1.000,00
+R$ 
+1.500,00
+R$ 
+2.000,00
+R$ 
+2.000,00
+R$ 
+2.000,00
+Período Jul Ago Set Out Nov Dez
+Saldo 
+inicial R$ 1.000,00
+Entradas 
+de caixa
+R$ 
+2.100,00
+R$  
+500,00
+R$ 
+5.000,00
+R$  
+3.000,00
+R$ 
+4.000,00
+R$ 
+ 5.000,00
+Saídas 
+de caixa
+R$ 
+ 2.000,00
+R$ 
+2.000,00
+R$ 
+2.500,00
+R$ 
+2.500,00
+R$ 
+2.500,00
+R$  
+2.500,00
+1.1.3. Deixe sempre o fluxo de caixa atualizado
+Anote todas as entradas e saídas de dinheiro no caixa da empresa no 
+momento em que elas acontecerem.
+A correria do dia a dia é a principal justificativa para deixar 
+anotações para depois, o que configura uma armadilha perigosa e 
+representa uma das causas do descontrole financeiro.
+Atenção
+É importante criar um hábito ou deixar uma pessoa responsável 
+por anotar todas as entradas e saídas e manter o fluxo de caixa 
+sempre atualizado.
+97
+Turismo rural: legislação e gestão de empreendimentos
+Tabela 2. Exemplo de fluxo de caixa
+Período Jan Fev Mar Abr Mai Jun
+Saldo Inicial
+R$ 
+1.000,00
+R$ 
+5.000,00
+R$ 
+4.000,00
+R$ 
+5.000,00
+R$ 
+8.000,00
+R$ 
+6.000,00
+Entradas de 
+caixa
+R$ 
+5.000,00
+R$ 0,00
+R$ 
+500,00
+R$ 
+5.000,00
+R$ 0,00
+R$ 
+2.000,00
+Saídas de 
+caixa
+R$ 
+1.000,00
+R$ 
+1.000,00
+R$ 
+1.500,00
+R$ 
+2.000,00
+R$ 
+2.000,00
+R$ 
+2.000,00
+Saldo 
+operacional
+R$ 
+4.000,00
+R$ 
+1.000,00
+R$ 
+1.000,00
+R$ 
+3.000,00
+R$ 
+2.000,00
+R$ 0,00
+Saldo final
+R$ 
+5.000,00
+R$ 
+4.000,00
+R$ 
+5.000,00
+R$ 
+8.000,00
+R$ 
+6.000,00
+R$ 
+6.000,00
+Período Jul Ago Set Out Nov Dez
+Saldo Inicial
+R$ 
+6.000,00
+R$ 
+6.100,00
+R$ 
+4.600,00
+R$ 
+7.100,00
+R$ 
+7.600,00
+R$ 
+9.100,00
+Entradas de 
+caixa
+R$ 
+2.100,00
+R$ 
+500,00
+R$ 
+5.000,00
+R$ 
+3.000,00
+R$ 
+4.000,00
+R$ 
+5.000,00
+Saídas de 
+caixa
+R$ 
+2.000,00
+R$ 
+2.000,00
+R$ 
+2.500,00
+R$ 
+2.500,00
+R$ 
+2.500,00
+R$ 
+2.500,00
+Saldo 
+operacional
+R$ 
+100,00
+R$ 
+1.500,00
+R$ 
+2.500,00
+R$ 
+500,00
+R$ 
+1.500,00
+R$ 
+2.500,00
+Saldo final
+R$ 
+6.100,00
+R$ 
+4.600,00
+R$ 
+7.100,00
+R$ 
+7.600,00
+R$ 
+9.100,00
+R$ 
+11.600,00
+1.1.4. Analise e corrija o planejamento financeiro 
+Com os dados do fluxo de caixa sempre atualizados, é possível identi-
+ficar com antecedência o que irá acontecer com o caixa da empresa.
+Nesse exemplo com os números, se a empresa não vender mais di-
+árias ou produtos ou então não negociar o prazo de pagamento nos 
+meses de fevereiro, março, maio e agosto, o saldo operacional ficará 
+negativo, ou seja, será preciso recorrer ao dinheiro guardado ou até 
+mesmo a empréstimos para manter o saldo dos meses positivos.
+98
+COLEÇÃO SENAR • Nº 286
+Ter essas informações pode ajudar a tomar a melhor decisão num 
+período de dificuldades.
+1. É indispensável ter uma disciplina para registrar todas as 
+movimentações financeiras e manter a saúde do caixa da empresa.
+2. Usar uma ferramenta adequada pode ser fundamental. Existem 
+diversas ferramentas que podem auxiliar no controle de caixa, 
+como planilhas eletrônicas e softwares financeiros.
+Atenção
+          
+2. Conheça o controle de estoques 
+O controle de estoques é uma prática necessária para uma boa ges-
+tão. É ele que vai garantir a disponibilidade de produtos que o em-
+preendimento comercializa. 
+O controle demonstra quais mercadorias precisam ser adquiridas e 
+as matérias-primas necessárias, além de permitir ver o que está sen-
+do comprado em excesso, tudo isso para equilibrar as finanças da 
+empresa e a oferta e demanda de produtos. Por isso, é fundamental 
+que essa prática seja realizada para não faltar nada aos hóspedes e 
+para atendê-los da melhor forma possível.
+O controle de estoques pode ser feito por meio de uma planilha de 
+Excel, atualizada diariamente, na qual o empreendedor cataloga 
+todas as entradas e saídas de produtos, matérias-primas e materiais.
+Atenção
+99
+Turismo rural: legislação e gestão de empreendimentos
+3. Conheça os direitos trabalhistas e sua 
+relação com o empreendimento turístico 
+Conhecer os direitos do trabalhador é fundamental para garantir 
+uma relação saudável entre o empregador e os colaboradores. Os 
+direitos trabalhistas são garantias e proteções asseguradas ao traba-
+lhador em uma relação de emprego.
+Quando se fala de direitos trabalhistas, quer dizer que a empresa 
+tem uma série de deveres que precisam ser cumpridos para que 
+não tenha problemas, como multas e processos judiciais.
+Atenção
+A seguir estão os principais direitos trabalhistas e os procedimentos 
+que a empresa deve realizar para cumprir devidamente a legislação.
+• Registro em Carteira de Trabalho
+A Consolidação das Leis do Trabalho (CLT) estabelece que, após a ad-
+missão de um colaborador, a empresa tem um prazo de 48 horas para 
+realizar as devidas anotações na Carteira de Trabalho e Previdência 
+Social (CTPS), informando data de admissão, função e remuneração.
+Caso exista alguma condição especial de contratação, esta deverá 
+constar na carteira de trabalho.
+Atenção
+• Vale-transporte
+A CLT garante ao trabalhador o direito ao recebimento de vale-trans-
+porte, que consiste no adiantamento do valor das despesas para se 
+locomover da sua residência até o local de trabalho.
+100
+COLEÇÃO SENAR • Nº 286
+O cálculo do custo do transporte é feito pela empresa e não pode 
+ser superior a 6% do valor do salário bruto.
+Atenção
+• Descanso Semanal Remunerado
+O Descanso Semanal Remunerado (DSR) certifica que todo colabo-
+rador tem o direito a um repouso remunerado no mínimo uma vez 
+por semana. O artigo 67 da CLT estabelece que o descanso semanal 
+deve ser de 24 horas consecutivas, preferencialmente aos domingos. 
+Nos casos de serviços que exijam trabalho aos domingos, 
+deve ser estabelecida uma escala de revezamento, organizada 
+mensalmente.
+Atenção
+• Pagamento de salário
+O salário é um dos direitos trabalhistas mais conhecidos, porém nem 
+todos sabem como funcionam as regras de pagamento. A legislação 
+determina que o salário dos trabalhadores seja pago até o quinto dia 
+útil de cada mês.
+Caso ocorra atraso de pagamento, a empresa está sujeita ao 
+pagamento de multas e pode ser alvo de processos trabalhistas.
+Atenção
+101
+Turismo rural: legislação e gestão de empreendimentos
+• Férias
+O artigo 129 da CLT estabelece que todo trabalhador tem direito a 
+um período anual de férias, sem prejuízo na remuneração e com 
+acréscimo de um terço do salário.
+A forma de concessão das férias é um dos principais pontos da refor-
+ma trabalhista, regulamentada pelo Projeto de Lei 6.787/2016. 
+Agora, as férias podem ser divididas em até três  
+períodos, mas um deles não pode ser inferior a  
+14 dias. O acordo deve ser feito entre a empresa  
+e o colaborador.
+Atenção
+• FGTS
+Todo mês, a empresa deve depositar o valor correspondente a 8% 
+do salário bruto de cada trabalhador, ou seja, sem descontos, para o 
+Fundo de Garantia por Tempo de Serviço (FGTS).
+O valor do FGTS deve ser depositado numa conta em nome do 
+trabalhador na Caixa Econômica Federal, mas só pode ser sacado 
+em casos específicos, como demissão sem justa causa, diagnóstico 
+de câncer ou AIDS e financiamento de imóveis.
+Atenção
+• 13º salário
+O pagamento de 13º salário ocorre, geralmente, no final do ano, mas 
+algumas empresas antecipam o pagamento para o mês de aniversá-
+rio ou férias do colaborador.
+102
+COLEÇÃO SENAR • Nº 286
+O benefício consiste no recebimento de um salário extra, que pode 
+ser pago em duas parcelas. A primeira metade deve ser paga até 
+novembro e a segunda, até o dia 20 de dezembro.
+O pagamento para os trabalhadores que têm menos de um ano 
+de serviço é realizado proporcionalmente. Para calcular, basta 
+dividir o valor do 13º por 12 e multiplicar pelo número de meses 
+trabalhados.
+Atenção
+• Horas extras
+O pagamento de horas extras ocorre quando o colaborador dá conti-
+nuidade a suas atividades além da sua jornada regular de trabalho, nos 
+casos em que não existe compensação por meio de banco de horas.
+As horas extras devem ser pagas com acréscimo mínimo de 50% 
+em dias úteis. Em domingos e feriados, o acréscimo é de 100%.
+Atenção
+• Adicional noturno
+A legislação trabalhista estabelece que quem trabalha em período 
+noturno, entre 22 e 5 horas, deve ter a remuneração 20% maior.
+• Licença-maternidade
+A licença-maternidade é um benefício previdenciário remunerado, 
+que garante que toda mulher, após o nascimento da criança, tem 
+direito ao afastamento de, no mínimo, 120 dias das atividades de tra-
+balho, mas há casos em que esta pode ser estendida para 180 dias.
+103
+Turismo rural: legislação e gestão de empreendimentos
+1. As gestantes têm o direito à estabilidade no emprego desde a 
+confirmação da gravidez até cinco meses após o parto.
+2. Os direitos trabalhistas são atualizados constantemente. Diante 
+disso, em muitos casos, a legislação autoriza a licença-maternidade 
+para pais viúvos e em caso de adoção.
+Atenção
+• Licença-paternidade
+Assim como para as mães, a chegada de um filho também transfor-
+ma a vida dos pais. Por esse motivo, eles têm direito a cinco dias de 
+afastamento do trabalho para ajudar nos cuidados com a criança.
+• Aviso prévio
+Nos casos de dispensa do trabalhador, a empresa deve avisá-lo com, 
+no mínimo, 30 dias de antecedência. 
+1. Se a dispensa ocorrer sem aviso prévio, a organização deverá 
+pagar o valor correspondente ao período.
+2. Caso trabalhador faça o pedido de demissão sem comunicado 
+prévio, a empresa pode descontar tais valores.
+Atenção
+• Rescisão de contrato
+A reforma trabalhista apresentou um efeito significativo nas formas 
+de rescisão de contrato. Antes, somente os trabalhadores desligados 
+sem justa causa tinham direito ao saque do FGTS, bem como da mul-
+ta de 40% sobre ele.
+104
+COLEÇÃO SENAR • Nº 286
+Agora, desde que haja um acordo entre 
+a empresa e o trabalhador, o desliga-
+mento pode ocorrer sem prejudicar o re-
+cebimento da multa e o saque do FGTS, 
+mas com valores distintos. Nesses casos, 
+é possível sacar apenas 80% do FGTS e a 
+multa é de 20%.
+Além de conhecer os direitos trabalhistas, é preciso estar alerta 
+para todas as responsabilidades da empresa e do setor de 
+recursos humanos, como o controle de ponto e a gestão da folha 
+de pagamentos.
+Atenção
+3.1. Entenda a legislação para contratação de 
+funcionários
+Atualmente, a legislação brasileira reconhece quatro formas princi-
+pais de contratação de funcionários. São elas:
+• Contratação temporária
+O contrato de funcionários temporários ocorre quando a empresa 
+tem a necessidade urgente de um tipo de serviço, como períodos de 
+volume extra de trabalho ou atividades a serem desenvolvidas por 
+tempo determinado. 
+Essa contratação deve ser intermediada por uma empresa de 
+recursos humanos especializada. 
+Atenção
+105
+Turismo rural: legislação e gestão de empreendimentos
+A empresa que optar por essa modalidade tem as seguintes vanta-
+gens: atendimento a demandas de serviço e isenção de custos adi-
+cionais como férias, 13º salário, INSS e FGTS.
+• Carteira assinada
+Quando o trabalho realizado é fixo, a forma mais segura de contra-
+tação é a carteira assinada, registrada com base na Consolidação das 
+Leis do Trabalho (CLT). Nesse caso, o empregador é responsável pela 
+garantia de todos os direitos trabalhistas.
+• Jovem aprendiz
+Viabiliza a contratação de adolescentes entre 14 e 17 anos, desde 
+que estejam cursando regularmente o ensino médio, não sendo 
+exigida experiência profissional. É feito um contrato de trabalho es-
+pecial, ajustado por escrito e de prazo determinado, com duração 
+máxima, em regra, de dois anos. 
+1. A empresa que deseja contratar jovem aprendiz precisa ter, no 
+mínimo, sete funcionários.
+2. As micro e pequenas empresas podem contratar os jovens 
+facultativamente, mesmo as que fazem parte do Simples Nacional.
+Atenção
+• Terceirização
+Quando uma empresa contrata os serviços de outra para executar ati-
+vidades específicas, as vantagens são: diminuição de custos com mão 
+de obra, redução de custos com encargos previdenciários e trabalhis-
+tas, alta capacidade de produção e decréscimo do desemprego.
+106
+COLEÇÃO SENAR • Nº 286
+Considerações finais 
+Apesar das visitas nas propriedades rurais brasileiras serem uma 
+prática antiga e comum, somente na década de 80 passaram a ser 
+consideradas uma atividade econômica e caracterizadas como turis-
+mo rural. Os proprietários rurais, devido às dificuldades econômicas 
+encontradas no setor agropecuário, diversificaram suas atividades e 
+rendas e passaram a receber os turistas.
+É bastante expressivo o número de propriedades rurais que incor-
+poram as atividades turísticas no seu dia a dia. Dessa forma, a pre-
+sente cartilha teve como finalidade apresentar algumas orientações 
+e ações básicas sobre a legislação e a gestão de empreendimentos 
+aos proprietários interessados a desenvolver o turismo rural, para 
+que o segmento tenha seu crescimento no país de forma ordenada 
+e fortalecida.
+107
+Turismo rural: legislação e gestão de empreendimentos
+Referências 
+ALMEIDA, Flavio de. Como montar seu negócio próprio. Os segredos do projeto de 
+negócios. Belo Horizonte, Editora Leitura, 2001.
+BRONKHORST, T. Ministério do Turismo, Secretaria Nacional de Políticas de Turismo, 
+Departamento de Estruturação, Articulação e Ordenamento Turístico, Coordenação 
+Geral de Segmentação. Turismo Cultural. Orientações Básicas, v. 2.
+CANDIOTTO, Luciano Pessôa. Elementos para o debate acerca do conceito de turismo 
+rural. Revista Turismo em Análise, v. 21, n. 1, p. 3-24, 2010.
+GONÇALVES, Anna Laurytha Carlos. Turismo rural: uma abordagem conceitual.
+GRAZIANO, José; VILARINHO, Carlyle; DALE, Paul J. Turismo em áreas rurais: suas pos-
+sibilidades e limitações no Brasil. Caderno CRH, v. 11, n. 28, 2006.
+EMBRATUR – Instituto Brasileiro de Turismo. RINTUR – Roteiro de informações turísti-
+cas ano base 2000/2001. Instituto Brasileiro de Turismo – Embratur, 2001.
+OLIVEIRA, Cássio G. S. Turismo Rural: procedimentos para a implantação e o desen-
+volvimento dessa atividade em propriedades rurais. Dissertação de Mestrado. São 
+Paulo: ECA/USP, 2001.
+OMT - ORGANIZAÇÃO MUNDIAL DO TURISMO. Guia de desenvolvimento do turismo 
+sustentável. Trad. Sandra Netz. Porto Alegre: Bookman, 2003.
+Sebrae, S. B. Retrato do Turismo Rural no Brasil com Foco nos Pequenos Negócios. 
+Brasília: SEBRAE, v. 2, 2013.
+Serviço Nacional de Aprendizagem Rural - Senar. Administração Regional de São Pau-
+lo, Turismo rural: atividades em áreas naturais, 2006.
+Serviço Nacional de Aprendizagem Rural - Senar. Administração Regional de São Pau-
+lo, Turismo rural: gestão de empreendimentos, 2006.
+Serviço Nacional de Aprendizagem Rural - Senar. Administração Regional de São Pau-
+lo, Turismo rural: meios de hospedagem, 2006 (Programa Turismo rural “Agregando 
+valor à propriedade”, 5).
+Serviço Nacional de Aprendizagem Rural - Senar. Administração Regional de São Pau-
+lo, Turismo rural: oportunidades de empreendimentos, 2006.
+108
+COLEÇÃO SENAR • Nº 286
+
+SGAN 601 Módulo K
+Edifício Antônio Ernesto de Salvo • 1º Andar 
+Brasília-DF • CEP: 70.830-021
+Fone: +55(61) 2109-1300
+www.senar.org.br
+http://ead.senar.org.br
+286   |   Coleção SENAR   •Turismo rural: legislação e gestão de empreendimentos

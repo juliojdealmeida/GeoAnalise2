@@ -1,0 +1,864 @@
+OECD Economics Department Working Papers No. 1776
+Promoting gender equality
+to strengthen economic
+growth and resilience
+Christophe André,
+Orsetta Causa,
+Emilia Soldani,
+Douglas Sutherland,
+Filiz Unsal
+https://dx.doi.org/10.1787/54090c29-en
+ 
+ 
+ 
+  
+ 
+Organisation for Economic Co-operation and Development 
+ ECO/WKP(2023)29 
+Unclassified English - Or. English 
+13 November 2023 
+ECONOMICS DEPARTMENT 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND 
+RESILIENCE 
+ECONOMICS DEPARTMENT WORKING PAPERS No. 1776 
+ 
+ 
+By Christophe André, Orsetta Causa, Emilia Soldani, Douglas Sutherland and Filiz Unsal  
+ 
+ 
+OECD Working Papers should not be reported as representing the official views of the OECD or of its 
+member countries. The opinions expressed and arguments employed are those of the author(s).  
+ 
+Authorised for publication by Alvaro Pereira, Director, Policy Studies Branch, Economics Department. 
+ 
+All Economics Department Working Papers are available at www.oecd.org/eco/workingpapers. 
+ 
+ 
+  
+JT03531561 
+OFDE 
+ 
+This document, as well as any data and map included herein, are without prejudice to the status of or sovereignty over any territory, to the 
+delimitation of international frontiers and boundaries and to the name of any territory, city or area. 
+2  ECO/WKP(2023)29 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+ 
+OECD Working Papers should not be reported as representing the official views of the OECD or of its 
+member countries. The opinions expressed and arguments employed are those of the author(s). 
+Working Papers describe preliminary results or research in progress by the author(s) and are published 
+to stimulate discussion on a broad range of issues on which the OECD works.  
+Comments on Working Papers are welcomed, and may by e-mail to the Economics Department. 
+All Economics Department Working Papers are available at www.oecd.org/eco/workingpapers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This document and any map included herein are without prejudice to the status of or sovereignty over any 
+territory, to the delimitation of international frontiers and boundaries and to the name of any territory, city 
+or area. 
+The statistical data for Israel are supplied by and under the responsibility of the relevant Israeli authorities. 
+The use of such data by the OECD is without prejudice to the status of the Golan Heights, East Jerusalem 
+and Israeli settlements in the West Bank under the terms of international law. 
+© OECD (2023) 
+You can copy, download or print OECD content for your own use, and you can include excerpts from 
+OECD publications, databases and multimedia products in your own documents, presentations, blogs, 
+websites and teaching materials, provided that suitable acknowledgment of OECD as source and copyright 
+owner is given. All requests for commercial use and translation rights should be submitted to 
+PubRights@oecd.org.  
+ECO/WKP(2023)29  3 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+ABSTRACT/RÉSUMÉ 
+Promoting gender equality to strengthen economic growth and resilience 
+Women’s employment rates and wages are still lagging those of men across OECD countries, with average 
+employment and wage gaps now around 15% and 12% respectively. Gaps narrowed at a relatively modest 
+pace over the past decade, calling for further policy action. A lack of affordable high -quality childcare is 
+often an obstacle to women’s participation in the labour market and notably to working full time. A very 
+unequal sharing of parental leave between parents and challenges upon return to work further hampers 
+women’s careers. B iases in the tax system  may discourage women from working in some countries. 
+Women face disadvantage in accessing management positions and entrepreneurship. A range of policies 
+can help reduce gender gaps, including better  childcare provision, incentivising parents to better share 
+parental leave, re-skilling and upskilling on return from parental leave, encouraging gender equality within 
+firms, integration programmes for foreign-born women, promoting women entrepreneurship and financial 
+inclusion, and levelling taxation for second earners. Moreover, the multiple dimensions and root causes of 
+gender inequality call for mainstreaming gender across policy domains. 
+JEL codes: D63, H24, I24, J13, J15, J16, J71, J78, L26, M53. 
+Keywords: Childcare, Economics of Gender, Education, Entrepreneurship, Financial inclusion, Gender 
+equality, Immigration, Inequality, Labour discrimination, Parental leave, Taxation, Training.  
+************ 
+Promouvoir l'égalité des genres pour renforcer la croissance économique et la résilience  
+Les taux d'emploi et les salaires des femmes restent inférieurs à ceux des hommes dans les pays de 
+l'OCDE, avec des écarts moyens d'emploi et de salaire désormais autour de 15% et 12% respectivement. 
+Les écarts se sont réduits à un rythme relativement modeste au cours de la dernière décennie, ce qui 
+appelle de nouvelles mesures politiques. Le manque de services de garde d'enfants abordables et leur 
+qualité insuffisante constituent souvent un obstacle à la participation des femmes au marché du travail et 
+notamment au travail à temps plein. Un partage très inégal du congé parental entre les parents et les 
+difficultés rencontrées lors du retour au travail entravent encore davantage les carrières des femmes. Les 
+biais du système fiscal peuvent décourager les femmes de travailler dans certains pays. Les femmes sont 
+désavantagées dans l’accès aux postes de direction et à l’entrepreneuriat. Différentes politiques peuvent 
+contribuer à réduire les écarts entre les genres, notamment une meilleure offre de garde d'enfants, 
+l'incitation des parents à mieux partager le congé parental, la reconversion et l a formation au retour du 
+congé parental, l'encouragement de l'égalité des genres a u sein des entreprises, des programmes 
+d'intégration pour les femmes nées à l'étranger, la promotion de l’entrepreneuriat féminin et l’inclusion 
+financière, ainsi que l’égalisation d e la fiscalité sur les deuxièmes apporteurs de revenu . En outre, les 
+multiples dimensions et causes profondes des inégalités de genre soulignent l’importance d’intégrer  la 
+dimension de genre dans tous les domaines de l’action publique. 
+Classification JEL: D63, H24, I24, J13, J15, J16, J71, J78, L26, M53. 
+Mots-clés: Garde d'enfants, Économie du genre, Éducation, Entrepreneuriat, Inclusion financière, Égalité 
+des genres, Immigration, Inégalités, Discrimination au travail, Congé parental, Fiscalité, Formation.  
+  
+4  ECO/WKP(2023)29 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+Table of contents 
+Promoting gender equality to strengthen economic growth and resilience 5 
+1. Introduction 5 
+2. Women’s employment is still lagging in many countries 6 
+3. Gender wage gaps and glass ceilings persist 8 
+4. Women tend to be more vulnerable to economic shocks and poverty  12 
+5. Policies can support female employment and foster equal opportunities  13 
+5.1. Broad and affordable access to childcare and early childhood education is crucial  14 
+5.2. Promoting work-life balance for both men and women through parental leave 
+arrangements 16 
+5.3. Facilitating the return to work after an extended parental leave through training  18 
+5.4. Supporting gender-balanced career advancements through corporate disclosure 18 
+5.5. Addressing biases in the tax and pension systems 18 
+5.6. Better integrating foreign-born women through tailored labour-market programmes 19 
+5.7. Promoting women’s access to management positions and entrepreneurship  19 
+5.8. Enhancing women’s financial inclusion 19 
+5.9. Mainstreaming gender across policies 20 
+References 21 
+ 
+Figures 
+Figure 1. Gender equality is associated with high income per capita 6 
+Figure 2. Gender employment gaps vary widely across countries 7 
+Figure 3. Involuntary part-time is more prevalent among women 8 
+Figure 4. Foreign-born women tend to have lower employment rates than natives 8 
+Figure 5. Gender wage gaps remain wide in most countries 9 
+Figure 6. Girls perform better than boys in education 10 
+Figure 7. Fewer women graduate in Science, ICT and engineering 10 
+Figure 8. Women remain under-represented in management 11 
+Figure 9. Fewer women than men are entrepreneurs 12 
+Figure 10. Women are at higher risk of poverty than men in most countries 13 
+Figure 11. More gender-inclusive labour markets is a priority for many countries 14 
+Figure 12. Enrolment in early education varies widely across countries and income groups 15 
+Figure 13. High childcare costs can generate high financial disincentives to enter employment 15 
+Figure 14. Parental leave entitlements are still very uneven between parents 17 
+ 
+Boxes 
+Box 1. Addressing barriers to parents working in the United Kingdom 16 
+Box 2. The Australian National Strategy for gender equality 17 
+ 
+ 
+ECO/WKP(2023)29  5 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+By Christophe André, Orsetta Causa, Emilia Soldani, Douglas Sutherland and Filiz Unsal 1 
+1.  Introduction 
+1. The COVID-19 pandemic, Russia’s war of aggression against Ukraine, and the current cost -of-
+living crisis have affected women’s incomes, job opportunities and security (OECD, 2020a; European 
+Parliament, 2023; Charlton, 2023). Long-standing factors such as climate change, the digital transition and 
+population ageing also entail risks of widening gender gaps. Women are more vulnerable to economic 
+shocks, may be less well-placed to seize the opportunities associated with the green and digital transitions 
+as they tend to specialise less in scientific knowledge than men, and shoulder a disproportionate share of 
+care for elderly relatives. This paper draws on a wide range of previous OECD studies on gender equality 
+to document employment and wage gender gaps across OECD countries, and their recent evolutions and 
+underlying factors. It subsequently reviews policies put in place by governments to tackle gender inequality 
+and outlines directions for further action.  
+2. Gender employment and wage gaps have generally narrowed at a relatively modest pace over the 
+past decade and remain significant, calling for further policy action. Key areas for progress include: 
+broadening access to quality childcare and early childhood education and making them more affordable ; 
+promoting better sharing of parental leave between parents and facilitating return to work through training; 
+supporting gender -balanced career advancements through corporate disclosure; promoting women’s 
+access to management positions and entrepreneurship; addressing biases in the tax and pension systems; 
+better integrating foreign -born women through tailored labour -market programmes; enhancing women’s 
+financial inclusion; and mainstreaming gender across policy domains. 
+3. Lower gender inequality, as measured by the World Economic Forum’s Global Gender Gap index, 
+is generally associated with higher income per capita (Figure 1). Causality between higher gender equality 
+and higher incomes runs in both directions (Duflo, 2012). High incomes and living standards generate 
+more opportunities for women, including better access to health and education, as well as financial 
+inclusion, which are key to empowering women. Higher levels of economic development are also generally 
+ 
+1 Corresponding authors: Christophe André (Christophe.Andre@oecd.org) , Orsetta Causa (Orsetta.Caus@oecd.org), 
+Emilia Soldani  (Emilia.Soldani@oecd.org), Douglas Sutherland (Douglas.Sutherland@oecd.org) and Filiz Unsal  
+(Filiz.Unsal@oecd.org) are all members of the Policy Studies Branch of the OECD Economics Department. This paper 
+was first released in the OECD Economic Outlook, Volume 2023 Issue 1 (June 2023). The authors are grateful to Dr. 
+Betsey Stevenson (University of Michigan) and OECD Economic Policy Committee delegates, as well as Sebastian 
+Barnes, Hélia Costa, L uiz de Mello, Alain de Serres , Priscilla Fialho, Daniela Glocker, Nigel Pain, and Sebastien 
+Turban (all from the OECD Economics Department) and other OECD Economics Department colleagues for useful 
+comments and suggestions. They would also like to thank Jé rôme Brézillon (OECD Economics Department) for 
+excellent research assistance and Isabelle Fakih and Sarah Michelson -Sarfati (both from the OECD Economics 
+Department) for excellent editorial support. All remaining errors remain ours. 
+Promoting gender equality to strengthen 
+economic growth and resilience 
+6  ECO/WKP(2023)29 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+associated with more economic and political rights and opportunities for individuals, especially women. 
+Gender equality contributes to higher well -being primarily by reducing gaps in education, health, labour 
+participation and job quality. Greater equality of opportunities between men and women woul d enhance 
+social mobility, foster inclusiveness and boost economic growth through better use of talent.  
+Figure 1. Gender equality is associated with high income per capita 
+  
+Note: A higher score indicates a lower gender gap.  The gender gap index is produced by the World Economic Forum to benchmark progress 
+towards gender parity and compare countries' gender gaps across four dimensions: economic opportunities, education, health an d political 
+leadership. 
+Source: World Economic Forum; and OECD Productivity Database. 
+4. The literature points to a strong effect of gender equality on national income. At the 
+macroeconomic level, in a growth model with endogenous saving, fertility and labour market participation 
+calibrated on the United  States, a 50% increase in the gender wage gap eventually leads to a 35% 
+decrease in income per capita in the steady state (Cavalcanti and Tavares, 2016). Gender inequality also 
+explains a large part of some other countries’ income gap with the United State s. Another study finds that 
+gender gaps cause an average income loss of 15% in the OECD, of which 40% is due to entrepreneurship 
+gaps (Cuberes and Teignier, 2016). Across OECD countries, closing gender gaps in labour force 
+participation and working hours c ould lift GDP by more than 9% by 2060, adding about a quarter of a 
+percentage point to average annual growth (OECD, 2023a). 
+5. OECD research at the firm level shows that differences in gender diversity contribute significantly 
+to the productivity gap between frontier firms, those with the highest productivity levels, and other firms 
+(Criscuolo et al., 2021) . Enhanced equality of opportunities and social mobility can foster more inclusive 
+and stable growth. Given the relationship between parental or socio -economic background and the 
+educational and wage outcomes  of their offspring , better opportunities for women can enhanc e 
+intergenerational social mobility (Causa and Johansson, 2010). This is crucial, as in an average OECD 
+country it can take around four to five generations for children from the bottom earnings decile to attain the 
+level of mean earnings (OECD, 2018a). Gend er diversity can also help economies recover faster from 
+shocks and more broadly strengthen economic and financial resilience. Public policy has a role to play in 
+supporting more inclusive outcomes. 
+2.  Women’s employment is still lagging in many countries 
+6. A gender employment gap persists in all OECD countries, although it has narrowed in most of 
+them since 2010. Differences across countries are large, with the employment gap ranging from one 
+percentage point in Lithuania to nearly 37 percentage points in Türkiye in 2021 (Figure 2). Employment 
+
+ECO/WKP(2023)29  7 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+gaps tend to be wide in Latin  America, Southern Europe and Asia, and small in Eastern and Northern 
+Europe. Such gaps are the result of various factors, including cultural and social norms. However, a lack 
+of equal opportun ities, which is partly related to policy, contributes in many cases to women’s lower 
+employment rate. 
+Figure 2. Gender employment gaps vary widely across countries 
+Difference in employment rates between men and women aged 15-64 
+ 
+Source: OECD Employment database; and OECD calculations.  
+7. The prevalence of part -time work is also higher among women. On average, about one in four 
+women in the OECD works part -time, with lower rates in most of Eastern Europe and high er rates in the 
+Netherlands, Switzerland and Japan. In many cases, part -time work may reflect work -life balance 
+considerations. Nevertheless, involuntary part -time employment represents a larger share of female than 
+of male employment in most OECD countries and exceeds  10% in Australia, Italy and Spain (Figure 3). 
+The over-representation of women in involuntary part -time work makes them vulnerable to reductions in 
+working time (OECD, 2020b). 
+8. Employment of foreign-born women is particularly low in some countries (Figure 4). Differences in 
+the gap with natives partly reflect differences in the skills of migrants across countries. The gap is especially 
+wide where the employment rate of native women is high. One obstacle to the employment of foreign-born 
+women in countries w ith a highly -skilled workforce is the lower average level of education among 
+immigrants and the difficulty of getting foreign qualifications recognised. 
+9. The unequal burden of family-related work contributes to a higher propensity of women to drop out 
+of the labour force than men. On average across European countries, around 1.7% of employed and 4.6% 
+of unemployed women in a given year move to inactivity to fulfil domestic tasks, compared to less than 
+0.2% of employed and 1% of unemployed men (Causa et al., 2021). Long hours of unpaid work also reduce 
+women’s well-being disproportionately compared to men, who are relatively more likely to have long hours 
+of paid work (OECD, 2020c). However, the COVID -19 pandemic has triggered a reassessment of career 
+objectives and work-life balance, both for men and women, which could lead to a better sharing of family 
+tasks and greater life satisfaction (Stevenson, 2021). 
+
+8  ECO/WKP(2023)29 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+Figure 3. Involuntary part-time is more prevalent among women 
+Percentage of involuntary part-timers in total employment, 2021 or latest 
+ 
+Note: Part-time employment is defined as people in employment (whether employees or self -employed) who usually work less than 30 hours 
+per week in their main job. Employed people are those aged 15 and over who report that they have worked in gainful employment for at least 
+one hour in the previous week or who had a job but were absent from work during the reference week while having a formal job attachment. 
+Figure 4. Foreign-born women tend to have lower employment rates than natives 
+Women aged 15-64, 2021 or latest 
+ 
+Source: OECD Migration Statistics. 
+3.  Gender wage gaps and glass ceilings persist 
+10. Wage gaps remain wide, even though they have narrowed in seven  out of ten OECD countries 
+since 2010 (Figure 5). On average, the gender wage gap was close to 12% in the OECD in 2022, but 
+differences across countries were large. While the wage gap was around 1% in Belgium, it still exceeded 
+30% in Korea, despite signif icant progress over the past decade. Part of the wage gaps reflects factors 
+like age, education, occupation, sector of employment and hours worked. However, they may also reflect 
+discrimination against women.  
+
+ECO/WKP(2023)29  9 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+11. Recent studies suggest that factors unrelated to skills and work experience account for a 
+substantial share of the gender wage gap. About three -quarters of the gender wage gap results from the 
+same firm paying men more than women with similar skills, mainly due to differences in task and 
+responsibility assignments. The remaining quarter of the gender wage gap results from the concentration 
+of women in low-wage firms and industries (OECD, 2022a). However, the relative impact of objective and 
+subjective factors in wage differences is still insufficiently  documented in many countries, which hinders 
+corrective action. 
+12. Recent OECD research using individual-level data on 25 European countries suggests that factors 
+related to social norms, gender stereotypes and discrimination, account for 40% of the gender wa ge gap 
+on average, while a motherhood penalty hindering women’s career and wage progression accounts for 
+around 60% (Ciminelli et al., 2021). The first set of factors is predominant in most Northern and Western 
+European countries, while the motherhood pena lty dominates in most Central and Eastern European 
+countries. This calls for policy action tailored to countries’ specific challenges. 
+13. Wage and employment gaps translate into pension gaps, as career interruptions lower women’s 
+lifetime contributions to pen sion schemes. Women’s longer life expectancy can also expose them to 
+erosion in the real value of pensions. Pension payments to women aged 65 and over in the 34 OECD 
+countries for which data are available are on average about 25% lower than for men and gaps vary widely 
+across countries, ranging from 3% in Estonia to 47% in Japan (OECD, 2021a).  
+Figure 5. Gender wage gaps remain wide in most countries 
+ 
+Note: The gender wage gap is defined as the difference between the median ear nings of men and women relative to the median earnings of 
+men. Data refer to full-time employees. 
+Source: OECD Gender Data Portal. 
+14. Girls’ educational achievements in OECD countries are now generally better than those of boys 
+(Figure 6). On average, 54% of 25-34-year-old women have attained tertiary education in 2021, compared 
+to only 41% of men in the same age group (OECD, 2022b). However, girls are under-represented in some 
+fields, such as  science, ICT and engineering, that often  lead to highly rewarding career opportunities 
+(Figure 7). This is likely to reflect preferences, but also stereotypes. The specific impact of cultural norms 
+is difficult to assess but studies have shown that girls, especially high-achieving ones, tend to underperform 
+in mathematics because they generally have lower self-confidence in their ability to solve mathematics or 
+science problems  than boys . They are also more likely to express strong feelings of anxiety towards 
+mathematics. This fear of failure and lack of confidence in their abilities is often exacerbated by the gender 
+stereotypes that girls face at home, in school and within their communities (Carlana, 2019; Encinas-Martín 
+
+10  ECO/WKP(2023)29 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+and Cherian, 2023). Children and youth are affected by gender stereotypes from an early age, with 
+parental, school, teacher and peer factors influencing the way students internalise their gender identities. 
+This results in expectations that girls will follow career paths to become nurses or teachers, while boys will 
+pursue goals involving science, engineering or business and will occupy positions of leadership (Brussino 
+and McBrien, 2022).  
+15. Women may also be less well -placed than men to benefit from the opportunities offered by the 
+green transition, although they will also be less affected by the disappearance of jobs in polluting activities. 
+Fewer than one-third (28%) of green jobs in OECD countries are held by women (OECD, 2023b).  
+Figure 6. Girls perform better than boys in education 
+Per cent of 25-34-year-old population with tertiary education 
+ 
+Source: OECD, Education at a Glance. 
+Figure 7. Fewer women graduate in Science, ICT and engineering 
+Per cent of graduate gender group  
+ 
+Note: Includes natural sciences, mathematics and statistics, Information and Communication Technologies (ICTs) and engineering. 
+Reading note: In Greece, around 40% of tertiary graduate men graduate in Science, ICT and engineering, which contrasts with l ess than 20% 
+of tertiary graduate women. 
+Source: OECD Gender Data Portal. 
+
+ECO/WKP(2023)29  11 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+16. Women are generally over -represented in relatively low -pay activities, especially in the public 
+sector. Wages also tend to be lower in professions with a high proportion of women than in male-dominated 
+occupations. To some extent, lower pay may result from lower productivity in so me female -dominated 
+sectors, notably in services, than in male-dominated sectors. However, evidence from European countries 
+and the United States suggests that lower wages in female -dominated professions could also result from 
+undervaluation of the work do ne by women (Bettio and Verashchagina, 2009; Levanon et al., 2009). To 
+the extent that l ower wages in female -dominated professions make them relatively unattractive to men, 
+gender imbalances may be perpetuated. 
+17. Women are still facing a glass ceiling. Even though it has increased in most countries over recent 
+years, the average share of women on boards of listed companies in the OECD was only 28% in 2021. 
+While this share is coming close to parity in countries lik e Iceland and France, it remains below 10% in 
+Estonia, Hungary and Korea. Moreover, executive positions within boards are still rarely filled by women 
+(Denis, 2022). Women also occupy less than a third of managerial positions on average (Figure 8). The 
+under-representation of women in senior management warrants special attention not only from an equity 
+point of view, but also because women in executive positions can have more of an impact on firm 
+performance than as board members (Noland et al., 2016). Achi eving parity in management positions, 
+especially at the most senior levels, may be more challenging and take more time than parity for company 
+board members. Many managers are promoted internally, and maintaining a balance between internal and 
+external promotions is often necessary to preserve experience and staff motivation.  
+18. The slow progress in gender equality within businesses runs against evidence that greater 
+diversity, in terms of gender , ethnicity, and  culture, can enhance firm performance. In a fast -moving 
+business environment, more diverse groups are likely to be better at rapidly finding responses to problems 
+and at spotting new opportunities. Woolley et al. (2010) find that collective intelligence, defined as the 
+general ability to perform a wide variety of tasks, increases with the proportion of women in a group. 
+Homogenous groups can suffer from narrowmindedness, groupthink – the tendency to agree with a group’s 
+consensus without critical thinking – and over -confidence, whereas diversity fosters creativity and 
+innovation through enhanced information processing and complex thinking (Galinsky et al., 2015). In 
+addition to improved group decision-making, gender diversity can offer access to a larger pool of talent, a 
+wider span of management skills, a better understanding of customer preferences, and improved corporate 
+governance (Curtis et al., 2012). 
+Figure 8. Women remain under-represented in management 
+Female share of employment in managerial positions 
+ 
+Source: OECD Gender Data Portal. 
+
+12  ECO/WKP(2023)29 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+19. Women are less likely than men to become entrepreneurs. Self -employed women who are 
+employers account on average for slightly over 2% of total female employment in the OECD, while the 
+corresponding figure for men is around 5½ per cent. The gap is wide in all OECD countries (Figure 9). 
+Women in OECD countries are also 1.5 times less likely than men to be working on setting-up a business 
+start-up. Even though this gap varies greatly across countries, there are  no OECD countr ies in which  
+women are more active than men in business creation. Women also operate different types of businesses 
+than men. In particular, women-run businesses are less likely to export and to introduce new products and 
+services, and are often in personal service sector s, retail, tourism, health care and education (OECD, 
+2021c). 
+20. Many factors may contribute to the gender gap in entrepreneurship, including institutional barriers, 
+such as family and tax policies that discourage labour market participation and entrepreneurship; negative 
+social attitudes towards women’s entrepreneurship; market failures; and personal choices (OECD, 2021c). 
+Female entrepreneurs face higher barriers to access private finance  compared to male colleagues, with 
+the gap being particularly steep for high-potential innovative start-ups (Lassebie et al, 2019). 
+Figure 9. Fewer women than men are entrepreneurs 
+Percentage of self-employed who are employers in total employment  
+ 
+Source: OECD Gender Data Portal. 
+4.  Women tend to be more vulnerable to economic shocks and poverty  
+21. Women are often more vulnerable to economic shocks than men, although this depends on the 
+type of shock and the sectoral composition of employment (Périvier, 2014). In general, shocks primarily 
+affecting industrial sectors tend to hit male employment, whereas shocks to service activities tend to hit 
+women disproportionately. The COVID-19 pandemic is a case in point. Although women were at the core 
+of the fight against COVID 19, as they account for about th ree quarters and two-thirds of health care and 
+education employment respectively, they were also overrepresented in hard -hit industries that rel ied on 
+travel and physical interaction. In addition, women tend to engage in involuntary part-time work more often 
+than men, mak ing them vulnerable to reductions in working time in period of economic duress (OECD, 
+2020d). Women also face increased risks of violence, exploitation, abuse or harassment during times of 
+crisis (OECD, 2020a). 
+
+ECO/WKP(2023)29  13 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+22. Women are at higher risk of p overty than men in most countries, especially in Asia and some 
+Eastern European countries (Figure 10). This is particularly the case for single mothers, as just under one-
+third of single-parent families are income -poor, which is three times higher than the  poverty rate for two -
+parent families (Adema et al., 2020), and for older women with low pensions (OECD, 2021a, b). The cost-
+of-living crisis is also affecting women disproportionately, as their financial buffers are reduced by the 
+gender pay gap, the gender pension gap and more limited possibilities to work because of a higher burden 
+of caring for children and other close relatives. Single mothers are particularly at risk of poverty resulting 
+from higher energy and food prices. Older women, who generally l ive longer than men and on average 
+receive lower pensions, are particularly at risk of energy poverty  and health damage due to insufficient 
+heating (European Parliament, 2023). 
+Figure 10. Women are at higher risk of poverty than men in most countries 
+Gender poverty gap 
+ 
+Note: Difference between the share of women and the share of men living with less than 50% of the median income.  
+Source: OECD Income Distribution Database and OECD calculations. 
+5.  Policies can support female employment and foster equal opportunities 
+23. A wide range of institutional and societal factors contribute to gender -related inequalities. These 
+need to be tackled through a wide range of policies, including labour, family, childcare, pension, taxation, 
+education, integration and entrepreneurship policies. Making the labour market more gender -inclusive is 
+stated as a policy priority for about 20 OECD countries in the latest edition of OECD Going for Growth  
+(OECD, 2023c), with expanding access to quality childcare and early education, removing tax and benefits 
+disincentives, improving parental leave policies and providing more flexible work arrangements identified 
+as the main areas for action (Figure 11). Alongside such policies, mainstreaming gender into all polic y 
+fields is necessary to achieve gender equality. 
+
+14  ECO/WKP(2023)29 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+Figure 11. More gender-inclusive labour markets is a priority for many countries 
+Number of OECD countries where given reforms are among top priorities 
+ 
+Source: Economic Policy Reforms 2023: Going for Growth, OECD Publishing, Paris. 
+5.1.  Broad and affordable access to childcare and early childhood education is 
+crucial   
+24. Combining work and child-raising is often challenging. Low quality or unaffordable childcare can 
+be a significant hindrance to women’s labour market participation. Adequate childcare supply facilitates an 
+earlier return to work after childbirth and provides the option for both parents to take on full -time work 
+(OECD, 2022a). Although participation is not compulsory in all OECD countries, school enrolment between 
+age 3 and 5 is significantly below 80% in only five countries (Costa Rica, Greece, Switzerland, Türkiye and 
+United States). Conversely, on average only slightly over one in three children aged between 0 and 2 years 
+participates in early childhood education and care services. The average hides large differences across 
+countries, with extremely low enrolment rates in some Eastern European countries and high rates in 
+Scandinavia, and across income groups, with lower  participation of children from less affluent families in 
+most countries (Figure 12).  
+25. High childcare costs can make work financially unattractive, particularly for low-wage earners. On 
+average, a parent of two children taking up full -time employment and using centre-based childcare loses 
+about half of his/her earnings to either higher taxes or lower benefits. The loss is especially high for low -
+income earners and varies widely across countries (Figure 13). The United Kingdom has recently 
+announced new poli cies to tackle barriers to parents working ( Box 1).  Beyond facilitating mothers’ 
+employment, access to affordable high -quality early childhood education can be decisive for children’s 
+development, especially for those from lower socio-economic background (OECD, 2018b). Well-developed 
+elderly care can also favour female employment, as women are more likely than men to interrupt their 
+careers or work part-time to care for family members (OECD, 2017). 
+
+ECO/WKP(2023)29  15 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+Figure 12. Enrolment in early education varies widely across countries and income groups 
+Participation rates in early childhood education and care, 0- to 2-year-olds, by equivalised disposable income tertiles 
+2020 or latest  
+ 
+Note: OECD estimates based on information from EU -SILC. Data refer to children using centre -based services (e.g. nurseries or day care 
+centres and pre-schools, both public and private), organised family day care, and care services provided by (paid) professional childminders,  
+regardless of whether or not the service is registered or ISCED -recognised. Equivalised disposable income tertiles are calculated using the 
+disposable (post tax and transfer) income of the household in which the child lives , and are based on the equivalised disposable incomes of 
+children aged less than or equal to 12. 
+Source: OECD Family Database. 
+Figure 13. High childcare costs can generate high financial disincentives to enter employment 
+Per cent of earnings lost when entering employment and using childcare, 2021 or latest  
+ 
+Note: This indicator meas ures the percentage of earnings lost to either higher taxes or lower benefits when a parent of two children takes up 
+full-time employment and uses centre -based childcare. Calculations refer to a couple with two children aged 2 and 3 where the other parent 
+works full-time at 67% of the average wage. 
+Source: OECD (2023), Financial disincentive to enter employment with childcare costs (indicator, accessed on 13 April 2023). 
+
+16  ECO/WKP(2023)29 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+Box 1. Addressing barriers to parents working in the United Kingdom  
+Although British women are highly educated, their skills are not fully utilised in the labour market and 
+inequalities in earnings persist. Women adjust working hours to take over care responsibilities. Parental 
+leave pay rates are low, providing little incentive to shift leave to fathers (OECD, 2022d).  
+The 2023 spring budget includes ambitious measures to remove barriers to parents working, to be fully 
+implemented by September 2025. It substantially increases the amount of free childcare that work ing 
+families can access. The government will provide over GBP 4.1 billion by 2027-28 to fund 30 free hours 
+per week for working parents with children aged from 9 months to 3 years in England, matching the 
+current eligibility for 3 to 4 year-olds.  
+The gove rnment is also providing additional funding to childcare providers, to help them provide 
+sufficient capacity to deliver the free hours offered, manage cost pressures, and raise the quality of 
+provision. Further flexibility in childcare provision will be in troduced, notably by changing staff -to-child 
+ratios from one-to-four to one-to-five for 2 years-olds in England and providing start -up grants for new 
+child carers. 
+New policies will also aim to provide access to care in school from 8am to 6pm, to ensure th at working 
+parents are not forced to reduce their hours due to caring responsibilities.  
+Support for parents on Universal Credit (means -tested social benefit) who face the highest childcare 
+costs will be increased and payments related to childcare costs wi ll be brought forward to alleviate 
+liquidity constraints faced by low-income households. 
+Source: OECD Economic Surveys: United Kingdom 2022, OECD Publishing, Paris; HM Treasury, Spring Budget 2023, Policy Paper. 
+5.2.  Promoting work-life balance for both men and women through parental leave 
+arrangements 
+26. Promoting work -life balance, which is an essential dimension of well -being, supports gender 
+equality by making work more compatible with family care and allowing a better sharing of domestic tasks 
+between men a nd women. Potential actions include : incorporating part -time and other time flexibility 
+options in career patterns ; ensuring that employees who use workplace flexibilities are not penalised for 
+doing so; promoting part-time as a temporary rather than a per manent solution for employees with family 
+obligations; and developing policies and transition paths supporting the move from part -time to full -time 
+work (OECD, 2015). Although teleworking provides welcome flexibility, it has mixed effects on work -life 
+balance inequalities, the gender wage gap, and gender disparities in career progression (Touzet, 2023). 
+27. Parental leave, which is still very unevenly split between parents, even where institutional settings 
+encourage sharing, tends to slow women’s career progression. While opportunities for young women have 
+generally increased in OECD countries, mothers tend to lose ground after having children, sometimes 
+even moving into lower quality jobs or exiting the labour market altogether. The “child penalty” associated 
+with motherhood, defined as the long-run loss in gross labour earnings excluding taxes and transfers, that 
+results from lower employment, hours worked and wage rate s, has been estimated from around 20% in 
+Denmark and Sweden to more than 50% in Austria and Germany, with the United Kingdom and the United 
+States in between (Kleven et al., 2019). In recent years, policy reforms in many OECD countries have 
+aimed to encourage fathers to take up parental leave through earmarked months or bonus systems. The 
+number of OECD countries offering some parental leave reserve d for fathers rose from seven in 1995 to 
+34 in 2020 (OECD, 2022a). Nevertheless, parental leave entitlements are still very uneven between 
+parents in most countries (Figure 14), calling for further progress to encourage a more equal use of parental 
+leave. For example, extending parental leave and making it more flexible is part of the broader Australian 
+National Strategy for gender equality (Box 2). 
+ECO/WKP(2023)29  17 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+Figure 14. Parental leave entitlements are still very uneven between parents 
+ 
+Note: Maternity leave refers to the number of weeks of job -protected leave available for mothers just before and after childbirth. For countries 
+where there is no separate legislation for maternity leave, the weeks of parental leave reserved for the exclusive use of mothers around childbirth 
+are reported. Parental leave with job protection refers to the number of weeks after maternity leave which a woman can take a s parental leave 
+with her job protected, disregarding payment conditions. Total duration of paid maternity and parental leave refers to the total number of weeks 
+which a women can be on paid leave after the birth of a child combining both maternity, parental and home care leave. Paid father-specific leave 
+refers to the number of paid weeks reserved  for the exclusive use of fathers, including entitlements to paid paternity leave, 'father quotas' or 
+periods of paid parental leave that can be used only by the father and cannot be transferred to the mother, and any weeks of paid sharable 
+leave that must be taken by the father in order for the family to qualify for 'bonus' weeks of parental leave. 
+Source: OECD Family Database. 
+Box 2. The Australian National Strategy for gender equality 
+Improving gender equality is a key objective for the Australian government. A National Strategy to Achieve 
+Gender Equality has been articulated that will be partly informed by the newly established Women’s 
+Economic Equality Taskforce.  
+Some reforms are already underway: 
+• The government paid parental leave schemes for mothers and fathers are being combined and the 
+total amount of paid parental leave will increase from 20 weeks to 26 weeks by July 2026. In addition, 
+increased flexibility is being introduced, with parents able to take leave concurrently and in blocks as 
+small as one day at a time. Two weeks of leave will be reserved for each parent as a dedicated “use 
+it or lose it” portion. 
+• The Child Care Subsidy was increased in the October 2022 Budget. Howeve r, an additional 39 000 
+early childhood care workers will be needed by 2023 to meet needs. The government has tasked the 
+Australian Competition and Consumer Commission to undertake a 12-month inquiry into the cost of 
+childcare (interim reports were released in June and September 2023 (ACCC, 2023 a, b)) and the 
+Productivity Commission to conduct a comprehensive review of the childcare sector (to commence 
+in July 2023). 
+The government’s Employment White Paper ( Australian Government , 2023), which explo res the policies 
+needed for Australia’s future labour market, also put s a strong emphasis on improving women’s economic 
+participation and equality. 
+Recent changes to industrial relations laws embed the principle of gender equality in the Fair Work 
+Commission’s decision-making processes. In addition, various changes have been made to labour market 
+regulations to promote gender equity. These include provisions to increase pay transparency, the ability to 
+request flexible work arrangements and punishment of em ployers when sexual harassment occurs in 
+their workplace. 
+Source: OECD (2023d), OECD Economic Surveys: Australia 2023. 
+
+18  ECO/WKP(2023)29 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+5.3.  Facilitating the return to work after an extended parental leave through 
+training 
+28. Mothers often face challenges upon returning from long parental leave. This is especially true in 
+times when work practices and tools evolve rapidly. Training, re -skilling and upskilling schemes can help 
+women re-engage in their careers and assist them in transitioning to new jobs. Digital skills can be decisive 
+in that respect, as hurdles to access, affordability, lack of education and inherent biases and socio-cultural 
+norms often curtail women and girls’ ability to benefit from the opportunities offered by the digital 
+transformation (OECD, 2018c, 2019). The green transition requires broadening the access of women to 
+emerging green-task jobs, notably by encouraging early engagement in science, technology, engineering 
+and mathematics, as well as providing c areer guidance, while offering retraining and upskilling 
+opportunities to workers in polluting jobs, which are mainly held by men (OECD, 2023b; Causa et al., 
+2023). 
+5.4.  Supporting gender-balanced career advancements through corporate 
+disclosure   
+29. Female employment is often held back by a lack of opportunities to access sufficiently rewarding 
+and well-paid jobs. As the bulk of the gender wage gap is concentrated within firms, i.e. the same firm pays 
+men more than women with similar skills (OECD, 2022a), policies  targeted at firms are key to promoting 
+women’s access to better jobs and reducing gender wage gaps. They include pay transparency measures, 
+such as disclosure requirements, gender equality audits, job-classification systems, voluntary target setting 
+and mandatory quotas for women in higher-level positions or company boards (OECD, 2022a). More than 
+half of OECD countries now require private sector firms to systematically report their gender pay gaps. 
+Many of the reporting schemes are embedded in extensive equal-pay audit systems. Governments should 
+ensure that reporting schemes do not exclude SMEs and workers in precarious work arrangements, 
+effectively enforce reporting rules, conduct more frequent and rigorous evaluations of their effects, and 
+raise awareness of pay gap reporting rules and results among firms, employees, their representatives and 
+the public (OECD, 2023e). 
+5.5.  Addressing biases in the tax and pension systems  
+30. Wage disadvantages can be compounded by the tax and benefit system. The role of taxatio n of 
+second earners, who are often women, in creating work disincentives has long been recognised. Empirical 
+evidence points to a strong responsiveness of second earners to these disincentives (OECD, 2011). The 
+progressivity of the tax system eases the bur den on part -time workers, among which women are over -
+represented. However, when coupled with the removal of tax credits and allowances once a part-time 
+worker enters full-time work, progressivity creates disincentives for part -time workers to move to full -time 
+work (Harding et al., 2022). Moving from household -based towards individual taxation would help  to 
+remove negative work incentives for second earners. Among the OECD countries that responded to the 
+OECD Tax & Gender Stocktaking Questionnaire 2021, 18 reported applying individual taxation, five 
+household-level taxation and six providing an option between the two (OECD, 2022c). In the same survey, 
+countries identified the gender impact of tax credits and allowances, tax system progressivity and social 
+security contributions as key areas for future work to improve tax systems and enhance gender equality. 
+31. Lower wages and career breaks translate into lower pensions for women. While addressing the 
+root causes is key, some adjustments to retirement savings arr angements could ensure that they do not 
+compound existing inequalities in women’s retirement benefits and could even help reduce them. In some 
+cases, particular features of retirement plans disadvantage women, for instance when eligibility criteria are 
+based on working hours or earnings, or when contributions stop during periods of maternity leave, or when 
+women do not get their share of retirement benefit entitlements upon divorce (OECD, 2021a).  
+ECO/WKP(2023)29  19 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+5.6.  Better integrating foreign-born women through tailored labour-market 
+programmes 
+32. Effective integration of foreign -born women is crucial to achieve broader equality objectives, 
+including the reduction of gender gaps and the successful inclusion of children of migrants. Many women 
+come to OECD countries via family migration and have a weak connection to the labour market. They often 
+struggle to have foreign qualifications and skills recognised in the host country. Programmes to reach out 
+to migrant women, integration courses , and participation of migrant women in traini ng and other active 
+labour market policies can enhance economic and social integration (OECD, 2020e). For example, 
+initiatives such as the Swedish Establishment Programme  for recently arrived immigrants and the pilot 
+project Equal Establishment, which aims to improve job matching for foreign-born women, show that well-
+tailored active labour policy measures can have a significant impact on immigrant women’s employment 
+(OECD, 2021d, 2023f). 
+5.7.  Promoting women’s access to management positions and entrepreneurship 
+33. Many countries have put in place policies to increase the proportion of women on company boards 
+and management, including quotas, targets and disclosure requirements. For example, quotas are in place 
+in Austria, Belgium, Fra nce, Germany, Greece, Iceland, Israel, Italy, Korea, Netherlands, Norway and 
+Portugal. Countries that have initiated quotas or targets for board composition in listed companies have on 
+average achieved a greater level of board gender diversity than other countries. However, such measures 
+have often led to a small group of women serving on multiple boards or an increase in family -related 
+appointments. Moreover, there seems to be no strong link between the share of women on company 
+boards and the proportion of women in management positions. This calls for complementary initiatives to 
+strengthen the pipeline for leadership positions, such as programmes to strengthen the professional and 
+leadership skills of women, and advocacy and awareness-raising initiatives (Denis, 2022). 
+34. Policies to support women’s entrepreneurship need to be strengthened. Recent OECD analysis 
+suggests that mainstream entrepreneurship policies and programmes are not gender -neutral (OECD, 
+2021c). Explicit approaches are therefore needed to ad dress barriers to entrepreneurship that are 
+experienced differently by men and women, and to ensure that women have equal access to policy support 
+for entrepreneurs. Widely-used policies to enhance gender equality include actions on entrepreneurship 
+culture, skills development, access to finance , and the promotion of entrepreneurship networks and 
+ecosystems. However, measures supporting women’s entrepreneurship are often insufficient, calling for 
+further action on three priorities: introducing overarching policy frameworks for women’s entrepreneurship; 
+better adapting women’s entrepreneurship policy interventions to institutional, cultural and social contexts; 
+and reinforcing policy evaluation as a foundation for scaling policy initiatives. Creating targeted  financial 
+instruments for female entrepreneurs is one concrete action that would support women-owned businesses. 
+5.8.  Enhancing women’s financial inclusion  
+35. Financial literacy is essential to improve women’s financial empowerment, opportunities, and well-
+being. In many countries, women have less financial knowledge than men, are less confident in their 
+financial knowledge and skills, and enjoy lower access to formal financial products (Lusardi and Mitchell, 
+2008; Maravalle and González Pandiella, 2022). They ar e more likely to experience difficulties in making 
+ends meet, saving, and choosing financial products (OECD, 2013a,  b). Gender differences are driven by 
+several potentially interrelated factors, including differences in socio-economic conditions, skills, attitudes, 
+and opportunities (Hung et al., 2012). Policies to enhance women’s financial literacy generally target sub -
+groups, such as low -income women or micro and small entrepreneurs , and aim at improving women’s 
+financial inclusion and use of formal savin g products, preventing over -indebtedness, helping women 
+planning for retirement , and supporting female entrepreneurship. Programmes need to be tailored 
+according to the specific needs of women and girls with respect to their financial knowledge, confidence  
+20  ECO/WKP(2023)29 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+and financial strategies, with a particular focus on their ability to make ends meet, save, choose and use 
+financial products, and seek information and advice. They need to involve all stakeholders and the results 
+should be systematically monitored and ev aluated (OECD, 2013b). It is also necessary to ensure that 
+women are not unduly denied access to credit or charged higher interest rates than men for the same risk 
+level. Evidence from the US mortgage market points to better performance of loans to women, compared 
+to men with similar credit profiles, which are not reflected in pricing and acceptance rates (Goodman et al., 
+2016). 
+5.9.  Mainstreaming gender across policies 
+36. The multiple dimensions and root causes of gender inequality underscore the benefits of 
+mainstreaming gender across policy domains. Gender mainstreaming can involve the introduction of laws 
+or requirements for public servants to promote gender equality. Between 2017 and 2022, nine OECD 
+countries  introduced new legislation or regulation underpinni ng gender mainstreaming in at least one 
+policy area. Strategic planning, as reflected in documents, formal government commitments and dedicated 
+programmes, is another powerful avenue for gender mainstreaming. Countries such as Austria, Denmark, 
+Iceland, Lithuania, Luxembourg and the Netherlands have introduced requirements to advance gender 
+equality priorities in government programmes. Gender budgeting, which is now used in over 60% of OECD 
+countries, is also a powerful tool to guide gender equality policie s (OECD, 2023g). The OECD has 
+developed a comprehensive Toolkit on Mainstreaming and Implementing Gender Equality, designed to 
+help policymakers identify weaknesses and opportunities in their country and work contexts, and highlight 
+approaches available to advance gender equality (OECD, 2015). 
+37. Gender-disaggregated data are key to raising awareness of gender issues and designing 
+adequate, evidence -based policies to fight inequality. For example, gaps have been identified in data 
+needed to assess the gender i mpact of taxation (OECD, 2022c). The sources of gender wage gaps are 
+often difficult to assess. Detailed and timely information, such as that provided by the Swedish National 
+Mediation Office annual report, which separat es differences related to age, education, occupation, sector 
+of employment and hours worked from gender discrimination, can facilitat e corrective action (Swedish 
+National Mediation Office, 2021). Such examples illustrate the benefits of expanding gender -related data 
+collection and dissemination. Civil society organisations, including NGOs and women’s groups, can help 
+to gather information about the potential or actual impact of government policies, and should be consulted 
+regularly. Surveys, interviews, reviews, opinion polls, focus group discussions and benchmarking are also 
+effective methods for obtaining and analysing data on diversity policies. Actions to be considered include 
+ensuring wide access to gender -disaggregated data at national and sub -national level s, using public 
+consultations to collect missing information, and enhancing public officials and statisticians’ awareness of 
+gender issues through information campaigns and trainings (OECD, 2015).  
+ECO/WKP(2023)29  21 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+References 
+Adema, W., Clarke, C., Thévenon, O. (2020), “Family Policies and Family Outcom es in OECD 
+Countries”, In: Nieuwenhuis, R. and W. Van Lancker (eds), The Palgrave Handbook of Family Policy, 
+Palgrave Macmillan, Cham. 
+ACCC (2023a), Childcare inquiry 2023 , June 2023 interim report , Australian Competition and Consumer 
+Commission, Canberra. 
+ACCC (2023b), Childcare inquiry 2023, September 2023 interim report , Australian Competition and 
+Consumer Commission, Canberra. 
+Australian Government (2023), Working Future: The Australian Government’s White Paper on Jobs and 
+Opportunities, Canberra. 
+Bettio, F. and A. Verashchagina (2009), Gender Segregation in the Labour Market, Root Causes, 
+Implications and Policy Responses in the EU, European Commission, Directorate -General for 
+Employment, Social Affairs and Equal Opportunities. 
+Brussino, O. and J. McBrien (2022), “Gender stereotypes in education: Policies and practices to address 
+gender stereotyping across OECD education systems”, OECD Education Working Papers, No. 271, 
+OECD Publishing, Paris. 
+Carlana, M. (2019), “Implicit Stereotypes: Evidence from Teachers’ Gender Bias”, The Quarterly Journal 
+of Economics, 134(3), 1163-1224.  
+Causa, O. et al. (2023), “Lost in the green transition? From measurement to stylized facts”, OECD 
+Economics Department Working Papers, OECD Publishing, Paris, forthcoming.  
+Causa, O., N. Luu and M. Abendschein (2021), "Labour market transitions across OECD countries: 
+Stylised facts", OECD Economics Department Working Papers, No. 1692, OECD Publishing, Paris. 
+Causa, O. and Å. Johansson (2010), "Intergenerational Social Mobility in OECD Countries", OECD 
+Journal: Economic Studies, vol. 2010/1. 
+Cavalcanti, T. and J. Tavares (2016), “The Output Cost of Gender Discrimination: A Model -Based 
+Macroeconomics Estimate, The Economic Journal, 126, 109-134. 
+Charlton, E. (2023), “This is why women are bearing the brunt of the cost of living crisis, according to 
+research”, World Economic Forum. 
+Ciminelli, G., C. Schwellnus and B. Stadler (2021), “Sticky floors or glass ceilings? The role of human 
+capital, working time flexibility and discrimination in the gender wage gap”, OECD Economics 
+Department Working Papers, No. 1668, OECD Publishing, Paris,  
+Criscuolo, C, P Gal, T Leidecker and G Nicoletti (2021), "The human side of productivity: Uncovering the 
+role of skills and diversity for firm productivity", OECD Productivity Working Papers No. 29, OECD 
+Publishing, Paris. 
+Cuberes, D., and M. Teignier (2016). “Aggregate Effects of Gender Gaps in the Labor Market: A 
+Quantitative Estimate”. Journal of Human Capital, 10(1), 1-32.  
+Curtis, M., C. Schmid and M. Struber (2012), “Gender diversity and corporate performance”, Credit 
+Suisse Research Institute, Zurich. 
+22  ECO/WKP(2023)29 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+Denis, E. (2022), “Enhancing gender diversity on boards and in senior management of listed companies”, 
+OECD Corporate Governance Working Papers, No. 28, OECD Publishing, Paris. 
+Duflo, E. (2012), “Women empowerment and economic development”, Journal of Economic Literature, 
+50(4), 1051-79. 
+Encinas-Martín, M. and M. Cherian (2023), Gender, Education and Skills: The Pers istence of Gender 
+Gaps in Education and Skills, OECD Skills Studies, OECD Publishing, Paris. 
+European Parliament (2023), “Gender aspects of energy poverty”. 
+Galinsky, A. et al. (2015), “Maximizing the gains and minimizing the pains of diversity: a policy 
+perspective”, Perspectives on Psychological Science, 10(6). 
+Goodman, L., J. Zhu and B. Bai (2016), “Women Are Better than Men at Paying Their Mortgages”, Urban 
+Institute Research Report, Washington, DC. 
+Harding, M., D. Paturot and H. Simon (2022), "Taxation of part-time work in the OECD", OECD Taxation 
+Working Papers, No. 57, OECD Publishing, Paris.   
+HM Treasury (2023), Spring Budget 2023, Policy Paper, London. 
+Hung, A., J. Yoong and E. Brown (2012), "Empowering Women Through Financial Awareness and 
+Education", OECD Working Papers on Finance, Insurance and Private Pensions, No. 14, OECD 
+Publishing, Paris. 
+Kleven, H., C. Landais, J. Posch, A. Steinhauer and J. Zweimüller (2019), “Child Penalties across 
+Countries: Evidence and Explanations”, AEA Papers and Proceedings, 109, 122-26. 
+Lassébie, J., et al. (2019), “Levelling the playing field: Dissecting the gender gap in the funding of start -
+ups”, OECD Science, Technology and Industry Policy Papers, No. 73, OECD Publishing, Paris. 
+Levanon, A., P. England and P. Allison (2009), “Occupational feminization and pay: assessing causal 
+dynamics using 1950-2000 U.S. Census data”, Social Forces, 88(2), 865-892. 
+Lusardi, A. and O.S. Mitchell (2008), “Planning and Financial Literacy: How Do Women Fare?”, American 
+Economic Review, 98 (2), 413-17. 
+Maravalle, A. and A. González Pandiella (2022), “Expanding access to finance to boost growth and 
+reduce inequalities in Mexico”, OECD Economics Department Working Papers, No. 1717, OECD 
+Publishing, Paris. 
+Noland, M., T. Moran and B. Kotschwar (2016), “Is gender diversity profitable? Evidence from a global 
+survey”, Peterson Institute for International Economics Working Paper Series, No. 16 -3, Washington 
+DC. 
+OECD (2023a), Joining Forces for Gender Equality: What is Holding us Back?, OECD  Publishing, Paris. 
+OECD (2023b), Job Creation and Local Economic Development 2023: Bridging the Great Green Divide, 
+OECD Publishing, Paris. 
+OECD (2023c), Economic Policy Reforms 2023: Going for Growth, OECD Publishing, Paris. 
+OECD (2023d), OECD Economic Surveys: Australia 2023, OECD Publishing, Paris. 
+OECD (2023e), Reporting Gender Pay Gaps in OECD Countries, Guidance for Pay Transparency 
+Implementation, Monitoring and Reform, OECD Publishing, Paris. 
+OECD (2023f), OECD Economic Surveys: Sweden 2023, OECD Publishing, Paris. 
+OECD (2023g), “OECD Best Practices for Gender Budgeting”, OECD Journal on Budgeting, Vol. 23/1. 
+OECD (2022a), “Same skills, different pay: Tackling Gender Inequalities at firm level”, OECD, Paris.  
+OECD (2022b), Education at a Glance 2022: OECD Indicators, OECD Publishing, Paris. 
+OECD (2022c), Tax Policy and Gender Equality: A Stocktake of Country Approaches, OECD Publishing, 
+Paris. 
+OECD (2022d), OECD Economic Surveys: United Kingdom 2022, OECD Publishing, Paris.  
+ECO/WKP(2023)29  23 
+PROMOTING GENDER EQUALITY TO STRENGTHEN ECONOMIC GROWTH AND RESILIENCE 
+Unclassified 
+OECD (2021a), Towards Improved Retirement Savings Outcomes for Women, OECD Publishing, Paris.  
+OECD (2021b), Pensions at a Glance 2021: OECD and G20 Indicators, OECD Publishing, Paris.  
+OECD (2021c), Entrepreneurship Policies through a Gender Lens, OECD Studies on SMEs and  
+Entrepreneurship, OECD Publishing, Paris. 
+OECD (2021d), OECD Economic Surveys: Sweden 2021, OECD Publishing, Paris.  
+OECD (2020a), “Women at the core of the fight against COVID-19 crisis”, OECD Policy Responses to 
+Coronavirus (COVID-19), OECD, Paris. 
+OECD (2020b), OECD Employment Outlook 2020: Worker Security and the COVID -19 Crisis, OECD 
+Publishing, Paris. 
+OECD (2020c), How's Life? 2020: Measuring Well-being, OECD Publishing, Paris. 
+OECD (2020d), “Distributional risks associated with non-standard work: Stylised facts and policy 
+considerations”, Tackling Coronavirus Series, OECD, Paris. 
+OECD (2020e), “How to strengthen the integration of migrant women?”, Migration Policy Debates, N°25, 
+OECD, Paris. 
+OECD (2019), The Role of Education and Skills in Bridging the Digital Gender Divide, Evidence from 
+APEC Economies, OECD, Paris. 
+OECD (2018a), A Broken Social Elevator? How to Promote Social Mobility, OECD Publishing, Paris.  
+OECD (2018b), Early Learning Matters, OECD, Paris.  
+OECD (2018c), Bridging the Digital Gender Divide, Include, Upskill, Innovate, OECD, Paris. 
+OECD (2017), The Pursuit of Gender Equality: An Uphill Battle, OECD Publishing, Paris.  
+OECD (2015), OECD Toolkit for Mainstreaming and Implementing Gender Equality, Implementing the 
+2015 OECD Recommendation on Gender Equality in Public Life, OECD, Paris.  
+OECD (2013a), Women and Financial Education: Evidence, Policy Responses and Guidance, OECD 
+Publishing, Paris.  
+OECD (2013b), Addressing women’s needs for financial education, International Network on Financial 
+Education (INFE), OECD, Paris. 
+OECD (2011), Taxation and Employment, OECD Tax Policy Studies, No. 21, OECD Publishing, Paris.  
+Périvier, H. (2014), “Men and women during the economic crisis. Employment trends in eight European 
+countries”, Revue de l'OFCE, 133(2), 41-84. 
+Stevenson, B. (2021), “Women, work, and families: recovering from the pandemic -induced recession”, 
+Economic analysis, Hamilton Project, Washington DC. 
+Swedish National Mediation Office (2021), Wage Differences Between Women and Men 2020,  
+Stockholm. 
+Touzet, C. (2023), "Teleworking through the gender looking glass: Facts and gaps", OECD Social, 
+Employment and Migration Working Papers, No. 285, OECD Publishing, Paris. 
+Woolley, A. et al. (2010), “Evidence for a collective intelligence factor in the performance of human 
+groups”, Science, Vol. 330(6004). 

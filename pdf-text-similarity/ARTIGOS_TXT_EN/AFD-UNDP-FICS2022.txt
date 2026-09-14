@@ -1,0 +1,1941 @@
+Budgets for Climate, Sustainability and Social Inclusion: 
+A Rapid Review of Approaches and Tools
+Foreword
+
+Foreword2
+As the world reels from the effects of multiple and 
+ongoing shocks, actors from across the global 
+public financial system are examining their roles 
+in unlocking and optimizing financing for the Sus -
+tainable Development Goals (SDGs). With COVID-19, 
+our challenges in addressing the financing gap for 
+achieving the SDGs has widened to an estimated 
+$4.2 trillion annually. Global financial assets stand 
+at a value of $431 trillion 1  but this finance does 
+not necessarily align with the SDGs or flow to the 
+geographies that need it most for progress on the 
+SDGs. 
+In this context, there is an urgent need for public 
+development banks to reorient and leverage all 
+financial flows in the direction of SDG achievement. 
+As recognized by the G20, the world’s 500 plus 
+public development banks (PDBs) take critical roles 
+to achieve the SDGs and the Paris Agreement goals. 
+These actors are critical players from the global 
+financial architecture. They manage US$ 23 trillion 
+of total assets, out of which more than 83% by PDBs 
+from G20 countries. They also represent up to US$ 
+2.7 trillion of annual investments, a staggering 12% 
+of the total amount invested in the world every year 
+by all public and private sources combined.  
+The Finance in Common (FICS) movement is the 
+global network of PDBs, operating as a global 
+initiative where multilateral development banks 
+(MDBs) can work with regional associations of 
+development finance institutions (DFIs), as well as 
+with the International Development Financing Club 
+(IDFC) and individual institutions. FICS supports 
+the emergence of a global financial framework for 
+green and SDG aligned investments. By mobilizing 
+all stakeholders, including through more systemic  
+dialogue between policy makers, public/private 
+finance and regulators, as well as local actors 2, 
+FICS acts as a laboratory to revise and enrich the 
+business models of PDBs, to ensure that operations 
+respond to actual needs, leaving no one behind.
+At the country level, PDBs also are supporting 
+governments by aligning economic policies and 
+financial systems with the SDGs, de-risking invest -
+ments, and leveraging private financing especially 
+in times of crises. What they do and how they invest 
+matter for a better way forward for people and 
+planet.
+The United Nations Development Programme 
+(UNDP) aims to enable significant shifts in public 
+and private finance for sustainable development in 
+ways that complement what development banks 
+are doing best. Strengthening engagement with 
+PDBs is part of UNDP’s core mandate in supporting 
+governments to leverage financing, expertise, and 
+advocacy from a wider range of sources to achieve 
+national priorities.
+Through their respective work scaling sustainable 
+financing at country level, UNDP and FICS members  
+each have a unique understanding of how public 
+and private financing actors are innovating and 
+scaling reforms. PDBs play a vital part among local 
+stakeholders and can deploy a wide range of pow-
+erful instruments in order to bridge market failures, 
+mobilize domestic resources, redirect investments, 
+support private sector mobilization and promote 
+sustainability. Despite challenges, some bright 
+spots can be seen.
+1 2 
+1 Global Outlook on Financing for Sustainable Development, OECD 2021
+2 Ongoing dialogue with NGFS, GFANZ and UNEP-FI
+Foreword
+Foreword3
+We are honored to present our joint research to the international fora to elevate the collective 
+voice of PDBs in the international fora. In doing so, we invite all the development partners to 
+engage with our joint research and lessons, while considering how we can accelerate our work 
+together toward scaling sustainable financing. 
+• PDBs could translate the low-carbon and pro-nature strategies of their states into concrete 
+financing, thereby stepping into their role as  “SDGs implementers”, using their government’s 
+National Voluntary Contributions to align with national priorities.
+• In turning SDG-aligned mandates into action, PDBs require aligned support from partners, 
+including other PDBs, MDBs, UN and G20, to set up incentives, de-risking instruments, har -
+monized impact measurement standards, and better data equipped with strong capacity. 
+Coordination between MDBs and PDBs in parallel with  government ministries are crucial for 
+identifying opportunities for co-financing and leveraging PDBs’ knowledge of local markets.
+• PDBs call for further political impetus and clarity in their performance frameworks to engage 
+different pools of actors, notably the private sector. If PDBs were to commit to a similar ratio 
+of an average of 20% as IDFC members have, they could extend more than US$500 billion of 
+climate finance per year and mobilize much more private financing.
+This is why we’ve joined forces to examine the vital role of public development banks in scaling 
+sustainable financing in an affordable way, the good practices PDBs have already developed, 
+and how national and international actors including MDBs, UN system and FICS, can enable 
+and scale their work.
+From this report, the findings show that the importance of aligning finance with the SDGs 
+and the Paris Agreement is clear, but it is crucial that we ensure effective collaboration 
+between PDBs either in advanced or developing economies, coordination with MDBs, 
+and the commitment from the development community:
+Marcos Neto, Director, 
+Sustainable Finance Hub, UNDP
+ 
+Adama Mariko, 
+Secretary General, Finance in Common
+ 4
+Copyright © UNDP . All rights reserved.  
+UNDP (2022).
+Joint Report: The Role of Public Development Banks in Scaling Sustainable Financing. 
+New York: UNDP .  
+This report shows the public development banks (PDBs)’ roles, challenges, and experiences in scaling 
+sustainable finance based on the interview and survey in a given timeframe. It does not represent the 
+views of the whole PDB community. The data are based on the public information or given information 
+from the PDBs who participated in either interview or survey. 
+The views expressed do not necessarily represent those of our partners including  international financial 
+institutions, donor agencies, or the UN Member States. The designations employed and the presentation 
+of the information do not imply the expression of any opinion whatsoever on the part of the UNDP 
+concerning the legal status of any country, territory, city or area of its authorities, or concerning the 
+delimitation of its frontiers or boundaries.
+For inquiries, please reach out to the Financial Institutions Team at 
+bera.pg.fit@undp.org or to the Finance in Common Secretariat at financeincommon@afd.fr.
+United Nations Development Programme 
+One United Nations Plaza. New York, NY 10017 USA 
+Designed by: Onurcan Acar
+Acknowledgements5
+This report was produced by UNDP in collaboration with Finance in Common Secretariat in 
+AFD. The overall partnership initiative was led by the UNDP Sustainable Finance Hub (Financial 
+Institutions Team), namely Emily Davis (Partnership Specialist) under the guidance of Marcos 
+Mancini (Senior Sustainable Finance Advisor). The research process was led by Jiseon (Sally) 
+Park (Partnership Analyst) and conducted by William Price (CEO of D3P Global) with research 
+assistance from Dr Thulaisi Sivapalan (D3P Global). The research would not have been pos -
+sible without the leadership of Marcos Neto (Director, Sustainable Finance Hub) and Mariana 
+Gonzalez (Team Leader, IFI Partnerships).  
+ 
+This initiative is a result of very fruitful collaboration with Finance in Common General Secre-
+tariat (SG FICS) within AFD. The effort was led by Arthur Pataud (Advisor), under the leadership 
+of Adama Mariko (Secretary General, Finance in Common), together with Ornella d’Amico 
+(Deputy to the Secretary General) and Jimena Iraheta (Program Officer). The research greatly 
+benefited from the guidance and experiences of AFD colleagues, in particular Emmanuelle 
+Matz (Sustainable development analysis and opinion unit), Béryl Bouteille (IDFC secretariat), 
+Bastien Bedossa (Financial systems), Régis Marodon (Innovation, research and knowledge), as 
+well as experts from the Communications and Strategy, Foresight and Official Relations teams.   
+ 
+This analysis would not have been possible without the essential contributions from the FICS 
+regional networks of PDBs, in particular the Association of African Development Finance 
+Institutions (AADFI); the Association of Development Financing Institutions in Asia and the 
+Pacific (ADFIAP); the Latin American Association of Development Financing Institutions (ALIDE); 
+the Association of European Development Finance Institutions (EDFI) and the International 
+Development Finance Club (IDFC), as well as the respective UNDP Country Offices. A very 
+special thanks go to those who kindly spent time in interviews: Development Bank of Namibia 
+(DBN), Development Bank of Rwanda (DBR), Development Bank of Southern Africa (DBSA),  PT 
+Sarana Multi Infrastruktur (PTSMI, Indonesia), Industrial Development Bank of Türkiye (TSKB), 
+CDG Capital (Morocco), Banco de Inversión y Comercio Exterior (BICE, Argentina), Desenvolve 
+(São Paulo, Brazil), Nacional Financiera (NAFIN, Mexico), Agence Française de Développement 
+(AFD), and Cassa Depositi e Prestiti (CDP).
+ 
+The team has greatly benefited from the constructive feedback from peer experts at Natixis 
+and Institut du développement durable et des relations internationales (IDDRI) as well as peer 
+reviewers within UNDP , AFD and externally. 
+The team also thanks Onurcan Acar for the report design, Lance Garmer for copy editing, and 
+Olcay Tetik and Leilei Katof for communications support. 
+Acknowledgements
+Table of Contents6
+Foreword 
+Acknowledgements 
+Table of Contents
+Figures and Boxes 
+Glossary 
+Executive Summary 
+Introduction 
+Research Approach 
+Summary of PDB cases: experiences and good practices 
+Research analysis and key findings 
+ 
+Conclusion
+Annex A: Interview Questions 
+Annex B: Survey Questions 
+Annex C: Graphs from the Survey Analysis 
+2
+5
+6
+7
+8
+9
+14
+16
+18
+20
+41
+43
+44
+50
+Recommendations to improve PDB Mandate, Strategy and Governance aligned to SDGs
+Recommendations to improve Lending and guarantees, pricing and currency risk 
+Recommendations to improve Data, Measurement, Impact and Taxonomies 
+Recommendations to promote Effective Collaboration and International Support 
+9
+10
+12
+12
+20
+28
+33
+38
+5.1 PDBs’ Mandate, Strategy and Governance aligned to the SDGs 
+5.2 Lending and guarantees, pricing and currency risk 
+5.3 Data, Measurement, Impact and Taxonomies 
+5.4 Effective Collaboration and International Support 
+2.
+3.
+4.
+5.
+6.
+1.
+Table of Contents
+Figures and Boxes7
+10
+50
+21
+23
+51
+51
+28
+29
+31
+52
+34
+53
+54
+37
+54
+54
+55
+55
+55
+26
+36
+Figure 1:
+Figure 2:
+Figure 3:
+Figure 4:
+Figure 5:
+Figure 6:
+Figure 7:
+Figure 8:
+Figure 9:
+Figure 10: 
+Figure 11:
+Figure 12:
+Figure 13:
+Figure 14:
+Figure 15:
+ 
+Figure 16:
+Figure 17:
+Figure 18:
+Figure 19:
+Box 1:
+Box 2:
+Four main focus areas for PDB challenges and solutions
+PDB mandates prioritizing climate actions and the SDGs at all levels
+SDG alignment as a core part of the organizational strategy 
+AFD’s SDG alignment tool and process
+PDB strategy mentioning country’s ‘Voluntary National Review’
+PDB strategy mentioning country’s Nationally Determined Contributions
+(NDC) and Long-term low green-house gas emissions development strategy (LTS)
+Top 3 challenges to promote, develop, and implement changes to support SDGs
+PT-SMI’s Blended Finance Structure in the Geothermal Sector
+Gender-focused extract from Desenvolve SP loan social eligibility criteria
+Measuring and managing the impact of your activities against the SDGs
+Does PDB strategy mention country’s ‘Voluntary National Review’ 
+Identifying financial split between climate impact mitigation and adaptation
+Producing financial analysis on the wider benefits and returns on the project
+Do you measure and manage the impact of your activities against the SDGs
+Legal/governance/economic barriers to joining international
+initiatives on the SDGs
+Internally leading and fostering a sustainable development culture 
+Developing a holistic strategy and long-term vision linked to SDGs
+Mainstreaming SDG priorities within internal operations
+Mobilizing and catalyzing truly transformational investment
+Integrated National Financing Frameworks (INFFs)
+Impact Standards for PDBs
+Figures and Boxes
+Glossary8
+ADB  Asian Development Bank
+AFD  Agence Française de Développement, France
+BDMG  Banco de Desenvolvimento de Minas Gerais, Brazil
+BICE  Banco de Inversión y Comercio Exterior, Argentina 
+CAF  Development Bank of Latin America
+CDG  CDG Capital, Morocco 
+CDP  Cassa Depositi e Prestiti, Italy
+DBN   Development Bank of Namibia 
+DBR  Development Bank of Rwanda
+DBSA  Development Bank of Southern Africa 
+DFI  Development Finance Institution
+DSP  Desenvolve SP , São Paulo, Brazil 
+ECLAC  Economic Commission for Latin America
+FAO  Food and Agriculture Organization of the United Nations
+FiCS  Finance in Common Coalition
+GTT-LAC Working Group on Sustainable Finance Taxonomies in Latin America and the Caribbean
+IADB  Inter-American Development Bank
+IDFC  International Development Finance Club
+IMM  Impact Monitoring and Measurement
+INSE  The Institute of New Structural Economics, China
+IS-FSD   OECD-UNDP Impact Standards for Financing Sustainable Development
+LAC  Latin America and the Caribbean
+MDBs  Multilateral Development Banks
+NAFIN  Nacional Financiera, Mexico 
+NDB   New Development Bank 
+PDB  Public Development Bank
+PT-SMI  PT Sarana Multi Infrastruktur, Indonesia 
+SDGs  Sustainable Development Goals
+TSKB  Industrial Development Bank of Türkiye
+UNDP  United Nations Development Programme
+UNEP  United Nations Environment Programme
+USD  US Dollars
+Asian Development Bank
+Agence Française de Développement, France
+Banco de Desenvolvimento de Minas Gerais, Brazil
+Banco de Inversión y Comercio Exterior, Argentina 
+Development Bank of Latin America
+CDG Capital, Morocco 
+Cassa Depositi e Prestiti, Italy
+Development Bank of Namibia 
+Development Bank of Rwanda
+Development Bank of Southern Africa 
+Development Finance Institution
+Desenvolve SP , São Paulo, Brazil 
+Economic Commission for Latin America
+Food and Agriculture Organization of the United Nations
+Finance in Common Coalition
+Working Group on Sustainable Finance Taxonomies in Latin America and the Caribbean
+Inter-American Development Bank
+International Development Finance Club
+Impact Monitoring and Measurement
+The Institute of New Structural Economics, China
+OECD-UNDP Impact Standards for Financing Sustainable Development
+Latin America and the Caribbean
+Multilateral Development Banks
+Nacional Financiera, Mexico 
+New Development Bank
+Public Development Bank
+PT Sarana Multi Infrastruktur, Indonesia 
+Sustainable Development Goals
+Industrial Development Bank of Türkiye
+United Nations Development Programme
+United Nations Environment Programme
+US Dollars
+Glossary
+Executive Summary9
+This report sets out recommendations for supporting the work of Public Development Banks 
+(PDBs)3 as they make progress toward aligning with the Sustainable Development Goals 
+(SDGs). It is based on in-depth interviews with selected PDBs and relevant experts, in parallel with 
+a survey administered to a broader group of PDBs – with an overall focus on national PDBs in 
+developing countries. The work was developed by the United Nations Development Programme 
+(UNDP) Sustainable Finance Hub in collaboration with the Finance in Common initiative (FiCS)4. 
+The research looks at the role of PDBs in scaling financing in an affordable way, the good 
+practices PDBs have already developed, what they are seeking to do in the future, and how 
+national and international actors can enable and scale their work. The interviews and survey 
+were useful complements since they identified some similar but also some varied issues in relation 
+to challenges and successes and hence to recommendations. Aspects of these recommendations 
+could be relevant for governments (national/sub-national level and G20/non-G20 members), PDBs 
+themselves, MDBs, bank coalitions/networks, regulators, credit rating agencies, technical assis -
+tance providers and development partners. When collated together, they suggest a focus on four 
+main areas.
+The four main areas that the report and the recommendations cover are:
+(see also Figure 1)
+Executive Summary
+3 4 
+3 PDBs are typically state-owned financial institutions with a mandate to deliver on public policy objectives that normally 
+support the economic development of a country or region. This policy mandate distinguishes them from other kinds 
+of state-owned financial institutions, such as state-owned commercial banks or insurance companies. PDBs focus on 
+financial returns but profit is not the overall goal of their activities. National PDBs can operate sub-nationally, nation-
+ally-only, and nationally and regionally, or be regional or global institutions typically called Multilateral Development 
+Banks (MDBs) - adapted from Eurodad, 2017.
+4 The Finance in Common Coalition (FiCS) is a ‘global gathering of all Public Development Banks (PDBs), which promotes 
+coherence in their strategies and operations, by accelerating their convergence towards the SDGs through shared 
+standards and best practices’ (FiCS Report to the G20, July 2022).
+Executive Summary9
+PDB mandate, strategy, and governance aligned to SDGs: 
+Support needed to enable PDBs to integrate SDGs throughout their organization’s 
+strategy and operations 
+Lending and guarantees, pricing and currency risk: 
+Challenges and risks PDBs face in scaling sustainable financing at the local level
+Data, measurement, impact and taxonomies: 
+On the need for harmonized taxonomies in measuring impact
+Effective collaboration and international support: 
+PDBs’ needs for collaboration with and support from the international 
+and development community
+1
+Executive Summary10
+PDB mandate, 
+strategy and 
+governance 
+aligned to 
+SDGs
+Lending and 
+guarantees, 
+pricing and 
+currency risk
+Data, 
+measurement, 
+impact and 
+taxonomies
+Effective 
+collaboration 
+and 
+international 
+support
+Recommendations 
+to improve PDBs’ mandates, strategies and governance aligned to SDGs
+5 
+5 FICS (2022) 
+Figure 1: Four main focus areas for PDB challenges and solutions
+01
+02
+Align PDBs’ mandates and activities with the Paris Agreement and SDGs by 
+providing them with right incentives, shifting away from investments that are 
+not compatible with a just and inclusive transition towards sustainable, low-carbon 
+and resilient development trajectories. For example, climate finance now accounts 
+for 20% of total commitments made by IDFC members on average. If PDBs were to 
+commit to a similar ratio, they could extend more than USD $500 billion of climate 
+finance per year and mobilize much more through the private sector5.
+Pursue an integrated approach to net impact, combining negative screening 
+with positive assessment of impact rather than having many separate processes 
+towards achieving SDGs both at a strategic and project level. The interdependence 
+between the SDGs is still a particularly difficult issue for PDBs. Greater awareness 
+plus new tools to manage potential trade-offs between equality, gender, poverty, 
+unemployment, climate and environment are important. The huge challenges coun-
+tries face, exacerbated by COVID, make it even more important to address potential 
+trade-offs and ensure that a focus on vital issues like gender-based violence is not 
+lost in big picture debates on the SDGs.
+In general, the results of the interviews and survey demonstrated a common understanding 
+and agreement regarding the importance of aligning with the SDGs and the Paris Agreement 
+at a strategic and ambitious level, while signaling a range of important challenges, as well as 
+good practices and opportunities including for future support from partners in the development 
+community. 
+AREA 01 AREA 02 AREA 03 AREA 04
+Executive Summary11
+04
+03
+05
+06
+07
+Enable PDBs by providing them lower-cost finance, given that they are trying to 
+support development objectives, but often through recipients that are heavily focused 
+on short-term survival. At the moment, there is often no difference between the costs 
+of ‘normal’ funding and sustainable loans, meaning there is not much incentive for 
+recipients to take the sustainable loans if reporting or other requirements are more 
+demanding. Since PDBs do not have individual customer deposits as a source of 
+low-cost financing, they can be at a disadvantage compared to commercial banks. 
+Furthermore, engagement with Credit Rating Agencies may be important so that they 
+do not reduce a PDB rating as it aligns to SDGs, which would increase PDBs’ cost of 
+capital.
+Support for longer-term finance in addition to lowering the cost, because the 
+long-term investments and longer-term payoffs that can be associated with SDG 
+alignment need to be matched by longer-term funding to help the business case. 
+Too often the funding is too short-term.
+Support PDBs in dealing with currency risk when receiving support in US dollars 
+or other international currencies but lend-on in local currency (LCU).  Most PDBs, 
+and especially smaller national or sub-national PDBs in developing countries, cannot 
+afford to hedge the currency risk when they receive support in US dollars from devel 
+opment partners but have to lend to national recipients in local currency. It is vital
+Enhance alignment of strategies between the national/sub-national govern -
+ment and PDBs. This can include increased dialogue between PDBs and national 
+authorities through engagement with Integrated National Financing Frameworks, 
+financing strategies and dialogue platforms, to enable  and strengthen PDBs’ specific 
+inputs into national financing and strategy development. In addition, this can help 
+Ministries of Finance, Environment and Development to shape well-aligned national 
+strategies that take each perspective into account. 
+Ensure sufficient training and support for PDB Board members, particularly 
+non-executives, who may change frequently due to political changes, but also for 
+staff more generally, so that they can understand the drivers for change and support 
+strategic reforms. PDBs asked for  comprehensive training, capacity development 
+measures, and clear support from the leadership is required alongside other key 
+changes highlighted in the recommendations.
+Recommendations 
+to improve lending, guarantees, pricing and currency risk
+Executive Summary12
+12
+11
+10
+09
+08
+Focus on issues that will attract the private sector to the field,  boost collabo -
+ration and potentially help evolve PDB business models where needed for the 
+future. One element is harmonized taxonomies (as above). In addition, bringing 
+the private sector - including commercial banks, investment funds, the pension and 
+insurance sector - and PDBs together more generally can help expand PDB impact, in 
+addition to closer links to the government and public sector actions outlined above.
+Develop clear definitions and taxonomies on common impact measurement 
+standards that link directly to the desired outcomes. These are pre-conditions to sup-
+port SDG-aligned projects and prevent green washing and social investment washing. 
+A strong push on a limited set of standards that can be implemented without great 
+cost would make implementation of lending policy much simpler.
+Promote harmonized taxonomies in particular to make more progress on 
+structuring asset classes because climate and social investment finance can scale 
+if financial actors can create transparent asset classes into which people can invest. 
+The asset classes should be well-designed so that they do not negatively impact other 
+SDG targets and transparently deliver positive impact.
+Support improved data and reporting for PDBs and clients, through technical 
+assistance and direct support to priority sectors to improve data and reporting, par-
+ticularly on gender. This is also important because collecting additional data to track 
+alignment with SDGs can raise costs.
+Recommendations 
+to improve data, measurement, impact and taxonomies 
+Recommendations 
+to promote effective collaboration and international support
+Enable access to affordable experts to provide technical assistance to enhance 
+PDB capacity and that of project partners, whether from domestic or international 
+sources.
+for the G20 and others to cover or reduce the costs of this currency risk given PDBs 
+with projects in one country cannot diversify it.
+
+Executive Summary13
+13
+14
+15
+Enhance commitment from the development community, including the G20, to 
+support the mobilization of PDB and private finance even more given limited gov -
+ernment budgets badly affected by the pandemic. To achieve the SDGs by 2030, and 
+address pandemic recovery and a just transition, will be too difficult from fiscal space 
+alone. So, G20 and other international groups, including the MDBs, could continue 
+to boost the profile and need for engagement with PDBs and coordinate amongst 
+themselves to reduce overlap and ensure maximum impact. 
+Ensure it is simpler to deploy funds provided by international partners and 
+that consistent financing operates alongside the flexibility to fund new and 
+innovative approaches.  For some funds, the accountability mechanisms are so 
+cumbersome that it stops facilities from being used. In addition, some PDBs find 
+that funding does not last long enough to achieve results, whilst others wanted more 
+rapid transfers of resources to emerging priorities and innovative approaches.
+Apply more emphasis on subnational capacity and the ability to focus on local 
+level.  Building on strong knowledge of local market stakeholders, PDBs and Subna-
+tional Development Banks can play a critical role to bridge the subnational financial 
+gap. This local knowledge can relate to key gaps for intervention in different parts of 
+a country and help external investors not duplicate existing initiatives or repeat past 
+mistakes. It can also be to create the delivery partnerships that will ensure a project 
+is successful, including engaging local stakeholders, and especially women and those 
+who may not traditionally have a voice in the development process. Finally, there can 
+be benefit for data project monitoring and evaluation.
+Introduction14
+The United Nations Development Programme (UNDP) has worked with the Finance in 
+Common initiative (FiCS) to highlight the experiences of public development banks (PDBs) 
+in scaling sustainable financing. This report explores the key challenges for PDBs as they 
+move toward alignment with the Sustainable Development Goals (SDGs); the role of PDBs in 
+scaling financing in an affordable way, particularly in emerging economies, to deliver inclusive, 
+equitable and sustainable growth; good practices PDBs have already developed; and what 
+national and international actors can do to further enable and scale their work.
+Well-run PDBs can serve as game-changers, not only thanks to their financing power, but 
+also because they have a variety of levers for action. They can finance and foster low-emis-
+sion and climate resilient investments by providing lower-cost and longer-term financing. 
+They can be catalysts of external public and private finance and act as early investors to prove 
+commercial viability. PDBs also engage in public policy dialogue to support the development of 
+an enabling policy environment to attract private investment. This was one of the reasons the 
+report of the Secretary General on the International Financial System and Development in 2022 
+specifically highlighted the role of the PDBs and made recommendations for how to enhance 
+their role (UN 2022).
+PDBs manage USD 23 trillion of total assets. They provide up to USD 2.7 trillion of annual 
+investments, out of which more than 83% is from PDBs from G20 countries. This represents 
+approximately 12% of total global investment and has grown 15% between 2019 and 2020 
+(FiCS 2022). As of 2022, there are more than 550 PDBs in the world, of which 90% are national 
+development banks only and 10% have international activities. Hence, they are an important 
+part of the national and global financial landscape and a crucial partner in sustainable finance.
+Introduction
+2
+Introduction15
+a6 
+6 The Secretariat for FiCS has its headquarters within the AFD in Paris.
+FiCS is a unique global network, which brings together in a concrete and collaborative 
+way key stakeholders from a wide range of countries across all regions 6. The work of 
+FiCS reinforces the coherence in PDBs strategies and operations in developing and emerging 
+countries by accelerating convergence to shared standards and best practices. It disseminates 
+knowledge and expertise on shared priorities and facilitates the identification of co-financing 
+opportunities in countries or regions of common interest. Finally, FiCS supports the emergence 
+of a global financial framework for green and SDG aligned investment.
+In 2021, the G20 acknowledged FiCS by recognizing “the important role of PDBs towards 
+the achievement of the SDGs and the Paris Agreement” and asking it to report its progress 
+in 2022”. As entrusted by the G20 Sustainable Finance Working Group (SFWG), UNDP helped 
+define the G20 Sustainable Finance Roadmap, which frame current and future efforts by 29 
+major economies to accelerate financial, fiscal and economy policy choices in line with the SDGs. 
+The roadmap outlining five key focus areas with multiple individual actions for each helped 
+provide an overall framework in which to place the results set out in this paper. 
+Research Approach16
+This paper is the result of a series of in-depth interviews with 11 national PDBs 7 , along-
+side a survey completed by 28 PDBs (plus 7 MDBs as a reference) as members of the FiCS 
+Coalition. It aims to supplement the growing body of knowledge on the importance of PDBs 
+in financing the SDGs yet focus on national and sub-national PDBs in developing countries 
+who often do not get central attention in policy discussions, and represent their challenges, 
+progress, and experiences in scaling sustainable financing at the country, local level. With such 
+an aim, potential PDB interviewees across different sizes, ages, and histories were selected to 
+give a broad spread globally, and interviews were conducted among those who accepted the 
+invitation within the research window. In parallel, interviews with non-PDBs were conducted to 
+supplement the research8. 
+The interviews were based on 8 questions with a general introduction to the nature and 
+history of the organization followed by the core question set. It focused on reforms and 
+challenges to meet the SDGs already overcome or in progress, remaining barriers with a specific 
+request for case studies on how the PDBs had improved their contributions to the SDGs, and 
+how the G20 and SFWG could support further advances.
+The survey was designed to broaden and supplement the discussions both from the interviews 
+and literature. It was shared with the members of the FiCS via its Secretariat and the regional 
+PDB networks9  during the month of August 2022 for anonymous and voluntary participation. 
+7 8 9 
+7 Development Bank of Namibia (DBN), Development Bank of Rwanda (DBR), Development Bank of Southern Africa 
+(DBSA), Indonesia – PT Sarana Multi Infrastruktur (PTSMI), Industrial Development Bank of Türkiye (TSKB), Morocco 
+– CDG Capital, Argentina - Banco de Inversión y Comercio Exterior (BICE), Brazil São Paulo – Desenvolve, Mexico – 
+Nacional Financiera (NAFIN), France – Agence Française de Développement (AFD), Italy – Cassa Depositi e Prestiti 
+(CDP)
+8 Interviews with non-PDBs included Innovation, Research and Knowledge department of AFD, Natixis Corporate and 
+Investment Banking and IDDRI Research.
+9 Nine regional and international PDB networks are part of the FiCS Executive Committee: i) Association of African 
+Development Finance Institutions (AADFI); ii) Association of Development Financing Institutions in Asia and the 
+Pacific (ADFIAP); iii) Association of National Development Finance Institutions in Member Countries of the Islamic 
+Development Banks (ADFIMI); iv) Latin American Association of Development Financing Institutions (ALIDE); v) 
+European Association of Public Banks (EAPB); vi) Association of European Development Finance Institutions (EDFI); 
+vii) European Long-Term Investors Association (ELTI); viii) D20-Long-Term Investors Club (D20-LTIC); ix) International 
+Development Finance Club (IDFC)
+Research Approach
+3
+Research Approach17
+Given the research focus on the national and subnational PDBs, their responses are mainly 
+shown in the analysis section. MDBs’ responses were taken as a reference, but when there were 
+differences from national PDBs, these are set out in the text. Annex A and B have full set of the 
+interview and survey questions respectively. 
+The paper is not intended to summarize the state of the broader literature or to compare the 
+PDB views with that literature, but the research drew on this knowledge base to help design the 
+interviews and the survey10.  The paper also notes that PDBs at different stages on the reform 
+journey, so despite responding on the same issue, one would be more comprehensive than 
+another. However, the paper aims to highlight the issues raised rather than provide an exact 
+benchmarking. Also, given the voluntary nature of the survey, there is some selection bias in the 
+respondents, for example, there is a relatively high weighting of PDBs from Latin America com-
+pared to Middle East and North Africa (MENA). But given most interviewed PDBs representing 
+fair global representation also filled out the survey including CDG Capital in Morocco and TSKB 
+in Türkiye, there was partial coverage of the wider region. 
+10 
+10 The FiCS website hosts a wide range of publications from FiCS members and associated researchers at https://
+financeincommon.org/publications. FiCS also hosts an annual Summit with a linked Research Conference which 
+showcases new work on PDBs. The major multilateral development banks (MDBs) also publish research on the role 
+and experience of PDBs and MDBs. Finally, there are a wide range of research institutes, practitioners and univer-
+sities conducting relevant research. See for example the special edition of the Review of Political Economy, Vol 34, 
+2022 Issue 2 for latest research and references, Griffith-Jones and Ocampo (2018), Euroadad (2017) or IDDRI (2020).
+Summary of PDB cases:  experiences and good practices18
+Summary of PDB cases: 
+experiences and good practices
+Summary of PDB cases:  experiences and good practices18
+PDBs were asked to provide an example that could illustrate what their organization had 
+done to help move towards achieving the SDGs. For many, it was difficult to identify only 
+one, and there are many more interesting examples on their linked websites. More details are 
+provided throughout the document, but in summary: 
+A project preparation platform to originate projects to improve the quantity and quality of 
+projects and to increase the likelihood they will have a positive impact through a more proactive 
+approach.
+The way it maps SDG impact within sub-themes so that as TSKB sets the targets for SDG impact 
+almost 90% of the lending book cover one or two of the SDGs. TSKB also quantifies lending 
+targets for SDGs as part of the process.
+Shift from no green-financing strategy in the country to aligning the Bank as a climate and 
+green finance institution that links to national priorities. They now have policies and procedures 
+to align with safeguards on the environment from international best practice and are seeking 
+accreditation from the Green Financing Initiative.
+South Africa Climate Finance Facility (CFF) is a lending facility intended to increase climate 
+related investment in Southern Africa by addressing market constraints with a catalytic role 
+with a blended finance approach. The CFF will use its capital to fill market gaps and crowd-in 
+private sector. It will also have gender-related benefits since women are disproportionately 
+vulnerable to climate change impacts.
+They used a new credit enhancement to support a renewable energy client who wanted to issue 
+bonds. PT-SMI arranged a standby facility to support payments if the project could not find 
+sufficient cashflow which allowed the credit rating to rise from A- to AAA.
+Development Bank of Namibia (DBN)
+Industrial Development Bank of Türkiye (TSKB)
+Development Bank of Rwanda (DBR)
+Development Bank of Southern Africa (DBSA)
+PT Sarana Multi Infrastruktur (PTSMI) Indonesia
+4
+Summary of PDB cases:  experiences and good practices19
+Development and financing of a desalination plant that provided drinking water for local pop-
+ulation to provide a clear social payoff, but also protected the supply of water for farmers to 
+support food production and economic livelihoods.
+Their new ‘Green Line’ financing and support facility which now forms a significant percentage 
+of new investment and supports companies to invest in projects that will improve costs and 
+energy efficiency.
+Alignment of gender equality and lending to SMEs, with a financial line to support women-con-
+trolled SMEs. To be able to take the loan the female CEO had to enter the number of women 
+and reach the threshold for the percentage of shareholders who were women. This was part of 
+its broader focus on aligning lending with the SDGs.
+A project in Egypt with a holistic/systemic approach to the financial system where they sup -
+port supervisory authorities such as the banking and financial markets supervisors to embed 
+sustainable principles within the regulations – e.g., disclosure, stress testing, asset class devel-
+opment. By supporting public financial actors they can have a catalytic impact on the overall 
+financial system .
+The new NAFIN Sustainability Fund, supported in its creation as an innovative legal and financial 
+instrument by the UNDP’s BIOFIN initiative, working alongside the Ministry of Environment on 
+a project supported by the World Bank Group, to enhance the way in which they can support 
+investment in companies to boost environmental outcomes.
+CDP , in its role as Italy’s Development Finance Institution, signed a €100 million loan in August 
+2022 with the Africa Finance Corporation (AFC). AFC is one of the major multilateral development 
+banks operating in the African continent, whose shareholders include over 30 states, as well 
+as leading African financial institutions. This first collaboration between CDP and AFC targets 
+investments in the fields of renewable energy, energy efficiency and sustainable infrastructure 
+in Africa, contributing concretely to SDGs 7, 9, 13 and 17. 
+CDG Capital Morocco
+Banco de Inversión y Comercio Exterior (BICE) Argentina
+Desenvolve SP (São Paulo) Brazil
+Agence Française de Développement (AFD) France
+Nacional Financiera (NAFIN)
+Cassa Depositi e Prestiti (CDP) Italy
+11 
+11 This focus on the potentially broader impact regulation was mirrored in UNDP’s advisory support to China’s Nation-
+al Association of Financial Market Institutional Investors, the self-regulatory organization of China OTC financial 
+market. The work focused on guidance for Social Responsibility Bond and Sustainable Development Bonds. The 
+guidance incorporates key components of the UNDP SDG Impact Standards, and the SDG Finance Taxonomy - for 
+example, principles including Do No Significant Harm (DNSH), serving vulnerable groups, as well as considerations 
+of using SDG targets as impact indicators.
+Research analysis and key findings 20
+Research analysis and key findings 
+Research analysis and key findings 20
+This section provides a synthesis analyzing both responses from the interviews and survey 
+aligned to the four main pillars of the recommendations, as listed in the Executive Summary. 
+This is complemented by interviews with experts and previous literature. It also explains PDBs’ 
+case studies in more detail and introduces several partnership and support opportunities that 
+could support such initiatives.
+5.1 PDBs mandates, strategies and governance aligned to the SDGs
+There was broadly a positive link between SDGs and the current work and mandate of the 
+PDBs. For example, in relation to the survey question on whether the organizations mandate 
+prioritized climate actions and the SDGs at all levels, 25 out of 28 or 89% said that it did (Annex 
+C, Figure 2), however, there were more challenges when the questions dug below the surface. 
+First, most noted that some form of regulatory change to ensure greater alignment with 
+not only climate and environment but also the social aspects of the SDGs would be useful. 
+For some, such as CDG Capital in Morocco, the SDGs were in effect always a core part of their 
+business model.  Indeed, its mission is to be a corporate and investment bank at the service 
+of the sustainable development of the national economy and its financial market.  For others, 
+significant reform and renewal was and is a core part of their aim to boost their impact on 
+the SDGs, despite successes already. One example is BICE from Argentina which is starting a 
+transition in name and through regulatory change to be the Development Bank of Argentina, 
+to move beyond its original history as an investment and external credit bank. For CDP in Italy, 
+being founded as Italy’s National Promotional Institution meant it already had a public mandate 
+to promote sustainable growth although on the domestic market. It only formally became a 
+Development Finance Institution (DFI) with a development role outside of Italy in 201512.
+5
+12 
+12 CDP Becomes New Italian Development Finance Institution (DFI)
+Research analysis and key findings 21
+In the literature and other surveys, a key concern raised is that an organization can appear 
+to have strategic alignment with the SDGs, but this can be very much a retrospective 
+exercise to map its activities to the SDGs, rather than a fully alignment created as a core 
+part of the strategy process. In some cases, this could be ‘green-washing’ or ‘SDG-washing’. In 
+other cases, it could be that there was a sincere attempt to start taking into account the SDGs 
+but that, thus far, this had not permeated through the whole organization and reached the level 
+of decision making on project approvals. For this reason, the survey asked a direct question on 
+this issue. This is set out in Figure 3. This shows much more nuance about SDG alignment into 
+strategy. 50% of PDBs said that the SDGs were fully incorporated into organizational strategy, 
+and 36% said the SDGs were partially incorporated. 14% said there was limited or no mapping. 
+This fits more closely the results from the interviews and other reports where some organiza-
+tions had made significant progress, whereas others had started with a set of issues – often on 
+the environmental side – but had not moved to full and broad alignment yet.
+Figure 3: SDG alignment as a core part of the organizational strategy
+PDBs were also asked to self-benchmark their progress over the past 5 years in four areas 
+using the framework developed in the European Think Tanks Group report (2021): (i) lead inter-
+nally and foster a sustainable development culture; (ii) develop a holistic strategy and long-term 
+vision; (iii) mainstream SDG priorities within internal operations; and (iv) mobilize and catalyze 
+transformational investment13. 
+13 4
+13  ETTG-study-Financing-the-2030-Agenda-An-SDG-alignment-framework-for-Public-Development-Banks.pdf
+Research analysis and key findings 22
+14 15 
+14 Note that a few responses are being checked for the ‘Internally Leading and Fostering Culture’ question as they 
+appear to rate performance now lower than before. Some PDBs have confirmed it was an error and updated the 
+responses which are included but checking is still in progress.
+15 A growing number of financial centres have responded to the survey year after year, from 12 in its first edition 
+(2018), to 20 in 2019, 24 in 2020 and 29 in 2021. This is a response rate of 75% of a growing network membership 
+in 2021 (39 members as of end 2021, vs. 36 members when the survey was launched that year).
+There were modest improvements in average performance, and reduction in the number 
+of PDBs reporting very low scores against the four different elements (Annex C, Figure 
+16-19). This fits with a narrative that fewer organizations are still waiting to start the journey on 
+SDG alignment, which helps to pull up the tail of the lower performers. That said, it is important 
+to remember that the survey was voluntary and hence has selection-bias. But equally it is inter-
+esting that the self-assessment was so low in many cases 5 years ago (and still in some cases)14.
+There was most significant progress on ‘developing a holistic strategy and long-term 
+vision linked to the SDGs’ whereas least progress was in the ‘lead internally and foster a 
+sustainable development culture’, and the other two areas were in the middle. Focus on 
+culture was less pronounced in the interviews and survey, hence not included in one of the main 
+pillars of the recommendations, but it shows that there is a challenge of translating a strategic 
+vision into the ‘hearts and minds’ of an organization. 
+In terms of SDG alignment, for the first time in 2021, the UNDP Financial Centres for Sustain-
+ability (FC4S) Network measured the level of involvement of each one of the SDGs, both at the 
+financial centre and the country level planning and development processes, within its Assess-
+ment Programme15. Findings showed that SDG 13 (climate action) leads with 83 percent of 
+responding financial centres considering it,  followed by SDG 9 (industry, innovation and 
+infrastructure) and SDG 8 (decent work and economic growth) with 76 percent each. Neverthe-
+less, although almost half of the financial centres surveyed reported using all 17 SDGs while 
+setting their strategies and plans, they infrequently measure and disclose progress against 
+them, suggesting an initial level of consideration. 
+ 
+Despite significant progress, the Covid pandemic has emphasized for some PDBs even 
+more the need to work on the trade-offs between the SDGs and have a robust way of 
+taking investment and strategy decisions both in the short-term but also in the long-term 
+for more a more durable transformation. 
+CDG Capital, Morocco The work of CDG Capital provides an interesting example on 
+trade-offs between SDGs. They structured and financed a large new desalination 
+plant within a PPP scheme, serving both needs of local population, by providing 
+them with access to clean drinking water, as well as farmers, by helping them 
+maintain and develop their business. Thus, the project played a strong social and 
+economic development role, although, at this stage, the plant is powered by the 
+grid which has a mixture of fossil fuels and renewable sources.
+CASE: CDG Capital, Morocco
+CASE 01
+Research analysis and key findings 23
+This is perhaps one of the toughest areas faced by PDBs, and one where the need for new 
+tools and approaches is most needed. In this context, the work by AFD on its ‘Sustainable 
+Development Analysis and Opinion Mechanism’ is particularly useful (AFD 2022).  DBSA noted 
+how important it was to ensure that there was an appropriate balance in the focus on social 
+and poverty issues and environmental issues – as well as emphasizing that in many cases 
+the trade-off may not exist in reality but be an issue of perception by the public, the media 
+or politicians. But even in these cases, it was important to focus on proactive education and 
+communication – from Board members to staff and to potential recipients.
+The work of the AFD and the IDFC to develop toolkits to help alignment and mea-
+surement are an important part of embedding strategic change in PDBs. Figure 
+2 shows the process to support the use of the AFD’s ‘Sustainable Development 
+Analysis and Opinion Mechanism’ so that SDG alignment can be embedded in 
+the project cycle.
+CASE: AFD, France
+CASE 02
+Figure 4: AFD’s SDG Alignment Tool and Process
+Source: AFD
+Research analysis and key findings 24
+Furthermore, some, but not all PDBs, were developing closer alignment with the national 
+development priorities of their countries. This was part of the reforms underway in Rwanda 
+and an on-going process for the Development Bank of South Africa. NAFIN in Mexico explicitly 
+link their activities to Mexico’s ‘Nationally Determined Contribution’ under the Paris Agreement 
+(NAFIN, 2021). This highlights that when a national government – including a G20 government 
+– makes commitments towards the SDGs and implements this as part of its national plan there 
+can be a dual pay-off from the knock-on effect on the activities of a PDB – particularly if govern-
+ments make it simple for PDBs to understand the specific actions they can take.
+The survey also suggests a mixed picture with 50% of PDBs showing close links to both the 
+global SDGs and the national strategies from their respective governments including the ‘Vol-
+untary National Reviews’ in which countries review their own progress against the SDGs16. 50% 
+of PDBs suggested no link to these national articulations (Annex C, Figure 5). This could be 
+because the PDB started work on alignment ahead of the respective national government, or 
+that the national documents do not necessarily have the detail or clarity needed to help a PDB 
+‘cascade’ down its own objectives from the global to the national and then to itself as a specific 
+institution. However, it does highlight the issue of the ‘line of sight’ from global to local that 
+many of the PDBs highlighted as important – and an important rationale for why they should 
+be supported by multilateral and external actors.
+Improving strategic alignment for the PDBs with national priorities and the SDGs was a 
+recurring theme of strategy development and planning undertaken in the past 5 or more 
+years. For example, the Development Bank of Rwanda case study could be on their funda -
+mental reforms in strategy (as well as personnel) in the past 3 years. Previously their activity 
+was not really aligned to the Government’s plans or to the international stakeholders in terms 
+of the SDGs. Interestingly, the recent extensive reforms did not need any change in mandate – 
+just the creation of a new, clearer and more aligned strategy which took the SDGs and national 
+priorities and showed how they could be supported by specific activities by the bank. To match 
+international areas of interest clearly it was important that the national government strategy 
+was also linked to the SDGs. On the other hand, CDP Italy brought SDGs into its by-laws in 2021, 
+embedding sustainability into daily responsibilities across the bank. CDG Capital in Morocco 
+identified 12 of the 17 SDGs that are critical to their activities and the Executive Committee 
+Board is now tasked with following up progress on the action plan. In South Africa’s DBSA, the 
+new strategic model is known as the ‘Integrated Sustainable Development Approach’. It provides 
+the overall framework and will consolidate the effort into a coordinated net zero pathway – with 
+multiple initiatives driving the transition agenda – now and in the future.
+16 
+16 “Voluntary National Review (VNR) is a process through which countries assess and present national progress made 
+in implementing the 2030 Agenda, including achieving its 17 Sustainable Development Goals and the pledge to 
+leave no one behind. The purpose of VNRs is to present a snapshot of where the country stands in the implemen-
+tation of the Sustainable Development Goals, with a view to help accelerate progress through experience sharing, 
+peer-learning, identifying gaps and good practices, and mobilizing partnerships”.
+ https://www.ohchr.org/en/sdgs/voluntary-national-reviews 
+Research analysis and key findings 25
+ 
+The relevance of other reviews and national policy documents was specifically asked 
+also in relation to the Nationally Determined Contributions (NDC) 17 and the ‘Long-term 
+low green-house gas emissions development strategies’ (LTS) 18. These documents to be 
+produced by national governments are both part of the Paris Climate Agreement (voluntary) 
+commitments to set out how a country will meet the overall commitments and/or specific strat-
+egies in relation to emissions. From the survey results, these have so far not proved to be an 
+important input for PDBs in updating and aligning their strategies to the SDGs (Annex C, Figure 
+6). A significant majority – 61% - said that neither document was mentioned in the PDB strategy. 
+To some extent this is to be expected, since many of the PDBs highlighted that it was already a 
+very challenging task to try and deal with the 17 SDGs and the 169 targets contained within the 
+Sustainable Development Goals. On the other hand, for a PDB seeking to show its relevance 
+to its national government and secure resources, showing how it is aligned to such national 
+strategies and can help the government achieve its international aims could be very useful.
+17 18 
+17 The Paris Agreement requests countries to submit a Nationally Determined Contribution (NDC) to set out their 
+commitments to reduce greenhouse gas emissions and strengthen resilience to climate change. They are voluntary 
+but expected to articulate how a country will achieve its commitments. https://unfccc.int/process-and-meetings/
+the-paris-agreement/nationally-determined-contributions-ndcs/nationally-determined-contributions-ndcs 
+18  Quality Assurance Checklist: For Long-Term Low Greenhouse Gas Emission Development Strategies | United Na-
+tions Development Programme (undp.org)
+Research analysis and key findings 26
+In the 2015 Addis Ababa Action Agenda, UN member states called for the development of 
+Integrated National Financing Frameworks to support nationally owned sustainable 
+development strategies. These INFFs are designed to address the gap between national 
+aspirations for sustainable development and the policies, instruments and standards that 
+are needed to realize the necessary public and private investments. 
+ 
+Eighty-six countries are now using the INFF approach to shape a more sustainable 
+financing architecture at the country level. By providing a systematic analysis to better 
+mobilize and align capital with the SDGs for both public and private sector, INFFs help 
+countries identify and prioritize the changes to policies, regulations, instruments, and 
+institutions within a financing strategy that can drive transformative SDG investment. 
+Among these eighty-six countries, forty are expected to develop such a financing strategy 
+in the coming year, and more than 250 financing reforms have already been prioritized for 
+immediate action. These reforms are designed to unlock new capital and promote greater 
+effectiveness and SDG impact in key areas of financing, through nationally-led, tailored 
+financing solutions. Mongolia, for example, was the first country to officially endorse its 
+INFF financing strategy, which aims to help the country meet the $15.7 billion cost of its 
+medium-term development plan. Designed to increase financing sources, promote align-
+ment and increase impact, the financing strategy sets out a range of reforms to public 
+and private finance. Among these are both strategic and operational changes that the 
+Development Bank of Mongolia has implemented to enhance the way that it manages 
+its portfolio in relation to national sustainable development objectives. 
+IFIs including PDBs have a key role to play in strengthening SDG financing at the 
+country level, and INFFs offer an important platform for deepening collaboration.  
+As financing strategies are designed, IFIs including PDBs can feed in their perspectives 
+and evidence on the major challenges, opportunities and solutions for mobilizing and 
+aligning capital with the SDGs. They can provide technical inputs in costing, expenditure 
+and accountability assessments, financial sector development assessments, and a range of 
+other technical tools. They can also shape and champion the potential impact of reforms 
+prioritized through INFF processes, demonstrating their benefits and supporting implemen-
+tation across the wider financial system at the country level. This engagement is growing. 
+IFIs, for example, are increasingly actively supporting INFF processes in a variety of ways 
+in more than 50 countries. This includes engagement by the World Bank in more than 40 
+INFF processes, by the IMF in more than 25 and other MDBs such as the Asian Development 
+Bank, Islamic Development Bank and African Development Bank in more than 30 INFFs.
+Integrated National Financing Frameworks (INFFs) as a
+platform for PDBs to align their mandates, strategies, 
+andgovernance with national development priorities
+BOX 1
+Research analysis and key findings 27
+Additionally, governance, or corporate governance is a key area of focus in all financial 
+institutions, from the international standards on banking, insurance or pensions through 
+to the standards for Social Security Institutions. Good governance is no less important for 
+the PDBs. A recent report (Attridge and others, 2021) highlights that higher levels of political 
+influence through political appointments are associated with weaker financial performance. 
+On the one hand, political influence can help align Government development goals with a 
+bank’s financial lending – and this alignment is important. But there can be risks in relation 
+to the long-term goals on sustainability if political appointees don’t have this long-term view, 
+meaning that sustainability priorities could change between political cycles and hence prevent 
+real integration of sustainability in PDB operations. Weaker financial performance for these 
+reasons could therefore be associated with a sub-optimal impact performance. 
+Some PDBs highlighted progress on governance – with improvements in the range or depth 
+of expertise particularly in the executive management teams - or development of new Board 
+structures and committees to embed new top-down direction to an SDG related change pro -
+gram. CDP in Italy extended the Board Risk Committee scope to include sustainability as part 
+of its reform process. TSKB, Türkiye has a Sustainability Committee under its board of directors. 
+Half of the board of directors are also members of the Sustainability Committee, including 
+TSKB’s CEO, to ensure the changes are driven by the leadership. 
+However, there is a continued need and challenge to boost human capital – sometime in 
+the Boards, sometimes in PDB staff and sometimes in potential credit recipients.  This was 
+why many PDBs highlighted the importance of internal or external technical advisory support 
+that they offered as part of their overall package. In some cases, this need for the right people 
+with the right skills was exacerbated by rapid turnover of senior staff – which also had broader 
+implications in terms of the ability to set and implement strategy.
+ 
+Improving human capital to support strategic change came from hiring new people, but 
+more often extensive training for existing staff. CDG Capital, Morocco, for example, has 
+called on external expertise when needed but has also put in a lot of effort on training and 
+uplifting skills. Most PDBs highlighted that to embed a new SDG linked process in the organiza-
+tion required a ‘hearts and minds’ approach as well as technical training for the staff working in 
+the project preparation and credit allocation process – as well as changes to Board governance 
+and project approval processes. But a number had already conducted SDG training for staff, 
+both general and focused on specific roles.
+Overall, key common feature was that all the PDBs are currently evolving and taking 
+active steps to improve alignment with the SDGs. In other words, there was none that 
+felt it was in a  steady state where they had achieved all they wanted in relation to the 
+SDGs. For some, like the Development Bank of Rwanda, this was part of a wholesale reform 
+and fundamental reshaping of the whole organization in the past few years, after over 50 years 
+Research analysis and key findings 27
+Research analysis and key findings 28
+of operation. This involved a new Board, a new strategy and a change program to support the 
+delivery of the new approach. For others, the changes were more evolutionary, forming part 
+of successive strategy cycles and building in importance over time such as TSKB in Türkiye, or 
+AFD in France. But for all the 11 interviewees, it was clear that the imperative of the SDGs was 
+driving changes, even though at different speeds.
+5.2. Lending, guarantees, pricing and currency risk
+One common theme was progress on reaching back up the project value chain so that the 
+PDBs were more proactive in developing a larger and higher quality pipeline of investible 
+projects throughout their portfolio against the top challenge on the developing a compre-
+hensive portfolio with an SDG rather than a pipeline of good individual projects (Figure 7).
+Figure 7: Top 3 challenges to promote, develop, and implement changes to support SDGs
+This was raised by many of the PDBs, including the Development Bank of Namibia, and PT-SMI 
+in Indonesia who have increased their focus on feasibility studies and issues such as clear 
+power purchase agreements to support renewable energy as a specific and technical area on 
+which progress was needed to make projects simpler to finance and hence to improve that 
+particular project pipeline. Credit enhancement in a renewable energy project in the Tamaris 
+Hydro (electric) power project allowed the rating of the project bonds to increase from A- to 
+AAA, a full 6 steps to the highest bond rating.
+Research analysis and key findings 29
+Figure 8: PT-SMI’s Blended Finance Structure in the Geothermal Sector
+PT-SMI, Indonesia The technical assistance aspects of project development 
+support to improve project flow can also be enhanced by finance for project 
+development costs, including the potentially risky exploration phase of project 
+development. In relation to developing geothermal power, PT-SMI designed an 
+instrument that can supply a 100% loan for exploration with 50% forgiveness if 
+the company cannot find the right entry point for viable access to geo-thermal 
+activity. This was a vital innovation because there is huge scope for the use of 
+geothermal power in Indonesia, with obvious payoffs for the environment, as 
+well as to reduce dependence on externally sourced power and the potential to 
+create jobs locally. However, the process of finding a viable access point to the 
+geothermal power that can be used at scale is complex and subject to significant 
+risk. Hence the new facility helps to increase finance by enhancing the credit 
+rating of bonds for the activity and will flow directly into meeting the SDGs. Figure 
+3 shows a schematic of the project, including the multinational cooperation 
+alongside PT-SMI. 
+CASE: PT-SMI, Indonesia
+CASE 03
+PT Sarana Mul� Infrastruktur (Persero)  |  15
+Blended Finance Structure to de-risk Exploration Stages of Geothermal Development
+Geothermal Upstream 
+Development Projects 
+(Government Drilling)
+1
+Waesano
+Projects 
+Manggarai Barat,
+NTT
+Geothermal Resource 
+Risk Mitigation (GREM) 
+(SOE Drilling)
+2
+Loan Facility 
+with De-risking 
+for SOE drilling
+Geothermal Resource 
+Risk Mitigation (GREM) 
+(Private Drilling)
+3
+100% PISP fund or 
+GREM
+Loan Facility with 
+De-risking from 
+donor fund
+Loca�on Wae Sano
+Province Nusa Tenggara Timur
+Poten�al Capacity 30 MW  
+Exploration Drilling cost USD 30.3 million
+Program Geothermal Energy Upstream 
+Development Projects (GEUDP)
+Showcase Blended Finance on Clean Energy Sector (De-risking):
+Blended Finance Structure in Geothermal Sector
+GREM
+Geothermal Resource 
+Risk Mitigation
+Public 
+Window
+SOEs
+50% 
+De-risking 
+Government 
+Fund
+50% 
+Blended Loan
+IBRD/GCF/CTF
+Private 
+Window
+Private 
+Sectors
+50% 
+Blended Loan
+IBRD/GCF/CTF
+50% 
+Financial Instrument 
+Reimbursable Grant 
+GCF/CTF
+CTF grant 
+USD 49 mill.
+GEF grant 
+USD 6.25 mill. 
+Co-financing
+USD 49 mill.
+TA grant 
+NZD 2.13 
+millions
+Public Sector
+Development 
+Financial 
+Institution
+Green fund 
+(Donor)
+Collaboration of Public Sector, DFIs and Donors to de-risk projects
+Source: PT-SMI
+Research analysis and key findings 30
+For a number of the PDBs, the development and placement of green and sustainable 
+bonds were identified as key milestones on their reform journey. For example, BDMG in 
+Brazil conducted the first private placement of a sustainable bond in the US by a Brazilian 
+development bank. TSKB in Türkiye highlighted that they were one of the first issuers of a green 
+bond in collaboration with the World Bank among many others and the allocation of proceeds 
+as well as the impact of bond utilization are reported19.
+A number of PDBs highlighted progress in building environmental, social, or full SDG 
+screening criteria into the credit allocation process, so that SDG alignment is a core part 
+of the process, not an ‘ex-post’ rationalization. For example, TSKB in Türkiye has very detailed 
+credit evaluation criteria which integrates environmental aspects and climate risk evaluations. 
+This is one way in which sustainability can be embedded into all businesses that are supported 
+by the Bank. AFD and DBSA were other examples of PDBs integrating SDG-related scoring into 
+project decisions, including as highlighted in DBSA’s case study.
+The Development Bank of Southern Africa highlighted action in this area through 
+its Climate Finance Facility (CFF). The CFF is the first time “green bank” model 
+applied to an emerging market, which is established specifically to facilitate private 
+investment into low-carbon, climate-resilient infrastructure in the four Rand (local 
+currency)-based economies in the Southern Africa region, including South Africa, 
+Namibia, Lesotho, and Eswatini. By using long-term subordinated debt and tenor 
+extension as two main credit enhancement instruments, CFF prioritizes investment 
+opportunities based on target country needs and priorities identified in NDCs under 
+the Paris Agreement and to meet the SDGs. The CFF raised an initial $110 million, 
+with DBSA and the Green Climate Fund (GCF) as two anchor funders. 
+CASE: DBSA, South Africa 
+CASE 04
+19 
+19 In related activity, in March 2021, UNDP supported China’s New Development Bank (NDB) to issue RMB 5 billion 
+(USD 747 million) SDG Bond in China to finance the country’s sustainable COVID-19 recovery. This is the first time 
+globally that a multilateral development bank has committed to adopt UNDP’s SDG Finance Taxonomy and Impact 
+Standards. The net proceeds from the bond will be used to finance sustainable activities or processes, and deliver 
+products, services or outcomes that benefit stakeholders and/or contribute to solutions related to SDGs in NDB’s 
+member countries.
+Research analysis and key findings 31
+Desenvolve São Paolo have a loan allocation program that has an explicit set 
+of metrics that need to be met in order to quality in relation to SDG criteria, 
+part of which has a focus on social issues including gender equality in business. 
+Figure 9 shows an extract from their framework, which draws out the gender 
+related metrics that are included in the social eligibility criteria. As shown in the 
+extract from their Social eligibility criteria, one criteria relates to business that 
+are majority owned by a women. A second relates to ‘medium-sized companies 
+owned by Afro-descendants’ to target another area of significant inequality.
+Case: Desenvolve SP, Brazil 
+CASE 05
+Figure 9: Gender-focused extract from Desenvolve SP Loan social eligibility criteria
+Reflecting one of the key issues raised for action below, the need to try and improve 
+the cost and duration of financing was repeatedly raised as a challenge for the coming 
+years. This issue was raised by TSKB and BICE, among others. The likely future rising path 
+for interest rates to offset inflationary pressures globally will make debates on the cost of 
+finance of increasing important in the coming years and hence the role for concessional finance 
+potentially more significant. The cost of finance has been debated for many years in relation to 
+development lending, including the work of the PDBs. Often the degree of concessionality will 
+depend on the level of GDP of a given country, and not according to the positive impact of the 
+project on a metric such as the SDGs. This is not a simple area, but the key point from the PDBs 
+was more the relative funding to commercial actors in their countries than the income-level 
+based allocation of resources.
+5.5 (Ensure women’s full 
+and effective participation)
+5.a (Undertake reforms to 
+give women equal rights to 
+economic resources)
+8.2 (Achieve higher levels 
+of economic productivity 
+through diversification, 
+technological upgrading, 
+and innovation)
+Loans or other financial support to MSMEs 
+that meet any of the following criteria:
+• Micro entrepreneurs (MEI), micro and 
+small companies with sales up to R$ 
+4.8 million, or
+• Medium-sized companies owned 
+by women, meaning 50% + 1 of the 
+shares are owned by a woman or 
+women: or
+• Medium-sized companies owned by 
+Afro-descendants, mening 50% + 1 of 
+the shares are owned by a person or 
+persons of African descent; or
+Research analysis and key findings 32
+One aspect of the cost of financing, in addition to the interest rate and term, was the need 
+to reduce transaction costs of accessing loans and de-risking mechanisms such as guar-
+antee funds. The volume of money available has increased for some PDBs, but the complexity 
+and delays in accessing it is an issue. This was particularly the case for the smaller PDBs. The 
+project documentation can be extensive, the time between submission to decision can be very 
+long and there can be many requests for extra information. Linked to the cost of funding 
+was how to deal with the currency risk when receiving external support in USD (or other 
+currencies) but lending-on in local currency. Given the very international and challenging 
+nature of this problem, it is no surprise that it was a key issue identified for the G20 and others, 
+rather than one on which there were clear plans that just had to be implemented. Continued 
+innovation in the availability of instruments and guarantee facilities more generally was also 
+identified as useful.
+The need to continue to boost project pipelines further to have more projects that are 
+bankable and can meet the criteria from development partners was raised by a number 
+of PDBs. Support to develop and prepare projects have helped, but PDBs still find that a lot of 
+potential partners e.g., in municipalities are not able to develop bankable plans – as raised for 
+example by BICE in Argentina.
+CDP , in its role as Italy’s Development Finance Institution, signed a € 100 million 
+loan in August 2022 in favor of the Africa Finance Corporation (AFC). AFC is one 
+of the major multilateral development banks operating in the African continent, 
+whose shareholders include over 30 states, as well as leading African financial 
+institutions. This first collaboration between CDP and AFC targets investments in 
+the fields of renewable energy, energy efficiency and sustainable infrastructure in 
+Africa, contributing to SDGs 7, 9, 13 and 17. In line with its new 2022-2024 Strategic 
+Plan, CDP’s initiatives promote inclusive growth of emerging markets and devel -
+oping countries, further expanding the impact of Italy’s international investments 
+and contributing to European efforts to implement key projects in Africa.
+The partnership with a leading African multilateral development bank allows CDP 
+to leverage AFC’s deep knowledge of the local context. This will help to finance proj-
+ects that are on top of Africa’s sustainable development and ecological transition 
+agenda, thus maximizing the impact on SDGs. Partnerships among Development 
+Finance Institutions builds bridges for development finance to effectively reach 
+emerging economies and mobilize resources where and when they are most 
+needed.
+Case: Italy, CDP 
+CASE 06
+Research analysis and key findings 33
+NAFIN is a good example of how work on green bonds can be extended as part 
+of alignment with the SDGs to support the placement of Sustainability Bonds. 
+After issuing the first green bond in Mexico in 2015 (for USD 500m), NAFIN issued 
+a second green bond in 2016 and in 2017 issued the first social bond in Mexico 
+for 4 billion Pesos (USD 200 m). NAFIN produced a comprehensive document to 
+show the link from the SDGs and the Mexican government’s national priorities 
+through into the work of NAFIN as a PBD. The bond was also reviewed by an 
+external party - Sustainalytics - who published a (positive) opinion on the bond 
+(Sustainalytics, 2021).  
+Case: NAFIN, Mexico 
+CASE 07
+5.3 Data, Measurement, Impact and Taxonomies 
+Nearly all of the PDBs highlighted the importance of developing data, monitoring and 
+evaluation as part of aligning the operation of the financial institution with the SDG agenda 
+yet progress on measuring and portfolio-level SDG alignment was less pronounced. This was 
+considered to be difficult and essential. DBSA in South Africa had put a significant amount of 
+attention into this area by increasing the collection of data directly and from recipients of sup-
+port, and the resources to monitor and evaluate the new data. BICE in Argentina had started to 
+pilot the use of explicit control groups to explore the real impact of interventions.  Some PDBs 
+had not historically even collected gender disaggregated data on the recipients or beneficiaries 
+of investments which clearly prevents any chance of monitoring or evaluating gender impacts.
+For all of the PDBs, greater transparency and reporting internally and externally have 
+been an important part of recent changes. CDP in Italy have put the actions they have 
+undertaken so far into an integrated report that was drafted in compliance with the Italian 
+non-financial disclosure decree and external standards. These included the Global Reporting 
+Initiative20(GRI) of the International Integrated Reporting Council 21(IIRC), the Sustainability 
+Accounting Standards Board22(SASB) and the recommendations of the Task Force on Climate 
+Related Financial Disclosures 23(TCFD).  The number of different initiatives, even if each is 
+bringing greater simplicity and clarity highlights the challenge for a smaller PDB and hence 
+the need for support and assistance. BICE highlighted the lack of a common taxonomy across 
+commercial banks, PDBs and other investors and no PDBs said that these issues were absent24.
+2021 22 23 24
+20 https://www.globalreporting.org/about-gri/ 
+21 https://www.integratedreporting.org/the-iirc-2/council/
+22 https://www.sasb.org/
+23 https://www.fsb-tcfd.org/
+24 In a related initiative, UNDP is partnering with the European Investment Fund (EIF) to develop its Impact Measure-
+ment and Management (IMM) to integrate SDG-aligned impact management into its investment portfolio, particu-
+larly in planned Guarantee Instruments under European Fund for Sustainable Development (ESFD). The model can 
+be scaled to other MDBs, DFIs, and financial institutions at global and country levels.
+Research analysis and key findings 34
+Figure 11: Rating from 1 – 10 of challenges faced by PDBs
+However, measuring and monitoring the impact remains quite challenging  as only just 
+over half of the PDBs in the survey said that they measured and managed the impact of their 
+activities against the SDGs (Annex C, Figure 10). This seems surprisingly low given the overall 
+positive scores to PDBs’ strategic alignment with the SDGs. Also, for the question where PDBs 
+were asked to rate 16 different potential challenges from 1 (low) to 10 (high) importance, impact 
+assessment and measurement shows relatively higher scores than strategy and governance25  
+(Figure 11). It aligns with the broad narrative from all the research that the key issue for PDBs 
+is not whether they are either willing to or can, but that “how” they do this in practical terms. 
+25
+25 The graph shows that all of the potential challenges are difficult for a significant proportion. None have less than 
+60% of the PDBs scoring them between 8-10. The middle category sees around 70% of the top three ratings and 
+the most challenging category have over 80% of PDBs rating them an 8-10 in terms of difficulty.
+Impact assesment
+De-risking instruments (credit insurance, debt 
+swaps, etc.)
+IMPORTANCE
+Not at all Important (left) - Most Important (right)
+Q: Challenges faced by PDBs
+Co-investment to unlock transformative proj -
+ects where scale is a barrier for a PDB to lead a 
+particular project
+Developing a low-cost disclosure framework 
+for ESG and SDG reporting that is affordable 
+for small PDBs as well as MSMEs in developing 
+countries
+Use of guarantees to reduce the cost of finance
+The potential role for PDBs participating in 
+green bond and green loan markets
+Establishing SDG and thematic bond frame -
+works and standards
+Use of digital technologies to reduce the costs 
+of sustainable finance operations
+Market intelligence to identify SDG-enabling 
+investment opportunities and accelerate SDG-
+aligned investment
+Board SDG training
+Collaboration between national and sub-na -
+tional PDBs to help share knowledge and 
+expertise across countries and organizations
+Portfolio alignment strategies
+Developing collaboration between the private 
+sector investors and company recipients of 
+investment and the PDBs
+Developing measurable commitments to incor-
+porating climate / SDG impact criteria in the 
+operations of PDBs
+ESG risk management
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Research analysis and key findings 35
+Some of the PDBs have proactively integrated a gender lens into the project and credit 
+allocation process, whilst for others this is still work in progress. In the DBSA in South 
+Africa, there are environment, institutional, social and gender specialists who go out as part 
+of the project appraisal teams. They do their own due diligence on the project.  The investment 
+committee will not allow submission of projects without the consideration of wider issues as 
+needed. This is a key part of genuinely mainstreaming gender as required by SDG 5. CDP in  
+Italy also include gender related targets for their own organization, as well as for the projects 
+and partners with whom they invest.
+When PDBs were asked if they track financing by whether it supported the mitigation of climate 
+impact or adaptation to new approaches, they showed the lack of focus on the split in finance 
+between these approaches. For example, a PDB could work with a fossil fuel power plant to 
+reduce the level of pollution or invest in a renewable energy company. But limited percentage 
+of the PDBs – 10 of the 28 PDBs or 36% - shows that PDBs could not produce materials that 
+showed the flows cut by this metric (Annex C, Figure 12).
+How to identify impacts and get the right data from the companies and financial inter -
+mediaries once they receive the funding was a recurring theme on which more action 
+was needed in the future. Some PDBs had done a lot in this area, but few were content that 
+they had all the data they needed, or that it was simple to ensure that the recipients of funding 
+supplied the broader set of reporting data needed to show impact relative to the SDGs. This 
+challenge in obtaining and using the data to measure and publish impact was partly seen in 
+the answers to a question on producing figures on the wider benefits of projects, as nearly 
+two-thirds of the sample produced such figures (Annex C, Figure 13). 
+Pressure from investors and customers has pushed greater data and disclosure from private 
+sector banks and companies. PDB could also respond to pressure from their investors and 
+shareholders – which are typically governments - as well as bond holders and investment part-
+ners. Strategically, a number of PDBs identified the need for KPIs for the overall portfolio as well 
+as specific project to properly embed measurement of impact relative to the SDGs. 
+In relation to this, a common framework to measure sustainability and have a clear bench-
+mark would be seen as useful because the PDBs saw too many frameworks and approaches. 
+Hence this is an area on which G20 action would be useful. This would also help to reduce the 
+complexity (and cost) of alignment, which was clearly a bigger issue for smaller national and 
+sub-national PDBs.
+Research analysis and key findings 36
+The way in which the Industrial Development Bank of Türkiye maps SDG impact 
+within sub-themes is a good example of how to drive SDG alignment through the 
+organizations. TSKB sets the targets for SDG impact and has aligned the portfolio so 
+far so that almost 90% of the lending book cover one or two of the SDGs. TSKB also 
+quantifies lending targets for SDGs as part of the process. As Figure 14 shows, this 
+has come in recent years after a multi-year process of internal reform and external 
+collaboration in which a focus on measuring and impact targets have been a key 
+feature. So, TSKB’s examples aim to show a movement beyond simple mapping of 
+activities to the SDGs and towards the deeper changes that are needed to align 
+activities in a meaningful way to achieving the SDGs.
+Case: TSKB, Türkiye  
+CASE 08
+Impact Standards for PDBs 
+to integrate SDG-aligned impact measurement 
+and decision making into their portfolios 
+BOX 2
+OECD-UNDP Impact Standards for Financing Sustainable Development (IS-FSD) were 
+developed to provide a framework for donors, development finance institutions such as PDBs 
+and private sector partners to incorporate impacts relevant to the SDGs that are often ignored 
+in measurement of investment projects. These include aspects such as the protection of 
+human rights and local stakeholder consultation among many other issues. Adopting the 
+IS-FSD approach leads to project measurement of financial returns as well as positive impact 
+on sustainable development, and improves the transparency of development results.
+The Standards were recognized by the Finance in Common (FiC) Joint Declaration (2020) and 
+commitments from the public development banks (PDB) coalition. UNDP is supporting the 
+resulting Finance in Common Coalition on Social Investment, and the workstream on Impact 
+Monitoring and Measurement (IMM) for PDBs.
+In particular, UNDP SDG Impact Standards for enterprises, bond issuers and private 
+equity funds provide an organizing framework and internal management practice to help 
+Development Finance Institutions and PDBs integrate sustainability and SDG-aligned impact 
+in strategy, management, transparency, and governance which then impacts their portfolio 
+and business partners. By aligning with the Standards, all development finance actors 
+can show their intention to contribute positively to SDGs. The management standards are 
+voluntary and consistent with existing high-level principles, filling gaps in current market 
+approaches that undermine efforts to achieve sustainability and the SDGs.
+Research analysis and key findings 36
+Research analysis and key findings 37
+Figure 14: TSKB’s Journey towards detailed SDG Alignment Measurement
+7
+Climate Risk Report
+Milestones of the Sustainability Journey 
+TSKB has placed sustainability at the heart of 
+its business model since its establishment. In 
+this direction, the Bank operates by focusing on 
+combating and adapting to climate change.
+TSKB and Sustainability
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2019
+2020
+2021
+1980
+1990
+2005
+2006
+2007
+2008
+2009
+º Environmental factors were integrated into the loan evaluation processes for the ﬁ rst time  
+º The practice of using renewable energy resources to meet th e Bank's electricity demand was implemen ted
+The ﬁ rst GRI-approved Sustainability Report was published º
+The ﬁ rst Turkish bank to obtain an ISO 14064 Certiﬁcat e   º
+The Sustainability Committee was established    º
+The ﬁ rst Green/SRI Bond in Turkey and the CEEMEA Region was issued   º
+Founding signatory for the UNEP FI Principles for Responsible Banking   º
+Director of IDFC Climate Facility Coordination Unit   º
+TSKB's 3rd issuance of sustainable bonds     º
+Became a TCFD Supporter and joined the TCFD Phase 3 Banking Pilot Program     º
+  TSKB's Climate Change Mitigation and Adaptation Policy was announced    º
+º Escarus, which operates in the ﬁeld of sustainability consultancy, was established 
+º The ﬁrst su bordinated sustainable bond in the world was issued 
+º The Climate Risks Working Group was established 
+º The Green Swan Platform was established 
+º Joined the TCFD Phase 2 Banking Pilot Program 
+º The SDG mapping study for the loan portfolio was completed
+º Finance in Common Summit; Signatory to Sustainable and Resilient 
+Global Recovery, Biodiversity and Gender Equality and Women's 
+Empowerment Declarations
+º Best Environmental, Social and Governance (ESG) Risk Score in Turkey
+º The ﬁrst loan based on the SDG loan model was extended in Turkey
+º The ﬁrst club loan in dexed to the ESG Risk Rating in Turkey
+º The ﬁrst su stainable lea se certiﬁca te in the world was issued
+º The "ERET Mo del for Working Capital Loans" was developed 
+º The ﬁrst Allocation and Impact Reporting for green/sustainability bond issuanc es in Turkey
+º The ﬁrst In tegrated Report in Turkish Financial Sector 
+º Inclusion in the BIST S ustainability Index
+Implementation of the Z ero Carbon Banking Principles was initiat ed  º
+º EMS was established
+º The ﬁ rst Turkish bank qualiﬁ ed to obtain an ISO 14001 Certiﬁcat e 
+The ﬁ rst environmental loan was disbursed 
+The Environmental Policy was announced º
+The Environmental Policy and the Environmental Management System (EMS) w ere revised as   º
+ the Sustainability Policy and the Sustainability Management System (SMS) respectively  
+º The Environmental and Social Risk Evaluation Tool (ERET ) was designed
+º The practice of assessing all investment projects under the ER ET Model was introduced 
+º The Sustainability Policy was updated 
+º Signatory to the IDFC Climate Action in Financial Institution s
+ Climate Change Declaration    º
+º The ﬁ rst CDP Climate Change Report was published
+Research analysis and key findings 38
+2627 
+26 There are also regional examples of this vital activity. The Working Group on Sustainable Finance Taxonomies in 
+Latin America and the Caribbean (GTT-LAC) is developing common sustainable finance taxonomies for the LAC re-
+gion. GTT-LAC is an initiative of LAC Ministers of Environment. It includes the United Nations Environment Program 
+(UNEP), the Economic Commission for Latin America (ECLAC), the United Nations Development Program (UNDP), 
+the World Bank Group, the Inter-American Bank of Development Bank (IADB), Development Bank of Latin America 
+(CAF), and the Food and Agriculture Organization of the United Nations (FAO). 
+27 Collaboration can also be useful between multinational groups. For example, under its ‘Business Call to Action’, 
+UNDP partners with ADB’s private sector department to support ADB to identify and measure the impact of inclu-
+sive business models across sectors to support the ‘Inclusive Business Finance Program’ to scale ADB’s financing 
+activities in five countries in South Asia to help achieve the SDGs.
+A final important theme from the broader introductory discussions, was the importance 
+of current and future collaborations and learning from shared experience – both intra-
+country and across countries/regions.  The within country dialogue was important, for 
+example the sub-national PDB Desenvolve SP (São  Paolo) in Brazil, was benefiting from the 
+experience (and transfer of key staff) from another innovative sub-national PDB in Brazil, the 
+Development Bank of Minais Gerais (BDMG). Another part of the intra-country dialogue could 
+be seen in the role that BICE in Argentina was playing in national discussions on improving 
+the ‘taxonomies’ for investment, so that there is clearer agreement across all kinds of banks of 
+what it means for example for an investment to be pro-gender equality. These specific examples 
+are supplemented by the many examples that relate to the core purpose of a national PDB to 
+show leadership and demonstration effects by investing in supposedly difficult or challenging 
+or innovative projects that the private sector lenders can then follow26.
+PDBs have also played a proactive role in trying to develop the sustainability discussion 
+across the financial sector in their own countries. BICE in Argentina is a leading member of 
+the group of organisations developing sustainability definitions for local investors. As a member 
+of the banking association of Türkiye, TSKB heads the sustainability working group, which 
+includes commercial banks and public development banks, and regulation agency. 
+The cross-border sharing of expertise – and finance – was highlighted as another important 
+part of the story towards developing a PDB and its impacts on the SDGs. This was high -
+lighted by the sub-national development bank BDMG with a significant collaboration with the 
+European Investment Bank (EIB), by Desenvolve SP with the Inter-American Development Bank, 
+by NAFIN in Mexico and their collaboration with KfW and GIZ in Germany, or TSKB and its 
+collaborations with the EBRD, the IBRD and the IFC. International collaboration or influence can 
+also have an impact where PDBs seek accreditation with global standards – such as the Green 
+Climate Fund – which is discussed in more detail below.
+Improving access to finance not only from within the country, but also from regional 
+and global development finance institutions, is an important area for progress so far for 
+many PDBs as well as also requiring more work in the future.  For example, the Develop -
+ment Bank of Rwanda highlighted that improving alignment between their priorities and the 
+national development plan has helped improve access to domestic financing (which requires 
+of course that the national development plan is aligned to the SDGs). The Development Bank 
+of Namibia highlighted the benefits of their close collaboration with Germany’s KfW and the 
+African Development Bank in their 2021 Annual Report (DBN, 2021)27.
+5.4 Effective Collaboration and International Support
+Research analysis and key findings 39
+24 out of 28 PDBs also responded saying that restrictions were not necessarily the issue for 
+collaboration in terms of any legal, governance, and economic barriers against joining interna-
+tional initiatives on the initiatives such as Equator Principles and  the United Nations Principles 
+for Responsible Banking. Only 4 of the 28 PDBs responded there were restrictions on collabo-
+ration (Annex C, Figure 15).
+The role of the PDB as a connector between international finance and national projects 
+and companies was raised by a number of PDBs as an area in which they have made progress. 
+Again, it was also raised by a number as an area on which they were planning to focus more in 
+the future. For example, PT-SMI developed the blended finance platform of ‘SDG Indonesia 1’ 
+to get more international funding to help improve project quality so that there is a better quality 
+pipeline. The new facility Includes resources to review projects. They can act as a connector 
+for both donors and the clients to reduce cost and complexity and improve impact for both. 
+NAFIN in Mexico have developed ‘fondos sostenible NAFIN – NAFIN Sustainable Finance’ where 
+they act as the trustee to receive and administer donations from international organization for 
+projects in Mexico. This role of international finance was also emphasized by the Development 
+Bank of Namibia, who have for example a specific green credit line with KfW in Germany to 
+support projects in Namibia. They also place bonds on local market so that they have both 
+domestic and international sources of finance.
+A generic challenge raised by a number of PDBs was the need to build alignment domesti-
+cally, and internationally, between government, regulators, PDBs and the private sector. 
+There were many different initiatives and an increasing number of actions, but it was important 
+to try and make sure that these efforts were directed in complementary ways. This was linked 
+with the fact that some PDBs had to update their mandate, or parts of their internal regulations. 
+This is happening in the context of FiCS through a dialogue with the D20 Long-Term Investors 
+Club (which supports FiCS efforts to scale-up private sector’s mobilization in sustainable finance), 
+BICE  has developed and started to implement a new ‘Green Line’ as part of its 
+promotion of risk mitigation instruments and investment financing in renewable 
+energy and energy efficiency. A critical role was played by the Inter-American 
+Development Bank and the Green Climate Fund. This case is useful for the benefits 
+of international collaboration, as well as the development of new facilities. Projects 
+are for Small and Medium Sized business in Argentina and can support a range 
+of activities. So far it has supported 5 renewable energy plants with USD 20 m in 
+financing and 83 Energy efficiency projects with USD 40 m in financing.
+Case: BICE, Argentina 
+CASE 09
+Research analysis and key findings 40
+as well as by promoting a whole-of-the-financial-system dialogue with some of the major global 
+alliances and coalitions, such as the Network for Greening the Financial System (NGFS) and the 
+Glasgow Financial Alliance for Net Zero (GFANZ). This links to the overall governance challenge 
+of creating new aligned strategies that are implemented with the clear support of the Board 
+and empowered and enabled organizations.
+Gaining international accreditations has been important for a number of PDBs and should 
+be supported. For example, among PDB interviewees, AFD in France, NAFIN in Mexico, CDP in 
+Italy, CDG Capital in Morocco, DBSA in South Africa, and PTSMI in Indonesia have all achieved 
+accreditation from the Green Climate Fund 28. NAFIN in Mexico have worked with the Global 
+Green Growth Institute (GGGI) 29 who provided a diagnostic on gaps in relation to ESG and 
+created an action plan for specific activities to put in place in the short, medium and long-term. 
+As a result, a new public gender policy was produced and is awaiting final publication as well 
+as an action plan on gender (including indicators). Greater clarity and harmonization on which 
+international accreditations would be most useful was highlighted as a challenge to overcome. 
+This is because it can be overwhelming to a smaller PDB to work out where best to allocate 
+scarce resources for accreditation or adoption of particular standards – a theme that was raised 
+by private sector participants in the 2021 G20 SFWG dialogue on financing the SDGs.
+Another key challenge yet requires continued efforts is to develop and emphasize the 
+national and sub-national PDB role in connecting external ‘global’ finance to the local 
+recipients in a country or region who would make best use of the resources. The role of 
+PDBs in connecting the ‘last mile’ was identified as extremely important – and progress in this 
+area was seen as likely to be supported by the PDBs ensuring they continued their own reform 
+program, whilst also raising their profile in through international discussions. 
+Some of the PDBs noted the significant challenge of meeting expectations from stake -
+holders where there is a demand for instant results and faster progress. PT-SMI for example 
+raised the need to understand and tackle stakeholder expectations and to work in parallel to 
+get international support to help achieve ambitious targets.
+Support for PDBs from domestic and international actors, including the sharing of expe-
+rience and best practices in the regional PDB networks and through FiCS globally, was 
+considered to be important going forward.  Technical cooperation with multilateral develop-
+ment banks was highlighted as something that was needed going forward to help internalize 
+the complexity of SDGs. 
+2829 
+ 
+28 Accredited Entities | Green Climate Fund
+29 Global Green Growth Institute — A resilient world through inclusive and sustainable green growth (gggi.org)
+Conclusion41
+Conclusion
+Conclusion41
+This report based on the interviews and the survey, along with the additional materials 
+from the PDBs helps design recommendations for action by a range of actors, as expressed 
+by national PDBs themselves. These are set out in four broad categories related to: (i) 
+PDBs’ mandates, strategies, and governance alignment to SDGs; (ii) Lending, guarantees, 
+pricing and currency risks; (iii) data, measurement, impact and taxonomies; and (iv) effec-
+tive collaboration and international support. 
+PDBs are a diverse group, so not all findings and recommendations will apply, but they provide 
+a good cross-section of the types of actions that will help these vital organizations go further 
+to align their activities with the SDGs. Equally, these recommendations provide us a sense 
+of how those able to assist the PDBs - including national governments, G20, MDBs, UNDP , 
+FiCS, as well as regional and global PDB networks – could collaborate with each other - from 
+ensuring clear commitments to developing SDG-aligned strategies to ensuring impact from 
+their implementation. 
+UNDP and FiCS are committed to working with all interested parties to bring these new 
+findings and recommendations to a wide audience – and to support tangible actions 
+to help PDBs continue to expand their potential and relevance to meeting the SDGs, 
+through dialogue, technical assistance, partnership platforms and engagements with 
+national governments. The hope of UNDP and FiCS is that all development partners, nationally, 
+regionally and internationally, will be able to find ways to help PDBs through implementing 
+recommendations identified in this work. 
+Given the aforementioned research scope and methodology, certain topics have been identi-
+fied for further rigorous policy research, including but not limited to:
+6
+Review of the governance structure 
+of PDBs and their impact on SDG-
+aligned investments
+Review of the data on actual 
+impacts made through the SDG-
+aligned investments
+Moving Forward
+03
+Analysis of PDB’s experiences with a wider representation of 
+PDBs by ownership structure, geographical operation, asset 
+size, maturity levels, official mandate, and income levels of 
+their home countries 
+01 02
+References42
+AFD (2022) ‘AFD Tool for Mainstreaming the SDGs: The Sustainable Development Analysis and 
+Opinion Mechanism’, June 2022, Agence France de Développement
+Attridge, S, Chen, Y and Mbate, M. (2021) ‘Financial performance and corporate governance: 
+evidence from national development banks in Africa’, March 2021, Overseas Development 
+Institute, London
+https://odi.org/en/press/reduce-political-influence-and-tighten-governance-to-improve-finan-
+cial-performance-of-national-development-banks/ 
+DBN (2021) ‘Annual Report and Accounts 2020/21, Development Bank of Namibia’, 2021, Wind-
+hoek, https://www.dbn.com.na/phocadownload/annual-report-dbn-2020-21-b.pdf 
+European Think Tanks Group (2021) ‘Financing the 2030 Agenda: An SDG alignment framework 
+for Public Development Banks’, October 2021, 
+IDDRI (2020) ‘Scaling up public development banks’ transformative alignment with the 2030 
+Agenda for Sustainable Development’, Study No 5, October 2020, Paris https://www.iddri.
+org/sites/default/files/PDF/Publications/Catalogue%20Iddri/Etude/202010-ST0520-publis%20
+dev%20banks.pdf 
+INSE, AFD (2021)- The Institute of New Structural Economics at Peking University and French 
+Development Agency ‘Mapping 500+ Development Banks: Qualification Criteria, Stylized Facts, 
+and Development Trends’, October 2021, Beijing.
+Finance in Common (2022) ‘Finance in Common Progress Report to the G20’, July 2022, Paris
+G20 Italian Presidency (2021) ‘G20 Sustainable Finance Roadmap’, October 2021. 
+Griffith-Jones, S. and Ocampo, J. A. (Eds) 2018 ‘The Future of National Development Banks’, 
+October 2018, Oxford University Press https://doi.org/10.1093/oso/9780198827948.001.0001 
+NAFIN (2021) ’Sustainability Bond Framework’, Nacional Financiera, November, 2021, Mexico 
+https://www.nafin.com/portalnf/files/secciones/emisiones-relaciones-internacionales/capta -
+cion/documentos/BonoSostenibleMEX_ENG_Final.pdf 
+Review of Political Economy, Volume 34, Issue 2 (2022) https://www.tandfonline.com/toc/
+crpe20/34/2 
+Sustainalytics (2021) ‘Second-Party Opinion Nacional Financiera S.N.C., I.B.D (NAFIN) 
+Sustainability Bond Framework’, October 2021, Mexico City NAFIN_Sustainability_Bond_Frame-
+work_Second-Party_Opinion_291021.pdf
+TSKB (2021) “Climate Risk Report on Task Force on Climate-related Financial Disclosures (TCFD)”, 
+May 2021, Istanbul TCFD-eng-2021-05-24.pdf (tskb.com.tr) 
+UN (2022) “International financial system and development: Report of the Secretary-General” 
+Report A/77/224, July 2022, New York, https://digitallibrary.un.org/record/3985258?ln=en 
+UNDP 2022 ‘Integrated National Financing Frameworks: A Short and Practical Introduction’ May 
+2022, Integrated National Financing Frameworks https://inff.org 
+References
+References42
+Annex A: Interview Questions43
+What are the biggest opportunities or developments in capacity you are 
+planning to use in the next few years to go further?
+The G20 Sustainable Finance Working Group30 focusses on actions that member 
+states can take in collaboration with other countries and with regional and global 
+groups. Thinking about the biggest challenges you face, what actions by the G20 
+would be most useful to support you in enhancing your work to achieve the SDGs?
+What are the biggest challenges that remain to your organization 
+maximizing its impact on the SDGs?
+Please outline any additional information or material you feel would be useful to 
+help the G20 delegates in their discussions on Scaling Up Sustainable Finance.
+30 
+30 Please see https://g20sfwg.org/ for more details on the G20 Sustainable Finance Working Group
+Q8
+Q7
+Q6
+Q5
+Please briefly outline the role of your organization
+(The interview team will be familiar with the publicly available information 
+but it is useful to hear a description of the organization in your own words).
+If you were to highlight one area of your recent work to use as a case study to 
+showcase the importance of the PDB role in achieving the SDGs, what would it be? 
+(Please elaborate on what happened. Please also refer to any documents on the experience.)
+Please briefly outline the work you have been doing with the Finance in 
+Common Coalition (FiCS) in the past 2 years. In which of the FiCS working 
+groups have you participated?
+What are the biggest challenges you have already overcome, or started to 
+overcome in the past 5 years on the road to aligning your work with the SDGs 
+– for example in relation to strategy, governance, data, operations, culture, 
+financing instruments or other issues?
+Q4
+Q3
+Q2
+Q1
+Annex A: 
+Interview Questions
+Annex B: Survey Questions44
+31 
+31 A definition of SDG-alignment was contained in the UNDP/OECD Framework for SDG Aligned Finance, where the 
+Global Investors for Sustainable Development Alliance (GISD) suggested:
+ “Sustainable development investing refers to deploying capital in ways that make a positive contribution to sus-
+tainable development, using the SDGs as a basis for measurement”. Yet beyond creating a net positive impact over 
+the life of the investment, our ambition should also be to aim that investment does no harm across the SDGs. 
+ SDG alignment is both a means to mobilize resources for the implementation of the 2030 Agenda and a value prop-
+osition for private sector to preserve the long-term value of assets by doing no harm and contributing solutions to 
+sustainable development challenges, thereby reducing risks and enhancing resilience of the global financial system. 
+This double materiality (financial and non-financial) of the SDG alignment agenda relies on the achievement of two 
+objectives: 1. Equality: resources should be mobilised to leave no one behind and fill the SDG financing gaps, and 
+2. Sustainability: resources should accelerate progress across the SDGs.
+Introduction
+Please provide a link that shows your organization’s mandate. Does it prioritize climate actions 
+and the SDGs at all levels?
+Please briefly explain your strategy development process – highlighting how many years your 
+current strategy covers, when it was decided and when the next revision will be made.
+Is SDG-alignment31 a core part of the strategy process or do you map the existing strategy and 
+activities to the SDGs retrospectively?
+SDGs fully incorporated into the organisational strategy
+Yes
+SDGs only partly incorporated into the organisational strategy
+No
+Some limited areas aligned to the SDGs, but strategy not generally aligned
+Strategy not aligned to the SDGs, but some retrospective mapping occurs
+Strategy not aligned and activities are not mapped to the SDGs
+Annex B: 
+Survey Questions
+Q1
+Q2
+Q3
+Q4
+[Only applicable to respondents who checked SDGs fully/only partly incorporated into the orga-
+nizational strategy] Since what year has your strategy process been integrating SDG alignment? 
+Annex B: Survey Questions45
+32 33
+32 Voluntary National Reviews | High-Level Political Forum
+33 https://wedocs.unep.org/bitstream/handle/20.500.11822/34480/ACF.pdf?sequence=1&isAllowed=y
+Q5
+Q6
+Q7
+Q8
+Q9
+Does your strategy mention your country’s ‘Voluntary National Review 32’ or national develop-
+ment plan/strategy linked to the SDGs and focus on the same areas of development?
+Does your strategy mention your country’s Nationally Determined Contributions (NDC) and 
+Long-term low green-house gas emissions development strategy (LTS)?33
+Do you identify how your financing is split between supporting the mitigation of climate impact 
+mitigation compared to adaptation to new approaches that have a lower climate impact? If so, 
+please specify what percentage is focused on mitigation and what percentage on adaption.
+Are there any legal / governance / economic / capacity barriers that prevent your organization 
+from joining international initiatives on the SDGs for examples initiatives such as the Equator 
+Principles, the United Nations Principles for Responsible Banking or others? 
+Yes to both
+Yes
+Yes
+If yes, what percentage of finance on is focused on mitigation 
+and what percentage on adaptation
+Yes
+Yes to NDC only
+No
+No
+No
+Yes to LTS only
+No to both
+Please provide examples in relation to legal, governance, economic or capacity barriers as 
+appropriate.
+Annex B: Survey Questions46
+Q10
+Q11
+Q12
+What are the biggest challenges you have already overcome, or started to overcome in the past 
+5 years to align your work with the SDGs – for example in relation to strategy, governance, data, 
+operations, culture, financing instruments or other issues?
+What are the top 3 biggest challenges for your organization to promote, develop, and imple -
+ment changes so that investments support the SDGs?  Please select three from the list below.
+Ensuring consistency between investment choices and the imperative of sustainability
+Considering trade offs when an investment helps one SDG but may not help a different 
+SDG.
+Lack of understanding in common language on SDG alignment SDG.
+Developing a comprehensive portfolio with SDG lens rather than a pipeline of good 
+individual projects
+Lack of political backing and support from other partners including MDBs and the 
+government 
+Developing and improving transparency, monitoring, oversight, grievance, and 
+accountability mechanisms
+Lack of internal capacity to implement a transition finance framework 
+Lack of opportunities to learn from other public development banks’ knowledge and 
+experiences
+Other (please specify)
+Do you measure and manage the impact of your activities against the SDGs? 
+Yes
+No
+Annex B: Survey Questions47
+Q13
+Q14
+Q15
+Q16
+Q17
+Q18
+How do you measure the impact of your activities against the SDGs? Please reference any 
+national, regional or global standards that you use or any third-party monitoring of your activ-
+ities that is produced. If available, please provide the link to the annual sustainability report. 
+Do you produce figures on the wider benefits of projects and the detail of the beneficiaries (e.g. 
+by gender or income level) in addition to figures on the financial costs and returns of a project?
+What are the biggest opportunities or developments in capacity you are planning to use in the 
+next few years to advance your efforts in scaling up sustainable finance?
+If you were to highlight one area of your recent work as a case study for the PDB role in financing 
+the SDGs or scaling sustainable financing instruments, what would it be? Please elaborate on 
+what happened. Please also refer to any documents on the experience.
+What are the most successful services that your organization provides to MSMEs (Medium, Small 
+and Micro Enterprises) for better access in financing? 
+What are the biggest challenges you find in measuring the impact of your investments?
+Yes
+No
+Annex B: Survey Questions48
+Q19
+Q20
+Rate where your organization is now in relation to the following 4 areas on a scale of 1-10 - 
+where 1 is no progress and 10 is fully achieving all aspects of alignment of your activities with 
+the SDGs. Please provide any comments that help explain your rating if needed.
+Rate where you think your organization was 5 years ago against the same 4 areas  on a 
+scale of 1-10 - where 1 is no progress and 10 is fully achieving all aspects of alignment of your 
+activities with the SDGs. Please provide any comments that help explain your rating if needed.
+Internally leading and fostering a sustainable development-oriented culture 
+(e.g. require qualifications in strategic sustainable development areas when hiring new 
+financial aspects; related capacity development efforts; and ensuring regular monitoring 
+and development of these skills in performance appraisals)
+Internally leading and fostering a sustainable development-oriented culture 
+(e.g. require qualifications in strategic sustainable development areas when hiring new 
+financial aspects; related capacity development efforts; and ensuring regular monitoring 
+and development of these skills in performance appraisals)
+Developing a holistic strategy and long-term vision linked to SDGs 
+(e.g. PDB’s strategy, mission, vision and other medium- and long-term frameworks 
+are in place, and linked to strategic choices made in daily operations)
+Developing a holistic strategy and long-term vision linked to SDGs 
+(e.g. PDB’s strategy, mission, vision and other medium- and long-term frameworks 
+are in place, and linked to strategic choices made in daily operations)
+Mainstreaming SDG priorities within internal operations 
+(e.g. a systematic and coherent internal process for analyzing finance with SDG 
+considerations are embedded in both the ex-ante and ex-post phases of investment)
+Mainstreaming SDG priorities within internal operations 
+(e.g. a systematic and coherent internal process for analyzing finance with SDG 
+considerations are embedded in both the ex-ante and ex-post phases of investment)
+Mobilizing and catalyzing truly transformational investment 
+(e.g. new competencies and incentive structures within organizations like project 
+preparation facilities to ensure SDG bankability)
+Mobilizing and catalyzing truly transformational investment 
+(e.g. new competencies and incentive structures within organizations like project 
+preparation facilities to ensure SDG bankability)
+Annex B: Survey Questions49
+Q21
+Considering the biggest challenges you face, please rate the following issues on a scale 
+of 1-10 in terms of importance to help your organization, where 1 is not at all important 
+and 10 is the most important?
+Collaboration between national and sub-national PDBs to help share knowledge and 
+expertise across countries and organizations
+Developing collaboration between the private sector investors and company recipients of 
+investment and the PDBs
+Developing measurable commitments to incorporating climate/SDG impact criteria in the 
+operations of PDBs
+Policy development to establish sustainable finance taxonomies reporting/disclosure 
+and sustainable data ecosystems
+Developing a low-cost disclosure framework for ESG and SDG reporting that is 
+affordable for small PDBs as well as MSMEs (Micro, Small and Medium Enterprises) in 
+developing countries
+ESG risk management
+Portfolio alignment strategies
+Impact assessment
+Board SDG training
+Use of guarantees to reduce the cost of finance
+Use of digital technologies to reduce the costs of sustainable finance operations
+Establishing SDG and thematic bond frameworks and standards
+The potential role for PDBs participating in green bond and green loan markets
+De-risking instruments (credit insurance, debt swaps, etc.)
+Market intelligence to identify SDG-enabling investment opportunities and accelerate 
+SDG-aligned investment 
+Co-investment to unlock transformative projects where scale is a barrier for a PDB to 
+lead a particular project
+Q22
+Please outline any additional information, examples, observations or material you feel 
+would be relevant that have not been covered in this survey.
+Annex C:  Graphs from the Survey Analysis50
+Annex C: 
+Graphs from the Survey Analysis 
+Annex C:  Graphs from the Survey Analysis50
+Figure 2: PDB mandates prioritizing climate actions and the SDGs at all levels
+Figure 3: SDG alignment as a core part of the organizational strategy
+Q: Is SDG-alignment a core part of the strategy or do you map 
+strategy and activities to the SDGs?
+Annex C:  Graphs from the Survey Analysis51
+Figure 5: PDB strategy mentioning country’s ‘Voluntary National Review’ or national 
+  development plan/strategy linked to the SDGs
+Figure 6: PDB strategy mentioning country’s Nationally Determined Contributions   
+                              (NDC) and Long-term low green-house gas emissions development strategy (LTS)
+Q: Does your strategy mention your country’s ‘Voluntary National Review’ or 
+national development plan/strategy linked to the SDGs and focus on it?
+Q: Does your strategy mention your country’s Nationally Determined 
+Contributions (NDC) and Long-term low green-house gas emissions 
+development strategy?
+Annex C:  Graphs from the Survey Analysis52
+Figure 7: Top 3 challenges to promote, develop, and implement changes to support SDGs
+Figure 10: Measuring and managing the impact of your activities against the SDGs
+
+Annex C:  Graphs from the Survey Analysis53
+Figure 11: Rating from 1 – 10 of challenges faced by PDBs
+Figure 12: Identifying financial split between climate impact mitigation and adaptation
+Impact assesment
+De-risking instruments (credit insurance, debt 
+swaps, etc.)
+IMPORTANCE
+Not at all Important (left) - Most Important (right)
+Q: Challenges faced by PDBs
+Co-investment to unlock transformative proj -
+ects where scale is a barrier for a PDB to lead 
+a particular project
+Developing a low-cost disclosure framework 
+for ESG and SDG reporting that is affordable 
+for small PDBs as well as MSMEs in developing 
+countries
+Use of guarantees to reduce the cost of finance
+The potential role for PDBs participating in 
+green bond and green loan markets
+Establishing SDG and thematic bond frame -
+works and standards
+Use of digital technologies to reduce the costs 
+of sustainable finance operations
+Market intelligence to identify SDG-enabling 
+investment opportunities and accelerate SDG-
+aligned investment
+Board SDG training
+Collaboration between national and sub-na -
+tional PDBs to help share knowledge and 
+expertise across countries and organizations
+Portfolio alignment strategies
+Developing collaboration between the private 
+sector investors and company recipients of 
+investment and the PDBs
+Developing measurable commitments to 
+incorporating climate / SDG impact criteria in 
+the operations of PDBs
+ESG risk management
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Annex C:  Graphs from the Survey Analysis54
+Figure 13: Producing financial analysis on the wider benefits and returns on the project
+Figure 15: Legal/governance/economic barriers to joining international initiatives on the SDGs  
+Figure 16: Internally leading and fostering a sustainable development culture
+Q:
+Q: Internally leading and fostering sustainable development-
+oriented culture 5 years ago and now
+Annex C:  Graphs from the Survey Analysis55
+Figure 17: Developing a holistic strategy and long-term vision linked to SDGs
+Figure 18: Mainstreaming SDG priorities within internal operations
+Figure 19: Mobilizing and catalyzing truly transformational investment
+Q: Developing a holistic strategy and long-term vision linked to SDGs 5 years ago and now 
+Q: Mainstreaming SDG priorities within internal operations 5 years ago and now
+Q: Mobilizing and catalyzing truly transformational investment  5 years ago and now
+Annex C:  Graphs from the Survey Analysis56
+United Nations Development Programme
+One United Nations Plaza
+New York, NY 10017
+www.undp.org
+© UNDP 2022

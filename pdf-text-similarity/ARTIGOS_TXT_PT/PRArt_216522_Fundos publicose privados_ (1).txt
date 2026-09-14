@@ -1,0 +1,1740 @@
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+* Economistas do BNDES. Este artigo é de exclusiva responsabilidade dos autores, não 
+r
+efletindo, necessariamente, a opinião do BNDES.
+Economists at the BNDES. This article is the sole responsibility of the authors and does not 
+necessarily reflect the opinion of the BNDES.
+Fundos públicos e privados e 
+desenvolvimento econômico
+Public and private funds and 
+economic development
+Luiz Daniel Willcox de Souza 
+Felipe Silveira Marques*
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+108
+Resumo
+O artigo analisa os benefícios dos fundos de desenvolvimento, enten-
+didos como aqueles que atrelam seu patrimônio a finalidades asso-
+ciadas a projetos de desenvolvimento, com foco em fundos federais 
+operados pelo Banco Nacional de Desenvolvimento Econômico e Social 
+(BNDES). Os fundos são analisados em relação a impactos fiscais; gera-
+ção de ativos financeiros e receitas; alavancagem de recursos e captação 
+de parceiros; e entregas para a sociedade e externalidades. São analisa-
+dos: o Fundo de Amparo ao Trabalhador (FAT), que financia programas 
+de desenvolvimento econômico; o Fundo Nacional sobre Mudança do 
+Clima (Fundo Clima), que financia projetos de mitigação das mudan-
+ças climáticas; o Fundo Garantidor para Investimentos (BNDES FGI), 
+que fornece garantias; e o Fundo Amazônia, formado por doações, que 
+apoia o combate ao desmatamento e promove a conservação da Ama-
+zônia. Conclui-se que esses fundos, pela geração de ativos financeiros e 
+de receitas, podem ser instrumentos relevantes na construção de estra-
+tégias de financiamento público sustentáveis no longo prazo.
+Palavras-chave: fundos de desenvolvimento; finanças públicas; avaliação de efetividade; 
+financiamento de políticas públicas.
+Abstract
+The article analyzes the benefits of development funds, understood as those whose assets are linked 
+to purposes associated with development projects, focusing on federal funds operated by the Brazilian 
+development bank (BNDES). Four dimensions are analyzed: fiscal impact, generation of financial 
+assets and revenues, leveraging of resources and partner attraction and deliveries to society and 
+externalities. The following funds are analyzed: the Worker’s Assistance Fund (FAT), which finances 
+economic development programs; the National Fund on Climate Change (Fundo Clima), which  
+finances climate change mitigation projects; the Investment Guarantee Fund (BNDES FGI),  
+which provides guarantees; and the Amazon Fund, formed by donations, which supports the fight 
+against deforestation and promotes the conservation of the Amazon. The study concludes that these 
+funds, by generating financial assets and revenue, can be relevant instruments in the construction of 
+sustainable public financing strategies in the long term.
+Keywords: development funds; public finances; effectiveness assessments; public policy financing.
+Fundos públicos e privados e desenvolvimento econômico
+109
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Introdução
+Os fundos de desenvolvimento atrelam determinado patrimônio 
+a finalidades específicas associadas a projetos de desenvolvimento 
+econômico, social e/ou ambiental, apesar de poderem ter natureza  
+distinta. Na esfera federal, há mais de uma centena de fundos ativos 
+(Bassi, 2019), sendo os principais, em termos de patrimônio, o Fundo 
+de Garantia por Tempo de Serviço (FGTS); o Fundo de Amparo 
+ao Trabalhador (FAT); os fundos constitucionais de financiamento 
+do Nordeste (FNE), do Norte (FNO) e do Centro-Oeste (FCO); e o  
+Fundo de Financiamento Estudantil (Fies).
+Cada um desses fundos persegue objetivos específicos, podendo se 
+associar a diferentes externalidades, sejam elas econômicas, como 
+o Fundo Nacional de Desenvolvimento Científico e Tecnológico 
+(FNDCT), que financia ciência, tecnologia e inovações; sociais, 
+como o Fies, que financia educação superior; ou ambientais, como 
+o Fundo Nacional sobre Mudança do Clima (Fundo Clima), que 
+financia projetos e empreendimentos que tenham como objetivo a 
+mitigação das mudanças climáticas.
+Para além das externalidades relacionadas a cada fundo, por meio 
+de operações de crédito, garantias ou investimentos, e mesmo pela 
+aplicação de suas disponibilidades, eles podem gerar ativos finan-
+ceiros (e receitas) para o setor público e trazer outros parceiros para 
+o financiamento dessas atividades, alavancando recursos seja por 
+meio de doações ou de investimentos.
+Assim, o trabalho analisa os fundos em quatro dimensões:  
+(i) impactos fiscais; (ii) geração de ativos financeiros e recei-
+tas; (iii) alavancagem de recursos e captação de parceiros; e  
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+110
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+(iv) entregas para a sociedade e externalidades. Essas dimensões 
+serão examinadas a partir de uma tipologia que diferencia os 
+impactos sobre as finanças públicas: programático (que executa 
+despesas primárias do orçamento e ações não reembolsáveis), de 
+financiamento, de garantias ou de investimento.
+Este trabalho contém três seções, além desta introdução e da 
+conclusão. A próxima seção estabelece uma tipologia dos fundos 
+de desenvolvimento com base em Costa (2012; 2017), que os 
+distingue pela sua natureza (público ou privado) e finalidade 
+(programático, isto é, que executa despesas primárias; de 
+financiamento; de garantia; ou de investimento). A seção 
+seguinte descreve os impactos fiscais desses fundos sobre 
+as finanças públicas (resultado primário e endividamento 
+público). A última seção traz estudos de caso de quatro fundos 
+de desenvolvimento operados pelo BNDES: (i) FAT, fonte 
+principal de funding do Banco; (ii) Fundo Clima, fundo público 
+de financiamento para projetos e empreendimentos que tenham 
+como objetivo a mitigação das mudanças climáticas; (iii) BNDES 
+FGI, fundo privado de garantias para a ampliação do acesso a 
+crédito para micro, pequenas e médias empresas (MPME); e  
+(iv) Fundo Amazônia, fundo privado programático, formado 
+por doações, que apoia, com recursos não reembolsáveis, ações 
+de prevenção, monitoramento e combate ao desmatamento e 
+de promoção da conservação e do uso sustentável da Amazônia 
+Legal. Para cada um desses quatro fundos, são identificados seus 
+principais benefícios e impactos fiscais.
+Fundos públicos e privados e desenvolvimento econômico
+111
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Tipologia dos fundos: diferentes 
+naturezas e finalidades
+Os fundos são uma importante ferramenta para o financiamento do 
+desenvolvimento econômico, social e ambiental.1 Em geral, buscam 
+assegurar a captação de recursos para finalidades específicas, perse-
+guindo diferentes resultados associados ao desenvolvimento. Além 
+disso, na maioria dos casos, a alocação de recursos está submetida 
+a uma governança própria que varia com o modelo de cada fundo. 
+A despeito dessas características, é possível agrupá-los quanto a sua 
+natureza e finalidade, e quanto a seus diferentes impactos sobre o 
+resultado primário do setor público.
+A primeira grande distinção entre os fundos de desenvolvimento é 
+quanto a sua natureza (público ou privado). Isso define se sua regulação 
+será feita no âmbito do direito público ou do direito privado e se aplica 
+mesmo quando não existe uma personalidade jurídica própria associa-
+da ao fundo (CNPJ), como é o caso de diversos fundos públicos. 
+Os fundos públicos são aqueles criados por lei, que operam dentro 
+do orçamento e cuja natureza é de entidade pública. 2 Em termos 
+1  Bassi (2019, p. 9) oferece um breve histórico dos fundos públicos no Brasil.
+2  Na Tabela de Natureza Jurídica (IBGE, 2021), os fundos públicos federais são: (i) Fundo 
+Público da Administração Direta Federal (código 131-7), que compreende fundos especiais de 
+natureza contábil e/ou financeira, não dotados de personalidade jurídica, previstos nos artigos 
+71 a 74 da Lei 4.320, de 17 de março de 1964, e criados no âmbito de poder da União, bem como 
+dos ministérios públicos e dos tribunais de contas; e (ii) Fundo Público da Administração Indi-
+reta Federal (código 128-7), que compreende fundos dotados de personalidade jurídica (isto é, 
+com CNPJ), criados no âmbito de poder da União. Há códigos distintos para fundos estaduais e 
+municipais: Fundo Público da Administração Indireta Estadual ou do Distrito Federal (129-5); 
+Fundo Público da Administração Indireta Municipal (130-9); Fundo Público da Administra-
+ção Direta Estadual ou do Distrito Federal (132-5); e Fundo Público da Administração Direta 
+Municipal (133-3).
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+112
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+legais, os fundos públicos são chamados de fundos especiais 
+(Lei 4.320, de 17 de março de 1964). No art. 71, consta que “cons-
+titui fundo especial o produto de receitas especificadas que por lei 
+se vinculam à realização de determinados objetivos ou serviços, 
+facultada a adoção de normas peculiares de aplicação”. Uma van-
+tagem dos fundos é que, salvo determinação em contrário da lei 
+que o instituiu, eventual saldo positivo do fundo especial apurado 
+em balanço será transferido para o exercício seguinte, a crédito 
+do mesmo fundo (art. 73). Outra vantagem é que eles garantem 
+recursos para objetivos específicos, o que é importante quando 
+há necessidade de investimentos contínuos por um longo perío-
+do, como na infraestrutura e na ciência e tecnologia, funcionando 
+como fontes estáveis de recursos de longo prazo.
+O Decreto 93.872, de 23 de dezembro de 1986, distingue os fun-
+dos especiais de natureza contábil ou financeira. Ambos são de-
+finidos como “a modalidade de gestão de parcela de recursos do 
+Tesouro Nacional, vinculados por lei à realização de determina-
+dos objetivos de política econômica, social ou administrativa do  
+Governo” (art. 71). Porém, os fundos especiais de natureza contábil 
+são os constituídos por disponibilidades financeiras evidenciadas em  
+registros contábeis, que se destinam a atender a saques efetuados 
+diretamente contra o caixa do Tesouro Nacional; já os fundos espe-
+ciais de natureza financeira são os constituídos mediante movimen-
+tação de recursos de caixa do Tesouro Nacional para depósitos em 
+estabelecimentos oficiais de crédito (os bancos públicos), destina-
+dos a atender aos saques previstos em programação específica.
+Os fundos privados são aqueles regidos pelo direito privado, 
+compreendendo fundos privados (aval, garantidores de parcerias 
+Fundos públicos e privados e desenvolvimento econômico
+113
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+público-privadas e fundos patrimoniais – endownments);3 fundos 
+de investimentos regulados pela Comissão de Valores Mobiliários 
+(CVM) ou pelo Banco Central do Brasil (BCB); 4 e fundos garanti-
+dores de créditos.5
+A segunda distinção é quanto à finalidade dos fundos. Usou-se aqui 
+a classificação proposta por Costa (2017, p. 17-22), com algumas 
+simplificações.6 Propõem-se quatro diferentes finalidades:
+i. Pr
+ogramáticos: executam programas orçamentários ou 
+ações não reembolsáveis, incluindo também os fundos para 
+transferência de recursos orçamentários, como o Fundo de 
+Participação dos Estados (FPE), o Fundo de Participação 
+dos Municípios (FPM) e os fundos soberanos.
+3  De acordo com a Tabela de Natureza Jurídica (IBGE, 2021), a classificação Fundo Pri-
+vado (código 324-7) compreende: (i) os fundos de avais privados; (ii) os fundos garantidores 
+de parcerias público-privadas (FGP) da União, dos estados, do Distrito Federal ou dos mu-
+nicípios, previstos na Lei 11.079, de 30 de dezembro de 2004; e (iii) os fundos patrimoniais 
+criados pela Lei 13.800, de 14 de janeiro de 2019 (também conhecidos como endowments).
+4  De acordo com a Tabela de Natureza Jurídica (IBGE, 2021), a classificação Clu-
+be/Fundo de Investimento (código 222-4) compreende: (i) os clubes de investimento  
+regulados pela CVM ou BCB, como os clubes de investimento em ouro; (ii) os fundos de 
+investimento imobiliário regulados pela CVM; e (iii) os fundos de investimentos mobi-
+liários, de renda variável ou de renda fixa, regulados pela CVM ou pelo BCB, tais como: 
+os fundos de investimento em títulos e valores mobiliários, os fundos mútuos de inves-
+timento em empresas emergentes, os fundos de investimento em direitos creditórios.
+5  De acordo com a Tabela de Natureza Jurídica (IBGE, 2021), a classificação fundos ga-
+rantidores de créditos e outras associações privadas (código 399-9) compreende associações 
+privadas previstas nos artigos 53 a 61 da Lei 10.406, de 10 de janeiro de 2002 (Código Civil).
+6  A principal simplificação foi a distribuição, segundo suas finalidades específicas (pro-
+gramática, financiamento, garantias ou investimento), dos fundos parafiscais de poupança 
+compulsória, como o FGTS, os quais, embora não integrem o patrimônio do setor público, 
+vinculam-se ao atendimento de finalidades específicas que a administração pública tem 
+interesse em tutelar. Outra simplificação foi agregar outras duas categorias específicas 
+(fundos de transferência e fundos de formação de poupança pública, também conhecidos 
+como fundos soberanos) aos fundos programáticos, assim como admitir fundos programá-
+ticos privados, que executam aplicações que não geram ativos, como as não reembolsáveis.
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+114
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+ii. Financiamento: conc edem financiamentos e empréstimos.
+iii. Garantidor
+es: garantem determinadas operações/paga-
+mentos com base em ativos reais de seu patrimônio.
+iv. Investimento: entendidos 
+como uma comunhão de recur-
+sos, constituído sob a forma de condomínio, destinado 
+à aplicação em ativos financeiros, na forma da Instrução 
+CVM 555 de 17 de dezembro de 2014.7
+O Quadro 1 traz exemplos de fundos de desenvolvimento em cada 
+uma das finalidades especificadas.
+Quadro 1 • Exemplos de fundos de desenvolvimento e suas  
+respectivas finalidades
+Natureza
+Finalidade Público/orçamentário Privado/extraorçamentário
+Programático
+Fundo Nacional de Saúde (FNS); 
+Fundo de Manutenção e 
+Desenvolvimento da Educação Básica 
+e de V
+alorização dos Profissionais da 
+Educação (Fundeb)
+Fundo Amazônia;
+Fundo Patrimonial Feausp
+Financiamento
+FNE, FNO e FCO; 
+Fundo da Marinha Mercante (FMM)
+Fundo de Desenvolvimento  
+Social (FDS);
+Fundo de Arrendamento 
+Residencial (F
+AR)
+Garantidor
+Fundo de Garantia à Exportação 
+(FGE); Fundo de Garantia para a 
+Promoção da Competitividade (FGPC) 
+BNDES FGI;
+Fundo de Garantia de 
+Operações (FGO)
+Investimento
+Não existem, conforme regulação 
+da CVM
+Fundo de Investimento do 
+Fundo de Garantia do Tempo 
+de Serviço (FI-FGTS); fundos da 
+série Criatec 
+Fonte: Elaboração própria.
+7  Pela regulação da CVM, os fundos de investimento são de natureza privada, mesmo 
+que o capital neles investido seja público.
+Fundos públicos e privados e desenvolvimento econômico
+115
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Nos fundos programáticos públicos, os exemplos são de um fundo 
+associado a saúde e um a educação. O Fundo Nacional de Saúde 
+(FNS) faz a gestão financeira dos recursos destinados a financiar 
+as despesas correntes e de capital do Ministério da Saúde e dos ór-
+gãos e entidades da administração direta e indireta integrantes do 
+Sistema Único de Saúde (SUS). Já o Fundo de Manutenção e Desen-
+volvimento da Educação Básica e de Valorização dos Profissionais 
+da Educação (Fundeb) é um fundo de transferência que redistribui 
+recursos para aplicação na manutenção e no desenvolvimento da 
+educação básica pública, bem como na valorização dos profissionais 
+da educação, incluída sua condigna remuneração.
+Já os exemplos de fundos privados incluem: (i) o Fundo Amazônia, 
+gerido pelo BNDES, que capta doações para ações de prevenção, 
+monitoramento e combate ao desmatamento e de promoção da 
+conservação e do uso sustentável da Amazônia Legal; e (ii) o Fundo 
+Patrimonial Feausp, que capta doações para apoiar os objetivos da 
+Faculdade de Economia e Administração (FEA) da Universidade de 
+São Paulo (USP) por meio de um fundo de endowments.
+Nos fundos públicos de financiamento, o primeiro exemplo é dos 
+fundos FNE, FNO e FCO, que têm como objetivo contribuir, 
+respectivamente, para o desenvolvimento econômico e social das  
+regiões Nordeste, Norte e Centro-Oeste, por meio das instituições 
+financeiras federais de caráter regional, 8 mediante a execução de 
+programas de financiamento aos setores produtivos. Já o Fundo 
+da Marinha Mercante (FMM) tem como objetivo prover recursos 
+para o desenvolvimento da Marinha Mercante e da indústria de 
+8  O gestor do FNE é o Banco do Nordeste (BNB), o do FNO é o Banco da Amazônia 
+(Basa) e o do FCO é o Banco do Brasil (BB).
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+116
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+construção e reparação naval brasileiras e tem como agente finan-
+ceiro o BNDES. Nos fundos privados, são dois exemplos ligados 
+ao financiamento habitacional no programa Minha Casa, Minha 
+Vida (MCMV), operado pela Caixa Econômica Federal (CEF): 
+(i) o Fundo de Desenvolvimento Social (FDS), que financia proje-
+tos de investimento de relevante interesse social nas áreas de ha-
+bitação popular (além de projetos de saneamento e infraestrutura, 
+se vinculados a programas de habitação), bem como equipamentos 
+comunitários; e (ii) o Fundo de Arrendamento Residencial (FAR), 
+que investe em empreendimentos imobiliários (unidades habita-
+cionais) e edificação de equipamentos públicos de educação, saúde 
+e outros complementares à habitação.
+Nos fundos de garantia públicos, os exemplos são o Fundo de Garan-
+tia à Exportação (FGE), que dá cobertura às garantias prestadas pela 
+União nas operações de Seguro de Crédito à Exportação (SCE); e o 
+Fundo de Garantia para a Promoção da Competitividade (FGPC), 
+que garante parte do risco de crédito das instituições financeiras 
+nas operações de MPMEs exportadoras que venham a utilizar as 
+linhas de financiamento do BNDES, tendo sido substituído pelo 
+BNDES FGI, de natureza privada. Os exemplos de fundos privados 
+de garantia incluem o BNDES FGI, gerido pelo BNDES, e o Fundo 
+de Garantia de Operações (FGO), gerido pelo Banco do Brasil (BB).
+Finalmente, dos fundos de investimento, que são sempre privados, 
+destaca-se o Fundo de Investimento do Fundo de Garantia do Tem-
+po de Serviço (FI-FGTS), gerido pela CEF, que aplica recursos na 
+construção, reforma, ampliação ou implantação de empreendimen-
+tos de infraestrutura em rodovias, portos, hidrovias, ferrovias, aero-
+portos, energia e saneamento, sendo o maior fundo de investimento 
+em infraestrutura da América Latina. Outro exemplo são os fundos 
+Fundos públicos e privados e desenvolvimento econômico
+117
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+de investimento da série Criatec, que investem em participações em 
+MPMEs inovadoras, dos quais o BNDES é o principal quotista. Até 
+o fim de 2024, já haviam sido lançados quatro fundos dessa série. Em 
+sua operacionalidade, diferentes investidores subscrevem uma quan-
+tia de capital, enquanto um gestor se responsabiliza por gerir a to-
+talidade dos recursos, adotar práticas de governança, agregar valor 
+aos ativos investidos por meio da sua gestão financeira e operacional, 
+assim como propiciar retornos financeiros para a base de quotistas.
+Dos quatro fundos selecionados para estudo, dois (FAT e Fundo 
+Clima) têm características híbridas, sendo uma parcela de seus re-
+cursos destinada a despesas programáticas (seguro-desemprego, 
+abono salarial e qualificação profissional, no caso do FAT; e apli-
+cações não reembolsáveis, no caso do Fundo Clima) e outra parcela 
+destinada a financiamento pelo BNDES.
+Impactos fiscais
+Para avaliar o impacto sobre o resultado primário das operações dos 
+fundos, examinaram-se manuais oficiais de contabilidade pública: o 
+Manual de Estatísticas Fiscais, do Banco Central do Brasil (BCB, 2018), 
+e o Manual de Contabilidade Aplicada ao Setor Público (MCASP), do 
+Tesouro Nacional (Brasil, 2021). A partir deles, busca-se conceituar 
+resultado nominal, resultado primário e dívida líquida do setor pú-
+blico, para estabelecer constatações sobre as movimentações (aportes, 
+receitas e despesas) dos fundos públicos e privados.
+No caso de fundos de financiamento, pode haver também um 
+benefício creditício nos juros praticados, que ocorre quando os  
+juros cobrados do cliente final são inferiores ao custo de capta-
+ção do Tesouro Nacional. São definidos pela Portaria ME 2.877,  
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+118
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+de 1º de abril de 2022, como gastos incorridos pela União decor-
+rentes do diferencial entre o rendimento de fundos, programas ou 
+concessões de crédito operacionalizados sob condições financeiras 
+específicas e o custo de oportunidade do Tesouro Nacional. Como 
+ocorrem apenas para os fundos de financiamento, não são o foco 
+desta seção. As estimativas de benefícios creditícios constam em 
+Brasil (2024b). 
+Principais conceitos
+O Balanço Patrimonial da União apresenta todos os passivos e ati-
+vos da União, inclusive ativos permanentes e pouco líquidos, como 
+imóveis, máquinas e equipamentos, material permanente, bens de 
+capital em geral e títulos representativos de capital integralizado  
+de empresas ou entidades de qualquer espécie (Brasil, 2021).
+No entanto, a dívida líquida do setor público (DLSP) 9 é definida 
+como o balanceamento entre as dívidas e os créditos do setor público 
+não financeiro (BCB,  2018, p. 12). Ela apresenta os passivos e os 
+ativos financeiros com algum grau de liquidez, excluindo os ativos 
+permanentes. Os repasses e outros aportes governamentais ao setor 
+financeiro para lastrear operações de fundos e programas de finan-
+ciamento registrados no passivo do sistema bancário compõem um 
+ativo financeiro na DLSP, desde que as instituições financeiras as-
+sumam o risco de crédito envolvido nas operações. Analogamente, 
+quando o risco recai sobre o próprio governo, os aportes do setor 
+público para lastrear a implementação de políticas governamentais 
+não são registrados como ativos financeiros na DLSP. Os compo-
+nentes da DLSP do Governo Federal e do BCB são:
+9  O setor público para fins da DLSP engloba as três esferas de governo, o Banco Central 
+e empresas estatais dependentes do orçamento.
+Fundos públicos e privados e desenvolvimento econômico
+119
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Quadro 2 • Componentes da DLSP
+Passivo Ativo
+Governo Federal
+Dívida mobiliária em mercado (dívida 
+mobiliária do Tesouro Nacional ou títulos 
+sob custódia do FGE)
+Depósitos à vista
+Dívidas securitizadas e títulos da dívida 
+agrária (TDA)
+Recursos do FAT
+Dívida bancária federal Previdência social
+Arrecadação a recolher Renegociação (Lei 9.496/1997 e  
+MP 2.185/2001)
+Relacionamento com o BCB (dívida 
+mobiliária na carteira do BCB)
+Renegociação (Lei 8.727/1993)
+Dívidas reestruturadas
+Créditos concedidos a instituições 
+financeiras oficiais
+Aplicações em fundos e programas
+Outros créditos do Governo Federal
+Relacionamento com o BCB (conta única do 
+Tesouro Nacional)
+Banco Central
+Base monetária Créditos a instituições financeiras
+Dívida mobiliária do BCB Demais contas
+Operações compromissadas Relacionamento com o Governo Federal 
+(dívida mobiliária na carteira do BCB)
+Depósitos no BCB
+Relacionamento com o Governo Federal 
+(conta única do Tesouro Nacional)
+Fonte: Elaboração própria a partir de BCB (2018). 
+O estoque da DLSP pode variar em função de ajustes cambiais ou 
+outros ajustes de preços, do reconhecimento de dívidas e das chama-
+das necessidades de financiamento do setor público (NFSP), tam-
+bém denominadas “resultado nominal”.  As NFSP, por sua vez, se 
+dividem entre “resultado primário” e “resultado de juros nominais”.
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+120
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+O resultado nominal é calculado pela variação do endividamento 
+líquido do governo, ou DLSP, descontada dos ajustes patrimoniais e 
+metodológicos (BCB, 2018, p. 32s), conforme equação a seguir.
+Equação 1. Resultado nominal = variação da DLSP – ajustes  
+patrimoniais e metodológicos
+Já na DLSP, os débitos/créditos correspondem aos passivos/ativos 
+financeiros do setor público perante o setor privado financeiro, o 
+setor público financeiro, o setor privado e o resto do mundo. A 
+regra geral é que os débitos/créditos, para serem considerados no 
+levantamento da dívida líquida, devem estar registrados no ativo/
+passivo das instituições financeiras credoras/devedoras do gover-
+no.10 Resumidamente, a DLSP pode ser definida da seguinte forma:
+Equação 2. DLSP = M + B + EI − A + EF − ER,
+onde M é a base monetária; B é o saldo da dívida interna corrigida 
+por juros internos ou por índices domésticos; E é a taxa de câmbio; 
+I corresponde à dívida interna indexada à variação da taxa de câm-
+bio; A são os ativos financeiros do setor público; e F e R represen-
+tam a dívida externa e as reservas internacionais, respectivamente.
+A variação da dívida líquida corresponde à variação da base mone-
+tária, dos títulos domésticos e externos (B, I e F), dos ativos internos 
+e externos (A e R) e da taxa de câmbio:
+dDLSP = dM + dB + E dI − dA + E dF − E dR + (I+F−R) dE, ou
+10  São computadas as emissões de títulos da dívida pública em mercado e as relações 
+financeiras oriundas de assunções/reestruturações de débitos ocorridas no passado, por 
+força de lei.
+Fundos públicos e privados e desenvolvimento econômico
+121
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Equação 3. dDLSP = dM + dB + E(dI+dF−dR) − dA + (I+F−R) dE
+As informações sobre necessidades de financiamento são calculadas 
+a partir da variação da dívida líquida, utilizando o critério conhe-
+cido como “abaixo da linha”. Por esse critério, o resultado fiscal do 
+setor público é medido pela variação do estoque do endividamento 
+líquido do setor público não financeiro, ou seja, pelo financiamento 
+concedido pelo sistema financeiro e pelos setores privado e externo 
+ao setor público não financeiro. O critério “abaixo da linha” não 
+permite conhecer os fatores que levaram ao resultado. Isso é realiza-
+do por meio da análise das receitas e despesas do setor público, que 
+permite chegar ao resultado pelo critério “acima da linha”.11
+No conceito primário, as necessidades de financiamento correspon-
+dem ao componente não financeiro do resultado fiscal do setor públi-
+co. O cálculo do resultado primário (P) se dá excluindo do resultado 
+nominal os juros nominais, apropriados por competência (JN), in-
+cidentes sobre a dívida líquida interna e externa (BCB, 2018, p. 33):
+Equação 4. P = NFSP – JN,
+onde P é o resultado primário; e JN é o fluxo de juros nominais.
+Finalmente, os juros incidentes sobre a dívida do setor público 
+são determinados pelo nível da taxa de juros nominal interna e 
+externa e pela dimensão do estoque da dívida. O cálculo dos juros 
+nominais, apropriados por competência, incidentes sobre a dívida 
+interna e externa engloba os juros reais e o componente de atua-
+lização monetária da dívida. Corresponde, assim, ao componente 
+11  Em princípio, os dois critérios são equivalentes e deveriam chegar aos mesmos nú-
+meros. Entretanto, podem ocorrer discrepâncias estatísticas em decorrência de questões 
+específicas relacionadas, por exemplo, à abrangência e/ou ao período da compilação.
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+122
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+financeiro do resultado fiscal, que é retirado da NFSP para cálculo 
+do resultado primário.
+Essas definições são a base para estabelecermos as constatações so-
+bre impactos dos fundos no resultado primário. 
+Constatações sobre impacto 
+no resultado primário
+A natureza dos fundos, se pública ou privada, bem como as movimen-
+tações a eles relacionadas terão impactos distintos sobre o resultado 
+primário. Em outras palavras, os aportes nos fundos, suas receitas  
+e/ou despesas, terão diferentes impactos a depender da sua natureza.
+Iniciamos pelos aportes em fundos públicos. Ao aportar recursos 
+em fundo público federal, os ativos financeiros do setor público 
+(A), componente da equação 2, não variam: dA = 0 na equação 3.  
+Os  recursos continuam na Conta Única do Tesouro Nacional 12  
+(no caso de fundo especial contábil) ou vão para um banco pú-
+blico (no caso de fundo especial financeiro), deixando apenas de 
+estar livres (não vinculados), passando a estar vinculados a algum 
+fundo. Portanto, não há impacto sobre a dívida líquida do setor 
+público e sobre o resultado primário (constatação 1).
+Constatação 1. O aporte em fundos públicos não tem impacto sobre 
+resultado primário.
+12  Segundo o Glossário de termos orçamentários (Brasil, 2020, p. 23), a Conta Única do 
+Tesouro Nacional acolhe todas as disponibilidades financeiras da União, inclusive fun-
+dos, de suas autarquias e de suas fundações. É mantida no BCB e constitui importante 
+instrumento de controle das finanças públicas, uma vez que permite a racionalização da 
+administração dos recursos financeiros, além de agilizar os processos de transferência e 
+descentralização financeira e os pagamentos a terceiros.
+Fundos públicos e privados e desenvolvimento econômico
+123
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Já as despesas (aplicações) de um fundo público podem ter impacto 
+sobre o resultado primário. O caso mais simples é o dos fundos pro-
+gramáticos, que executam despesas primárias como despesas com 
+pessoal e encargos, outras despesas correntes e/ou investimentos e 
+não geram ativo financeiro. Nesse caso, reduzem/ampliam o supe-
+rávit/déficit primário e aumentam a DLSP. 
+No caso das aplicações de fundos públicos de financiamento, 13 
+há uma inversão financeira que gera um ativo financeiro do setor 
+público. Se o risco desse ativo é de bancos públicos federais, não 
+há impacto sobre a DLSP e o resultado primário. É o caso dos fi-
+nanciamentos com recursos do FAT e outros fundos públicos de 
+financiamento operados pelos bancos federais, como os fundos 
+constitucionais de financiamento (FNE, FNO e FCO). 14 Assim, 
+também a parte relacionada a financiamentos do Fundo Clima não 
+gera impacto no resultado primário, enquanto a parcela não reem-
+bolsável dos recursos (de finalidade programática) tem impacto ne-
+gativo. Cabe ressaltar, contudo, que se a União é responsável pelo 
+risco da inversão financeira, há impacto negativo sobre o resultado 
+primário, pois a inversão financeira deixa de se configurar como 
+um ativo líquido.15 Em suma, há impacto negativo sobre o resultado 
+primário das despesas dos fundos programáticos, e não há impacto 
+13  Ainda que menos comuns, há também os fundos públicos de garantia que teriam o 
+mesmo impacto sobre o resultado primário.
+14  No Manual de Estatísticas Fiscais (BCB, 2018, p. 18 e ss.), os recursos do FAT e os cré-
+ditos concedidos a instituições financeiras oficiais aparecem na lista de ativos que devem 
+ser excluídos da DLSP.
+15  Um exemplo disso pode ser encontrado em BCB (2017), nota metodológica do Banco 
+Central sobre registro dos ativos financeiros do Fies na DLSP. Nos financiamentos com 
+uso do fundo garantidor privado (FGEDUC), não há impacto sobre superávit primário. Já 
+nos financiamentos com risco União, há impacto negativo.
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+124
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+no caso dos fundos de financiamento e garantias quando o risco é 
+de terceiros (constatação 2).
+Constatação 2. O impacto de despesa de fundos públicos no resulta-
+do primário depende da finalidade do fundo: (i) fundos programá-
+ticos (não reembolsáveis) geram impacto negativo sobre resultado 
+primário; e (ii) financiamento e garantias não geram impacto se a 
+assunção de risco é de terceiros (regra geral do BNDES) e geram 
+impacto negativo se o risco é da União.
+As receitas dos fundos públicos são, em geral, correntes 16 e impac-
+tam positivamente o resultado primário. São exemplos de receitas 
+correntes: os juros recebidos pelos financiamentos 17 e os encargos 
+para concessão de garantias. Logo, há impacto positivo no resultado 
+primário de receitas de fundos públicos (constatação 3).
+Constatação 3. O impacto positivo de receitas de fundos públicos 
+no resultado primário é, em geral, direto, com contribuição positiva 
+das receitas correntes.
+Já nos fundos privados, o aporte de recursos pela União impacta 
+negativamente o resultado primário (Costa, 2017, p. 24). Esse aporte 
+deve necessariamente constar no orçamento público. Ao aportar 
+16  Receitas correntes são aquelas arrecadadas no exercício financeiro que aumentam as 
+disponibilidades financeiras do Estado, em geral com efeito positivo sobre o patrimônio 
+líquido e negativo sobre a DLSP.
+17  No caso da amortização de financiamento, há duas possibilidades. Uma é o recurso 
+continuar no fundo, sendo remunerado, por exemplo, à Selic ou a outra taxa, com o mon-
+tante de crédito da União contra o fundo permanecendo o mesmo. A segunda possibili-
+dade é a amortização ir para a União, o que diminuiria o crédito da União contra o fundo 
+com o recebimento de depósitos na Conta Única do Tesouro. Em ambos os casos, não há 
+impacto sobre o superávit primário.      
+Fundos públicos e privados e desenvolvimento econômico
+125
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+dinheiro (depósitos à vista) em fundo privado, os ativos financei-
+ros do setor público (A), componente da equação 2, diminuem se 
+não houver criação de ativo financeiro correspondente: dA < 0 na 
+equação 3. Os recursos saem da Conta Única do Tesouro Nacional, 
+sem que o ativo gerado seja descontado da DLSP. Se houver a disso-
+lução do fundo ou resgate de cotas, contudo, os recursos voltam aos 
+acionistas, impactando positivamente o resultado primário. Logo, 
+o aporte em fundos privados tem impacto negativo sobre resultado 
+primário (constatação 4).
+Constatação 4. O aporte em fundos privados tem impacto negativo 
+sobre o resultado primário. Todavia, no caso de dissolução do fun-
+do, há impacto positivo sobre o resultado primário.
+Já as demais movimentações dos fundos (receitas e despesas), por 
+serem extraorçamentárias, não impactam o resultado primário 
+(Costa, 2017, p. 24). Essa ausência de impacto sobre o resulta-
+do primário é o objeto das constatações 5 e 6. A exceção são 
+os dividendos pagos pelos fundos à União, receitas patrimoniais 
+correntes e primárias que impactam positivamente o resultado 
+primário (constatação 5).
+Constatação 5. Despesas de fundos privados não têm impacto sobre 
+resultado primário, à exceção dos dividendos pagos à União (que 
+têm impacto positivo).
+Constatação 6. Receitas de fundos privados não têm impacto sobre 
+resultado primário.
+As constatações são resumidas no Quadro 3.
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+126
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Quadro 3 • Constatações dos impactos fiscais dos fundos
+Natureza
+Movimentação Público/orçamentário Privado/extraorçamentário
+Aporte
+Constatação 1. O aporte em 
+fundos públicos não tem impacto 
+sobre o resultado primário
+Constatação 4. O aporte em 
+fundos privados tem impacto 
+negativo sobre o resultado 
+primário. Todavia, no caso 
+de dissolução do fundo, há 
+impacto positivo sobre o 
+resultado primário
+Despesa/aplicação
+Constatação 2. O impacto de 
+despesa de fundos públicos no 
+resultado primário depende da 
+finalidade do fundo: (i) fundos 
+programáticos (não reembolsáveis) 
+geram impacto negativo sobre 
+resultado primário; e (ii) financiamento 
+e garantias não geram impacto se a 
+assunção de risco é de terceiros (regra 
+geral do BNDES) e geram impacto 
+negativo se o risco é da União
+Constatação 5. Despesas de 
+fundos privados não têm 
+impacto sobre o resultado 
+primário, à exceção dos 
+dividendos pagos à União  
+(que têm impacto positivo)
+Receitas
+Constatação 3. O impacto positivo
+ 
+de receitas de fundos públicos no 
+resultado primário é, em geral, 
+direto, com contribuição positiva das 
+receitas correntes
+Constatação 6. Receitas de 
+fundos privados não têm 
+impacto sobre o resultado 
+primário
+Fonte: Elaboração própria.
+Feitas essas contatações, podemos iniciar os estudos de caso dos 
+fundos na seção seguinte. 
+Estudos de caso
+Para os estudos de caso, foram selecionados quatro fundos de de-
+senvolvimento operados pelo BNDES: (i) o FAT, fundo público de 
+financiamento para programas de desenvolvimento econômico, 
+que é a principal fonte de funding do BNDES; (ii) o Fundo Clima,  
+fundo público de financiamento para projetos e empreendimentos 
+que tenham como objetivo a mitigação das mudanças climáticas; 
+Fundos públicos e privados e desenvolvimento econômico
+127
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+(iii) o BNDES FGI, fundo privado de garantias para a ampliação do 
+acesso a crédito para MPMEs; e (iv) o Fundo Amazônia, fundo pri-
+vado programático, formado por doações, que apoia, com recursos 
+não reembolsáveis, ações de prevenção, monitoramento e combate 
+ao desmatamento e de promoção da conservação e do uso susten-
+tável da Amazônia Legal. Para cada um desses quatro fundos, serão 
+identificados seus principais benefícios e impactos fiscais.
+O Fundo de Amparo ao 
+Trabalhador (FAT): projetos de 
+desenvolvimento gerando receitas 
+para as despesas sociais
+O FAT foi instituído pelo art. 239 da Constituição de 1988 e 
+implementado pela Lei 7.998, de 11 de janeiro de 1990, 18 tendo 
+sua governança vinculada ao Ministério do Trabalho e Emprego 
+(MTE). A ideia foi usar recursos do PIS/Pasep para criar um fundo 
+que pagaria o abono salarial 19 e o seguro-desemprego 20 e, de cada 
+R$ 100 arrecadados, aplicaria R$ 40 no BNDES, com o rendimen-
+to obtido engrossando o patrimônio do FAT (Serra apud Domin-
+gues, 2018, p. 77). O FAT, assim, tem características de um fundo 
+público misto, com 60% de seus recursos destinados a programas 
+18  A Lei 12.513, de 26 de outubro de 2011, incluiu o financiamento de programas de 
+educação profissional e tecnológica entre as destinações do FAT.
+19  O abono salarial, instituído pela Lei 7.998/1990, equivale ao valor anual de, no má-
+ximo, um salário-mínimo a ser pago a trabalhadores elegíveis que recebam remuneração 
+mensal de até dois salários-mínimos.
+20  O seguro-desemprego, instituído pelo Decreto-Lei 2.284/1986, tem a finalidade de 
+garantir assistência financeira temporária ao trabalhador dispensado involuntariamente 
+(sem justa causa) elegível. 
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+128
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+orçamentários (abono salarial e seguro-desemprego), com carac-
+terísticas de fundo contábil, e 40% destinados ao financiamento 
+de programas de desenvolvimento via BNDES (fundo financeiro).
+A parcela destinada ao BNDES é aplicada em projetos de desenvol-
+vimento, cujo retorno em juros é devolvido ao FAT. Ao BNDES é 
+permitido reaplicar a amortização dos financiamentos, só precisan-
+do devolver ao fundo o principal emprestado caso faltem recursos 
+para os pagamentos do seguro-desemprego e do abono salarial, o 
+que não vem acontecendo. 
+Para cálculos relacionados ao impacto fiscal do FAT, foram usados os 
+dados sobre o FAT disponíveis em Tinoco, Borça Jr. e Macedo (2018) 
+e Borça Jr. e Tinoco (2024) e reproduzidos na Tabela A1.1 no 
+Apêndice 1 deste trabalho. Entre 1995 e 2023, o BNDES recebeu, 
+em inversões financeiras, 21 valores nominais de R$ 318,8 bilhões e 
+remunerou o fundo com R$ 322,2 bilhões em receitas correntes de 
+juros, que impactam positivamente o resultado primário (consta-
+tação 3). A remuneração do fundo foi suficiente para custear toda 
+a despesa primária com abono salarial, de R$ 255,4 bilhões no pe-
+ríodo. Se somarmos a despesa primária com seguro-desemprego, 
+de R$ 609,1 bilhões, a remuneração recebida pelo FAT foi suficien-
+te para custear 37% das despesas primárias no período. Incluindo, 
+contudo, as demais receitas e despesas do fundo,22 houve um déficit 
+de R$ 7,1 bilhões concentrado nos anos entre 2011 e 2019, uma vez  
+que houve aprofundamento da política de desonerações fis-
+cais (2011-2014), além de crise econômica e baixo crescimento 
+21  Sem impacto no resultado primário pelo FAT ser um fundo público (ver constatação 1 
+na seção anterior).
+22  O FAT recebe também contribuições sindicais, opera depósitos especiais e financia 
+despesas de qualificação profissional.
+Fundos públicos e privados e desenvolvimento econômico
+129
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+entre 2015 e 2016, situações que derrubaram a arrecadação de  
+PIS/Pasep.23 O déficit entre 2011 e 2019 foi de R$ 82,4 bilhões, 
+mais de onze vezes maior que o do período de 1995-2023 como 
+um todo. Para contrapor esse déficit, houve uso do Tesouro para 
+despesas do FAT no montante de R$ 69,3 bilhões ao longo dos  
+28 anos, dos quais R$ 57,9 bilhões no período 2011-2019, configu-
+rando-se como despesas primárias.
+Cabe destacar que esse déficit não teria ocorrido na ausência do me-
+canismo de Desvinculação de Receitas da União (DRU), que retirou 
+entre 15% e 30% das receitas do FAT no período 1995-2019. Foram 
+R$ 176,3 bilhões, dos quais R$ 105,8 bilhões deveriam ter sido des-
+tinados ao seguro-desemprego e ao abono salarial e R$ 70,5 bilhões, 
+ao BNDES.
+A partir de 2019, a Emenda Constitucional 103, de 12 de novembro 
+de 2019 (Reforma da Previdência), extinguiu a incidência da DRU 
+sobre as receitas das contribuições sociais destinadas ao custeio da 
+seguridade social, mas introduziu a possibilidade de recursos do 
+PIS/Pasep financiarem “outras ações da previdência social”, além 
+do programa do seguro-desemprego e do abono salarial. A emen-
+da também reduziu para 28% os recursos do PIS/Pasep destinados 
+ao apoio a projetos de desenvolvimento pelo BNDES. Esse percen-
+tual equivale ao máximo da desvinculação de 30% promovida pela 
+DRU.24 Entre 2019 e 2023, foram destinados R$ 38,1 bilhões para 
+despesas previdenciárias.
+23  Entre 2012 e 2017, a arrecadação de PIS/Pasep caiu 3% em termos reais, se indexada 
+pelo IPCA.
+24 Seriam 70% dos 40% anteriormente destinados ao BNDES, resultando em 28%  
+do arrecadado.
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+130
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Cabe destacar o risco da inclusão do financiamento de outras ações 
+da previdência social para o FAT. Ainda que a Reforma da Pre-
+vidência tenha reduzido o déficit anual da previdência social de 
+R$  290  bilhões em 2018 para R$  270  bilhões em 2023, trata-se  
+de valores muito elevados e incompatíveis com o patrimônio do 
+FAT. Ao fim de 2023, o patrimônio do FAT alcançou R$ 490 bilhões, 
+dos quais R$ 397 bilhões foram aplicados no financiamento de pro-
+gramas de desenvolvimento econômico (Brasil, 2024c, p. 19).
+Na visão financeira geral do período, se excluirmos desvinculação 
+de receitas e gastos com previdência, o FAT teria sido superavitário 
+em R$ 208 bilhões. No entanto, mais relevante que essa geração de 
+receitas é seu impacto sobre o financiamento do desenvolvimento e 
+a geração de emprego.
+A avaliação dos financiamentos do FAT se confunde com a pró-
+pria avaliação do BNDES, dado que o fundo responde por mais 
+da metade das fontes do Banco. 25 Bienalmente, o BNDES publica 
+seu relatório de efetividade (BNDES, 2022b), no qual são revisa-
+das as avaliações de seu impacto publicadas pelo próprio BNDES 
+ou por terceiros. 
+Em tipos de apoio nos quais predominam MPMEs, pelo menos 
+metade das avaliações de impacto sobre faturamento, emprego 
+e investimento encontram impacto positivo. Esses efeitos positi-
+vos vão ao encontro da literatura, que ressalta a importância do 
+alívio da restrição de crédito – mais contundente em empresas 
+de menor porte – para o crescimento da firma, permitindo assim 
+25  Foi encontrada uma avaliação específica para o FAT (CMAP, 2022). Ela é bas-
+tante similar a outras avaliações realizadas para o BNDES como um todo e, por isso, 
+não foi destacada. 
+Fundos públicos e privados e desenvolvimento econômico
+131
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+que MPMEs apoiadas ampliem faturamento, emprego e investimento 
+em relação a empresas similares não apoiadas (BNDES, 2022b, p. 65).
+No que diz respeito ao monitoramento dos financiamentos, no bo-
+letim bimestral do FAT são apresentados o número de contratos  
+de financiamento, a aplicação de recursos e a estimativa de geração de 
+empregos pelos investimentos apoiados. Em 2023, foram cerca  
+de 183,7 mil contratos, desembolso de R$ 91,2 bilhões e 996 mil em-
+pregos gerados ou mantidos (Brasil, 2024c, p. 27-29).
+No Plano Estratégico do FAT 2022-2027 (Resolução 960, de 23 de 
+novembro de 2022), acompanha-se também o número de empresas 
+apoiadas pelo BNDES com recursos do fundo (35,9 mil em 2023), o 
+desembolso para infraestrutura (R$ 40,4 bilhões em 2023) e a varia-
+ção do emprego nas empresas apoiadas (0,4% em 2022).26
+Em termos históricos, a geração de emprego no apoio do BNDES 
+via FAT foi analisada em Santos (2018).27 Entre 2014 e 2023, o Ban-
+co chegou a um pico de 996 mil empregos gerados ou mantidos por 
+ano nos investimentos via FAT, superando os cerca de 700 mil  em 
+2014, 2018 e 2019 (ver Tabela A1.2 no Apêndice 1).
+Finalmente, no que tange à alavancagem de recursos e à captação 
+de parceiros, o FAT financia em torno de 50% do total dos inves-
+timentos, alavancando em geral o dobro do valor financiado. No 
+período 1995-2023, não houve aporte de parceiros no fundo, que foi 
+financiado basicamente com recursos do PIS/Pasep e transferências 
+residuais do Tesouro, todas previstas no orçamento público. 
+26  O indicador é defasado em função dos prazos de processamento da Relação Anual de 
+Informações Sociais (Rais) de cerca de dois anos.
+27  Há uma atualização não focada no FAT em Santos e Miguez (2022).
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+132
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+O Fundo Clima: combustíveis fósseis 
+financiando projetos ambientais
+O Brasil foi pioneiro em apresentar um programa para mitigação 
+e adaptação aos efeitos das mudanças climáticas. Na 15ª Confe-
+rência das Partes (COP 15), realizada na Dinamarca em 2009, o 
+Governo Federal apresentou um compromisso de reduzir 36,1% a 
+38,9% de suas emissões projetadas para 2020. Para isso, instituiu  
+a Política Nacional sobre Mudança do Clima (PNMC), por meio da  
+Lei 12.187, de 29 de dezembro de 2009, e seu respectivo instrumen-
+to financeiro, o Fundo Nacional sobre Mudança Climática (Fundo 
+Clima), por meio da Lei 12.114, de 9 de dezembro de 2009.
+O Fundo Clima tem sua governança vinculada ao Ministério do 
+Meio Ambiente e Mudanças Climáticas (MMA), recebe recursos de 
+royalties de petróleo e de outras fontes e investe recursos reembolsá-
+veis, via BNDES, e não reembolsáveis, via MMA, para apoio a proje-
+tos ou estudos e para financiamento de empreendimentos que visem 
+a mitigação da mudança climática e a adaptação aos seus efeitos.
+Em 2024, recebeu R$  10  bilhões de uma captação internacional 
+com títulos sustentáveis pelo Tesouro Nacional, em adição aos 
+R$ 291 milhões de royalties de petróleo e R$ 134 milhões de retorno 
+de recursos próprios ao fundo, que constam na lei orçamentária de 
+2024. No projeto de lei orçamentária de 2025, são R$ 20 bilhões 
+adicionais oriundos de captações externas.
+O novo porte do fundo o tornará um dos maiores fundos globais de 
+mitigação e adaptação aos efeitos das mudanças climáticas. O Green 
+Climate Fund (GCF), maior fundo multilateral de financiamento cli-
+mático, ligado à Organização das Nações Unidas (ONU), tem uma 
+carteira de projetos em execução de US$ 12,3 bilhões e desembolsou 
+Fundos públicos e privados e desenvolvimento econômico
+133
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+US$ 4,6 bilhões em diversos países (posição de julho de 2024).28 Na 
+taxa de câmbio de R$ 5,5 por cada US$, o orçamento 2025 do Fundo 
+Clima (R$ 20,4 bilhões) representa 30% da carteira em execução do 
+GCF e 81% dos recursos já liberados pelo fundo global.
+Em termos históricos, até 2023, o fundo recebeu R$ 3,1 bilhões, sen-
+do R$ 1,9 bilhão (62%) de royalties de petróleo e R$ 1,2 bilhão (38%) 
+de remunerações do BNDES ao fundo (juros sobre as disponibilidades 
+e amortizações e juros dos financiamentos), conforme Tabela A2.1 do 
+Apêndice 2. Todos esses aportes foram previstos no orçamento público.
+As aplicações foram também de R$ 3,1 bilhões, com R$ 3 bilhões (95%) 
+aplicados via BNDES em inversões financeiras que não im-
+pactam o primário, R$ 124 milhões (4%) aplicados pelo MMA 
+em convênios e outras despesas primárias não reembolsáveis, 
+e R$  41  milhões  (1%) em remuneração dos agentes (BNDES e 
+MMA), despesas primárias. No BNDES, a carteira apoiada  
+é de R$ 2,3 bilhões (ver Tabela A2.2 do Apêndice 2), com des-
+taque para energias renováveis, máquinas e equipamentos  
+eficientes, indústria verde e mobilidade urbana (BNDES, 2024a, 
+p. 6). Os valores aplicados foram de R$ 1,6 bilhão e há caixa de 
+R$ 1,5 bilhão, 29 sendo R$ 1,3 bilhão comprometido com opera-
+ções de crédito contratadas e aprovadas (BNDES, 2024a, p. 13). 
+O resultado primário do fundo foi positivo em R$ 1 bilhão (32% do 
+total), obtido da remuneração do BNDES ao fundo diminuído das 
+28  https://www.greenclimate.fund/projects/dashboard.
+29  Do caixa de R$ 1,7 bilhão, R$ 484 milhões são recursos reservados para as operações con-
+tratadas (que totalizam R$ 1,6 bilhão), R$ 685 milhões reservados para operações aprovadas ain-
+da não contratadas e R$ 260 milhões para operações ainda em tramitação. Os R$ 258 milhões 
+restantes são retorno das operações e aplicações a devolver ao MMA para reaplicação no fundo. 
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+134
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+despesas primárias com projetos não reembolsáveis e da remunera-
+ção dos gestores do fundo (ver Tabela A2.1 do Apêndice 2).
+O Fundo Clima foi objeto de avaliações externas ao BNDES.  As prin-
+cipais delas foram Cepal, Ipea e GIZ (2016) e Inesc (2022). No que 
+tange ao monitoramento dos projetos, a redução de emissões de gases 
+do efeito estufa (GEE) ao longo da vida útil dos empreendimentos 
+apoiados é a principal variável acompanhada. Ela é reportada anual-
+mente em relatórios do BNDES (BNDES, 2024a) e foi estimada em 
+26,7 milhões de toneladas de dióxido de carbono equivalente (tCO2e) 
+para o período 2013-2023, o que corresponde a mais de quatro anos 
+sem carros na região metropolitana de São Paulo (SP). Para 2023, as 
+principais entregas previstas podem ser resumidas na Figura 1.
+Figura 1 • Fundo Clima: indicadores de eficácia e efetividade das operações 
+contratadas em 2023
+Total de emissões evitadas: 4,3 MM de toneladas de gás carbônico (CO2) equivalente ao longo da vida 
+útil dos empreendimentos, o que representa dez meses sem carros na região metropolitana de SP
+Capacidade de produção 
+de biometano: 
+92,5 MM m³/ano
+Capacidade instalada 
+de energia renovável: 
+80MW
+Domicílios atendidos: 
+94 mil
+Projetos de 
+engenharia apoiados: 
+260 MM homem-hora (HH)
+Variação dispêndio em 
+atividades inovativas: 
+15%
+Emissões evitadas 
+de GEE:
+4 MM tCO2e
+ENERGIAS 
+RENOVÁVEIS
+CIDADES 
+SUSTENTÁVEIS E 
+MUDANÇA DO CLIMA
+MÁQUINAS E 
+EQUIPAMENTOS 
+EFICIENTES
+Sistema gerador 
+fotovoltaico: 
+10 operações de 
+geração distribuída
+Economia de energia:
+66 mil  MW-hora/ano
+Emissões evitadas de 
+GEE: 59 mil tCO2e
+MOBILIDADE 
+URBANA
+Horas de trabalho em 
+pesquisa e desenvolvimento 
+apoiadas: 
+5 MM homem-hora (HH)
+Variação do número 
+de profissionais 
+dedicados a pesquisa 
+e desenvolvimtento: 
+33%
+FLORESTAS 
+NATIVAS
+Implantação de 
+circuitos/atrativos 
+de visitação: 
+18
+Proteção de espécie 
+de fauna e flora: 
+77
+Proteção de nascente: 
+12
+Áreas conservadas: 
+12 mil hectares
+Variação da
+visitação física: 
+130 mil visitas/ano
+Variação da 
+receita ISS: 
+R$ 807 mil
+CARVÃO 
+VEGETAL
+Emissões de 
+GEE evitadas: 
+243 mil tCO2e
+Fonte: Elaboração própria a partir de BNDES (2024a, p. 16).
+Fundos públicos e privados e desenvolvimento econômico
+135
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Finalmente, em relação à alavancagem de recursos, o Fundo Clima, 
+por suas taxas mais incentivadas 30 que vigoraram até 2023, finan-
+cia um percentual pequeno dos investimentos e, em geral, é com -
+plementado por outros recursos do BNDES. As contratações de  
+R$ 2,3 bilhões do Fundo Clima foram complementadas por cer-
+ca de R$ 8 bilhões de outras linhas de financiamento do BNDES 
+e envolveram investimentos de cerca de R$ 15 bilhões. Até 2023, 
+apesar de previsão legal de doações como fonte de recursos, não 
+houve aporte de parceiros no fundo, que foi financiado basicamente 
+com recursos da participação especial de petróleo e remunerações  
+do BNDES. Esse cenário muda em 2024, com a captação de  
+R$ 10 bilhões com investidores internacionais.
+O Fundo Garantidor para 
+Investimentos (BNDES FGI): 
+alavancando recursos para garantias
+O BNDES FGI foi constituído em 2009 com a finalidade de colaborar 
+para a ampliação do acesso a crédito para MPMEs. É um fundo de ga-
+rantias privado dotado de personalidade jurídica própria, gerido pelo 
+BNDES, cujos quotistas são a União, o BNDES e cerca de quarenta 
+bancos que recebem garantias do fundo. No entanto, uma vez feito 
+o aporte, o fundo funciona com base em suas receitas. As despesas 
+de honras de garantias, por exemplo, não têm impacto no resultado 
+primário. Ademais, o BNDES FGI tem uma série de benefícios e per-
+mite a expansão do crédito, uma vez que barateia o financiamento, 
+alavancando recursos e permitindo mais acesso ao crédito.
+30  Para 2023, as taxas de juros do Fundo Clima variaram entre 0,1% e 3% a.a.
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+136
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+O BNDES FGI cobre de 10% a 80% do valor das operações de cré-
+dito, com limite de R$ 10 milhões por beneficiário. O custo para 
+utilização da garantia do BNDES FGI é chamado de encargo por 
+concessão de garantia (ECG) e depende do valor financiado, do per-
+centual garantido pelo fundo e do prazo de financiamento. A taxa 
+média de juros nos financiamentos garantidos pelo BNDES FGI é 
+de 1,75% ao mês, aproximadamente 23,1% ao ano.
+Os aportes para constituição do fundo foram de R$ 580 milhões da 
+União (despesa primária). O BNDES aportou R$ 100 milhões e os 
+agentes financeiros R$ 68 milhões (ver Tabela A3.1 no Apêndice 3). 
+Uma grande vantagem do fundo garantidor é a alavancagem de re-
+cursos. O BNDES FGI tem uma taxa de cobertura de inadimplência 
+da carteira (stop-loss) de 7%, podendo alavancar em crédito até 14,3 
+vezes (1/0,07) o valor de seu patrimônio. O próprio valor garantido 
+é um percentual do financiamento, que, na média 2010-2023, foi de 
+71%: R$ 11,6 bilhões garantidos em R$ 16,4 bilhões financiados (ver 
+Tabela A3.3 no Apêndice 3). 
+Em função dos bons resultados do fundo, em 2020, para combater 
+os efeitos deletérios da crise de Covid-19, foi criado o Programa 
+Emergencial de Acesso ao Crédito (FGI Peac), que recebeu aporte 
+de R$ 20 bilhões da União. Diferentemente do FGI Tradicional, não 
+houve cobrança de ECG na maior parte das operações do fundo31 e foi 
+instituído um teto de juros para a carteira apoiada por agente finan-
+ceiro. Esses R$ 20 bilhões foram usados para garantir empréstimos na 
+31  A cobrança de ECG no FGI Peac foi prevista na Medida Provisória 975, de 1º de junho 
+de 2020. No entanto, o Congresso Nacional, ao apreciar seu conteúdo, decidiu por alterá-la, 
+e retirou a cobrança de comissão. Sendo assim, para todas as liberações de crédito no  
+âmbito do Peac a partir da data da publicação da lei de conversão (Lei 14.042, de 20 de 
+agosto de 2020), não houve cobrança de ECG.
+Fundos públicos e privados e desenvolvimento econômico
+137
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+proporção de 20% dos valores contratados com médias e grandes em-
+presas (as últimas não elegíveis ao BNDES FGI e incorporadas para 
+esse apoio emergencial) e 30% dos valores contratados com micro e 
+pequenas empresas, com capacidade de gerar uma alavancagem de 
+quase cinco vezes o valor aportado pelo Tesouro.
+Em sua primeira fase, o FGI Peac apoiou a concessão de mais de  
+R$ 92 bilhões em novos empréstimos e financiamentos, por meio 
+de quarenta agentes financeiros, em mais de 135 mil operações que 
+envolveram cerca de 114  mil tomadores. A Figura 2 exibe a dis-
+tribuição territorial das operações garantidas pelo FGI Peac, que 
+chegaram a quase 70% dos municípios existentes no país em sua pri-
+meira fase.
+Figura 2 • Operações com garantia do FGI Peac por município brasileiro 
+em 2020
+Número de operações
+1-2
+3-6
+7-10
+11-50
+51-100
+101-200
+Mais de 200
+ 0 412,5 825 1.650 km
+Fonte: BNDES (2021, p. 31).
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+138
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Em 2021, o programa não esteve aberto para novas contratações. 
+Em abril de 2022, foi editada a Medida Provisória 1.114, conver-
+tida na Lei 14.462, de 26 de outubro de 2022, prevendo, entre ou-
+tras determinações, a postergação de resgates de cotas da União 
+no FGI Peac previstos para os anos de 2022 e 2023 e a reabertura 
+do período de contratação de operações até 31 de dezembro de 
+2023, o que resultou na reabertura operacional do programa em 
+agosto de 2022. 32 Em 2023, a Lei 14.554, de 20 de abril de 2023, 
+retirou a previsão de resgate de cotas da União, tornando per-
+manente o FGI Peac.
+Em 31 de dezembro de 2023, o patrimônio líquido do BNDES FGI 
+era de R$ 20,3 bilhões, sendo R$ 1,5 bilhão do FGI Tradicional e 
+R$ 18,8 bilhões do FGI Peac (BNDES, 2024c, p. 27). 33 O fundo já 
+gerou R$  1,3  bilhão em encargos de garantia, R$  7,3  bilhões em 
+receitas financeiras e R$  394  milhões em recuperação de crédito 
+(ver Tabela A3.2 no Apêndice 3). As principais despesas envolvem 
+R$ 5,7 bilhões com pagamento de honras, R$ 2,6 bilhões com provi-
+são de honras e R$ 861 milhões com taxa de administração e gestão 
+do fundo. Como o fundo é privado, essas receitas e despesas não 
+passam pelo orçamento e não têm impacto fiscal. O impacto fiscal 
+do fundo para a União é de R$ 20,5 bilhões, resultante de aportes 
+de R$ 20,7 bilhões e de um resgate de R$ 150 milhões em 2014, mo-
+vimentações que constaram no orçamento público.
+32  A reabertura foi com cobertura de 30% para microempresas, 20% para pequenas em-
+presas e 7% para médias empresas. As grandes empresas, anteriormente incluídas, não fi-
+zeram mais parte do programa.
+33  Havia também R$  92  milhões no FGI Peac Crédito Solidário RS, específico para 
+o apoio ao Rio Grande do Sul em função dos danos causados pelas chuvas. O programa 
+emergencial recebeu aporte de R$ 100 milhões.
+Fundos públicos e privados e desenvolvimento econômico
+139
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+O BNDES FGI apoiou cerca de 344  mil operações, garantindo 
+R$  132  bilhões de um crédito total apoiado de R$  167  bilhões.  
+A avaliação mais abrangente do fundo foi feita pelo BNDES 
+para a primeira fase do FGI Peac (BNDES, 2022a), que envolveu  
+R$ 74 bilhões em garantia e R$ 92 bilhões em crédito. Os principais 
+resultados encontrados com base em análise comparativa com um 
+grupo de controle foram:
+i. O FGI 
+Peac foi efetivo em aumentar a taxa de sobrevi-
+vência das empresas apoiadas: reduziu em 47% a proba-
+bilidade de morte. O programa teve impacto positivo 
+sobre o emprego formal (cerca de 10%) e sobre a massa 
+salarial (19%).
+ii. A análise 
+de efeitos heterogêneos mostrou que as firmas 
+de menor porte e mais jovens (geralmente as com maior 
+restrição de crédito) tendem a ser as mais impactadas.
+iii. O FGI 
+Peac gerou cerca de 318 mil empregos formais 
+adicionais.
+iv. A análise de 
+custo-efetividade no cenário-base resultou 
+em um valor presente líquido (VPL) de R$ 3,8 bilhões. 
+Essa projeção se baseou nas estimativas de massa salarial 
+adicional total e custos fiscais esperados (aportes menos 
+devolução de recursos para a União). 34 É importante 
+ressaltar que essa análise não considerou diversos bene-
+fícios decorrentes da ação emergencial (arrecadação ge-
+rada pela sobrevivência das firmas, redução de despesas 
+34  No cenário-base, o valor presente dos resgastes foi estimado em R$ 10,3 bilhões, o 
+que, subtraído dos aportes em valor presente, resulta em um custo fiscal de R$ 9,9 bilhões. 
+A massa salarial adicional gerada, no entanto, foi de R$ 13,7 bilhões, resultando no VPL 
+de R$ 3,8 bilhões. 
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+140
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+governamentais com seguro-desemprego, manutenção 
+de capital humano nas firmas, entre outros).
+No que tange ao monitoramento, além do relatório anual com as 
+demonstrações financeiras (BNDES, 2024c), anualmente são publi-
+cados relatórios de autoavaliação do FGI Tradicional e do FGI Peac 
+(BNDES, 2024d). Os relatórios de autoavaliação trazem indicadores 
+relativos ao aumento do emprego e renda e de redução da taxa de 
+mortalidade das empresas apoiadas.
+Fundo Amazônia: captando 
+doações para preservar a floresta 
+e reduzir emissões de carbono
+Criado em 2008, pelo Decreto 6.527, de 1º de agosto de 2008, o 
+Fundo Amazônia é gerido pelo BNDES e apoia, com recursos não 
+reembolsáveis, ações de prevenção, monitoramento e combate ao 
+desmatamento e de promoção da conservação e do uso sustentável 
+da Amazônia Legal. O fundo, que não tem personalidade jurídi-
+ca própria, funciona como uma conta específica no BNDES e tem 
+natureza privada (extraorçamentária). O Fundo Amazônia capta 
+doações e tem isenção de PIS/Pasep e Cofins (Lei 11.828, de 20 de 
+novembro de 2008) e de IOF (Decreto 8.325, de 7 de outubro de 
+2014). O fundo financia ações para redução de emissões provenien-
+tes do desmatamento e da degradação florestal (REDD+).35
+35  REDD+ é um instrumento desenvolvido no âmbito da Convenção-Quadro das Na-
+ções Unidas sobre Mudança do Clima (UNFCCC, na sigla em inglês) para recompensar 
+financeiramente países em desenvolvimento por resultados relacionados a atividades de: 
+(i) redução das emissões provenientes de desmatamento; (ii) redução das emissões pro-
+venientes de degradação florestal; (iii) conservação dos estoques de carbono florestal;  
+(iv) manejo sustentável de florestas; e (v) aumento dos estoques de carbono florestal.
+Fundos públicos e privados e desenvolvimento econômico
+141
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Até o fim de 2023, foram captados R$ 3,5 bilhões, sendo 89,9% pro-
+venientes do governo norueguês, 8,4% do governo alemão, 0,8% do 
+governo suíço, 0,5% da Petrobrás e 0,4% do governo dos Estados 
+Unidos da América (EUA) (BNDES, 2024e, p. 8). Em 2023, houve 
+ainda um contrato de doação de R$ 497 milhões com o Reino Uni-
+do (valor que ainda não ingressou no fundo) e R$ 3,1 bilhões em no-
+vas doações anunciadas,36 a maior delas de R$ 2,4 bilhões dos EUA 
+(BNDES, 2024e, p. 20). Como as doações são de governos estrangei-
+ros e estatais não dependentes, não há impacto fiscal do fundo para 
+a União e esses aportes não passam pelo orçamento público.
+Foram apoiados 107 projetos, com investimentos totais de  
+R$ 2,2 bilhões. O Fundo Amazônia financiou R$ 1,9 bilhão des-
+ses investimentos, dos quais R$ 1,6 bilhão já foi desembolsado 
+(ver Tabela A4.1 no Apêndice 4).
+Ao fim de 2023, havia ainda R$ 4,2 bilhões de recursos a aplicar 
+em projetos, fruto das doações e receitas financeiras da aplicação 
+das disponibilidades (BNDES, 2024e, p. 33), dos quais cerca de  
+R$ 1,2 bilhão tinha destinação prevista para projetos já aprovados  
+e R$ 106 milhões para custeio das atividades do fundo, que corres-
+ponde a 3% das doações (Decreto 6.527/2008, art. 1º, § 3º).
+O Fundo Amazônia publica avaliações dos projetos concluídos em 
+seu relatório anual de atividades e em página na internet.37 Entre as 
+entregas realizadas, pode-se destacar (BNDES, 2024e, p. 8):
+36  A aprovação de novos projetos pelo Fundo Amazônia foi suspensa entre 2019 e 2022, 
+em função da dissolução de sua governança. Após a retomada do fundo em 2023, a inten-
+ção de doações aumentou significativamente.
+37 https://www.fundoamazonia.gov.br/pt/monitoramento-e-avaliacao/avaliacoes-externas/. 
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+142
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+• 1,1 milhão de imóveis rurais inscritos no Cadastro Ambiental 
+R
+ural (CAR);
+• 196 unidades de conserv
+ação apoiadas;
+• 101 terras indíg
+enas da Amazônia apoiadas;
+• 326 ór
+gãos ambientais fortalecidos (federais, estaduais  
+e municipais);
+• 652 org
+anizações comunitárias fortalecidas;
+• 1.896 missões de fisc
+alização ambiental efetuadas;
+• 32.837 inc
+êndios florestais ou queimadas combatidos pelos 
+bombeiros militares;
+• 239 mil 
+pessoas beneficiadas com atividades produtivas  
+sustentáveis; e
+• 613 publicaç
+ões científicas ou informativas produzidas.
+A avaliação externa de maior abrangência foi produzida pela Co-
+missão Econômica para a América Latina e o Caribe (Cepal, 2019). 
+Como não houve apoio a novos projetos no período 2019-2022, o 
+estudo ainda se encontra em boa medida atualizado. A principal 
+conclusão é de que o Fundo Amazônia, por seus recursos limita-
+dos em comparação ao total da economia da região, não alterou 
+as tendências do desmatamento dos últimos anos, mas sem a sua 
+implementação o desmatamento teria sido maior. Como exemplo, 
+nos projetos de CAR apoiados, 8.244 km² de desmatamento foram 
+evitados no período de 2014 a 2018 (Cepal, 2019, p. 21 e ss.). Com o 
+aumento dos recursos de doações, é esperado que o Fundo Amazô-
+nia amplie sua contribuição para a redução do desmatamento.
+Fundos públicos e privados e desenvolvimento econômico
+143
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Análise comparativa
+No que tange às dimensões de análise destacadas, os quatro fundos 
+apresentam resultados relevantes em suas áreas de atuação. No FAT 
+e no BNDES FGI, eles são associados às empresas apoiadas e aos 
+empregos gerados/mantidos. No Fundo Clima, às emissões de gases 
+do efeito estufa evitadas. Já no Fundo Amazônia, à redução de des-
+matamento e a outras entregas previstas nos projetos.
+Os quatro fundos também apresentaram bons resultados em gera-
+ção de ativos e receitas. No período 1995-2003, o FAT gerou receitas 
+financeiras equivalentes a 101% do que foi financiado em projetos 
+de desenvolvimento econômico e a 28% das despesas do fundo, 
+complementando a receita de PIS/Pasep. No Fundo Clima, o re-
+torno das aplicações do BNDES respondeu por 38% das receitas do 
+fundo, em adição aos recursos de participação especial de petróleo. 
+No BNDES FGI, as receitas de R$ 9 bilhões (encargos de garantia, 
+financeiras e de recuperação de crédito) complementam os apor-
+tes de R$ 20,9 bilhões para garantir a carteira de crédito apoiada. 
+Mesmo no Fundo Amazônia, a aplicação das disponibilidades gerou  
+R$ 2,7 bilhões além dos R$ 3,5 bilhões captados em doações.
+No que diz respeito a alavancagem de recursos e captação de par-
+ceiros, há diferenças significativas entre os quatro fundos. Por sua 
+própria natureza, o Fundo Amazônia é integralmente custeado 
+com recursos de doações de terceiros, não tendo impacto fiscal 
+para a União. Já o BNDES FGI tem um significativo custo  
+fiscal (R$ 20,5 bilhões), puxado pela crise de Covid-19.38 Esse custo, 
+no entanto, garantiu R$ 167 bilhões em financiamentos, em uma 
+38  Antes da Covid-19, o custo fiscal para a União era de R$ 430 milhões.
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+144
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+alavancagem média de oito vezes (podendo chegar a até 14 vezes), 
+com complementação de aportes de agentes financeiros no mon-
+tante de R$ 70 milhões. No Fundo Clima, a primeira captação 
+de parceiros por meio de uma emissão internacional, no valor de 
+R$ 10 bilhões em títulos sustentáveis, aconteceu ao fim de 2023. No 
+FAT, não houve aporte de parceiros. A alavancagem ocorre basica-
+mente no percentual de financiamento do projeto, de modo que o 
+total investido fica em torno de duas vezes o valor do crédito. 
+Conclusões
+Os fundos de desenvolvimento são importantes no Brasil e no mun-
+do. Eles são uma importante ferramenta para o financiamento do 
+desenvolvimento econômico e social, uma vez que buscam assegurar 
+captação de recursos para finalidades específicas buscando diferen-
+tes objetivos associados ao desenvolvimento econômico, social e/ou 
+ambiental. Podem ser instrumentos relevantes na construção de es-
+tratégias consistentes de financiamento público, funcionando como 
+fontes estáveis de recursos de longo prazo. Além disso, em geral, a 
+alocação de recursos por meio de um fundo está submetida a uma 
+governança própria, a qual define, por exemplo, a forma e as áreas 
+prioritárias em que os recursos serão aplicados, bem como delibera 
+sobre sua prestação de contas.
+Os quatro fundos de desenvolvimento operados pelo BNDES exa-
+minados neste trabalho têm entregas relevantes, tendo sido objeto  
+de avaliações de efetividade que encontraram resultados positivos de 
+sua atuação no período recente, constituindo-se em importantes 
+instrumentos de promoção do desenvolvimento sustentável.
+Fundos públicos e privados e desenvolvimento econômico
+145
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Referências
+BASSI, C. M. Fundos especiais e políticas públicas: uma discussão sobre a 
+fragilização do mecanismo de financiamento. Rio de Janeiro: Ipea, 2019. 
+(Texto para Discussão, n. 2458). Disponível em: https://repositorio.ipea.gov.br/
+bitstream/11058/9088/1/TD_2458.pdf. Acesso em: 27 jan. 2025.
+BCB – BANCO CENTRAL DO BRASIL. Nota Metodológica DEPEC 2017/092, 
+de 26.7.2017. Assunto: Estatísticas Fiscais: Registro dos ativos financeiros do 
+Programa de Financiamento Estudantil (FIES) na Dívida Líquida do Setor 
+Público (DLSP). Brasília, DF: BCB, 2017. Disponível em: https://www.bcb.gov.
+br/ftp/infecon/Notafies.pdf. Acesso em: 29 jul. 2024.
+BCB – BANCO CENTRAL DO BRASIL. Manual de Estatísticas Fiscais. 
+Brasília, DF: BCB, 2018. Disponível em: https://www.bcb.gov.br/ftp/infecon/
+Estatisticasfiscais.pdf. Acesso em: 29 jul. 2024.
+BNDES – BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO 
+E SOCIAL. Fundo Garantidor para Investimentos – BNDES FGI: Relatório da 
+Administração do Exercício de 2020 –  Prestação de Contas Anual. Rio de 
+Janeiro: BNDES, 2021. Disponível em: http://web.bndes.gov.br/bib/jspui/
+handle/1408/21784. Acesso em: 24 fev. 2025.
+BNDES – BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO 
+E SOCIAL. Crédito e garantia: uma análise de custo-efetividade da atuação 
+anticíclica do BNDES na crise da Covid-19. Rio de Janeiro: BNDES, 2022a. 
+(Relatório de Avaliação de Efetividade, v. 4, n. 12). Disponível em: https://web.
+bndes.gov.br/bib/jspui/bitstream/1408/22464/1/Relat%C3%B3rio%20de%20
+Avalia%C3%A7%C3%A3o%20de%20Efetividade_v.%204%2C%20n.%2012%2C%20
+jun.%202022.pdf. Acesso em: 12 dez. 2024.
+BNDES – BANCO NACIONAL DE DESENVOLVIMENTO 
+ECONÔMICO E SOCIAL. Relatório de Efetividade 2020-2021. Rio de 
+Janeiro: BNDES, 2022b. Disponível em: https://web.bndes.gov.br/bib/jspui/
+bitstream/1408/22304/1/2022_Relatorio%20de%20efetividade_2020-2021_
+BD.pdf. Acesso em: 12 dez. 2024.
+BNDES – BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO 
+E SOCIAL. Relatório Financeiro – FNMC: 2º semestre 2023. Rio de Janeiro, 
+2024a. Disponível em: https://www.bndes.gov.br/wps/wcm/connect/site/
+c57a8068-732b-43c5-9c25-d7aeca205dab/Relato%CC%81rio+financeiro+do+F
+NMC_2%C2%BA+sem+2023+%281%29.pdf?MOD=AJPERES&CVID=oVTtQzJ. 
+Acesso em: 12 dez. 2024.
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+146
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+BNDES – BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO 
+E SOCIAL. Fundo Nacional Sobre Mudança Do Clima – FNMC: Relatório de 
+execução 2023 – recursos reembolsáveis. Rio de Janeiro: BNDES, 2024b. 
+Disponível em: bndes.gov.br/wps/wcm/connect/site/d57559b8-90d2-4ea0-a801-
+5dc9d68ef361/Relatório+BNDES+2023.pdf?MOD=AJPERES&CVID=oVSrkUu. 
+Acesso em: 12 dez. 2024.
+BNDES – BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO 
+E SOCIAL. Fundo Garantidor para Investimentos – BNDES FGI: Relatório da 
+Administração do Exercício de 2023 – Prestação de Contas Anual. Rio de 
+Janeiro: BNDES, 2024c. Disponível em: https://web.bndes.gov.br/bib/jspui/
+bitstream/1408/24726/3/PRPer_211168_Fundo%20Garantidor%20de%20
+Investimentos%2c%20v.2023.pdf. Acesso em: 12 dez. 2024.
+BNDES – BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO 
+E SOCIAL. Relatório de autoavaliação do Fundo Garantidor para Investimentos. 
+Rio de Janeiro: BNDES, 2024d. Disponível em: https://www.bndes.gov.br/
+wps/portal/site/home/transparencia/resultados-para-a-sociedade/efetividade/
+indicadores/fgi-tradicional/. Acesso em: 12 dez. 2024. 
+BNDES – BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO 
+E SOCIAL. Fundo Amazônia: Relatório de atividades 2023. Rio de Janeiro: 
+BNDES, 2024e. Disponível em: https://web.bndes.gov.br/bib/jspui/
+handle/1408/24965. Acesso em: 12 dez. 2024.
+BORÇA JR., G.; TINOCO, G. Fundo de Amparo ao Trabalhador (FAT): resultados 
+recentes e perspectivas. Rio de Janeiro: BNDES, 2024. (Texto para Discussão, n. 
+158). Disponível em: https://web.bndes.gov.br/bib/jspui/bitstream/1408/24105/1/
+PRFol216044_TD%20158_FAT_a.pdf. Acesso em: 12 dez. 2024.
+BRASIL. Congresso Nacional. Glossário de termos orçamentários. Brasília, DF: 
+Grupo de Trabalho Permanente de Integração da Câmara dos Deputados 
+com o Senado Federal, Subgrupo Glossário Orçamentário, 2020. Disponível 
+em: https://www.congressonacional.leg.br/legislacao-e-publicacoes/glossario-
+orcamentario. Acesso em: 10 out. 2024.
+BRASIL. Tesouro Nacional. MCASP – Manual de Contabilidade Aplicada ao Setor 
+Público. 9. ed. Brasília, DF: Tesouro Nacional, 2021. Disponível em: https://www.
+tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-
+setor-publico-mcasp/2021/26. Acesso em: 29 jul. 24.
+Fundos públicos e privados e desenvolvimento econômico
+147
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+BRASIL. MMA – Ministério do Meio Ambiente. Fundo Nacional sobre 
+Mudança do Clima – FNMC: Relatório de Execução MMA – 2023. 
+Brasília, DF: MMA, 2024a. Disponível em: https://www.gov.br/mma/
+pt-br/composicao/secex/dfre/fundo-nacional-sobre-mudanca-do-clima/
+RelatrioFNMCMMA2023FinalPublicado.pdf. Acesso em: 12 dez. 2024.
+BRASIL. MPO – Ministério do Planejamento e Orçamento. Orçamento de 
+subsídios da União: junho de 2024. Brasília, DF: MPO, 2024b. Disponível em: 
+https://www.gov.br/planejamento/pt-br/assuntos/avaliacao-de-politicas-
+publicas-1/arquivos/orcamento-de-subsidios-da-uniao/orcamento-de-subsidios-
+da-uniao-8a-edicao.pdf. Acesso em: 12 dez. 2024.
+BRASIL. MTE – Ministério do Trabalho e Emprego. Boletim de Informações 
+Financeiras do Fundo de Amparo ao Trabalhador: 6º bimestre de 2023. Brasília, 
+DF: MTE, 2024c. Disponível em: https://portalfat.homologacao.mte.gov.br/wp-
+content/uploads/2024/02/KIT-6o-BIMESTRE-2023.pdf. Acesso em: 12 dez. 2024.
+CEPAL – COMISSÃO ECONÔMICA PARA A AMÉRICA LATINA E O 
+CARIBE. Relatório de avaliação de meio termo da efetividade do Fundo Amazônia 
+(2008-2018). Brasília, DF: Cepal, 2019. Disponível em: https://www.fundoamazonia.
+gov.br/export/sites/default/pt/.galleries/documentos/monitoramento-avaliacao/5.
+avaliacoes-externas/FA-Relatorio-Avaliacao-Meio-Termo-Fundo-Amazonia.pdf. 
+Acesso em: 12 dez. 2024.
+CEPAL – COMISSÃO ECONÔMICA PARA A AMÉRICA LATINA E O 
+CARIBE; IPEA – INSTITUTO DE PESQUISA ECONÔMICA APLICADA; 
+GIZ – DEUTSCHE GESELLSCHAFT FÜR INTERNATIONALE 
+ZUSAMMENARBEIT. Avaliação do Fundo Clima. Brasília, DF: GIZ; Rio de 
+Janeiro: BNDES, Ipea, 2016. Disponível em: https://repositorio.ipea.gov.br/
+bitstream/11058/7425/1/Avaliacao_do_Fundo_Clima.pdf. Acesso em: 12 dez. 2024.
+CMAP – CONSELHO DE MONITORAMENTO E AVALIAÇÃO DE 
+POLÍTICAS PÚBLICAS. Relatório de Avaliação Fundo de Amparo ao Trabalhador 
+(FAT) – Ciclo 2021. Brasília, DF: CMAP, 2022. Disponível: https://www.gov.
+br/planejamento/pt-br/acesso-a-informacao/participacao-social/conselhos-e-
+orgaos-colegiados/cmap/politicas/2021/subsidios/fat-relatorio-de-avaliacoes.pdf. 
+Acesso em: 12 dez. 2024.
+COSTA, L. S. G. M. Uma visão sistêmica dos fundos federais. Brasília, DF: Tesouro 
+Nacional, 2012. (Textos para Discussão, n. 7). Disponível em: https://publicacoes.
+tesouro.gov.br/index.php/textos/issue/view/texto07. Acesso em: 12 dez. 2024.
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+148
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+COSTA, L. S. G. M. Fundos Federais – abordagem transdisciplinar diante do 
+Projeto da Lei de Finanças Públicas. Brasília, DF: Tesouro Nacional, 2017. 
+(Textos para Discussão, n. 29). Disponível em: https://publicacoes.tesouro.gov.
+br/index.php/textos/issue/view/texto29. Acesso em: 29 jul. 24.
+DOMINGUES, G. D. Trinta anos depois da Constituição de 1988: o Fundo 
+de Amparo ao Trabalhador (FAT) e sua contribuição para o desenvolvimento, 
+Revista do BNDES, Rio de Janeiro, v. 25, n. 50, p. 59-98, 2018. Disponível em: 
+https://web.bndes.gov.br/bib/jspui/bitstream/1408/16841/3/PRArt214568_
+Trinta%20anos%20depois%20da%20Constitui%c3%a7%c3%a3o%20de%201988_
+compl_P_BD.pdf. Acesso em: 12 dez. 2024.
+IBGE – INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Tabela 
+de natureza jurídica. Rio de Janeiro: IBGE, 2021. Disponível em: https://concla.ibge.
+gov.br/estrutura/natjur-estrutura/natureza-juridica-2021. Acesso em: 24 jan. 2025.
+INESC – INSTITUTO DE ESTUDOS SOCIOECONÔMICOS. Fundo Nacional 
+sobre Mudança do Clima: governança, recursos, gestão e desafios. Brasília, DF: 
+Inesc, 2022. (Caminhos para o Financiamento da Política Socioambiental no 
+Brasil, n. 3). Disponível em: https://inesc.org.br/wp-content/uploads/2022/11/
+Fundo-clima_Inesc.pdf. Acesso em: 12 dez. 2024.
+SANTOS, L. O. Recursos do FAT e empregos gerados ou mantidos: estimativas 
+para a atuação do BNDES entre 1996 e 2017. Revista do BNDES, Rio de Janeiro, 
+v. 25, n. 50, p. 99-137, 2018. Disponível em: https://web.bndes.gov.br/bib/jspui/
+handle/1408/16782. Acesso em: 12 dez. 2024.
+SANTOS, L. O.; MIGUEZ, T. H. L. Modelo insumo-produto aplicado ao 
+BNDES: resultados para emprego, massa salarial e valor adicionado no período 
+2014-2021. Mercado de Trabalho, Rio de Janeiro, n. 74, p. 62-78, out. 2022. 
+Disponível em: http://dx.doi.org/10.38116/bmt74/nt3. Acesso em: 12 dez. 2024.
+TINOCO, G.; BORÇA JR., G.; MACEDO, H. Fundo de Amparo ao 
+Trabalhador (FAT): breve histórico, condições atuais e perspectivas. Revista do 
+BNDES, Rio de Janeiro, v. 25, n. 50, p. 139-202, 2018. Disponível em: https://
+web.bndes.gov.br/bib/jspui/bitstream/1408/16860/3/PRArt214570_Fundo%20
+de%20Amparo%20ao%20Trabalhador%20breve%20hist%C3%B3rico_compl_P_
+BD.pdf. Acesso em: 12 dez. 2024.
+Fundos públicos e privados e desenvolvimento econômico
+149
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Apêndice 1: Dados históricos do FAT
+Tabela A1.1 • Receitas e despesas do FAT
+ 
+Arrecadação Desvinculação  
+de receitas Demais receitas Despesas
+Resultado 
+sem Tesouro
+Aportes 
+TesouroPIS/Pasep 
+(competência) DRU Previdência
+Remune-
+ração das 
+aplicações
+Outras 
+receitas
+Aportes 
+BNDES
+Segur o- 
+desemprego
+Abono 
+salarial
+Outras 
+despesas
+1995 5,9 1,5  3,5 0,1 1,8 2,8 0,5 0,1 2,8 0
+1996 7,2 1,7  2,8 0,2 2,2 3,4 0,5 0,4 1,9 0
+1997 7,3 1,9  2,9 0,3 2,2 3,5 0,5 0,5 1,9 0
+1998 7,1 1,9  3,5 0,3 2,1 4,2 0,6 0,6 1,6 0
+1999 9,5 3,4  4 0,4 2,4 4,1 0,6 0,6 2,8 0
+2000 9,6 1,5  4,1 0,3 3,2 4,1 0,7 0,8 3,6 0
+2001 11,2 2,2  4,8 0,3 3,5 5 0,9 0,9 3,7 0,2
+2002 12,6 2,5  5,9 0,4 4,2 5,9 1,3 0,6 4,3 0
+2003 16,8 3,4  7,7 0,4 5,4 6,8 1,8 0,2 7,3 0
+2004 19,4 3,9  7,6 0,3 6,3 7,3 2,3 0,3 7,2 0
+2005 21,2 4,2  9,3 0,4 6,9 8,8 2,8 0,3 7,9 0
+2006 23,7 4,7  8,9 0,3 7,6 11,2 4,1 0,3 4,9 0
+2007 26,1 5,2  9,1 0,6 8,3 13,1 5,2 0,3 3,7 0
+2008 30,8 6,2  9,4 0,5 9,5 15 6 0,4 3,7 0
+2009 31 6,2  10,1 0,6 9,6 19,7 7,6 0,4 -1,9 0
+Continua
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+150
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Continuação
+ 
+Arrecadação Desvinculação de 
+receitas Demais receitas Despesas
+Resultado 
+sem Tesouro
+Aportes 
+TesouroPIS/Pasep 
+(competência) DRU Previdência
+Remune-
+ração das 
+aplicações
+Outras 
+receitas
+Aportes 
+BNDES
+Segur o- 
+desemprego
+Abono 
+salarial
+Outras 
+despesas
+2010 40,4 8,1  10,2 0,9 11,6 20,6 8,8 0,4 2 1,1
+2011 41,6 8,3  11,4 0,8 13,5 24 10,4 0,4 -2,8 0,1
+2012 47,7 9,5  14,5 0,9 15,1 27,7 12,4 0,4 -2 5,3
+2013 51,1 10,2  8,3 0,7 16,9 32 14,7 0,4 -14,1 4,8
+2014 51,8 10,4  12,7 0,5 16,9 36 15,9 0,4 -14,7 13,8
+2015 52,9 10,6  14 1,6 17,1 38,1 10,2 0,4 -7,8 7,4
+2016 53,3 15,9  19,2 1,2 16 37,9 18 0,3 -14,4 12,5
+2017 59,3 17,6  17,6 0,5 16,5 38,1 16,3 0,4 -11,6 13,8
+2018 64,6 19,2  18,5 0,6 18,1 36,3 17,3 0,5 -7,8 0,1
+2019 64,6 16,1  18,1 0,4 18,8 37,4 17,5 0,5 -7,2 0,1
+2020 61,8   13,9 0,2 17,3 40,1 19,3 0,4 -1,2 0
+2021 75  9,8 16 0,4 19,9 36,2 10,2 0,2 15,1 0,3
+2022 79,2  17,6 27,1 0,3 23,8 42,1 24 0,3 -1,2 2,3
+2023 83,5  10,7 27,1 0,7 22,1 47,7 25,0 0,6 5,2 7,5
+T otal 1.066,2
+176,3 38,1 322,2 15,1 318,8 609,1 255,4 12,3 -7,1 69,3
+Fonte: Elaboração própria a partir de Tinoco, Borça Jr. e Macedo (2018) e Borça Jr. e Tinoco (2024).
+Fundos públicos e privados e desenvolvimento econômico
+151
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Tabela A1.2 • Aplicações dos recursos do FAT pelo BNDES
+Ano
+Desembolsos 
+FAT Constitu-
+cional (R$ bi)
+Investimen-
+tos fixos FAT 
+Constitucio-
+nal (R$ bi)
+Emprego 
+direto FAT 
+Constitu-
+cional
+Emprego 
+indireto  
+FAT Consti-
+tucional
+Emprego 
+total FAT 
+Constitu-
+cional
+2014 45,5 37,2 411.086 288.626 699.712
+2015 43,8 36,9 387.659 265.812 653.471
+2016 40,8 25,0 246.388 167.974 414.362
+2017 32,6 23,9 228.017 155.050 383.066
+2018 53,7 43,9 416.319 284.619 700.938
+2019 47,0 44,3 416.596 282.139 698.735
+2020 49,4 42,3 380.850 250.564 631.415
+2021 40,1 36,3 319.342 204.071 523.413
+2022 54,8 50,5 348.161 245.326 593.486
+2023 91,2 80,5 586.503 409.395 995.898
+Fonte: Elaboração própria a partir de Brasil (2024c) e edições anteriores.
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+152
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Apêndice 2: Dados históricos do Fundo Clima
+Tabela A2.1 • Receitas e despesas do Fundo Clima
+Ano
+Entrada de recursos Aplicação dos recursos* Resultados
+Total Royalties 
+petróleo
+Retorno 
+BNDES Total Reembolsável 
+(BNDES)
+Não 
+reembolsável 
+(MMA)
+Remuneração 
+dos agentes 
+(BNDES e MMA)
+Primário Nominal
+2011 229 229 0 235 200 30 5 -35 -6
+2012 389 389 0 394 360 29 5 -34 -4
+2013 20 20 0 19 0 15 4 -19 2
+2014 37 17 20 14 0 11 4 6 23
+2015 0 0 0 8 0 8 1 -8 -8
+2016 8 0 8 9 0 8 2 -2 -2
+2017 31 0 31 31 23 6 2 22 -1
+2018 396 203 193 402 393 7 2 184 -6
+2019 319 319 0 351 349 1 2 -3 -32
+2020 258 223 34 241 233 6 2 26 17
+2021 330 102 227 325 323 1 2 225 4
+2022 447 263 184 451 447 1 3 180 -4
+2023 634 161 473 646 634 3 9 461 -12
+T otal 3.097 1.928 1.170 3.127 2.961 124 41 1.004 -30
+Fonte: Elaboração própria a partir de Brasil (2024a) e BNDES (2024b) e edições anteriores.
+*Recursos empenhados.
+Fundos públicos e privados e desenvolvimento econômico
+153
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Tabela A2.1 • Aplicações de recursos do Fundo Clima pelo BNDES
+ 
+Valores contratados 
+(R$ milhões)
+Estimativa de 
+emissões evitadas  
+(MM tCO2e)
+Valores 
+desembolsados  
+(R$ milhões)
+2011    
+2012    
+2013 73,7  66,1
+2014 35,2  5,5
+2015 99,3  74,6
+2016 66,7 4,7 36,5
+2017 0 0 0,4
+2018 254,0 5,2 79,6
+2019 196,0 3,0 217,8
+2020 30,0 2,3 128,9
+2021 116,0 0,4 85,2
+2022 728,0 6,8 169,9
+2023 733,2 4,3 691,7
+T otal 2.332,1 26,7 1.556,0
+Fonte: Elaboração própria a partir de BNDES (2024a) e edições anteriores.
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+154
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Apêndice 3: Dados históricos 
+do Fundo Garantidor para 
+Investimentos (BNDES FGI)
+Tabela A3.1 • Movimentações de cotas no BNDES FGI (em R$ milhões)
+ 
+Integralização Resgate
+União BNDES Agentes União BNDES Agentes
+2009 580,3      
+2010  100,0 11,8    
+2011   7,7    
+2012   2,2    
+2013   1,8    
+2014   2,9 150,0   
+2015   1,5    
+2016   2,5    
+2017   2,9    
+2018   1,1    
+2019   3,9    
+2020 20.000,0  4,8    
+2021   14,7  86,9  
+2022   10,1    
+2023 100,0 2,3
+T otal
+20.680,3 100,0 70,2 150,0 86,9 0,0
+Fonte: Elaboração própria a partir de BNDES (2024c) e edições anteriores.
+Fundos públicos e privados e desenvolvimento econômico
+155
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Tabela A3.2 • Receitas e despesas do BNDES FGI (em R$ milhões)
+ 
+Receitas Despesas
+Resultado do 
+exercícioEncargos 
+de garantia
+Resultado 
+financeiro
+Recuperação 
+de crédito
+Honras 
+pagas
+Provisão  
+de honras
+Taxa de 
+administração  
+e gestão
+Outras
+2009  107,9      107,9
+2010 7,4 12,5   7,3 8,5 3,9 0,2
+2011 67,0 -4,8   58,8 9,2 6,4 -12,2
+2012 34,9 -40,0  2,3 16,9 9,7 6,5 -40,5
+2013 31,6 42,4  8,5 7,7 9,6 7,0 41,2
+2014 37,8 5,9   15,8 9,7 8,2 10,0
+2015 20,9 17,9 4,7 35,3 14,3 8,7 5,1 -19,9
+2016 21,9 226,8 4,8 25,3 9,5 9,3 4,6 204,8
+2017 39,8 123,9 13,5 39,4 -7,6 11,0 4,9 129,5
+2018 24,9 135,1 14,0 44,8 12,8 12,2 -13,2 117,4
+2019 20,4 135,6 12,1 70,1 -9,6 13,2 2,0 92,4
+2020 742,5 215,0 9,7 40,7 2967,9 86,9 2,1 -2.130,4
+2021 89,5 878,8 17,3 534,1 -625,0 222,1 2,1 852,3
+2022 131,8 2.553,5 103,1 2.701,0 154,1 222,6 2,2 -291,5
+2023 47,8 2.853,9 215,1 2.238,8 -19,5 228,1 2,3 667,1
+T otal
+1.318,2 7.264,4 394,3 5.740,3 2.603,4 860,8 44,1 -271,7
+Fonte: Elaboração própria a partir de BNDES (2024c) e edições anteriores.
+Luiz Daniel Willcox de Souza e Felipe Silveira Marques
+156
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Tabela A3.3 • Fluxo de projetos no FGI Tradicional e FGI Peac (em R$ milhões)
+ 
+FGI Tradicional FGI Peac (inclui Crédito Solidário RS)
+Financiado Garantido Número de 
+operações Financiado Garantido Número de 
+operações
+2009       
+2010 503,0 381,8 2.737    
+2011 1.274,8 950,0 7.376    
+2012 865,0 589,7 5.307    
+2013 1.163,7 793,1 6.366    
+2014 906,1 634,8 4.222    
+2015 465,3 350,9 2.711    
+2016 609,2 452,5 2.560    
+2017 984,3 750,4 4.420    
+2018 628,5 411,0 1.352    
+2019 660,9 457,5 1.627    
+2020 1.402,9 958,4 4.434 92.092,3 73.673,8 135.735
+2021 2.236,6 1.618,2 8.121    
+2022 3.292,7 2.353,0 5.729 16.697,8 13.358,2 20.294
+2023 1.367,2 912,2 2.358 42.303,8 33.843,0 128.388
+T otal 16.360,2 11.613,5 59.320 151.093,9
+120.875,0 284.417
+Fonte: elaboração própria a partir de BNDES (2024c) e edições anteriores.
+Fundos públicos e privados e desenvolvimento econômico
+157
+R. BNDES, Rio de Janeiro, v. 30, n. 60, p. 107-157, dez. 2024
+Apêndice 4: Dados históricos do 
+Fundo Amazônia
+Tabela A4.1 • Receitas e aplicações do Fundo Amazônia (em R$ milhões)
+ 
+Receitas Aplicações
+Doações
+Número de 
+projetos 
+aprovados
+Valor 
+aprovado
+Valor 
+desembolsado
+2009 36,4 5 70,4  
+2010 56,2 8 119,9 11,1
+2011 7,3 10 70,5 59,7
+2012 118,9 14 179,8 71,2
+2013 1.466,6 14 332,0 80,9
+2014 328,6 21 268,6 167,9
+2015 504,8 11 195,5 127,5
+2016 331,1 8 196,6 134,1
+2017 273,1 12 234,9 223,8
+2018 273,6 11 378,5 187,4
+2019    108,9
+2020    131,0
+2021    117,5
+2022    90,5
+2023 149,6 5 131,9 48,3
+Projetos 
+cancelados  12 322,5  
+T otal
+3.546,3 107 1.856,1 1.559,8
+Fonte: Elaboração própria a partir de BNDES (2024e, p. 19-24).

@@ -1,0 +1,1073 @@
+7
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+DOI: dx.doi.org/10.22456/2176-5456.53039
+Bancos Públicos de Desenvolvimento: uma Aproximação Teórica
+State-Owned Development Banks: a Theoretical Approach
+Victor Leonardo de Araujo*
+Resumo: Diferente do que supõem as abordagens convencional e das falhas de 
+mercado, a abordagem pós-keynesiana percebe a importância da atuação de bancos 
+públicos, quer pelo seu papel anticíclico, quer pelo seu papel no financiamento de 
+longo prazo para o investimento, para o desenvolvimento regional e para a inovação. 
+Particularmente, o banco público de desenvolvimento (BPD), além de cumprir essas 
+funções, ainda é funcional ao necessário processo de consolidação dos passivos, 
+completando o circuito investimento-financiamento-poupança-funding nas economias 
+baseadas no crédito. Nesta abordagem, o BPD não constitui uma solução inferior 
+aos mecanismos de mercado, podendo, inclusive, exercer papel protagonista no 
+financiamento do investimento. As agendas de fortalecimento dos BPD são compatíveis 
+com esta abordagem, em lugar das agendas de fortalecimento dos mercados de 
+capitais.
+Palavras-chave: Bancos de desenvolvimento. Financiamento do investimento. Teoria 
+pós-keynesiana.
+Abstract: Unlike the conventional and the market failures’ approach, the Post-Keynesian 
+theory admits the importance of state-owned banks, because of its countercyclical role and 
+its long-term financing role to the investment, the regional development and the innovation. 
+Particularly, the development state-owned bank (BDP) is functional to the consolidation 
+of liabilities’ process, fulfilling the investment-finance-save-funding process in economies 
+based on credit bank. According to this approach, BPD is not a worse solution compared to 
+market mechanisms: it can be the protagonist actor in investment financing. Public politics 
+to make BPD stronger are compatible with this approach, in place those that aim make 
+capital market stronger.
+Keywords: Development banks. Investment finance. Post-keynesian theory.
+JEL Classification: E44, G21.
+1 Introdução
+A temática do financiamento do desenvolvimento tem engendrado uma 
+agenda bastante profícua, especialmente em economias em desenvolvimento, nas 
+quais as modalidades que exigem financiamento de longo prazo, como a formação 
+bruta de capital fixo, a infraestrutura e a inovação, constituem um dos problemas 
+estruturais. Por serem economias com mercados financeiros pouco profundos, 
+* Doutor em Economia pela Universidade Federal Fluminense (UFF). Professor adjunto da 
+Faculdade de Economia da UFF. E-mail: victor_araujo@terra.com.br
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+8
+mercados de capitais de pequena dimensão e viés de curto prazo, o financiamento 
+de longo prazo nessas economias é suprido por instituições financeiras de desen -
+volvimento, notadamente os bancos públicos de desenvolvimento (BPD).
+Existe ampla literatura sobre o uso de instituições do tipo BPD. A abordagem 
+preferencial é histórica, voltada para a análise do desempenho dessas instituições, 
+geralmente investigando os setores beneficiados na promoção da reconstrução ou 
+das estratégias de desenvolvimentos dos Estados a que estão submetidos. Do pon-
+to de vista teórico, as contribuições mais numerosas são aquelas que atribuem aos 
+BPD a função de oferecer a modalidade de financiamento de longo prazo que os 
+bancos privados relegam a segundo plano e que os mercados de capitais não são 
+capazes de prover. São abordagens tipicamente novo-keynesianas, nas quais os 
+mercados financeiros são incompletos, cabendo, neste caso, a atuação dos bancos 
+públicos. No caso particular da incompletude de mercado envolver a inexistência 
+ou a insuficiência do mercado de capitais para mobilizar recursos de longo prazo, 
+admite-se o uso de BPD. Por tratar-se de um tipo de intervenção estatal, esta mo-
+dalidade é tratada nesta abordagem como hierarquicamente inferior aos mecanis-
+mos de mercado, ainda que seja aceitável em função das falhas de mercados que 
+os BPD procuram suprir – e, por isso, é uma solução do tipo second best. No plano 
+normativo, a agenda consiste não no fortalecimento dos BPD, mas em reformas 
+capazes de desenvolver os mercados de capitais e de crédito privado, para que 
+a economia possa, gradativamente, prescindir deste tipo de intervenção estatal. 
+A partir da abordagem pós-keynesiana, que rejeita a hipótese da superio -
+ridade dos mecanismos de mercado, este trabalho tem como objetivo oferecer 
+uma aproximação teórica capaz de fundamentar arranjos nos quais os BPD não 
+ocupem necessariamente posição hierarquicamente inferior ao mercado de ca -
+pitais ou de crédito privados. À luz dessa abordagem, mostraremos que os BPD 
+podem constituir uma solução de mesmo nível hierárquico que os mecanismos de 
+mercado, podendo, inclusive, ocupar papel de protagonistas no financiamento do 
+desenvolvimento. Esta abordagem é coerente com proposições de políticas que 
+visam ao fortalecimento dos BPD em lugar de reformas de liberalização financeira 
+que busquem soluções privadas para o financiamento de longo prazo. Na abor -
+dagem proposta por este trabalho, como o aspecto relevante é a oferta estável 
+de fontes de recursos compatíveis com a natureza dos ativos de longo prazo de 
+maturação, discutiremos também as diversas possibilidades que envolvem a com-
+posição da estrutura dos passivos dos BPD. 
+O ponto de partida será discutir, na seção dois, a visão convencional e os 
+modelos de repressão financeira que rejeitam a intervenção estatal nos mercados 
+financeiros (e, portanto, rejeitam a atuação de BPD). A alternativa a essa visão 
+é feita pelos modelos novos keynesianos, que discutiremos na seção três. Nesta 
+abordagem o BPD constitui solução para o problema da incompletude dos mer -
+9
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+cados financeiros – uma solução tipo second best, de modo que o fortalecimento 
+dos mercados privados de capitais constitui a agenda propositiva mais relevante. 
+Na seção quatro discutiremos como a abordagem pós-keynesiana comporta a in-
+tervenção estatal via bancos públicos, chegando ao caso particular dos BPD. Mos-
+traremos que esta abordagem é compatível com arranjos institucionais nos quais 
+os BPD podem assumir posição no topo hierárquico e protagonizar o processo 
+de consolidação financeira, bastando que suas fontes de recursos sejam estáveis 
+e compatíveis com a natureza dos seus ativos, notadamente de longo prazo. Por 
+esta razão, a seção também discute os possíveis formatos da estrutura de ativos 
+dos BPD. Atestada a funcionalidade dos BPD para o ciclo econômico e para o 
+processo de desenvolvimento, a agenda propositiva se desloca das reformas de 
+liberalização financeira para a configuração mais adequada dos BPD, o que pode 
+incluir a sua expansão, já que nesta abordagem o tamanho desta instituição não 
+pode ser definido a priori. A seção cinco fará as considerações finais.
+2 A Visão Convencional 
+Na visão convencional, o debate sobre a necessidade de bancos públicos (e 
+de desenvolvimento, em particular) remonta à discussão sobre a hipótese da efici-
+ência dos mercados financeiros. A visão convencional, que é a forma com a qual 
+chamaremos aquela visão baseada na formulação neoclássica, pode ser resumida 
+nas seguintes proposições:1 
+(i) em mercados completos e que funcionam sob concorrência perfeita e com 
+preços flexíveis, os agentes maximizam sua função-objetivo de modo que 
+o resultado é a promoção de uma alocação pareto-eficiente;
+ (ii) o sistema de preços fornece aos agentes a sinalização de onde os recursos 
+devem ser eficientemente alocados, na medida em que reflete o grau de 
+escassez destes fatores:2 qualquer forma de interferência sobre o sistema 
+de preços gera, portanto, uma alocação ineficiente;
+(iii) a poupança determina o investimento: as decisões dos poupadores (ofer-
+tantes de capital) e dos investidores (demandantes de capital) são tomadas 
+a partir de um exercício de maximização intertemporal de cada agente 
+1 Para mais detalhes sobre as proposições da teoria neoclássica, ver, por exemplo, V arian (1992).
+2 Isto, por sua vez, deriva do princípio da substituição, que pode ser direta (quando a queda no 
+preço de um fator induz à adoção de métodos de produção mais intensivos neste fator) ou indireta 
+(quando os consumidores são induzidos a consumir uma maior quantidade de bens intensivos no 
+fator cujo preço caiu). O princípio da substituição permite derivar uma função de demanda que 
+depende inversamente dos preços. Por isto é que, na teoria neoclássica, o preço relativo de um 
+bem mede o índice da sua escassez. Para maiores detalhes, ver Serrano (2001).
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+10
+econômico, no qual os poupadores transferem recursos aos investidores 
+a uma taxa de juros que iguala oferta e demanda de capital. A taxa de 
+juros é o custo de oportunidade; é o prêmio que o poupador recebe por 
+abrir mão de consumo presente em troca de consumo futuro. A taxa de 
+juros é parte integrante do sistema de preços, e como tal também é um 
+instrumento de sinalização, e que deve ser o suficientemente flexível para 
+garantir o equilíbrio entre poupança e investimento. 
+(iv) as instituições financeiras têm um papel neutro, ou passivo: apenas trans-
+ferem as poupanças dos poupadores para os investidores.
+Dentro da visão convencional, o modelo proposto por Gurley e Shaw (1955) 
+é o pioneiro a abordar a relação entre o papel dos intermediários financeiros e o 
+desenvolvimento econômico. O modelo pressupõe que o sistema econômico seja 
+composto por unidades superavitárias e unidades deficitárias. Estas últimas podem 
+ser deficitárias seja porque consomem mais do que a renda corrente, ou porque 
+investem mais do que poupam. A transferência direta da poupança das unidades 
+superavitárias para as unidades deficitárias incorre em custos elevados, seja pela 
+análise que as unidades superavitárias têm de fazer do retorno e dos riscos dos 
+empréstimos, seja pela dificuldade em encontrar agentes deficitários dispostos a 
+aceitar as condições do empréstimo que as unidades superavitárias desejam fazer. 
+A intermediação financeira tende a reduzir esses custos. Do ponto de vista macro-
+econômico, a intermediação financeira eleva a poupança agregada, pois incentiva 
+a poupança individual dos agentes. Assim, do ponto de vista macro, o modelo 
+relaciona o desenvolvimento dos mercados financeiros com o desenvolvimento 
+econômico. Do ponto de vista micro, o modelo Gurley-Shaw generaliza para os 
+mercados financeiros os resultados segundo os quais o livre mercado promove a 
+alocação mais eficiente dos recursos.3 
+A hipótese da eficiência dos mercados financeiros remete a outra, comumen-
+te associada à visão convencional: a hipótese da repressão financeira, apresentada 
+de forma pioneira por Shaw (1973) e McKinnon (1973), e que pode ser sintetizada 
+da forma a seguir. Em economias em que a taxa de juros real é artificialmente bai-
+xa (em decorrência da intervenção estatal) os mercados financeiros não se desen-
+volvem. Os agentes não têm estímulo a poupar, o que traz um duplo resultado. Em 
+primeiro lugar, os investimentos – determinados pela disponibilidade de poupança 
+– são baixos e a economia tende a registrar baixas taxas de crescimento. Em segun-
+do lugar, o governo é obrigado a financiar-se via emissão monetária, o que resulta 
+em inflação e em redução da taxa real de juros, reforçando o processo. De acordo 
+com a hipótese de repressão financeira, taxas de juros inferiores à de equilíbrio 
+(market-clearing interest rates) levam a outras distorções, entre as quais a maior alo-
+3 Para uma maior defesa da liberalização financeira, ver Fry (1997).
+11
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+cação de recursos em projetos capital-intensivos, ou em projetos menos lucrativos. 
+Para evitar tais distorções, a solução sugerida é o aumento das taxas de juros reais, 
+interrompendo a política de concessão de crédito “barato” a um número reduzido 
+de tomadores privilegiados (MCKINNON, 1973, p. 79).
+Na visão convencional, cabe ao mercado financeiro um papel meramente 
+passivo, qual seja, o de transferir recursos dos poupadores para os “despoupado -
+res” (consumidores ou investidores). Não faz parte da agenda da visão convencio-
+nal qualquer discussão sobre a configuração do sistema financeiro, exceto no que 
+diz respeito à sua liberalização. Ou, como resume Studart (1994, p. 373), sobre a 
+visão convencional: “mercados de capitais perfeitamente competitivos suprirão as 
+economias com todas as suas necessidades de financiamento, sejam elas de curto 
+ou longo prazo”.4
+Assim, nesta abordagem, qualquer proposta de segmentação do mercado 
+financeiro é combatida, porque significa taxas de juros diferenciadas e, portanto, 
+alocação ineficiente de recursos. 
+Se a distinção entre financiamento de curto e longo prazo não é relevante na 
+abordagem convencional, a criação de instituições especializadas merece o mes-
+mo tratamento. Fry (1997, p. 313-314), ao discutir a eficiência dos mercados de 
+capitais na presença de instituições financeiras de desenvolvimento (IFD’s) – entre 
+as quais os bancos públicos de desenvolvimento –, aponta as experiências como 
+“desapontadoras”. Para ele, a existência de bancos de desenvolvimento tende a 
+agravar o quadro de repressão financeira, uma vez que esse tipo de instituição tra-
+dicionalmente opera com taxas de juros menores. Fry aponta ainda outros proble-
+mas com instituições deste tipo: (i) juros baixos as tornam instituições incapazes de 
+serem autossuficientes e mobilizar recursos em termos comerciais; (ii) dívidas em 
+atraso, em especial em períodos de recessão econômica, agravam a incapacidade 
+de autofinanciamento dessas instituições; (iii) não consideram risco e retorno dos 
+projetos que financiam, atuando meramente como instrumento de projetos desen-
+volvimentistas governamentais; e (iv) segmentam o mercado de capitais, gerando 
+uma falha de mercado que levaria a uma distorção: parte do mercado de capitais 
+funcionaria sob racionamento de crédito a taxas de juros reais baixas ou até mes-
+mo negativas, enquanto outra parte funcionaria sob taxas de juros mais elevadas. 
+Além de vários desses, Ferreira, Freitas e Schwartz (1998, p. 76) ainda enun-
+ciam mais um dos argumentos usados pela teoria convencional para rejeitar o uso 
+de bancos de desenvolvimento: tais instituições atuam em mercados de tomadores 
+de alto risco, e financiam projetos “[...] cujos retornos esperados são relativamente 
+baixos, inferiores ao aceitável em termos comerciais”. 
+4 Do original: “perfectly competitive capital market will supply the economy with all its needs of 
+financing, be it short or long term.”
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+12
+Nesse sentido, existe uma grande variedade de trabalhos publicados pelo 
+Banco Mundial apontando uma suposta ineficiência na alocação de recursos, de 
+um modo geral a partir da intervenção governamental no mercado financeiro, 
+e de um modo particular a partir dos bancos públicos de desenvolvimento. Para 
+Vittas e Cho (1995, p. 5), a interferência do governo na alocação de crédito leva 
+à corrupção, rent-seeking e crowding out, sendo raros os casos de intervenção go-
+vernamental bem-sucedida, como seriam os casos do Japão e da Coreia, “[...] 
+mas para a ampla maioria dos países em desenvolvimento, políticas de crédito 
+levaram a severas distorções no mercado e falharam em promover crescimento e 
+desenvolvimento”.5 
+Para Cho e Sheng (2002), a prática de muitos bancos de desenvolvimento 
+em ter uma alta concentração de empréstimos de alto risco a taxas fixas sem uma 
+base estável de funding de longo prazo teria levado muitos deles à falência. 
+Para Kane (19776 apud YEYATI; MICCO; PANIZZA, 2004, p. 58), a interven-
+ção estatal distorce a alocação de crédito, que passa a ser determinada por razões 
+políticas em lugar das razões econômicas. Além disso, o crédito seletivo teria cus-
+tos associados, como o uso ineficiente de recursos produtivos. Como os custos são 
+implícitos, a dificuldade de mensurá-los leva a acreditar que tais políticas são mais 
+baratas do que efetivamente são.
+3 A Abordagem das Falhas de Mercado 
+Embora a abordagem que assume a existência de falhas de mercado seja 
+subproduto da velha teoria neoclássica, ela admite (ao contrário dos suas anteces-
+soras) a intervenção estatal no mercado financeiro, ainda que dentro das limita -
+ções impostas pelo preenchimento das lacunas deixadas pelo setor privado – que 
+resultam das tais falhas.
+Stiglitz e Weiss (1981) apontam a assimetria de informações como uma das 
+principais falhas de mercado, e que tem efeitos particulares no mercado financei-
+ro. A existência de assimetria de informação se caracteriza por cada participante 
+do mercado desconhecer todas as informações sobre o outro: o tomador de em -
+préstimos tem informações melhores do que o emprestador sobre o risco e o retor-
+no potencial do projeto para o qual está solicitando o empréstimo.7 O resultado é o 
+racionamento de crédito: os emprestadores se recusam a emprestar mesmo que o 
+tomador esteja disposto a pagar juros mais altos. O excesso de demanda por crédi-
+5 “But in the vast majority of developing countries, credit policies have given rise to severe market 
+distortions and have failed to promote growth and development.”
+6 KANE, E. Good intention or unintended evil: the case against selective credit allocation.  , v. 9, 
+n. 1, 1977.
+7 Um bom resumo do problema da assimetria de informações pode ser encontrado em Carvalho et 
+al. (2000: p. 79-82).
+13
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+to não se traduz em aumento das taxas de juros – ou seja, os preços não aumentam 
+para eliminar o excesso de demanda.
+Nesse mercado, a assimetria de informações conduziria aos problemas de 
+seleção adversa e risco moral. Se o excesso de demanda por crédito fosse elimi -
+nado via aumento das taxas de juros – como supõe a teoria convencional – auto-
+maticamente seriam eliminados do mercado aqueles tomadores de empréstimo 
+cujos projetos são menos arriscados, permanecendo somente os projetos mais 
+arriscados. Para evitar isso, o emprestador evita elevar as taxas de juros e raciona 
+crédito. Esse problema ficou conhecido como seleção adversa, e ocorre antes da 
+transação se efetuar. O segundo problema, também associado à existência de assi-
+metria de informações, é o risco moral (moral hazard), que é o risco de o tomador 
+de empréstimos utilizar os recursos emprestados em um projeto distinto daquele 
+para o qual o emprestador concedeu o financiamento. Se isto ocorrer, e o refe -
+rido projeto malograr, o tomador provavelmente não conseguirá honrar os seus 
+compromissos. Por isso, o emprestador prefere conceder empréstimos de menor 
+montante a taxas de juros mais baixas, e raciona o crédito.
+Stiglitz (1993) combate ainda a hipótese da repressão financeira: num am -
+biente de informação imperfeita, o processo de alocação deixa de ser baseado nos 
+preços.8 Ademais, segundo Stiglitz, não haveria evidências quanto à relação entre 
+taxa de juros e poupança.
+Um tipo específico de falha de mercados que pode ser observada nos países 
+em desenvolvimento constitui aquilo que se convencionou chamar de incomple-
+tude dos mercados. Segundo Stiglitz (1993), em economias menos desenvolvidas 
+os mercados financeiros são incompletos: os mercados de capitais são fracos e os 
+mercados acionários, muitas vezes, inexistem. Os bancos, por sua vez, tendem a 
+privilegiar os empréstimos de curto prazo. Haveria, por parte do setor privado, um 
+desinteresse em financiar projetos que, embora tenham um alto retorno social, 
+têm um baixo retorno privado e alto risco. 
+Geralmente, as falhas de mercado em criar instituições apropria -
+das podem ser devido à falta de empresários no setor privado, à 
+falta de criatividade ou à falta de vontade de assumir riscos; ou ao 
+fato de que os retornos privados esperados pela instituição são ge-
+ralmente menores que os retornos sociais. (STIGLITZ, 1993, p. 28)9
+A existência de falhas de mercado e, portanto, o não alcance dos resultados 
+esperados pela teoria convencional, justificaria formas de intervenção governa -
+8 “Because of information imperfections, banks are involved, in any case, in a non-price allocation 
+process.” (STIGLITZ, 1993, p. 28).
+9 “Often, the markets failure to create appropriate institutions may be due to a lack of 
+entrepreneurship in the private sector, a lack of creativity or an unwillingness to bear risks; or 
+to the fact that the expected private returns to the institution often are markedly less than social 
+returns.”
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+14
+mental.10 Para Stiglitz (199311 apud FRY , 1997, p. 759). “[...] existem formas de in-
+tervenção do governo que não somente farão o mercado funcionar melhor como 
+também melhorarão a performance da economia”. 12 Em mercados financeiros, 
+segundo Stiglitz (1993), as falhas de mercado tendem a ser mais difusas do que nos 
+outros mercados, o que justificaria a intervenção governamental. As formas suge-
+ridas de intervenção seriam: (i) criação de instituições de mercado; (ii) regulação 
+de tais instituições; (iii) intervenção em tais instituições através de mecanismos 
+regulatórios; (iv) intervenção direta nos mercados de capitais; e (v) outras formas 
+de intervenção. Stiglitz (1993) cita o uso dos bancos de desenvolvimento pelos 
+países hoje desenvolvidos como uma forma exitosa de solucionar os problemas 
+apontados até aqui.
+A incompletude dos mercados financeiros é, ao lado da assimetria de in -
+formações, outro fator impeditivo ao seu funcionamento eficiente. Na ausência 
+de agentes dispostos a conceder financiamento de longo prazo, os demandantes 
+deste tipo de empréstimo seriam obrigados a recorrer a sucessivos financiamentos 
+de curto prazo, correndo o risco inerente às oscilações das taxas de juros. 
+Ao contrário do que a alguns possa parecer, o livre mercado tem 
+dificuldades para abordar algumas peculiaridades dos investi -
+mentos produtivos, uma vez que a sua maturação prolongada e a 
+incerteza quanto aos resultados de longo prazo implicam, quase 
+sempre, altos riscos, os quais o capital financeiro privado, orienta-
+do, basicamente, para objetivos microeconômicos, procura evi -
+tar. (YOSHINO, 1994, p. 37)
+A despeito dessa tradição teórica admitir a intervenção estatal nos mercados 
+financeiros, essa deve ficar circunscrita ao suprimento das falhas de mercado – isto 
+10  Nem todos os economistas que utilizam a abordagem de falhas de mercado tipicamente 
+oriundas da assimetria informacional concordam que a intervenção governamental vá gerar 
+necessariamente resultados superiores. Para alguns, as falhas de governo podem ser piores 
+do que as falhas de mercado. Vittas e Cho (1995) defendem que, se houver necessidade de 
+promover algum tipo de intervenção governamental, é melhor fazê-lo por meio de políticas de 
+direcionamento de crédito do que através das formas convencionais, como a proteção tarifária. 
+Embora admitam que o direcionamento de crédito pode ser uma solução para os problemas 
+decorrentes da assimetria de informações, os autores também acreditam que “[...] governos nem 
+sempre fazem a coisa certa”. O envolvimento do Governo na alocação de crédito pode resultar, 
+e geralmente resulta, em rent-seeking por parte dos tomadores de empréstimo, corrupção por 
+parte dos banqueiros e funcionários públicos, e crowding-out dos projetos igualmente desejáveis 
+(VITTAS; CHO, 1995, p. 280). É evidente que o debate entre falhas de mercado e falhas de 
+governo é imbuído de um forte grau de subjetividade e ideologia. De acordo com Carvalho 
+(2001, p. 392), não existe nenhuma garantia que as falhas de governo sejam maiores do que as 
+falhas de mercado.
+11  STIGLITZ, J. The role of the state in financial markets. The World Bank Economic Review, v. 7, n. 1, 
+p. 19-52, 1993.
+12  Do original: “there exist forms of government intervention that will not only make these markets 
+function better but will also improve the performance of the economy.”
+15
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+é, os bancos públicos em geral e os de desenvolvimento em particular devem atu-
+ar apenas nos segmentos nos quais o setor privado deixa lacunas.
+Para Titelman (2003), em países como os latino-americanos, nos quais os 
+mercados financeiros são de menor tamanho, menos sofisticados e com história in-
+flacionária, haveria concentração de financiamento nas modalidades de curto pra-
+zo, e os bancos públicos de desenvolvimento poderiam desempenhar um papel de 
+fomento ao setor produtivo, “seja facilitando o acesso ao financiamento a agentes 
+excluídos deste processo e/ou como catalisador e impulsor de novas modalidades 
+de intermediação financeira” (TITELMAN, 2003, p. 15). 
+Y oshino (1994) também justifica a intervenção governamental via instituições 
+financeiras especializadas no desenvolvimento, tais como bancos de desenvolvi -
+mento, no mercado de crédito a partir do desinteresse do setor privado em fi -
+nanciar determinados setores. Para Ferreira, Freitas e Schwartz (1998, p. 75), nos 
+países em desenvolvimento
+o setor privado não desenvolveu instituições adequadas ao fi -
+nanciamento de longo prazo com o propósito de investimento, 
+relegando essa tarefa ao setor público. O papel central do go -
+verno na promoção do desenvolvimento levou à formação de 
+instituições com a atribuição específica de identificar, promover, 
+financiar e implementar projetos de investimento. 
+Y eyati, Micco e Panizza (2004) resumem como sendo quatro os argumentos 
+que justificam a intervenção governamental no mercado financeiro: (i) garantir 
+a segurança e a solvência do sistema bancário; (ii) mitigar as falhas de mercado 
+decorrentes dos custos da obtenção da informação, bem como da assimetria de 
+informações; (iii) financiar projetos que, embora sejam socialmente desejáveis, são 
+de baixa lucratividade (e que, por essa razão, não despertam o interesse do setor 
+financeiro privado); e (iv) promover o desenvolvimento financeiro e garantir o 
+acesso a serviços bancários competitivos aos que residem em áreas isoladas. A 
+intervenção governamental no mercado de crédito, particularmente através de 
+bancos estatais, garantiria financiamento a setores que o setor privado, tipicamen-
+te, não se sente estimulado a financiar, como a agricultura, os setores intensivos 
+em P&D ou em capital. Ademais, “[...] em um contexto de pobre desenvolvimento 
+institucional e desconfiança geral dos bancos privados, os bancos estatais seriam 
+as únicas instituições financeiras viáveis” (YEYATI; MICCO; PANIZZA, 2004, p. 
+12).13 Os bancos estatais ainda podem contribuir para suavizar o ciclo econômico, 
+expandindo o crédito em períodos recessivos. 
+A abordagem das falhas de mercado tem inspirado não somente os princi -
+pais argumentos favoráveis à intervenção estatal no mercado financeiro, como 
+13  “[…] in a context of poor institutional development and a general mistrust of private banks, state-
+owned banks could be only viable financial institutions”.
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+16
+também inspirou as definições para bancos de desenvolvimento. A definição ori -
+ginal utilizada por Diamond (1957) e Boskey (1959), segundo a qual o banco de 
+desenvolvimento é uma instituição destinada a conceder empréstimos de longo 
+prazo (p. 2), foi lapidada por outros autores, como Aghion (1999) e Y eyati, Micco 
+e Panizza (2004), que trataram de incorporar o fato dessas instituições financia -
+rem projetos em modalidades tradicionalmente relegadas a segundo plano pelos 
+bancos privados. Segundo Y eyati, Micco e Panizza (2004, p. 16), bancos de desen-
+volvimento seriam instituições provedoras de capital de longo prazo para proje -
+tos imbuídos de externalidades, mas que, contudo, não encontram financiadores 
+privados, como, por exemplo, financiamento agrícola e projetos de redução de 
+desigualdades regionais, que são modalidades tipicamente atingidas pelo raciona-
+mento de crédito – típicas falhas de mercado. Todas essas definições têm um ponto 
+em comum: assumem que o papel do banco de desenvolvimento é atuar em al -
+gum segmento que, embora relevante para o desempenho econômico, é relegado 
+a segundo plano pelos mecanismos de mercado.
+Fica claro nas abordagens que assumem a existência de falhas de mercado 
+que os bancos de desenvolvimento são uma solução do tipo second best. Ou seja, 
+se os mercados financeiros não possuíssem tais falhas – ou seja, se os mercados 
+financeiros fossem completos e não existisse assimetria de informação –, os resul -
+tados obtidos seriam aqueles previstos pela teoria convencional: alocação ótima 
+de recursos, que nos mercados financeiros em particular corresponderia a uma 
+situação na qual o financiamento do investimento seria provido de forma a asse -
+gurar uma trajetória compatível com o crescimento de longo prazo em condições 
+equilibradas. Na existência de falhas, contudo, admite-se a intervenção estatal – 
+em particular, admite-se o uso de bancos de desenvolvimento de caráter públi -
+co (doravante bancos públicos de desenvolvimento, ou BPD) para suprir falhas 
+específicas do mercado financeiro, como as modalidades de longo prazo e/ou o 
+financiamento de setores geradores de externalidades positivas do ponto de vista 
+social, ainda que pouco lucrativas. 
+Do ponto de vista normativo, essa abordagem não só delimita a atuação do 
+BPD ao suprimento das falhas de mercado, como também estabelece uma agenda 
+de reformas que busquem “completar” o mercado financeiro – desenvolvimento 
+do mercado financeiro, particularmente nas modalidades de prazo mais longo. Em 
+geral, essas reformas ainda são combinadas com outras políticas que visem asse -
+gurar maior lucratividade para as atividades geradoras de externalidades positivas 
+do ponto de vista social, como as parcerias público-privadas. Como pano de fun-
+do, a supremacia do mecanismo de mercado contrapõe-se à intervenção estatal, 
+inerentemente falha, o que justificaria uma agenda de restrições cada vez mais 
+limitadoras da atuação estatal. Assim, por exemplo, reformas financeiras visando 
+“completar” os mercados financeiros – particularmente as modalidades de longo 
+17
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+prazo, por meio do aprofundamento dos mercados privados de capitais – seriam 
+preferíveis a políticas de expansão da atuação dos BPD. 
+As próximas seções discutirão, a partir da abordagem pós-keynesiana, a pos-
+sibilidade da solução representada pelos BPD ser do tipo first best: em vez de um 
+mal necessário, seria uma instituição desejada e recomendada. 
+4 A Abordagem Pós-Keynesiana: dos Bancos Públicos aos Bancos Públicos 
+de Desenvolvimento
+Como parte da aproximação teórica a que nos propusemos, ofereceremos 
+primeiro uma abordagem teórica para tratar bancos públicos em geral, para, em 
+seguida, tratar do caso específico dos bancos de desenvolvimento.
+4.1 Bancos Públicos segundo a Abordagem Pós-Keynesiana
+O ponto de partida da abordagem pós-keynesiana é o princípio da demanda 
+efetiva (PDE) como explicativo da dinâmica macroeconômica. Segundo o PDE, 
+os níveis de emprego e de renda da economia dependem dos gastos autônomos 
+em investimento. O consumo induzido amplia esse impulso autônomo por meio 
+do multiplicador. Um dos resultados mais notáveis do PDE é a inversão da Lei de 
+Say, que supõe a causalidade da poupança para o investimento, advogando exa-
+tamente o oposto: a expansão da renda que resulta ao término do processo gerará 
+também uma expansão da poupança que a iguala, ex-post, ao investimento inicial. 
+O investimento, segundo os keynesianos, depende das decisões dos empresários, 
+tendo por base o retorno esperado dos ativos de capital, e não depende de pou -
+pança prévia: em um sistema de moeda fiduciária no qual os bancos têm a prer -
+rogativa de criar moeda escritural, o financiamento do investimento depende da 
+disposição dos bancos em disponibilizar os recursos iniciais de que o empresário 
+necessita. A operação é meramente contábil e tem como restrição inicial a capaci-
+dade e a disposição dos bancos em se alavancar, o que, em última instância, será 
+determinado pelo estado de confiança da economia (KEYNES, 1964). 
+É preciso, pois, compreender quais são os determinantes do comportamento 
+da firma bancária. Autores de tradição pós-keynesiana construíram uma teoria da 
+firma bancária a partir dos conceitos de preferência pela liquidez e incerteza, por 
+analogia ao comportamento dos demais agentes econômicos. 
+Segundo Carvalho (2007), a teoria da preferência pela liquidez formulada por 
+Keynes é comumente entendida como uma teoria da demanda por moeda a partir 
+dos motivos transação, precaução, especulação e finance. Entretanto, mais do que 
+uma teoria da demanda por moeda, essa abordagem constitui, na verdade, uma 
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+18
+teoria de escolha de ativos na qual os agentes econômicos levam em consideração 
+os retornos esperados das diferentes classes de ativos vis-à-vis  o atributo de 
+liquidez de cada uma delas. O retorno monetário de um ativo é composto por três 
+componentes: a taxa de quase-renda (q), o custo de carregamento associado à sua 
+manutenção (c), e seu valor de mercado (a). O investidor estará disposto a abrir 
+mão da soma desses componentes (q+c+a) em troca de um ativo que ofereça 
+conveniência e segurança ao seu possuidor sempre que preferir manter um 
+portfólio flexível o suficiente para recompor suas estratégias sob diferentes cenários 
+– atributos associados à sua liquidez. Assim, a preferência pela liquidez é medida 
+em termos do trade-off entre (q+c+a) e o prêmio pela liquidez. Os agentes optam 
+por incorporar aos seus portfólios ativos menos rentáveis, porém mais líquidos, 
+porque a liquidez é o atributo que fornece conveniência e segurança potencial 
+ao possuidor do ativo: quanto mais líquidos, maior será a flexibilidade que esses 
+ativos oferecem, porque permitem ao seu possuidor recompor suas estratégias 
+sob diferentes cenários (PAULA, 1999). Agentes econômicos preferem liquidez 
+em resposta aos cenários de maior incerteza, em que essa flexibilidade constitui a 
+estratégia mais adequada na gestão de seus ativos. Essa incerteza, por sua vez, é 
+do tipo não-probabilística, e está associada ao caráter conjectural do futuro, cujo 
+total desconhecimento explica a natureza especulativa das decisões de produção 
+e de investimento, que são formuladas a partir de expectativas formuladas pelos 
+empresários, que podem ou não se confirmar (FEIJÓ, 1999).
+Os bancos, como quaisquer outros agentes econômicos, também possuem 
+preferência pela liquidez e, como tal, também constituem seus portfólios “de modo 
+a conciliar lucratividade e escala de preferência pela liquidez” (PAULA, 1999, p. 
+173). A atividade bancária possui uma especificidade: o sistema financeiro produz 
+e negocia direitos sobre renda futura, cujas estimativas envolvem risco, incerteza 
+e graus variados de confiança nos cenários formulados (HERMANN, 2011). Sob 
+maior incerteza, os bancos, à maneira dos agentes econômicos em geral, também 
+recompõem suas carteiras de ativos incorporando os de maior grau de liquidez, 
+em detrimento daqueles que oferecem menor liquidez a despeito da maior ren -
+tabilidade. Com efeito, reduzem as operações de crédito, cujo grau de liquidez 
+é inferior a algumas classes de ativos financeiros. Ao contrário, sob expectativas 
+otimistas, os bancos tendem a privilegiar rentabilidade sobre liquidez, elevando a 
+participação das operações de maior risco em seus ativos (PAULA, 1999), o que 
+inclui as operações de crédito. Diz-se, por esta razão, que o comportamento dos 
+bancos é pró-cíclico. Mais ainda: este comportamento tende a amplificar as fa -
+ses do ciclo econômico. Especialmente nas fases de desaceleração econômica, 
+quando as expectativas se tornam pessimistas, os bancos reduzem as operações de 
+crédito, prolongando as recessões (PAULA, 2014).
+19
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+Sob esta perspectiva, é possível afirmar que o arcabouço keynesiano con -
+templa um espaço importante para atuação de bancos públicos: a ação anticícli -
+ca, expandindo as operações de crédito nos momentos de reversão do estado de 
+confiança da economia e contra-arrestando, total ou parcialmente, a contração 
+do crédito por parte dos bancos privados resultante da deterioração das expecta-
+tivas. Essa ação deve ser parte integrante do conjunto de políticas historicamente 
+identificadas com o keynesianismo e adotadas com o intuito de promover a ação 
+estabilizadora na economia, complementando a política fiscal conduzida no sen -
+tido de ampliar o gasto público, e sendo parte integrante da política monetária. 
+Por não terem como objetivo final a maximização do lucro, os bancos públicos 
+possuem espaço para atuarem fora da lógica imposta pelo trade-off entre (q+c+a) 
+e o prêmio pela liquidez, ainda que não de forma limitada.14
+Em razão do comportamento exposto até aqui, Minsky (2009, p. 314) afir -
+mou que “bancos e banqueiros não são administradores passivos do dinheiro a 
+ser emprestado ou investido” como supõe a teoria convencional: as suas decisões 
+de recompor seus ativos com maior/menor participação daqueles de maior renta-
+bilidade, elevando/reduzindo a oferta de crédito, significam que os bancos fazem 
+uma gestão ativa dos seus balanços. Quando o público escolhe as modalidades de 
+depósitos também influenciados pela comparação entre risco e retorno das aplica-
+ções, preferindo maior liquidez sob cenários de maior incerteza, os bancos devem 
+adequar suas operações ativas ao perfil de suas obrigações. O oposto também é 
+verdadeiro: os bancos também fazem uma gestão dos seus passivos buscando ade-
+quar a natureza das obrigações por ele emitidas aos prazos e riscos dos seus ativos. 
+Por exemplo, ao incorporar em sua carteira de ativos as operações de crédito de 
+prazo mais longo, o banco deve certificar-se de que tais operações não devem ter 
+como contrapartida operações passivas de prazo mais curto, como depósitos à 
+vista. Em outras palavras, o banco deve gerir o seu balanço “com base na escolha 
+entre quanto e quais tipos de ativos comprar e quanto e quais tipos de obriga -
+ções emitir” (OLIVEIRA, 2007, p. 181). Essa gestão, contudo, não requer a perfeita 
+coincidência entre as maturidades do ativo e do passivo, porque a natureza da ati-
+vidade bancária admite – ou mesmo requer – que se aceite algum descasamento 
+entre elas: sob maior aversão ao risco, o banco diminui este descasamento, ainda 
+que ao custo de menores taxas de lucro (PAULA, 2000). É neste sentido que Car-
+valho (2007, p. 15) afirma que é possível “ler” a preferência pela liquidez de cada 
+banco em seu balanço: ela exerce influência sobre a escolha das classes de ativos 
+14 A ação anticíclica pode reduzir as margens de lucro do banco público, já que seu objetivo 
+primeiro não seria a maximização do lucro, mas sim, neste caso, a capacidade de contra-arrestar 
+os efeitos recessivos que o padrão de atuação do setor bancário privado impõe. As limitações são 
+dadas pela própria margem de lucro, já que, se incorrer em prejuízos sistemáticos, o banco terá 
+de ser socorrido pelo tesouro, se a operação incluir aportes de capital, ou pelo banco central, se 
+houver risco sistêmico.
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+20
+que os bancos irão incorporar, assim como sobre o tipo e o prazo de obrigações 
+que deverão emitir. 
+Mas, ainda que o descasamento entre as maturidades seja algo inerente à 
+atividade bancária, há limites para que isto ocorra, em razão do risco da ativida -
+de. Segundo Paula (2000), esses riscos são de três tipos. O primeiro é o risco de 
+crédito, associado à possibilidade de não pagamento das obrigações por parte do 
+devedor, a qual, por sua vez, está associada ao sucesso do empreendimento que 
+originou a operação de financiamento. A geração de um fluxo de receitas compa-
+tível com o pagamento dos juros e das amortizações depende do bom desempe -
+nho da economia. O segundo tipo é o risco de taxa de juros, já que as taxas que 
+remuneram tanto as operações passivas como as ativas podem variar, impactando 
+o balanço líquido dos rendimentos com juros da instituição bancária. Finalmente, 
+o terceiro é o risco de liquidez, resultado das diferenças de maturidade entre as 
+operações ativas e passivas: quanto maior for este descasamento, maiores serão 
+as dificuldades de o banco atender a uma maior demanda por liquidez dos seus 
+clientes, o que pode afetar a confiança do público quanto à sua capacidade em 
+honrar suas obrigações. Ainda que a insuficiência temporária de liquidez possa 
+ser suprida no mercado interbancário, essas operações envolvem um custo para 
+o banco.
+Deste modo, a existência, no balanço do banco, de operações de crédito 
+mais longas lastreadas em passivos de maturidade inferior, embora usual, tem limi-
+tes impostos pelo risco inerente à atividade bancária. Por este motivo, bancos co-
+merciais, ou bancos múltiplos em que prepondere a carteira comercial, oferecem 
+operações de crédito com prazos mais curtos. Ou, de modo mais geral, econo -
+mias em que o setor bancário não consegue alongar os prazos de suas operações 
+passivas têm maiores dificuldades em prover financiamento de longo prazo por 
+meio desses tipos de instituição. A formação bruta de capital fixo e a construção 
+de moradias, atividades de longo prazo de maturação, requerem modalidades de 
+financiamento de longo prazo, sob pena da economia se expor ao risco de taxa de 
+juros, caso as operações tenham que ser sucessivamente roladas em modalidades 
+vincendas no curto (ou mesmo no médio) prazo. 
+Em geral, os projetos que envolvem prazos mais longos têm menor liquidez 
+e são imbuídos de uma componente maior de incerteza, especialmente quando 
+se tratam de projetos voltados à introdução de novos setores antes inexistentes 
+na estrutura produtiva. Estão incluídos aqui os investimentos em infraestrutura e 
+inovação. Os primeiros envolvem custos elevados em construção civil, que ge -
+ralmente possuem um componente de imprevisibilidade 15 que amplia o grau de 
+incerteza comparativamente a outras modalidades de operações. Os elevados pra-
+zos de maturação associados à incerteza inerente a esses projetos também tendem 
+15 V er, a este respeito, Carneiro (2002).
+21
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+a afastar os financiadores privados desse mercado, que podem preferir incorporar 
+em suas carteiras de ativos investimentos menos ilíquidos e de retorno menos in -
+certo, notadamente os de curto e médio prazo. Ou, em termos pós-keynesianos, os 
+bancos tendem a administrar suas operações ativas de modo a rejeitar parte dessas 
+operações. As maiores empresas, já consolidadas em seus respectivos mercados, 
+teriam maior facilidade em obter financiamento mesmo nas operações de prazos 
+mais longos, porque os bancos tendem a associar essas empresas e seus empre -
+endimentos a um menor grau de risco e acomodar a operação de financiamento 
+mesmo em um cenário de maior incerteza. Nesse caso, os bancos teriam apenas 
+de conciliar a propensão a incorporar ativos realizáveis a longo prazo com sua 
+estrutura de passivos. De todo modo, o resultado deste processo tende a favore -
+cer a consolidação de uma estrutura produtiva pré-existente, compatível com as 
+empresas já consolidadas que atuam em seus respectivos setores. Ocorre, pois, 
+que o processo de desenvolvimento econômico, entendido como diversificação 
+da estrutura produtiva, requer a incorporação de novos ramos de atividade, no -
+tadamente aquelas de maior produtividade, em geral intensivas em capital e com 
+maior prazo de maturação, muitas vezes empreendidas por novos entrantes no 
+mercado. Ou seja, o processo de desenvolvimento requer financiamento de longo 
+prazo, em setores associados a graus de incerteza mais elevados.
+O mesmo ocorre quanto à inovação. Trata-se de uma modalidade de inves-
+timento também imbuída de enorme incerteza e elevado tempo de maturação. 
+Essa modalidade requer elevada capacidade de concentração de capital, porque 
+os seus custos são elevados, em geral associados ao pagamento de salários de 
+profissionais altamente qualificados (LUNA; MOREIRA; GONÇALVES, 2008) e 
+equipamentos. 
+Sob este aspecto, a abordagem pós-keynesiana abre outro campo de atu -
+ação para os bancos públicos: o financiamento de longo prazo para a formação 
+bruta de capital, seja para sustentar as taxas de crescimento do produto, seja para 
+sustentar projetos de desenvolvimento econômico com transformação da estru -
+tura produtiva e com atividades inovadoras. Se o financiamento de longo prazo 
+constituir um dos papeis destinados à instituição, o banco deve ser formatado de 
+modo que suas operações passivas sejam longas, já que se espera desse tipo de 
+instituição uma maior participação de operações ativas de longo prazo.
+Finalmente, a aplicação dos conceitos de incerteza e preferência pela liqui -
+dez, quando combinados às categorias de centro e periferia, 16 em abordagem 
+16 V er Bielschowsky (2000), Busato (2012).
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+22
+originalmente formulada por Dow (1982,17 1987,18 199019 apud AMADO, 1997),20 
+permite outro campo de atuação para os bancos públicos: o desenvolvimento re-
+gional. Segundo Amado (1997), a periferia se caracterizaria por uma dinâmica 
+econômica instável, com alta propensão a importar, estrutura produtiva pouco 
+diversificada e concentrada nos setores primário e terciário, e sua dinâmica ma -
+croeconômica é dada exogenamente. Além disso, na periferia o grau de desenvol-
+vimento dos mercados financeiros é baixo e os ativos são menos líquidos. Dessa 
+forma, o grau de incerteza na periferia tende a ser superior ao centro, e a preferên-
+cia pela liquidez também tende a ser mais elevada – incluindo a preferência pela 
+liquidez das instituições financeiras que operam na periferia (NOGUEIRA; CROC-
+CO; SANTOS, 2010). Ou seja, os bancos tendem a ofertar relativamente volumes 
+menores de crédito para a periferia, deslocando recursos para o centro e gerando 
+um círculo vicioso: as condições periféricas determinam o baixo volume de cré -
+dito, o que agrava as condições iniciais. “Não há mecanismos endógenos capazes 
+de romper essa dinâmica concentradora. Portanto, a única forma de revertê-la 
+é a introdução de elementos exógenos” (AMADO, 2010, p. 221). O Estado pode 
+constituir esse elemento exógeno por meio dos bancos públicos.
+Dessa forma, a intervenção estatal por meio de bancos públicos constitui 
+a solução para tornar viável o financiamento de tais operações. Deste modo, as 
+seguintes funções podem ser atribuídas a bancos públicos, todas compatíveis com 
+a abordagem pós-keynesiana: (i) ação anticíclica; (ii) financiamento da formação 
+bruta de capital fixo; (iii) financiamento do desenvolvimento regional; e (iv) finan-
+ciamento da inovação. 
+Segundo essa abordagem, a função do banco público não consiste em pre -
+encher lacunas decorrentes de falhas de mercado. A abordagem pós-keynesiana 
+prescinde da hipótese da informação imperfeita ou assimétrica, bem como da hi-
+pótese da incompletude dos mercados. Ainda que a informação fosse perfeita, 
+simétrica e os mercados fossem completos, os atributos de rentabilidade e liquidez 
+de cada ativo associados à incerteza da atividade que pretende ser financiada (ino-
+vadora, intensiva em capital, de longo prazo de maturação) já seriam suficientes 
+para provocar insuficiência de oferta de crédito. Esses atributos seriam mais inten-
+sos nas economias periféricas, especialmente para o financiamento das atividades 
+tipicamente associadas ao processo de desenvolvimento econômico. São as ca -
+racterísticas intrínsecas a essas modalidades – e não as falhas de mercado – que in-
+17 DOWN, S. C. The regional composition of the Money multiplier process. Scottish Journal of 
+Political Economy, v. 19, n. 1. 1982.
+18 DOWN, S. C. The treatment of money in regional economics. Journal of Regional Science, v. 27, n. 
+1. 1987.
+19 DOWN, S. C. Financial markets and regional development: the Canadian experience. Aldershot: 
+Abebury, 1990.
+20 Recomenda-se também consultar Crocco, Figueiredo e Santos (2010).
+23
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+tensificam o grau de incerteza a elas associadas, e que levam as instituições finan-
+ceiras privadas a optarem pela liquidez, rejeitando incorporá-las em suas carteiras. 
+Por essa razão, não se pode afirmar que a solução oferecida pelos bancos 
+públicos seja do tipo second best, como sugerem as teorias das falhas de mercado.21 
+Em razão do já descrito comportamento intrínseco à atividade bancária privada, 
+os bancos públicos constituem um tipo de solução que não necessariamente será 
+hierarquicamente inferior à solução oferecida pelos mecanismos de mercado. A 
+atuação dos bancos públicos não deve se restringir a apenas complementar a atu-
+ação privada, podendo inclusive disputar o protagonismo no financiamento das 
+atividades produtivas, atuando de forma funcional ao processo de sustentação do 
+crescimento do produto, da transformação da estrutura produtiva e do financia -
+mento do investimento e da inovação.
+4.2 Bancos Públicos de Desenvolvimento (BPD)
+O setor bancário possui outra função crucial nas economias monetárias de 
+produção: suprir as empresas com a liquidez necessária para seus planos de pro -
+dução e para as fases iniciais do plano de investimento (ZONINSEIN, 1989).
+Segundo o PDE, o investimento determina o nível de renda, e não requer 
+poupança prévia para disponibilizar os recursos necessários ao seu financiamento. 
+A inexistência de restrição de poupança para o processo de expansão econômi -
+ca não significa, contudo, que não exista qualquer impedimento ao processo de 
+expansão econômica. De acordo com a tradição pós-keynesiana, os empresários 
+que desejam investir devem ter acesso ao crédito bancário para a mobilização 
+dos recursos iniciais. Como já vimos na subseção 3.1, tais recursos não são obtidos 
+através de quantias previamente poupadas, porque os bancos comerciais têm a 
+prerrogativa de criar moeda por mero instrumento contábil – o processo de cria-
+ção de moeda escritural nas economias modernas cujos sistemas bancários fun -
+cionam sob a forma de reservas fracionárias. Esses fundos rotativos que permitem 
+ao empresário dar início ao processo de investimento constituem o motivo finance 
+para demanda por moeda. Também já discutimos na subseção anterior o compor-
+tamento da firma bancária e os determinantes que a levam a expandir a oferta de 
+crédito, particularmente aqueles associados ao investimento. 
+Como o investimento envolve, por definição, projetos de prazo de maturação 
+mais longos, a empresa investidora, ao mesmo tempo em que conseguiu 
+mobilizar os recursos preliminares para seu plano de investimentos, também deve 
+21 Segundo as abordagens das falhas de mercado, caso não houvesse as tais falhas, as instituições 
+financeiras privadas se encarregariam de financiar tais atividades, e o resultado seria aquele 
+previsto pela teoria convencional. A existência das falhas, contudo, abre espaço para a atuação 
+dos bancos públicos, mas se trata de uma solução inferior àquela oferecida pelo mercado.
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+24
+consolidar a estrutura do seu passivo de forma a adequá-la ao prazo de maturação 
+do investimento, uma vez que somente ao fim deste ele conseguirá obter as 
+receitas necessárias para quitar sua dívida. 22 A empresa busca nas modalidades 
+disponíveis no mercado financeiro a mobilização de fundos de longo prazo para 
+alongar os prazos de suas operações passivas. A este processo a literatura pós-
+keynesiana chamou de funding. É a ausência de mecanismos de consolidação 
+financeira (funding) que constitui obstáculo ao investimento, e não a insuficiência 
+de poupança, como sugere a teoria convencional.23 
+Por meio da ação do multiplicador, os recursos mobilizados para o investimen-
+to proporcionarão uma elevação do nível de renda que, dada a propensão margi-
+nal a consumir, também elevarão ex-post a taxa de poupança na mesma proporção 
+do aumento inicial do investimento. Se a economia dispuser dos mecanismos apro-
+priados de consolidação financeira, a poupança será alocada em modalidades de 
+longo prazo capazes de alongar o passivo da empresa investidora, completando, 
+assim, o assim chamado circuito financiamento-investimento-poupança-funding. 
+O mercado de capitais é um dos lócus nos quais o processo de consolidação 
+financeira pode ocorrer: as empresas investidoras negociam junto aos bancos de 
+investimento e outras instituições financeiras atuantes neste mercado os recursos 
+de longo prazo para adquirir os bens de capital necessários à viabilidade de seus 
+projetos (ZONISTEIN, 1989). 
+Nem todas as economias, contudo, dispõem de mercados de capitais 
+profundos o bastante para completar o circuito. O formato através do qual 
+o funding será provido dependerá das características da estrutura do sistema 
+financeiro. Zysman (1983) propôs uma tipologia que permite classificar as 
+estruturas financeiras existentes. De um modo geral, haveria sistemas com base no 
+mercado de capitais (capital market-based-systems) e sistemas com base no crédito 
+(credit-based systems). No primeiro caso, emissões de ações e debêntures de longo 
+prazo constituem a mais importante fonte de consolidação financeira, enquanto 
+no segundo caso o mercado de capitais é fraco e as firmas dependem do crédito 
+para obter recursos24 (STUDART , 1999, p. 163). Não é possível hierarquizar os dois 
+sistemas: as experiências históricas apontam que ambos foram funcionais para o 
+desenvolvimento econômico de seus respectivos países. Em países em que 
+[...] os canais de consolidação financeira não se desenvolvem de 
+forma significativa, a acumulação requereu uma relação mais 
+próxima entre bancos privados e empresas (do tipo grandes ban-
+cos alemães) e/ou uma maior intervenção governamental (como, 
+por exemplo, a criação de bancos de desenvolvimento e políticas 
+22  Assumindo-se, obviamente, o êxito do empreendimento.
+23  Os artigos de Studart (1994, 1999) aprofundam a discussão deste mecanismo.
+24  Além, é claro, dos lucros retidos.
+25
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+de crédito seletivo nos países de industrialização recente). (STU-
+DART , 1999, p. 163).25
+Studart (1993) analisou as condições de estabilidade financeira para os dois 
+padrões de estrutura financeira propostos por Zysman. Os sistemas com base em 
+mercado de capitais seriam mais sensíveis a “[...] oscilações e surtos especulativos 
+nos mercados de estoques de ativos” (STUDART , 1993, p. 113), enquanto aqueles 
+baseados no crédito são mais sensíveis às oscilações das taxas de juros de curto 
+prazo, pois em sistemas deste tipo as empresas inversoras são, muitas vezes, obri-
+gadas a rolar continuamente suas dívidas sob taxas flutuantes. 
+Carvalho et al. (2001) acrescentam que sistemas com base em mercados de 
+capitais dependem essencialmente do tamanho e da profundidade dos merca -
+dos de títulos de longo prazo, bem como do tamanho e do perfil dos investidores 
+institucionais, ao passo que os sistemas com base em crédito dependem do perfil 
+de aplicação das famílias e dos investidores institucionais, e do perfil dos próprios 
+bancos. 
+Um padrão institucional bastante comum em economias que não dispõem 
+de mercados de capitais suficientemente profundos é o uso de bancos públicos de 
+desenvolvimento (BPD) para prover a oferta de recursos de longo prazo e assim 
+completar o circuito financiamento-investimento-poupança- funding. Nessas eco-
+nomias, o setor bancário é preponderantemente constituído por instituições priva-
+das cujas operações passivas não são longas o bastante para sustentar ativos com 
+maturidades muito longas, e por esta razão os BPD assumem papel primordial. 
+Esse padrão não é considerado na tipologia proposta por Zysman. Embora 
+também se enquadre em um típico credit-based system, as condições de estabilida-
+de de sistemas protagonizados por BPD são distintas. 
+BPD devem ser configurados de tal forma que suas operações passivas sejam 
+longas e estáveis. Em geral, a estrutura do passivo dos bancos de desenvolvimento 
+é formada por recursos do governo (banco central, recursos fiscais ou para-fiscais), 
+depósitos do público, recursos externos e captações junto ao mercado de capitais. 
+Os formatos não são excludentes, sendo comum que os BPD sejam configurados a 
+partir de um mix das três formas de captação. Evidentemente, um ou dois tipos são 
+preponderantes, de acordo com as condições e necessidades de cada país. O que 
+se observa é que a obtenção de recursos via colocação de títulos nos mercados 
+de capitais é mais comum nos países nos quais estes mercados são organizados e 
+dispõem de um leque maior de instrumentos financeiros. Já nos países em que, ao 
+25 Alguns dados sugerem que a tipologia proposta por Zysman deve ser, no mínimo, relativizada. 
+Segundo Stiglitz (1993), a média anual de recursos líquidos para financiamento obtidos pelas 
+empresas via fontes internas para o período 1970-79 variou de 66,3% na França a 91,3% no Reino 
+Unido; na Alemanha, foi de 80,6%; no Japão foi de 71,7%. Nos Estados Unidos, tipicamente 
+considerado um capital-market based system , em média 91,3% dos recursos foram obtidos via 
+fontes internas, contra somente 17,1% do mercado acionário e 16,6% dos bancos.
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+26
+contrário, os mercados de capitais têm dimensão insuficiente ou não dispõem da 
+totalidade necessária dos instrumentos, os recursos obtidos por este instrumento 
+não são majoritários entre as operações passivas dos BPD, que assim obtêm seus 
+recursos por meio das outras duas alternativas. 
+A captação de depósitos do público constitui um formato mais comum (mas 
+não exclusivamente) em instituições financeiras híbridas, como bancos comerciais 
+com carteira de desenvolvimento, sendo pouco usual em BPD. Evidentemente, as 
+operações voltadas para o financiamento do desenvolvimento não podem estar 
+atreladas a depósitos à vista, e sim a depósitos a prazo. Portanto, para que este 
+padrão seja bem-sucedido, é necessário que estes últimos constituam a opção pre-
+ferencial de captação de depósitos – caso contrário, o banco de desenvolvimento 
+atuará preponderantemente na oferta de finance, em lugar do funding, ou seja, 
+não será capaz de ofertar o financiamento de longo prazo em condições estáveis. 
+Os depósitos a prazo, alternativamente, podem cumprir estes requisitos, desde que 
+possuam características adequadas a este fim, como condições privilegiadas de 
+remuneração para os depósitos com prazos mais longos em comparação com os 
+demais (BNDES, 1992). 
+A obtenção de recursos externos pode ocorrer por meio de mercados finan-
+ceiros internacionais ou instituições multilaterais. O primeiro caso requer algum 
+grau de integração da economia que demanda tais recursos com os mercados fi -
+nanceiros internacionais, bem como a adoção de padrões mínimos de governança 
+exigidos pelos operadores dos mercados financeiros internacionais. Entretanto, na 
+fase de contração cíclica da liquidez internacional, as condições de captação de 
+recursos nesta modalidade tendem a se deteriorar, tanto em termos de taxas como 
+de prazos. Já a obtenção de empréstimos por instituições multilaterais, como o 
+Banco Mundial, requer condições mais amplamente atendidas pelos países asso -
+ciados, e normalmente os recursos são contratados para financiar projetos especí-
+ficos, sem garantia de renovação, o que torna essas fontes algo instável, e muitas 
+vezes o BPD que as utiliza se torna mero repassador e gestor dos recursos. Por 
+fim, por tratar-se de recursos externos, a economia que deles dispuser não poderá 
+perder de vista a necessidade de preservar a saúde intertemporal do seu balanço 
+de pagamentos: a operação implica o aumento do passivo em moeda estrangei -
+ra, impondo um risco cambial. Deste modo, o recomendável é que os recursos 
+de origem externa constituam fonte complementar às fontes domésticas. O uso de 
+recursos externos pode ser indicado, por exemplo, para financiar componentes 
+importados dos projetos de desenvolvimento que compõem o objetivo da opera-
+ção, ou para financiar projetos que resultarão em aumento futuro das exportações.
+Por fim, a obtenção de recursos para o BPD também pode ser feita em moe-
+da doméstica por recursos providos pelo governo. De fato, este constitui a maioria 
+dos casos. Há dois arranjos institucionais através dos quais o governo pode prover 
+27
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+os seus BPD com recursos em moeda doméstica. O primeiro é aquele no qual o 
+banco central adquire títulos emitidos pelo banco de desenvolvimento e que, na 
+prática, significa que o financiamento de longo prazo está sendo realizado através 
+de expansão monetária.26 Arranjos institucionais nos quais as autoridades mone -
+tárias provêm recursos aos seus bancos de desenvolvimento têm com principal 
+característica a facilidade com a qual os recursos são gerados. Em tese, não há 
+limites para que a demanda por financiamento de longo prazo seja acomodada 
+pelo banco central, exceto a preocupação com a suposta aceleração inflacionária 
+que este modelo poderia gerar. O consenso teórico segundo o qual o financiamen-
+to do desenvolvimento por meio de expansão monetária é inflacionário provocou 
+paulatinamente a sua substituição por recursos fiscais ou parafiscais, considerados 
+não inflacionários.
+Um arranjo institucional alternativo e muito mais comum é aquele no qual o 
+tesouro provê os recursos para o BPD. O repasse de recursos do tesouro pode ser 
+através de medidas como: (i) aumento ou criação de novos impostos ou contribui-
+ções específicas; ou (ii) empréstimos voluntários ou compulsórios, a fim de prover 
+recursos adicionais ao banco de desenvolvimento. A viabilidade de tais medidas 
+dependerá da capacidade para elevar a dívida bruta do setor público27 ou a carga 
+tributária, e da disposição do governo em encarar os custos políticos decorrentes 
+dessas decisões. O problema é que como a arrecadação de impostos e contribui-
+ções é pró-cíclica, durante as recessões a oferta de funding pode ficar comprometi-
+da. A gravidade do problema dependerá da sensibilidade do investimento à reces-
+são e, portanto, da sensibilidade da demanda por funding. Não se deve, portanto, 
+excluir a possibilidade de o tesouro aportar novos recursos para viabilizar novos 
+recursos, caso se diagnostique que a recuperação econômica está comprometida 
+em razão da insuficiência de oferta de funding. Se o tesouro for capaz de garantir 
+a oferta de recursos para o BPD, a oferta de funding será adequadamente suprida 
+através deste arranjo institucional. Em sistemas deste tipo, a oferta de funding fica 
+isolada das fontes de instabilidades que afetam os outros dois sistemas da tipologia 
+de Zysman. Isto não quer dizer que são mais estáveis os sistemas baseados em 
+bancos de desenvolvimento cujos recursos são providos pelos tesouros. Eventu -
+almente, por decisões políticas, o tesouro pode destinar menos recursos ao BPD, 
+em nome de alguma outra prioridade, comprometendo a capacidade de oferta de 
+funding nesta economia. 
+Nesse caso, a existência de fundos fiscais específicos atrelados ao BPD, pre -
+ferencialmente estabelecidos por força de lei e isolados de decisões políticas dis -
+26 V er, por exemplo, Torres Filho (1983), Okazaki & Ueda (1995) e Allen (1980), para o caso japonês 
+no imediato pós-II Guerra Mundial, e Cole & Park (1983) para o caso coreano após a Guerra da 
+Coreia.
+27 Ou mesmo da dívida interna líquida, nos casos em que as taxas de juros dos empréstimos do BPD 
+forem inferiores às taxas as quais o Tesouro paga pela dívida emitida.
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+28
+cricionárias, garantirá maior estabilidade a este arranjo. Em outras palavras, um 
+arranjo que tenha como base a poupança compulsória tende a garantir um fluxo 
+mais estável de recursos, porque é associado à arrecadação fiscal ou parafiscal, 
+além de contar com o aval do setor público, que detém o poder de criar impostos 
+e contribuições (Cintra, 2009: 63).
+4 Considerações Finais
+A contribuição deste trabalho está na delimitação da importância dos bancos 
+públicos de desenvolvimento a partir de um arcabouço teórico que não assume 
+a primazia dos mercados financeiros. Nesse sentido, pretende-se ter contribuído 
+para preencher uma lacuna existente na teoria econômica, na qual são fartas as 
+contribuições que assumem o BPD como uma solução compatível com a existên-
+cia de falhas de mercado – e, por esta razão, uma solução tipo second best –, mas 
+são escassas as contribuições que atribuam a este tipo de arranjo institucional a 
+possibilidade de protagonizar o processo de consolidação financeira. 
+Ao recorrer às categorias pós-keynesianas de incerteza e preferência pela 
+liquidez, é possível oferecer elementos que permitem sustentar uma agenda de 
+fortalecimento dos BPD e que podem ser sintetizados da forma a seguir.
+O primeiro resultado relevante é que a abordagem pós-keynesiana para BPD 
+é incompatível com uma hierarquização do sistema financeiro semelhante àquela 
+oferecida pelas abordagens convencional e das falhas de mercado. Nestas duas úl-
+timas, os mecanismos de mercado são sempre superiores à intervenção estatal por 
+meio de bancos públicos, cuja ação deve se restringir a atuar nas incompletudes 
+do mercado, sendo a principal delas o financiamento de longo prazo, a qual cons-
+tituiria a modalidade principal de atuação dos BPD, que ao mesmo tempo restrin-
+giria a sua atuação aos limites da oferta de recursos não suprida pelos mecanismos 
+privados. Sob esta abordagem, a agenda propositiva consiste em reformas que, 
+por um lado, enquadrem os BPD a este marco específico, e, por outro, estimulem 
+o desenvolvimento dos mecanismos de mercado para gradativamente substituir os 
+BPD pelos mecanismos privados de mercado. 
+Já na abordagem pós-keynesiana, esta hierarquização perde o sentido, por-
+que as limitações dos mecanismos de mercado não dependem das falhas ou in -
+completudes, mas são da própria natureza da firma bancária privada. Sob certas 
+circunstâncias associadas ao próprio ciclo econômico, mas também aos projetos 
+de maior prazo de maturação, ou que envolvem inovação, ou ainda, de retorno 
+incerto por estarem localizados em regiões periféricas, a firma bancária tende a 
+preferir a liquidez ao retorno associado a esses projetos. Com efeito, a ação an -
+ticíclica, o financiamento de longo prazo para a formação bruta de capital, para 
+o desenvolvimento regional e para a inovação são funções que devem ser exer -
+29
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+cidas pelo banco público mesmo em economias nas quais os mercados financei -
+ros sejam completos e que supostamente não possuam falhas de mercado. Na 
+abordagem pós-keynesiana, a agenda da liberalização dos mercados financeiros 
+e o desenvolvimento dos mecanismos privados para prover o financiamento de 
+longo prazo perde o status de imposição técnica e deixa de constituir prioridade 
+na agenda de reformas financeiras, dando lugar a outra agenda, mais permeável 
+à ação do setor público por meio do BPD, que pode até mesmo assumir papel não 
+mais complementar ao setor privado, mas de protagonista do processo do finan -
+ciamento de longo prazo.
+Neste caso, o aspecto propositivo se desloca para o desenho mais adequado 
+do BPD, especialmente no que toca à disponibilidade de fontes estáveis de recur-
+sos para o adequado cumprimento de suas funções. O desenho mais adequado 
+não permite delimitar a priori o seu tamanho – total de ativos, saldo ou fluxo de 
+operações de crédito, patrimônio líquido etc – não fazendo sentido, nesta aborda-
+gem, qualquer menção a agigantamento ou encolhimento do BPD. Seu tamanho, 
+medido sob qualquer desses critérios, deve ser dado em razão da magnitude dos 
+projetos que irá financiar.
+Como se espera que as operações ativas do BPD sejam compostas, em sua 
+maioria, por aquelas de prazo mais longo, suas operações passivas devem ade -
+quar-se a este perfil. Além disso, suas fontes de recursos não devem ser procíclicas, 
+exatamente para que a ação do BPD não esteja submetida às vicissitudes do ciclo 
+econômico.
+O arranjo no qual as operações passivas do BPD são compostas essencial -
+mente por recursos externos deve ser descartado nas economias que se deparam 
+com restrição externa crônica, pois a ocorrência de crises cambiais pode afetar de 
+forma contundente a sua atuação.  A maior parte das suas fontes de recursos deve 
+ser obtida em moeda doméstica, reservando aos recursos em moeda estrangeira 
+um caráter meramente complementar. 
+A possibilidade de o BPD ter nos mercados de capitais a sua principal fon -
+te de captação de recursos restringe-se às economias que já disponham a priori 
+de mercados de capitais profundos o suficiente para sustentar a rolagem de suas 
+fontes. 
+Finalmente, a captação de recursos por meio de arranjos nos quais o tesouro 
+arrecada impostos e contribuições fiscais e parafiscais específicas pode constituir 
+uma fonte estável de recursos, que ainda podem ser complementados por emissão 
+de dívida pública. Atrelar parte da arrecadação ao BPD é uma forma de assegurar 
+que instabilidades de ordem política não atinjam a atuação do banco de desenvol-
+vimento. Contudo, como essas fontes são pró-cíclicas, devem ser complementadas 
+por endividamento público nos momentos em que forem executadas as políticas 
+contracíclicas que envolvem aumento do gasto com formação bruta de capital. 
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+30
+O pressuposto para o funcionamento deste padrão passa pela disposição da so -
+ciedade em arcar com o aumento da carga tributária e pelas condições de saúde 
+das finanças públicas, já que pode acarretar aumento do endividamento do setor 
+público.
+Referências 
+AGHION, B. A. Development banking. Journal of Development Economics, v. 58, n. 1, p. 83-
+100, 1999.
+ALLEN, G. C. Japan’s economic policy. London: The MacMillan Press, 1980.
+AMADO, A. A questão regional e o sistema financeiro no Brasil: uma interpretação pós-
+keynesiana. Estudos Econômicos, v. 27, n. 3, p. 417-440, 1997.
+______. Bancos privados e públicos regionais em uma perspectiva de desenvolvimento 
+regional. In: JAYME JR., F. G.; CROCCO, M. Banco público e desenvolvimento. Rio de 
+Janeiro: Ipea, 2010.
+BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL (BNDES). 
+Considerações sobre o financiamento do investimento em países selecionados : Japão, 
+Alemanha, Itália e México. Rio de Janeiro: BNDES, 1992. (Texto para Discussão n. 4). 
+BIELSCHOWSKY , R. Pensamento Econômico Brasileiro : o ciclo ideológico do 
+desenvolvimentismo: 1930-1964. Rio de Janeiro: Contraponto, 2000. 
+BOSKEY , S. Problems and practices of development banks . Baltimore: The Johns Hopkins 
+Press, 1959.
+BUSATO, M. I. Crescimento econômico e restrição externa: um modelo de simulação. Rio de 
+Janeiro: Beco do Azougue, 2012.
+CARNEIRO, R. Desenvolvimento em crise: a economia brasileira no último quarto do século 
+XX. São Paulo: Editora da Unesp, 2002.
+CARVALHO, F. C. Sobre a preferência pela liquidez dos bancos. In: PAULA, L. F.; OREIRO, 
+J. L. Sistema financeiro: uma análise do setor bancário brasileiro. Rio de Janeiro: Campus, 
+2007.
+CARVALHO, F. J. C. et al. Economia monetária e financeira: teoria e política. Rio de Janeiro: 
+Elsevier, 2001.
+CHO, Y . J.; SHENG, A. Risk management and stable financial. In: CAPRIO, G.; HONOHAN, 
+P .; VITTAS, D. (Ed.) Financial sector policy for developing countries : a reader. Washington: 
+World Bank and Oxford University Press, 2002.
+CINTRA, M. A. M. Crédito público e desenvolvimento econômico: a experiência brasileira. 
+In: FERREIRA, F. M. R.; MEIRELLES, B. B. (Org.). Ensaios sobre economia financeira. Rio de 
+Janeiro: BNDES, 2009.
+31
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+COLE, D. C.; PARK, Y . C. Financial development in Korea : 1945-1978. Cambridge, MA: 
+Harvard University Press, 1983.
+CROCCO, M.; FIGUEIREDO, A. T . L.; SANTOS, F. B. T . Differentiated banking strategies 
+across the territory: an exploratory analysis.  Journal of Post Keynesian Economics , v. 133, n. 
+1, p. 127-150, 2010.
+DIAMOND, W . Development Banks. Baltimore: Johns Hopkins University Press, 1957.
+FEIJÓ, C. Decisões empresariais em uma economia monetária de produção. In: LIMA, 
+G. T .; SICSÚ, J.; PAULA, L. F. (Org.) Macroeconomia Moderna : Keynes e a Economia 
+Contemporânea. Rio de Janeiro: Campus, 1999.
+FERREIRA, C. K. L.; FREITAS, M. C. P .; SCHWARTZ, G. Formato institucional do sistema 
+monetário e financeiro. Um estudo comparado. In: CINTRA, M. A. M.; FREITAS, M. C. P . 
+Transformações institucionais dos sistemas financeiros . um estudo comparado. São Paulo: 
+Fundap/Fapesp, 1998.
+FRY , M. In favour of financial liberalization. The Economic Journal, v. 107, n. 442, p. 754-770, 
+1997.
+GURLEY , J. G.; SHAW , E. S. Financial aspects of economic development. The American 
+Economic Review, v. 55, n. 4, 1955
+HERMANN, J. Bancos públicos em sistemas financeiros maduros: perspectivas teóricas e 
+desafios para os países em desenvolvimento. Revista de Economia Política, v. 31, n. 3 (123), 
+p. 397-414, 2011.
+KEYNES, J. M. Teoria geral do emprego, do juro e da moeda . Rio de Janeiro: Fundo de 
+Cultura, 1964.
+LUNA, F.; MOREIRA, S.; GONÇALVES, A. Financiamento à inovação. In: NEGRI, J. A.; 
+KUBOTA, L. C. Políticas de Incentivo à Inovação Tecnológica. Brasília, DF: Ipea, 2008.
+MCKINNON, R. I. Money & capital in economic development . Washington: The Brookings 
+Institution, 1973.
+MINSKY , H. Estabilizando uma economia instável. Osasco: Novo Século, 2009. 
+NOGUEIRA, M.; CROCCO, M.; SANTOS, F. Sistema financeiro e atuação dos bancos 
+públicos no desenvolvimento regional no Brasil . In: JAYME JR., F. G.; CROCCO, M. Banco 
+público e desenvolvimento. Rio de Janeiro: Ipea, 2010.
+OKAZAKI, T .; UEDA, K. The Performance of Development Banks: The case of the 
+Reconstruction Finance Bank. Journal of Japanese and International Economies, v. 9, n. 4, p. 
+486-504, 1995.
+OLIVEIRA, G. O comportamento da estrutura patrimonial de grandes bancos privados 
+diante do recente ciclo de crédito no Brasil – 2002-05. Indicadores Econômicos FEE, v. 34, n. 
+4, p. 179-196, 2007.
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+32
+PAULA, L. F. Riscos na atividade bancária em contexto de estabilidade de preços e alta 
+inflação. Revista Análise Econômica, v. 18, n. 33, p. 93-112, 2000.
+______. Sistema financeiro, bancos e financiamento da economia: uma abordagem keynesiana. 
+Rio de Janeiro: Elsevier, 2014.
+______. Teoria da firma bancária. In: LIMA, G. T . et al. Macroeconomia moderna: Keynes e a 
+economia contemporânea. Rio de Janeiro: Campus, 1999.
+SERRANO, F. Acumulação e gasto improdutivo na economia do desenvolvimento. In: 
+FIORI, J. L.; MEDEIROS, C. Polarização mundial e crescimento. Petrópolis: V ozes, 2001.
+SHAW , E. S. Financial deepening in economic development . New Y ork: Oxford University 
+Press, 1973.
+STIGLITZ, J. The role of the state in financial markets. The World Bank Economic Review, v. 7, 
+n. 1, p. 19-52, 1993. 
+STIGLITZ, J.; WEISS, A. Credit rationing in markets with imperfect information. The 
+American Economic Review, v. 71, n. 3, p. 393-410, 1981.
+STUDART , R. O sistema financeiro e o financiamento do crescimento: uma alternativa pós-
+keynesiana à visão convencional. In: LIMA, G. T . et al. Macroeconomia Moderna: Keynes e a 
+economia contemporânea. Rio de Janeiro: Campus, 1999.
+______. O sistema financeiro e o financiamento do crescimento: uma alternativa pós-keynesiana 
+à visão convencional. Revista de Economia Política, v. 13, n. 1, 1993.
+______. The efficiency of the financial system and economic development. In: ENCONTRO 
+NACIONAL DE ECONOMIA, 22., 1994, Florianópolis. Anais… Florianópolis: Anpec, 1994.
+TITELMAN, D. La banca de desarrollo y el financiamiento productivo.  Santiago: Comissão 
+Econômica para a América Latina e Caribe, 2003. (Serie Financiamiento del Desarrollo, n. 
+137).
+TORRES FILHO, E. T . O mito do sucesso: uma análise da economia japonesa no pós-guerra 
+(1945-1978). Rio de Janeiro: UFRJ-IEI, 1983. (Texto para discussão n. 37).
+VARIAN, H. Microeconomic analysis. New Y ork: W . W . Norton, 1992.
+VITTAS, D.; CHO, Y . J. Credit policies: lessons from East Asia.  Washington, D.C.: The World 
+Bank, 1995. (Policy Research Working Paper n. 1458).
+YEYATI, E. L.; MICCO, A.; PANIZZA, U. Should the government be in the banking business? 
+The role of state-owned and development banks. Washington: Inter-American Development 
+Bank, 2004. (Working Paper n. 517).
+YOSHINO, J. A. Financiamento do Desenvolvimento: as políticas de financiamento de longo 
+prazo, funding e formatação das instituições financeiras de desenvolvimento . Brasília, DF: 
+ABDE, 1994.
+33
+Análise Econômica, Porto Alegre, v. 36, n. 70, p. 7-33, jun. 2018.
+ZONINSEIN. J. O circuito financiamento-investimento-poupança financeira. In: AMADEO, 
+E. Ensaios sobre economia política moderna : teoria e história do pensamento econômico, 
+1989.
+ZYSMAN, J. Governements, markets and growth : financial systems and the politics of 
+industrial change. London: Martin Robertson, 1983.
+Recebido em: 25/01/2015.
+Aceito em: 19/09/2017.

@@ -1,0 +1,1204 @@
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+63 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+Centralidade e o dinamismo socioeconômico da 
+mesorregião diferenciada Bico do Papagaio 
+  
+Centrality and the socioeconomic dynamism of the 
+differentiated mesoregion of the Bico do Papagaio 
+Uelson Serra Garcia *, Jandir Ferrera de Lima **  
+ 
+* Centro de Ciências Sociais Aplicadas, Universidade Estadual do Oeste do Paraná (UNIOESTE/ Campus de Toledo), e-mail: uelsongarcia@gmail.com 
+** Centro de Ciências Sociais Aplicadas, Universidade Estadual do Oeste do Paraná (UNIOESTE/ Campus de Toledo), e-mail: jandir.lima@unioeste.br 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+__________________________________________________________________________________________
+Resumo 
+Esse artigo teve como objetivo analisar a centralidade e o desenvolvimento socioeconômico da 
+Mesorregião Diferenciada Bico do Papagaio. O procedimento metodológico foi a estimativa do 
+Indicador de Centralidade e o Indicador de Disparidade Socioeconômica. Para a estimativa desses 
+indicadores foram utilizados dados de Produto Interno Bruto, população e o Índice Firjan de 
+Desenvolvimento Municipal (IFDM), de 2005 a 2016. Os principais resultados apontaram que a 
+dinâmica do desenvolvimento municipal nem sempre é acompanhada do crescimento econômico, 
+haja vista os municípios distinguirem-se quanto aos indicadores conforme a participação do PIB e 
+do IFDM. Porém, a dinâmica do desenvolvimento socioeconômico é sustentada pela geração de 
+emprego e renda. Isso significa que para os municípios mais desenvolvidos manterem seus 
+indicadores de desenvolvimento socioeconômico, o crescimento do PIB acima das taxas de 
+crescimento da população será necessário para garantir expansão da produção e, 
+consequentemente, a arrecadação de impostos necessária para manter os investimentos com saúde 
+e educação. 
+Palavras-chave:  
+Desenvolvimento regional, Análise regional, Economia regional, Desenvolvimento municipal, 
+Economia brasileira. 
+ 
+Abstract 
+This paper aimed to analyze the centrality and socioeconomic development of the Bico do Papagaio 
+region in the north of Brazil. The methodological procedure was the estimation of the Centrality 
+Indicator and the Socioeconomic Disparity Indicator. To estimate these indicators, data on Gross 
+Domestic Product, population and the Firjan Municipal Development Index (IFDM) from 2005 to 
+2016 were used. The main results showed that the dynamics of municipal development is not always 
+accompanied by economic growth, given that municipalities differ in terms of indicators according 
+to their share of GDP and IFDM. However, the dynamics of socioeconomic development is sustained 
+by the generation of employment and income. This means that for the most developed 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+64 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+municipalities to maintain their socioeconomic development indicators, GDP growth above 
+population growth rates will be necessary to ensure production expansion and, consequently, the 
+tax collection necessary to maintain investments in health and education.  
+Keywords:  
+Regional development, Regional analysis, Regional economy, Municipal development, Brazilian 
+economy 
+_________________________________________________________________________________________
+I. INTRODUÇÃO 
+O Programa de Promoção da Sustentabilidade de Espaços Sub-Regionais (PROMESO) foi uma ação para 
+o estabelecimento de um desenvolvimento mais equânime entre as regiões brasileiras, que surgiu da retomada 
+do planejamento regional frente à estabilização da economia brasileira no final do século XX. O PROMESO 
+firmou-se como um elemento operacional essencial da primeira Política Nacional de Desenvolvimento Regional 
+(PNDR), promulgada em 2007 (CARGNIN, 2014; ROCHA NETO; BORGES, 2016).  
+Para a execução do PROMESO foram selecionadas treze mesorregiões nomeadas Diferenciadas, que 
+tinham em comum baixos índices de desenvolvimento e crescimento econômico e eram contiguas entre estados 
+federados ou países. A sistematização das Mesorregiões Diferenciadas ocorreu e colocada em execução por 
+meio da Câmara de Políticas de Integração Nacional e Desenvolvimento Regional do Ministério da Integração 
+Nacional (MIN), atual Ministério do Desenvolvimento Regional (MDR), aderindo a uma concepção transversal 
+para a construção de agendas de ações nas regiões e reforçando o combate às desigualdades regionais. Nessa 
+perspectiva, as Mesorregiões Diferenciadas foram caracterizadas como locais subnacionais, adjacentes entre 
+dois ou mais estados federados, com aspectos semelhantes relacionados a fatores sociais, econômicos e 
+históricos, além de crescimento econômico estacionário ou deprimido (ROCHA NETO; BORGES, 2016; FERRERA 
+DE LIMA, 2020b).  
+O PROMESO também foi um ensaio e suporte à criação da Política Nacional de Desenvolvimento 
+Regional (PNDR), instituída oficialmente pelo decreto nº 6.047 de 22 de fevereiro de 2007 e reestruturada em 
+2019, com o objetivo de atacar e reduzir as desigualdades regionais e promover a equidade no acesso a 
+oportunidades de desenvolvimento, além de orientar os programas e ações federais no Território Nacional.  A 
+criação do PROMESO e da governança da PNDR favoreceu a maior participação dos atores locais na elaboração 
+de estratégias de desenvolvimento territorial, estabelecendo um novo marco na formulação das políticas de 
+desenvolvimento e crescimento econômico regional (FERRERA DE LIMA, 2020b).  
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+65 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+Diante da necessidade de compreender o processo da dinâmica socioeconômica dos espaços geográficos 
+caracterizados como Mesorregiões Diferenciadas, o objetivo desse texto é analisar a centralidade e o 
+desenvolvimento socioeconômico da Mesorregião Diferenciada Bico do Papagaio1, no qual compõe umas das 
+treze Mesorregiões Diferenciadas, elencadas no PROMESO. Cabe salientar que a Mesorregião Diferenciada Bico 
+do Papagaio está entre os espaços subnacionais de menor dinamismo no território brasileiro. Além de compor 
+uma área de interesse nacional por integrar o bioma amazônico e fazer parte da expansão da fronteira agrícola 
+no Norte do Brasil. Oliveira e Strassburg (2014) e Santos (2019) salientam ainda a mescla de relações de poder, 
+que envolvem sindicalistas, mineradores, produtores rurais, extrativistas e a fragilidade dos indicadores 
+econômico e sociais da área do Bico do Papagaio e a carência de estudos socioeconômico que apontem as 
+tendências de crescimento e desenvolvimento econômico da região. 
+Frente ao exposto, esse estudo fornecerá informações para a tomada de decisões e na elaboração de 
+políticas públicas voltadas ao desenvolvimento da Mesorregião, composta por municípios pertencentes aos 
+estados do Maranhão, Pará e Tocantins, com características similares quanto ao processo de desenvolvimento 
+regional e necessitam da atenção do Estado nacional e estadual frente a seus baixos indicadores de 
+desenvolvimento socioeconômico. 
+A centralidade e o dinamismo regional 
+O Estado brasileiro tem como um dos seus objetivos, expostos na Constituição Federal de 1988, a 
+redução das desigualdades regionais. Assim, a fim de minimizar as disparidades regionais no Brasil, se 
+institucionalizaram políticas de desenvolvimento focalizadas em regiões específicas. E desde o final do século 
+XX, a discussão sobre o desenvolvimento regional esteve centrado em dois prismas: promover o 
+desenvolvimento regional por meio da mitigação das desigualdades regionais; e, promover a diversidade 
+regional como um potencial para o desenvolvimento de regiões (ETGES; DEGRANDI, 2013; CAVALCANTE, 2018; 
+JOYAL, 2019). 
+De fato, estimular o processo de desenvolvimento regional demanda ações e certa atribuição por parte 
+do Estado, por meio da intervenção organizacional no território e na regulação dos impactos negativos da 
+polarização e da atratividade das regiões economicamente mais dinâmicas, bem como a fomentação do 
+crescimento econômico e do desenvolvimento nas regiões mais atrasadas. É por meio do Estado que as políticas 
+públicas são focalizadas nos seus cidadãos, sendo o principal veículo da dinâmica coletiva em uma sociedade 
+ 
+1   Essa pesquisa se insere numa série de estudos sobre as Mesorregiões Diferenciadas com o suporte do Conselho Nacional de 
+Desenvolvimento Científico e Tecnológico (CNPQ), por meio do Edital Universal. 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+66 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+democrática e harmônica politicamente. Além disso, o comportamento do Estado interfere nas transformações 
+das estruturas econômicas e influencia nas tomadas de decisões empresariais e políticas (LIMA, 2006; SILVA; 
+FERRERA DE LIMA, 2014; OLIVEIRA, 2017). Ademais, o Estado tem competência para redistribuir funções e 
+modificar a essência dos lugares por meio de novos processos, quer seja pela criação, definição e localização de 
+atividades e instituições, ocasionando novas transformações territoriais (MORAIS; MACEDO, 2014). No entanto, 
+sem considerar as questões sociais do país, o desenvolvimento sempre foi tratado como sinônimo de 
+crescimento econômico, o que influenciou na forma de atuação e ação do Estado e suas políticas públicas 
+(HENTZ; MEDEIROS HESPANHOL, 2020). A consequência desse processo foi a influência na localização das 
+atividades produtivas ou no reforço do adensamento da localização das atividades em lugares já adensados. Ou 
+seja, a organização do espaço advém de uma hierarquia de lugares que é fomentada pelas atividades produtivas. 
+A hierarquia dos lugares e as áreas de mercado foram o foco da Teoria do Lugar Central de Walter 
+Christaller, na primeira metade do século XX. Essa teorização aponta que a hierarquia dos lugares se dá em 
+função da categoria e “dimensão” dos bens e serviços oferecidos, sendo considerada como uma teoria da 
+localização do comércio e das organizações urbanas (CHRISTALLER, 1966; COLLA; BARBIERI; AMARAL; 2020). A 
+sustentação da teoria de Christaller está na ideia das áreas de mercado e sua influência para hierarquizar as 
+relações funcionais entre centros de diferentes rangs (CHRISTALLER, 1966). 
+Os estudos de Christaller (1966) foram retomados por Valbuena (2013) para verificar as questões 
+microeconômicas do desenvolvimento econômico e, em especial, aquelas que tangem a organização espacial 
+das empresas. King (2020) também usou os estudos a ideia de lugar central para analisar a interdependência 
+funcional entre o setor urbano e a área rural, na qual o setor urbano reflete o processo de crescimento e 
+desenvolvimento das aglomerações (KING, 2020).  
+Nesse sentido, a dinâmica do sistema de produção está relacionada ao conjunto de transformações de 
+característica econômica do espaço econômico, tendo na esfera urbana tanto o centro de produção quanto das 
+tomadas de decisões administrativas e econômicas em âmbito regional. As transformações do espaço urbano 
+são o reflexo das transformações do entorno. Então, fortalecer a centralidade significa ampliar a atratividade 
+da aglomeração, tanto para a população quanto para a localização das atividades produtivas (FERRERA DE LIMA, 
+2016; COLLA; BARBIERI; AMARAL; 2020). No caso, as políticas públicas para o desenvolvimento regional têm 
+que ter um “olhar” para a localização, a polarização e a centralidade urbana para obter elementos que explicam 
+as desigualdades regionais. 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+67 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+No Brasil, o processo de superação das desigualdades regionais sempre foi observado pelos atores 
+responsáveis da elaboração de políticas públicas como um processo de fomento a industrialização, como sendo 
+a única maneira de solucionar a situação de subdesenvolvimento e pobreza existente nas regiões. No entanto, 
+no caso do centro-Norte brasileiro, uma das características do modelo de desenvolvimento introduzido pelo 
+Estado na década de 1970 firmou-se no uso e na extração continuada de recursos naturais, precarizando de 
+certo modo as condições de vida da polução nativa e estimulando conflitos entre grupos de poder. Ou seja, 
+mesmo buscando alternativas para contornar os efeitos negativos das desigualdades regionais predominantes 
+no país, o Estado brasileiro tem sofrido por parte de grupos de poder considerável interferência na construção 
+das agendas que lidam com elaboração de políticas públicas regionalizadas e focadas no território (ETGES; 
+DEGRANDI, 2013; ROCHA NETO; BORGES, 2016; OLIVEIRA, 2017). 
+No caso do Centro Norte Brasileiro, o Estado brasileiro sempre foi e será importante na dinâmica 
+econômica das regiões, em função dos investimentos para o crescimento dos núcleos urbanos e na construção 
+de um ambiente institucional favorável à entrada de capital externo. Porém, pouco se observou sobre a 
+dinâmica da centralidade dos lugares em áreas periféricas do Norte do Brasil (OLIVEIRA; STRASSBURG, 2014; 
+OLIVEIRA, 2017).   
+Com a disponibilidade de fundos setoriais específicos e a transferência de recursos federais por emendas 
+parlamentares ou políticas especificas de desenvolvimento, bem como a política diferenciada de juros para o 
+financiamento de determinados projetos, se percebe que as regiões Norte e Nordeste concentram os maiores 
+custos com políticas de desenvolvimento regional, sendo o Norte o principal absorvedor dos recursos, com 55%. 
+Mesmo com essas políticas o Brasil ainda se encontra entre os 15 países mais desiguais do mundo (ALVES; 
+ROCHA NETO, 2014; CAVALCANTE, 2018).  
+Diante desse cenário observa-se a carência de ações mais eficazes no sentido de modificar a realidade 
+de regiões menos favorecidas no processo de desenvolvimento, mas focada na articulação das organizações 
+públicas com as experiências dos atores locais, além da centralização das decisões. A construção social e 
+econômica de uma região passa pela potencialização da sua capacidade de auto-organização, modificando-a de 
+uma sociedade inerte e indiferente à sua identidade territorial, em outra estruturada e ciente da sua função 
+como agente do próprio desenvolvimento (BEUSCHI FILHO; ABRAMOVAY, 2004; ETGES. DEGRANDI, 2013; 
+JOYAL, 2019).  
+As transformações ocorridas no modelo de desenvolvimento econômico capitalista, principalmente por 
+meio das modificações estruturais estabelecidas pela tecnologia e pela informação, cobraram não somente uma 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+68 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+readequação nos métodos de produção, mas também quanto ao papel do Estado e das organizações locais. 
+Porém, em boa parte das regiões deprimidas o modelo da relação entre o Estado e as organizações locais não 
+impulsiona a criação de projetos que priorizem as potencialidades locais (BEUSCHI FILHO; ABRAMOVAY 2004; 
+WILLERS, 2016).  
+Atualmente, a ação mais efetiva do Estado como promotor do desenvolvimento regional tem sido 
+abalada frente ao quadro fiscal fragilizado e a escolhas políticas, o que diminui a capacidade de realizar 
+investimentos.  Até porque uma parcela das intervenções e estímulos à exploração econômica das regiões 
+brasileiras vieram por meio da concessão de incentivos fiscais e financeiros e a criação e fundos estatais de 
+desenvolvimento que, via de rega, visaram em regiões de menor dinamicidade influenciar as decisões 
+locacionais das empresas e a fomentar economias de aglomeração (LIMA, 2006; CAVALCANTE, 2018).  
+Sendo assim, o Estado tem papel fundamental no processo de desenvolvimento de uma região, 
+principalmente na promoção de um ambiente institucional para que as organizações locais possam atuar em 
+prol da economia regional. Em especial, auxiliando as regiões a fazerem a transição de economias atrasadas 
+para economias mais avançadas (LIMA, 2016). Isso implica em fortalecer a centralidade dos municípios e ampliar 
+a convergência dos indicadores de desenvolvimento das áreas mais pobres com as áreas mais ricas.  
+II. MATERIAIS E MÉTODOS 
+Nesta seção será apresentada a base de dados usada no estudo da Mesorregião Diferenciada Bico do 
+Papagaio, os indicadores utilizados (Centralidade e Disparidade Regional) e a classificação dos municípios sobre 
+os seus respectivos estágios de crescimento e desenvolvimento socioeconômico. Para isso, utilizou-se o Índice 
+de Centralidade e o Indicador de Disparidade Regional, além da classificação dos munícipios que compõem a 
+Mesorregião em função do seu estágio de crescimento e desenvolvimento econômico. 
+Área de estudo 
+A Mesorregião Diferenciada Bico do Papagaio é composta por 66 municípios distribuídos em três estados 
+federais: Pará, Tocantins e Maranhão. As maiores participações quanto ao número de municípios ficam nos 
+estados do Pará e Tocantins, ambos com 25, e o Maranhão logo em seguida com 16 municípios (BRASIL, 2010b).  
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+69 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Figura 1 – Mesorregião Diferenciada Bico do Papagaio - 2019.  
+Fonte: Santos, 2019. 
+Para melhor visualização dos resultados, optou-se por exibir a fonte dos dados e os procedimentos 
+separadamente conforme a dinâmica: econômica, populacional, socioeconômica, Indicador de Centralidade e 
+Indicador de Disparidade Regional. Na sequência serão detalhados os procedimentos com relação a base de 
+dados e a estimativa dos indicadores. 
+ 
+Fonte dos dados utilizadas para a construção dos índices e indicadores 
+O estudo da dinâmica do crescimento econômico dos municípios que compõem a Mesorregião 
+Diferenciada Bico do Papagaio foi realizado por meio da base de dados do Instituto Brasileiro de Geografia e 
+Estatística (IBGE) focada nos dados de população e Produto Interno Bruto (PIB), utilizando a série retropolada 2 
+ 
+2 O objetivo da retropolação é regular ao novo ano de referência dos valores das séries antigas, fazendo com que no decorrer do 
+tempo as séries apresentem valores semelhantes (IBGE, 2016). 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+70 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+(metodologia atualizada pelo IBGE em 2010) do período de 2005 a 2016. A escolha do período atribuiu-se à 
+disponibilidade dos dados, além de que foi um período de forte crescimento econômico no Brasil. Logo após, 
+realizou-se a coleta dos dados de PIB para os 66 municípios que compõem a Mesorregião (IBGE, 2020a). A 
+escolha de população e PIB permitiu estimar o PIB per capita e inferir sobre o perfil da produtividade nos 
+municípios. 
+Para extrair o efeito da inflação do PIB, os dados foram deflacionados com base no Índice Nacional de 
+Preços ao Consumidor (INPC), mantendo todos com os preços no ano base de 2005. O PIB setorial a preços 
+correntes exclui qualquer imposto e custo de transporte faturado separadamente e inclui qualquer subsídio 
+sobre o produto (IBGE, 2020a; IBGE, 2020b). 
+A estimação realizada consistiu na participação do PIB de cada munícipio em relação ao PIB total da 
+Mesorregião. Além disso, também foram estimadas as variações do valor absoluto deflacionado do PIB de cada 
+ano e uma variação média do período. Esse procedimento foi realizado para o PIB total e para o PIB desagregado 
+por setores econômicos (primário, secundário e terciário), quais sejam: setor primário: agricultura, pecuária, 
+produção florestal, pesca e agricultura; setor secundário: setor industrial; e, setor terciário: compreende as 
+atividades associadas ao comércio e a prestação de serviços. (IBGE, 2020a; IBGE, 2020b; SEBRAE, 2010). 
+No caso da população residente, os dados da Mesorregião Diferenciada Bico do Papagaio foram obtidos 
+por meio da base de dados do IBGE e do o Instituto de Pesquisa Econômica Aplicada (IPEA), para o ano de 2005 
+a 2006 e 2008 a 2009 e 2011 a 2016 pelas estimativas de população; e para os anos de 2007 e 2010 pela 
+população residente (IBGE, 2020; IPEADATA, 2019). A definição do período se deu em função da disponibilidade 
+de dados para todos os indicadores. 
+Para as análises também se estimaram as taxas médias de crescimento anual da população. Assim como 
+a determinação da proporção da participação da população de cada município em relação à população total da 
+Mesorregião. Sendo assim, a dinâmica populacional compreendeu a análise da população dos municípios que 
+compõem a mesorregião estudada, com o objetivo de examinar a evolução populacional no período, mediante 
+a demonstração de tabelas, gráficos e dados mais significativos. 
+Em síntese, esses dados foram a base da estimativa do Indicador de Centralidade e da dinâmica do 
+crescimento econômico da Mesorregião Bico do Papagaio.  
+Índice de Centralidade 
+Com os dados de PIB e população, se estimou o Índice de Centralidade utilizou-se a população de cada 
+município da Mesorregião Diferenciada Bico do Papagaio ponderado pelo PIB urbano (setores secundário e 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+71 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+terciário) no período de 2005 a 2016. Salienta-se que a utilização desses setores foi em função de apresentarem 
+maior dinâmica econômica e se alinharem com a Teoria da Centralidade de Christaller, na qual os setores 
+urbanos são a chave da atratividade e da hierarquia dos lugares. O Índice de Centralidade mostra a concentração 
+e atratividade da atividade econômica urbana nos municípios analisados. A equação (1), usada para estimar o 
+Índice de Centralidade proposto por Christaller (1966) foi usada a adaptação dos estudos de Strassburg et al 
+(2014), Mantovani et al (2020), Ferrera de Lima e Bidarra (2019) : 
+ 
+𝐶𝑚𝑢𝑛_𝐵𝑖𝑐𝑜 𝑑𝑜 𝑝𝑎𝑝𝑎𝑔𝑎𝑖𝑜= (
+𝑃𝐼𝐵𝑈𝑟𝑏_𝑚𝑢𝑛
+𝑃𝑂𝑃𝑚𝑢𝑛) 𝑥(
+𝑃𝐼𝐵𝑡𝑜𝑡_𝑚𝑢𝑛
+𝑃𝑂𝑃𝐵𝑖𝑐𝑜 𝑑𝑜 𝑃𝑎𝑝𝑎𝑔𝑎𝑖𝑜/𝐵𝑟𝑎𝑠𝑖𝑙)                                      (1) 
+ 
+𝐶𝑚𝑢𝑛_𝐵𝑖𝑐𝑜 𝑑𝑜 𝑝𝑎𝑝𝑎𝑔𝑎𝑖𝑜 = Índice de Centralidade em relação a população da mesorregião diferenciada Bico 
+do Papagaio; 𝑃𝐼𝐵𝑈𝑟𝑏_𝑚𝑢𝑛 = PIB urbano (setor secundário e terciário) do município; 𝑃𝐼𝐵𝑡𝑜𝑡_𝑚𝑢𝑛 = PIB total do 
+município; 𝑃𝑂𝑃𝑚𝑢𝑛 = População do município e o 𝑃𝑂𝑃𝐵𝑖𝑐𝑜 𝑑𝑜 𝑃𝑎𝑝𝑎𝑔𝑎𝑖𝑜/𝐵𝑟𝑎𝑠𝑖𝑙 = População da Mesorregião 
+Diferenciada Bico do Papagaio ou do Brasil. 
+O Índice de Centralidade tem sua análise baseado nos seguintes graus de centralidade: baixo, quando o 
+Índice se situa na faixa de 0 até 1,99; mediano na faixa de 2,0 a 4,99; e alto com faixa de valores acima de 5,00. 
+Assim, quanto mais próximo o Índice estiver de 0, menor é a concentração dos setores secundário e terciário 
+no município, e quanto mais próximo de 1 for o indicador, maior é a concentração dos setores secundário e 
+terciário no município refletindo uma maior hierarquia do município no espaço regional (FERRERA DE LIMA; 
+BIDARRA, 2019; MANTOVANI et al, 2020). 
+Apoiado no Índice de Centralidade classificou-se os 10 munícipios com os maiores resultados na 
+Mesorregião Diferenciado Bico do Papagaio para proceder com as análises. A análise dos resultados ocorreu a 
+partir do ranking dos 10 municípios com maiores Índice de Centralidade, o que possibilitou visualizar a 
+participação e os deslocamentos do PIB dos municípios em relação ao PIB da Mesorregião Diferenciada do Bico 
+do Papagaio. 
+Indicador de disparidade 
+Para o estudo da dinâmica e disparidade do desenvolvimento socioeconômico dos municípios da 
+Mesorregião Diferenciada Bico do Papagaio utilizou-se o Índice Firjan de Desenvolvimento Municipal (IFDM) 
+como variável de análise, que está disponível no site da Federação das Indústrias do estado do Rio de Janeiro 
+(FIRJAN). Foram coletados os índices gerais e o desagregado nas dimensões educação, saúde e emprego & renda 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+72 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+referente ao período de 2005 a 2016. O IFDM é construído a partir de dados publicados em estatísticas públicas 
+oficiais, sendo disposto pelo atual Ministério da Economia, da Educação e da Saúde (FIRJAN, 2020). 
+O IFDM teve o propósito de melhor avaliar o desempenho de cada município verificando o alcance do 
+desenvolvimento econômico. O IFDM, utilizado como medida de desenvolvimento, é um indicador que está à 
+frente da perspectiva tratada no passado recente pela literatura econômica (MEDEIROS; SOUSA; ANDRE, 2018; 
+FERRERA DE LIMA, 2020a; MANTOVANI et al, 2020; SILVA; FERRERA DE LIMA, 2021; RIBEIRO; FERRERA DE LIMA, 
+2022).  
+O IFDM é estimado por meio de três dimensões (saúde, educação, emprego e renda). Os resultados 
+variam em uma escala de 0 a 1. Quando o município estiver mais próximo de 1 significa que ele apresenta um 
+desenvolvimento elevado, e quanto mais próximo de 0, significa que os indicadores exibem um 
+desenvolvimento baixo. Os   municípios são classificados da seguinte forma: resultados abaixo de 0,4 ponto, 
+classifica-se como desenvolvimento baixo; resultado entre 0,4 e 0,6 ponto seria o desenvolvimento regular; 
+resultados entre 0,6 e 0,8 ponto seria desenvolvimento moderado; resultados acima de 0,8 ponto é o melhor 
+nível, ou seja, desenvolvimento alto (FIRJAN, 2020). 
+A dimensão educacional é estimada a partir de dados como: atendimento à educação infantil; abandono 
+no ensino fundamental; distorção idade-série no ensino fundamental; docentes com ensino superior no ensino 
+fundamental; média de horas-aula diárias no ensino fundamental; e, resultado do índice de desenvolvimento 
+da educação básica (IDEB) no ensino fundamental (FIRJAN, 2018). 
+O centro do IFDM da saúde é na atenção básica, com dados sobre: proporção de atendimento adequado 
+de pré-natal; óbitos por causas mal definidas; óbitos infantis por causas evitáveis; e, internação sensível à 
+atenção básica (ISAB) (FIRJAN, 2018). Por outro lado, a dimensão emprego & renda, tem os seguintes dados: 
+geração de emprego formal; taxa de formalização do mercado de trabalho; geração de renda; massa salarial 
+real no mercado de trabalho formal; e, Índice de Gini de desigualdade de renda no trabalho formal (FIRJAN, 
+2018). 
+Frente ao exposto, para o estudo das disparidades regionais do desenvolvimento socioeconômico dos 
+municípios com os maiores Índices de Centralidade da Mesorregião do Bico do Papagaio, utilizou-se como 
+variável os resultados do Índice Firjan de Desenvolvimento Municipal (IFDM) para a estimativa do Indicador de 
+Disparidade Regional (ID). O Indicador de Disparidade Regional (ID) tem por finalidade mensurar a convergência 
+da renda dos municípios da Mesorregião, ou seja, se o município com menor IFDM está se aproximando em 
+termo de nível de desenvolvimento socioeconômico do município mais desenvolvido. Se de um lado a 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+73 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+Centralidade observa a riqueza e o crescimento econômico em termos de PIB, o ID fornecerá um quadro em 
+termos de desenvolvimento socioeconômico. 
+Com os dados do IFDM procedeu-se a estimativa do indicador de disparidade (ID), no sentido 
+interregional e intrarregional conforme a equação (2) apresentada por Houard e Marfouk (2000) e adaptado 
+por Raiher et al (2017, p.230) e Mantovani et al (2020). 
+ 
+𝐼𝐷= (𝑋𝑖−𝑋𝑚𝑖𝑛 𝑗) ÷ (𝑋𝑚𝑎𝑥 𝑗−𝑋𝑚𝑖𝑛 𝑗)                                                           (2) 
+ 
+Em que:  X é a variável (PIB per capita ou IFDM geral) do município i, a ser estudado na Mesorregião 
+Diferenciada Bico do Papagaio; Xmin é a menor variável (PIB per capita ou IFDM geral) observada na 
+Mesorregião Diferenciada Bico do Papagaio j e Max é a maior variável (PIB per capita ou IFDM geral) observada 
+na Mesorregião Diferenciada Bico do Papagaio j, na equação (2) Xmin é o menor valor observado no Brasil j, 
+assim como Max o maior valor. A classificação do Indicador de Disparidade está organizada em três faixas, quais 
+sejam: convergente ao mais dinâmico, para valores acima de 0,30; tendendo a convergência, para valores na 
+faixa de 0,19 a 0,29; e divergente do mais dinâmico ou estagnado para valores iguais ou abaixo de 0,18. 
+Por meio das análises tanto intrarregionais quanto interregionais, utilizando os índices de centralidade 
+e de disparidade, a fim de analisar o desenvolvimento socioeconômico da Mesorregião Bico do Papagaio, dados 
+são apresentados nas seções seguintes. 
+III. RESULTADOS E DISCUSSÃO 
+Dinâmica econômica dos municípios da Mesorregião Bico do Papagaio 
+Em 2016, o IPEADATA (2019) e o IBGE (2020b) apontaram que a Mesorregião Diferenciada do Bico do 
+Papagaio apresentou o PIB total de R$ 47.409.659,58 e uma população estimada de 1.885.098,00 de habitantes, 
+respectivamente. O Índice Firjan de Desenvolvimento Municipal (IFDM) médio foi de 0,582. O IFDM posicionou 
+a Mesorregião Diferenciada do Bico do Papagaio no seu conjunto como desenvolvimento regular, o que reforçou 
+a percepção de Oliveira e Strassburg (2014) sobre a fragilidade social da área e suas desigualdades regionais. 
+Porém, o conjunto da Mesorregião não refletiu certas particularidades do seu crescimento e desenvolvimento 
+socioeconômico, pois a concentração regional em termos de PIB aumentou e o desempenho do IFDM foi 
+diferenciado entre os municípios. No ano de 2005, os municípios Parauapebas (PA), Marabá (PA), Imperatriz 
+(MA), Canaã dos Carajás (PA), Davinópolis (MA), Açailândia (MA), Redenção (PA), Xinguara (PA), Curionópolis 
+(PA) e Rio Maria (PA) detinham 75,32% do PIB total da Mesorregião Diferenciada Bico do Papagaio. Em 2016, o 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+74 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+montante de participação dos municípios citados aumentou para 79,95%. Ao longo do tempo, a concentração 
+de riqueza apresentou o acréscimo médio de 4,63% ao ano. 
+Acerca dos municípios que apresentaram maiores participações em relação ao PIB, destacou-se 
+Parauapebas (PA), que em 2005 detinha 21,81%, do total regional aumentando para 28,02%, em 2016. Tornou-
+se importante destacar a permanência dos três primeiros colocados (Parauapebas (PA), Marabá (PA) e 
+Imperatriz (MA)) ao longo do período de 2005 a 2016.  Mesmo assim, ocorreram algumas alterações no ranking 
+de participação no PIB regional, como a passagem de 5º para 4º colocação do município de Canaã dos Carajás 
+(PA) e a perda de participação de Açailândia (MA) de 9,35% (4º) para 4,44% (5°). Porém, dois municípios 
+mostraram as maiores evoluções no ranking de participação do PIB regional no período analisado, sendo eles: 
+Davinópolis (MA), ascendendo de 40º para 8º posição, e Curionópolis (PA), saindo da 25° posição para a 9° 
+posição. Esses dados são apresentados na Tabela 1. 
+ 
+Tabela 1. Ranking e Participação do PIB Total de 10 municípios selecionados da Mesorregião Diferenciada Bico do Papagaio - 2005 e 
+2016. 
+Estado 
+Município 
+2005 (%) 
+Ranking 
+2016 (%) 
+Ranking 
+PA 
+Parauapebas 
+21,81 
+1º 
+28,02 
+1º 
+PA 
+Marabá 
+16,33 
+2º 
+16,59 
+2º 
+MA 
+Imperatriz 
+14,38 
+3º 
+15,46 
+3º 
+PA 
+Canaã dos Carajás 
+5,12 
+5º 
+5,31 
+4º 
+MA 
+Açailândia 
+9,35 
+4º 
+4,44 
+5º 
+PA 
+Redenção 
+4,00 
+6º 
+3,65 
+6º 
+PA 
+Xinguara 
+2,56 
+7º 
+2,68 
+7º 
+MA 
+Davinópolis 
+0,24 
+40º 
+1,59 
+8º 
+PA 
+Curionópolis 
+0,48 
+25º 
+1,31 
+9º 
+PA 
+Rio Maria 
+1,05 
+13º 
+0,90 
+10º 
+Fonte: Resultados da pesquisa com base em dados do IBGE (2020). 
+ 
+Quando observado a evolução de alguns municípios da Mesorregião quanto à participação do PIB, destacaram-
+se Canaã do Carajás (PA), que tem a indústria como o principal fator de geração de divisas, principalmente pelas 
+indústrias extrativas minerais. Segundo a Prefeitura Municipal de Canaã dos Carajás (2016), a implantação e o 
+início da operação da mina de cobre do Sossego a partir de 2000, provocou inúmeras alterações no município, 
+desde o crescimento econômico, além de uma expansão populacional. É de se apontar que as transformações 
+oriundas do processo de urbanização e industrialização, provocou alterações na localização de pessoas e de 
+determinadas atividades (COLLA; BARBIERI; AMARAL; 2020). 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+75 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+Quanto ao município de Parauapebas, este faz parte do Complexo Grande Carajás, tendo a mineração 
+como principal atividade econômica, com a extração de minérios, tais como: o manganês, minério de ferro e o 
+cobre (COELHO, 2015). Já os municípios de Curionópolis (PA), Eldorado dos Carajás (PA), Canaã dos Carajás (PA), 
+Água Azul do Norte (PA) e Parauapebas (PA) originaram-se do município de Marabá (PA), no qual sofreram 
+grandes alterações geoeconômicas devido a criação de novos núcleos urbanos alicerçados na produção mineral 
+e integrados ao corredor de escoamento da Companhia Vale (TRINDADE, 2011). 
+No Maranhão, destacam-se os municípios pertencentes à microrregião de Imperatriz (MA), localizada na 
+porção Oeste do Maranhão ou região Tocantina do Maranhão. Em Davinópolis (MA), a atividade da silvicultura 
+tem grande importância econômica, sendo que no período de 2008 a 2018, houve maior crescimento das áreas 
+destinadas ao cultivo do eucalipto (OLIVEIRA; SANTOS; PEREIRA, 2020). Essa dinâmica produtiva explica a 
+ascensão do município quanto a sua participação no PIB da Mesorregião Diferenciada Bico do Papagaio, assim 
+como os municípios de Açailândia (MA) e Imperatriz (MA), que devido a implantação da empresa Suzano Papel 
+e Celulose em 2008 tiveram suas economias impactadas, gerando crescimento econômico para a região que 
+tem forte participação na produção de celulose no Estado.  
+A situação de Davinópolis (MA) e municípios que sofrem os efeitos econômicos da expansão da produção 
+de celulose e papel, o que amplia o extrativismo vegetal e a silvicultura, além da expansão da agropecuária 
+consorciada com reflorestamento, demonstra que aumentos no PIB e na transferência de impostos não 
+significam melhorias diretas nos indicadores sociais ( OLIVEIRA, PEREIRA, NASCIMENTO, 2018). 
+Algo a ser destacado são os fatores naturais e a intensidade tecnológica nas regiões do agronegócio. A 
+incorporação de novas tecnologias e o uso intensivo de maquinários e agroquímicos dificulta a difusão de novas 
+atividades dentro dos seus limites geográficos, ou seja, de promover produções urbanas, diminuindo a geração 
+de emprego e fortalecendo a concentração de renda no campo (OLIVEIRA; RODRIGUES, 2020). 
+O aspecto populacional e a centralidade 
+Considerando os aspectos populacionais da Mesorregião Diferenciada do Bico do Papagaio, verificou-se 
+no ano de 2005 uma população estimada de 1.599.598,00 de habitantes, passando em 2016 para 1.885.098,00 
+de habitantes, o que representou uma variação total de 17,85% ao longo do período (IBGE, 2020; IPEADATA, 
+2019). A taxa média de crescimento anual foi de 1,5% ao ano. A Mesorregião apresentou variações anuais 
+positivas entre os anos de 2005 e 2016. A magnitude nas variações da população e no PIB afeta diretamente a 
+centralidade do município, em relação ao seu entorno.   
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+76 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+Os resultados da pesquisa apontaram que no Índice de Centralidade (IC) dentre os 10 municípios que 
+mais se destacaram no ano de 2016, apenas o município de Rio Maria (PA) obteve o IC de 3,56 abaixo de 5,0, 
+sendo categorizado de mediano. Os demais municípios apresentam para o ano de 2016 o IC acima de 5,0, o que 
+os colocaram como alto grau de centralidade, ou seja, a economia urbana mais atrativa da Mesorregião. 
+Analisando o período de 2005 e 2016, os resultados da pesquisa também apontaram um aumento 
+significativo no grau de atratividade e centralidade dos municípios da Mesorregião, o que reforçou a 
+concentração do crescimento econômico. O destaque ficou com o município de Parauapebas (PA), que ao longo 
+dos anos aumentou consideravelmente o seu dinamismo econômico, figurando como o de maior centralidade.  
+Marabá (PA), além de apresentar uma evolução considerável no seu IC, ganhou posicionamento em relação à 
+Canaã dos Carajás (PA), que caiu de 2º para 4º no ranking.  
+Dois municípios merecem destaque na evolução da sua centralidade, sendo eles: Davinópolis (MA) e 
+Curionópolis (PA).  Davinópolis (MA) passou da classificação de baixo para alto grau de centralidade, o que 
+significou uma mudança de 44° para 5º no ranking; já Curionópolis (PA), também com baixo grau de centralidade 
+em 2005, ascendeu para alto grau de centralidade em 2016.  
+Rio Maria (PA) também se encontrava em um baixo grau de centralidade, mas em 2016 houve uma 
+acentuada evolução nos seus índices, evoluindo para um alto grau de centralidade. Rio Maria (PA) tem a sua 
+economia baseada na pecuária de corte e na mineração, tornando o comercio local dinâmico favorecendo a 
+geração de empregos (PREFEITURA DE RIO MARIA, 2020). 
+Inserida na Mesorregião Diferenciada Bico do Papagaio está o chamado MATOPIBA, área que integra 
+porções do Maranhão, Tocantins, Piauí e Bahia e apresentam alto índice de crescimento econômico capitaneado 
+pela produção agrícola de commodities. Os resultados apresentados nessa análise reforçaram também 
+resultados encontrados por Ribeiro e Ferrera de Lima (2022) especificamente para o recorte do Matopiba, 
+demonstrando a convergência em termos de análise. Ou seja, tanto o recorte da Mesorregião Diferenciada Bico 
+do Papagaio quanto do Matopiba tem dificuldades em converter desempenho econômico em indicadores de 
+desenvolvimento socioeconômico. As disparidades no que tange as melhorias nas condições de vida serão 
+apresentados na sequencia, com os resultados do Indicador de Disparidade. 
+Indicador de Disparidade 
+O Indicador de Disparidade Regional com base no PIB per capita, expressou em seus coeficientes as mais 
+diferentes realidades entre os municípios da Mesorregião Diferenciada Bico do Papagaio. Em 2005, os 
+municípios de Canaã dos Carajás (PA) e Parauapebas (PA), apresentaram os maiores Indicadores de Disparidades 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+77 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+1,0 e 0,6, respectivamente, o que os classificou como de convergente ao mais dinâmico em termos de 
+crescimento econômico. Xinguara (PA) e Rio Maria (PA) apresentaram uma tendência à convergência, enquanto 
+os demais mostraram uma divergência do mais dinâmico.  
+Quando analisado o ano de 2016, verificou-se um aumento no número de municípios com evolução no 
+Indicador de Disparidade, sendo que em 2016 nenhum município apresentou Indicador de Disparidade abaixo 
+de 0,18, indicando que houve um crescimento da disparidade entre os municípios da Mesorregião Diferenciada 
+do Bico do Papagaio em relação ao PIB per capita. Isso significa que houve uma maior heterogeneidade em 
+relação à produtividade do PIB em relação aos dos municípios, ou seja, um maior o aumento da desigualdade 
+em termos de dinâmica de crescimento econômico. As atividades mineradoras têm alto impacto na magnitude 
+do PIB, mas baixo impacto em termos de distribuição da renda e da produtividade.  
+Os municípios de Canaã dos Carajás (PA) e Parauapebas (PA), ao longo do tempo permaneceram em 
+primeiro e segundo, respectivamente, em relação ao ranking de disparidade da Mesorregião, e observa-se que 
+Parauapebas (PA) teve uma variação absoluta de 52% no seu indicador de disparidade entre 2005 a 2016. 
+Porém, Davinópolis (MA) e Curionópolis (PA) tiveram maior crescimento do Indicador de Disparidade Regional 
+em termos de crescimento econômico no período (Tabela 2). 
+ 
+Tabela 2. Brasil: Indicador de Disparidade do PIB dos 10 municípios selecionados com maiores indicadores da Mesorregião 
+Diferenciada Bico do Papagaio – 2005 e 2016. 
+Estado 
+Município 
+Índice de Disparidade – PIB 
+ID (2005) 
+Ranking 
+ID (2016) 
+Ranking 
+PA 
+Canaã dos Carajás  
+1,00 
+1º 
+1,00 
+1º 
+PA 
+Parauapebas  
+0,61 
+2º 
+0,93 
+2º 
+MA 
+Davinópolis  
+0,01 
+56º 
+0,81 
+3º 
+PA 
+Curionópolis  
+0,05 
+24º 
+0,44 
+4º 
+PA 
+Marabá  
+0,18 
+7º 
+0,35 
+5º 
+MA 
+Imperatriz  
+0,13 
+8º 
+0,34 
+6º 
+PA 
+Xinguara  
+0,20 
+6º 
+0,33 
+7º 
+PA 
+Rio Maria  
+0,20 
+5º 
+0,27 
+8º 
+TO 
+Aguiarnópolis  
+0,09 
+12º 
+0,24 
+9º 
+TO 
+Darcinópolis  
+0,06 
+18º 
+0,23 
+10º 
+Fonte: Resultados da pesquisa a partir de dados do IBGE (2020). 
+ 
+Quanto ao Indicador de Disparidade Regional para a dinâmica socioeconômica, que construído a partir 
+do IFDM geral, observou-se uma modificação no arranjo dos municípios com maiores indicadores, quando 
+comparado com o Indicador de Disparidade Regional baseado no PIB. Pode-se destacar a participação do 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+78 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+município de Imperatriz (MA) como o de maior Indicador de Disparidade entre os dez classificados, tanto em 
+2005 quanto em 2016, apresentou o coeficiente de 0,96 e 1,0 respectivamente, evidenciando o alto grau de 
+disparidade e distanciamento dos demais. Quando analisado o IFDM do município de Imperatriz (MA), observa-
+se que o valor agregado foi de 0,641 em 2005, e de 0,740, colocando-o em uma classe de município de 
+desenvolvimento moderado (Tabela 03). Nesse sentido, o ID de Imperatriz (MA) caracterizado como 
+convergente ao mais dinâmico, demonstrou a sua distinção quanto ao desenvolvimento da Mesorregião 
+Diferenciada Bico do Papagaio, juntamente com Parauapebas (PA). 
+ 
+Tabela 3. Indicador de Disparidade (IFDM) dos 10 municípios selecionados com maiores indicadores da Mesorregião Diferenciada 
+Bico do Papagaio – 2005 e 2016. 
+Estado 
+Município 
+Indicador de Disparidade pelo IFDM (2005 e 2016) 
+ID (2005)  
+Ranking 
+ID (2016)  
+Ranking 
+MA 
+Imperatriz 
+0,96 
+2º 
+1,00 
+1º 
+PA 
+Parauapebas 
+1,00 
+1º 
+1,00 
+2º 
+TO 
+Aguiarnópolis 
+0,61 
+17º 
+0,87 
+3º 
+MA 
+Davinópolis 
+0,52 
+27º 
+0,87 
+4º 
+TO 
+Ananás 
+0,90 
+3º 
+0,86 
+5º 
+PA 
+Canaã dos Carajás 
+0,90 
+3º 
+0,83 
+6º 
+TO 
+Tocantinópolis 
+0,68 
+11º 
+0,80 
+7º 
+PA 
+Redenção 
+0,74 
+7º 
+0,79 
+8º 
+TO 
+Augustinópolis 
+0,60 
+19º 
+0,77 
+9º 
+MA 
+Cidelândia 
+0,37 
+39º 
+0,74 
+10º 
+Fonte: Resultados da pesquisa a partir de dados do FIRJAN (2020). 
+ 
+Outro fato a ser apontando no Indicador de Disparidade Regional nos municípios foi que os seus valores 
+superiores a 0,30, evidenciando a convergência em termos de desenvolvimento socioeconômico. Ou seja, o 
+desenvolvimento socioeconômico continua fragilizado na Mesorregião, mas os municípios tenderam a se 
+homogeneizar demonstrando um reposicionamento dos municípios mais pobres, enquanto os mais “ricos” não 
+conseguiram ampliar seus indicadores sociais na mesma magnitude do seu crescimento econômico. 
+Ao relacionar o Indicador de Disparidade baseado no PIB per capita e o construído em função do IFDM 
+verificou-se que houve uma alteração na constituição dos municípios com maior dinamicidade em função da 
+dinâmica da renda e do desenvolvimento socioeconômico do municipal. Sendo que os municípios de Ananás 
+(TO), Tocantinópolis (TO), Augustinópolis (TO), Cidelândia (MA) e Redenção (PA) só estiveram entre os dez com 
+maiores Indicadores de Disparidade no ID-IFDM. Isso mostra uma dinâmica maior dessas localidades em função 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+79 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+do seu indicador de desenvolvimento. Esses municípios estão conseguindo aliar ganhos no PIB como melhora 
+nos indicadores socioeconômicos, ou seja, um processo de desenvolvimento municipal mais harmônico. 
+Quando se analisou a composição dos municípios em relação aos estados da Mesorregião Diferenciada 
+Bico do Papagaio, percebeu-se quanto aos resultados do ID-PIB, que o Estado do Pará detém o maior número 
+de municípios entre os dez com os maiores indicadores, quatro no total; e o Maranhão e o Tocantins ambos 
+com dois. Esse aspecto demonstra que o Pará possui os municípios mais desiguais quanto à renda. Já quanto ao 
+ID-IFDM, verificou-se uma mudança nesse cenário, sendo o Tocantins com os quatro municípios com os maiores 
+indicadores, seguindo do Maranhão e Pará com dois cada.  
+Os resultados reforçaram que a dinâmica do desenvolvimento nos estados nem sempre é acompanhada 
+do crescimento econômico, haja vista os municípios distinguirem-se quanto aos indicadores conforme a 
+participação do PIB e do IFDM. Porém, cabe lembrar que parcela do desenvolvimento socioeconômico é 
+sustentada pelo crescimento econômico ao gerar emprego e renda, que é uma das dimensões do IFDM. Isso 
+significa que para os municípios com maior convergência ao desenvolvimento manterem seus indicadores de 
+desenvolvimento socioeconômico, o crescimento do PIB acima das taxas de crescimento da população será 
+necessário para garantir expansão da produção e, consequentemente, a arrecadação de impostos capazes de 
+sustentar as despesas e investimentos com saúde e educação. 
+Cabe salientar também que na área de análise, Santos (2019) reforça o papel das territorialidades 
+construídas a partir das relações de poder que impuseram um modelo de desenvolvimento socioeconômico. 
+Porém, cabe salientar que a historia é uma construção humana e modelos de desenvolvimento podem ser 
+alterados ou mantidos em paralelo com um novo modelo mais inclusivo também associado à dinâmica das 
+comunidades e das relações socioambientais e econômicas.  
+IV. CONCLUSÕES 
+O objetivo desse estudo foi analisar a centralidade e o desenvolvimento socioeconômico da Mesorregião 
+Diferenciada Bico do Papagaio. O procedimento metodológico foi a estimativa dos Indicadores de Centralidade 
+e Disparidade a partir de dados do Produto Interno Bruto (PIB), população e do Índice Firjan de Desenvolvimento 
+Municipal (IFDM), no período de 2005 a 2016. Esse período foi escolhido pela disponibilidade de informações e 
+porque foi uma fase de forte crescimento na economia brasileira.  
+Os principais resultados apontaram que a Mesorregião Diferenciada do Bico do Papagaio possui um 
+desenvolvimento considerado como regular, sendo que em 2005 apenas 10 municípios detinham em torno de 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+80 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+75,32% do PIB da mesorregião, e em 2016 houve maior concentração da riqueza nesses municípios, passando 
+para 79,95%. Os municípios que apresentaram maior concentração e dinamicidade econômica foram: 
+Parauapebas (PA), Marabá (PA), Imperatriz (MA), Canaã dos Carajás (PA), Davinópolis (MA), Açailândia (MA), 
+Redenção (PA), Xinguara (PA), Curionópolis (PA) e Rio Maria (PA). Destaca-se com 21,81%, o município de 
+Parauapebas (PA) com a maior participação do PIB em relação à Mesorregião Diferenciada. Nesse sentido, o 
+Índice de Centralidade aponta para o aumento da concentração do crescimento econômico. Quanto ao 
+aumento populacional, observou-se um incremento positivo de 17,85% no período estudado, passando de 
+1.599.598,00 para 1.885.098,00 de habitantes.  
+Já o Indicador de Disparidade mostrou que a Mesorregião apresentou grande desigualdade econômica 
+entre os municípios, com distinções acentuadas quanto à dinâmica do crescimento econômico, principalmente 
+nas regiões com atividades econômicas centradas na extração de minério. Quanto à disparidade de crescimento 
+econômico e de desenvolvimento socioeconômico, os municípios apresentaram características específicas em 
+relação aos indicadores de renda e do IFDM. Esses resultados sugerem que a dinâmica do crescimento 
+econômico não é condição indissociável do desenvolvimento socioeconômico, em vista que, a desigualdade 
+econômica se apresenta de forma mais aguda do que o processo de desenvolvimento dos municípios, logo 
+houve maior convergência ao mais dinâmico em função do IFDM na Mesorregião Diferenciada Bico do Papagaio. 
+Em alguns municípios, a geração de impostos, a geração de emprego e renda na diversificação das atividades 
+produtivas, bem como atividades que fomentem a melhor distribuição da renda se faz necessária, porém, 
+significa ampliar as atividades produtivas para além da dependência no extrativismo mineral ou na agropecuária 
+extensiva. 
+Os resultados elencados convergiram com estudos realizados sobre a Mesorregião Bico do Papagaio e 
+elencados no texto. Da mesma maneira, se reforçam os apontamentos quanto à necessidade de politicas 
+regionais mais focalizadas em populações em situação de fragilidade social, em atividades produtivas alinhadas 
+com a preservação dos biomas Cerrado e Amazônico e no reforço das micro e pequenas empresas, maiores 
+geradoras de emprego. Mesmo com os resultados e apontamentos apresentados, para futuras pesquisas 
+sugere-se que novos estudos busquem analisar os principais determinantes, tanto econômicos quanto sociais, 
+que condicionam o processo de estagnação socioeconômica dos municípios da Mesorregião Diferencia Bico do 
+Papagaio. 
+No contexto teórico, os resultados reforçam a importância dos estudos de Walter Christaller sobre a 
+centralidade e a hierarquia dos lugares. Eles também remetem a novas abordagens, a partir da dimensão inicial 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+81 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+dos índices apresentados por Christaller, mas estimulando novos estudos com tratamentos de dados mais 
+sofisticados. A polarização e a centralidade continuam presentes nas economias regionais capitaneadas pelo 
+urbano, porém suas dimensões e tendências tem se alterado ao longo do tempo. Cabe agora aos novos estudos 
+mapear e interpretar as tendências da centralidade dos lugares. 
+Agradecimentos 
+Agradecimentos especiais à Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). 
+V. REFERÊNCIAS 
+ALVES, A. M.; ROCHA NETO, J. M.  A nova Política Nacional de Desenvolvimento Regional – PNDR II: entre a 
+perspectiva de inovação e a persistência de desafios. Revista Política e Planejamento Regional, v. 1, p. 311-338, 
+2014. 
+BEUSCHI FILHO, L. e ABRAMOVAY, R. Desafios para o desenvolvimento das regiões rurais. Nova Economia, n. 
+14, vol. 3, pp.35-70, 2004. 
+BRASIL. Portaria nº 954, de 24 de novembro de 2010. Diário Oficial da União, Brasília, DF, nº 225, Seção1, p. 28-
+30, 25 nov. 2010b.  
+CARGNIN, A. P. Política nacional de desenvolvimento regional e repercussões no Rio Grande do Sul. Mercator 
+(Fortaleza), v. 13, n. 1, p. 19-35, 2014. 
+CAVALCANTE, L. R. Políticas de desenvolvimento regional no Brasil: uma estimativa de custos. Revista Brasileira 
+de Gestão e Desenvolvimento Regional, v. 14, p. 147-171, 2018. 
+CHRISTALLER, W. Central places in Southern Germany. Englewood Cliffs. New Jersey: Prentice-Hall, 1966. 
+COELHO, T. P. Impactos e mineração da Vale SA em Parauapebas. Caderno de debates 4, p. 47, 2015. 
+COLLA, C.; BARBIERI, A. F.; AMARAL, P. V. O papel do mercado de trabalho na complementaridade entre a 
+migração e a pendularidade na Região Metropolitana de Curitiba entre 2000 e 2010. Informe GEPEC, v. 24, p. 
+97-116, 2020. 
+ETGES, V. E.; DEGRANDI, J. O. Desenvolvimento regional: a diversidade regional como potencialidade. Revista 
+Brasileira de Desenvolvimento Regional, v. 1, p. 85-94, 2013. 
+FERRERA DE LIMA, J.; BIDARRA, B. S. Concentração e desigualdade na Região Metropolitana de Curitiba. urbe. 
+Revista Brasileira de Gestão Urbana, v. 11, 2019. 
+FERRERA DE LIMA, J. (org.). Desenvolvimento Regional Fronteiriço no Brasil. 1. ed. Toledo: Núcleo de 
+Desenvolvimento Regional NDR, 2020a. 
+FERRERA DE LIMA, J. El problema regional brasileno: una evaluacion de la politica nacional de desarrollo regional 
+de Brasil. In: PIZZIO, A.; ALMANZA, A. S.; RODRIGUES, W. Desarrollo Regional en Perspectivas Comparadas: los 
+casos de Brasil y México. Brasilia: Verbena Editora, 2020b.  
+FERRERA DE LIMA, J. O espaço e a difusão do desenvolvimento econômico regional. In: PIACENTI, C.; FERRERA 
+DE LIMA, J.; EBERHARDT, P. H.  Economia & Desenvolvimento Regional. Foz do Iguaçu: Editora Parque Itaipu, 
+2016. https://www.ndrunioeste.com.br 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+82 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+FIRJAN. 
+IFDM 
+2018 
+- 
+Índice 
+Firjan 
+de 
+Desenvolvimento 
+Municipal. 
+2018. 
+Disponível 
+em:<https://www.firjan.com.br/data/files/67/A0/18/D6/CF834610C4FC8246F8A809C2/IFDM_2018.pdf>. 
+Acesso em outubro de 2020. 
+HOUARD, J.; MARFOUK, A. Portrait sócio-économique des régions européennes. In : BEINE, M.; DOCQUIER, F. 
+(org.). Croissance et convergence écnomiques des régions : théorie, faits et déterminants. Bruxelles: De Boeck 
+Université, 2000, p.19-53. 
+HENTZ, C.; MEDEIROS HESPANHOL, R. A. Políticas públicas de desenvolvimento rural no Brasil: do caráter 
+seletivo da modernização agrícola à abordagem do desenvolvimento territorial. Acta Geográfica, v. 14, n. 34, p. 
+20-36, 2020. 
+IBGE. Instituto Brasileiro de Geografia e Estatística. Estimativas Populacionais. Rio de Janeiro: IBGE, 2020a. 
+Disponível 
+em: 
+<https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-
+populacao.html?=&t=o-que-e>. Acesso em: 27 set. 2020. 
+IBGE. Instituto Brasileiro de Geografia e Estatística. Produto Interno Bruto. Rio de Janeiro: IBGE, 2020b. 
+Disponível em: <https://sidra.ibge.gov.br/tabela/5938>. Acesso em: 27 set. 2020. 
+IPEADATA. Instituto de Pesquisa Econômicas Aplicadas. Dados população macrorregional. Brasil, 2019. 
+Disponível em: http://www.ipeadata.gov.br/Default.aspx Acesso em: 12 set. 2020. 
+JOYAL, A. Do desenvolvimento regional ao desenvolvimento territorial: uma comparação Québec - Brasil (1960-
+2010). Informe GEPEC, vol. 23, edição especial, p. 191-209, 2019. 
+KINK, L. J. Central place theory. Randall Jackson, 2020. 
+LIMA, A. E. M. A Teoria do Desenvolvimento Regional e o papel do Estado. Análise Econômica, v. 24, n. 45, p. 
+65–90, 2006.  
+MANTOVANI, G. G.; RUTHS, J. C.; SOUZA, M. P. R.; FERREIRA, R. L. A.; CATTELAN, R.; R.; MATTEI, T. S.; CAMARGO, 
+W. S. A dinâmica do desenvolvimento socioeconômico nos municípios da Faixa de Fronteira Brasileira. In: 
+FERRERA DE LIMA, J. (org.). Desenvolvimento Regional Fronteiriço no Brasil. 1. ed. Toledo: Núcleo de 
+Desenvolvimento Regional NDR, 2020.  
+MEDEIROS, A. L.; SOUSA, L. B.; ANDRE, C. M. G. Desenvolvimento Municipal das Microrregiões do Estado do 
+Tocantins: uma análise a partir do Índice Firjan de Desenvolvimento Municipal - IFDM. Desenvolvimento em 
+Questão, v. 16, p. 44-62, 2018. 
+MORAIS, J. M. L.; MACEDO, F. C. Apontamentos sobre a rede urbana do Ceará: níveis de centralidade, interações 
+espaciais e dinâmica econômica. Informe GEPEC, v. 18, n. 1, p. 43-60, 2014. 
+OLIVEIRA, A. B.; SANTOS, K. C.; PEREIRA, A. M. Os novos usos do território pelo agronegócio florestal na 
+microrregião de Imperatriz, Maranhão. Revista Contexto Geográfico, v. 5, p. 39-53, 2020. 
+OLIVEIRA, T. J. A. O Estado e o dinamismo econômico do Centro Norte Brasileiro. Ciências Sociais Aplicadas em 
+Revista, v. 17, n. 33, p. 65–84, 2017.  
+OLIVEIRA, T. J. A.; RODRIGUES, W. Vulnerabilidade e o desenvolvimento das regiões do agronegócio no Brasil 
+(2007/2017). Informe GEPEC, v. 24, n. 2, p. 232-248, 2020. 
+PREFEITURA DE RIO MARIA. História, 2020. Página inicial. Disponível em:< https://www.riomaria.pa.gov.br/o-
+municipio/historia/>. Acesso em 26 de dez. de 2020. 
+
+
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+83 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.56, p. 63–83, 04/2023 
+https://revistas.ufpr.br/raega 
+ 
+DOI: http://dx.doi.org/10.5380/raega.v56i0.85747 
+ 
+ 
+ 
+ 
+ 
+  
+PREFEITURA MUNICIPAL DE CANAÃ DOS CARAJÁS. Diagnóstico Socioeconômico do Município de Canaã dos 
+Carajás. Canaã dos Carajás, p. 119, 2016. 
+OLIVEIRA, N. M.; STRASSBURG, U. Notas sobre a desigualdade social no Bico do Papagaio - Tocantins. Revista 
+Desafios, v. 1, n. 1, p. 130-148, 2014. 
+OLIVEIRAA, A. B.; PEREIRA, J. M.; NASCIMENTO, A. A. Cadeia produtiva de papel e celulose e transformações 
+recentes no Sudoeste Maranhense. InterEspaço: Revista De Geografia E Interdisciplinaridade, v. 4, n. 12, p. 135–
+154, 2018.  
+RAIHER, A. P.; FERRERA DE LIMA, J.; OSTAPECHEN, L.A.P. Crescimento Econômico Regional no Sul do Brasil. 
+Revista de Economia e Agronegócio, vol. 15, p. 224-249, 2017. 
+RIBEIRO, L. A. ; FERRERA DE LIMA, J.  Centralidade e disparidades socioeconômicas na região do Matopiba no 
+Brasil. Revista Brasileira de Assuntos Regionais e Urbanos (Baru), v. 8, p. 1-15, 2022. 
+RODRIGUES, D. E.; FERREIRA, I. M. Campo e cidade: uma análise do município de Davinópolis 
+ROCHA NETO, J.; BORGES, D. F. Políticas públicas coordenadas e presidencialismo de coalizão: o caso do 
+PROMESO. Cadernos EBAPE, v. 14, n. spe, p. 440-472, 2016. 
+SANTOS, L. L. dos. Territorialidades transfronteiriças de poder do Bico do Papagaio: Pará, Tocantins e Maranhão, 
+na temporalidade de 1970 a 2016. 2019. 170 f. Tese Doutorado em Geografia, Programa de Pós-Graduação em 
+Geografia (PPGG), Fundação Universidade Federal de Rondônia (Unir), Porto Velho, 2019. 
+SEBRAE. Santa Catarina em Números: Florianópolis/Sebrae/SC. Florianópolis: Sebrae/SC, 2010. 117p. 
+SILVA, A. C.; FERRERA DE LIMA, J. O Conceito de ruptura estrutural no desenvolvimento econômico regional. 
+Pensamento Plural,  n. 15, p. 133–149, 2014.  
+SILVA, J. S. da; FERRERA DE LIMA, Jandir. O desenvolvimento socioecômico dos municípios da Mesorregião 
+Diferenciada de Àguas Emendadas. Interação - Revista de Ensino - Pesquisa - Extensão, vol. 23, nº 01, p. 61-77, 
+2021.  
+STRASSBURG, U.; FERRERA DE LIMA, J.; OLIVEIRA, N. M. A centralidade e o multiplicador do emprego: um estudo 
+sobre a Região Metropolitana de Curitiba. Revista Brasileira de Gestão Urbana – URBE, v. 06, n. 02, p. 218-235, 
+2014. DOI: 10.7213/urbe.06.002.AC01 
+TRINDADE, J. R. B. Mineração e políticas de desenvolvimento local para o município de Parauapebas no Pará. 
+Recursos minerais & sustentabilidade territorial, 2011. 
+VALBUENA, L. G. B. Aproximaciones microeconómicas en la Teoría de los Lugares Centrales de Christaller. 
+Ensayos sobre Política Económica, v. 31, n. 70, p. 67-120, 2013. 
+WILLERS, E. M. Estratégia de desenvolvimento econômico: do regional ao local. In: PIACENTI, C.; FERRERA DE 
+LIMA, J.; EBERHARDT, P. H.  Economia & Desenvolvimento Regional. Foz do Iguaçu: Editora Parque Itaipu, 2016. 
+https://www.ndrunioeste.com.br 
+ 
+ 

@@ -1,0 +1,2566 @@
+Encuesta sobre trabajadores en 
+plataformas digitales basadas  
+en la web 
+Nuevos datos para la región de América Latina  
+y el Caribe
+
+Copyright © Organización Internacional del Trabajo 2025
+Primera edición 2025
+              Atribución 4.0 Internacional (CC BY 4.0)
+Esta obra está sujeta a una licencia Creative Commons Atribución 4.0 Internacional. Para consultar una copia de la 
+licencia, véase https://creativecommons.org/licences/by/4.0/deed.es . El usuario podrá reproducir, compartir (copiar 
+y redistribuir), adaptar (mezclar, transformar y desarrollar el contenido de la obra original), conforme a los términos 
+detallados en la licencia. El usuario deberá citar claramente a la OIT como fuente del material e indicar si se han 
+introducido cambios en el contenido original. No está permitido reproducir el emblema, el nombre ni el logotipo de 
+la OIT en traducciones, adaptaciones u otras obras derivadas. 
+Atribución de la titularidad - El usuario deberá indicar si se han introducido cambios y citar la obra como sigue: 
+Cravo T., Encuesta sobre trabajadores en plataformas digitales basadas en la web. Nuevos datos para la región de 
+América Latina y el Caribe, Lima: Oficina Internacional del Trabajo, 2025, © OIT.
+Traducciones - En caso de que se traduzca la presente obra, deberá añadirse, además de la atribución de la 
+titularidad, el siguiente descargo de responsabilidad: La presente publicación es una traducción de una obra protegida 
+por derechos de autor de la Organización Internacional del Trabajo (OIT). Esta traducción no ha sido realizada, revisada 
+ni aprobada por la OIT y no debe considerarse una traducción oficial de la OIT. La OIT declina toda responsabilidad en 
+cuanto a su contenido o exactitud. La responsabilidad incumbe exclusivamente al autor o autores de la traducción.
+Adaptaciones - En caso de que se adapte la presente obra, deberá añadirse, además de la atribución de la titularidad, 
+el siguiente descargo de responsabilidad: La presente publicación es una adaptación de una obra protegida por 
+derechos de autor de la Organización Internacional del Trabajo (OIT). Esta adaptación no ha sido realizada, revisada ni 
+aprobada por la OIT y no debe considerarse una adaptación oficial de la OIT. La OIT declina toda responsabilidad en 
+cuanto a su contenido o exactitud. La responsabilidad incumbe exclusivamente al autor o autores de la adaptación.
+Materiales de terceros  - Esta licencia Creative Commons no se aplica a los materiales incluidos en la presente 
+publicación que, aunque no son de la OIT, están protegidos por derechos de autor. Si el material se atribuye a 
+una tercera parte, el usuario que utilice dicho material será el único responsable de obtener las autorizaciones 
+necesarias del titular de los derechos y de responder ante cualquier reclamación por vulneración de los derechos 
+de autor.
+Toda controversia derivada de la presente licencia que no pueda ser resuelta de manera amistosa será sometida 
+a arbitraje de conformidad con el Reglamento de Arbitraje de la Comisión de las Naciones Unidas para el Derecho 
+Mercantil Internacional (CNUDMI). Las partes quedarán vinculadas por el laudo arbitral resultante de dicho arbitraje, 
+que resolverá con carácter definitivo dicha controversia.
+Toda consulta sobre derechos y licencias deberá dirigirse a la Unidad de Publicaciones de la OIT (Derechos de autor 
+y licencias), a rights@ilo.org . Puede obtenerse información sobre las publicaciones y los productos digitales de la 
+OIT en: www.ilo.org/publns .
+ISBN: 9789220417508 (PDF web)
+ISBN: 9789220417492 (impreso)
+DOI: https://doi.org/10.54394/ADTS8080
+Publicado también en inglés : Survey of workers on web-based digital platforms. New data for the Latin American and 
+Caribbean region, ISBN (impreso): 9789220420614, ISBN (PDF web): 9789220420621, DOI: https://doi.org/10.54394/
+NDVQ0600.
+Las denominaciones empleadas en las publicaciones y las bases de datos de la OIT, que están en concordancia con 
+la práctica seguida en las Naciones Unidas, y la forma en que aparecen presentados los datos que contienen no 
+implican juicio alguno por parte de la OIT sobre la condición jurídica de ninguno de los países, zonas o territorios 
+citados o de sus autoridades, ni respecto de la delimitación de sus fronteras o límites.
+Las opiniones y puntos de vista expresados en esta publicación incumben solamente a su autor o autores y no 
+reflejan necesariamente las opiniones, puntos de vista o políticas de la OIT.
+Las referencias a firmas o a procesos o productos comerciales no implican aprobación alguna por la OIT, y el hecho 
+de que no se mencionen firmas o procesos o productos comerciales no implica desaprobación alguna.
+
+Encuesta sobre trabajadores en plataformas 
+digitales basadas en la web 
+Nuevos datos para la región de América Latina 
+y el Caribe
+Oficina Regional de la OIT para América Latina y el Caribe1
+Febrero, 2025
+1 Autor del reporte: Túlio Cravo, Especialista Regional para productividad y políticas públicas. El informe contó con el apoyo técnico de Yeny 
+Antunez en su elaboración.
+Índice
+Índice
+Resumen ejecutivo
+1. Introducción
+1.1   El trabajo en las plataformas digitales: ¿qué es y 
+cuándo surgió?
+1.2   ¿Cuáles son las modalidades de trabajo en las 
+plataformas?
+1.3   ¿Cuál es la dimensión del trabajo en las plataformas 
+digitales?
+1.4   ¿Cuáles son algunos de los desafíos?
+2. Los trabajadores de las plataformas digitales en 
+América Latina y el Caribe (ALC)
+2.1   ¿En qué tipo de trabajo de plataforma digital 
+trabajan?
+2.2   Cobertura geográfica
+2.3   Aspectos demográficos de los trabajadores de 
+plataforma
+2.4   Migración
+2.5   ¿Para quiénes trabajan?
+3. Motivaciones y situación laboral
+4. Ingresos y carga laboral
+4.1   Ingresos
+4.2   Carga laboral
+5. Salud y seguridad social
+6. Consideraciones finales
+7. Referencias
+8. Anexo
+1
+2
+6
+6 
+7 
+10 
+11
+13 
+14 
+16
+17 
+20
+23
+24
+31
+31
+39
+42
+47
+49
+51
+▶1
+▶2
+▶ Índice
+Resumen ejecutivo
+El mundo del trabajo está cambiando a la velocidad de los avances y expansión 
+tecnológica impulsados por el internet de alta velocidad, dispositivos móviles y 
+computadoras más accesibles, computación en la nube, inteligencia artificial, 
+sistemas de pagos digitales, entre otros. Una de las expresiones de cambio es 
+la aparición y crecimiento de distintas modalidades de plataformas digitales que 
+sirven como punto de encuentro entre la oferta y demanda de mano de obra. 
+Este nuevo fenómeno ha tenido un crecimiento exponencial en la última década y 
+representa un desafío para la política pública, trabajadores y unidades productivas. 
+Existen distintos tipos de trabajo en plataformas digitales, clasificados de diversas 
+maneras, pero que pueden dividirse en dos grandes grupos. El primer grupo 
+organiza y conecta oferta y demanda de trabajadores para tareas basadas en la web, 
+que pueden ser clasificadas en cuatro tipos: freelance, crowdwork, free competition 
+y competitive programming 2. Estos abarcan tareas desde programación y diseño 
+gráfico, hasta microtareas administrativas y de entrenamiento de sistemas de 
+inteligencia artificial, permitiendo la conexión global entre los distintos actores 
+del mercado. El segundo grupo está basado en la ubicación, como plataformas 
+de transporte, entregas y acomodación, donde las tareas se asignan según la 
+demanda local. Esta clasificación simplifica un mundo de trabajo en línea cada vez 
+más complejo, pero ayuda a delimitar el objeto de análisis que en este reporte se 
+enfoca en los trabajadores de las plataformas digitales de tareas basadas en la 
+web.
+El crecimiento de la economía de plataformas ha abierto nuevos mercados y 
+creado empleos con alta flexibilidad y bajas barreras de acceso. Sin embargo, 
+también plantea desafíos para garantizar que los trabajadores tengan acceso a un 
+trabajo decente, dado que esta nueva modalidad de trabajo viene con el riesgo de 
+operar fuera de las regulaciones laborales y de la protección social. En el ámbito 
+de la Organización Internacional del Trabajo (OIT), gobiernos, organizaciones de 
+empleadores y de trabajadores en escala global buscan entender la economía de 
+plataformas y pensar cómo ajustar los marcos normativos para responder a los 
+desafíos y potenciar las oportunidades de esta parte de la economía. Por ejemplo, 
+en marzo de 2023 se presentó al Consejo de Administración de la OIT un análisis 
+de las brechas normativas, que incluyó este tema en la agenda de la Conferencia 
+Internacional del Trabajo en 2025 para discusión. En este contexto, el informe 
+OIT (2024a) se preparó para enriquecer los debates sobre la cuestión normativa 
+y la discusión general sobre el trabajo decente en la economía de plataformas 
+digitales.
+2 En español, los cuatro tipos de plataformas de trabajo son las siguientes: plataformas de autónomos, microtareas, basadas en concurso 
+y programación por concurso.
+▶ Índice
+▶3
+▶ Índice
+▶3
+Por lo tanto, el reto de entender este novedoso y reciente fenómeno genera 
+una necesidad de nuevos datos para apoyar las discusiones respecto a normas 
+internacionales del trabajo. Esto incluye, por ejemplo, la libertad de asociación y 
+sindical, la igualdad de oportunidades y trato, la seguridad y salud en el trabajo, la 
+relación laboral, la remuneración, el tiempo de trabajo, el sesgo de los algoritmos, 
+la seguridad social, la resolución de disputas, las leyes de competencia, el empleo 
+formal, la inspección laboral, el estatus migratorio, entre otros. 
+Teniendo en cuenta la necesidad de nuevos datos sobre economías de plataformas 
+para América Latina y el Caribe (ALC) en particular, este reporte presenta los 
+resultados de una encuesta para la región basada en 1 153 trabajadores de 21 
+países. El objetivo de este reporte es proveer información sobre el perfil de 
+las personas trabajadoras en la economía de plataformas digitales para la 
+región de América Latina y el Caribe y que pueda utilizarse en las discusiones 
+normativas y de política pública que se planteen desde el ámbito tripartito 
+de cada país , incluyendo a los gobiernos, organizaciones de trabajadores, y 
+organizaciones de empleadores, considerando elementos específicos para la 
+región. No obstante, el reporte no busca proponer soluciones a cuestiones 
+normativas y de política pública.
+Los resultados de esta encuesta confirman que el carácter de esta modalidad de 
+trabajo es eminentemente urbano. El 93 por ciento de los trabajadores encuestados 
+residen en zonas urbanas, una característica encontrada en otros estudios para 
+plataformas digitales basadas en la web. Además, los números indican una fuerza 
+de trabajo joven y calificada en comparación con la población general, con edad 
+mediana de 33 años, donde un 38 por ciento posee una licenciatura o un título 
+equivalente. 
+El trabajo en plataformas digitales basadas en la web es una vía de acceso de 
+los trabajadores migrantes al mercado laboral. Este estudio proporciona datos 
+inéditos que indican que, de los trabajadores que contestaron la encuesta, un 8 
+por ciento reportaron ser migrantes, y casi la mitad (49 por ciento) es proveniente 
+de Venezuela y vive en varios países de la región. La principal motivación para la 
+migración entre los encuestados es la reunificación familiar, mencionada por el 
+32,6 por ciento del total, seguida de la dificultad económica, con un 20,2 por ciento.
+Un desafío para el marco normativo y las políticas públicas es que el contacto entre 
+contratante y contratado puede trascender fronteras. Poco más de la mitad de los 
+encuestados (53 por ciento) informaron que sus contratantes provienen de otro 
+país, con una clara predominancia de aquellos ubicados en Estados Unidos o Canadá 
+(79 por ciento). Los contratantes de otras regiones fuera del continente americano 
+representan el 10,8 por ciento. En total, el 90 por ciento de los encuestados que 
+conocen la ubicación de sus contratantes trabajan para entidades económicas 
+fuera de la región. Estos hallazgos subrayan la necesidad de comprender mejor 
+las implicaciones del trabajo transfronterizo y transregional, que conecta a 
+trabajadores de América Latina y el Caribe con contratantes de regiones más 
+desarrolladas como Estados Unidos y Canadá.
+La situación de los trabajadores de plataformas digitales basadas en la web 
+varía dependiendo de si es su trabajo principal o secundario. Cerca de la mitad 
+93 por ciento
+reside en 
+zonas urbanas.
+33 años
+es la edad 
+mediana de 
+la fuerza de 
+trabajo.
+8 por ciento
+reportaron 
+ser 
+migrantes.
+53 por ciento
+de los 
+encuestados 
+informa 
+que sus 
+contratantes 
+proviene de 
+otro país.
+▶ Índice
+▶4
+▶ Índice
+de los encuestados (52 por ciento) indicó que el trabajo en plataformas no es su 
+principal medio de ingresos. Entre aquellos con otro empleo además del trabajo 
+en plataformas, casi la mitad (47,5 por ciento) se identifica como empleados 
+formales, lo que sugiere estabilidad y regularidad en sus ingresos. Este grupo 
+es seguido por profesionales independientes (31 por ciento), que pueden ser 
+formales o informales, y un 13 por ciento de trabajadores que se identifican como 
+informales. Esta diversidad de circunstancias laborales subraya la necesidad 
+de considerar diferentes aspectos al discutir condiciones de trabajo, salud y 
+seguridad social para estos trabajadores . Por su parte, entre los encuestados 
+que se dedican exclusivamente a trabajar en plataformas digitales basadas en la 
+web, solo el 17,7 por ciento de las respuestas indica que la mejor descripción de 
+su trabajo es ser empleados formales. Otro hallazgo importante de este grupo de 
+encuestados es que se les preguntó sobre su situación laboral hasta tres meses 
+antes de comenzar a trabajar en estas plataformas y, de estos, el 38,9 por ciento 
+se identificaba como trabajadores formales.
+El promedio de pago por hora de los trabajadores encuestados es de 5,48 dólares 
+de los Estados Unidos (USD), y la mediana es de USD 2,57. En general, estos niveles 
+de ingresos por hora están en línea con otros estudios a nivel global; sin embargo, 
+también hay datos de la Unión Europea que sugieren ingresos más altos, lo que 
+puede ser un atractivo para la contratación de trabajo transfronterizo 3. El estudio 
+también indica la posibilidad de diferencias respecto al salario mínimo nacional 
+entre los trabajadores de plataformas con otro empleo y aquellos que se dedican 
+exclusivamente al trabajo en plataformas. Para los trabajadores de plataformas 
+digitales basadas en la web que tienen otro trabajo, los datos indican la posibilidad 
+de que su ingreso mediano sea al menos el doble del salario mínimo nacional para 
+una selección de países analizados. Sin embargo, cuando se considera únicamente 
+el ingreso mediano proveniente del trabajo en plataformas digitales, la relación 
+con el salario mínimo nacional está más próxima a uno, indicando que estos 
+ingresos están más cerca del salario mínimo. Esto muestra la heterogeneidad en 
+la situación laboral y de ingresos, con aquellos dedicados exclusivamente a las 
+plataformas digitales posiblemente recibiendo ingresos más cercanos al sueldo 
+mínimo.
+Al consultar la frecuencia con la que trabajan durante una semana, se encontró 
+que una proporción significativa de trabajadores de plataformas encuestados 
+trabaja hasta cinco días a la semana, siguiendo un patrón laboral tradicional, con un  
+29 por ciento indicando que laboran este número de días. Sin embargo, alrededor de  
+16 por ciento trabaja seis días a la semana, y un 18 por ciento lo hace los siete 
+días. La naturaleza flexible de este trabajo puede llevar a jornadas largas y 
+nocturnas: en promedio, trabajan al menos diez horas diarias, seis días y medio al 
+mes, y casi 11 días de noche (desde las 22 hasta las 5 horas). Las largas jornadas 
+y el trabajo nocturno pueden representar un riesgo para la salud y seguridad 
+laboral. No obstante, entre el 30 y 40 por ciento de los trabajadores afirman que 
+su salud es «muy buena» y, entre el 45 y 55 por ciento la consideran «buena». 
+▶4
+52 por ciento
+de los 
+encuestados 
+indica que 
+el trabajo en 
+plataformas 
+no es su 
+principal 
+medio de 
+ingresos.
+17,7 por ciento
+de los 
+encuestados 
+que se dedica 
+exclusivamente 
+a trabajar en 
+plataformas 
+digitales basadas 
+en la web indica 
+que la mejor 
+descripción de 
+su trabajo es 
+ser empleados 
+formales.
+29 por ciento
+de los 
+encuestados 
+sigue un 
+patrón laboral 
+tradicional, 
+trabajando hasta 
+cinco días a la 
+semana.
+3 Por ejemplo, véase Berg et al . (2018) para datos globales y Brancati et al . (2020) para la Unión Europea.
+▶ Índice
+▶5
+▶ Índice
+Menos del 20 por ciento describe su salud como «regular», «mala» o «muy mala». 
+Además, al consultar a los encuestados sobre su estado de salud general, más del  
+90 por ciento cree que su trabajo en plataformas no afecta negativamente su 
+salud o seguridad.
+Aunque la percepción sobre la salud es buena, la encuesta también identifica 
+algunos riesgos que pueden afectar negativamente a estos trabajadores, entre 
+ellos, la inseguridad financiera (13 por ciento), problemas de conexión a internet 
+(11 por ciento) y falta de oportunidades de crecimiento (10 por ciento). Otros 
+riesgos incluyen las dificultades para planificar el trabajo (8 por ciento), falta de 
+reconocimiento profesional (8 por ciento), dificultad para equilibrar la vida laboral 
+y personal (7 por ciento), aislamiento (6 por ciento), largas horas de trabajo  
+(4 por ciento), falta de autonomía (4 por ciento), tareas complejas (4 por ciento) 
+y sobrecarga laboral (4 por ciento). Estos aspectos son importantes para la 
+formulación de políticas públicas que beneficien a estos trabajadores. Es necesario 
+disponer de información sobre la cobertura de salud y seguridad social, de la cual 
+alrededor del 40 por ciento de los trabajadores de plataformas encuestados están 
+excluidos. Cabe destacar que el acceso a la seguridad social y salud puede estar 
+asociado al empleo tradicional principal y no al trabajo en plataformas.
+Por lo tanto, el trabajo en plataformas digitales basadas en la web representa una 
+vía para la creación de empleo y la generación de ingresos en ALC; sin embargo, 
+también plantea desafíos importantes. Este informe es una contribución de la 
+Oficina Regional de la OIT para América Latina y el Caribe y proporciona una 
+base adicional de información que puede ser considerada en las discusiones 
+sobre el desarrollo de políticas, estrategias y marco normativo que promuevan 
+un trabajo decente para los trabajadores en esta modalidad laboral.
+▶5
+29 por ciento
+de los 
+encuestados 
+sigue un 
+patrón laboral 
+tradicional, 
+trabajando hasta 
+cinco días a la 
+semana.
+40 por ciento
+de los 
+trabajadores 
+de plataformas 
+encuestados 
+están excluídos 
+de la cobertura 
+de salud y 
+seguridad social.
+▶ Índice
+▶6
+▶ Índice
+1. Introducción
+Este estudio ofrece resultados específicos sobre el trabajo en plataformas digitales para tareas 
+basadas en la web en América Latina y el Caribe (ALC). El rápido e importante crecimiento de 
+esta modalidad de trabajo se debe, en parte, a los nuevos avances tecnológicos. No obstante, 
+fue especialmente notorio después de la crisis económica de 2008 y, más recientemente, 
+impulsado por la pandemia por el COVID-19. Aunque abre muchas nuevas oportunidades 
+laborales, también representa desafíos significativos en términos de derechos laborales.
+A pesar de la creciente relevancia de este tipo de trabajo, existen pocos estudios que 
+proporcionen datos detallados sobre su alcance y patrones en países en desarrollo, 
+especialmente en ALC. Esta falta de información dificulta la comprensión completa del 
+fenómeno y la formulación de políticas públicas adecuadas. El objetivo del reporte es 
+presentar información sobre varios aspectos de esta modalidad de trabajo, sin pretender 
+ofrecer soluciones definitivas, sino más bien invitando a una reflexión sobre un tema cada 
+vez más presente en las discusiones sobre los mercados laborales. El reporte se basó en una 
+encuesta con datos de 1 153 trabajadores de plataformas digitales en 21 países, recolectados 
+entre diciembre de 2023 y marzo de 2024.
+El informe proporciona una discusión general sobre el fenómeno del trabajo en plataformas 
+digitales basadas en la web y ofrece información actualizada sobre las condiciones laborales, 
+motivaciones, situación migratoria, ingreso, carga laboral, y la seguridad y salud en el 
+trabajo en estas plataformas digitales para ALC. Estos resultados son fundamentales para el 
+desarrollo de políticas públicas que garanticen un trabajo decente y protección social para 
+estos trabajadores. El reporte considera datos específicos para la región, que es parte del 
+fenómeno global de la economía en las plataformas digitales, pero que tiene características 
+y desafíos propios.
+El trabajo en plataformas digitales resulta del avance de las tecnologías de información 
+en las últimas décadas y es una de las manifestaciones más significativas de los cambios 
+inducidos por la digitalización del mundo del trabajo (Berg et al. 2018; OIT 2024a). Este avance 
+tecnológico se manifiesta en el desarrollo de millares de plataformas digitales, que son una 
+«interfaz digital» o un «proveedor de servicios en línea» que conectan la oferta y demanda 
+de trabajadores y servicios a través de aplicaciones de software  en una gran diversidad de 
+temas (OCDE, OIT y Eurostat 2023). 
+Desde su aparición en la década de los noventa, la economía de plataformas digitales ha 
+crecido rápidamente en tamaño e importancia, impulsada por desarrollos tecnológicos 
+como el acceso a teléfonos inteligentes, internet de alta velocidad, computación en la nube y 
+la creciente capacidad para extraer, explotar y rastrear datos (OIT 2024a). La expansión inicial 
+de la economía de plataformas en los países desarrollados se vincula con la crisis económica 
+iniciada en 2008, pero también con otros factores, como las oportunidades ofrecidas por 
+1.1.     El trabajo en las plataformas digitales: ¿qué es y cuando surgió?
+▶7
+▶ Índice
+las nuevas tecnologías, las dificultades para conciliar la vida privada con la vida profesional 
+y la existencia de jóvenes profesionales con alta calificación profesional que buscan formas 
+alternativas de empleo (Schmidt 2017; OIT 2022) 4. En ALC, el fenómeno de las plataformas 
+digitales es más reciente y su expansión se verifica alrededor de 2015, fecha que coincide 
+con el fin del ciclo de los altos precios de los commodities y, con más intensidad, a partir de 
+la pandemia por el COVID-19 (Madariaga et al. 2019; CEPAL 2021).
+No existe una terminología o definición acordada internacionalmente para la economía 
+de plataformas digitales. Se utilizan varios términos, incluyendo: «economía colaborativa», 
+«economía entre pares», «economía gig », «economía bajo demanda» o «economía de 
+plataformas». No obstante, este último término se utiliza frecuentemente, ya que enfatiza la 
+característica distintiva de estas actividades económicas: el hecho de que se intermedian o 
+se realizan a través de plataformas digitales (OIT 2024)5.
+4 El desarrollo de la economía de plataformas también puede entenderse como un episodio más del desarrollo de fórmulas de empleo más 
+flexibles (OIT 2022).
+5 Por ejemplo, el término gig economy es utilizado en el estudio del Banco Mundial (Datta et al . 2023). El término gig  es una palabra inglesa 
+que proviene de la industria de la música y puede entenderse como un trabajo puntual por el cual un trabajador es remunerado por una 
+tarea específica o por un período definido. 
+1.2.     ¿Cuáles son las modalidades de trabajo en las plataformas?
+Aunque caracterizada por una gran diversidad, la economía de plataformas puede describirse 
+como el ecosistema que abarca una amplia gama de actividades —desde globales, hasta 
+regionales y locales—, e incluye múltiples tipos de plataformas digitales, modelos de negocio 
+y sectores operativos. Sirven como conectores para la oferta y la demanda en diversos 
+dominios (OIT 2024a). En concreto, la plataforma digital de trabajo organiza y actúa como 
+intermediaria entre los trabajadores de la plataforma, quienes prestan los servicios, y los 
+clientes, quienes pagan. 
+Existen distintos tipos de trabajo en plataforma y maneras de clasificarlos. Este reporte 
+utiliza la clasificación de plataformas de trabajo digital utilizada en los reportes de Berg et 
+al. (2018) y OIT (2021), donde se las clasifica en dos grandes grupos, como se indica en el 
+gráfico 1.
+▶ El primer grupo intermedia y organiza los servicios laborales de los trabajadores 
+en línea, basados en la web (comúnmente conocidos como freelance  o crowdwork ). Los 
+trabajos van desde la programación informática sofisticada, el análisis de datos y el diseño 
+gráfico, hasta «microtareas» relativamente simples (Berg et al. 2018). Más recientemente, 
+con el avance de sistemas inteligencia artificial, se agregaron progresivamente tareas de 
+reconocimiento de imágenes, procesamiento de datos o de entrenamiento de sistemas de 
+inteligencia artificial 6. El trabajo en ese tipo de plataformas es de demanda global y son 
+ejecutados a través de plataformas en línea que ponen en contacto un número indefinido de 
+empresas e individuos a través de internet, posibilitando la potencial conexión entre clientes 
+y trabajadores a nivel global (De Stefano 2016). 
+▶8
+▶ Índice
+Plataformas digitales de trabajo comerciales
+Basadas en la web
+Freelance
+Upwork, SoyFreelancer, Workana
+Transporte
+Uber, InDrive, DiDi
+Crowdwork
+AMT, Clickworker
+Entregas
+Rappi, iFood
+Free Competition
+AMT, Clickworker
+Servicios para el hogar
+Taskrabbit
+Competitive programming
+AMT
+Microtareas locales
+Streetspotr
+Basadas en la ubicación
+Gráfico 1
+Tipos de plataformas digitales de trabajo
+6 Otros tipos de tareas que se llevan a cabo a través de estas plataformas son, por ejemplo, el reconocimiento de imágenes, procesamiento 
+de datos, transcripción de audio, investigación sobre bases de datos, realización de encuestas o diseño gráfico.
+7 Algunos ejemplos son las aplicaciones DiDi , InDrive, Uber o Lyft en el transporte; Glovo , Rappi o PedidosYa, en el reparto; Home Solution  
+en servicios de reparaciones; Zolvers  para tareas domésticas; o Wonolo , para tareas generales.
+8 Algunas maneras alternativas de nombrar y clasificar los tipos de trabajo en plataforma pueden encontrarse en los siguientes estudios: 
+Berg et al. (2018), OIT (2021; 2024a), Datta et al . (2023), Howcroft y Bergvall-Kåreborn (2019), Schmidt (2017) y Madariaga et al . (2019). 
+Tareas asignadas a individuos seleccionados.
+Tareas asignadas a un grupo de personas.
+Fuente: Adaptado de Berg et al . (2018) y OIT (2021). 
+▶ El segundo grupo está basado en la ubicación (por ejemplo, las plataformas de 
+transporte, entregas y acomodación) y las tareas son asignadas a la demanda «basada en la 
+ubicación». Se trata de actividades tradicionales como el transporte, el cuidado, el comercio 
+o el envío/reparto de bienes que son ofrecidos o asignados a través de plataformas móviles7. 
+Esta clasificación es una simplificación de un mundo de trabajo en línea cada vez más 
+complejo, pero que nos ayuda a delimitar el objeto de análisis8.
+Este reporte se enfoca en el primer grupo, los trabajadores de plataformas digitales basadas 
+en la web. Estas plataformas pueden ser clasificadas en cuatro grupos (Berg et al. 2018; OIT 
+2021): 
+1. Online freelance: Las plataformas de trabajo freelance  funcionan como un mercado que 
+permite a los clientes contratar personal para realizar servicios profesionales como 
+traducción, servicios financieros, servicios jurídicos, servicios de patentes, diseño y 
+análisis de datos. Estas plataformas ponen en contacto a clientes con trabajadores para 
+una tarea específica, a partir de una base de datos propia que consta de indicadores 
+como calificaciones y reseñas, y facilitan la relación cliente-trabajador en todas sus 
+▶9
+▶ Índice
+9 Las actividades van desde la programación y el análisis informático hasta el diseño, la traducción y los servicios jurídicos y contables.
+10 Esto incluye diseño de logotipos e identidad, diseño web y de aplicaciones, diseño publicitario y empresarial, moda, artes e ilustración, 
+diseño de empaques, diseño de libros y revistas, entre otros.
+dimensiones. La naturaleza de los servicios que se ofrecen en estas plataformas es 
+heterogénea, y abarcan una amplia gama de actividades 9 y habilidades. Esta estrategia 
+comercial permite a los trabajadores con múltiples habilidades acceder a varias tareas 
+en la misma plataforma y, a las empresas, acceder a una amplia gama de trabajadores 
+calificados en un único lugar. También, existen otros tipos de plataformas freelance, en las 
+que la plataforma pone en contacto al profesional freelance  directamente con el cliente 
+o la empresa para servicios específicos, en lugar de hacerlo a través de un mercado. Por 
+ejemplo, algunas plataformas de traducción mantienen una «red» de traductores freelance, 
+a quienes la plataforma les asigna tareas de traducción cuando un cliente presenta una 
+solicitud.
+2. Crowdwork: Son plataformas de trabajo que consisten en una sola tarea, estas tareas 
+se caracterizan como pequeñas, rápidas y, a menudo, repetitivas. Los ejemplos incluyen 
+capturar fotografías de paisajes urbanos con determinadas características (como medianas 
+o islas, líneas centrales, peatones y automóviles), etiquetado de fotografías, clasificación 
+de matices de las imágenes, sonidos y textos, recopilación y organización de datos, 
+añadir palabras clave para clasificar un producto para entrenar inteligencias artificiales y 
+aprendizaje automático, o tareas relacionadas con el acceso a contenido (como visitar sitios 
+web para aumentar su tráfico), o monitorear contenido sensible en redes sociales. Estas 
+plataformas ofrecen la infraestructura técnica para que los solicitantes publiquen tareas 
+para un gran número de posibles trabajadores de diferentes ubicaciones geográficas 
+y situaciones económicas — the crowd, o «el público», en inglés— para recibir y evaluar 
+los resultados de las tareas completadas y, para pagar a los trabajadores individuales 
+por los servicios prestados. A su vez, estas plataformas también brindan servicios e 
+infraestructura a los trabajadores, proporcionando un lugar en línea centralizado donde 
+puedan encontrar tareas de varios solicitantes, un método para enviar el trabajo realizado 
+y la infraestructura técnica y financiera para recibir el pago por el trabajo completado. 
+3. Free competition work : Tareas en las que los trabajadores deben terminar el trabajo en 
+su totalidad primero, luego se evalúa el trabajo y el «ganador» recibe un pago. Estas 
+plataformas basadas en concursos se especializan en organizar competencias de diseño 
+entre su grupo de talentos para ofrecer servicios y productos creativos o artísticos, 
+como diseño gráfico, a los clientes (por ejemplo, la plataforma 99designs). Los servicios10 
+ofrecidos son similares en todas las plataformas, que compiten a través de su estrategia 
+de precios y por atraer a los «mejores» o más destacados diseñadores mediante diversos 
+planes de suscripción y otros incentivos. Estas plataformas ofrecen diferentes planes de 
+precios para cada concurso y, a menudo, compiten entre sí en cuanto a precios y servicios, 
+como ocurre en los mercados tradicionales. Entre las ofertas, se incluye el acceso a los 
+mejores diseñadores, el acceso a un mayor número de participaciones en el concurso y 
+el soporte prioritario.
+▶10
+▶ Índice
+11 Los trabajadores que participan en programación competitiva también lo hacen para perfeccionar sus habilidades con la esperanza de 
+que, al ganar, puedan obtener trabajo en el futuro.
+12 El estudio de Banco Mundial (Datta et al. 2023) considera que los trabajadores marginales son aquellos trabajan en las plataformas menos 
+de diez horas a la semana y que generan menos de 25 por ciento de su ingreso por esta vía. Los trabajadores principales son aquellos 
+que trabajan más de 20 horas o generan más del 50 por ciento de sus ingresos trabajando más de 10 horas en la semana. Los casos 
+intermedios son considerados trabajadores secundarios. 
+4. Competitive programming: O programación competitiva, en español, incluye todas las 
+tareas de programación realizadas en un entorno de competencia, que normalmente no 
+tienen como objetivo principal generar ingresos, sino competir con otros programadores 
+para desarrollar la mejor solución a un problema específico 11. Las plataformas de 
+programación competitiva son espacios donde comunidades de desarrolladores y 
+programadores compiten para resolver problemas empresariales o de investigación 
+relacionados con inteligencia artificial, análisis de datos, desarrollo de software y otros 
+campos técnicos, dentro de un tiempo limitado. Los ganadores son seleccionados por los 
+clientes. Estas plataformas ofrecen una amplia gama de servicios a las empresas, desde 
+soluciones de software y análisis de datos hasta servicios de reclutamiento para contratar 
+programadores, desarrolladores o científicos de datos, aprovechando su comunidad 
+de talentos especializados. Además, algunas de estas plataformas se vinculan con 
+instituciones académicas y ofrecen sesiones de práctica y concursos en línea para que 
+estudiantes y jóvenes profesionales puedan mejorar sus habilidades de programación.
+1.3.     ¿Cuál es la dimensión del trabajo en plataformas digitales?
+La economía de plataformas es dinámica y está en expansión, abarcando usuarios tanto 
+del lado de la oferta, como de la demanda, desarrolladores de aplicaciones, empresas de 
+infraestructura digital y empresas de plataformas. Una medida indicativa de la magnitud de 
+esta expansión es la capitalización de mercado de las empresas de trabajo en plataformas 
+digitales. En 2018, 242 plataformas digitales tenían un valor de mercado combinado que 
+alcanzó los USD 7 100 millones. Además, el Platform Index, que rastrea el valor de mercado 
+de las principales 25 empresas de plataformas cotizadas, superó notablemente a los índices 
+de referencia como el NASDAQ, Dow Jones y DAX40 desde 2017 hasta 2021 (OIT 2024a).
+En este contexto, un reto inicial es conocer la cantidad de personas y plataformas que existen 
+en el mundo del trabajo digital. Existen varios intentos de cuantificación para países, grupos 
+de países e incluso a nivel global. Por ejemplo, el Banco Mundial (Datta et al. 2023) estima que 
+hay 412,4 millones de trabajadores de plataformas digitales. Sin embargo, solamente una 
+parte de estos trabajadores están activos y/o tienen plataformas como su trabajo principal. 
+El estudio del Banco Mundial, «Working without borders: The promise and peril of online gig 
+work» (2023), estima que existen 132,5 millones de trabajadores principales, 173,7 millones 
+de trabajadores secundarios y 106,2 millones de trabajadores marginales 12. Para América 
+Latina y el Caribe, la estimación es que existen 12 millones de trabajadores principales,  
+21 millones de trabajadores secundarios y 14 millones de trabajadores marginales, de una 
+fuerza de trabajo total de alrededor de 330 millones de personas. Esto significa que el 
+estimado de la proporción de trabajadores registrados en las plataformas digitales para 
+trabajos basados en la web varía entre el 4 por ciento (considerando los trabajadores 
+▶11
+▶ Índice
+13 Estimar de manera más precisa la cantidad de trabajadores en las economías de plataforma sigue siendo un desafío importante. La 
+dificultad de medición también se debe a que las definiciones estadísticas aún no están establecidas. Las mediciones anteriores para 
+países de América Latina son escasas e indican una proporción más baja de trabajadores en las plataformas digitales. Por ejemplo, 
+Madariaga et al . (2019) para Argentina, que consideran a las plataformas en línea y ubicación, estiman que el empleo en plataformas 
+representó aproximadamente el 1 por ciento de la ocupación total en 2018. Esta proporción es parecida con las estimadas por Fernández 
+y Benavides (2020) para Colombia (0,9 por ciento en febrero de 2020) y por García y Javier (2020) para República Dominicana (0,8 por 
+ciento en junio de 2020). Es posible que las estimaciones de estos estudios estén distantes de la realidad actual, teniendo en cuenta que 
+el trabajo en plataforma digital ha tenido un fuerte crecimiento en los últimos años. 
+14 Sin embargo, las pocas encuestas nacionales que preguntaron por el trabajo en plataformas digitales, como las conducidas en Brasil 
+y Chile, preguntan explícitamente sobre el trabajo en plataformas digitales de ubicación o teletrabajo, por lo tanto, no son números 
+específicos para trabajo en plataformas digitales basadas en la web.
+15 Este número de plataformas de trabajo en línea es mayor que el identificado en otros trabajos. Kässi et al. (2021) identifican 351 online 
+freelancing platforms , Por otro lado, en 2021, OIT identificó 283 plataformas de trabajo en línea y, para 2024, actualizó este número a 357 
+plataformas (OIT 2021; 2024a).
+16 El trabajo decente es el punto de convergencia de los cuatro objetivos estratégicos de la OIT: la promoción de los derechos en el trabajo, 
+el empleo, la protección social, y el diálogo social (OIT 1999).
+principales) y el 14 por ciento (considerando todos los trabajadores) de la fuerza de trabajo13. 
+OIT (2024) también menciona las dificultades para identificar la cantidad de trabajadores 
+involucrados en el trabajo de plataformas debido a la falta de una definición clara y métodos 
+de medición acordados. Asimismo, la OIT (2024) ofrece indicaciones para países de la región, 
+donde las encuestas nacionales estiman que el trabajo en plataformas representa el 1,7 por 
+ciento del empleo privado en Brasil y el 0,5 por ciento en Chile14.
+Contabilizar el número de plataformas también es un gran reto. Se estima que existen 
+un total de 545 plataformas de trabajo en línea a nivel mundial, con sede en 63 países, y 
+trabajadores y clientes de plataformas ubicados en 186 países (Datta et al. 2023)15. El estudio 
+indica que alrededor del 73 por ciento de las plataformas pueden considerarse regionales/
+locales y atraen el 29 por ciento de las visitas. Alrededor del 70 por ciento de las plataformas 
+regionales operan en América del Norte, Europa y Asia Central y, alrededor de 3 a 4 por 
+ciento, en países de ALC con 22 plataformas regionales. 
+Los números sobre los trabajadores y plataformas indican la importancia creciente de la 
+economía de plataformas en ALC y sus aspectos regionales. Por lo tanto, más estudios a nivel 
+regional para ALC son necesarios para entender la realidad y agregar elementos específicos 
+a la discusión más amplia sobre este tema.
+1.4.     ¿Cuáles son algunos de los desafíos?
+El crecimiento de la economía de plataformas ha abierto nuevos mercados para las empresas 
+y creado nuevos empleos y oportunidades de ingresos, con alta flexibilidad y bajas barreras 
+de acceso para los trabajadores. Al mismo tiempo, las plataformas digitales de trabajo 
+están transformando significativamente las formas en que se organiza y realiza el trabajo, 
+surgiendo nuevos desafíos para garantizar que los trabajadores en plataformas tengan 
+acceso a un trabajo decente (OIT 2024a) 16. El trabajo en plataformas digitales basadas en 
+la web es producto de los avances tecnológicos, pero también representa un desafío, dado 
+que este puede ser otra forma de actividad que, con frecuencia, no tiene las características 
+necesarias para ser considerada en las regulaciones laborales o en la cobertura de protección 
+social (Datta et al. 2023).
+Los gobiernos, organizaciones de empleadores y de trabajadores en escala global buscan 
+entender la economía de plataformas y pensar en cómo ajustar los marcos normativos 
+para incluir esta parte de la economía. Por ejemplo, en el ámbito de la OIT, la Declaración 
+▶12
+▶ Índice
+17 La Conferencia Internacional del Trabajo reúne a delegados de gobiernos, trabajadores y empleadores de los Estados Miembros de la OIT, 
+y dicta las políticas generales de la OIT. Se lleva a cabo en junio de cada año en Ginebra, Suiza.
+18 El Consejo de Administración de la Oficina Internacional del Trabajo (la secretaría de la Organización) es el órgano ejecutivo de la OIT. Se 
+reúne tres veces por año, en marzo, junio y noviembre. El Consejo toma decisiones sobre la política de la OIT, determina el cronograma de 
+la Conferencia Internacional del Trabajo, adopta el programa y presupuesto antes de su presentación a la Conferencia, y elige al director 
+general.
+19 Respecto a los puntos normativos, la regla consiste en que se examinen mediante el procedimiento de doble discusión, que discute el 
+tema por dos años consecutivos en la Conferencia Internacional del Trabajo. 
+20 Además, debe entenderse cómo se puede ajustar y adaptar el marco legislativo para la inclusión de trabajadores de plataformas en los 
+mecanismos de seguridad social que estén en línea; por ejemplo, con la Recomendación 198 sobre la Relación de Trabajo (OIT 2006) y la 
+Recomendación 205 sobre el empleo y el trabajo decente para la paz y la resiliencia (OIT 2017).
+del Centenario para el Futuro del Trabajo, adoptada por la Conferencia Internacional 
+del Trabajo17 en 2019, refleja esta necesidad e insta a los Estados Miembros de la OIT a 
+implementar «políticas y medidas que aseguren una protección adecuada de la privacidad 
+y los datos personales, y respondan a los desafíos y oportunidades en el mundo del trabajo 
+relacionados con la transformación digital del trabajo, incluido el trabajo en plataformas» (p. 
+7). 
+Dada la creciente importancia del tema, en marzo de 2023 se presentó al Consejo de 
+Administración de la OIT 18, un análisis de las brechas normativas que incluyó esta temática 
+en la agenda de la Conferencia Internacional del Trabajo en 2025 para la discusión de la 
+elaboración de normas con un procedimiento de doble discusión 19. Las dobles discusiones 
+relacionadas con la normativa en la Conferencia Internacional del Trabajo requieren un 
+informe que proporcione información actualizada sobre el trabajo en plataformas, así como 
+las regulaciones y prácticas relacionadas con él en todo el mundo. Por lo tanto, el informe 
+OIT (2024) se preparó para informar las discusiones sobre la cuestión normativa o con miras 
+a una discusión general sobre el trabajo decente en la economía de plataformas digitales.
+El informe OIT (2024a) presenta en detalle una gran cantidad de tópicos relacionados con el 
+trabajo decente en la economía de plataformas para la discusión normativa sobre el tema 
+en la Conferencia Internacional del Trabajo 2025. Como parte del informe, se incluyen temas 
+como las normas internacionales del trabajo, la libertad de asociación sindical, la igualdad de 
+oportunidades y trato, la seguridad y salud en el trabajo, la relación laboral, la remuneración, 
+el tiempo de trabajo, el sesgo de los algoritmos, la seguridad social, la resolución de disputas, 
+las leyes de competencia, el empleo formal, la inspección laboral, el estatus migratorio, entre 
+otros20. 
+En este contexto, el objetivo de este reporte no es discutir cuestiones normativas, pero 
+sí proveer información sobre América Latina y el Caribe para que pueda utilizarse en las 
+discusiones normativas considerando algunos elementos específicos para la región. El 
+trabajo de plataformas digitales está creciendo rápidamente, pero aún sabemos poco sobre 
+el tamaño, la escala y los patrones de esta forma de trabajo, especialmente en los países 
+en desarrollo (Datta et al . 2023). Este reporte es una contribución de la Oficina Regional 
+de la OIT para América Latina y el Caribe para tener más elementos específicos para las 
+discusiones complejas sobre este tema.
+▶13
+▶ Índice
+21 La tabla A.1 del Anexo 1 presenta una lista de referencias para los estudios sobre trabajadores en las plataformas de ubicación.
+22 El innovador informe de OIT (ver referencia a OIT 2018 en tabla A.1 del Anexo 1) presentó la caracterización del trabajo a través de 
+crowdwork  en todo el mundo a partir de encuestas para las cinco plataformas más grandes en 2017.
+23 El Anexo 2 presenta una discusión detallada de la metodología. Es un reto generar una muestra estratificada para una encuesta de 
+trabajadores de plataformas digitales, teniendo en cuenta que no sabemos exactamente cuántos son ni dónde están. Por lo tanto, los 
+resultados de esta encuesta deben interpretarse como un estudio de caso basado en los datos de trabajadores de plataformas digitales 
+que respondieron la encuesta.
+24 La encuesta de este estudio es una de las mayores implementadas de manera independiente sobre trabajo en plataformas digitales en 
+línea en la región, lo que permitió abordar todos los temas. Este reporte sigue la estrategia de Berg et al. (2018) y OIT (2021), que utilizaron 
+datos de encuestas independientes, pero para todo el mundo y, por lo tanto, con menor énfasis en la región. Por ejemplo, la encuesta de 
+Berg et al. (2018) incluyó 209 casos para América Latina y el Caribe. El Banco Mundial (Datta et al. 2023) incluyó datos para 4 058 casos en 
+tres plataformas ( Workana, 3 697; SoyFreelancer , 325; SheWorks , 36). Los datos para Workana provinen de «…an internal survey conducted 
+by Workana Latin America among its user base and confirmed through the survey conducted by the World Bank and Inter-American 
+Development Bank for this study» (p. 81).
+2. Los trabajadores de las plataformas digitales 
+en América Latina y el Caribe (ALC)
+Estudios sobre el trabajo en plataformas en América Latina y el Caribe se han centrado 
+principalmente en las plataformas de localización 21. Sin embargo, hay menos información 
+sobre las plataformas digitales para tareas basadas en la web ( freelance, crowdwork, free 
+competition, competitive programming ) que pueden desarrollarse independientemente de 
+la ubicación. 
+Los estudios sobre la categoría de trabajo en plataformas basadas en la web en América 
+Latina y el Caribe (ALC) son más limitados debido a la dificultad de ubicar a los trabajadores. 
+Algunos informes publicados por la OIT, el Banco Interamericano de Desarrollo (BID) y el Banco 
+Mundial (BM) brindan información sobre este tipo de trabajo en la región22. Por ejemplo, Berg 
+et al. (2018), OIT (2021) y Datta et al. (2023) utilizan encuestas globales que brindan resultados 
+para América Latina, sin embargo, los resultados para la región no son discutidos en detalle. 
+Por otro lado, Madariaga et al. (2019) presenta un análisis muy detallado, pero es enfocado al 
+caso de la Argentina y considera plataformas de ubicación y basadas en la web en el mismo 
+estudio. OIT (2024b) presenta algunos datos sobre trabajo a partir del domicilio basado en 
+datos de encuestas nacionales y presenta una discusión sobre trabajo en plataformas en 
+general para América Latina. El presente estudio complementa los anteriores enfocándose 
+solamente en América Latina y el Caribe y en el trabajo de plataforma basadas en la web, 
+para contribuir a avanzar más en la comprensión de la economía de plataformas en la región. 
+Por lo tanto, la Oficina Regional de la OIT para América Latina y el Caribe realizó un estudio de 
+caso basado en una encuesta en línea sobre trabajadores de plataformas digitales basadas 
+en la web para la región, realizada entre diciembre de 2023 y marzo de 2024 (véase el Anexo 
+2)23. La encuesta tuvo 1 153 respuestas elegibles de personas que hicieron algún trabajo 
+por intermediación de las plataformas digitales en 202324. La encuesta recolectó información 
+sobre el trabajo en 10 plataformas digitales: Amazon Mechanical Turk (MTurk), Clickworker , 
+Crowdflower, Freelancer, Prolific, SoyFreelancer, Upwork, Workana, 99designs y 99freelas.
+▶14
+▶ Índice
+Además, la encuesta abordó una variedad de aspectos que incluyen preguntas sobre 
+datos sociodemográficos, experiencia laboral en plataformas de trabajo en línea, historial 
+laboral previo, múltiples empleos, estado actual del empleo, ocupación, antigüedad 
+en el puesto, horas trabajadas, ingresos, trabajo transfronterizo, migración, así como 
+seguridad y salud laboral.  Los datos recopilados en este estudio proporcionan una visión 
+actualizada de las condiciones laborales, motivación e ingresos en la región, temas que han 
+sido ampliamente documentados. Además, ofrecen información relevante sobre migración, 
+relaciones laborales transfronterizas y seguridad y salud en el trabajo específicamente para 
+América Latina. Por lo tanto, este informe contribuye a mejorar la comprensión de estos 
+fenómenos en la región, proporcionando evidencia crucial para informar políticas públicas y 
+promover el trabajo decente en las plataformas digitales.
+2.1.     ¿En qué tipo de trabajo de plataforma digital trabajan?
+El reporte se centra en los trabajos en plataformas digitales basadas en la web, como se 
+indica en la sección 1.2. Esta categoría de trabajo se divide en distintos tipos de plataforma. 
+De los 1 153 trabajadores de plataformas digitales que respondieron la encuesta, la tabla 
+1 indica que el trabajo online freelance work es el más frecuente, con 880 trabajadores  
+(76 por ciento) haciendo este tipo de trabajo de plataformas. En segundo lugar, se encuentra 
+el crowdwork, con 677 trabajadores (59 por ciento), indicando que trabajan para este tipo de 
+plataformas colaborativas.
+En menor medida, se encuentran las plataformas digitales de competitive programming y de 
+free competition work. La programación competitiva cuenta con 53 trabajadores, apenas el  
+5 por ciento del total, mientras que el trabajo de competencia libre involucra a 186 trabajadores, 
+representando el 16 por ciento. 
+Nota: La tabla 1 está basada en datos de una pregunta que acepta múltiples respuestas. Algunos encuestados trabajan en más de un tipo 
+de plataforma, por ende, el total de la tabla (1 796) es superior al número de encuestados (1 153). 
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+Tabla 1
+Modalidades de plataforma
+Tipo de plataforma Núm. %
+Online freelance work 880 76
+Crowdwork 677 59
+Competitive programming 53 5
+Free competition work 186 16
+Total de los trabajadores encuestados 1 153 100
+▶15
+▶ Índice
+La tabla 2 muestra una variedad de distribuciones entre las diferentes actividades de 
+trabajo en las plataformas. Aquellas de freelance , crowdwork y free competition presentan 
+distribuciones de actividad similares, donde los servicios profesionales dominan con más de 
+20 por ciento, seguido por actividades creativas, de servicios de negocios, analítica de datos, 
+ventas y marketing.
+Para la modalidad competitive programming , la tecnología es la actividad dominante, 
+representando el 21,6 por ciento de los trabajadores. Esto contrasta con los otros tipos de 
+plataforma, donde los servicios profesionales lideran. En general, ventas y marketing tienen 
+una menor representación en los diferentes tipos de plataforma, con porcentajes alrededor 
+de 10 por ciento. Estos datos subrayan la diversidad de tareas realizadas y la existencia de 
+preferencias específicas en los diferentes tipos de plataformas25.
+25 El gráfico A.1 del Anexo 1 presenta la diversidad de ocupaciones según las respuestas de los encuestados.
+26 Las actividades de trabajo en plataforma aquí listadas pueden contener distintas tareas especializadas a la vez.
+Tabla 2
+Actividades de trabajo en las plataformas - Porcentaje
+Actividades26
+Freelance 
+work
+%
+Crowdwork  
+%
+Competitive 
+programming 
+%
+Free competition 
+work
+%
+Analítica de datos 13,5 14,8 15 12,5
+Creativa 17,7 17,1 16 18,8
+Relacionada a la 
+tecnología 13,2 11,8 21,6 14,6
+Servicios de negocios 16,1 14,1 16,9 15,1
+Servicios 
+Profesionales 22,1 23,5 13,2 19,8
+Varios y otros 7,6 9,4 8 8,5
+Ventas y marketing 9,8 9,3 9,4 10,7
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024). 
+Nota: La tabla 2 es basado en datos de una pregunta que acepta múltiples respuestas.
+▶16
+▶ Índice
+27 La tabla A.2 en el Anexo presenta la distribución de repuestas por país en la región. 
+2.2.     Cobertura geográfica
+La encuesta obtuvo respuestas de trabajadores de los 21 países indicados en el 
+gráfico 2, brindando la oportunidad de realizar un análisis más amplio sobre el 
+trabajo en plataformas digitales basadas en la web en la región 27. La distribución 
+de trabajadores encuestados por país muestra que Brasil tiene la mayor 
+representación en la encuesta, con un 35 por ciento del total; seguido por Chile, con un  
+19 por ciento; y México, con un 17 por ciento.
+Países como Colombia y Argentina también tienen una representación importante, con  
+10 por ciento y 8 por ciento, respectivamente. Venezuela y República Dominicana contribuyen 
+con un 2 por ciento cada uno. Finalmente, Ecuador, Perú, Costa Rica, Guatemala y Paraguay 
+contribuyen conjuntamente con un 5 por ciento de la muestra total.
+Gráfico 2
+Cobertura geográfica
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+35%
+8%
+1%
+19%
+10%
+17%
+2%
+La encuesta confirma los resultados de estudios anteriores (Berg et al. 2018; Datta et al. 2023) 
+que revelaron que el trabajo en plataformas en línea es un fenómeno mayormente urbano. 
+El 93 por ciento de los trabajadores encuestados indicaron que residen en zonas urbanas, 
+el 6 por ciento señaló que viven en zonas suburbanas o pequeños pueblos, y solo el 0,6 por 
+ciento indicó que reside en zonas rurales.
+▶17
+▶ Índice
+28 Estudios previos similares solo presentan la distribución de género binaria, lo que impide la comparación con este estudio, que es el 
+primero en incluir la distribución de identidad de género en investigaciones de esta naturaleza.
+29 Berg et al. (2018) indican una edad promedio de 28 años para los países en desarrollo y 35 años para países desarrollados. OIT (2024a) 
+menciona, a partir de datos de varios estudios, que la edad promedio de la fuerza laboral en la economía de plataforma es menor a la 
+de la fuerza laboral de toda la economía. Madariaga et al . (2019) indican que, para el caso de Argentina en el contexto de América Latina 
+para trabajadores de plataformas digitales en línea y de ubicación, la edad promedio de los trabajadores de plataforma encuestados era 
+37 años y 11 meses. Brancati et al . (2020) indican que, para el caso de Europa, la edad promedio de los trabajadores offline  en la encuesta 
+COLLEEM era de 42,6 en 2018, mientras que la edad promedio de los trabajadores de plataformas es más baja y en 2018 era de 33,9 años.
+2.3.     Aspectos demográficos de los trabajadores de plataforma
+La distribución de identidad de género entre los trabajadores en plataformas digitales 
+basadas en la web revela que el 54,8 por ciento se identifica como masculino y el 43,6 por 
+ciento como femenino, sumando un total del 98,4 por ciento entre ambos géneros (tabla 3). 
+Las demás identidades de género suman 1,3 por ciento y están representadas de la siguiente 
+manera: las personas que se identifican como no binarias que constituyen el 0,7 por ciento; 
+mujeres transgénero, 0,4 por ciento; y hombres transgénero, 0,2 por ciento28.
+Tabla 3
+Distribución de trabajadores e identidad de género (porcentajes)
+Identidad de género %
+Femenino 43,6
+Masculino 54,8
+Mujer transgénero 0,4
+Hombre transgénero 0,2
+Persona no binaria 0,7
+Prefiero no decirlo 0,4
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+El gráfico 3 muestra la distribución de la edad de los trabajadores de plataformas basadas 
+en la web. Se observa un punto máximo en la distribución de edad alrededor de los 27 
+años para las cuatro categorías de trabajo en plataforma. En general, la edad promedio 
+de los trabajadores en estas plataformas es de 35 años, con la mediana en 33 años. Estos 
+resultados están en línea con otros estudios (Berg et al . 2018; OIT 2024a; Madariaga et al . 
+2019; Brancati et al. 2020)29. Sin embargo, existen algunas variaciones entre las plataformas. 
+En competitive programming , la edad promedio es de 32 años, lo que la convierte en la 
+plataforma con la fuerza laboral más joven. Le siguen free competition work y online freelance 
+work con una edad promedio de 34 años; y crowdwork, con 35 años.
+Es importante destacar que, si bien la mayoría de los trabajadores tienen alrededor de 30 
+años, también se observa la presencia considerable de trabajadores con 40 y 50 años en la 
+distribución por edad. Esto sugiere una amplitud en el rango de edad de la fuerza laboral 
+involucrada en este tipo de trabajo.
+▶18
+▶ Índice
+30 En el contexto de la región, es importante considerar otros estudios para entender mejor las razones que llevan a estos trabajadores 
+relativamente más calificados a optar por realizar trabajo en plataformas digitales. OIT (2023) reporta que, en el año 2022, la proporción 
+de la fuerza laboral con educación avanzada fue del 22,1 por ciento para América Latina. 
+Plataforma Competitive 
+programming
+Crowdwork Free competition  
+work
+Online Freelance 
+work
+Gráfico 3
+Distribución por edades de los trabajadores, todas las plataformas
+Densidad
+Edad
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+El nivel educativo de los trabajadores en plataformas digitales, como se muestra en el gráfico 
+4, revela que un 51 por ciento tiene estudios universitarios completos. De ese porcentaje, 38 
+por ciento posee una licenciatura o un título equivalente, 7 por ciento posee una maestría 
+o un título equivalente, 5 por ciento posee un título asociado y, aquellos con un doctorado, 
+constituyen el 1 por ciento del total. Además, un 17 por ciento tiene estudios universitarios 
+incompletos. Los encuestados con un diploma de secundaria o su equivalente representan 
+el 13 por ciento, mientras que el 6 por ciento tiene un certificado técnico o equivalente. 
+Estos números están en línea con otros estudios que indican que el nivel de educación 
+formal es más alto para los trabajadores de plataformas basadas en la web, comparado 
+con la generalidad de los trabajadores (OIT 2021; OIT 2024a; Madariaga et al. 2019; Brancati 
+et al. 2020)30. Es importante mencionar que este grupo de trabajadores en plataformas 
+digitales basadas en la web tiene un nivel de calificación distinto al grupo de trabajadores 
+de plataformas digitales de trabajo por ubicación. Por ejemplo, datos de encuestas globales 
+reportan que la proporción de trabajadores con educación universitaria es de 25 por ciento 
+para todos los trabajadores en general y, para trabajadores de plataformas basadas en 
+ubicación, es de 21 por ciento. Por su parte, para trabajadores de plataformas basadas en 
+la web, la proporción asciende a 63 por ciento (OIT 2024a). Sin embargo, es importante 
+▶19
+▶ Índice
+mencionar que estos hallazgos difieren con los resultados del informe realizado con datos 
+globales del Banco Mundial (Datta et al . 2023), que sugiere que el 70 por ciento de los 
+trabajadores de plataformas digitales basadas en la web no poseen educación terciaria o 
+universitaria.
+Por lo tanto, para ALC, los resultados de este estudio sugieren que los trabajadores 
+encuestados de las plataformas digitales basadas en la web tienen un nivel educacional 
+considerablemente más alto que los trabajadores en general y que los trabajadores de 
+plataformas basadas en la ubicación. El nivel educativo más elevado entre los trabajadores de 
+plataformas basadas en la web probablemente puede explicarse, en parte, por la naturaleza 
+de las tareas disponibles, que requieren mayores calificaciones, y por el tipo de ocupación 
+que suelen desempeñar.
+Gráfico 4
+Nivel educativo de los trabajadores en plataformas (en porcentajes)
+Licenciatura o equivalente 38%
+17%
+13%
+11%
+7%
+6%
+5%
+1%
+1%
+1%
+1%
+Licenciatura incompleta
+Diploma de secundaria o su equivalente
+Título profesional o equivalente
+Maestría o equivalente
+Certificado técnico o equivalente
+Certificado técnico/título de 2 años
+Doctorado/Ph.D. o equivalente
+Secundaria incompleta
+Otro
+Menos que el colegio
+0 50 100 150 200 250 300 350 400 450
+América Latina y el Caribe - Total
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+La tabla 4 respalda la idea de que el trabajo en plataforma en línea es un fenómeno más 
+reciente para la región de ALC en comparación con los países desarrollados31. La mediana del 
+año de ingreso es 2020, lo que significa que 50 por ciento de los trabajadores ingresaron a 
+este tipo de trabajo a partir de 2020, aunque haya algunos casos de trabajadores que tuvieron 
+su primera experiencia alrededor del año 2000. Por lo tanto, la expansión de la economía 
+de plataformas en ALC se verifica alrededor de 2020, que coincide con la pandemia por el 
+COVID-19, en la que un número significativo de personas perdió su empleo y necesitaba una 
+alternativa de ingresos.
+31 En los países desarrollados, la expansión inicial de la economía de plataformas se vincula con la crisis económica iniciada en 2008 (Schmidt 
+2017; OIT 2022) mientras que, en ALC, el fenómeno de las plataformas digitales es más reciente y su expansión se verifica alrededor de 
+2015, que coincide con el fin del ciclo de los altos precios de las commodities  y, posteriormente, con la pandemia por el COVID-19 en 2020 
+(Madariaga et al ., 2019; CEPAL, 2021).
+▶20
+▶ Índice
+Tabla 4
+Antigüedad de los trabajadores, por tipo de plataforma
+Plataforma Primer año Mediana Media
+Competitive programming 2015 2020 2019
+Crowdwork 2000 2020 2019
+Free competition work 2000 2020 2019
+Online freelance work 1999 2020 2019
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+2.4.     Migración
+El trabajo en las plataformas digitales es una vía que ofrece la oportunidad para que los 
+migrantes accedan al mercado laboral. En las plataformas digitales de tareas basadas en la 
+web, el informe de OIT de 2021 utilizó datos globales y reveló que, de aquellos que trabajan 
+en plataformas freelance , el 17 por ciento son trabajadores migrantes. Su proporción es 
+mayor en los países desarrollados, con 38 por ciento, a diferencia de los países en desarrollo, 
+con 7 por ciento.
+Sin embargo, para ALC, los datos disponibles sobre migración son mayoritariamente para 
+plataformas de trabajo por ubicación. Por ejemplo, OIT (2021) muestra que en Argentina y 
+Chile los migrantes representan más del 70 por ciento de los trabajadores de las plataformas 
+de delivery. Madariaga et al. (2019) muestran que, en Argentina, los migrantes32 representan 
+el 83,6 por ciento de los prestadores en Rappi y 65,7 por ciento en Glovo33. 
+Este estudio aporta datos al conocimiento sobre los migrantes que trabajan específicamente 
+en plataformas digitales basadas en la web en ALC. De los trabajadores que contestaron la 
+encuesta, 89 trabajadores (alrededor de 8 por ciento de los encuestados) reportaron ser 
+migrantes34. El gráfico 5 muestra que la mayoría de las personas migrantes trabajadoras de 
+plataformas digitales provienen de Venezuela, representando el 49 por ciento del total de 
+migrantes. Otros países de nacimiento significativos incluyen Argentina y Colombia, con el 6 
+y 7 por ciento, respectivamente35. 
+32 Los datos indican que predominan las personas provenientes de Venezuela con 80 por ciento de los migrantes en los datos (Madariaga 
+et al. 2019). Para la Unión Europea, Brancati et al . (2020) indican que la proporción de encuestados nacidos en el extranjero es más del 
+doble entre los trabajadores de plataformas en comparación con la población general, con un porcentaje de hasta 16,3 por ciento para los 
+trabajadores marginales de plataformas.
+33 Desde 2020, Glovo cesó operaciones en Argentina, luego de ser adquirida por otra plataforma digital de envíos a domicilio basada en la 
+ubicación.
+34 La población migrante provenientes de Venezuela en América Latina y el Caribe representa alrededor de 1 por ciento de la población de 
+la región (R4V 2024).
+35 Otros países de nacimiento significativos incluyen Estados Unidos y Canadá, con 15 y 7 por ciento de los inmigrantes provenientes de otras 
+ubicaciones fuera de ALC, respectivamente.
+▶21
+▶ Índice
+Gráfico 5
+Migrantes
+¿Dónde están? ¿País de nacimiento?
+18%
+6%
+3%3%
+1%
+18%
+37%
+1%
+7%
+49%
+3%
+4%
+6%
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024)
+El gráfico 5 indica también dónde se encuentran los trabajadores de plataformas digitales 
+encuestados. La mayoría de los trabajadores de plataformas digitales migrantes se encuentra 
+en Chile, que alberga al 37 por ciento de ellos. México y Argentina siguen en representación, 
+con 18 por ciento de los migrantes cada uno. Otros países con presencia significativa de 
+trabajadores migrantes son Colombia con 6 por ciento, Ecuador con 4 por ciento, y Perú y 
+Brasil, ambos con 3 por ciento cada uno. Estos datos resaltan la concentración del lugar de 
+nacimiento de los migrantes y una relativa dispersión del lugar de trabajo de la población 
+migrante. 
+La principal motivación para la migración entre los encuestados es la reunificación familiar, 
+que representa el 32,6 por ciento del total (tabla 5). La dificultad económica es la segunda 
+motivación más común, con un 20,2 por ciento de los encuestados. La búsqueda de 
+trabajo también es una razón significativa, representando el 13,5 por ciento del total. Otras 
+motivaciones incluyen la migración por un contrato de trabajo, mencionada por el 11,2 por 
+ciento de los encuestados, y el deseo de ampliar los estudios u obtener una nueva carrera, 
+que es la razón para el 7,9 por ciento de los encuestados. 
+▶22
+▶ Índice
+Tabla 5
+¿Cuál es la principal motivación de su migración?
+Motivación de migración Total %
+Reunificación familiar 29 32,6
+Dificultad económica 18 20,2
+Búsqueda de trabajo 12 13,5
+Otro 13 14,6
+Por contrato de trabajo 10 11,2
+Ampliar los estudios/obtener una nueva carrera 7 7,9
+89 100
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+36 Este periodo coincide con un gran éxodo de personas de la República Bolivariana de Venezuela, tal como lo indican varios estudios (por 
+ejemplo, Peñaloza-Pacheco 2022).
+Finalmente, el gráfico 6 muestra que el flujo migratorio de los trabajadores que respondieron 
+a esta encuesta alcanzó su punto máximo entre 2017 y 201936.
+Gráfico 6
+Año de migración
+1970
+2000
+2005
+2012
+2018
+1981
+2001
+2006
+2014
+2019
+1990
+2002
+2008
+2015
+1994
+2003
+Argentina
+Belize
+Brasil
+Colombia
+Ecuador
+Estados Unidos o 
+Canadá
+Guatemala
+México
+Nicaragua
+Otro
+Paraguay
+Total
+Uruguay
+Venezuela
+2010
+2016
+2020
+2022
+1995
+2004
+2011
+2017
+2021
+2023
+Año de migración
+Total
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+▶23
+▶ Índice
+2.5.     ¿Para quiénes trabajan?
+El trabajo en plataformas digitales puede trascender las fronteras geográficas. Esto genera 
+aún más retos respecto a temas como la legislación laboral, seguridad social y competencia 
+económica. Para tener una idea inicial sobre esto en el trabajo de plataformas basadas en la web 
+en ALC, este estudio preguntó a los trabajadores si sabían en que país estaban sus contratantes, 
+en caso de que el contratante no estuviese en el mismo país de residencia. Un poco más de la 
+mitad de los encuestados (53 por ciento) informaron que sus contratantes son de otro país,  
+33 por ciento dijeron que sus contratantes están en el mismo país, y 14 por ciento no saben 
+la ubicación de sus contratantes. 
+La tabla 6 enseña la distribución de contratantes por país en el caso de que el 
+contratante sea de un país distinto al del trabajador. Los resultados indican una 
+clara predominancia de aquellos ubicados en Estados Unidos o Canadá, con un  
+79 por ciento del total. Los contratantes ubicados en países fuera de Latinoamérica 
+representan el 10,8 por ciento. Por lo tanto, de los encuestados que reportaron saber de 
+la ubicación de sus contratantes, 90 por ciento trabajan para contratantes de afuera de la 
+región. Dentro de Latinoamérica, Argentina y México tienen la mayor representación de 
+contratantes que trascienden fronteras geográficas. 
+Tabla 6
+¿En qué país está su contratante?
+País Total %
+Estados Unidos o Canadá 459 79
+Otro fuera de Latinoamérica 63 10,8
+Argentina 13 2,2
+México 12 2,1
+Otro de Latinoamérica 7 1,2
+Colombia 5 0,9
+Uruguay 3 0,5
+Perú 4 0,7
+Chile 5 0,9
+Brasil 3 0,5
+Ecuador 2 0,3
+Venezuela 1 0,2
+St. Vincent and the Grenadines 1 0,2 %
+St. Lucia 1 0,2 %
+El Salvador 1 0,2 %
+República Dominicana 1 0,2 %
+Total 581 100%
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+Nota: La prevalencia de contratantes de Estados Unidos o Canadá puede estar relacionada con el hecho de que la mayoría de las respuestas 
+son provenientes de plataformas basadas en el idioma inglés (por ejemplo, MTurk). 
+▶24
+▶ Índice
+3. Motivaciones y situación laboral
+La encuesta pregunta sobre las motivaciones y situación laboral de los trabajadores para 
+entender mejor el fenómeno de este tipo de plataformas digitales en la región. La mayoría 
+de los encuestados, 52 por ciento, indicó que las plataformas no son su principal medio 
+de ingresos (gráfico 7.a). Esto sugiere que, para poco más de la mitad de los participantes, 
+el trabajo en plataformas digitales basadas en la web constituye una fuente secundaria 
+de ingresos, posiblemente complementando otras formas de empleo más tradicionales o 
+estables. 
+La principal razón por la que los trabajadores optan por un trabajo en plataformas es la 
+preferencia por trabajar desde casa, con un 17,9 por ciento de las respuestas indicando esta 
+opción (gráfico 8). Además, destaca la necesidad de complementar el ingreso, que representa 
+el 16,6 por ciento de las respuestas de los encuestados. Un 15 por ciento de los trabajadores 
+valora la libertad que ofrece este tipo de trabajo, mientras que un 9,3 por ciento lo hace para 
+adquirir experiencia y mejorar sus habilidades. Es interesante notar que las razones más 
+importantes que explican el trabajo en plataformas son compatibles con la posibilidad de una 
+fuente secundaria de ingreso. Otros motivos importantes incluyen que el 7,3 por ciento de 
+los trabajadores indicó no haber podido encontrar otro trabajo, mientras que un 7 por ciento 
+mencionó que los ingresos son mejores en las plataformas. Además, un 5,2 por ciento señaló 
+la posibilidad de ganar dinero mientras asiste a la escuela, y un 4,5 por ciento mencionó las 
+responsabilidades familiares como un factor influyente.
+Los datos de la encuesta presentan la tenencia de otro trabajo remunerado entre los 
+encuestados. Un 57 por ciento indicó que tienen otro trabajo remunerado, mientras que 43 
+por ciento reportó no tenerlo (gráfico 7.b). Esto coincide con los hallazgos de que el trabajo 
+de plataformas en línea no es la principal fuente de ingresos para poco más de la mitad de los 
+trabajadores. A la vez, los datos sugieren que la mayoría de los encuestados se dedica a más 
+de un trabajo, lo que podría reflejar la necesidad de complementar ingresos o la búsqueda 
+de mejores oportunidades laborales. Los resultados concuerdan con la idea de que el trabajo 
+en las plataformas digitales complementa el ingreso (Berg et al. 2018; OIT 2021; Datta et al. 
+2023)37.
+37 El Banco Mundial (Datta et al . 2023) indica que el trabajo en las plataformas digitales es el trabajo secundario para 40 por ciento de los 
+trabajadores. Madariaga et al . (2019) indican, en un estudio sobre Argentina, que el trabajo en las plataformas digitales es secundario para 
+75 por ciento de los trabajadores de plataformas en línea como Freelancer  y Workana.
+▶25
+▶ Índice
+Gráfico 7
+Principal fuente de ingreso y otro trabajo remunerado
+a. ¿Principal fuente de ingreso?
+b. ¿ Tiene algún otro trabajo 
+remunerado además del trabajo en 
+plataforma?
+46%
+48%
+52%
+57%
+43%
+0%
+47% 10%
+48%
+49% 20%
+50%
+51%
+30%
+52%
+50%
+40%
+53%
+54% 60%
+Sí SíNo No
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+Gráfico 8
+Razón más importante por la que trabajas en plataformas
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+17,9%
+16,7%
+15,0%
+▶26
+▶ Índice
+El gráfico 9 presenta una visión detallada de la naturaleza de los trabajos remunerados 
+adicionales de los encuestados, clasificando sus roles y tipos de trabajo. Un 41,7 por ciento 
+de los encuestados se identifica como empleados formales con salarios mensuales o anuales, 
+lo que indica estabilidad y regularidad en sus ingresos. Adicionalmente, el 5,8 por ciento se 
+desempeñan como empleados formales ocasionales, recibiendo pagos por hora o por día. En 
+conjunto, el 47,5 por ciento de los encuestados que tienen trabajos adicionales fuera de las 
+plataformas se consideran trabajadores formales. Este grupo es seguido por los trabajadores 
+independientes, que representan el 31,2 por ciento del total, indicando una tendencia 
+considerable hacia el trabajo independiente y la flexibilidad laboral, este número está en 
+línea con la clasificación de situación en países en desarrollo como Sudáfrica, en el cual  
+30 por ciento de los trabajadores de plataforma indica que son contratistas independientes 
+(Datta et al. 2023)38. Un porcentaje menor de los encuestados (13 por ciento) se encuentra en 
+empleos informales, con un 9,0 por ciento trabajando por hora o por día, y un 4,4 por ciento 
+recibiendo un salario mensual o anual. Estas cifras destacan la diversidad de modalidades 
+de trabajo y la presencia significativa de trabajos tradicionales y no tradicionales entre los 
+encuestados, reflejando posiblemente la adaptación a las condiciones del mercado laboral y 
+la búsqueda de diferentes fuentes de ingresos. Es interesante notar que los que se consideran 
+propietarios o socios de empresas (con o sin empleados) suman 5,5 por ciento y sugiere que 
+una minoría de los trabajadores en este tipo de plataforma son emprendedores.
+38 Madariaga et al . (2019), en un estudio para Argentina con trabajadores de plataformas digitales en línea y basadas en la ubicación, 
+indican que prevalece la modalidad de trabajadores independientes en el marco de las plataformas. Esto sugiere que los trabajadores de 
+plataformas que no tienen otra ocupación formal cuentan con escasos derechos laborales.
+Gráfico 9
+¿Qué describe mejor su papel en su otro trabajo?
+41,7%
+31,2%
+Fuente: Elaboración propia con datos de la Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de 
+plataformas digitales (2023/2024).
+▶27
+▶ Índice
+El gráfico 9 proporciona información sobre la situación y los roles de los encuestados en 
+sus otros trabajos remunerados, además del trabajo en plataformas digitales basadas en 
+la web. No obstante, el gráfico 10 considera la situación de los encuestados que se dedican 
+exclusivamente a trabajar en plataformas digitales. El gráfico 10.a, con información sobre los 
+encuestados que trabajan exclusivamente con plataformas digitales, revela que solo el 14 por 
+ciento se identifica como empleados formales con ingreso mensual o anual, mientras que el 
+3,7 por ciento se considera empleados formales ocasionales, con pagos por hora o por día. 
+Por lo tanto, en conjunto, el 17,7 por ciento de los encuestados que trabajan exclusivamente 
+en las plataformas se considera trabajadores formales. Estos datos reflejan un porcentaje 
+significativamente más bajo de trabajadores que se identifica como formal entre aquellos 
+que se dedican exclusivamente al trabajo en plataformas digitales, en comparación con los 
+encuestados que tienen un trabajo adicional.
+Gráfico 10
+¿Qué describe mejor su papel en su trabajo de plataforma y trabajo anterior?
+a. ¿Qué describe mejor su papel en su trabajo de plataforma digital? 
+▶28
+▶ Índice
+b. ¿Qué describe mejor su situación 3 meses antes de su primera experiencia 
+con trabajo en las plataformas digitales?
+Nota: El gráfico 10.a) está basado en datos de una pregunta que acepta múltiples respuestas. El gráfico 10.b) está basado en datos de una 
+pregunta que acepta única respuesta. 
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+A este grupo de trabajadores, dedicados exclusivamente al trabajo en plataformas digitales, 
+también se les preguntó sobre su situación laboral hasta tres meses antes de comenzar a 
+trabajar en dichas plataformas. El gráfico 10.b revela que el 38,9 por ciento se identificaba 
+como trabajadores del sector formal: 33,9 por ciento de ellos como trabajadores con salario 
+mensual o anual, y 5 por ciento como empleados con salario por hora o por día. Por lo tanto, 
+para este grupo de trabajadores que se dedica exclusivamente al trabajo en plataformas 
+digitales, el 38,9 por ciento se identificaba como formal antes de trabajar en plataformas 
+digitales, pero este número se redujo al 17,7 por ciento después de empezar a trabajar en 
+ellas. Esto sugiere que una parte significativa de los trabajadores que migran hacia el trabajo 
+en plataformas digitales podría estar transitando hacia la informalidad 39. 
+39 Este patrón no es observado para los trabajadores encuestados que tienen otro trabajo como muestra el gráfico A.2 en el anexo y 
+refuerza la posibilidad de dicha transición.
+▶29
+▶ Índice
+El gráfico 11 indica que la mayoría de los encuestados expresa un interés significativo en 
+realizar más trabajo de plataformas, con un 94,7 por ciento indicando que les gustaría 
+aumentar su participación en este tipo de trabajo. Por otro lado, cuando se les preguntó 
+si les gustaría realizar más trabajo regular, el 55,3 por ciento respondió afirmativamente, 
+mientras que un 44,7 por ciento respondió negativamente. 
+Gráfico 11
+¿Le gustaría realizar más trabajo de plataformas?
+ ¿Le gustaría realizar más  
+trabajo tradicional?
+¿Le gustaría realizar más 
+trabajo de plataformas?
+55,3%
+44,7%
+94,7%
+5,3%
+0% 10% 20% 30% 40% 50% 60% 80%70% 90% 100%
+Sí No
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+El gráfico 12 indica que la razón más importante por la que los encuestados no trabajan más 
+en plataformas es la falta de suficiente trabajo disponible, con un 55 por ciento señalando 
+este motivo. Esto sugiere que la oferta de trabajadores en las plataformas supera la demanda 
+por estos trabajadores para el mercado en que compiten los encuestados, dejando a muchos 
+trabajadores con menos oportunidades de trabajo de las que desearían.
+Gráfico 12
+¿Cuál es la razón más importante por la que actualmente no trabajas 
+más en plataformas?
+0% 10% 20% 30% 40% 50% 60%
+El pago no es lo suficientemente bueno
+No hay suficiente trabajo disponible 55%
+No estoy calificado para el trabajo disponible 10%
+No tengo tiempo para hacer más trabajo 14%
+Otra 7%
+14%
+▶30
+▶ Índice
+Finalmente, el gráfico 13 indica que el trabajo en plataformas digitales basadas en la web 
+incluye trabajadores distintos a los de las plataformas de transporte o entrega. Solamente 
+3 por ciento de los trabajadores que contestaron la encuesta para este reporte indicaron 
+que en algún momento realizaron trabajos con aplicaciones de transporte o entrega. Estos 
+resultados destacan una clara tendencia hacia la baja participación en trabajos relacionados 
+con redes de transporte o entrega entre los encuestados. Esto sugiere que los trabajadores 
+de las plataformas digitales basadas en la web, en general, tienen un perfil distinto y no son 
+los mismos que trabajan en las plataformas digitales basadas en la ubicación.
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024) .
+Gráfico 13
+¿Alguno de sus otros trabajos se realiza en plataformas de red de transporte o 
+entrega? (ejemplos: Uber, Cabify, Lyft, DiDi, Yango, InDrive, Rappi, iFoods, Loggi, 
+Zipcar, etc.)
+0%
+25%
+50%
+75%
+100% 97%
+No Sí
+3%
+Red de transporte 
+o entrega
+▶31
+▶ Índice
+4. Ingresos y carga laboral
+4.1.     Ingresos
+Los datos de la encuesta proporcionan información sobre los ingresos de los trabajadores 
+de plataforma en la región en el gráfico 14. En promedio, un trabajador recibe USD 8,35 por 
+hora cuando solo se consideran las horas remuneradas. Además, la mediana de las horas 
+remuneradas es de USD 4, lo que representa el ingreso por hora de un trabajador «típico» 
+ubicado en el punto medio de la distribución del pago por hora.
+No obstante, estas cifras no incluyen el tiempo que los trabajadores dedican a la búsqueda 
+de empleo y a tareas administrativas relacionadas. Al considerar este tiempo como parte 
+del trabajo, se observa una diferencia significativa: el promedio del pago es de USD 5,48 y la 
+mediana es de USD 2,57, respectivamente40. El nivel de ingreso por hora de los encuestados 
+en la región está en línea con el promedio encontrado en otros estudios41.
+40 La razón entre la remuneración promedio por hora considerando hora remunerada y hora no remunerada, y la remuneración cuando se 
+considera solamente las horas remuneradas, es de alrededor de 66 por ciento. Esta proporción es similar a la reportada por Berg et al . 
+(2018) de 72 por ciento, basándose en una encuesta global. Esta razón, cuando utiliza la mediana de la remuneración, es de 64 por ciento.
+41 Un metaanálisis sobre el ingreso por hora en crowdwork  en el mundo, sugiere un pago promedio por hora de entre USD 4,35 y USD 6,38 en 
+valores actualizados para marzo de 2024 (los valores nominales originales para 2021 eran de USD 3,78 y USD 5,55 según Hornuf y Vrankar 
+[2022]). Berg et al, (2018) indican un ingreso por hora promedio de USD 5,65 en valores actualizados (los valores nominales originales para 
+2017 eran de USD 4,43). Brancati et al. (2020) indica un promedio de pago por hora para la Unión Europea más alto (en esta encuesta no 
+es posible diferenciar hora remunerada y no remunerada). Esto se evidencia cuando se compara con las horas remuneradas, entre USD 
+9,97 y USD 32,75, en valores actualizados para marzo de 2024 (los valores nominales originales para 2018 eran entre € 7 [USD 8,02] para 
+microtareas y € 23 [USD 26,34] para desarrollo de software). Los valores nominales se obtuvieron en: CPI Inflation Calculator . Los valores 
+de la tasa de cambio se obtuvieron en: Currency converter | ECB Data Portal . El diferencial de pago entre países puede influir en el trabajo 
+transfronterizo como se indica en la tabla 5.
+Gráfico 14
+Pago por hora para trabajos en plataformas  
+(hora remunerada y hora no remunerada) 
+Horas remuneradas (USD)
+Mediana (USD) Promedio (USD)
+4,0 8,35
+Horas remuneradas y  
+no remuneradas 
+Mediana (USD) Promedio (USD)
+2,57 5,48
+Nota: Datos recortados al 1 y 99 por ciento para reducir el impacto de los valores atípicos. El gráfico reporta estimaciones de densidad de 
+probabilidad. 
+kernel = gaussian, bandwith = 2.0000
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+▶32
+▶ Índice
+El gráfico 15 muestra la distribución del pago por hora considerando las horas remuneradas 
+y no remuneradas para cada tipo de trabajo en plataforma42. Las curvas de densidad relativas 
+a cada categoría son parecidas, indicando similitud en la distribución de pagos. Sin embargo, 
+hay diferencias en el promedio y mediana de pago indicado por las líneas punteadas. En la 
+categoría de online freelance , el promedio del pago por hora es de USD 6,58 y la mediana 
+es de USD 3,17. Por su parte, para el crowdwork , el promedio es de USD 4,78 por hora y la 
+mediana es de USD 2,50. En online free competition , el promedio es de USD 7,58 por hora y 
+la mediana es de USD 2,85. Finalmente, en competitive programming, el promedio es de USD 
+10,69 y la mediana es de USD 4,55, indicando disparidad en los pagos por hora entre las 
+diferentes categorías de trabajo en plataformas.
+Gráfico 15
+Pago por hora por tipo de trabajo en plataformas  
+(hora remunerada y hora no remunerada) 
+42 Respecto al pago de impuestos por el trabajo en plataformas digitales, preguntamos a los trabajadores si pagan impuestos sobre la renta 
+por el trabajo que realizan en estas plataformas. La mayoría respondió que no pagan impuestos. En Argentina, Brasil, Colombia y México, 
+estas proporciones son del 70, 75, 77 y 64 por ciento, respectivamente. Estas cifras podrían estar subestimadas, ya que los trabajadores 
+pueden haber reportado la condición de pagar impuestos por sus trabajos primarios y formales. De cualquier manera, los datos indican 
+que la gran mayoría de los encuestados no pagan impuestos sobre sus ingresos por trabajos en plataformas digitales.
+▶33
+▶ Índice
+Horas remuneradas y no remuneradas 
+Mediana (USD) Promedio (USD)
+Online freelance 3,17 6,58
+Crowdwork 2,50 4,78
+Free competition 2,85 7,58
+Competitive programming 4,55 10,69
+Nota: Datos recortados al 1 y 99 por ciento para reducir el impacto de los valores atípicos.
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+La encuesta reveló que el 57 por ciento de los participantes tiene otro trabajo remunerado; 
+por lo tanto, el trabajo en las plataformas digitales complementa el ingreso para este grupo 
+de encuestados (ver gráfico 7). La tabla 7 complementa el gráfico anterior y presenta los 
+ingresos por hora en los trabajos en plataformas y los trabajos fuera de estas. Para los 
+encuestados, el ingreso por hora en plataformas es menor que el ingreso por hora para 
+trabajos fuera de las plataformas. En promedio, un trabajador con dos empleos simultáneos 
+(uno en plataforma y otro afuera) recibe en promedio USD 10,50 por hora en el empleo 
+▶34
+▶ Índice
+tradicional y USD 5,72 en el empleo en las plataformas digitales. La tabla 7 indica que, en 
+todas las categorías de trabajo en plataformas, el promedio y mediana de ingreso por hora es 
+menor que el promedio y mediana de ingreso por hora en trabajos fuera de las plataformas. 
+En el caso de trabajadores freelance, la mediana del pago por hora afuera de las plataformas 
+es de USD 5,0; para trabajos de crowdwork , es de USD 4,30; para free competition work , es 
+de USD 4,23; y, para competitive programming, es de USD 5,87. Esto indica que, para el 57 
+por ciento de los encuestados que tienen otro trabajo además del trabajo en plataformas 
+digitales, el trabajo fuera de ellas es su empleo mejor remunerado43.
+43 La tabla A.4 del Anexo 1 presenta los datos de los pagos por hora para los encuestados que trabajan exclusivamente en plataformas 
+digitales.
+Tabla 7
+Pago por hora para trabajo de plataformas vs tradicional  
+(hora remunerada y hora no remunerada) 
+Trabajo tradicional (actual) Trabajo de plataforma 
+Mediana (USD) Promedio (USD) Mediana (USD) Promedio (USD)
+General 4,5 10,50 2,75 5,72
+Online Freelance 5,0 11,74 3,20 6,87
+Crowdwork 4,30 9,47 2,50 5,19
+Free Competition 4,23 14,50 2,64 5,58
+Competitive 
+Programming 5,87 11,28 4,39 7,83
+Nota: La tabla A.4 en el Anexo 1 presenta los detalles de los datos para los pagos por hora.
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024). 
+La tabla 8 presenta un análisis del pago promedio por hora según el nivel educativo de los 
+encuestados e indica una tasa de retorno a la educación positiva en el mercado laboral en 
+las plataformas digitales basadas en la web. Los resultados indican una clara tendencia al 
+aumento en el pago para un trabajador «típico», indicado por la mediana, a medida que 
+aumenta el nivel educativo. Los trabajadores con doctorado reciben el pago «típico» más 
+alto, con USD 7,06 USD por hora. Por otro lado, aquellos con niveles educativos más bajos, 
+como secundaria incompleta, reciben USD 1,16 USD por hora. Esta disparidad indica que hay 
+una correlación entre la educación y la remuneración también en el mercado laboral digital. 
+▶35
+▶ Índice
+Tabla 8
+Pago por hora y nivel de educación
+Educación
+Pago mediana por 
+educación  
+(USD)
+Pago promedio 
+por educación 
+(USD)
+Núm.
+Doctorado o equivalente 7,06 11,53 13
+Título profesional o equivalente 2,86 6,65 112
+Maestría o equivalente 2,65 4,90 81
+Licenciatura o equivalente 2,88 5,85 387
+Título asociado/título de 2 años 4,80 8,75 45
+Diploma de secundaria o ente 1,74 3,25 131
+Licenciatura incompleta 2,31 4,67 169
+Secundaria incompleta 1,16 2,30 12
+Certificado técnico o equivalente 2,75 6,56 59
+Menos que el colegio 1,04 2,79 6
+Otro 1,48 1,53 8
+Nota: Datos recortados al 1 y 99 por ciento para reducir el impacto de los valores atípicos. Los números deben interpretarse con más cuidado 
+en las categorías con un número de observaciones limitado. 
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+Los resultados de la encuesta indican que la mayoría de los trabajadores de plataformas 
+digitales tienen otro trabajo fuera de las plataformas; por lo tanto, es importante explorar 
+más en detalle sus ingresos totales. El gráfico 16 muestra el ingreso total por hora, que 
+incluye los ingresos obtenidos tanto por el trabajo realizado en las plataformas digitales en 
+línea como por el trabajo fuera de ellas.
+▶36
+▶ Índice
+Gráfico 16
+Ingreso total por hora (plataforma y tradicional)
+0 50 14010 10060 15020 11070 16030 12080 17040 13090
+.02
+.04
+.06
+.08
+0
+Densidad
+Pago por hora
+kernel = gaussian, bandwith = 4.0000
+Plataforma Cuartil 1 
+(USD)
+Cuartil 2 
+(USD)
+Cuartil 3 
+(USD)
+Promedio 
+(USD)
+Todas 1,82 3,89 7,51 7,81
+Online Freelance work 1,75 3,70 7,48 7,11
+Crowdwork 2,31 4,55 17,50 10,28
+Free Competition work 1,67 3,58 8,23 9,38
+Competitive programming 2,12 4,38 8,76 9,10
+Nota: Datos recortados al 1 y 99 por ciento para reducir el impacto de los valores atípicos.
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+En general, el ingreso mediano por hora para los trabajadores en plataformas digitales es de 
+USD 3,89, lo cual es considerablemente mayor que el ingreso mediano de USD 2,57 para las 
+actividades realizadas exclusivamente en plataformas. La tabla del gráfico 16 revela que el 
+ingreso mediano total por hora varía entre las diferentes categorías de trabajo en plataformas 
+digitales. Los ingresos laborales medianos totales para los trabajadores de crowdwork  
+y freelance en línea, categorías que representan casi el 90 por ciento de los trabajadores 
+encuestados, son de USD 3,70 y USD 4,38 por hora, respectivamente. El ingreso mediano 
+total por hora para los trabajadores que se dedican a la programación competitiva es de USD 
+3,58 y, para aquellos en trabajos de free competition, el promedio es de USD 4,55 por hora.
+▶37
+▶ Índice
+Estos datos destacan la importancia de considerar tanto los ingresos obtenidos en plataformas 
+digitales como aquellos provenientes de trabajos fuera de las plataformas para entender el 
+panorama completo de los ingresos de estos trabajadores. El gráfico 17 muestra la razón 
+entre el ingreso de los trabajadores de plataformas digitales encuestados y el salario mínimo 
+nacional para los cinco países de América Latina con más encuestados (ver tabla A.2 del Anexo 
+1), indicando cuántas veces el ingreso de los trabajadores de plataformas encuestados supera 
+el salario mínimo nacional 44. Considerando el pago para el trabajador «típico» utilizando la 
+mediana, para todos los países, el ingreso de este grupo de trabajadores es más alto que el 
+salario mínimo nacional. Para la mayoría de los países, el ingreso total de estos trabajadores 
+encuestados es de por lo menos dos veces más que el salario mínimo. Argentina presenta las 
+razones más altas, con los trabajadores de plataformas encuestados ganando más de cuatro 
+veces el salario mínimo nacional45. Estos datos proporcionan una perspectiva valiosa sobre la 
+relación entre los ingresos de los trabajadores de plataformas digitales y los salarios mínimos 
+nacionales, destacando que el ingreso total para los encuestados es significativamente mayor 
+que el salario mínimo nacional de los países de la región.
+44 Datos de los cinco países con más observaciones en la encuesta. Sin embargo, presentamos una versión del mismo gráfico en el anexo 
+en el gráfico A.3.a del Anexo 1 para todos los países de la encuesta para los cuales tenemos datos estandarizados de salario mínimo 
+y verificamos un patrón similar. Es necesario interpretar los datos para los países con pocas observaciones en la encuesta con mucha 
+cautela en el contexto de un estudio de casos con pocas observaciones.
+45 Los datos de Argentina se deben interpretar con cuidado debido a la inflación observada en el periodo de la encuesta y que puede tener 
+impacto en la medición del salario relativo. 
+Gráfico 17
+Razón de ingreso para trabajadores de plataformas/salario mínimo nacional 
+(todos los empleos)
+Promedio Mediana
+Razón de ingreso
+Nota: La fuente de los datos de salario mínimo por hora es SIALC – OIT (enero de 2024), basada en datos oficiales nacionales. Para el cálculo 
+del salario mínimo por hora se utilizan las 208 horas estándar de trabajo mensual. Los cálculos pueden variar si se aplican reglas específicas 
+de cada país sobre la cantidad de horas trabajadas.
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+8,51
+4,24
+5,65
+2,82
+3,14
+1,56
+4,90
+2,44
+4,28
+2,13
+▶38
+▶ Índice
+Sin embargo, la situación cambia un poco cuando se considera solamente el ingreso mediano 
+proveniente del trabajo en plataformas digitales. El gráfico 18 muestra la razón entre el 
+ingreso mediano de estos trabajadores encuestados y el salario mínimo nacional para los 
+mismos cinco países de América Latina 46. Para todos los países, la razón entre el ingreso 
+de los trabajadores de plataformas digitales encuestados y el salario mínimo nacional está 
+más próxima a uno, en comparación con el gráfico 17 anterior, indicando que el ingreso que 
+obtienen de las plataformas es más próximo al salario mínimo47. Para Chile, por ejemplo, los 
+ingresos por hora obtenidos solamente en las plataformas digitales están muy cerca del 
+salario mínimo. Estos datos revelan una vez más la naturaleza de ingreso complementario para 
+los encuestados. El hecho de que el ingreso por hora obtenido en el trabajo de plataformas 
+digitales en línea está más cerca del salario mínimo nacional concuerda con Berg et al. (2018), 
+que indican que una proporción significativa de los trabajadores ganan menos que el salario 
+mínimo local en su empleo en plataformas digitales48.
+46 Presentamos una versión del mismo gráfico en el Anexo 1, en el gráfico A.3.b, para todos los países de la encuesta para los cuales tenemos 
+datos estandarizados de salario mínimo y verificamos un patrón similar. Sin embargo, es necesario interpretar los datos para los países 
+con pocas observaciones en la encuesta con mucha cautela en el contexto de un estudio de casos con pocas observaciones.
+47 El gráfico A.3.c del Anexo 1 presenta los resultados solamente para los encuestados que trabajan exclusivamente en plataformas digitales 
+y estos son similares.
+48 El gráfico A.3 del Anexo 1 presenta casos en los que el salario de los encuestados puede ser incluso más bajo que el salario mínimo 
+nacional.
+Gráfico 18
+Razón de ingreso para trabajadores de plataformas/salario mínimo nacional 
+(ingreso del trabajo en plataformas digitales basadas en la web para todos  
+los encuestados)
+Promedio Mediana
+Razón de ingreso
+Nota: La fuente de los datos de salario mínimo por hora es SIALC - OIT (enero de 2024), basada en datos oficiales nacionales. Para el cálculo 
+del salario mínimo por hora se utilizan las 208 horas estándar de trabajo mensual. Los cálculos pueden variar si se aplican reglas específicas 
+de cada país sobre la cantidad de horas trabajadas. 
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+▶39
+▶ Índice
+4.2.     Carga laboral
+El gráfico 19 muestra la frecuencia con la que las personas trabajan en plataformas durante 
+una semana. Los resultados indican que el número de días trabajados con mayor frecuencia 
+entre los encuestados es de cinco a la semana, con un 29 por ciento de ellos indicando 
+que laboran esta cantidad de días. Un porcentaje significativo, alrededor del 16 por ciento, 
+trabaja durante seis días a la semana, mientras que el 18 por ciento trabaja los siete días de 
+la semana. Por lo tanto, un 36 por ciento trabaja por lo menos seis días a la semana. Estos 
+resultados indican que una proporción significativa de los trabajadores en plataformas está 
+siguiendo una frecuencia de días de trabajo cercana a la semana laboral tradicional, sin 
+embargo, un porcentaje significativo indicó trabajar más de seis días a la semana49.
+49 El porcentaje de trabajadores que reportan un número atípico de muchos días trabajados (por lo menos 6 días a la semana) en la semana 
+es un poco menor que el reportado por OIT (2018) que indica que 52 por ciento de los encuestados trabajan regularmente por lo menos 
+seis días a la semana y 36 por ciento trabajan siete días a la semana.
+Gráfico 19
+¿Cuántos días a la semana sueles trabajar en plataformas?
+0%
+10%
+20%
+30%
+2 4 6
+Porcentaje
+Días a la semana
+3,8%
+6,2%
+9,7% 9,9%
+29,2%
+16,2%
+17,9%
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+▶40
+▶ Índice
+La flexibilidad y naturaleza de este tipo de trabajo hace que muchos trabajadores de 
+plataformas laboren muchos días a la semana, pero también muchas horas y en horarios 
+nocturnos. El gráfico 20 muestra que la jornada laboral es de por lo menos 10 horas al día, 
+aproximadamente 6,5 días en el mes. La cola larga de la distribución indica que hay personas 
+que trabajan más de diez horas al día, casi todos los días.
+Gráfico 20
+¿Cuántos días del mes pasado trabajó en plataforma durante más de  
+10 horas en un día?
+0
+0,05
+Promedio: 6,5
+0,10
+0,15
+0,20
+Porcentaje
+0 10 20
+Días trabajando más de 10 horas
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024)
+Además, el gráfico 21 muestra la cantidad de días por mes en que los trabajadores en 
+plataformas trabajan de noche, entre las 22 y las 5 horas. El promedio y mediana de días 
+trabajados de noche para todas las plataformas es de casi 11 días al mes. Se puede observar 
+que la distribución de días trabajados en la noche es bimodal con un punto máximo entre 
+cuatro y cinco días, y uno menor, de alrededor de 16 días. Esto sugiere que hay dos perfiles de 
+trabajadores de plataformas: uno que realiza pocas jornadas nocturnas (cuatro a seis por mes) 
+y otro que trabaja predominantemente de noche, realizando de 15 a 20 jornadas nocturnas 
+por mes en promedio. El trabajo de plataforma en la noche puede estar relacionado, en 
+parte, por otros compromisos laborales de los trabajadores, considerando que el 57 por 
+ciento de los trabajadores encuestados indicaron que tienen otro trabajo además del trabajo 
+de plataformas50.
+50 Este patrón de trabajo nocturno también es reportado en OIT (2018), en que 43 por ciento de los trabajadores reportaron trabajar de 
+noche.
+▶41
+▶ Índice
+Gráfico 21
+¿Cuántos días al mes trabaja de noche, durante al menos dos horas?
+Gráfico 22
+¿Cómo encajan sus horas de trabajo en plataformas con su familia  
+u otros compromisos?
+0
+0,02
+0,04
+0,06
+DistribuciónDistribución
+0 5 10 15 20 25
+Días trabajando de noche
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+Promedio: 10,8
+El gráfico 22 complementa esta información al mostrar que el 44,7 por ciento de los 
+trabajadores considera que sus horas de trabajo en plataformas encajan «muy bien» con 
+sus responsabilidades familiares u otros compromisos, mientras que el 46,4 por ciento las 
+califican como «bien». No obstante, aproximadamente el 9 por ciento de los encuestados 
+afirma que sus horarios laborales en plataformas no se ajustan bien a sus compromisos 
+familiares u otras responsabilidades.
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024)
+0%
+10%
+20%
+30%
+40%
+50%
+Para nada bien No muy bien Bien Muy bien
+1,3%
+7,6%
+46,4% 44,7%
+▶42
+▶ Índice
+5. Salud y seguridad social
+Este estudio busca contribuir a un mejor entendimiento sobre los aspectos de seguridad y 
+salud en los trabajos en plataformas digitales basadas en la web en ALC, en un contexto de 
+información limitada, especialmente para este tipo de trabajo digital donde es más difícil 
+ubicar a los trabajadores. Sin embargo, es crucial contar con más datos, ya que los aspectos 
+de salud y seguridad en el trabajo varían en las diferentes formas de trabajo en plataformas 
+digitales. Esto es respaldado por Nilsen y Kongsvik (2023), quienes comparan el trabajo en 
+plataformas digitales de ubicación (delivery) con el de plataformas digitales basadas en la web 
+(Tecnologías de la Información y la Comunicación [TIC]), y por EU-OSHA (2023b) que indica 
+diferentes estrategias de distintos tipos de plataformas de trabajo digital para prevenir y 
+manejar riegos. 
+El gráfico 23 muestra la distribución de la percepción sobre la calidad de la salud entre los 
+trabajadores de plataformas encuestados para cada tipo de trabajo en plataformas digitales 
+(competitive programming, crowdwork, free competition y online freelance ). En general, entre  
+30 y 40 por ciento afirma que su salud es «muy buena» y entre el 45 y 55 por ciento que 
+su salud es «buena». Por otro lado, un número menor que 20 por ciento indica tener salud 
+«regular», «mala» o «muy mala». En general, los trabajadores de plataformas informan 
+mayoritariamente una salud «buena» o «muy buena» en todos los tipos de trabajo en 
+plataforma considerados en este estudio51.
+Gráfico 23
+¿Cómo es tu salud en general?
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024)
+51 Competitive programming  presenta el mayor porcentaje de respuestas «muy buena» (37,7 por ciento). La clase de crowdwork  presenta el 
+mayor porcentaje de respuestas «buena» (51,8 por ciento). En comparación, la clase con el porcentaje más alto de respuestas «mala» o 
+«muy mala» es la del trabajo online freelance , que representa el 3,7 por ciento del total de respuestas.
+Competitive programming Crowdwork Free competition Online freelance
+Porcentaje
+Salud
+0%
+10%
+20%
+30%
+40%
+50%
+Muy buena Buena Regular Mala Muy mala
+▶43
+▶ Índice
+Los trabajadores encuestados también tienen una percepción positiva respecto a cómo 
+el trabajo en plataformas afecta la salud de los trabajadores. El gráfico 24 muestra que, 
+independientemente de la categoría de trabajo de plataforma basadas en la web, más del 90 
+por ciento de los trabajadores considera que sus actividades laborales actuales no afectan 
+su salud o seguridad.
+Gráfico 24
+¿Siente que el trabajo en plataformas afecta negativamente  
+su seguridad o salud?
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024)
+La percepción de los encuestados sobre su salud y el impacto del trabajo en plataformas 
+digitales basadas en la web en esta puede estar relacionado con el hecho de que el promedio 
+de edad de estos trabajadores es de alrededor de 30 años y esto puede influenciar la 
+percepción de corto plazo de estos trabajadores52.
+Las cuestiones sobre la calidad de la salud, especialmente para un grupo de personas 
+de 30 años en su mayoría, deben ser complementadas por cuestiones sobre los riesgos 
+que enfrentan los trabajadores, los cuales pueden estar relacionados con temas de salud. 
+Los resultados del gráfico 25 muestran los riesgos más importantes que enfrentan los 
+trabajadores de plataformas. Los mayores riesgos incluyen oportunidades insuficientes o 
+inseguridad financiera (13 por ciento), problemas de conexión a internet (11 por ciento) y falta 
+de oportunidades de crecimiento (10 por ciento)53. Otros riesgos notables son las dificultades 
+para planificar el trabajo (8 por ciento), falta de reconocimiento profesional (8 por ciento), 
+dificultad para equilibrar la vida laboral y personal (7 por ciento), aislamiento por falta de 
+interacción (6 por ciento), y largas horas de trabajo (4 por ciento), falta de autonomía en 
+decisiones (4 por ciento), tareas complejas (4 por ciento) y sobrecarga laboral (4 por ciento).
+52 La tabla A.5 del Anexo 1 indica que el 4,6 por ciento de los trabajadores entre 20 y 30 años considera que sus actividades laborales 
+actuales afectan su salud o seguridad, mientras que el 11,4 por ciento de los encuestados entre 40 y 50 años lo considera así.
+53 Madariaga et al . (2019) indica que 48,4 por ciento de los trabajadores encuestados que realizan trabajo de plataformas en línea en 
+Freelancer y Workana  consideran que los ingresos que reciben por su trabajo en plataforma son «nada o poco estable». Este resultado 
+puede contribuir y estar relacionado con el riesgo de inseguridad financiera indicado en este estudio.
+Competitive programming Crowdwork Free competition Online freelance
+0%
+25%
+50%
+75%
+SíNo
+88,9%
+93,5% 91,3% 93,5%
+6,5%8,7%11,1% 6,5%
+▶44
+▶ Índice
+Gráfico 25
+¿Riesgos más importantes que enfrentan los trabajadores de plataformas?
+Oportunidades insuficientes/inseguridad 
+financiera
+Problemas de conexión a Internet
+Dificultad en planificar el trabajo
+Falta de oportunidades de crecimiento
+Sin reconocimiento profesional
+Tareas monótonas - Horario inflexible
+Dificultad para equilibrar vida laboral y personal 
+en casa
+Aislamiento por falta de interacción
+Sin autonomía en decisiones
+Largas horas de trabajo
+Tareas demasiado complejas
+Sobrecarga
+Vigilancia digital
+Falta de espacio tranquilo y privado para trabajar
+Plazos ajustados
+Presión de los clientes
+Ninguno de los anteriores
+Discriminación
+Problemas en la dinámica interpersonal
+Otro
+Violencia y acoso
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+0% 2% 4% 6% 8% 10% 12% 14%
+12,7%
+10,5%
+8,1%
+9,6%
+8,3%
+6,7%
+6,9%
+5,5%
+3,8%
+4,4%
+3,6%
+3,5%
+3,4%
+3%
+2,7%
+2,6%
+1,8%
+1,1%
+0,8%
+0,5%
+0,4%
+▶45
+▶ Índice
+Por un lado, los encuestados indican tener una buena salud y una aparente falta de impacto 
+negativo del trabajo en plataformas en su salud. Sin embargo, señalan varios riesgos en su 
+actividad profesional que podrían estar relacionados con impactos negativos en su salud. Los 
+riesgos asociados con el trabajo en plataformas digitales basadas en la web son un aspecto 
+crucial para la política pública, dado que existen desafíos para implementar soluciones 
+institucionales que aborden estos riesgos. Por ejemplo, las instituciones de inspección laboral 
+enfrentan dificultades para llegar a estos trabajadores (EU-OSHA 2022; 2023a; 2023b).
+También, es importante conocer más detalles sobre la cobertura de los sistemas de seguridad 
+social de estos trabajadores. Estudios anteriores ofrecen algunos datos sobre aspectos 
+de seguridad social en la economía de plataformas. Por ejemplo, Berg et al . (2018) indican 
+que, en una encuesta global, el 40 por ciento de los trabajadores de plataforma no están 
+cubiertos por la seguridad social. Además, indica que la cobertura de la protección social 
+tiene una relación inversa con la dependencia de los encuestados del trabajo de plataforma. 
+Los trabajadores que tienen el trabajo de plataforma como su principal trabajo poseen una 
+mayor probabilidad de no ser cubiertos por la seguridad social. Los datos de este estudio 
+específico para América Latina presentan datos similares en el gráfico 26 y sugieren que 
+más del 40 por ciento de los trabajadores de plataforma no son cubiertos por la seguridad 
+social54. Un aspecto relevante es que los datos también sugieren una relación inversa entre 
+la dependencia de los trabajadores respecto al trabajo en plataformas y su acceso a la 
+seguridad social. Entre aquellos encuestados que tienen otro empleo además del trabajo en 
+plataformas, el 42 por ciento informa no estar cubierto por la seguridad social, porcentaje que 
+aumenta al 53 por ciento para quienes dependen exclusivamente del trabajo en plataformas.
+54 Este patrón es observado para los cuatro tipos de trabajo en plataforma como muestra el gráfico A.4 del Anexo 1.
+Gráfico 26
+¿A cuál de los siguientes programas de seguridad social tiene acceso usted  
+o algún miembro de su hogar?
+Ninguno de los anteriores
+Compensación/seguro 
+lesiones
+Seguro desempleo
+Prestaciones por 
+discapacidad
+Otro
+0% 10% 20% 30% 40% 50% 60%
+42,2%
+22,6%
+19,6%
+15,1%
+19,1%
+18,7%
+18%
+10,7%
+8,9%
+6,2%
+5,3%
+6,2%
+7,5%
+46,7%
+53,2%
+Todos los encuestados Exclusivos de plataformaPlataforma y otro trabajo
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+▶46
+▶ Índice
+Respecto a cobertura de salud, 59 por ciento de los encuestados indicaron que tienen 
+cobertura de salud. El gráfico 27 muestra las fuentes de contribución para seguro médico 
+o cobertura similar para todos los trabajadores encuestados, trabajadores exclusivos de 
+plataforma y aquellos que tienen dos tipos de trabajo. La mayor parte de la cobertura médica 
+es costeada por los propios individuos para todas las situaciones laborales (alrededor del 40 
+por ciento de las respuestas). Cerca del 20 por ciento de encuestados indica que la cobertura 
+es costeada por contribuciones de la unidad económica que los contrata. En general, las 
+contribuciones de cónyuges o parejas o su empleador son mencionadas por alrededor del 
+15 por ciento de las respuestas y, del gobierno, en un 14 por ciento de las respuestas. Sin 
+embargo, hay una clara diferencia para los encuestados con otro trabajo, quienes indicaron 
+que, en un 25 por ciento de los casos, la unidad económica que los contrata cubre los costos, 
+mientras que, para el grupo de encuestados que trabajan exclusivamente en plataformas, 
+este porcentaje es de menos de 10 por ciento55. Los resultados sobre la contribución a algún 
+beneficio de jubilación o similar siguen un patrón similar a la cobertura de seguro médico 
+(gráfico A.5)56. Es importante notar que el acceso a los programas sociales, salud y jubilación 
+pueden estar asociados al empleo tradicional de estos trabajadores y no al trabajo digital.
+55 Los aportes a la cobertura para los sistemas de seguridad social pueden estar relacionados con la condición del trabajador en su trabajo 
+de tradicional y/o de plataformas (gráficos 10 y A.2). Estudios futuros en esta línea son necesarios para avanzar con el entendimiento sobre 
+este tema.
+56 La similitud del patrón de las respuestas puede indicar que los encuestados relacionen la cobertura de salud y jubilación con tener alguna 
+cobertura formal debido al empleo de alguien en el hogar. Sin embargo, respecto a la contribución pensional, solamente 31 por ciento de 
+los encuestados indicaron que contribuyen.
+Gráfico 27
+Pensando en tu seguro médico o cobertura similar,  
+¿quién aporta a esta cobertura?
+Yo mismo
+Mi empleador
+Mi cónyugue/pareja
+El empleador de mi 
+cónyugue/pareja
+Gobierno
+Otras
+0% 5% 10% 15% 20% 25% 30% 35% 40% 45%
+39,6%
+25,2%
+20,6%
+9,7%
+10,5%
+12,1%
+16%
+6,1%
+6,4%
+7%
+14,3%
+4,3%
+14%
+6,8%
+13,2%
+12,8%
+40,1%
+41,2%
+Todos los encuestados Exclusivos de plataformaPlataforma y otro trabajo
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+▶47
+▶ Índice
+6. Consideraciones finales
+El presente estudio de caso sobre el trabajo en plataformas digitales basadas en la 
+web, basado en una encuesta en América Latina y el Caribe, proporciona información 
+sobre esta modalidad laboral que ha experimentado un notable crecimiento en 
+los últimos años. Impulsado por avances tecnológicos y eventos globales como la 
+crisis económica de 2008 y la pandemia por el COVID-19, el trabajo en plataformas 
+digitales ha emergido como una alternativa significativa en el mercado laboral. 
+Sin embargo, este crecimiento trae consigo tanto oportunidades como desafíos 
+que requieren datos para una mejor comprensión del fenómeno y la formulación 
+de soluciones y políticas públicas adecuadas. La información, recopilada entre 
+diciembre de 2023 y marzo de 2024, ofrece una base importante para mejorar el 
+entendimiento de esta modalidad de trabajo en la región, desde la perspectiva de 
+los propios trabajadores.
+El trabajo en plataformas digitales basadas en la web ofrece alta flexibilidad y 
+bajas barreras de acceso, lo cual ha permitido a una amplia gama de trabajadores, 
+incluidas personas migrantes, acceder a nuevas oportunidades. El 8 por ciento 
+de los encuestados afirmaron ser migrantes y el trabajo en las plataformas digitales 
+puede ser una vía que les ofrece la oportunidad de acceder al mercado laboral. 
+La encuesta también revela que los trabajadores en plataformas digitales basadas 
+en la web tienden a tener un nivel educativo más alto en comparación a todos 
+los trabajadores en general y a los trabajadores de plataformas basadas en la 
+ubicación. Asimismo, los datos revelan que la mayoría de los encuestados se 
+dedica a más de un empleo. La naturaleza de los otros trabajos remunerados se 
+puede categorizar desde el trabajo autónomo, hasta empleos formales con salario 
+mensual o anual. 
+El estudio también proporciona información valiosa sobre las condiciones laborales, 
+la motivación y los ingresos de los trabajadores en plataformas digitales basadas en 
+la web. Los datos indican que los niveles de ingresos por hora están en línea con 
+otros estudios en la región y a nivel global. Para los trabajadores de plataformas 
+digitales que tienen otro trabajo, los datos muestran que el ingreso mediano 
+de los encuestados es al menos el doble del salario mínimo nacional en todos 
+los países analizados. Sin embargo, cuando se considera únicamente el ingreso 
+mediano proveniente del trabajo en plataformas digitales, la relación con el 
+salario mínimo nacional se aproxima a uno, indicando que los ingresos de los 
+encuestados están más cerca del salario mínimo. Esto resalta la heterogeneidad 
+en la situación laboral y de ingresos, con aquellos encuestados dedicados 
+exclusivamente a las plataformas digitales recibiendo ingresos más cercanos al 
+▶48
+▶ Índice
+salario mínimo. 
+Aunque los ingresos medianos de los trabajadores encuestados superan el 
+salario mínimo nacional en la mayoría de los países de la región, enfrentan una 
+serie de situaciones y desafíos, a pesar de la percepción positiva que tienen sobre 
+su salud. Entre estas situaciones se encuentran la inseguridad financiera, la falta de 
+oportunidades de crecimiento, problemas de conexión a internet y la carencia de 
+reconocimiento profesional. Esto destaca la necesidad de desarrollar estrategias 
+y políticas que aborden estas situaciones y promuevan mejores condiciones de 
+trabajo para estas personas. 
+Este informe es una contribución que aporta una base adicional de información 
+que puede ser considerada en las discusiones sobre el desarrollo de políticas, 
+estrategias y marco normativo que promuevan un trabajo decente, digno y una 
+protección adecuada para los trabajadores en esta modalidad laboral. Sin embargo, 
+es crucial continuar investigando y generando datos adicionales para comprender 
+plenamente el fenómeno de las plataformas digitales y sus implicaciones para el 
+mercado laboral y el desarrollo económico de los países de América Latina y el 
+▶49
+▶ Índice
+7. Referencias
+Berg, Janine, Marianne Furrer, Ellie Harmon, Uma Rani, y M. Six Silberman. 2018. « Digital 
+labour platforms and the future of work: Towards decent work in the online world». OIT.
+Brancati, Maria Cesira, Annarosa Pesole, y Enrique Fernández-Macías. 2020. « New evidence 
+on platform workers in Europe. Results from the second COLLEEM survey, EUR 29958 EN ». 
+Publications Office of the European Union.
+Comisión Económica para América Latina y el Caribe. (CEPAL). 2021. « Estudio Económico de 
+América Latina y el Caribe».
+Datta, Namita, Chen Rong, Sunamika Singh, Clara Stinshoff, Nadina Iacob, Natnael Simachew 
+Nigatu, Mpumelelo Nxumalo, y Luka Klimaviciute. 2023. «Working without borders: The promise 
+and peril of online gig work». Banco Mundial.
+De Stefano, Valerio. 2016. «The Rise of the “Just-in-Time Workforce”: On-demand Work, Crowdwork 
+and Labour Protection in the “Gig-Economy”». ILO Conditions of Work and Employment Series 
+Working Paper 71.
+EU-OSHA. (European Agency for Safety and Health at Work). (2022). «Digital platform work 
+and occupational safety and health: overview of regulation, policies, practices and research». 
+⸻. 2023a. «Workforce diversity and digital labour platforms: implications for occupational 
+safety and health», Discussion Paper, European Agency for Safety and Health at Work. 
+⸻. 2023b. « Preventing and managing health and safety risks in digital platform work: 
+examples of initiatives, practices and tools».
+Fernández, Cristina, y Juan Benavides. 2020. « Las plataformas digitales, la productividad y el 
+empleo en Colombia». Fedesarrollo.
+García, José Alexander, y Katherine Javier. 2020. «Los trabajadores de plataformas digitales en 
+la República Dominicana: caracterización y opciones para su protección social». CEPAL.
+Hornuf, Lars, y Daniel Vrankar. 2022. «Hourly Wages in Crowdworking: A Meta-Analysis». 
+Business & Information Systems Engineering 64: 553–573. 
+Howcroft, Debra, y Birgitta Bergvall-Kåreborn. 2019. «A typology of crowdwork platforms». 
+Work, Employment and Society 33 (1): 21-38.
+Kässi, Otto, Vili Lehdonvirta, y Fabian Stephany. 2021. «How Many Online Workers Are There 
+in the World?» Open Research Europe 1: 53.
+Madariaga, Javier, César Buenadicha, Erika Molina, y Christoph Ernst. 2019. « Economía de 
+plataformas y empleo ¿Cómo es trabajar para una app en Argentina?». CIPECC, BID y OIT.
+Nilsen, Marie, y Trond Kongsvik. 2023. «Health, safety, and well-being in platform-mediated 
+work–a job demands and resources perspective». Safety Science 163: 106130.
+▶50
+▶ Índice
+OECD, OIT, y Eurostat. 2023. «Handbook on Measuring Digital Platform Employment and Work».
+O’Higgins, Niall, y Luis Pinedo Caro. 2022. «Crowdwork for young people: Risks and opportunities». 
+OIT.
+OIT. (Organización Internacional del Trabajo). 1999. « Report of the Director-General: Decent 
+Work. In 87th Session, June».
+⸻. 2006. «R198 - Recomendación sobre la relación de trabajo, 2006 (núm. 198)».
+⸻. 2017. «R205 - Recomendación sobre el empleo y el trabajo decente para la paz y la 
+resiliencia, 2017 (núm. 205)».
+⸻. 2019. «Declaración del centenario de la OIT para el Futuro del Trabajo».
+⸻. 2021. «World Employment and Social Outlook 2021: The role of digital labour platforms 
+in transforming the world of work».
+⸻. 2022. «Decent Work in the Platform Economy: Reference Document for the Meeting of 
+Experts on Decent Work in the Platform Economy ».
+⸻. 2023. «Impulsando la productividad en América Latina».
+⸻. 2024a. «Realizing decent work in the platform economy».
+⸻. 2024b. «Nuevas formas de trabajo e informalidad en América Latina y el Caribe».
+Peñaloza-Pacheco, Leonardo. 2022. «Living with the neighbors: the effect of Venezuelan 
+forced migration on the labor market in Colombia». Journal for Labour Market Research  56 
+(1): 14.
+R4V. 2024. «Refugiados y migrantes de Venezuela – evolución de las cifras en los 17 países R4V». 
+3 de junio de 2024.
+Schmidt, Florian A. 2017. «Digital labour markets in the platform economy: Mapping the political 
+challenges of crowd work and gig work». Friedrich Ebert Stiftung.
+▶51
+▶ Índice
+8. Anexo
+Anexo 1
+Tabla A.1: Estudios sobre plataformas digitales basadas en la ubicación
+Estudio País Tipo de Plataforma Digital
+López Mourelo, Elva. 2020. «Work on Delivery 
+Platforms in Argentina: Analysis and Policy 
+Recommendations». OIT .
+Argentina Ubicación y reparto
+Mugnolo, Juan Pablo, Lucas Caparrós, y 
+Martín Golcman. 2020. «Análisis jurídico 
+sobre las relaciones de trabajo en los servicios 
+de entrega de productos a domicilio a través 
+de plataformas digitales en Argentina». OIT .
+Argentina Ubicación y reparto
+Micha, Ariela, Cecilia Poggi y Francisca 
+Pereyra. 2022. «Gender inequalities in the 
+platform economy: The cases of delivery and 
+private passenger transport services in the 
+Buenos Aires Metropolitan Area». Agence 
+Française de Développement.
+Argentina Ubicación y transporte
+Resende, Guilherme Mendes, y Ricardo 
+Carvalho de Andrade Lima. 2018. «Evaluating 
+the competition effects of Uber’s entry into 
+the Brazilian incumbent cab-hailing app 
+segment». Journal of Competition Law & 
+Economics 14 (4): 608-637 .
+Brasil Ubicación y transporte
+Salazar Solís, Luis Adrián, Luis Mesalles 
+Jorba y Marcela Piedra Durán. 2022. 
+«Estudio de Plataformas Digitales en Costa 
+Rica». Cámara de Comercio de Costa Rica.
+Costa Rica Ubicación y reparto
+Asenjo Cruz, Antonio, y Alberto Coddou Mc 
+Manus. 2021. «Economía de plataformas y 
+transformaciones en el mundo del trabajo: 
+el caso de los repartidores en Santiago de 
+Chile». OIT .
+Chile Ubicación y reparto
+▶52
+▶ Índice
+Estudio País Tipo de Plataforma Digital
+Morris Keller, Pablo. 2021. «Trabajo en 
+plataformas en Chile y desafíos para 
+el trabajo decente: situación actual y 
+lineamientos para diseñar políticas públicas 
+dirigidas al sector». CEPAL.
+Chile Ubicación y reparto
+OIT . 2021. «El trabajo en las plataformas 
+digitales de reparto en Colombia: Análisis y 
+recomendaciones de política».
+Colombia Ubicación, transporte y 
+reparto
+Fernández, Cristina, y Juan Benavides. 2020. 
+«Las plataformas digitales, la productividad y 
+el empleo en Colombia». Fedesarrollo.
+Colombia Ubicación y reparto
+OIT . 2022. «El trabajo en las plataformas 
+digitales de reparto y transporte en Ecuador: 
+Diagnóstico y recomendaciones para 
+promover el trabajo decente y la protección 
+social».
+Ecuador Ubicación y reparto
+Fairwork. 2023. «Fairwork Ecuador Ratings 
+2022/23: Platform Hybrid Models». Ecuador En línea y ubicación
+García, José Alexander, y Katherine Javier. 
+2020. «Los trabajadores de plataformas 
+digitales en la República Dominicana: 
+caracterización y opciones para su protección 
+social». CEPAL.
+República 
+Dominicana Ubicación y reparto
+Azuara, Oliver, Mauricio Mondragón, Catalina 
+Rodríguez Tapia y Fermín Vivanco. 2022a. 
+«Plataformas digitales en México: ¿cuál es 
+el perfil y preferencias de aseguramiento de 
+los conductores y repartidores usuarios de 
+DiDi y DiDi Food? ». Banco Interamericano de 
+Desarrollo.
+México Ubicación y reparto
+Fairwork. 2023. «Fairwork Mexico Ratings 
+2023: Labour Standards in the Platform 
+Economy».
+México En línea y ubicación
+OECD. (Organización para la Cooperación 
+y el Desarrollo Económico). 2018. «Digital 
+Platforms and Competition in Mexico».
+México Ubicación y reparto
+▶53
+▶ Índice
+Estudio País Tipo de Plataforma Digital
+Azuara, Oliver, Mauricio Mondragón, Catalina 
+Rodríguez Tapia y Fermín Vivanco. 2022b. 
+«Generar ingresos a través de las aplicaciones 
+de movilidad: ¿Qué preferencias muestran 
+los usuarios conductores de Beat?». Banco 
+Interamericano de Desarrollo.
+Chile, Colombia, 
+México y Perú Ubicación y reparto
+Azuara Herrera, Oliver, Lukas Keller, y 
+Stephanie González. 2019. «¿Quiénes son 
+los conductores que utilizan las plataformas 
+de transporte en América Latina?: Perfil de 
+los conductores de Uber en Brasil, Chile, 
+Colombia y México». Banco Interamericano 
+de Desarrollo.
+Brasil, Chile, 
+Colombia y 
+México
+Ubicación y reparto
+Dinegro Martínez, Alejandra. 2021. «Delivery 
+y empleo: diagnóstico sobre las condiciones 
+laborales en las plataformas digitales. Caso 
+Lima-Perú». Fundación Friedrich Ebert-Perú.
+Perú Ubicación y reparto
+Dinegro Martínez, Alejandra. 2022. «El 
+desafío de regular las plataformas en Perú. 
+Iniciativas legislativas para regular el empleo 
+en las plataformas digitales de taxi y delivery 
+2000-2021». Fundación Friedrich Ebert-Perú.
+Perú Ubicación y reparto
+Arroyo, Liliana, Marc Payola, y Erika Molina. 
+2021. «Platform Economy and COVID-19: 
+A Look at Delivery, Home Care, and Online 
+Freelance Work in Spain and Latin America». 
+Banco Interamericano de Desarrollo.
+Región de 
+América Latina En línea y ubicación
+▶54
+▶ Índice
+Gráfico A.1: Ocupación en el trabajo digital
+Transcripción
+Traducción
+Análisis
+Otra
+Escritura
+Diseño
+Música y audio
+Video y animación
+Servicio al cliente
+Edición
+Soporte administrativo
+Márketing digital
+Gestión de bases de datos
+Ciencia de datos
+Diversión y estilo de vida
+Desarrollo web
+Gráficos
+Ventas y márketing generales
+Desarrollo de sitios web
+Programación general
+Otras actividades creativas
+Desarrollo de software
+Administración de redes y IT
+Consultoría general
+Consulta de trabajo
+Negocio
+Contabilidad
+Desarrollo móvil
+Legales
+Arquitectura
+0.0% 2,5% 5,0% 7,5% 9,0%
+3,8%
+2,7%
+2,7%
+2,6%
+3,1%
+3,1%
+3,1%
+3,12%
+2,9%
+2,9%
+3,5%
+3,7%
+2,5%
+2,4%
+2,2%
+2,2%
+1,5%
+1,4%
+1,9%
+1,7%
+1,7%
+0,4%
+0,4%
+7,4%
+4,1%
+5,7%
+5,4%
+4,7%
+9,1%
+8,1%
+▶55
+▶ Índice
+Tabla A.2: Número de trabajadores de plataformas digitales por país - Porcentajes
+País en el que vives Trabajadores %
+Argentina 92 8,2
+Bolivia 4 0,4
+Brasil 396 35,4
+Chile 216 19,3
+Colombia 108 9,7
+Ecuador 16 1,4
+Paraguay 6 0,5
+Perú 12 1,1
+Uruguay 4 0,4
+Venezuela 27 2,4
+Costa Rica 11 1
+El Salvador 2 0,2
+Guatemala 9 0,8
+Honduras 3 0,3
+Panamá 1 0,1
+México 188 16,8
+Dominica 1 0,1
+República Dominicana 17 1,5
+Haití 1 0,1
+Jamaica 4 0,4
+St. Vincent and the Grenadines 1 0,1
+▶56
+▶ Índice
+Gráfico A.2: ¿Qué describe mejor su papel en su trabajo de plataforma y trabajo 
+anterior?(trabajadores con trabajo tradicional)
+a. ¿Qué describe mejor su situación 3 meses antes de su primera experiencia con trabajo en las 
+plataformas digitales? (trabajadores con trabajo tradicional)
+Empleado(a) asalariado formal que  
+trabaja por un salario mensual/anual
+Profesional independiente/contratista 
+independiente/autónomo
+Estudiante a tiempo completo
+Desempleado(a) - En busca de trabajo
+Empleado(a) eventual formal que trabaja 
+por un salario por hora/día
+Empleado(a) asalariado informal que 
+trabaja por un salario mensual/anual
+Empleado(a) eventual informal que 
+trabaja por un salario por hora/día
+Propietario(a) o socio de una empresa 
+(sin empleados remunerados)
+Estudiante a tiempo parcial
+Desempleado(a) - No en busca activa  
+de trabajo
+Propietario(a) o socio de una empresa 
+(con empleados remunerados)
+Amo(a) de casa
+Otra
+Trabajador no remunerado en  
+una empresa familiar
+Jubilado(a)
+42,7%
+16,2%
+11,1%
+7%
+5,4%
+4,2%
+3,7%
+2,4%
+2,1%
+1,7%
+1,2%
+0,9%
+0,8%
+0,3%
+0,2%
+b. ¿Qué describe mejor su papel en el trabajo de plataforma digital? (trabajadores con trabajo tradicional)
+Empleado(a) asalariado formal que  
+trabaja por un salario mensual/anual
+Trabajador de plataformas digitales
+Profesional independiente/contratista 
+independiente/autónomo
+Empleado(a) asalariado informal que 
+trabaja por un salario por hora/día
+Empleado(a) eventual formal que trabaja 
+por un salario por hora/día
+Empleado(a) asalariado informal que 
+trabaja por un salario mensual/anual
+Propietario(a) o socio de una empresa 
+(sin empleados remunerados)
+Otra
+Propietario(a) o socio de una empresa 
+(con empleados remunerados)
+Trabajador no remunerado en  
+una empresa familiar
+38,8%
+38,6%
+37,7%
+8,5%
+5,6%
+4,4%
+3,5%
+3,2%
+2,6%
+1,7%
+0% 5% 10% 15% 20% 25% 30% 35% 40% 45%
+0% 5% 10% 15% 20% 25% 30% 35% 40% 45%
+▶57
+▶ Índice
+Tabla A.3: Pago por plataforma (hora remunerada y no remunerada)
+Mediana (USD) Promedio (USD)
+Upwork 3,57 7,04
+SoyFreelancer 3,75 8,52
+Workana 2,84 6,15
+Mturk 2,86 5,91
+Crowdflower 3,25 11,81
+Clickworker 2,17 5,48
+Prolific 3,17 4,94
+Jovoto 1,82 1,82
+99designs 2,02 9,89
+99feelas 4,33 18,20
+Freelancer 2,98 6,93
+Otros 2,50 4,55
+La tabla A.3 muestra la distribución del pago por hora trabajada en plataformas, con datos de 
+diferentes plataformas. Los resultados son calculados a partir de los pagos recibidos en el último 
+mes y la información acerca de las plataformas para las que trabajaron; por lo tanto, es un proxy de 
+los pagos por plataforma en el que un trabajador puede haber trabajado para más de una plataforma 
+en el último mes. Los resultados muestran una gran variación en los pagos medianos, con valores 
+desde USD 1,82 hasta USD 4,33, dependiendo de la plataforma. Estas discrepancias pueden deberse 
+a los diferentes perfiles de profesionales que trabajan en cada una de estas plataformas y a los 
+países desde los que operan. Sin embargo, la confirmación de esta hipótesis dependería de análisis 
+adicionales. 
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+Tabla A.4: Pago por hora para trabajo de plataforma vs. regular (hora remunerada y hora  
+no remunerada)
+Trabajo tradicional 
+actual
+(USD)
+Trabajo de plataforma 
+actual— Todos 
+los trabajadores 
+encuestados
+(USD)
+Trabajo de plataforma 
+actual — 
+Encuestados 
+que trabajan 
+exclusivamente en 
+plataformas
+(USD)
+Trabajo de plataforma 
+actual — 
+Encuestados 
+que trabajan en 
+plataformas y tienen 
+otro trabajo
+(USD)
+Mediana Promedio Mediana Promedio Mediana Promedio Mediana Promedio
+General 4,5 10,50 2,57 5,48 2,42 5,73 2,75 5,72
+Online freelance 5,0 11,74 3,17 6,58 3,33 6,88 3,20 6,87
+Crowdwork 4,30 9,47 2,50 4,78 2,22 4,52 2,50 5,19
+Free competition 4,23 14,50 2,85 7,58 3,30 12,38 2,64 5,58
+Competitive 
+programming 5,87 11,28 4,54 10,69 5,7 7 12,84 4,39 7,83
+▶58
+▶ Índice
+Gráfico A.3: Razón ingreso para trabajadores de plataformas/salario mínimo nacional (todos 
+los países)
+Gráfico A.3.b: Razón ingreso para trabajadores de plataformas/salario mínimo nacional (ingreso del 
+trabajo en plataformas digitales basadas en la web para todos los encuestados)
+Gráfico A.3.a: Razón ingreso para trabajadores de plataformas/salario mínimo nacional  
+(todos los empleos)
+Nota: La fuente de los datos de salario mínimo por hora es SIALC – OIT (enero de 2024), basada en datos oficiales nacionales. Para el cálculo 
+del salario mínimo por hora se utilizan las 208 horas estándar de trabajo mensual. Los cálculos pueden variar si se aplican reglas específicas 
+de cada país sobre la cantidad de horas trabajadas. Este gráfico es la versión del gráfico 17 para todos los países. 
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+Nota: La fuente de los datos de salario mínimo por hora es SIALC - OIT (enero de 2024), basada en datos oficiales nacionales. Para el cálculo 
+del salario mínimo por hora se utilizan las 208 horas estándar de trabajo mensual. Los cálculos pueden variar si se aplican reglas específicas 
+de cada país sobre la cantidad de horas trabajadas. Este gráfico es la versión del gráfico 18 para todos los países. 
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+▶59
+▶ Índice
+Gráfico A.3.c: Razón ingreso para trabajadores de plataformas/salario mínimo nacional (ingreso del 
+trabajo en plataformas digitales basadas en la web, para trabajadores exclusivos de 
+plataforma) 
+Nota: La fuente de los datos de salario mínimo por hora es SIALC - OIT (enero de 2024), basada en datos oficiales nacionales. Para el cálculo 
+del salario mínimo por hora se utilizan las 208 horas estándar de trabajo mensual. Los cálculos pueden variar si se aplican reglas específicas 
+de cada país sobre la cantidad de horas trabajadas. 
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024). 
+Ingreso del trabajo en plataformas digitales basadas en la web para los encuestados que solamente trabajan en las plataformas digitales y 
+no tienen otro tipo de trabajo).
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+Tabla A.5: ¿Siente que el trabajo en plataformas afecta negativamente su seguridad o salud?  
+Trabajadores que trabajan exclusivamente en plataformas digitales
+Edad Sí
+%
+No
+%
+Entre 20 y 30 años 4,9 95,1
+Entre 30 y 40 años 7,1 92,9
+Entre 40 y 50 años 4,6 95,4
+Más de 50 años 11,4 88,6
+▶60
+▶ Índice
+Gráfico A.4: ¿A cuál de los siguientes programas de seguridad social tiene acceso usted o 
+algún miembro de su hogar?
+Gráfico A.5: Pensando en tu beneficio de jubilación o similar, ¿quién aporta a esta cobertura?
+Competitive programming Crowdwork Free competition Online freelance work
+Porcentaje
+Seguridad social
+0%
+10%
+20%
+30%
+40%
+50%
+Compensación/seguro lesiones
+Ninguno de los anteriores
+Prestaciones por discapacidad
+Otro
+Seguro de desempleo
+25,0%
+44,2%
+3,8% 3,8%
+23,1%
+18,0%
+45,8%
+18,2%
+10,1%
+7,1%
+22,9%
+39,0%
+6,8%
+8,3%
+22,9%
+20,1%
+44,2%
+19,8%
+9,6%
+6,2%
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+Fuente: Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores de plataformas digitales (2023/2024).
+El gráfico A.4 indica un patrón similar para los cuatro tipos de trabajo en plataforma, con alrededor 
+de 40 por ciento o más que indica que no están cubiertos por programas de seguridad social. Por 
+ejemplo, para trabajadores freelance, 44,2 por ciento indicó no tener acceso a servicios de seguridad 
+social. Los programas con mayor alcance son el seguro por desempleo y compensaciones, o seguros 
+por lesiones que, sumados, atienden entre el 36 y 48 por ciento de los trabajadores, dependiendo de la 
+categoría de trabajo de plataforma en línea. Por ejemplo, para trabajadores freelance, «Compensación 
+o seguro contra lesiones» es accesible para 20,1 por ciento de los trabajadores, mientras que «seguro 
+desempleo» cubre 19,8 por ciento de los trabajadores encuestados.
+Yo aporto
+Mi empleador
+El gobierno
+Mi cónyugue/pareja
+El empleador de mi cónyugue/pareja
+Otro
+No lo sé
+0% 10% 20% 30% 40% 50%
+45,5%
+27%
+11,6%
+5,8%
+5,8%
+1,3%
+0,2%
+▶61
+▶ Índice
+Anexo 2 - Metodología
+Encuesta de la Oficina Regional de la OIT para América Latina y el Caribe sobre trabajadores 
+de plataformas digitales (2023/2024)
+El cuestionario inicial está basado en los cuestionarios de Berg et al. (2018) y fue desarrollado 
+por la Oficina Regional de la OIT para América Latina y el Caribe con la asistencia de 
+SoundRocket, una empresa de investigación de encuestas especializada en ciencias sociales.
+Cuestionario y encuesta basada en la web
+El cuestionario, basado en los cuestionarios de Berg et al. (2018), se desarrolló en colaboración 
+con el personal de la Oficina Regional para América Latina y el Caribe. El cuestionario 
+resultante se programó como una encuesta interactiva basada en la web que se implementó 
+como una tarea para los trabajadores de plataformas digitales.
+El cuestionario programado estuvo disponible en tres idiomas: inglés, español y portugués. Al 
+iniciar el cuestionario, los trabajadores podían elegir el idioma en el que preferían responder. 
+La encuesta capturó datos sobre aspectos demográficos básicos, migración, experiencia 
+laboral, el trabajo actual de los encuestados en trabajos de plataformas y otros trabajos 
+remunerados, habilidades y capacitación necesarias para realizar la tarea, ingresos, pago de 
+impuestos y salud y seguridad en el trabajo, e incluyó algunas preguntas para identificar la 
+calidad de las respuestas.
+Estrategia para recolectar los datos
+SoundRocket programó un cuestionario en línea que se incluyó en los anuncios de tareas 
+en ocho plataformas digitales. Los encuestados fueron remunerados con un promedio de 
+USD 11 por completar el cuestionario, y la plataforma recibió todas las tarifas asociadas a la 
+publicación de la tarea. Solo los trabajadores de plataformas digitales que viven en países 
+de América Latina y el Caribe podían responder la encuesta.
+Es un reto generar una muestra estratificada para una encuesta de trabajadores de 
+plataformas digitales, ya que no sabemos exactamente cuántos son ni dónde están. Estudios 
+recientes como el del Banco Mundial (Datta et al. 2023) han avanzado en este entendimiento, 
+pero aún no tenemos datos suficientes para un muestreo estratificado. Por lo tanto, los 
+resultados de esta encuesta deben interpretarse como un estudio de caso basado en los 
+datos de muchos trabajadores de plataformas digitales que respondieron la encuesta en los 
+países de América Latina y el Caribe.
+Una lista de ocho plataformas se seleccionó para publicar la encuesta en sus plataformas, 
+accesible a una amplia gama de trabajadores. Se pidió permiso a las ocho plataformas para 
+publicar la encuesta. La lista final de plataformas incluyó Workana, Upwork, SoyFreelancer, 
+Amazon Mechanical Turk (MTurk), Clickworker, Prolific y Fiverr. Para ayudar a evaluar la calidad 
+de las respuestas proporcionadas, se incluyeron varias preguntas de atención dentro de 
+la encuesta. Estos ítems se diseñaron para tener una respuesta correcta que debería ser 
+claramente obvia para cualquier participante elegible. No responder con precisión a estas 
+preguntas significaba que el encuestado no estaba prestando atención (o incluso leyendo) 
+el ítem cuando completó la encuesta.
+La encuesta estuvo abierta para responderse entre el 15 de diciembre de 2023 y el 31 de 
+marzo de 2024, con 1 407 personas respondiendo la encuesta desde siete plataformas  
+▶62
+▶ Índice
+ (tabla A.6). De las 1 407 personas encuestadas, 254 fueron excluidas por no prestar suficiente 
+atención, utilizar algoritmos para completar la encuesta o por usar múltiples cuentas o 
+plataformas para completarla. La muestra final consistió en 1 153 respuestas elegibles 
+obtenidas de siete plataformas. No obstante, la mayoría de las respuestas provinieron de tres 
+de ellas. Anticipando esta dificultad, el estudio recopiló datos adicionales de trabajadores de 
+11 plataformas a través de la encuesta, que incluía una pregunta sobre la plataforma utilizada 
+por los encuestados en el último mes (tabla A.7). De esta manera, se pudo recolectar datos 
+del trabajo en otras plataformas y no solamente sobre las ocho plataformas en las cuales 
+se anunciaron las tareas. Las plataformas para las cuales los trabajadores laboraron en el 
+mes en que respondieron la encuesta fueron: Workana , Upwork, SoyFreelancer, Amazon 
+Mechanical Turk (MTurk), Clickworker , Crowdflower, Microworkers , Prolific, Fiverr, Jovoto, 
+99designs, 99freelas y Freelancer. 
+Tabla A.6: Participantes en la encuesta por plataforma
+Plataforma Casos %
+MTurk 377 26,8
+SoyFreelancer 20 1,4
+Prolific 411 29,2
+Upwork 16 1,1
+Workana 53 3,8
+Clickworker 527 37,5
+PeoplePerHour 3 0,2
+Fiverr 0 0
+Total 1 407 100
+Excluidos 254 18,1
+Tabla A.7: ¿Para cuales plataformas trabajó en el último mes?
+Plataforma Casos %
+MTurk 318 19
+SoyFreelancer 42 3
+Prolific 273 17
+Upwork 139 9
+Workana 107 7
+Clickworker 420 26
+Freelancer 166 10
+Jovoto 1 0
+99design 5 0
+99freelas 15 1
+CrowdFlower 8 0
+Otros 141 9
+Total 1 635 100
+Nota: Pregunta acepta múltiples respuestas.
+▶63
+▶ Índice
+Análisis de Datos y Elaboración del Reporte
+El análisis de datos fue realizado por Hence Analytics utilizando los datos generados en la 
+encuesta implementada por SoundRocket. Los datos de la encuesta fueron proporcionados 
+por SoundRocket  en el paquete estadístico SPSS. Hence Analytics convirtió los datos a 
+formato R y Stata para generar las estadísticas, tablas y gráficos presentados en el reporte. 
+Fue necesario hacer transformaciones en la base de datos original para el cálculo de las 
+variables de ingreso. Para los datos de ingreso, los trabajadores escogían la moneda en la cual 
+querían reportar sus ingresos. Para generar estadísticas de ingreso en una única moneda, 
+en este caso el dólar (USD), todos los valores se convirtieron a dólares de los Estados Unidos 
+utilizando la tasa de cambio promedio para el primer trimestre de 2024, basada en los datos 
+de International Financial Statistics (IFS) del Fondo Monetario Internacional. La elaboración 
+del reporte fue llevada a cabo por Túlio Cravo, especialista regional en políticas públicas y 
+productividad para la Oficina Regional de la OIT para América Latina y el Caribe, con apoyo 
+de Yeny Antunez.
+
+Oficina Regional para América Latina  
+y el Caribe
+Las Flores 275, San Isidro 
+Lima 
+Perú
+Correo electrónico: cravo@ilo.org

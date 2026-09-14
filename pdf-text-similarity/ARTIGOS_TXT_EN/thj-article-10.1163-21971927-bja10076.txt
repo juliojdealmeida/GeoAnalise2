@@ -1,0 +1,1386 @@
+Published with license by Koninklijke Brill BV | doi:10.1163/21971927-bja10076
+© Alex Rodrigues et al., 2026 | ISSN: 2197-1927 (online)
+This is an open access article distributed under the terms of the CC BY 4.0 license.
+triple helix (2026) 1–34
+brill.com/thj
+Territorial Intelligence: a Bibliometric-Systematic 
+Literature Review through the Quintuple Helix 
+Lens
+Alex Rodrigues | ORCID: 0000-0002-1094-7009
+CETRAD – Centre for Transdisciplinary Studies for Development, 
+University of Trás-os-Montes and Alto Douro, Vila Real, Portugal
+Corresponding author
+alexr@utad.pt
+Anderson R. Galvão | ORCID: 0000-0002-7284-7492
+CETRAD – Centre for Transdisciplinary Studies for Development, 
+University of Trás-os-Montes and Alto Douro, Vila Real, Portugal
+NECE – Research Unit in Business Sciences, University of Beira Interior, 
+Covilhã, Portugal
+anderson@utad.pt
+Carla S. Marques | ORCID: 0000-0003-1557-1319
+CETRAD – Centre for Transdisciplinary Studies for Development, 
+University of Trás-os-Montes and Alto Douro, Vila Real, Portugal
+smarques@utad.pt
+Lívia Madureira | ORCID: 0000-0003-0954-9764
+CETRAD – Centre for Transdisciplinary Studies for Development, 
+University of Trás-os-Montes and Alto Douro, Vila Real, Portugal
+lmadurei@utad.pt
+Received 12 December 2025 | Accepted 19 June 2026 | 
+Published online 14 July 2026
+Abstract
+This study explores how Territorial Intelligence (TI) has evolved between 1998 and 
+2024 through a bibliometric-systematic literature review of 66 peer-reviewed articles 
+
+
+2
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+indexed in Scopus and Web of Science. By combining systematic review procedures 
+with bibliometric analysis, the article analyses the main publication trends, thematic 
+patterns, and conceptual shifts in the field. The findings show a clear growth in scien­
+tific interest over the last decade, alongside a gradual move from Smart Cities towards 
+Smart Regions and Smart Territories, with greater attention to sustainability, participa­
+tory governance, and territorial innovation. Based on the Quintuple Helix framework, 
+the article proposes an integrative conceptual model in which territorial innovation 
+emerges from the interaction between academia, industry, governance, civil society, 
+and the environment, leading to sustainable territorial development. The study con­
+tributes to the literature by extending the Quintuple Helix perspective to low-density 
+territories and by highlighting TI as a useful framework for place-based development, 
+policy design, and territorial cohesion.
+Keywords
+Territorial intelligence – Low-density territories – Quintuple Helix – Rural innovation – 
+Territorial development – Smart territories;
+1	
+Introduction
+For several decades, low-density territories have faced structural challenges 
+that compromise their economic, social, and environmental sustainability. 
+Among the most relevant are: (i) depopulation, resulting in the loss of demo­
+graphic and skilled human capital; (ii) economic decline, associated with a 
+scarcity of employment opportunities and the fragility of the business fabric; 
+and (iii) ecological vulnerability, translating into pressure on natural resources 
+and the abandonment of traditional agricultural practices (Barca et al., 2012; 
+Bento et al., 2021). These problems, when combined, reinforce processes 
+of territorial marginalisation, widen regional inequalities, and hinder the 
+implementation of effective public policies for social and territorial cohesion 
+(Keryan et al., 2025).
+In this context, the concept of TI gains prominence, defined as the ability 
+to integrate demographic, economic, cultural, and environmental informa­
+tion into collaborative decision-making processes, promoting place-based and 
+innovative regeneration strategies (Girardot, 2004, 2009). TI is not limited to 
+the use of data or digital technologies; rather, it involves the creation of co-
+creation ecosystems where different local, regional, and transnational actors 
+participate in defining development solutions adapted to the specificities of 
+each territory (García-Madurga et al., 2020).
+
+
+3
+Territorial Intelligence
+triple helix ﻿(2026) 1–34 | 10.1163/21971927-bja10076
+International literature has shown that territories that adopt collaborative 
+governance models achieve greater resilience and attractiveness (Camagni 
+and Capello, 2013; McCann and Ortega-Argilés, 2018). However, much of the 
+research on “intelligence” applied to territories continues to focus on urban 
+contexts (Smart Cities), leaving rural and low-population-density realities in 
+the background (Figure 1), although these areas represent a significant part 
+(75%) of the European territory (OECD, 2020).
+While smart city research has expanded rapidly over the last decade, its 
+conceptual and technological frameworks are largely designed for urban envi­
+ronments characterised by high population density, advanced infrastructure, 
+and concentrated innovation ecosystems (Caragliu et al., 2011; Batty et al., 2012; 
+Hollands, 2020). Consequently, the direct transfer of these models to rural or 
+peripheral territories remains problematic, requiring conceptual adaptations 
+that consider demographic dispersion, institutional capacity, and environ­
+mental constraints (European Commission, 2018; Navío-Marco et al., 2020; 
+OECD, 2020).
+Figure 1	
+Degree of urbanisation – Eurostat (2021)
+Source: Eurostat, 20211
+https://ec.europa.eu/eurostat/statistics-explained/index.php?
+title=Population_and_housing_census_2021_-_population_grids
+
+
+4
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+This article aims to help fill this gap by proposing a conceptual model of TI 
+based on the Quintuple Helix paradigm (Carayannis and Campbell, 2010, 2011). 
+This model integrates five fundamental dimensions: (i) Environment, as the 
+central axis and driver of sustainable innovation; (ii) Academia, as a generator 
+and disseminator of scientific knowledge; (iii) Industry, as a promoter of local 
+value chains and technological innovation; (iv) Governance, responsible for 
+defining multi-level public policies and financing mechanisms; and (v) Society, 
+which validates and reinforces social capital through active participation and 
+co-creation practices.
+In this context, the present study seeks to contribute to a deeper under­
+standing of TI by exploring how the concept has evolved and by positioning 
+it within broader territorial innovation frameworks (Girardot, 2004, 2009; 
+García-Madurga et al., 2020). More specifically, it aims to connect the expand­
+ing literature on smart development approaches with the emerging perspective 
+of TI, emphasing its relevance for low-density and peripheral regions, where 
+innovation, governance, and sustainability must be adapted to specific territo­
+rial conditions (McCann and Ortega-Argilés, 2018; OECD, 2020; Navío-Marco 
+et al., 2020). To address this purpose, this article pursues three main research 
+objectives: (1) Map and systematise the scientific production on TI and 
+related concepts, including Smart Cities, Smart Regions, and Smart Territories 
+(Tranfield et al., 2003; Donthu et al., 2021); (2) Analyse critically the conceptual 
+evolution from urban-centred smart city approaches towards broader territo­
+rial perspectives (Caragliu et al., 2011; Batty et al., 2012; Hollands, 2020); and 
+(3) Develop an integrative conceptual model grounded in the Quintuple Helix 
+framework, positioning the model as a structuring axis of territorial innova­
+tion in rural, peripheral, and low-density territories (Carayannis and Campbell, 
+2010, 2011; Rosado-García et al., 2021).
+This study is organised as follows. It opens with an introduction and theo­
+retical framework on TI, followed by a description of the research methodol­
+ogy. The subsequent sections present and discuss the results, and the article 
+concludes with key contributions, conclusions, limitations and directions for 
+future research.
+2	
+Theoretical Framework
+Research on territorial development has evolved in recent decades from 
+models centred on economic growth to approaches that integrate social, cul­
+tural, and environmental dimensions. Boisier (2003) and Bridger and Alter 
+(2008) highlighted that effective development strategies must recognise local 
+
+
+5
+Territorial Intelligence
+triple helix ﻿(2026) 1–34 | 10.1163/21971927-bja10076
+specificities, favouring place-based approaches over uniform and undifferenti­
+ated policies. In this context, concepts such as TI, Smart City, Smart Region, 
+and Smart Territory have emerged, reflecting a paradigm shift in how territory 
+should be conceived and governed.
+2.1	
+Territorial Intelligence: Origins and Evolution
+The concept of TI emerged in the early 2000s, especially in the European con­
+text, as a response to the need to integrate heterogeneous information into 
+shared decision-making processes. Girardot (2004, 2009) defined TI as the 
+ability to transform data into knowledge applicable to local and regional devel­
+opment, through collaborative processes involving institutional, business, and 
+community actors.
+While initially TI was strongly associated with regional planning and the 
+use of Geographic Information Systems (GIS), it quickly evolved into a multi­
+dimensional approach, focused on the creation of knowledge co-creation eco­
+systems (Camagni and Capello, 2013). This evolution has increased the value of 
+territorial capital, understood as the combination of tangible resources (infra­
+structure, natural heritage, productive resources) and intangible resources 
+(social capital, knowledge, institutional networks) (Camagni and Capello, 2013).
+Thus, TI should not be interpreted merely as a technological tool, but rather 
+as an adaptive and integrative process that aims to articulate social, economic, 
+cultural, and environmental dimensions, promoting territorial resilience, sus­
+tainable innovation, and social cohesion (García-Madurga et al., 2020).
+2.2	
+From Smart Cities to Smart Territories
+The scientific debate surrounding TI is closely linked to the evolution of the 
+concept of smart cities, which emerged as urban laboratories for technologi­
+cal innovation, widely disseminated since the 2010s (Caragliu et al., 2011; Batty 
+et al., 2012). In an initial phase, Smart Cities were essentially associated with 
+technological solutions focused on intelligent mobility, energy networks, digi­
+tal platforms for public services, and real-time monitoring of urban activity 
+(Caragliu et al., 2011; Batty et al., 2012).
+However, authors such as Hollands (2020) have warned of the risks of an 
+overly technology-oriented approach, which could promote and exacerbate 
+social exclusion and territorial inequality.
+The evolution of the Smart Region and Smart Territory concepts sought to 
+address these limitations, shifting the focus from cities to a broader regional 
+and territorial scale (Gretzel, 2018; Navío-Marco et al., 2020). Within this frame­
+work, territorial innovation, no longer restricted to the urban dimension, has 
+also come to include rural and low-density areas, fostering civic participation 
+
+
+6
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+and inclusive governance (Roth et al., 2013), valuing cultural and identity heri­
+tage (Garau, 2015), and environmental sustainability and the circular economy 
+(OECD, 2020) as pillars of territorial regeneration.
+Examples such as the academic and scientific study by Garau (2015) on sus­
+tainable tourism in the Sardinia region (Italy) demonstrate how rural areas can 
+adopt smart practices through the valorisation of cultural and identity heri­
+tage, community involvement, and the use of digital technologies (augmented 
+reality) to strengthen the identity and attractiveness of the territories.
+These conceptual developments suggest a progressive territorial scaling of 
+innovation paradigms, moving from city-based technological solutions towards 
+broader territorial governance systems (Caragliu et al., 2011; Batty et al., 2012; 
+Gretzel, 2018; Navío-Marco et al., 2020). TI can therefore be interpreted as the 
+integrative framework that operationalises this transition by combining digital 
+innovation, participatory governance, and environmental sustainability, par­
+ticularly in contexts where development depends on the articulation of ter­
+ritorial capital, local knowledge, and multi-actor coordination (Girardot, 2004, 
+2009; Camagni and Capello, 2013; García-Madurga et al., 2020).
+However, the literature still presents two major limitations. First, many 
+studies remain urban-centric, giving priority to city-based innovation dynam­
+ics while paying comparatively less attention to rural and peripheral territories 
+(Caragliu et al., 2011; Batty et al., 2012; Hollands, 2020). Second, technological 
+determinism often dominates smart territory and smart development initia­
+tives, overshadowing the social, participatory, and environmental dimensions 
+that are essential for more inclusive and sustainable territorial transformation 
+(Hollands, 2020; OECD, 2020; Navío-Marco et al., 2020; García-Madurga et al., 
+2020).
+2.3	
+The Quintuple Helix Paradigm
+The Triple Helix model (Etzkowitz and Leydesdorff, 2000; Galvão et al., 2019), 
+centred on the interaction between University, Industry, and Governance, 
+marked a turning point in the analysis of innovation ecosystems. Subsequently, 
+the paradigm was expanded to the Quadruple Helix, adding Society as an 
+essential actor in democratic and inclusive innovation processes (Carayannis 
+and Campbell, 2010).
+More recently, the Quintuple Helix (Carayannis and Campbell, 2011) adds 
+the Environment helix to the model, recognising that the importance of eco­
+logical sustainability is inseparable from social and technological innovation. 
+This model articulates five dimensions: (i) Environment (engine of green inno­
+vation and circular economy practices); (ii) Academia (generator and dissemi­
+nator of scientific and technological knowledge); (iii) Industry (responsible 
+
+
+7
+Territorial Intelligence
+triple helix ﻿(2026) 1–34 | 10.1163/21971927-bja10076
+for boosting local value chains and business innovation); (iv) Governance 
+(guarantor of place-based public policies and multi-level coordination); and 
+(v) Society (agent of participation, co-creation, and social validation of imple­
+mented solutions).
+The inclusion of the environmental dimension gives the Quintuple Helix 
+model particular relevance in the context of ecological and digital transitions, 
+since the environment is understood not only as an external condition to inno­
+vation processes, but as a constitutive dimension of knowledge production, 
+innovation, and sustainable development. In this sense, the Quintuple Helix 
+expands upon the perspective of the Triple Helix, centred on the relation­
+ships between university, industry, and government, as well as the Quadruple 
+Helix approach, which integrates civil society, by incorporating the natural 
+environment as a structuring axis of innovation geared towards sustainabil­
+ity (Etzkowitz & Leydesdorff, 2000; Carayannis & Campbell, 2010; Carayannis 
+et al., 2012). This approach is particularly relevant for territorial development, 
+as it allows for the articulation of endogenous resources, environmental chal­
+lenges, institutional capacities, and locally based innovation processes, in line 
+with broader strategic frameworks, such as the United Nations 2030 Agenda 
+and the European Strategies for Smart Specialisation – RIS3 (United Nations 
+General Assembly, 2015; McCann & Ortega-Argilés, 2015; Foray et al., 2018).
+In this article, the academic helix is ​understood as a broad sphere of knowledge 
+production, circulation, and application, encompassing universities, research 
+centres, higher education institutions, laboratories, R&D units, and other knowl­
+edge intermediaries. Thus, universities are not treated as an autonomous or sep­
+arate category, but as central institutional actors within the broader academic 
+sphere. This clarification is consistent with the Triple Helix model, which recog­
+nizes the university as a central institution in knowledge production and innova­
+tion, and with later approaches that emphasize more distributed, collaborative, 
+applied, and transdisciplinary forms of knowledge production (Gibbons et al., 
+1994; Etzkowitz & Leydesdorff, 2000; Carayannis & Campbell, 2011).
+In this context, TI and the Quintuple Helix take on special importance, 
+as they allow for: (i) the articulation of scientific knowledge and local know-
+how; (ii) the promotion of sustainable innovation in local production chains; 
+(iii) the definition of public policies adapted to territorial specificities; (iv) the 
+involvement of citizens as co-producers of solutions, and (v) the positioning of 
+the environment as the central axis of territorial innovation.
+2.4	
+Territorial Intelligence and Cohesion in Low-Density Territories
+Applied to rural and peripheral regions characterised by low population den­
+sity, TI based on the Quintuple Helix model is seen as a tool for territorial 
+
+
+8
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+regeneration. On the one hand, it promotes the integration of endogenous 
+resources into innovative value chains, boosting local economies (Marques 
+et al., 2019). On the other hand, it encourages the creation of participatory eco­
+systems, such as Living Labs or the creation of crowdsourcing platforms, which 
+increase the adaptive capacity of territories (Roth et al., 2013).
+By integrating sustainability, technological innovation, and social participa­
+tion, TI can promote: (i) population retention by creating economic and social 
+innovation opportunities; (ii) environmental sustainability through efficient 
+resource management and circular economy practices; (iii) social cohesion 
+by strengthening social capital and local cooperation networks; (iv) territorial 
+development through the enhancement of natural and cultural heritage as fac­
+tors of tourist and economic attractiveness.
+TI emerges as an integrative and adaptive paradigm, capable of guiding low-
+population-density territories towards more resilient, inclusive, and sustain­
+able pathways while simultaneously responding to the demands of the digital, 
+ecological, and social transition.
+3	
+Methodology
+This study adopts a bibliometric-systematic literature review (B-SLR) design, 
+combining the transparency and replicability of systematic review procedures 
+with the mapping capacity of bibliometric analysis (Tranfield et al., 2003; 
+Donthu et al., 2021; Marzi et al., 2025). In this approach, bibliometric tech­
+niques are used to identify the intellectual structure, publication patterns, and 
+thematic evolution of the field, while the systematic review component supports 
+the selection, screening, and interpretive synthesis of the corpus (Marzi et al., 
+2018; Donthu et al., 2021). This combination is particularly suitable for concep­
+tually fragmented and multidisciplinary research domains, as it enables both a 
+structured mapping of the literature and a more robust conceptual interpreta­
+tion of the field’s development (Tranfield et al., 2003; Donthu et al., 2021).
+This combined approach is particularly useful for fragmented and multi­
+disciplinary fields such as TI and smart territorial development, as it makes it 
+possible to map the literature in a structured way while also supporting a more 
+informed conceptual interpretation of the field’s evolution.
+3.1	
+Research Protocol and Data Sources
+To identify the relevant scientific literature, the databases Scopus and Web 
+of Science were selected as the primary data sources. These databases are 
+widely recognised in bibliometric and systematic review studies due to their 
+
+
+9
+Territorial Intelligence
+triple helix ﻿(2026) 1–34 | 10.1163/21971927-bja10076
+extensive coverage of peer-reviewed academic publications and their suitabil­
+ity for quantitative bibliometric analysis (Donthu et al., 2021).
+The search strategy aimed to capture publications related to TI and associ­
+ated concepts such as Smart Cities, Smart Regions, and Smart Territories. In 
+the Scopus database, the following search query was applied:
+TITLE-ABS-KEY (“intellig* territor*”) OR TITLE-ABS-KEY (“smart* terri­
+tor*”) OR TITLE-ABS-KEY (“smart region*”) OR TITLE-ABS-KEY (“intellig* 
+region*”)
+The search covered the period 1998–2024, and only peer-reviewed journal arti­
+cles and review articles written in English were considered. The search was lim­
+ited to the following research areas: Business, Management and Accounting; 
+Social Sciences; Economics, Econometrics and Finance; Arts and Humanities; 
+and Environmental Sciences. This procedure resulted in 99 articles.
+A similar search strategy was applied in the Web of Science database, using 
+equivalent search expressions adapted to the database syntax. The search was 
+limited to English-language journal articles and review articles within rel­
+evant research categories, including Environmental Studies, Urban Studies, 
+Geography, Management, Business, Public Administration, Regional and 
+Urban Planning, Sociology, Development Studies, and related interdisciplin­
+ary fields. The search returned 59 articles.
+3.2	
+Data Processing and Study Selection
+Following the data collection phase, the bibliographic records obtained from 
+both databases were exported in BibTeX format and imported into the RStudio 
+environment, using the Bibliometrix package for data processing and analysis 
+(Allaire, 2012; Büyükkıdık, 2022). Bibliometrix is widely used in bibliometric 
+research because it enables data cleaning, merging of databases, and genera­
+tion of bibliometric indicators within a reproducible analytical framework 
+(Donthu et al., 2021).
+After merging the Scopus and Web of Science datasets, 49 duplicate records 
+were identified and removed automatically, resulting in a preliminary dataset 
+of 109 articles.
+Subsequently, a screening procedure based on titles and abstracts was con­
+ducted in order to ensure the conceptual relevance of the selected publications. 
+Studies were excluded when they (i) did not address theoretical or conceptual 
+aspects related to TI or smart territorial development; (ii) focused exclusively 
+on purely technical or technological aspects unrelated to territorial governance 
+or development; and (iii) consisted of literature reviews on the same topic.
+
+
+10
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+This screening stage resulted in the exclusion of 43 articles, leading to a final 
+sample of 66 articles that were considered suitable for systematic and biblio­
+metric analysis. The selected articles were published between 1998 and 2024 in 
+57 different scientific journals (Figure 2).
+This stepwise selection procedure follows established guidelines for system­
+atic literature reviews, ensuring transparency and replicability in the identifi­
+cation of the analytical corpus (Tranfield et al., 2003; Donthu et al., 2021).
+3.3	
+Bibliometric Analysis
+The final dataset of 66 articles was analysed using the Bibliometrix package 
+in RStudio software, which allows the computation of bibliometric indicators 
+and the visualisation of publication patterns within a research field (Donthu 
+et al., 2021; Büyükkıdık, 2022).
+The bibliometric analysis focused on several indicators commonly used in 
+literature mapping studies, including:
+1.	
+Temporal evolution of scientific production, identifying trends in publi­
+cation activity over time;
+2.	
+Average number of citations per year, measuring the academic impact of 
+the publications;
+3.	
+Most relevant scientific sources, identifying the journals with the highest 
+number of publications in the field;
+Figure 2	
+Research protocol and article selection process (Scopus and Web of Science)
+Source: Authors’ own elaboration
+
+
+11
+Territorial Intelligence
+triple helix ﻿(2026) 1–34 | 10.1163/21971927-bja10076
+4.	
+Most cited articles, highlighting influential contributions;
+5.	
+Most productive authors, identifying key researchers contributing to the 
+development of the topic;
+6.	
+Keyword analysis, including the generation of word clouds and tree 
+clouds to visualise thematic patterns and conceptual relationships.
+The analytical procedure was developed in two complementary phases. First, 
+a bibliometric mapping of the selected corpus was conducted using Biblio­
+metrix in order to identify publication trends, citation patterns, source rele­
+vance, influential contributions, and keyword structures (Donthu et al., 2021; 
+Büyükkıdık, 2022). Second, the systematically selected articles were subjected 
+to an interpretive synthesis aimed at identifying conceptual shifts, recurring 
+thematic dimensions, and the theoretical foundations supporting the discus­
+sion and the proposed conceptual model (Tranfield et al., 2003; Marzi et al., 
+2018; Donthu et al., 2021). Together, these two phases allowed the study to 
+move beyond descriptive mapping and toward a more conceptually grounded 
+interpretation of the field’s evolution.
+These procedures help identify the main intellectual structures, thematic 
+trends, and emerging directions in the TI literature, and provide the basis for 
+the discussion that follows.
+4	
+Results
+4.1	
+Evolution of Scientific Production
+After normalising the database according to the protocol defined in the meth­
+odology (Marzi et al., 2018), the selected articles were subjected to bibliometric 
+treatment and analysis (Donthu et al., 2021) through the use of the Bibliometrix 
+package, with the aim of identifying the evolution of scientific production on 
+the theme of TI (Figure 3).
+It is worth noting that among the 66 articles identified in the database under 
+analysis, spanning a 26-year period (1998–2024), the last five years account for 
+34 scientific publications, representing approximately 51.5% of the total pro­
+duced within that timeframe. This reflects the increasing prominence of TI 
+within the scientific literature.
+Figure 3 also suggests that TI has recently gained visibility as an interdisci­
+plinary research field, particularly in the context of sustainability transitions 
+and regional innovation policies (García-Madurga et al., 2020; McCann and 
+Ortega-Argilés, 2018; OECD, 2020; Rosado-García et al., 2021).
+
+
+12
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+Figure 4	
+Average number of citations per year (Bibliometrix).
+Source: Authors’ own elaboration
+Figure 3	
+Evolution of scientific production (Bibliometrix).
+Source: Authors’ own elaboration
+4.2	
+Average Number of Citations per Year
+Regarding the average number of citations per year, a total of 160 citations are 
+highlighted in the time window from 1998 to 2024 (Figure 4). The year 2015 
+shows an average of 7.1 citations per year, followed by the years 2018 (4.9) and 
+2021 (3.9). Since 2015, there has been a growing trend and interest in the topic 
+of TI.
+
+
+13
+Territorial Intelligence
+triple helix ﻿(2026) 1–34 | 10.1163/21971927-bja10076
+Figure 5	
+Most relevant scientific publication sources (Bibliometrix).
+Source: Authors’ own elaboration
+4.3	
+Most Relevant Sources of Scientific Publication
+Regarding the most relevant sources of scientific publication, the three 
+most relevant scientific journals are highlighted (Figure 5). First, the journal 
+SUSTAINABILITY (six articles) from the publisher MDPI; secondly, the journal 
+INTERACTION DESIGN AND ARCHITECTURE(S) (three articles) from the pub­
+lisher ASLERD; and thirdly, the journal TERRITORIO (two articles) from the 
+publisher FrancoAngeli Edizioni.
+4.4	
+Most Cited Articles
+Through the use of the Bibliometrix package, the 10 most cited articles on the 
+topic of TI were identified (Table 1).
+In the top 3 most cited articles, the article “From smart destinations to smart 
+tourism regions” by Gretzel (2018) ranks first with 83 citations; in second place, 
+the article “Perspectives on cultural and sustainable rural tourism in a smart 
+region: The case study of Marmilla in Sardinia (Italy)” by Garau (2015) with 78 
+citations; in third place, the article “Roadmaps to utopia: Tales of the smart city” 
+by Valdez et al. (2018) with 61 citations.
+At the beginning of the 21st century, Rees (2000) conceived a notion of what 
+a “Learning Region” would be as a theoretical basis for territorial development. 
+In his article “The learning region? Integrating gender equality into regional eco­
+nomic development”, this author emphasises that, without integrating the gen­
+der perspective into economic development policies, innovation networks and 
+social capital are compromised, limiting the desired regional sustainability in 
+the long term.
+
+
+14
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+Table 1	
+Top 10 most cited scientific articles from the database, ordered by number of citations
+Title
+Author(s)
+Scientific journal
+Year
+Citations
+From smart destinations to 
+smart tourism regions
+Gretzel, U.
+Investigaciones 
+regionales – journal 
+of regional research
+2018
+83
+Perspectives on cultural and 
+sustainable rural tourism in a 
+smart region: The case study of 
+Marmilla in Sardinia (Italy)
+Garau, C.
+Sustainability
+2015
+78
+Roadmaps to utopia: tales of 
+the smart city
+Valdez, A., Cook, 
+M., & Potter, S.
+Urban studies
+2018
+61
+The cost benefit analysis for the 
+concept of a smart city: How to 
+measure the efficiency of smart 
+solutions?
+Turečková, K. & 
+Nevima, J. 
+Sustainability
+2020
+37
+Smart paths for advanced man­
+agement of cultural heritage
+Garau, C.
+Regional studies, 
+Regional science
+2014
+37
+A new european Bauhaus for 
+a culture of transversality and 
+sustainability
+Rosado-García, 
+M.J., Kubus, R., 
+Argüelles-Bustillo, 
+R., & García-
+García, M.J. 
+Sustainability
+2021
+32
+Smart regions: two cases of 
+crowdsourcing for regional 
+development
+Roth, S., Kaivo-Oja, 
+J., & Hirschmann, T. 
+International journal 
+of entrepreneurship 
+and small business
+2013
+32
+Smart cities’ development in 
+Spain: A comparison of techni­
+cal and social indicators with 
+reference to European cities
+Orejón-Sánchez, 
+R.D., Crespo-
+Garcia, D., Andres-
+Diaz, J.R., & 
+Gago-Calderon, A.
+Sustainable cities 
+and society
+2022
+27
+The rising importance of the 
+“Smart territory” concept: defi­
+nition and implications
+Navío-Marco, J., 
+Rodrigo-Moya, B., 
+& Gerli, P. 
+Land use policy
+2020
+25
+The learning region? 
+Integrating gender equal­
+ity into regional economic 
+development.
+Rees, T.
+Policy & politics
+2000
+21
+Source: Authors’ own elaboration
+
+
+15
+Territorial Intelligence
+triple helix ﻿(2026) 1–34 | 10.1163/21971927-bja10076
+A little over a decade later, Roth et al. (2013), exploring two crowdsourcing 
+cases in Valais and South Tyrol, highlighted that openness to the community 
+and transparency in the selection of differentiating projects proved crucial 
+to strengthening local innovation ecosystems. They also pointed out that 
+more restrictive approaches only favoured the visibility of Small and Medium 
+Enterprises (SMEs), preventing the construction of a true collective TI.
+Next, Garau (2014) presented the prototype of a mobile application with 
+augmented reality, designed to promote the cultural heritage of Sardinia 
+(Italy). This innovative project integrated top-down decisions from public 
+stakeholders and bottom-up participation from local communities, creating 
+intelligent customisable routes and introducing, within a Smart Region logic, 
+the idea of ​do-it-yourself experiences.
+The following year, Garau (2015) expanded this analysis in Marmilla (Italy), 
+arguing that sustainable rural tourism can only be achieved through cultural 
+planning and systemic strategies that reconcile landscape preservation with 
+the dynamics generated by the effect of globalisation. The author also proposes 
+paradigms for the intelligent (Smart) use of the territory in order to strengthen 
+the links between urban and rural areas, through the use of integrated man­
+agement and planning technologies.
+Valdez et al. (2018), criticizing the utopian narratives of roadmaps for Smart 
+Cities, based on the MotionMap project in Milton Keynes (England), found 
+that the concrete benefits of the project resulted primarily from the consolida­
+tion of the Smart Region brand and the mobilisation of local actors around it, 
+rather than from the technological innovations themselves.
+In that same year, Gretzel (2018) took stock of the concept of Smart Tourism, 
+warning that aggregating smart destinations does not, by itself, generate a 
+smart region. The author also highlighted the challenges of connectivity, multi-
+level governance, and infrastructure, also advocating the need to define coher­
+ent regional strategies adapted to each territorial context.
+In 2020, Turečková and Nevima proposed a specific “cost-benefit” analysis 
+for smart solutions, defining them as innovations with positive social impacts. 
+The inductive analytical framework they developed allowed for the compari­
+son of “socially acceptable” benefits and costs, requiring the active involvement 
+of key public stakeholders (Turečková and Nevima, 2020).
+In the same year, Navío-Marco et al. (2020) formalised the concept of Smart 
+Territory as a geographic space whose “Smartification” depends on multi-sectoral 
+partnerships and cohesion policies that transcend administrative boundaries, 
+preventing digital inequalities between urban and rural areas of the territories.
+The following year, Rosado-García et al. (2021) sought to systematise the cre­
+ative and interdisciplinary New European Bauhaus initiative, which links the 
+
+
+16
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+Table 2	
+Top 3 most productive authors on the topic of TI
+Author(s)
+ORCID
+Country of 
+affiliation
+Number of 
+articles
+GARAU Chiara
+0000-0002-6239-5402
+Italy
+3
+GIOVANNELLA Carlo
+0000-0002-0588-5739 
+Italy
+2
+DI VITA Stefano
+0000-0002-9070-0347
+Italy
+2
+Source: Authors’ own elaboration
+European Green Deal to physical spaces and the experiences lived within them 
+as an ecosystem that unites science, art, technology, innovation, and sustain­
+ability. They also identified five key actors: Governance, Industry, Academia, 
+Society and Environment-- that correspond to the Quintuple Helix model 
+of development and innovation (Carayannis and Campbell, 2010). In this 
+approach, the authors placed the environmental dimension at the centre of 
+territorial innovation.
+Finally, Orejón-Sánchez et al. (2022) evaluated several Spanish Smart Cities 
+projects, funded by the European Regional Development Fund (ERDF), in the 
+period 2014–2020, highlighting a transition from a predominantly technological 
+focus (IoT – Internet of Things, mobility, Open Data) to more holistic approaches, 
+which incorporate participatory governance with social criteria, thus approach­
+ing the integrated paradigm of the concept of TI (Smart Territory).
+4.5	
+Most Productive Authors on Territorial Intelligence
+Next, the three most productive authors on TI were identified (Table 2; 
+Figure 6). It is worth highlighting that the authors’ production spans from 2013 
+to 2019 (seven years), representing a total of seven scientific articles. The three 
+most productive authors identified are all based in Italy.
+4.6	
+Keywords “Word Cloud”
+A keyword cloud from the 66 selected articles was generated using Bibliometrix 
+software, in order to highlight the main keywords related to the articles in the 
+database and thus initiate a first visual conceptualisation of the definition of 
+the concept of TI (Figure 7).
+
+
+17
+Territorial Intelligence
+triple helix ﻿(2026) 1–34 | 10.1163/21971927-bja10076
+Figure 6	
+Scientific output of the authors, Bibliometrix
+Source: Authors’ own elaboration
+Figure 7	
+WordCloud – Bibliometrix
+Source: Authors’ own elaboration
+The top 10 most used keywords are: smart city (16); smart region (14); smart 
+territory (9); regional development (8); smart specialization (5); innovation (4); 
+digitalization (3); governance (3); smart village (3) and territory (3).
+Thus, the theme of TI stands out with Smart cities (16) and Smart Regions (14), 
+which reflect the understanding of smart cities and regions as centres of and for 
+urban innovation (Caragliu et al., 2011; Hollands, 2020). The emergence of the 
+
+
+18
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+themes of Smart Territory (9) and Regional Development (8) signals the expan­
+sion of the field of study to another typology of territories, always integrating 
+the concepts of territorial cohesion and economic development (McCann and 
+Ortega-Argilés, 2018). Terms such as Smart Specialization (5) and Innovation 
+(4) highlight the importance of the existence of Smart Specialisation strategies 
+and local innovation ecosystems (Barca, 2009; Cocchia, 2014). The keywords 
+associated with the Digitalization (3) process and Governance (3) highlight the 
+role of physical and digital infrastructures, and institutional structures in the 
+implementation of smart public policies (Cocchia, 2014), where the presence of 
+Smart Villages (3) and Territories (3) confirms the growing interest in digital 
+and sustainable solutions that also integrate and create smart dynamics in 
+rural territories (McCann and Ortega-Argilés, 2018; Hollands, 2020).
+The dominance of terms such as “Smart City”, “Smart Region”, and “Regional 
+Development” indicates that TI research remains strongly influenced by 
+urban innovation paradigms, which have historically framed smart develop­
+ment initiatives around cities as primary hubs of knowledge, infrastructure, 
+and technological innovation (Caragliu et al., 2011; Batty et al., 2012; Hollands, 
+2020). However, the presence of terms such as “rural”, “sustainability”, and 
+“governance” suggests a gradual change towards more territorially inclusive 
+and sustainability-oriented approaches that extend beyond urban contexts 
+and emphasise place-based development, participatory governance, and envi­
+ronmental considerations (McCann and Ortega-Argilés, 2018; OECD, 2020; 
+Navío-Marco et al., 2020; García-Madurga et al., 2020).
+4.7	
+Word Tree (TreeCloud)
+A keyword tree (Figure 8) was generated using TreeCloud1 software, display­
+ing the keywords of the 66 selected articles, in order to obtain an optimised 
+visualisation of their keywords. These keywords are ranked according to their 
+frequency and arranged in the branches of a tree structure so that adjacent 
+branches group terms with correlated meanings, thus allowing for the rapid 
+identification of the main topics and their interrelationships visually and intu­
+itively (Gambette and Véronis, 2010).
+The top 10 keywords that appear most frequently in the keyword tree are: 
+Smart (79), City (23), Region (23), Regional (19), Development (18), Territory (13), 
+Innovation (8), Sustainable (8), Analysis (7), Digital (7).
+1	 https://treecloud.univ-mlv.fr/.
+
+
+19
+Territorial Intelligence
+triple helix ﻿(2026) 1–34 | 10.1163/21971927-bja10076
+The generated word tree highlights the emergence of the Smart concept as 
+a central strategy for addressing the challenges of urban and regional develop­
+ment, combining investments in digital innovation and increasingly participa­
+tory governance practices (Caragliu et al., 2011; Nam and Pardo, 2011). Across 
+multiple scales of analysis, from cities (City), regions (Region), and regional 
+and territorial planning (Regional; Territory), development is promoted that 
+integrates the digital economy (Digital Economy) and the smart specialisation 
+of specific clusters to strengthen competitiveness and sustainable tourism 
+(Innovation; Sustainable; Tourism), whether in urban or rural contexts (Urban; 
+Rural) (European Network for Rural Development, 2018). The analysis of these 
+systems highlights the importance of synergies between digital infrastruc­
+tures, multi-level governance, and a permanent capacity for innovation, thus 
+ensuring that Smart initiatives promote social cohesion, economic efficiency, 
+and territorial sustainability (Batty et al., 2012).
+Figure 8	
+Word Tree with the inclusion of the Quintuple Helix model
+Source: Authors’ own elaboration
+
+
+20
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+5	
+Discussion
+Despite its growing relevance, TI research remains fragmented and lacks 
+standardised conceptual definitions across disciplines (Girardot, 2004; García-
+Madurga et al., 2020). This conceptual fragmentation reflects the interdis­
+ciplinary nature of the field, which intersects with research streams such as 
+smart cities, regional innovation systems, territorial governance, and sustain­
+ability transitions.
+5.1	
+Conceptual Evolution of Territorial Intelligence
+The analysis of publication trends and keywords suggests that the concept 
+of TI has evolved within a broader landscape of research on smart develop­
+ment, regional innovation, and territorial governance. Early discussions of 
+smart development were primarily centred on urban contexts, where cities 
+were considered key hubs of technological innovation, digital infrastructure, 
+and knowledge-intensive activities (Caragliu et al., 2011; Batty et al., 2012). 
+This urban orientation contributed to the rapid expansion of the smart city 
+paradigm, which has strongly influenced subsequent debates on territorial 
+innovation.
+Over time, however, the literature has progressively expanded beyond the 
+city scale, incorporating broader territorial perspectives such as smart regions 
+and smart territories (Navío-Marco et al., 2020). This conceptual evolution 
+reflects growing recognition that innovation processes are embedded in 
+complex territorial systems involving multiple actors, institutions, and socio-
+economic dynamics.
+In this context, TI has emerged as a framework that integrates knowledge 
+production, governance mechanisms, and collective decision-making pro­
+cesses in territorial development (Girardot, 2004, 2009; García-Madurga et al., 
+2020). Rather than focusing solely on technological solutions, TI emphasises 
+the capacity of territories to mobilise information, knowledge, and coopera­
+tion in order to support sustainable and inclusive development strategies.
+5.2	
+Environmental Dimension and Sustainability
+Another important finding emerging from the bibliometric analysis concerns 
+the growing prominence of sustainability-related themes in the literature. The 
+increasing presence of keywords related to environment, sustainability, and 
+territorial resilience suggests that the concept of TI is increasingly associated 
+with sustainable development challenges (Carayannis & Campbell, 2010, 2012; 
+García-Madurga et al., 2020).
+
+
+21
+Territorial Intelligence
+triple helix ﻿(2026) 1–34 | 10.1163/21971927-bja10076
+This change reflects broader transformations in innovation and develop­
+ment paradigms, where environmental considerations are progressively inte­
+grated into territorial governance and policy frameworks. In this regard, the 
+Quintuple Helix model provides a useful conceptual perspective by incor­
+porating the natural environment as a dimension of innovation systems 
+(Carayannis & Campbell, 2010, 2011). According to this framework, sustainable 
+development depends on the interaction between knowledge institutions, 
+economic actors, governance structures, society, and environmental systems.
+From this perspective, TI can be interpreted as a mechanism that supports 
+the integration of environmental knowledge, digital technologies, and partici­
+patory governance in territorial development strategies. Such integration is 
+particularly relevant in the context of sustainability transitions, which require 
+coordinated actions across multiple institutional and territorial levels (OECD, 
+2020; Rosado-García et al., 2021).
+5.3	
+Governance and Multi-actor Innovation Systems
+The results also highlight the importance of governance and multi-actor col­
+laboration in the development of TI initiatives. The literature highlights that 
+territorial innovation processes are not driven solely by technological infra­
+structures but depend on complex interactions between public institutions, 
+private organisations, academic actors, and society.
+This perspective is consistent with the theoretical foundations of the helix 
+models of innovation, which conceptualise innovation as the outcome of 
+interactions between multiple institutional spheres. The Triple Helix frame­
+work originally highlighted the relationships between universities, indus­
+try, and governance, while subsequent developments extended the model to 
+include society and the environment through the Quadruple and Quintuple 
+Helix models (Carayannis & Campbell, 2010, 2011; Galvão et al., 2019).
+Within this analytical framework, TI can be understood as a governance-
+oriented approach that facilitates knowledge exchange, collaborative decision-
+making, and the co-creation of development strategies among territorial 
+stakeholders. Such processes contribute to strengthening local capacities for 
+innovation and enabling more inclusive territorial development pathways 
+(García-Madurga et al., 2020).
+Territorial innovation may therefore be understood as the outcome of 
+interdependent and mutually reinforcing relationships among heterogeneous 
+actors, rather than as the product of isolated institutional action (Etzkowitz 
+& Leydesdorff, 2000; Carayannis & Campbell, 2010, 2011; Galvão et al., 2019). 
+From this perspective, the proposed framework is relational rather than 
+
+
+22
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+merely descriptive, as it emphasises the interactive mechanisms through 
+which knowledge exchange, coordination, and participation shape territorial 
+development (Girardot, 2004, 2009; García-Madurga et al., 2020). This rela­
+tional understanding provides the basis for the conceptual model presented in 
+the following section and for the propositions derived from it.
+5.4	
+Implications for Low-density Territories
+The findings of this study also highlight the relevance of TI for rural and low-
+density territories. Traditional smart city approaches often assume the pres­
+ence of dense urban infrastructures, large knowledge ecosystems, and strong 
+technological capacities, conditions that are not always present in peripheral 
+regions (Caragliu et al., 2011; OECD, 2020).
+In contrast, TI highlights place-based development strategies that consider 
+the specific characteristics of each territory, including demographic dispersion, 
+institutional capacity, and environmental resources. This perspective aligns 
+with contemporary approaches to regional development that stress the impor­
+tance of territorial capital, local knowledge networks, and collaborative gover­
+nance structures (McCann & Ortega-Argilés, 2018; OECD, 2020).
+For low-density territories in particular, TI can support the design of devel­
+opment strategies that combine digital innovation, environmental sustain­
+ability, and community participation. By fostering cooperation between local 
+actors and strengthening knowledge flows within territorial systems, this 
+approach may contribute to reducing territorial disparities and promoting 
+more balanced regional development trajectories (OECD, 2020; Lewandowska 
+et al., 2021).
+6	
+Conceptual model of Territorial Intelligence based on 
+the Quintuple Helix
+Building on this relational understanding, the conceptual model proposed 
+below conceptualises TI as a multi-actor and multi-level process through 
+which the interactions among the five helices of the Quintuple Helix frame­
+work shape sustainable territorial development (Figure 9). The model syn­
+thesises the main dimensions identified in the literature and illustrates how 
+knowledge, governance, innovation, civil society, and the environment inter­
+act in territorial development processes (Carayannis & Campbell, 2010, 2011; 
+García-Madurga et al., 2020).
+The development of this model is grounded in three convergent signals 
+emerging from the combined bibliometric mapping and interpretive synthesis 
+
+
+23
+Territorial Intelligence
+triple helix ﻿(2026) 1–34 | 10.1163/21971927-bja10076
+conducted in the previous sections. These signals provide the analytical and 
+theoretical basis for the propositions advanced below:
+	– Proposition 1. Environmental sustainability positively influences territorial 
+innovation capacity in low-density territories.
+	– Proposition 2. Collaborative governance strengthens knowledge exchange 
+among actors in territorial innovation ecosystems.
+	– Proposition 3. Multi-actor interactions within the Quintuple Helix foster 
+sustainable territorial development outcomes.
+These three propositions are not independent but form a cumulative and 
+interdependent argument. Proposition 1 establishes the foundational condition: 
+environmental sustainability is not a contextual backdrop but a constitutive 
+dimension of territorial innovation capacity, particularly in low-density terri­
+tories where natural resources and ecological assets represent key drivers of 
+Figure 9	
+Conceptual model of TI within the Quintuple Helix 
+framework
+Source: Authors’ own elaboration
+
+
+24
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+endogenous development (Carayannis & Campbell, 2010, 2011; García-Madurga 
+et al., 2020). Building on this, Proposition 2 identifies the enabling mechanism: 
+collaborative governance is the institutional arrangement through which 
+actors exchange knowledge, coordinate action, and co-produce development 
+solutions, without which the environmental potential identified in P1 cannot 
+be effectively mobilised (Etzkowitz & Leydesdorff, 2000; Girardot, 2004, 2009). 
+Proposition 3 then captures the systemic outcome: it is precisely through the 
+structured interaction of all five helices (academia, industry, government, civil 
+society, and the environment) that sustainable territorial development out­
+comes emerge, rather than from the isolated contribution of any single actor 
+or dimension (Carayannis & Campbell, 2010, 2011; Galvão et al., 2019). Together, 
+P1, P2, and P3 reflect the relational logic underpinning the proposed TI model: 
+sustainability enables, governance coordinates, and multi-actor interaction 
+delivers.
+The proposed model operates across three analytical levels. At the macro 
+level, it refers to the broader institutional and policy architecture shaping terri­
+torial development, including cohesion policy, Smart Specialisation strategies 
+(RIS3), rural development programmes, sustainability objectives, environmen­
+tal regulation, and public funding instruments (McCann & Ortega-Argilés, 
+2018; OECD, 2020). At the meso level, the model concerns territorial innovation 
+ecosystems in which interactions among the helices are organised through net­
+works, partnerships, and intermediary structures. At the micro level, it focuses 
+on the local actors, organisations, and communities that engage in collabora­
+tive processes generating knowledge, innovation, and sustainable territorial 
+outcomes (Carayannis & Campbell, 2010, 2011; García-Madurga et al., 2020).
+Red arrows indicate macro-level policy feedback loops linking territorial 
+outcomes to policy adjustment and strategic learning.
+Importantly, the proposed model is not linear, but recursive in nature. 
+Feedback mechanisms emerge when territorial outcomes such as innovation 
+performance, social inclusion, sustainability improvements, or enhanced ter­
+ritorial attractiveness are monitored, interpreted, and reintroduced into gov­
+ernance processes, knowledge production, and collective decision-making, 
+thereby enabling learning and adaptive territorial strategies (Girardot, 2004, 
+2009; Carayannis & Campbell, 2010, 2011). In this sense, TI operates as a 
+dynamic system in which evaluation, participation, and institutional coordina­
+tion continuously reshape development pathways over time (García-Madurga 
+et al., 2020).
+The relationships among the helices are mutually enabling and itera­
+tive. Academia generates and transfers knowledge; governance coordinates, 
+regulates, and supports collective action; industry translates knowledge 
+
+
+25
+Territorial Intelligence
+triple helix ﻿(2026) 1–34 | 10.1163/21971927-bja10076
+into territorial value creation; society contributes through participation and 
+social validation; and the environment acts both as a contextual condition 
+and as a normative driver of sustainability-oriented innovation (Etzkowitz & 
+Leydesdorff, 2000; Carayannis & Campbell, 2010, 2011; García-Madurga et al., 
+2020). Together, these interactions shape the capacity of territories to design 
+and implement place-based development strategies (Camagni & Capello, 2013; 
+McCann & Ortega-Argilés, 2018).
+By positioning the Environment helix as a central driver of innovation through 
+practices such as the circular economy, renewable energy development, and 
+ecotourism, the model simultaneously addresses ecological sustainability chal­
+lenges and demographic attractiveness. In this sense, environmental resources 
+and sustainability-oriented strategies become key assets for transforming low-
+population-density regions into smart, resilient, and inclusive territories.
+Within this framework, the Governance helix, conceived as a multi-level 
+governance system, plays a coordinating role by promoting territorial cohesion 
+and inclusive policies, while ensuring the funding, regulation, and monitoring 
+of smart development initiatives (Rees, 2000; European Commission, 2018).
+The Academia helix contributes through the development of rural Living 
+Labs and knowledge-transfer mechanisms that support innovation in micro-
+enterprises, SMEs, and local communities (Camagni & Capello, 2013; Turečková 
+& Nevima, 2020). These experimentation hubs in low-density territories enable 
+researchers and local populations to test and co-develop technologies related, 
+for instance, to precision agriculture, environmental monitoring, and digital 
+services.
+The Industry helix focuses on adopting solutions aligned with local value 
+chains in order to strengthen the territorial economy while contributing to 
+broader sustainability goals, including ESG (Environmental, Social and Gover­
+nance) principles and carbon neutrality objectives (Navío-Marco et al., 2020). 
+Examples include the certification and digital marketing of endogenous 
+products such as honey, olive oil, or wine, as well as the development of inter-
+municipal e-commerce platforms.
+Finally, the Society (Community) helix plays a crucial role through active 
+participation in co-creation, co-design, and crowdsourcing processes that vali­
+date services and valorise the tangible and intangible cultural heritage of the 
+territory (Roth et al., 2013; Garau, 2014). Such participation may involve sup­
+porting cooperatives and cultural or rural associations in the management of 
+shared infrastructures, such as coworking spaces and innovation workshops, 
+thereby strengthening social capital within the territory. It may also include 
+the use of crowdsourcing and public consultation platforms to involve com­
+munities in the design of mobility plans or public space interventions, as well 
+
+
+26
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+as the promotion of digital literacy initiatives to facilitate access to online pub­
+lic services and support the testing of new service prototypes.
+7	
+Contributions
+7.1	
+Theoretical Contribution
+This study contributes to the theoretical development of TI by clarifying its 
+conceptual positioning within the broader literature on smart development 
+and territorial innovation systems. By systematically reviewing the scientific 
+production on the topic, the study highlights how TI has evolved from earlier 
+urban-centred smart city paradigms towards a more comprehensive territorial 
+perspective that integrates governance, knowledge systems, and sustainability 
+dimensions (Caragliu et al., 2011; Navío-Marco et al., 2020).
+Additionally, the article advances the conceptual understanding of TI by 
+proposing an integrative framework grounded in the Quintuple Helix model. 
+By explicitly incorporating the environmental dimension as a structuring axis 
+of innovation systems, the model contributes to bridging the literature on 
+territorial development with sustainability transitions and multi-actor inno­
+vation systems (Carayannis & Campbell, 2010, 2011; García-Madurga et al., 
+2020; Rosado-García et al., 2021). In doing so, the study offers a conceptual 
+lens through which TI can be interpreted as a governance-oriented approach 
+capable of articulating technological innovation, participatory processes, and 
+environmental sustainability within territorial development strategies.
+7.2	
+Methodological Contribution
+From a methodological perspective, this research contributes by combining 
+systematic literature review procedures with bibliometric analysis in order 
+to map the intellectual structure and thematic evolution of the TI field. This 
+mixed methodological approach enables the identification of key publication 
+trends, influential authors, and emerging research themes, while also sup­
+porting a deeper conceptual synthesis of the literature (Tranfield et al., 2003; 
+Donthu et al., 2021).
+By analysing a corpus of 66 peer-reviewed articles indexed in the Scopus 
+and Web of Science databases, the study provides a structured overview of the 
+academic development of TI between 1998 and 2024. The use of bibliometric 
+tools such as the Bibliometrix package allows the visualisation of thematic pat­
+terns and conceptual clusters, facilitating a systematic understanding of the 
+field’s evolution and research gaps.
+
+
+27
+Territorial Intelligence
+triple helix ﻿(2026) 1–34 | 10.1163/21971927-bja10076
+7.3	
+Policy and Practical Contribution
+Finally, the study offers relevant implications for policymakers and practi­
+tioners involved in territorial development strategies. The conceptual model 
+proposed in this research highlights the importance of multi-actor collabora­
+tion and governance coordination within territorial innovation ecosystems. In 
+particular, the Quintuple Helix framework emphasises the need to integrate 
+academic knowledge, industrial innovation, governance mechanisms, civil-
+society participation, and environmental sustainability in the design of ter­
+ritorial development policies (Carayannis & Campbell, 2010, 2011).
+These insights are particularly relevant for low-density and peripheral ter­
+ritories, where traditional smart city models may not adequately address local 
+development challenges. By adopting a TI perspective, policymakers may 
+design place-based strategies that combine digital innovation, environmental 
+sustainability, and community participation, contributing to more inclusive 
+and resilient territorial development pathways (McCann & Ortega-Argilés, 
+2018; OECD, 2020).
+8	
+Conclusions
+This study aimed to systematically analyse the scientific literature on TI in 
+order to understand its conceptual evolution and to position it within broader 
+territorial innovation and sustainability discussions. By combining a system­
+atic literature review with bibliometric analysis, the research mapped the 
+main publication trends, thematic orientations, and intellectual structures 
+influencing the development of this emerging field.
+The results reveal that the literature on TI has evolved in close connection 
+with the broader research streams on smart cities, regional innovation systems, 
+and territorial governance. Initially influenced by urban-centred smart city 
+paradigms, the field has progressively expanded towards more comprehensive 
+territorial approaches that integrate technological innovation, governance 
+mechanisms, and sustainability concerns (Caragliu et al., 2011; Navío-Marco 
+et al., 2020). This transition reflects a growing recognition that innovation 
+processes are embedded in complex territorial ecosystems involving multiple 
+actors, institutions, and socio-environmental dynamics.
+The bibliometric analysis also highlights the increasing prominence of 
+sustainability-related themes, suggesting that TI is progressively aligned with 
+contemporary discussions on sustainability transitions and place-based devel­
+opment strategies. In this sense, the Quintuple Helix framework provides a 
+
+
+28
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+useful conceptual lens to understand how interactions between academia, 
+industry, governance, civil society, and the environment can support more inte­
+grated territorial development processes (Carayannis & Campbell, 2010, 2011).
+Building on these insights, the article proposes a conceptual model of TI 
+grounded in the Quintuple Helix framework. The model emphasises the role of 
+environmental sustainability as a structuring dimension of territorial innova­
+tion systems and highlights the importance of collaborative governance and 
+multi-actor participation in influencing sustainable territorial development 
+pathways.
+From a theoretical perspective, this study contributes to clarifying the con­
+ceptual foundations of TI and its relationship with smart territorial develop­
+ment paradigms. Methodologically, the combination of systematic literature 
+review and bibliometric analysis provides a structured overview of the aca­
+demic development of the field between 1998 and 2024. From a policy per­
+spective, the proposed framework highlights the relevance of TI as a strategic 
+approach for designing place-based development policies capable of inte­
+grating digital innovation, environmental sustainability, and community 
+participation.
+These insights are particularly relevant for low-density and peripheral ter­
+ritories, where traditional smart city models may not adequately address local 
+development challenges. By fostering cooperation between territorial actors 
+and strengthening knowledge exchange within innovation ecosystems, TI may 
+support the transformation of rural and peripheral regions into more resilient, 
+inclusive, and sustainable territories.
+9	
+Limitations
+Despite its contributions, this study presents several limitations that should 
+be acknowledged. First, the literature review was restricted to publications 
+indexed in the Scopus and Web of Science databases, which, although widely 
+used in bibliometric studies, may exclude relevant contributions published in 
+other databases or grey literature sources. Consequently, some potentially rel­
+evant studies on TI or related territorial innovation approaches may not have 
+been captured in the analysed corpus.
+Second, the analysis focused exclusively on English-language journal arti­
+cles and review papers, which may limit the inclusion of relevant research 
+produced in other languages, particularly in regions where TI initiatives are 
+strongly linked to local development policies and regional governance practices.
+
+
+29
+Territorial Intelligence
+triple helix ﻿(2026) 1–34 | 10.1163/21971927-bja10076
+Third, the bibliometric approach adopted in this study highlights publica­
+tion patterns and thematic structures, rather than the in-depth empirical anal­
+ysis of individual case studies. While bibliometric techniques are useful for 
+identifying trends, influential contributions, and conceptual structures within 
+a research field (Donthu et al., 2021), they do not fully capture the contextual 
+and institutional dynamics that shape TI initiatives in specific territories.
+Finally, although the study proposes a conceptual model grounded in the 
+Quintuple Helix framework, the model remains conceptual in nature and has 
+not yet been empirically tested. Future empirical research is therefore neces­
+sary to validate and operationalise the proposed framework in different territo­
+rial contexts (Carayannis & Campbell, 2010, 2011).
+10	
+Future Research Directions
+Building on the limitations identified above, several avenues for future research 
+can be highlighted.
+First, future studies could expand the scope of the literature review by 
+including additional databases, conference proceedings, policy reports, and 
+grey literature sources. Such an expanded dataset could provide a more com­
+prehensive understanding of how TI is conceptualised and implemented 
+across different geographical and institutional contexts.
+Second, further research should focus on empirical case studies of TI ini­
+tiatives, particularly in rural and low-density territories. Comparative studies 
+across different regions could provide valuable insights into how multi-actor 
+governance systems, innovation ecosystems, and environmental sustainability 
+strategies interact in practice.
+Third, additional research could explore the operationalisation of the 
+proposed conceptual model, testing the relationships between the different 
+helices of the Quintuple Helix framework and their impact on territorial inno­
+vation and sustainable development outcomes. Such studies could employ 
+mixed methodological approaches combining qualitative case studies, social 
+network analysis, and regional innovation indicators.
+Fourth, future investigations may also examine the role of digital transfor­
+mation and smart technologies in supporting TI initiatives, particularly in 
+peripheral regions where digital infrastructures and knowledge networks play 
+an important role in reducing territorial disparities.
+Finally, further research could explore the relationship between TI and place-
+based regional development policies, including the role of smart specialisation 
+
+
+30
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+strategies, rural innovation policies, and sustainability transitions in influencing 
+territorial innovation ecosystems (McCann & Ortega-Argilés, 2018; OECD, 2020).
+	
+Authors’ Contributions
+Alex Rodrigues: Conceptualization, Investigation; Methodology, Formal anal­
+ysis, Writing.
+Anderson R. Galvão: Conceptualization, Investigation, Methodology, Formal 
+analysis, Writing & Review.
+Carla S. Marques: Supervision, Validation, Investigation, Writing & review; 
+Project administration.
+Lívia Madureira: Supervision, Validation, Investigation; Methodology, Formal 
+analysis.
+	
+Funding
+This work is funded by national funds through the FCT – Foundation for Science 
+and Technology, I.P., within the project BOLDER, ref. 2024.17994.PEX https://
+doi.org/10.54499/2024.17994.PEX and the project UID/04011/2025 (https://doi
+.org/10.54499/UID/04011/2025).
+	
+Conflicts of Interest
+The authors declare that they have no conflict of interest.
+	
+Data Availability
+The datasets generated and/or analysed during the current study are included 
+in this published article.
+	
+Ethics Approval
+This article does not contain any studies with human participants or animals 
+performed by any of the authors.
+
+
+31
+Territorial Intelligence
+triple helix ﻿(2026) 1–34 | 10.1163/21971927-bja10076
+References
+Allaire, J. (2012). RStudio: integrated development environment for R. Boston, MA, 
+770(394), 165–171.
+Barca, F. (2009). An Agenda for a Reformed Cohesion Policy. Brussels: European 
+Commission.
+Barca, F., McCann, P., & Rodríguez-Pose, A. (2012). The case for regional development 
+intervention: Place-based versus place-neutral approaches. Journal of Regional Sci­
+ence, 52 (1), 134–152. https://doi.org/10.1111/j.1467-9787.2011.00756.x.
+Batty, M., Axhausen, K.W., Giannotti, F., Pozdnoukhov, A., Bazzani, A., Wachowicz, M., 
+& Portugali, Y. (2012). Smart cities of the future. The European Physical Journal Spe­
+cial Topics, 214 (1), 481–518. https://doi.org/10.1140/epjst/e2012-01703-3.
+Bento, R., Guedes, A., & Ramos, L. (2021). A new methodology for low-density defini­
+tion and its effect on tourism development analysis: the case of Portugal. In The 
+Impact of Tourist Activities on Low-Density Territories: Evaluation Frameworks, Les­
+sons, and Policy Recommendations (pp. 1–22). Cham: Springer International Publish­
+ing. https://doi.org/10.1007/978-3-030-65524-2_1.
+Boisier, S. (2003). Knowledge society, social knowledge, and territorial management. 
+Regional Development Studies, 9, 131–161.
+Bridger, J.C., & Alter, T.R. (2008). An interactional approach to place-based rural deve­
+lopment. Community Development, 39(1), 99–111. https://doi.org/10.1080/15575330
+809489744.
+Büyükkıdık, S. (2022). A bibliometric analysis: A tutorial for the Bibliometrix package 
+in R using IRT literature. Journal of Measurement and Evaluation in Education and 
+Psychology, 13(3), 164–193. https://doi.org/10.21031/epod.1069307.
+Camagni, R., & Capello, R. (2013). Regional competitiveness and territorial capital: 
+A conceptual approach and empirical evidence from the European Union. Regional 
+Studies, 47(9), 1383–1402. https://doi.org/10.1080/00343404.2012.681640.
+Caragliu, A., Del Bo, C., & Nijkamp, P. (2011). Smart cities in Europe. Journal of Urban 
+Technology, 18(2), 65–82. https://doi.org/10.1080/10630732.2011.601117.
+Carayannis, E.G., & Campbell, D.F.J. (2010). Triple Helix, Quadruple Helix and Quin­
+tuple Helix and how do knowledge, innovation and the environment relate to each 
+other? A proposed framework for a trans-disciplinary analysis of sustainable devel­
+opment and social ecology. International Journal of Social Ecology and Sustainable 
+Development 1(1), 41–69. https://doi.org/10.4018/jsesd.2010010105.
+Carayannis, E.G., & Campbell, D.F. (2011). Mode 3 knowledge production in quadru­
+ple helix innovation systems: Twenty-first-century democracy, innovation, and 
+entrepreneurship for development. In Mode 3 knowledge production in quadruple 
+helix innovation systems: 21st-century democracy, innovation, and entrepreneurship 
+
+
+32
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+for development (pp. 1–63). New York, NY: Springer New York. https://doi.org
+/10.1007/978-1-4614-2062-0_1.
+Carayannis, E. G., Barth, T. D., & Campbell, D. F. J. (2012a). The Quintuple Helix inno­
+vation model: Global warming as a challenge and driver for innovation. Journal of 
+Innovation and Entrepreneurship, 1, Article 2. DOI: 10.1186/2192-5372-1-2.
+Cocchia, A. (2014). Smart and digital city: A systematic literature review. In: Dameri, R., 
+Rosenthal-Sabroux, C. (eds) Smart City. Progress in IS. Springer, Cham. https://doi
+.org/10.1007/978-3-319-06160-3_2.
+Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., & Lim, W.M. (2021). How to conduct a 
+bibliometric analysis: An overview and guidelines. Journal of Business Research, 133, 
+285–296. https://doi.org/10.1016/j.jbusres.2021.04.070.
+Etzkowitz, H., & Leydesdorff, L. (2000). The dynamics of innovation: From National 
+Systems and “Mode 2” to a Triple Helix of university–industry–government rela­
+tions. Research Policy, 29(2), 109–123. https://doi.org/10.1016/S0048-7333(99)00055-4.
+European Network for Rural Development (ENRD). (2018). Smart villages: Revitalising 
+rural services. European Commission. https://enrd.ec.europa.eu.
+Eurostat (2021). Population and housing census 2021 – Population grids. European 
+Commission. https://ec.europa.eu/eurostat/statistics-explained/index.php?title
+=Population_and_housing_census_2021_-_population_grids.
+Foray, D., Morgan, K., & Radosevic, S., (2018). The Role of Smart Specialisation in the EU 
+Research and Innovation Policy Landscape. Available at. European Commission. 
+http://ec.europa.eu/regional_policy/sources/docgener/brochure/smart/role_smart
+specialisation_ri.pdf.
+Galvão, A., Mascarenhas, C., Marques, C., Ferreira, J.J., & Ratten, V. (2019). Triple Helix 
+and its evolution: A systematic literature review. Journal of Science and Technology 
+Policy Management, 10(3), 812–833. https://doi.org/10.1108/JSTPM-10-2018-0103.
+Gambette, P., & Véronis, J. (2010, May). Visualising a text with a tree cloud. In Clas­
+sification as a Tool for Research: Proceedings of the 11th IFCS Biennial Conference and 
+33rd Annual Conference of the Gesellschaft für Klassifikation eV, Dresden, March 13–18, 
+2009 (pp. 561–569). Berlin, Heidelberg: Springer Berlin Heidelberg. https://doi
+.org/10.1007/978-3-642-10745-0_61.
+Garau, C. (2014). Smart paths for advanced management of cultural heritage. Regional 
+Studies, Regional Science, 1(1), 286–293. https://doi.org/10.1080/21681376.2014.973439.
+Garau, C. (2015). Perspectives on cultural and sustainable rural tourism in a smart 
+region: The case study of Marmilla in Sardinia (Italy). Sustainability, 7(6), 6412–6434. 
+https://doi.org/10.3390/su7066412.
+García-Madurga, M.Á., Grilló-Méndez, A.J., & Esteban-Navarro, M.Á. (2020). Territorial 
+intelligence, a collective challenge for sustainable development: A scoping review. 
+Social Sciences, 9(7), 126. https://doi.org/10.3390/socsci9070126.
+
+
+33
+Territorial Intelligence
+triple helix ﻿(2026) 1–34 | 10.1163/21971927-bja10076
+Gibbons, M., Limoges, C., Nowotny, H., Schwartzman, S., Scott, P., & Trow, M. (1994). 
+The New Production of Knowledge The Dynamics of Science and Research in Contem­
+porary Societies. SAGE Publications Ltd.
+Girardot, J.-J. (2004). Territorial intelligence and participation. ISDM 16, 1–13.
+Girardot, J.-J. (2009). Evolution of the concept of territorial intelligence within the 
+coordination action of the European Network of Territorial Intelligence. Res-Ricerca e 
+Sviluppo per le Politiche Sociali, 1(2), 11–29.
+Gretzel, U. (2018). From smart destinations to smart tourism regions. Investigaciones 
+Regionales-Journal of Regional Research, (42), 171–184.
+Hollands, R.G. (2020). Will the real smart city please stand up?: Intelligent, progres­
+sive or entrepreneurial?. In The Routledge companion to smart cities (pp. 179–199). 
+Routledge.
+Keryan, T., Veréb, V., Madureira, L., Bento, R., Ramos, L., Marques, C., & Dax, T. (2025). 
+Is low-density a viable territorial category for enhancing EU cohesion policy imple­
+mentation? European Planning Studies, 33(4), 491–511. https://doi.org/10.1080/0965
+4313.2025.2451395.
+Lewandowska, A., Stopa, M., & Inglot-Brzęk, E. (2021). Innovativeness and entrepre­
+neurship: Socioeconomic remarks on regional development in peripheral regions. 
+Economics and Sociology, 14(2), 222–235. https://doi.org/10.14254/2071-789X.2021
+/14-2/12.
+Marques, C.S., Santos, G., Ratten, V., & Barros, A.B. (2019). Innovation as a booster of 
+rural artisan entrepreneurship: A case study of black pottery. International Journal 
+of Entrepreneurial Behavior and Research, 25(4), 753–772. https://doi.org/10.1108
+/IJEBR-02-2018-0104.
+Marzi, G., Caputo, A., Garces, E., & Dabić, M. (2018). A three-decade mixed-method 
+bibliometric investigation of the IEEE Transactions on Engineering Management. 
+IEEE Transactions on Engineering Management, 67(1), 4–17. https://doi.org/10.1109
+/TEM.2018.2865442.
+Marzi, G., Balzano, M., Caputo, A., & Pellegrini, M.M. (2025). Guidelines for bibliometric-
+systematic literature reviews: 10 steps to combine analysis, synthesis, and theory 
+development. International Journal of Management Reviews, 27(1), 81–103. https://
+doi.org/10.1111/ijmr.12381.
+McCann, P., & Ortega-Argilés, R. (2015). Smart Specialization, Regional Growth and 
+Applications to European Union Cohesion Policy. Regional Studies, 49(8), 1291–1302. 
+https://doi.org/10.1080/00343404.2013.799769.
+McCann, P., & Ortega-Argilés, R. (2018). The early experience of smart specialization 
+implementation in EU cohesion policy. In Regional Innovation Strategies 3 (RIS3) 
+(pp. 15–35). Routledge.
+Nam, T., & Pardo, T.A. (2011). Conceptualizing smart city with dimensions of tech­
+nology, people, and institutions. In: Proceedings of the 12th Annual International 
+
+
+34
+Rodrigues et al.
+10.1163/21971927-bja10076 | triple helix ﻿(2026) 1–34
+Conference on Digital Government Research, pp. 282–291. New York: ACM. https://doi
+.org/10.1145/2037556.2037602.
+Navío-Marco, J., Rodrigo-Moya, B., & Gerli, P. (2020). The rising importance of the 
+“smart territory” concept: Definition and implications. Land Use Policy, 99, 105003. 
+https://doi.org/10.1016/j.landusepol.2020.105003.
+OECD (2020). Rural Well-Being: Geography of Opportunities. Paris: OECD Publish­
+ing. https://www.oecd.org/content/dam/oecd/en/publications/support-materials
+/2020/10/rural-well-being_8d2d0140/Rural-Well-Being-policy-highlights-en.pdf.
+Orejón-Sánchez, R.D., Crespo-García, D., Andrés-Díaz, J.R., & Gago-Calderón, A. (2022). 
+Smart cities’ development in Spain: A comparison of technical and social indicators 
+with reference to European cities. Sustainable Cities and Society 81, 103828. https://
+doi.org/10.1016/j.scs.2022.103828.
+Rees, T. (2000). The learning region? Integrating gender equality into regional eco­
+nomic development. Policy and Politics, 28(2), 179–191. https://doi.org/10.1332/0305
+573002500910.
+Rosado-García, M.J., Kubus, R., Argüelles-Bustillo, R., & García-García, M.J. (2021). 
+A New European Bauhaus for a culture of transversality and sustainability. Sustain­
+ability, 13(21), 11844. https://doi.org/10.3390/su132111844.
+Roth, S., Kaivo-Oja, J., & Hirschmann, T. (2013). Smart regions: Two cases of crowd­
+sourcing for regional development. International Journal of Entrepreneurship and 
+Small Business, 20(3), 272–285. https://doi.org/10.1504/IJESB.2013.056890.
+Tranfield, D., Denyer, D., & Smart, P. (2003). Towards a methodology for developing 
+evidence-informed management knowledge by means of systematic review. British 
+Journal of Management, 14(3), 207–222. https://doi.org/10.1111/1467-8551.00375.
+Turečková, K., & Nevima, J. (2020). The cost benefit analysis for the concept of a smart 
+city: How to measure the efficiency of smart solutions? Sustainability, 12(7), 2663. 
+https://doi.org/10.3390/su12072663.
+United Nations General Assembly. (2015). Transforming our world: The 2030 Agenda 
+for Sustainable Development (A/RES/70/1). United Nations. https://sdgs.un.org
+/2030agenda.
+Valdez, A.M., Cook, M., & Potter, S. (2018). Roadmaps to utopia: Tales of the smart city. 
+Urban Studies, 55(15), 3385–3403. https://doi.org/10.1177/0042098017747857.

@@ -1,0 +1,774 @@
+Cuadernos de Turismo, 51, (2023), 281-299
+Cuadernos de Turismo, nº 51, (2023); pp. 281-299	
+Universidad de Murcia
+eISSN: 1989-4635
+DOI: https://doi.org/10.6018/turismo.571631
+Fecha de recepción: 2 de octubre de 2022.
+Fecha de aceptación: 19 de enero de 2023.
+*Departamento de Economía de la Empresa. Facultad de Ciencias de la Economía y la Empresa. Universidad 
+Rey Juan Carlos. Paseo de Artilleros, s/n. 28032 MADRID (España). E-mail: alberto.azuara@urjc.es. 
+EL APROVECHAMIENTO TURÍSTICO DEL 
+FERROCARRIL CONVENCIONAL COMO VÍA DE 
+IMPULSO TERRITORIAL: EL CASO DE LA LÍNEA 
+DEL DUERO (PORTUGAL) COMO MODELO PARA EL 
+FFCC ARANJUEZ-CUENCA-UTIEL
+Alberto Azuara Grande*
+Universidad Rey Juan Carlos
+https://orcid.org/0000-0002-8432-0065 
+RESUMEN
+Ante la cada vez mayor importancia del ferrocarril en el contexto global, ya sea como 
+medio de transporte, o bien, como producto turístico, en el presente trabajo se pretende pro-
+porcionar una alternativa al cierre al tráfico de la línea férrea Aranjuez-Cuenca-Utiel. Desde 
+la óptica del turismo sostenible, se pretende destacar el papel de este ferrocarril como un 
+elemento vertebrador del territorio capaz de impulsar el desarrollo socioeconómico. La recu-
+peración e impulso de línea del Duero en Portugal es presentada como ejemplo de buenas 
+prácticas para el futuro de la línea conquense.
+Palabras clave: Turismo; ferrocarril; Cuenca; sostenibilidad; desarrollo territorial.
+Tourism and railways as a way of territorial development: the case of the Duero line 
+(Portugal) as a model for the Aranjuez-Cuenca-Utiel railroad
+ABSTRACT
+Given the increasing importance of railways in the global context, either as a means of 
+transport or as a tourist product, this paper aims to provide an alternative to the closure of 
+
+
+ALBERTO AZUARA GRANDE
+282
+Cuadernos de Turismo, 51, (2023), 281-299
+the Aranjuez-Cuenca-Utiel railway in Spain. From the point of view of sustainable tourism, 
+it is intended to highlight the role of this railway as a backbone of territorial socioeconomic 
+development. The recovery and enhancement of the Portuguese Duero line is presented as an 
+example for the future of the Cuenca’s Province railway.
+Keywords: Tourism; railways; Cuenca; sustainability; regional development.
+1. 	INTRODUCCIÓN
+La crisis mundial derivada de las restricciones de movilidad provocadas por el 
+Covid-19 y su impacto sobre la actividad turística, ha acentuado el debate sobre la soste-
+nibilidad del modelo turístico a nivel mundial. Este debate ha sido especialmente intenso 
+en países líderes en llegadas de turistas como es España, donde se ha vislumbrado la 
+vulnerabilidad del sistema turístico ante grandes crisis (Romero Padilla, Romero Mar-
+tínez y Navarro Jurado, 2020; Pitarch Garrido, 2020). De forma paralela, el turismo 
+mundial se ve afectado ante los desafíos que provoca el Cambio Climático, pudiendo 
+ser una de las actividades socioeconómicas más afectadas (Olcina Cantos, 2020). Ante 
+estos hechos, están tomando cada vez más protagonismo propuestas que abogan por una 
+contención del crecimiento de las cifras turísticas (Romero Padilla et al., 2020), o que, 
+incluso, apuestan por el decrecimiento turístico (Fletcher, Murray Mas, Blanco Romero 
+y Blázquez Salom, 2019). En este sentido, parece claro que estos dos hechos (crisis del 
+Covid-19 y Cambio Climático) suponen un punto de inflexión para el futuro del turismo 
+en España y a nivel mundial, siendo necesario apostar por estrategias que a medio y 
+largo plazo traten de paliar las deficiencias del modelo turístico masivo y, así corregir 
+malas prácticas del pasado (Romero Padilla et al., 2020, Mantecón, 2020). Igualmente, 
+se determina al sector turístico como de interés para la sociedad y altamente competitivo, 
+por lo que éste debe salir fortalecido tras la crisis del Covid-19 y afrontar el desafío del 
+Cambio Climático mediante la aplicación de los principios del Desarrollo Sostenible 
+(Padrón Fumero y Hernández Martín, 2020). Por tanto, se apuesta por un cambio de 
+paradigma, en el que se plantean modificaciones en los patrones de viaje y se insta a 
+dar mayor importancia al turismo local o de proximidad, mucho menos dependiente del 
+tráfico aéreo (Grande, 2020; Martínez Quintana, 2020; Pitarch Garrido, 2020).
+En este nuevo paradigma, el transporte por ferrocarril juega un papel fundamental, al 
+haberse destacado como ejemplo de sostenibilidad y eficiencia frente al transporte por 
+carretera y aéreo (Comisión Europea, 2021; Gobierno de España, 2021). Con el objetivo 
+de impulsar la movilidad mediante el ferrocarril, la Unión Europea desarrolló la ini-
+ciativa “Año Europeo del Ferrocarril 2021”, que permitía dar a conocer las intenciones 
+de la Comisión Europea en este aspecto (Decisión 2020/2228 del Parlamento Europeo 
+y del Consejo, 2020; European Year of Rail, 2022). De forma añadida, el ferrocarril 
+no sólo puede ser considerado un medio de transporte, sino que, además, en el caso de 
+los trenes históricos, suponen una atracción turística por sí mismos, donde “el viaje en 
+tren se convierte en la verdadera razón de ser de la experiencia turística” (Babinger, 
+2011:716). En este sentido, el patrimonio ferroviario y su disposición hacia el turista jue-
+
+
+EL APROVECHAMIENTO TURÍSTICO DEL FERROCARRIL CONVENCIONAL COMO VÍA...
+283
+Cuadernos de Turismo, 51, (2023), 281-299
+gan un papel destacado en las experiencias favorables del visitante al practicar turismo 
+ferroviario (Lee y Chen, 2017). Por tanto, es posible afirmar que el turismo ferroviario 
+es, al mismo tiempo, ejemplo de movilidad sostenible hacia áreas turísticas, y elemento 
+de preservación y difusión del patrimonio ferroviario (Dallen, 2007).
+A pesar de todo, y en línea contraria a lo expuesto anteriormente, en el último tri-
+mestre de 2021 el Gobierno de España a través del Ministerio de Transportes, Movili-
+dad y Agenda Urbana (MITMA), en conjunto con distintas asociaciones empresariales 
+e instituciones autonómicas y locales, iniciaron un plan para clausurar prácticamente 
+en su totalidad el ferrocarril Aranjuez-Cuenca-Utiel (MITMA, 2022a, 2022b, 2022c). 
+El previsible cierre de la mencionada línea férrea afecta especialmente a los munici-
+pios rurales atravesados por la misma, que pierden su conexión ferroviaria regular, así 
+como el potencial uso turístico que podría hacerse de dicha infraestructura. Siguiendo 
+los preceptos establecidos en Dallen (2007) y Babinger (2011), el uso turístico del 
+ferrocarril supone una alternativa al cierre de líneas férreas secundarias, e impulsa la 
+preservación del patrimonio ferroviario existente.
+De este modo, el objetivo de este trabajo es presentar una alternativa desde la pers-
+pectiva del turismo sostenible al cierre de esta línea férrea, tomando como ejemplo los 
+esfuerzos acontecidos en la Linha do Douro portuguesa para revitalizar dicho trazado 
+ferroviario, en el que se compatibiliza el uso regular del ferrocarril con el turístico para 
+acceder a un espacio de gran interés paisajístico y cultural declarado Patrimonio de la 
+Humanidad, como es el Alto Douro Vinhateiro.
+2. 	EL BINOMIO TURISMO-FERROCARRIL EN ESPAÑA: INVESTIGACIONES 
+REALIZADAS
+Las potencialidades del ferrocarril como instrumento de aprovechamiento turístico 
+en España han sido puestas de manifiesto en distintas investigaciones, las cuales, a 
+pesar de no resultar demasiado numerosas, permiten verificar la forma que se ha pro-
+cedido a proyectar las diferentes iniciativas turísticas en relación con el ferrocarril. El 
+trabajo de Piquero-Álvarez (1999) fue pionero en este aspecto, analizando la situación 
+de la ya extinta compañía FEVE (Ferrocarriles Españoles de Vía Estrecha). En él, el 
+autor demostraba cómo mejorarían las perspectivas de futuro de la compañía, hoy 
+integrada en Renfe y ADIF (Administrador de Infraestructuras Ferroviarias), orien-
+tando y coordinando los servicios de trenes regionales hacia una doble perspectiva 
+turística y de servicio público, al mismo tiempo que se apostaba por el mantenimiento 
+de trenes turísticos puros, como el “Transcantábrico”. Concretamente, Magadán Díaz 
+y Rivas García (2011) analizan el caso de este tren turístico de lujo, que dotó a la 
+vía estrecha española de mayor protagonismo y nivel de calidad en la oferta de sus 
+servicios, mediante un producto turístico capaz de atraer a viajeros internacionales y 
+de mayor poder adquisitivo. 
+En una magnitud diferente, nos encontramos el caso del Tren Medieval de Sigüenza 
+(Pérez Calderón, Milanés Montero, Mondéjar Jiménez, y Vargas Vargas, 2011), así como 
+en el desarrollo turístico a través del Cremallera del Valle de Núria (Peiró Signes, Sega-
+rra Oña, Miret Pastor, y De Miguel Molina, 2011). En el caso de este último, los autores 
+
+
+ALBERTO AZUARA GRANDE
+284
+Cuadernos de Turismo, 51, (2023), 281-299
+ponen de manifiesto como gracias al tren cremallera, el Valle de Núria se ha situado 
+entre los centros turísticos de referencia en los Pirineos. Así, Peiró Signes et al. (2011) 
+destacan la utilización del ferrocarril para acceder a los principales centros turísticos 
+del valle, posibilitando una mejor distribución de los visitantes, con el fin de minorar 
+los impactos producidos por el desarrollo de las actividades turísticas. 
+En el caso del Tren Medieval, Pérez Calderón et al. (2011) lo consideran como un 
+éxito y modelo a seguir por otras iniciativas, debido a los altos índices de ocupación 
+que lleva registrando el producto desde su creación y al grado de satisfacción de los 
+turistas. Estos buenos resultados son debidos, según Pérez Calderón et al. (2011), gracias 
+al impulso y continua colaboración de las entidades participantes en el proyecto, que 
+han seguido apostando por el Tren Medieval como forma de acceso sostenible e integra-
+dora a la ciudad de Sigüenza. Asimismo, estos autores destacan la importancia de otro 
+de estos ejemplos, el del “Tren de la Fresa”, que permitió crear un producto turístico 
+constante a lo largo de los últimos 30 años, lo que pone de manifiesto el potencial del 
+ferrocarril como elemento dinamizador del turismo (Pérez Calderón et al. 2011).
+Siguiendo estos principios, Fernández Portela y Soria Cáceres (2013) planteaban una 
+forma de ligar el rico patrimonio enológico de la Ribera del Duero con el ferrocarril, 
+creando un producto turístico mediante la recuperación de parte de la antigua línea ferro-
+viaria entre Valladolid y Ariza. 
+Igualmente, la relación entre turismo, sostenibilidad y ferrocarril es analizada por 
+Villanueva Cuevas (2011), declarando la necesidad de conseguir un turismo cada vez más 
+responsable y sostenible. El autor, en línea con los preceptos de Cañizares Ruiz (2005) 
+sobre la gestión turística del patrimonio industrial, concluye que el ferrocarril, al ser un 
+transporte sostenible y a la vez apto para su uso e incorporación a los destinos turísticos, 
+debería encontrarse planificado y regulado en el momento en el que se pretenda establecer 
+cualquier desarrollo turístico y viceversa, con el fin de que ambas disciplinas, turismo y 
+ferrocarril, no sean incompatibles.
+Por otro lado, existen investigaciones en las que se ha analizado la conversión 
+de antiguas líneas férreas en vías verdes para uso cicloturista o senderista (Cebrián 
+Abellán, 2011; Aycart Luengo, 2013; Ventura Fernández y Contreras Cabrera, 2018). 
+En este sentido, los autores destacan las potencialidades de las vías verdes, vinculadas 
+a un aprovechamiento del patrimonio ferroviario existente, y a la consolidación de 
+nuevos modelos de apoyo al desarrollo socioeconómico de los territorios mediante 
+el cicloturismo. No obstante, éstos también hacen referencia a la falta de productos 
+turísticos consolidados en torno a estas infraestructuras, así como a la mala planifica-
+ción y al deficiente de conservación en el que se encuentran distintos tramos de estas 
+(Ventura Fernández y Contreras Cabrera, 2018).
+Finalmente, debe destacarse que, de forma más reciente, han venido surgiendo publi-
+caciones que han tratado de vislumbrar la relación existente entre ferrocarril de alta velo-
+cidad y turismo en España, determinando la capacidad de esta modalidad de transporte de 
+atraer flujos turísticos a los destinos afectados, la cual no queda debidamente demostrada 
+(De la Campa Cascales, 2017; Albalate, Campos y Jiménez, 2017).
+
+
+EL APROVECHAMIENTO TURÍSTICO DEL FERROCARRIL CONVENCIONAL COMO VÍA...
+285
+Cuadernos de Turismo, 51, (2023), 281-299
+3. EL FERROCARRIL ARANJUEZ-CUENCA-UTIEL. EVOLUCIÓN Y SITU-
+ACIÓN ACTUAL
+La línea tiene su origen a mediados del siglo XIX, cuando se aprobó la concesión 
+para construir una vía férrea que conectase la línea Madrid-Levante/Andalucía con la 
+provincia de Cuenca (Fundación de los Ferrocarriles Españoles, 1988; Muñoz, 2019:39). 
+Dadas las características de la provincia conquense, de carácter periférico, desconectada de 
+buena parte del desarrollo industrial existente en otras zonas de España, y con un escaso 
+desarrollo socioeconómico, la construcción de este ferrocarril sufrió grandes retrasos 
+y no resultó ser de máxima prioridad su construcción (Fundación de los Ferrocarriles 
+Españoles, 1988:43; De los Cobos Arteaga, 1998; Muñoz, 2019:64-71). Distintas opcio-
+nes para su trazado fueron planteadas, y junto con los retrasos y problemas económicos 
+de la compañía concesionaria, la línea férrea entre Aranjuez y Cuenca no fue concluida 
+y abierta hasta 1883 (Fundación de los Ferrocarriles Españoles, 1988; Muñoz, 2019:71-
+74). Igualmente, su explotación contó con limitaciones y problemáticas desde sus inicios, 
+dado el escaso interés de la compañía MZA (Madrid-Zaragoza-Alicante), que finalmente 
+asumió su explotación, al considerarla línea de carácter secundario (Muñoz, 2019:78-80).
+Figura 1
+ MAPA DEL TRAMO ARANJUEZ-CUENCA (GRIS) EN LA RED  
+FERROVIARIA ESPAÑOLA
+Fuente: ADIF (2022).
+
+
+ALBERTO AZUARA GRANDE
+286
+Cuadernos de Turismo, 51, (2023), 281-299
+Figura 2
+ MAPA DEL TRAMO CUENCA-UTIEL (GRIS) EN LA RED FERROVIARIA ESPAÑOLA
+Fuente: ADIF (2022).
+Si la construcción del primer tramo hasta la ciudad conquense conllevó numerosas 
+dificultades, la construcción del resto del trazado que la conectase con el tramo inaugurado 
+en 1887 entre Utiel y Valencia sufrió aún más retrasos en su construcción, llegándose a 
+plantear en distintas ocasiones la viabilidad de dichas obras (Muñoz, 2019:195-199). En 
+1926, durante la Dictadura de Primo de Rivera, se declaró “de urgente construcción” el 
+mencionado tramo entre Cuenca y Utiel, pero su construcción nunca fue terminada ante la 
+inestabilidad política y la crisis económica acontecida en España (Fundación de los Ferroca-
+rriles Españoles, 1988:42; Muñoz, 2019:222-232). No fue hasta después de la Guerra Civil, 
+en 1947, durante la Dictadura de Franco, y ya con RENFE (Red Nacional de los Ferrocarriles 
+Españoles) creada y a cargo de la línea, cuando se inauguró finalmente el mencionado tramo, 
+permitiendo completar todo el recorrido entre la capital española y Valencia. (Fundación de 
+los Ferrocarriles Españoles, 1988:42-43; Muñoz, 2019:232-238). Debe destacarse que, este 
+último tramo, ya nació restringido únicamente a un tráfico ferroviario de baja intensidad y 
+desactualizado para la época, por las condiciones de su trazado, sinuoso, no apto para ele-
+vadas velocidades comerciales, y sin electrificar (Muñoz, 2019:268-271).
+Todas estas limitaciones mencionadas provocaron que, a lo largo de las siguientes déca-
+das, la línea siguiera siendo de escasa prioridad para RENFE. La excepción a esta situación 
+
+
+EL APROVECHAMIENTO TURÍSTICO DEL FERROCARRIL CONVENCIONAL COMO VÍA...
+287
+Cuadernos de Turismo, 51, (2023), 281-299
+fue el periodo entre 1964 y 1980, cuando RENFE decidió apostar por el trazado directo por 
+Cuenca para implantar los nuevos trenes Talgo entre Madrid y Valencia (Muñoz, 2019:275-
+278). La situación no se prolongó durante demasiado tiempo, y salvo algunas mejoras 
+implantadas en la década de 1980, la línea continuó en decadencia y se salvó del cierre al 
+tráfico de viajeros acontecido el 31 de diciembre de 1984 gracias a la voluntad de la Junta 
+de Castilla-La Mancha (Muñoz, 2019:278-285). Durante la década de 1990, RENFE apostó 
+firmemente por el trazado Madrid-Valencia vía Albacete, manteniéndose el tráfico de trenes 
+regionales por Cuenca gracias a la administración autonómica, que se hizo cargo del déficit 
+de explotación de la línea. Mientras, la compañía ferroviaria decidió mantener en las condi-
+ciones mínimas de seguridad el trazado conquense, sin realizar mayores inversiones, lo que 
+limitaba su explotación satisfactoria (De los Cobos-Arteaga, 1998; Muñoz, 2019:285-290).
+Con la división en 2005 de RENFE en Renfe Operadora y ADIF (Administrador de 
+Infraestructuras Ferroviarias), la situación del ferrocarril en Cuenca no se modificó. La 
+construcción de la nueva línea de alta velocidad entre Madrid y Valencia, inaugurada 
+en 2010, así como el recorte de horarios acontecido en 2012 en la línea convencional, 
+incorporando un transbordo en Aranjuez, hicieron languidecer dicho ferrocarril hasta la 
+situación actual, con una progresiva bajada en la calidad del servicio, y, por tanto, en el 
+número de viajeros de ésta (Muñoz, 2019:307-313).
+Por último, en cuanto al uso de esta línea de forma turística, debe destacarse el enorme 
+potencial de esta línea, el cual no ha sido aprovechado lo suficiente a lo largo de las últimas 
+décadas. Únicamente durante un breve periodo en la década de 1980, se puso en funcio-
+namiento el tren turístico “Ciudad Encantada de Cuenca” (Muñoz, 2019:285). Asimismo, 
+es necesario mencionar que cuenta con infraestructuras patrimoniales protegidas dentro 
+del catálogo de ADIF, como el Viaducto de Víllora (Torres Mendoza y López Peco, 2022), 
+y otros que resultan ser de gran interés y atractivo turístico potencial, como el viaducto 
+Torres-Quevedo (Muñoz, 2019:422-424). 
+Figura 3
+VIADUCTO DE VÍLLORA
+Fuente: Federación Castellanomanchega de Amigos del Ferrocarril.
+
+
+ALBERTO AZUARA GRANDE
+288
+Cuadernos de Turismo, 51, (2023), 281-299
+Figura 4
+ VIADUCTO TORRES-QUEVEDO
+Fuente: Federación Castellanomanchega de Amigos del Ferrocarril.
+4. LA LÍNEA DEL DUERO (LINHA DO DOURO) EN PORTUGAL: USO TURÍSTICO 
+Y RECUPERACIÓN PROGRESIVA DE SU IMPORTANCIA FERROVIARIA
+La Línea del Duero fue construida con unos propósitos muy claros de conectar la ciu-
+dad de Oporto con la región vitivinícola del río Duero en su tramo portugués (Cerqueira 
+Esteves, 2013). La línea se inicia en la estación de Emersinde, donde se conecta con la 
+línea férrea principal entre Lisboa y Oporto, y su construcción hasta Barca d’Alva, en la 
+frontera con España, se realizó entre 1873 y 1887, siendo este último año en el que se 
+finalizó la línea completa (Cerqueira Esteves, 2013; Infraestructuras de Portugal, 2016). 
+Cerqueira Esteves (2013) destaca que el ferrocarril supuso un impulso positivo durante 
+finales del XIX y principios del XX a la economía de la zona. Sin embargo, los efectos de 
+la despoblación y un menor interés dedicado al transporte ferroviario en Portugal durante 
+la segunda mitad del XX, hicieron entrar en declive a la línea y a sus circundantes rama-
+les (Cerqueira Esteves, 2013). A pesar de todo, el principal acontecimiento que provocó 
+que la Línea del Duero quedase relegada a una posición periférica en la red ferroviaria 
+de Portugal fue la pérdida de su componente internacional, derivado del cierre en 1985 
+del tramo español entre Fuente de San Esteban y Barca d’Alva, que permitía la conexión 
+con Salamanca (Cerqueira Esteves, 2013; Infraestructuras de Portugal, 2016; Lalana Soto, 
+Santos y Ganges, 2022). Ello desembocó en el cierre de 1988 del extremo este de la línea 
+portuguesa, entre Pocinho y Barca d’Alva, así como el progresivo cierre del resto de 
+ramales que la conectaban con otras zonas del interior del país (Cerqueira Esteves, 2013).
+
+
+EL APROVECHAMIENTO TURÍSTICO DEL FERROCARRIL CONVENCIONAL COMO VÍA...
+289
+Cuadernos de Turismo, 51, (2023), 281-299
+Figura 5
+MAPA DEL TRAMO OPORTO-REGUA EN LA RED FERROVIARIA PORTUGUESA
+Fuente: Infraestructuras de Portugal (2022).
+Figura 6
+ MAPA DEL TRAMO REGUA-POCINHO-BARCA D’ALVA EN LA RED FERROVIARIA 
+PORTUGESA
+Fuente: Infraestructuras de Portugal (2022).
+
+
+ALBERTO AZUARA GRANDE
+290
+Cuadernos de Turismo, 51, (2023), 281-299
+No fue hasta ya entrado el siglo XXI cuando se decidió apostar de nuevo por la línea, 
+creándose en 2007 una comisión por la reapertura del tramo cerrado de la línea, e impul-
+sando nuevos tráficos turísticos en el tramo central en servicio, denominados Comboios 
+Históricos do Douro, ante una esperanzadora declaración como Patrimonio de la Humani-
+dad de la región del Alto Douro Vinhateiro en 2001 (Cerqueira Esteves, 2013). Desde este 
+momento, todo parece indicar que el futuro de la línea pasa por sus conexiones con España 
+y por su uso turístico de primer nivel, al mismo tiempo que se mantienen los tráficos de 
+trenes regulares regionales (Infraestructuras de Portugal, 2016). 
+El interés por el impulso turístico e internacional de la Línea del Duero es claro, 
+dando fe de ello las distintas propuestas llevadas a cabo para incrementar el uso turís-
+tico de este ferrocarril y recuperar el tramo abandonado hasta la frontera española (De 
+Matos-Salvador, 2012; Cerqueira Esteves, 2013; Morgado Areia, 2018; Marques Macedo, 
+2019). De forma paralela, parece claro que no sólo el futuro del ferrocarril en la región del 
+Alto Douro Vinhateiro se encuentra ligado a la actividad turística, sino que, en el propio 
+desarrollo socioeconómico de la mencionada región, el turismo resulta ser un aliciente 
+para luchar contra la despoblación y el declive económico (Fernandes de Sousa, 2013; 
+Bernardo, 2020). Esta conexión entre ferrocarril, recursos vitivinícolas y Patrimonio Cul-
+tural está siendo impulsada por las autoridades portuguesas, que en los últimos años están 
+desarrollando actuaciones para realizar más atractivos los viajes ferroviarios por la línea, 
+a través de la recuperación de material móvil histórico para ella, al mismo tiempo que se 
+mantienen los tráficos regulares (Mêda, Barbosa y Pereira, 2021).
+Por último, debe destacarse que la idea de recuperar la conexión ferroviaria con España 
+a través del Duero cobra cada vez mayor fuerza, impulsándose estudios para la reaper-
+tura de ésta, permitiendo conectar Madrid con Oporto por Salamanca (Infraestructuras 
+de Portugal, 2016). No obstante, desde el lado español únicamente se han desarrollado 
+iniciativas para la recuperación de parte de la línea clausurada entre La Fuente de San 
+Esteban y Barca d’Alva, al menos desde un punto de vista turístico. Es necesario destacar 
+la iniciativa de la Diputación Provincial de Salamanca “Camino de Hierro”, un producto 
+turístico de senderismo implantado en 2021 entre la estación de La Fregeneda y la fron-
+tera portuguesa, en el que se recorre el trazado ferroviario mencionado declarado Bien de 
+Interés Cultural por sus numerosas obras de ingeniería, donde destacan especialmente sus 
+túneles y viaductos (Hortelano Mínguez, 2015, 2018; Rivas, 2019; Hortelano Mínguez y 
+García Figuerola, 2021; Camino de Hierro, 2022; Lalana Soto y Santos y Ganges, 2022). 
+5. 	LA LÍNEA DEL DUERO COMO MODELO PARA LA REACTIVACIÓN 
+DEL FERROCARRIL ARANJUEZ-CUENCA-UTIEL A TRAVÉS DE SU USO 
+TURÍSTICO
+Como se ha podido observar, las líneas férreas descritas anteriormente presentan nota-
+bles similitudes en sus características y en el propio desarrollo histórico de ambas. Aun 
+así, el modelo de explotación que siguen ambas líneas es totalmente distinto. 
+Por un lado, la Línea del Duero cuenta en la actualidad con un servicio regular de via-
+jeros de 12 servicios diarios entre Oporto y Régua/Pinhão, algunos de ellos con transbordo 
+en Marco de Canaveses, y 6 servicios diarios entre Oporto y Pocinho, uno de ellos con 
+
+
+EL APROVECHAMIENTO TURÍSTICO DEL FERROCARRIL CONVENCIONAL COMO VÍA...
+291
+Cuadernos de Turismo, 51, (2023), 281-299
+transbordo en Régua (Comboios de Portugal, 2022a). De entre estos servicios destacan 
+especialmente los trenes Interregionales, los cuales prestan servicio regular con material 
+móvil histórico tipo Schindler recuperado para tal fin (Mêda et al., 2021). Asimismo, entre 
+los meses de junio y octubre, entre las estaciones de Régua y Tua circula el Comboio 
+Histórico do Douro, un tren histórico a vapor con coches de madera (De Matos Salvador, 
+2012:41-42; Comboios de Portugal, 2022b). En este sentido, las autoridades portuguesas 
+están tratando de impulsar un caso paradigmático de turismo y movilidad sostenible 
+mediante este modelo de explotación de la línea férrea, siguiendo los preceptos de Dallen 
+(2007). De este modo, se estaría actuando directamente sobre varios aspectos:
+1.	 Facilitación de comunicaciones de un territorio de 194.225 habitantes, con proble-
+mas socioeconómicos vinculados a la despoblación (Morgado Areia, 2018:86) a 
+través de servicios regulares de ferrocarril.
+2.	 Potenciación de la movilidad sostenible de los turistas que visitan la región Patri-
+monio de la Humanidad del Alto Douro Vinhateiro, mediante el uso de los servicios 
+ferroviarios regulares, haciéndolos más atractivos a través de la conservación del 
+patrimonio ferroviario.
+3.	 Empleo de un tren histórico de temporada como atractivo turístico, en combinación 
+con el paisaje y la cultura gastronómica y vitivinícola de la región.
+4.	 Dotación de un futuro a largo plazo sólido para la línea, en la que se planean mejo-
+ras en las infraestructuras, recuperación del tramo abandonado hasta la frontera 
+española, y estudio de reapertura del tramo internacional.
+Figura 7
+FERROCARRIL DEL DUERO (PORTUGAL)
+Fuente: Comboios de Portugal (CP).
+
+
+ALBERTO AZUARA GRANDE
+292
+Cuadernos de Turismo, 51, (2023), 281-299
+En el lado opuesto, en el ferrocarril Aranjuez-Cuenca-Utiel sólo se ofrecían dos ser-
+vicios regionales diarios entre Madrid y Cuenca, con transbordo en Aranjuez de lunes 
+a viernes, los cuales han sido suprimidos definitivamente y reemplazado por autobuses 
+(MITMA, 2022b). Igualmente, el trayecto entre Cuenca y Utiel se sirve mediante autobús 
+por el deficiente estado de la infraestructura (Renfe Operadora, 2021). Ante esta situación, 
+lo que se propone para el ferrocarril Aranjuez-Cuenca-Utiel desde las autoridades espa-
+ñolas es su desmantelamiento y aprovechamiento de infraestructuras para reacondicionar 
+espacios urbanos en zonas edificables, mientras que para los espacios rurales se ofrece el 
+aprovechamiento cicloturista del trazado como vía verde, facilitándose una combinación 
+de transporte entre autobuses y trenes de alta velocidad mediante la estación de Cuenca-
+Fernando Zóbel para las localidades afectadas (MITMA, 2022a). Cabe destacar que, el 
+total de población afectada por dicho cierre es de 194.652 personas1 (INE, 2022), cifra 
+similar a la de la región atravesada por la línea portuguesa.
+Por tanto, la propuesta que se realiza para esta línea férrea es seguir el ejemplo de bue-
+nas prácticas desarrollado en la Línea del Duero, desarrollando las siguientes estrategias:
+1.	 Renovación urgente de la infraestructura entre Aranjuez y Utiel, permitiendo 
+adaptar y mejorar los servicios de trenes regulares en condiciones de explotación 
+óptimas para su uso (De los Cobos Arteaga, 1998:80; Salvador Zuriaga, 2022).
+2.	 Empleo de los servicios ferroviarios regulares como forma de acceso sostenible a 
+distintos espacios turísticos urbanos, rurales y naturales de gran valor patrimonial, 
+especialmente de la provincia de Cuenca, que son atravesados por el ferrocarril 
+desde las áreas urbanas de Madrid y Valencia (Ver cuadros 1 y 2).
+3.	 Conservación y difusión del patrimonio ferroviario existente mediante la rehabi-
+litación de infraestructuras ferroviarias en desuso, susceptibles de ser adaptadas a 
+un uso turístico. Creación de trenes históricos de temporada.
+Cuadro 1
+LOCALIDADES DE INTERÉS TURÍSTICO ATRAVESADOS POR EL FERROCARRIL 
+ARANJUEZ-CUENCA-UTIEL
+Localidad
+Principales atractivos
+Provincia
+Aranjuez
+Real Sitio de Aranjuez (Patrimonio Nacional)
+Ciudad de Aranjuez (Conjunto Histórico-Artístico)
+Paisaje Cultural de Aranjuez (Patrimonio Mundial UNESCO)
+Madrid
+Ocaña
+Bien de Interés Cultural (Conjunto Histórico-Artístico)
+Toledo
+Santa Cruz 
+de la Zarza
+Posee varios Bienes de Interés Cultural
+Toledo
+Huete
+Posee varios museos y Bienes de Interés Cultural
+Cuenca
+1	
+La cifra resultante es un sumatorio de los datos del padrón municipal de 2021 de los municipios que 
+cuentan con parada de ferrocarril entre Aranjuez, Cuenca y Utiel-Requena.
+
+
+EL APROVECHAMIENTO TURÍSTICO DEL FERROCARRIL CONVENCIONAL COMO VÍA...
+293
+Cuadernos de Turismo, 51, (2023), 281-299
+Localidad
+Principales atractivos
+Provincia
+Cuenca
+Casco Antiguo de la Ciudad y paisaje que lo rodea (Conjunto 
+Histórico-Artístico)
+Ciudad Histórica Amurallada (Patrimonio Mundial 
+UNESCO)
+Cuenca
+Fuente: Elaboración propia a partir de datos del Ministerio de Cultura y Deporte.
+Cuadro 2
+ ESPACIOS NATURALES PROTEGIDOS DE INTERÉS TURÍSTICO PRÓXIMOS AL 
+FERROCARRIL ARANJUEZ-CUENCA-UTIEL
+Nombre
+Designación
+Localidad de acceso
+Provincia
+El Regajal-Mar de Ontígola
+Reserva Natural
+Aranjuez, Ontígola
+Madrid
+Yesares del Valle del Tajo
+Zona de Especial 
+Conservación
+Noblejas, Ocaña, Ontígola, 
+Santa Cruz de la Zarza, 
+Villarrubia de Santiago
+Toledo
+Serranía de Cuenca
+Parque Natural
+Cuenca
+Cuenca
+Palancares y Tierra Muerta
+Monumento 
+Natural
+Cuenca
+Cuenca
+Lagunas de Cañada del 
+Hoyo
+Monumento 
+Natural
+Cañada del Hoyo
+Cuenca
+Hoces del Cabriel
+Reserva Natural
+Carboneras de Guadazaón
+Cuenca
+Chorreras del Cabriel
+Monumento 
+Natural
+Víllora
+Cuenca
+Fuente: Elaboración propia; Ministerio de Cultura y Deporte, y Junta de Comunidades de Castilla-La Mancha.
+Es posible comprobar que los atractivos turísticos a lo largo de la línea Aranjuez-
+Cuenca-Utiel son numerosos, teniendo un componente cultural más acentuado en el tramo 
+Aranjuez-Cuenca, mientras que en el tramo Cuenca-Utiel los atractivos se encuentran 
+vinculados al turismo de naturaleza y sus derivados. Este hecho permitiría establecer dos 
+grandes zonas de actuación para la línea férrea, donde se podrían establecer productos 
+turísticos diferenciados.
+En el tramo Aranjuez-Cuenca, la implantación de un tren histórico de temporada 
+con origen en Madrid sería una opción para estudiar. El objetivo sería que este producto 
+sirviese de reclamo turístico para la ciudad de Cuenca. Asimismo, el mantenimiento de 
+los servicios regionales en este tramo permitiría mantener las comunicaciones con las 
+poblaciones afectadas, incluida la ciudad de Cuenca, e igualmente permitir el acceso a 
+otros núcleos turísticos rurales de pequeño y mediano tamaño empleando un medio de 
+transporte sostenible.
+Por otro lado, en el tramo Cuenca-Utiel, el privilegiado entorno paisajístico en el que 
+se desenvuelve el ferrocarril resulta ser una oportunidad para proponer la creación de un 
+tren histórico que permita admirar el entorno natural que atraviesa la línea, a imagen de 
+otras iniciativas desarrolladas en otros lugares de Europa (Babinger, 2011:720-726). Asi-
+
+
+ALBERTO AZUARA GRANDE
+294
+Cuadernos de Turismo, 51, (2023), 281-299
+mismo, se considera necesario mantener el servicio de trenes regionales con unos horarios 
+y material móvil adecuados, con el objetivo de facilitar el transporte en las poblaciones del 
+entorno, y al mismo tiempo, suponer una vía de entrada sostenible a los Espacios Naturales 
+Protegidos próximos. El impulso del cicloturismo y la intermodalidad ferrocarril-autobús 
+en aquellos puntos más alejados de los espacios turísticos, resultaría clave para el correcto 
+desarrollo de la iniciativa. No obstante, la mayor la inversión necesaria en la recuperación 
+de la infraestructura ferroviaria, así como la existencia de múltiples actores implicados en 
+este caso concreto, dificultarían la puesta en marcha de esta propuesta. 
+6. 	CONCLUSIONES
+A lo largo de este trabajo se ha pretendido establecer soluciones y propuestas de futuro 
+que traten de evitar el cierre de la línea férrea convencional que atraviesa la provincia 
+de Cuenca de este a oeste. En este sentido, la compatibilización del uso turístico con los 
+servicios ferroviarios regionales, resulta ser la clave de bóveda que permitiría mantener en 
+funcionamiento este ferrocarril, impulsando la movilidad sostenible en todo el territorio 
+afectado. El caso de la Línea del Duero portuguesa marcaría la línea de actuación a seguir, 
+donde la aplicación de dicho modelo está permitiendo vislumbrar un futuro de esperanza 
+para la reapertura de la línea hasta la frontera española, a pesar de que a partir de este punto 
+las iniciativas turísticas realizadas actualmente estén enfocadas hacia un uso no ferroviario. 
+Las potencialidades turísticas que dispone la línea conquense son claras, tal y como se 
+ha comentado con anterioridad. Además, el modelo turístico y de movilidad que podría 
+implantarse seguiría los preceptos del desarrollo turístico sostenible que manifiestan insti-
+tuciones como la Organización Mundial del Turismo o la Comisión Europea. El objetivo 
+sería primar el acceso a los atractivos turísticos a través del ferrocarril, implementándose 
+un modelo turístico alejado del turismo de masas, puesto en entredicho ante los desafíos 
+globales a los que nos enfrentamos como sociedad. Al mismo tiempo, a escala regional, 
+mediante el mantenimiento y potenciación de los servicios ferroviarios regulares de viajeros 
+se permitiría vertebrar la provincia de Cuenca, conectando de forma sostenible la propia 
+capital de provincia con poblaciones de gran importancia como Tarancón, o las propias 
+ciudades de Madrid y Valencia. Asimismo, la vertebración territorial que impone este 
+ferrocarril ayudaría a mantener la comunicación de las poblaciones de menor entidad y con 
+importantes problemas de despoblación con las grandes ciudades mencionadas, siendo, en 
+numerosas ocasiones, la principal vía de acceso a estas zonas despobladas, dada la compleja 
+orografía existente. El problema de la “España Vaciada” se encuentra en plena discusión en 
+la actualidad, y la apuesta por el ferrocarril es una reivindicación constante en este ámbito.
+Sin embargo, las actuales intenciones de las administraciones españolas implicadas van 
+en sentido contrario de lo que se ha argumentado en las líneas superiores. En este caso, 
+las administraciones provincial, autonómica y estatal no han apostado por la que quizás 
+sea la única infraestructura existente en la provincia de Cuenca capaz de vertebrarla efi-
+cazmente. Es por ello por lo que, desde este trabajo, se insta a las instituciones españolas 
+a tener amplitud de miras y voluntad clara de servicio público, en línea con las actuacio-
+nes llevadas a cabo en países de nuestro entorno. Asimismo, se insta a las instituciones 
+españolas implicadas a seguir las directrices de las organizaciones supranacionales que 
+
+
+EL APROVECHAMIENTO TURÍSTICO DEL FERROCARRIL CONVENCIONAL COMO VÍA...
+295
+Cuadernos de Turismo, 51, (2023), 281-299
+apuestan por una movilidad sostenible a través del ferrocarril, que, en este caso, puede 
+permitir la revalorización del patrimonio y suponer mejoras para la población local de los 
+mencionados territorios en grave situación de despoblación.
+Finalmente, este trabajo pretende servir como punto de inicio para el planteamiento de 
+iniciativas similares en otros territorios españoles, donde el binomio ferrocarril-turismo 
+puede provocar grandes beneficios para la sociedad, como es el caso de las líneas de ancho 
+métrico de la Cornisa Cantábrica, y especialmente, el caso de la Rampa de Pajares, donde 
+el patrimonio ferroviario existente puede ser empleado como atractivo turístico de primer 
+orden (Bas Ordóñez, 2018; Martín Rodríguez, 2022).
+Declaración responsable: El autor declara que no existe ningún conflicto de interés 
+relacionado con la publicación de este artículo.
+7. 	BIBLIOGRAFÍA
+ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (2022): Declara-
+ción sobre la red 2022. Madrid, ADIF, Dirección General de Negocio y Operaciones 
+Especiales. Recuperado de: https://www.adif.es/sobre-adif/conoce-adif/declaracion-
+sobre-la-red
+ALBALATE, D., CAMPOS, J. y JIMÉNEZ, J.L. (2017): «Tourism and High Speed Rail 
+in Spain: Does the AVE increase local visitors?», Annals of Tourism Research, vol. 65, 
+pp. 71-82. https://doi.org/10.1016/j.annals.2017.05.004
+AYCART LUENGO, C. (2013): «Veinte años de Vías Verdes. 2.000 km de itinerarios 
+sostenibles: más de 100 vías verdes para recorrer España», Revista ph, nº 84, pp. 8-9. 
+https://doi.org/10.33349/2013.84.3399 
+BABINGER, F. (2011): «Ferrocarriles temáticos en tiempos de globalización: Entre red de 
+transporte y atracción turística», en Servicios, Globalización y Territorio, V Congreso 
+de Geografía de los Servicios: Tomo II. Las Palmas de Gran Canaria, 6-7 octubre. 
+Anroart Ediciones, Colección Textos Universitarios, pp. 705-730. 
+BAS ORDÓÑEZ, G. (2018): «El ferrocarril de Pajares, un repaso a su historia y patrimo-
+nio», Vinndonus, Revista de Patrimonio Cultural de Lena, nº 2, pp. 24-33. Disponible 
+en: https://asociacionvindonnus.com/no2-2018/ 
+BERNARDO, E. (2020): «Relatório do Seminário Final de Apresentação de Resultados 
+do Projeto “Dourotur” – Pensar o Futuro do Turismo no Douro», PASOS. Revista de 
+Turismo y Patrimonio Cultural, vol. 18 (2), pp. 339-342. https://doi.org/10.25145/j.
+pasos.2020.18.023 
+CAMINO DE HIERRO (2022): Camino de Hierro-un lugar para el disfrute. Disponible 
+en: https://www.caminodehierro.es/ 
+CAÑIZARES RUIZ, M.C. (2005): Territorio y patrimonio minero-industrial en Castilla-
+La Mancha. Cuenca, Ediciones de la Universidad de Castilla- La Mancha. 
+CEBRIÁN ABELLÁN, F. (2011): «Los ferrocarriles olvidados. Reconversión y reinven-
+ción como instrumentos de revitalización recreativa y turística: El Baeza-Utiel a su 
+paso por la provincia de Albacete», Cuadernos de Turismo, nº 27, pp. 205-225. Dis-
+ponible en: https://revistas.um.es/turismo/article/view/139841 
+
+
+ALBERTO AZUARA GRANDE
+296
+Cuadernos de Turismo, 51, (2023), 281-299
+CERQUEIRA ESTEVES, N.A. (2013): A Linha do Douro: Importância no plano eco-
+nómico e demográfico da região duriense. Trabajo Fin de Máster. Universidade de 
+Coimbra. Disponible en: http://hdl.handle.net/10316/36016 
+COMBOIOS DE PORTUGAL (2022a): Horário Comboios | Porto-Régua/Pocinho - 
+comboios-regionais-porto-regua-douro. Disponible en: https://www.cp.pt/StaticFiles/
+horarios/regional/comboios-regionais-porto-regua-douro.pdf
+COMBOIOS DE PORTUGAL (2022b): Comboio Histórico do Douro | CP - Comboios 
+de Portugal. Disponible en: https://www.cp.pt/passageiros/pt/como-viajar/em-lazer/
+cultura-natureza/comboio-historico
+COMISIÓN EUROPEA (2021): Comunicación de la Comisión al Parlamento Europeo 
+y al Consejo. Plan de acción para impulsar el transporte ferroviario de pasajeros 
+de larga distancia y transfronterizo. Disponible en: https://eur-lex.europa.eu/legal-
+content/EN/ALL/?uri=COM:2021:810:FIN 
+DALLEN, J. (2007): «Sustainable transport, market segmentation and tourism: The Looe 
+Valley Branch Line Railway, Cornwall, UK», Journal of Sustainable Tourism, vol. 15 
+(2), pp. 180-199. https://doi.org/10.2167/jost636.0
+DE LA CAMPA CASCALES, J.L. (2017): «¿Puede la Alta Velocidad fomentar el turismo? 
+El caso español», 360. Revista de Alta Velocidad, nº 5, pp. 17-34. Disponible en: https://
+www.tecnica-vialibre.es/documentos/Articulos/360AV05_JLCampaCascales.pdf 
+DE LOS COBOS ARTEAGA, F. (1998): «Antecedentes y actualidad del problema ferro-
+viario en Cuenca», Studia Academica, nº 5, pp. 49-82. 
+DE MATOS SALVADOR, V.M. (2012): Experiência Turística - expectativas e vivências 
+metamórficas no desenvolvimento pessoal do Turista: o caso do Comboio Histórico a 
+Vapor no Alto Douro Vinhateiro. Trabajo Fin de Máster. Instituto Politécnico de Leiria. 
+Disponible en: http://hdl.handle.net/10400.8/646 
+Decisión (UE) 2020/2228 del Parlamento Europeo y del Consejo de 23 de diciembre de 
+2020 relativa al Año Europeo del Ferrocarril (2021). 23 de diciembre de 2020. Dis-
+ponible en: http://data.europa.eu/eli/dec/2020/2228/oj 
+EUROPEAN YEAR OF RAIL (2022): Homepage. Disponible en: https://europa.eu/year-
+of-rail/index_es 
+FERNÁNDEZ PORTELA, J. y SORIA CÁCERES, C.H. (2013): «Ferrocarril, patrimonio 
+y cultura vitivinícola en la ribera del Duero vallisoletana (Castilla y León, España)», 
+Cuadernos de Turismo, nº 32, pp. 89-113. Disponible en: https://revistas.um.es/
+turismo/article/view/177431 
+FERNANDES DE SOUSA, C.A. (2013): Impacto no Turismo da Região Demarcada do 
+Alto Douro Vinhateiro, após a classificação de Património Mundial da Humanidade 
+pela UNESCO. Trabajo Fin de Máster. Instituto Politécnico de Bragança. Disponible 
+en: http://hdl.handle.net/10198/8772
+FLETCHER, R., MURRAY MAS, I., BLANCO ROMERO, A. y BLÁZQUEZ SALOM, 
+M. (2019): «Tourism and degrowth: an emerging agenda for research and praxis», 
+Journal of Sustainable Tourism, vol. 27 (12), pp. 1.745-1.763. https://doi.org/10.1080
+/09669582.2019.1679822 
+FUNDACIÓN DE LOS FERROCARRILES ESPAÑOLES (1988): Monográfico I: 
+Cuenca y el ferrocarril. Madrid, Fundación de los Ferrocarriles Españoles.
+
+
+EL APROVECHAMIENTO TURÍSTICO DEL FERROCARRIL CONVENCIONAL COMO VÍA...
+297
+Cuadernos de Turismo, 51, (2023), 281-299
+GOBIERNO DE ESPAÑA (2021): Plan de Recuperación, Transformación y Resi-
+liencia. Disponible en: https://www.lamoncloa.gob.es/temas/fondos-recuperacion/
+Documents/30042021-Plan_Recuperacion_%20Transformacion_%20Resiliencia.pdf- 
+GRANDE, J. (2020): «Turismo rural. Nuevos retos ante la pandemia del coronavirus», en 
+Turismo post-Covid-19. El turismo después de la pandemia global: Análisis, perspec-
+tivas y vías de recuperación. Salamanca, Ediciones de la Universidad de Salamanca, 
+pp. 107-119. https://doi.org/10.14201/0AQ0296 
+HERNÁNDEZ MOGOLLÓN, J.M., MONDÉJAR JIMÉNEZ, J.A., ORTEGA ROSELL, 
+F.J. y PÉREZ CALDERÓN, E. (Coord.) (2012): Ferrocarril, turismo y sostenibilidad. 
+Oviedo, Septem Ediciones.
+HORTELANO MÍNGUEZ, L.A. (2015): “Patrimonio territorial como activo turístico en la 
+«Raya» de Castilla y León con Portugal”, Cuadernos de Turismo, nº 36, pp. 247-268. 
+https://doi.org/10.6018/turismo.36.230981
+HORTELANO MÍNGUEZ, L.A. (2018): «Patrimonio cultural de la Línea Férrea “La 
+Fuente de San Esteban-La Fregeneda” (Salamanca)», en Historia del Comercio y de 
+la Industria de Salamanca. Salamanca, Museo del Comercio, pp. 9-32.
+HORTELANO MÍNGUEZ, L.A. y GARCÍA FIGUEROLA, M. (2021): Una línea en el 
+paisaje. Fotografías de Emilio Biel sobre la construcción del ferrocarril hasta Barca 
+d’Alva. Salamanca, Ediciones de la Diputación de Salamanca. Serie catálogos de 
+exposiciones, nº 248.
+INFRAESTRUCTURAS DE PORTUGAL (2016): Linha do Douro. Análise de intervençoes 
+na infraestructura ferroviária. Lisboa, Infraestructuras de Portugal. Disponible en: 
+https://www.transportesenegocios.pt/documentos/Infraestruturas-de-Portugal-Linha-
+do-Douro-e-liga%C3%A7%C3%A3o-a-Espanha.pdf 
+LALANA SOTO, J.L. y SANTOS Y GANGES, L. (2022): «El ferrocarril de La Fuente 
+de San Esteban a Barca d’Alva. Patrimonio de la obra pública, territorio y paisaje», 
+Revista de Obras Públicas, nº 3.633, pp. 34-42. Disponible en: https://www.revistad-
+eobraspublicas.com/ 
+LEE, C.F. y CHEN, K.Y. (2017): «Exploring factors determining the attractiveness of 
+railway tourism», Journal of Travel & Tourism Marketing, vol. 34 (4), pp. 461-474. 
+https://doi.org/10.1080/10548408.2016.1182460
+MAGADÁN DÍAZ M, y RIVAS GARCÍA J. (2012): «Transcantábrico, el papel estraté-
+gico del turismo itinerante», en Ferrocarril, Turismo y Sostenibilidad. Oviedo, Septem 
+Ediciones, pp. 57-74.
+MARQUES MACEDO, M.S. (2019): Património Ferroviário do Douro. Proposta de 
+reactivação do troço abandonado entre Côa e Barca d’Alva. Trabajo Fin de Máster. 
+Universidade de Lisboa. Disponible en: http://hdl.handle.net/10400.5/18207 
+MARTÍN RODRÍGUEZ, A. (2022): «Salvaguardar el patrimonio ferroviario de la Rampa 
+de Pajares», Revista de Obras Públicas, nº 3.633, pp. 44-51. Disponible en: https://
+www.revistadeobraspublicas.com/ 
+MARTÍNEZ QUINTANA, M.V. (2020): «Planificación colaborativa del Turismo Local 
+y de naturaleza en épocas de crisis», en El turismo después de la pandemia global: 
+Análisis, perspectivas y vías de recuperación. Salamanca, Ediciones de la Universidad 
+de Salamanca, pp. 120-139. https://doi.org/10.14201/0AQ0296 
+
+
+ALBERTO AZUARA GRANDE
+298
+Cuadernos de Turismo, 51, (2023), 281-299
+MÊDA, P., BARBOSA, J.C. y PEREIRA, M.A. (2021): «Recuperação das carruagens 
+Schindler. Ativos patrimoniais ao serviço da ferrovia, da economia e do transporte de 
+passageiros», P & C, nº 71, pp. 16-23.
+MANTECÓN, A. (2020): «La crisis sistémica del turismo: una perspectiva global en tiem-
+pos de pandemia», en Turismo pos-COVID-19: Reflexiones, retos y oportunidades. La 
+Laguna, Cátedra de Turismo CajaCanarias-Ashotel de la Universidad de La Laguna., 
+pp. 19-30. https://doi.org/10.25145/b.Turismopos-COVID-19.2020.
+MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA (2022a): 
+Resolución de 27 de abril de 2022, de la Secretaría General de Transportes y Movi-
+lidad, por la que se publica el Protocolo general de actuación para el desarrollo de 
+un proyecto integral de movilidad, desarrollo territorial y transformación urbana en 
+la provincia de Cuenca. Disponible en: https://boe.es/boe/dias/2022/05/25/pdfs/BOE-
+A-2022-8551.pdf 
+MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA (2022b): 
+Clausura y exclusión de la RFIG del tramo Tarancón – Utiel de la línea ferroviaria 
+03-310 Aranjuez –Valencia Fuente San Luis. Disponible en: http://www.fcmaf.es/
+Comunicados/Carta_cierre_remite_Ministerio_27-04-2022.pdf
+MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA (2022c): El 
+Gobierno avanza en la iniciativa x Cuenca fijando las bases para el próximo AVANT 
+“madrugador” y los nuevos bonos recurrentes. Nota de Prensa. Disponible en: https://
+www.mitma.gob.es/el-ministerio/sala-de-prensa/noticias/mar-22032022-1513 
+MORGADO AREIA, I. (2018): Revitalizar o território do Alto Douro - a linha férrea de 
+Pocinho a Barca d’Alva. Trabajo Fin de Máster. Universidade do Porto. Disponible en: 
+https://sigarra.up.pt/faup/pt/pub_geral.pub_view?pi_pub_base_id=310812 
+MUÑOZ, J.L. (2019): El día que el tren llegó a Cuenca: (y los trenes que nunca llegaron). 
+Toledo, Almud Ediciones.
+OLCINA CANTOS, J. (2020): «Pandemia, cambio climático y turismo: acciones para lo 
+inmediato y para lo próximo», en Turismo pos-COVID-19: Reflexiones, retos y opor-
+tunidades. La Laguna, Cátedra de Turismo CajaCanarias-Ashotel de la Universidad de 
+La Laguna, pp. 31-44. https://doi.org/10.25145/b.Turismopos-COVID-19.2020.
+PADRÓN FUMERO, N. y HERNÁNDEZ MARTÍN, R. (2020): «Reflexiones sobre sos-
+tenibilidad turística durante la pandemia: una agenda para el sector frente a los ODS», 
+en Turismo pos-COVID-19: Reflexiones, retos y oportunidades. La Laguna, Cátedra de 
+Turismo CajaCanarias-Ashotel de la Universidad de La Laguna, pp. 255-264. https://
+doi.org/10.25145/b.Turismopos-COVID-19.2020.
+PEIRÓ SIGNES, A., SEGARRA OÑA, M., MIRET PASTOR, L. y DE MIGUEL 
+MOLINA, M. (2012): «El tren cremallera, la clave del desarrollo turístico sostenible 
+de La Vall de Núria», en Ferrocarril, Turismo y Sostenibilidad. Oviedo, Septem Edi-
+ciones, pp. 43-56.
+PÉREZ CALDERÓN, E., MILANÉS MONTERO P., MONDÉJAR JIMÉNEZ, J. y VAR-
+GAS VARGAS, M. (2012): «El ferrocarril como elemento dinamizador del turismo: 
+el Tren Medieval de Sigüenza», en Ferrocarril, Turismo y Sostenibilidad. Oviedo, 
+Septem Ediciones, pp. 93-102.
+
+
+EL APROVECHAMIENTO TURÍSTICO DEL FERROCARRIL CONVENCIONAL COMO VÍA...
+299
+Cuadernos de Turismo, 51, (2023), 281-299
+PIQUERO ÁLVAREZ, P. (1999): La red ante el Siglo XXI: La potencialidad turística del 
+ferrocarril. Oviedo, Fundación de los Ferrocarriles Españoles, Ferrocarriles Españoles 
+de Vía Estrecha. 
+PITARCH GARRIDO, M.D. (2020): «Turismo y vulnerabilidad territorial: capacidad de 
+resiliencia de los diferentes modelos turísticos frente a la crisis pandémica del corona-
+virus en España», en Turismo pos-COVID-19: Reflexiones, retos y oportunidades. La 
+Laguna, Cátedra de Turismo CajaCanarias-Ashotel de la Universidad de La Laguna, 
+pp. 211-224. https://doi.org/10.25145/b.Turismopos-COVID-19.2020.
+RIVAS, E. (2019). El ferrocarril del Abadengo. Salamanca, Ediciones de la Diputación 
+de Salamanca.
+ROMERO PADILLA, Y., ROMERO MARTÍNEZ, J.M. y NAVARRO JURADO, E. 
+(2020): «Reflexiones desde el post-crecimiento: ideas, estrategias y tácticas para el 
+turismo post-Covid-19», en Turismo post-Covid-19. El turismo después de la pande-
+mia global: Análisis, perspectivas y vías de recuperación. Salamanca, Ediciones de la 
+Universidad de Salamanca, pp. 28-39. https://doi.org/10.14201/0AQ0296
+SALVADOR ZURIAGA, P. (2022): Estrategia de movilidad basada en la intermodalidad 
+FFCC + carretera. Aplicación a la Serranía Baja de Cuenca. Disponible en: http://
+www.fcmaf.es/Comunicados/Estrategia_de_movilidad_intermodal.pdf 
+RENFE OPERADORA (2021): Horarios Media Distancia Madrid Atocha-Cercanías-
+Cuenca-Valencia Nord y viceversa. Disponible en: http://www.fcmaf.es/Media_Dis-
+tancia/Horarios/Madrid-Cuenca-Valencia_Desde-12-04-2021.pdf 
+TORRES MENDOZA, C.E. y LÓPEZ PECO, J.C. (2022): Patrimonio ferroviario prote-
+gido en Castilla-La Mancha. Ciudad Real, Federación Castellanomanchega de Amigos 
+del Ferrocarril. Disponible en: http://www.fcmaf.es/Publicaciones/Patrimonio_ferro-
+viario_protegido_Castilla-La_Mancha.pdf 
+VENTURA FERNÁNDEZ, J. y CONTRERAS CABRERA, G. (2018): «Presente y futuro 
+de las vías verdes en Andalucía», Andalucía Geográfica, no 11, pp. 30-44. Disponible 
+en https://hdl.handle.net/11441/73500
+VILLANUEVA CUEVAS A. (2012): «Ferrocarriles y turismo sostenible, la necesidad 
+de una intervención pública e integradora», en Ferrocarril, Turismo y Sostenibilidad. 
+Oviedo, Septem Ediciones, pp. 181-192.

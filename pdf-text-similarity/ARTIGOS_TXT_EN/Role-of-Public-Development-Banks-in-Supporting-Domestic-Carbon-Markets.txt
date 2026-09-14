@@ -1,0 +1,907 @@
+Role of Public Development Banks 
+in Supporting Domestic Carbon 
+Markets 
+February 2025
+
+Copyright © 2025 Climate Policy Initiative climatepolicyinitiative.org. All rights reserved. CPI welcomes the use of its material for noncommercial 
+purposes, such as policy discussions or educational activities, under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC 
+BY-NC-SA 4.0) License. For commercial use, please contact adminsf@cpiglobal.org.
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+ACKNOWLEDGMENTS
+The authors would like to thank the Climate Policy Initiative (CPI) team for their advice and 
+internal review, including Vikram Widge, Nicole Pinko, Mridhu Khanna, Chris Grant, Jonathan 
+First, and Barbara Buchner.
+We also appreciate review, inputs, and guidance from experts from the following organizations: 
+African Development Bank, Agence Française de Développement, Climate Vulnerable Forum 
+Vulnerable 20 Group Development Bank of Nigeria, Inter-American Development Bank, Nacional 
+Financiera, and the World Bank.
+AUTHORS
+Matthew Solomon 
+matthew.solomon@cpiglobal.org
+Karla D. González Esquinca 
+karla.esquinca@cpiglobal.org
+CONTACT
+Matthew Solomon 
+matthew.solomon@cpiglobal.org
+ABOUT CLIMATE POLICY INITIATIVE
+CPI is an analysis and advisory organization with deep expertise in finance and policy. Our 
+mission is to help governments, businesses, and financial institutions drive economic growth 
+while addressing climate change. CPI has seven offices around the world in Brazil, India, 
+Indonesia, South Africa, the United Kingdom, and the United States.
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+iii
+DESCRIPTORS
+SECTOR
+Carbon markets
+REGION
+Global
+KEYWORDS
+Public development banks, carbon markets
+CONTACT
+Matthew Solomon 
+matthew.solomon@cpiglobal.org
+MEDIA CONTACT
+Rob Kahn 
+rob.kahn@cpiglobal.org
+RECOMMENDED CITATION
+CPI. 2025. Role of Public Development Banks in Supporting Domestic Carbon Market Adoption. 
+Available online: https://www.climatepolicyinitiative.org/publication/role-of-public-
+development-banks-in-supporting-domestic-carbon-market-adoption/
+iv
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+CONTENTS
+1.  Introduction 1
+2.  Benefits of domestic carbon markets 4
+2.1  Directing funds to emission reduction projects 4
+2.2  Support pipeline of carbon credit suppliers 5
+2.3  Integration with global carbon pricing 6
+3.  Barriers to countries adopting domestic carbon markets 8
+3.1  Lack of buy-in and strategic integration 8
+3.2  Lack of technical capacity 9
+3.3  Demand-side restrictions 9
+3.4  Supply-side restrictions 10
+4.  Barriers to PDB support for domestic carbon markets 12
+4.1  Limited capacity 12
+4.2  Lack of host country buy-in 12
+4.3  Financial barriers to greater action 13
+5.  PDBs’ potential role in domestic carbon market development 14
+5.1  Strategic guidance 15
+5.2  Technical assistance 17
+5.3  Support credit integrity 17
+5.4  Manage risk 19
+5.5  Support financial mechanisms to frontload finance 19
+6.  Recommendations 21
+6.1  Facilitate coordination with other PDBs 21
+6.2  Share best practices 22
+6.3  Support development of comprehensive climate and development strategies 23
+6.4  Support capacity building 23
+6.5  Advance innovative pilot projects to manage risk and leverage carbon revenues 23
+7.  Conclusion 24
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+1
+1. INTRODUCTION
+The world needs to mobilize approximately USD 7.4 trillion annually by 2030 to meet 
+decarbonization goals and avoid the worst impacts of climate change.1 Emerging markets and 
+developing economies (EMDEs) face a particularly significant financing gap. EMDEs (excluding 
+China) require over USD 2 trillion per year to meet their climate targets and transition to cleaner 
+energy systems.2
+However, these countries are at a disadvantage compared to advanced economies when 
+attracting investment; in 2022, only 15% of global climate finance flows went to EMDEs 
+(excluding China),3 underscoring a disparity in resources and support. Furthermore, many 
+EMDEs are fiscally constrained and burdened by high debt, which limits their governments’ 
+ability to directly fund climate initiatives, or to incentivize private investment.4 These 
+structural challenges present a need for innovative financial mechanisms and tailored support 
+to unlock EMDEs’ full potential to drive global climate action. While international finance 
+remains impactful, bolstering domestic markets is critical to achieving long-term climate and 
+development goals. 
+In this context, carbon markets offer a promising means of bridging the financing gap. Carbon 
+markets facilitate the trade of carbon credits, effectively providing a mechanism for financing 
+carbon reduction projects by accurately pricing the negative externalities of CO2 emissions. 
+In 2024, the global voluntary carbon market had a value of USD 1.4 billion,5 though this had 
+decreased from a value of nearly USD 2 billion in 2022. The World Bank expects it to grow to 
+between USD 10 billion and USD 40 billion by 2030 as demand for carbon credits accelerates 
+due to a confluence of factors. New Nationally Determined Contributions (NDCs)—to be 
+communicated by governments in 2025—the implementation of the Carbon Offsetting and 
+Reduction Scheme for International Aviation Phase II mechanism, and progress on Paris 
+Agreement articles 6.2 and 6.4 frameworks are all expected to spur demand for carbon credits 
+and drive up their prices. Corporate net zero commitments, growing pressure from stakeholders, 
+mandatory extra-financial reporting requirements (e.g., the EU Corporate Sustainability 
+Reporting Directive), and sectoral standards are also likely to contribute to these trends. 
+Regulated carbon pricing mechanisms are already prevalent, generating revenues of over USD 
+100 billion in 2023 (see Box 1). More countries are adopting such mechanisms each year, albeit 
+with a large concentration in advanced economies.6
+Carbon markets are typically established for specific sectors or components of the economy, 
+rather than operating economy-wide. They are often applied to emissions-intensive industries 
+such as electricity generation or industrial processes, where greenhouse gas (GHG) reductions 
+1  CPI. 2024. Global Landscape of Climate Finance 2024. Available at: https:/ /www.climatepolicyinitiative.org/publication/ global-landscape-of-
+climate-finance-2024/. 
+2  Independent High Level Expert Group on Climate Finance. 2022. Finance for climate action: scaling up investment for climate and development. 
+Available at: https:/ /www.lse.ac.uk/ granthaminstitute/wp-content/uploads/2022/11/IHLEG-Finance-for-Climate-Action-1.pdf 
+3  CPI. 2023. Global Landscape of Climate Finance 2023. Available at: https:/ /www.climatepolicyinitiative.org/publication/ global-landscape-of-
+climate-finance-2023/. 
+4  International Monetary Fund. 2023. Fiscal Impacts of Climate Disasters in Emerging Markets and Developing Economies. Available at: https:/ /
+www.elibrary.imf.org/view/journals/001/2023/261/ article-A001-en.xml.
+5  MSCI. 2025. Frozen Carbon Credit Market May Thaw as 2030 Gets Closer. Available at: https:/ /www.msci.com/www/blog-posts/frozen-
+carbon-credit-market-may/05232727859#f5 
+6  World Bank. 2024. State and Trends of Carbon Pricing 2024. Available at: https:/ / openknowledge.worldbank.org/handle/10986/ 41544.
+2
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+are both measurable and impactful. These markets generally function at a national or subnational 
+level, within a single country or province. In some cases, carbon markets operate regionally 
+across state or national borders. This requires specific linking agreements and mechanisms to 
+align compatibility and alignment across participating jurisdictions, such as between the EU 
+Emission Trading System and the Swiss ETS.
+Public development banks (PDBs) are uniquely positioned to play a pivotal role in enabling 
+the transition to low-carbon development through carbon markets. While there are a diverse 
+array of PDBs, the most prevalent in terms of scope and scale are the country-specific national 
+development banks (NDBs)—e.g., the Brazilian Development Bank or Mexico’s Nacional 
+Financiera—and the international/regional multilateral development banks (MDBs), which range 
+from global institutions like the World Bank and large regionally-focused institutions such as the 
+African Development Bank through to smaller regionally-focused institutions such as the West 
+African Development Bank. While some MDBs have a global mandate, others focus on and tailor 
+their support to specific geographic regions. We use the term PDBs to refer to both NDBs and 
+MDBs in this paper.
+This brief explores how PDBs can leverage their financial and technical capabilities to help 
+address the challenges that EMDEs face in developing domestic carbon markets. NDBs, in 
+particular, possess deep knowledge of their respective countries’ regulatory frameworks, national 
+development strategies, and economic priorities. This positions them as key intermediaries, 
+capable of bridging the gap between domestic governments, private-sector actors, and 
+international investors to identify carbon market best practices, support implementation, and 
+mobilize private capital. Moreover, PDBs play a crucial role in ensuring the integrity of carbon 
+markets by supporting robust monitoring, reporting, and verification (MRV) systems and aligning 
+market practices with internationally recognized standards. 
+This paper begins by exploring the benefits of domestic carbon markets in Section 2. Section 
+3 then examines barriers to the adoption of domestic carbon markets. Section 4 focuses 
+on the barriers faced by PDBs in supporting the deployment of domestic carbon markets. 
+Box 1: Compliance vs. voluntary carbon markets
+Carbon markets can be categorized as compliance or voluntary markets. Compliance markets 
+are regulated and require participants to purchase government-issued allowances or authorized 
+offsets that match their emissions and potentially incorporate a cap on overall emissions. 
+In voluntary markets, buyers purchase credits to offset their emissions as part of corporate 
+sustainability goals or individual commitments to transition to “net” zero emissions. This report 
+and analysis are relevant to countries that are setting up either a domestic compliance market or 
+a voluntary carbon market. 
+Ideally, countries can plan to transition to compliance markets over time. Transitioning to a 
+domestic compliance market may increase the impact and revenue generation of their carbon 
+market activities. Throughout this report, we indicate where a finding or recommendation is 
+relevant only to voluntary or compliance markets. 
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+3
+Section 5 explores the potential role of PDBs in facilitating the development of these markets. 
+Finally, Section 6 offers recommendations for enhancing the role of PDBs in implementing 
+domestic carbon markets.
+This paper seeks to provide actionable insights for stakeholders aiming to harness the potential 
+of domestic carbon markets to drive sustainable development and mitigate climate change.
+4
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+2. BENEFITS OF DOMESTIC CARBON   
+  MARKETS
+Countries have a range of tools at their disposal to reduce emissions and achieve their NDCs, 
+including regulations, subsidies, and carbon taxes. Carbon markets stand out as a market-based 
+mechanism that uses economic incentives to drive emissions reductions. While carbon markets 
+cannot be the sole tool for funding climate goals, they offer unique advantages and should be 
+considered as an important part of the policy mix. By creating a price signal on carbon, these 
+markets enable emission reductions to occur where they are most cost-effective, potentially 
+achieving climate targets at a lower economic and fiscal cost compared to direct government 
+spending or regulatory approaches. 
+This section explores the benefits of carbon markets, focusing on three core areas. First, we 
+examine how carbon markets channel funding to emissions reduction by creating economic 
+incentives for businesses to invest in low-carbon initiatives, such as renewable energy. 
+Secondly, the section explores how carbon markets help build and sustain a pipeline of carbon 
+credit suppliers. Finally, it highlights the potential of voluntary carbon markets (VCMs) as a 
+steppingstone for countries to establish experience with emissions trading and prepare for future 
+integration into regional or international carbon pricing mechanisms.
+2.1  DIRECTING FUNDS TO EMISSION REDUCTION 
+PROJECTS
+Carbon markets can channel private finance to projects that abate GHG emissions, particularly 
+for “low-hanging fruit”—projects that can achieved quick reductions at relatively low costs. By 
+establishing a price for carbon, carbon markets provide an economic incentive for businesses to 
+invest in projects that reduce emissions, ranging from renewable energy installations to energy 
+efficiency upgrades in industrial processes.
+The structure of carbon markets, whether voluntary or compliance-based, allows entities to 
+generate revenue through the sale of carbon credits. When projects reduce emissions below 
+a pre-agreed baseline, the developers earn carbon credits, which can then be sold to other 
+companies looking to offset their emissions. This transaction provides project developers with 
+additional revenue to cover the costs of implementing and maintaining the project, as well as any 
+associated operational expenses including costs associated with the validation, verification, and 
+issuance of the carbon credits. In some cases, the developer may also reinvest these revenues 
+in additional climate initiatives, potentially supporting a cycle of funding further emissions 
+reductions. The ability of carbon credit purchasers to pay for climate-friendly projects remains 
+especially valuable in countries with limited public funds for climate action, as it leverages private 
+capital to address emissions reduction goals.
+The World Bank’s State and Trends of Carbon Pricing 2024 report notes that integrating carbon 
+markets into sector-specific strategies can significantly scale up financing.7 Programs such as 
+7  World Bank. 2024. State and Trends of Carbon Pricing 2024. Available at: https:/ / openknowledge.worldbank.org/handle/10986/ 41544.
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+5
+the Energy Transition Accelerator and the Innovative Carbon Resource Application for Energy 
+Transition project for Uzbekistan (iCRAFT) illustrate this approach by supporting a range of 
+crediting approaches. These initiatives aim to generate carbon credits from emissions reductions 
+across entire sectors, such as energy, creating a broader impact and mobilizing finance more 
+effectively.8 The Taskforce on Scaling Voluntary Carbon Markets also emphasizes that VCMs 
+can unlock funding from private investors seeking to participate in global emissions reductions 
+by purchasing high integrity carbon credits.9 
+2.2  SUPPORT PIPELINE OF CARBON CREDIT SUPPLIERS
+Carbon markets facilitate corporate investment, with one-third of financial commitments to 
+credit generating projects from 2021 to 2024 made by global corporations, amounting to USD 
+5.2 billion.10 In this sense, domestic carbon markets can provide additional revenue streams that 
+enhance the financial feasibility of emission reduction projects. Many projects—such as forestry, 
+clean cooking solutions, or methane capture initiatives—struggle to secure financing if they rely 
+solely on primary revenue sources like timber production or electricity sales and do not monetize 
+the positive externalities that they create. By enabling projects to generate and sell carbon 
+credits, carbon markets create supplementary income, reducing the financial risks for project 
+developers and making these projects more likely to proceed. This additional revenue can also 
+attract investors who might otherwise consider such projects too risky or insufficiently profitable.
+For example, replacing traditional biomass stoves with clean and efficient cookstoves can 
+generate carbon credits by reducing GHG emissions, while also providing health and economic 
+benefits for their users. According to the 2024 State of the Voluntary Carbon Market report, 
+these markets are increasingly valuing credits from projects with “beyond carbon” co-benefits, 
+such as contributions to the UN Sustainable Development Goals. Although price premia for these 
+credits declined in 2023 on previous years, this is likely due to an increased supply of projects 
+with co-benefits.11 
+Additionally, nature-based solutions, such as reforestation projects, can leverage carbon credit 
+revenue to offset their often-long payback periods to support the development and maintenance 
+of their activities. By addressing financial gaps, carbon markets can play a key role in expanding 
+the pipeline of credit suppliers and enabling more projects to enter the market.
+Specifically, domestic carbon markets can help foster a pipeline of local projects, which are 
+critical for meeting long-term climate targets. An estimated 1,500 new carbon credit projects are 
+under development globally with the potential to reduce between 150 and 300 million tonnes 
+of CO2 per year.12 By providing a predictable revenue stream, carbon markets support project 
+developers to innovate, scale, and sustain operations, driving both environmental benefits and 
+economic development. 
+8  World Bank. 2024. State and Trends of Carbon Pricing 2024. Available at: https:/ / openknowledge.worldbank.org/handle/10986/ 41544.
+9  Taskforce on Scaling Voluntary Carbon Markets. 2021. Final Report. Available at: https:/ /www.iif.com/Portals/1/Files/TSVCM_Report.pdf.
+10  Trove Research. 2023. Investment trends and outcomes in the global carbon credit market. Available at: https:/ /ieta.b-cdn.net/wp-content/
+uploads/2023/09/IETA_Report_TroveCreditInvestment_Sept2023.pdf. 
+11  Ecosystem Marketplace. 2024. 2024 State of the Voluntary Carbon Market. Available at: https:/ /www.ecosystemmarketplace.com/
+publications/2024-state-of-the-voluntary-carbon-markets-sovcm/. 
+12  Trove Research. 2023. Investment trends and outcomes in the global carbon credit market. Available at: https:/ /ieta.b-cdn.net/wp-content/
+uploads/2023/09/IETA_Report_TroveCreditInvestment_Sept2023.pdf.
+6
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+2.3  INTEGRATION WITH GLOBAL CARBON PRICING
+Both voluntary and domestic compliance carbon markets offer countries an opportunity to 
+establish a foundation for emissions reduction and to prepare to integrate carbon pricing 
+mechanisms on a regional or global scale in the future. As more countries adopt climate policies, 
+the frameworks established under the Paris Agreement Article 6 can facilitate international 
+cooperation by enabling the transfer of emissions reductions between countries. While this is 
+not the same as formal “linking” of markets—which requires deeper alignment of policies and 
+market mechanisms—this collaboration between countries may lay the groundwork for future 
+interoperability. Article 6 implementation could also enhance the integrity and transparency of 
+VCMs as stakeholders seek agreement on key issues.13
+By establishing a domestic carbon market, even on a voluntary basis, a country and its 
+companies gain experience in emissions trading, MRV, and credit issuance, positioning them well 
+to participate in broader markets. This preparation helps companies adjust to carbon pricing and 
+align with emerging international standards, and later benefit from any future linkages between 
+domestic and international carbon markets.
+Even if a fully linked market does not materialize, the emergence of carbon border adjustment 
+mechanisms (CBAMs), such as the European CBAM,14 is an example of the potential benefit of 
+establishing a domestic carbon market. CBAMs impose fees on imports based on the carbon 
+intensity of the imported products, with the aim of protecting countries with strong climate 
+policies from “carbon leakage”—where companies may relocate their production to countries 
+with weaker emissions regulations. By adopting a domestic carbon market, countries can help 
+their exporters meet CBAM requirements through domestic offsets that meet global integrity 
+standards, rather than paying the full CBAM fee to importing countries with CBAMs in place.
+A domestic carbon market allows countries to retain carbon revenues locally rather than paying 
+CABM fees to other countries. Consider a hypothetical example to illustrate this: if Company A in 
+Country X produces a carbon-intensive product and sells it in Country Y, which has a CBAM with 
+a price of USD 75/ton of CO2. If Country X has a domestic carbon market, Company A can offset 
+part of its emissions domestically by purchasing carbon credits from Company B (also in Country 
+X) at USD 50/ton. As a result, Company A would only need to pay Country Y the difference—
+USD 25/ton—to meet the CBAM requirements. In this case, Country X retains USD 50/ton of 
+the carbon costs, which can go to supporting domestic emissions reduction projects.
+13  The Oxford Institute for Energy Studies. 2022. Article 6 and Voluntary Carbon Markets. Available at: https:/ /www.oxfordenergy.org/wpcms/wp-
+content/uploads/2022/05/Insight-114-Article-6-and-Voluntary-Carbon-Markets.pdf.
+14  European Commission. 2025. Carbon Border Adjustment Mechanism. Available at: https:/ /taxation-customs.ec.europa.eu/ carbon-border-
+adjustment-mechanism_en.
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+7
+Figure 1: Carbon market flows with a domestic carbon market and a carbon price of USD 50/ton
+Country Y
+Country X
+T otal carbon cost 
+paid to Country X: $/ton50
+Buyer
+Country X does have a domestic market
+Producer
+T otal carbon cost 
+for producer: $/ton75
+Product
+Price
+Carbon border 
+adjustment
+CBAM fee:
+$/ton
+25
+Carbon 
+allowance
+Carbon price:
+$/ton
+50
+On the other hand, Figure 2 below shows that, without a domestic carbon market, Company A 
+needs to pay the full USD 75/ton to Country Y under the CBAM, with no portion of the revenue 
+staying in Country X. Company A incurs the same cost in each scenario, but in the absence of 
+a domestic market, Country X loses the opportunity to retain carbon-related revenues and to 
+foster local emissions reduction projects through financial flows. By allowing countries to capture 
+and reinvest these funds locally, VCMs not only help meet external carbon pricing requirements 
+but also contribute to national sustainable development and emission reduction efforts.
+Figure 2: Carbon market flows without a domestic carbon market
+Country Y
+Country X
+T otal carbon cost 
+paid to Country X: $/ton0
+Buyer
+Country X does not have a domestic market
+Producer
+T otal carbon cost 
+for producer: $/ton75
+Product
+Price
+Carbon border 
+adjustment
+CBAM fee:
+$/ton
+75
+8
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+3. BARRIERS TO COUNTRIES ADOPTING  
+  DOMESTIC CARBON MARKETS
+Despite the benefits described in Section 2, adoption of carbon markets globally has been 
+limited, especially in EMDEs. While high- and upper-middle-income countries have been 
+establishing carbon taxes and emission trading systems, only one lower-middle-income country 
+has adopted carbon pricing mechanisms, and no low-income country has done so to date.15 
+This section summarizes why countries have been slow to adopt domestic carbon markets, 
+based on a literature review and interviews. Sections 4 and 5 will then review the barriers 
+PDBs face in supporting countries developing domestic carbon markets and the role they can 
+play moving forward.
+CPI’s desk research and interviews with country governments and PDBs identified the following 
+barriers to countries adopting domestic carbon markets.
+3.1  LACK OF BUY-IN AND STRATEGIC INTEGRATION
+Adopting carbon pricing is politically challenging as such policies carry acute costs, with benefits 
+that are often only evident at a societal level. As with other policies, passing and implementing 
+carbon pricing is easiest and most effective when done as part of a broader strategy to achieve a 
+country’s development and climate goals. Without considering this broader context and sharing 
+lessons from successful implementation of existing systems, policymakers may struggle to 
+convince businesses and constituents that carbon markets or other emission pricing systems are 
+worth the economic tradeoffs.
+Many EMDEs have yet to devise robust, long-term strategies to achieve their development 
+and climate goals. Without such plans, it is challenging for country governments to identify 
+what role a carbon market could play in fulfilling climate goals, and therefore to convince the 
+public, businesses, and other stakeholders of such a platform’s potential benefits. Relevant 
+considerations may include the carbon market’s sectoral coverage, the potential emissions 
+impact and the timeline in which this is expected to be realized, the pricing or stringency of the 
+market, and whether another policy—e.g., a monetary incentive or regulatory change—may be 
+more appropriate. Without integration with a comprehensive strategy, a carbon market may be 
+oversold or appear to have more costs than benefits, thereby limiting policymakers’ interest in 
+expending their political capital and capacity on developing one. Even those policymakers and 
+countries that are convinced of the value of carbon markets will need to balance the time and 
+costs required to set one up with other interests, especially as carbon markets are not a panacea 
+but one tool in the decarbonization toolkit.
+Insufficient long-term planning can also limit local stakeholder engagement, which can reduce 
+implementation buy-in from the broader carbon market ecosystem of businesses, local 
+government, and civil society organizations. If such groups are insufficiently engaged, they will 
+not appreciate the benefits and may pose resistance when the policy costs become apparent.
+15  World Bank. 2024. State and Trends of Carbon Pricing 2024. Available at: https:/ / openknowledge.worldbank.org/handle/10986/ 41544.
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+9
+3.2  LACK OF TECHNICAL CAPACITY
+Once a country identifies a carbon market as an appropriate policy tool to achieve part of 
+its strategy, the government may lack the technical capacity or know-how to develop and 
+implement one. This capacity shortfall is especially acute in EMDEs and may include a lack of 
+budget, staff time, technical knowledge, and experience.
+Technical capacity is required to both design and implement an effective carbon market, which 
+can be especially challenging for countries with a less robust civil service. While there are 
+many examples of market design around the world, setting up a market still requires decisions 
+on scope, methodology, and how to integrate with local policies and international carbon 
+trading rules. To make these decisions, policymakers need knowledge, perspective, and time 
+to understand the tradeoffs of different approaches. Once a project is designed, effective 
+implementation requires the government to monitor, collect, and verify emissions data, and 
+to conduct enforcement to avoid double counting and confirm that the market is having its 
+intended effect.
+Data availability and transparency increase credibility of and engagement with a system among 
+both buyers and sellers. Coordinated infrastructure including reliable emissions registries, 
+tracking systems, and carbon credit certification processes can make markets more efficient and 
+facilitate stakeholder engagement. Without this, local stakeholders may lack insight into how 
+the system works and how to navigate it. This can also reduce the chance of the market facing 
+accusations of corruption and mismanagement, which would reduce user confidence and lead to 
+dissatisfaction, lower prices, and ineffective outcomes.
+While technical assistance (TA) can increase capacity, according to the World Bank’s State and 
+Trends of Carbon Pricing 2023 report, TA for carbon markets often takes years to fully develop, 
+delaying market readiness. A consistent theme throughout our interviews with PDBs was that 
+even the largest institutions struggle to source sufficient staff resources and internal experience 
+to provide TA. Nevertheless, capacity development solutions exist, such as from the World 
+Bank’s Partnership for Market Implementation program (see Box 4, Section 5.1).16
+3.3  DEMAND-SIDE RESTRICTIONS
+It can be challenging to convince companies and other buyers to spend the money and time to 
+participate in VCMs. Outside compliance markets, participants purchase carbon credits to meet 
+their internal climate goals or for marketing purposes. The decline in the value of the global 
+VCM over the past few years indicates that companies are unwilling to scale up their voluntary 
+involvement amid uncertainty over the integrity of current carbon credit offerings.
+Companies considering participation in carbon markets or advocating for adoption of carbon 
+pricing face the barrier of reputational risk. International pushback against using faulty offsets 
+to reach climate goals has caused companies to limit their involvement in VCMs, as evidenced 
+by the 50% decline in the global VCM value in 2023 compared to 2021. For smaller companies, 
+this potential downside may not be worth the cost of finding suitable credits for their needs 
+16  World Bank. 2023. State and Trends of Carbon Pricing 2023. Available at: https:/ / openknowledge.worldbank.org/ entities/publication/58f2a409-
+9bb7-4ee6-899d-be47835c838f.
+10
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+and conducting due diligence. Relying on higher quality intermediaries or brokers may also be 
+unattractive, as use of such intermediaries may incur additional costs.
+In addition, some companies in advanced economies are concerned that the credits they 
+purchase from projects in other countries may be instead seized by the host government to 
+meet the country’s climate commitments. These restrictions are intended to keep emissions 
+credits within the country and to accrue benefits to the local communities, which could reduce a 
+project’s ability to generate revenue from international markets.17
+3.4  SUPPL Y-SIDE RESTRICTIONS
+In addition to challenges in attracting buyers to a VCM, countries may struggle to generate 
+sufficient credits to fuel their markets. Many credit pipeline barriers match those faced by many 
+project developers in EMDEs, including expensive investment terms due to investors’ perceptions 
+of high risks, a lack of pre-development funding and support, and difficulties in securing land and 
+permits. In addition to these common project barriers, projects participating in carbon markets 
+must be approved by a standards organization (see Box 2), which often requires proving their 
+additionality, permanence as relevant, and ongoing MRV. This adds cost and uncertainty to the 
+development process. Relying on carbon credit revenues also brings additional risks, including 
+natural disasters affecting project performance, carbon pricing volatility, methodology changes, 
+and political risks due to local policies and ownership rules, which developers and investors need 
+to carefully navigate. 
+These challenges are particularly acute for smaller projects in EMDEs, which are often deemed 
+particularly high risk by investors and lack the capacity to navigate financial institutions, 
+government regulations, and standards organizations. There are also limited financial products 
+available for small-scale projects.
+17  See, for example: Alaistair Marsh and Natasha White. Bloomberg. 2023. Global Carbon Market in Turmoil After Zimbabwe Grabs Offset Money. 
+Available at: https:/ /www.bloomberg.com/news/ articles/2023-05-18/ global-carbon-market-in-turmoil-after-zimbabwe-grabs-offset-money.
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+11
+Box 2: Carbon markets standards organizations
+Carbon markets standards organizations—such as Gold Standard and Verified Carbon Standard 
+(Verra)—aim to increase the integrity of carbon credits and standardize decentralized VCMs. 
+They operate as pseudo-regulators in the absence of government intervention in order to give 
+confidence to buyers and sellers that the credits they are transacting adhere to a consistent 
+set of guidelines relative to other projects without needing to re-invent a methodology 
+for every project.
+Each standards organization has different sectoral and geographical scopes, and uses different 
+methodologies. These incorporate climate considerations such as a project’s additionality and 
+permanence, and often include innovative approaches, such as integrating non-climate factors 
+such as community engagement.
+PDBs may interact with standards organizations by facilitating coordination with interested 
+credit sellers, providing inputs to specific methodologies or processes, and adhering to the 
+standards in their own credit purchases, setting an example for other market participants.
+Despite their contributions, standards organizations currently face significant scrutiny.18 Critics 
+argue that some projects they have certified have failed to deliver real emissions reductions, or 
+lack transparency. This is an issue that the standards organizations, policymakers, civil society, 
+and PDBs should collaboratively address to avoid eroding trust in certain credits and carbon 
+markets as a whole.
+18  See, for example: Patrick Greenfield. The Guardian. 2023. Revealed: more than 90% of rainforest carbon offsets by biggest certifier are 
+worthless, analysis shows. Available at: https:/ /www.theguardian.com/ environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-
+provider-worthless-verra-aoe. 
+12
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+4. BARRIERS TO PDB SUPPORT FOR    
+  DOMESTIC CARBON MARKETS
+While PDBs are potentially well-positioned to support country governments in the development 
+of domestic carbon markets (see Section 5) and to support the development of the carbon credit 
+pipeline, these banks may be hindered by their own capacity limitations, a lack of country buy-in, 
+and financial constraints.
+4.1  LIMITED CAPACITY
+Each development bank has limited funds, time, and political will to achieve its mandate, which 
+can include both development and climate goals. The limitations are greater for smaller NDBs, 
+and even some regional banks, and can be exacerbated by these organizations’ lack of technical 
+expertise and carbon markets experience. TA programs such as the World Bank’s Partnership 
+for Market Implementation can support smaller NDBs in developing the technical understanding 
+necessary to play a leadership role domestically.
+Even MDBs that are interested in assisting smaller PDBs and country governments with market 
+development through TA can face capacity constraints. It is challenging for an MDB to take 
+strong action in carbon markets if its shareholders and stakeholders are not aligned on this as a 
+priority. Climate teams at MDBs have limited staff time, and providing TA, especially to a country 
+or NDB with limited existing knowledge of or readiness for a domestic carbon market, can be 
+time intensive. This presents an opportunity for a carbon markets-focused, regionally-oriented 
+program like the Africa Carbon Markets Initiative,19 which can concentrate more of its resources 
+on supporting countries and NDBs to bridge the capacity gap.
+4.2  LACK OF HOST COUNTRY BUY-IN
+The PDBs staff that we interviewed noted that interventions to support domestic carbon 
+market development require the host country’s engagement and commitment. If the country 
+government and NDB are not leading the process, a supporting MDB—or other PDB—will 
+encounter a barrier that they are not well-suited to overcome.
+PDBs can help to develop this buy-in. As described in Section 3.2.1, some countries do not have a 
+full strategy for achieving their climate and development goals, and therefore have not identified 
+how or whether a carbon market will support their related targets. In these countries, PDBs will 
+have to focus first on education and strategy development, which may take substantial time and 
+resources, before carbon markets are viewed as a viable solution. This is especially important for 
+large MDBs, which can offer global perspectives and deep technical expertise, while an NDB is 
+likely to be most familiar with local priorities, stakeholders, and opportunities.
+19  Africa Carbon Markets Initiative. 2025. Available at: https:/ / africacarbonmarkets.org/.
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+13
+4.3  FINANCIAL BARRIERS TO GREATER ACTION
+PDBs can support the development of projects to provide a steady supply of credits requires 
+capital, which can sometimes be in short supply for PDBs, particularly those that are smaller or 
+in less well-developed financial markets. Many low-carbon projects have higher upfront costs 
+than fossil-fuel-intensive alternatives, and participating in a carbon market can incur additional 
+upfront costs, such as for certification and verification.
+PDB staff interviewed for this report said that financing projects can be an arduous process, and 
+that smaller PDBs may face difficulties in directing capital specifically to projects that aim to 
+leverage carbon credits amid the vast range of potential projects they could finance. PDB funding 
+frameworks can be rigid and sector-specific, making it difficult to address the needs of projects 
+targeting carbon markets, which vary in size, scope, and sector, and often include innovative and 
+relatively untested technologies and financing mechanisms.
+Even when they can provide some of their own capital, PDBs often aim to catalyze private co-
+financing for larger projects to increase their impact. In EMDEs especially, where markets may 
+be less developed and perceived as riskier, it can be challenging and time-intensive to attract 
+private investment.
+14
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+5. PDBS’ POTENTIAL ROLE IN DOMESTIC  
+  CARBON MARKET DEVELOPMENT
+PDBs have the potential to play a key role in enabling the development and success of domestic 
+carbon markets. Their position as financial and policy intermediaries allows them to provide 
+strategic guidance, technical expertise, and resources to build credible, scalable, and sustainable 
+carbon markets. However, their roles and capacities for supporting carbon markets vary 
+significantly depending on their type—multilateral, regional, or national. This section outlines the 
+potential contributions of PDBs in fostering domestic carbon markets according to their specific 
+capacities and contexts.
+The Brazilian Development Bank (BNDES) provides a good example of the leading role an NDB 
+can play in fostering domestic carbon markets, by aligning efforts with national priorities and 
+engaging local stakeholders, as outlined in Box 3. 
+Box 3: BNDES’ involvement developing Brazil’s VCM
+To foster engagement with national priorities, it is helpful to have a national bank that shares 
+the same carbon market priorities and uses its financing tools to achieve those goals. BNDES’ 
+financial and framework support has facilitated the growth of Brazil’s VCM by encouraging 
+private participation in carbon credit projects. This has been instrumental in positioning 
+Brazil as a significant player in global carbon markets, leveraging its vast natural resources for 
+sustainable development.20
+Brazil’s VCM has evolved significantly, with pivotal support from BNDES. In 2012, BNDES 
+initiated efforts to foster this market by signing agreements with the state governments of Acre 
+and Rio de Janeiro to promote environmental asset markets, including carbon credits.21 In 2024, 
+BNDES contributed to the drafting of Law 15.042/2024 which created the Brazilian Greenhouse 
+Gas Emissions Trading System.22 The law allocates a portion of the revenues from this system to 
+BNDES to be allocated to innovation and decarbonization projects, so the bank will continue to 
+be closely tied to the carbon market.
+BNDES has purchased carbon credits directly and invested in projects that are relying on carbon 
+credit sales to generate revenue. In 2022, the bank approved a pilot operation to acquire USD 10 
+million in carbon credits, marking its first direct involvement in carbon credit transactions. This 
+aimed to support Brazil’s VCM by purchasing credits primarily from REDD+ (Reducing Emissions 
+20  BNDES. 2022. Climate and development: The BNDES’s contribution to a just transition. Available at: https:/ /web.bndes.gov.br/bib/
+jspui/bitstream/1408/22606/1/PRFol_BNDES_Climate%20and%20deevelopment%202022.pdf.
+21  BNDES. 2013. Together with the governments of Acre and RJ, the BNDES signs an agreement to foster the environmental asset market. 
+Available at: https:/ /www.bndes.gov.br/SiteBNDES/bndes/bndes_en/ conteudos/noticia/Together-with-the-governments-of-Acre-and-RJ-
+the-BNDES-signs-an-agreement-to-foster-the-environmental-asset-market/.
+22  Gov.BR. 2024. President Lula signs law creating regulated carbon market in Brazil. Available at: https:/ /www.gov.br/planalto/ en/latest-
+news/2024/12/president-lula-signs-law-creating-regulated-carbon-market-in-brazil.
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+15
+5.1  STRATEGIC GUIDANCE
+PDBs can provide strategic guidance to countries aiming to integrate carbon markets into their 
+broader climate and development agendas, especially those PDBs with more carbon market 
+expertise. Institutions that operate at a global or regional scale are well positioned to share cross-
+country insights, coordinate strategies across jurisdictions, and promote harmonization of carbon 
+market standards.
+In addition to providing strategic insights, PDBs can facilitate cross-sector collaboration, which 
+is vital for the successful development of domestic carbon markets. By fostering dialogue 
+among stakeholders from sectors such as energy, agriculture, forestry, and waste management, 
+PDBs help align carbon market strategies with national economic priorities. This integration 
+ensures that carbon markets are not developed in isolation but rather embedded within broader 
+development goals, maximizing their environmental and economic impact. Multi-sectoral 
+cooperation, promoted by PDBs, can strengthen the inclusivity and robustness of carbon 
+markets, paving the way for their sustainability and effectiveness.
+For example, the World Bank’s Partnership for Market Implementation (PMI) is an example 
+of how MDBs can provide targeted support to help countries design and implement carbon 
+pricing instruments, as outlined in Box 4. By addressing technical and institutional challenges, 
+PMI highlights how strategic guidance can help countries transition from market readiness to 
+full implementation.
+from Deforestation and Forest Degradation) projects, thereby validating quality standards for the 
+country’s decarbonization projects.23 As an example of private-sector nature-based projects that 
+rely on carbon credit revenues that BNDES invested in, in 2024 BNDES provided USD 27 million 
+to a reforestation project through the Arc of Restoration program.24 This project plans to repay 
+BNDES in part through the sale of carbon credits generated by the reforestation.
+23  Green Finance for Latin America and the Caribbean. 2022. BNDES announces program for regular carbon credits acquisition. Available 
+at: https:/ / greenfinancelac.org/resources/news/bndes-announces-program-for-regular-carbon-credits-acquisition/. 
+24  BNDES. 2024. BNDES approves R$ 160 million for Mombak reforestation in the Restoration Arc. Available at: https:/ / agenciadenoticias.
+bndes.gov.br/ detalhe/noticia/BNDES-aprova-R$-160-milhoes-para-reflorestamento-da-Mombak-no-Arco-da-Restauracao/.
+16
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+Box 4: The World Bank’s Partnership for Market Implementation
+The World Bank’s Partnership for Market Implementation (PMI) is a comprehensive program 
+designed to assist countries in developing, piloting, and implementing carbon pricing instruments 
+tailored to their development priorities. PMI builds on the success of its predecessor, the 
+Partnership for Market Readiness, which from 2011 to 2021 supported 23 countries in designing 
+carbon pricing mechanisms, covering approximately 46% of global GHG emissions. PMI expands 
+this mandate by working to move countries from readiness to implementation.25
+The PMI has a sectoral focus and emphasis on operationalizing Paris Agreement Article 6 on 
+international cooperation on carbon markets. PMI supports 32 countries and jurisdictions in 
+implementing carbon pricing instruments, such as emissions trading systems and carbon taxes, 
+to meet NDC targets and long-term decarbonization goals.26 The program also emphasizes 
+aligning domestic carbon markets with international best practices to promote compatibility with 
+broader market systems.
+In addition to its TA, PMI plays a capacity-building role, helping countries to design robust MRV 
+systems, adopt sector-specific strategies, and establish institutional frameworks. By providing a 
+blend of financial and technical resources, PMI ensures that participating countries can navigate 
+the complex processes of market development while integrating carbon pricing instruments 
+into broader policy frameworks. The program demonstrates how targeted support can address 
+technical and financial barriers, paving the way for the successful adoption of domestic carbon 
+markets in emerging economies.
+A successful case under this program is that of Viet Nam, where PMI provided TA and capacity 
+building to help the country develop a robust MRV system and align with international carbon 
+market standards. Support included targeted training for stakeholders, the development of 
+emissions data systems, and assistance in piloting sector-specific carbon pricing instruments.27 
+NDBs such as Brazil’s BNDES or Mexico’s Nacional Financiera focus on aligning carbon markets 
+with country policies and regulatory frameworks. NDBs are well-positioned to guide the 
+integration of carbon markets with national economic priorities and development strategies, 
+leveraging their understanding of domestic contexts, regulations, and stakeholders. Their ability 
+to bridge government, private-sector, and community interests makes them indispensable for 
+fostering localized solutions that align with broader climate goals.
+25  Partnership for Market Implementation. 2025. About us. Available at: https:/ /pmiclimate.org/ about. 
+26  Partnership for Market Implementation. 2025. About us. Available at: https:/ /pmiclimate.org/ about.
+27  Partnership for Market Implementation. 2022. Viet Nam’s Implementation Support Plan to PMI. Available at: https:/ /pmiclimate.org/
+publication/vietnams-implementation-support-plan-pmi. 
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+17
+5.2  TECHNICAL ASSISTANCE
+Market design and methodologies: MDBs can provide upstream TA, helping countries adopt 
+internationally recognized methodologies, such as the Verified Carbon Standard or the Gold 
+Standard. These banks bring global expertise and resources to support the creation of legal 
+frameworks, institutional infrastructure, and sector-specific market structures. For example, 
+the Asian Development Bank (ADB), through its Carbon Market Program has enhanced 
+technical capacities for carbon markets in Southeast Asia, helping both governments and 
+private stakeholders to prepare for market participation. The ADB plans to explore the 
+provision of TA grants for climate action, targeting countries that typically do not qualify for 
+concessionary funding.28
+NDBs, on the other hand, provide more localized support, focusing on the practical challenges 
+of market implementation. For instance, they help to integrate carbon markets into national 
+regulations, adapt methodologies to local conditions, and work closely with domestic business to 
+guarantee compliance and participation. By being embedded in national contexts, NDBs can also 
+pilot smaller-scale projects tailored to sectoral needs, acting as testbeds for broader adoption.
+Data collection and verification: Robust MRV systems are essential for effective carbon 
+markets. MDBs are well-suited to provide high-level capacity building and TA for MRV 
+development, often transferring best practices from international markets, such as 
+methodologies for greenhouse gas (GHG) accounting, verification protocols, and digital MRV 
+tools. NDBs can play a complementary role by operationalizing MRV systems at the local 
+level, engaging with data collection and verification processes that align with national policies 
+and are accessible to local stakeholders. This involves working with project developers, local 
+governments, and community organizations to collect accurate data on emissions baselines, 
+project impacts, and credit generation. Such collaboration between MDBs and NDBs can foster 
+MRV systems that meet both international standards and domestic needs. 
+5.3  SUPPORT CREDIT INTEGRITY
+PDBs can help to establish and maintain the integrity of carbon credits by supporting the 
+development of strict standards that align with international best practices. MDBs excel in 
+disseminating globally recognized standards, such as the Core Carbon Principles set by the 
+Integrity Council for the Voluntary Carbon Market.29 These institutions promote consistency 
+in carbon credit methodologies across countries, enabling credits to be widely accepted in 
+international markets and contributing to market credibility.
+While NDBs are not regulators, they can support the establishment of robust regulatory 
+frameworks and ensuring that market participants adhere to credit integrity standards. NDBs 
+can contribute to the regulatory process by providing TA to governments in setting up credit 
+issuance and verification standards that align with international best practices. Once regulations 
+are in place, NDBs can support credit suppliers and market participants through capacity-
+building programs, TA, and guidance on compliance with these standards.
+28  Asian Development Bank. 2023. Climate Change Action Plan 2023-2030. Available at: https:/ /www.adb.org/sites/ default/files/institutional-
+document/920956/ climate-change-action-plan-2023-2030.pdf. 
+29  Integrity Council for the Voluntary Carbon Market. 2025. The Core Carbon Principles. Available at: https:/ /icvcm.org/ core-carbon-principles/. 
+18
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+Additionally, NDBs can help enhance credit integrity by embedding these standards into their 
+financing criteria. For example, they can require compliance with high-quality credit standards 
+as a condition for financing emissions reduction projects or purchasing carbon credits. This 
+approach not only encourages credit suppliers to meet rigorous quality requirements but also 
+ensures that projects supported by NDBs contribute to a credible and transparent carbon market. 
+By fostering compliance and promoting best practices, NDBs strengthen the market’s integrity 
+while supporting the growth of high-impact, high-quality carbon credit projects. To illustrate the 
+importance of robust frameworks for carbon credit integrity, Nigeria provides a valuable case 
+study of efforts to develop its carbon market while addressing challenges like transparency and 
+double counting (see Box 5).
+Box 5: Carbon Markets in Nigeria
+Nigeria offers a unique example of a country working to establish a carbon market ecosystem 
+that aligns with its development priorities and climate targets. Under the leadership of 
+organizations including the Nigerian Economic Summit Group and Natural Eco Capital, efforts 
+have been made to engage both private and public stakeholders to drive participation in VCMs 
+and explore opportunities under Paris Agreement Article 6.
+The country’s carbon market potential lies in key sectors such as renewable energy, transport, 
+agriculture, clean cooking, and forestry. Currently, Nigeria has registered 84 projects under 
+the Gold Standard and six projects with Verra.30 However, most activity in the carbon market 
+remains voluntary, with limited regulatory oversight or MRV mechanisms on emissions 
+reduction. Challenges such as double counting, transparency, and additionality highlight the need 
+for a robust framework to ensure integrity and encourage greater private sector participation.
+The Nigerian government is working to create an enabling environment for carbon markets. 
+It hosted a capacity-building workshop on Article 6 in 2024 and has inaugurated an 
+Intergovernmental Carbon Market Activation Plan Committee to establish a comprehensive 
+strategy for the sector. In parallel, the private sector is being encouraged to adopt science-based 
+targets, support sustainable projects with co-benefits, and ensure the integrity of emissions 
+reporting. By addressing these challenges and fostering public-private collaboration, Nigeria is 
+poised to become a significant player in the global carbon market.
+30  FiCS Lab Carbon Markets Working Group presentation. 2024.
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+19
+5.4  MANAGE RISK
+A main barrier to wider participation in carbon markets is the uncertainty associated with 
+fluctuating carbon prices. PDBs can help manage this risk by introducing financial instruments 
+or programs such as minimum price floors, guarantees, pilot projects, or offtake agreements to 
+stabilize market participation. MDBs’ larger scale and financing capacity make them well-suited 
+to providing these risk mitigation tools on a regional scale in partnership with local NDBs.
+While minimum price floors are a promising approach to reducing price volatility, further 
+research is needed to assess the financial and policy implications. It will also be important to 
+determine whether their associated costs should be borne by governments, MDBs, private-
+sector participants, or a combination of these stakeholders.
+The Multilateral Investment Guarantee Agency, which houses the recently launched World Bank 
+Group Guarantee Platform, has introduced a letter of authorization (LoA) template to strengthen 
+the credibility of carbon credit investments under Article 6 carbon markets. The LoA template is 
+designed to define legal rights to carbon credits and provide enforceable commitments from host 
+countries, including compensation and dispute resolution mechanisms. By addressing risks such 
+as double counting of carbon credits and regulatory uncertainty, the LoA aims to reduce investor 
+hesitation and lock private capital flows to carbon projects.
+NDBs can complement these efforts by piloting localized risk-management initiatives. For 
+example, they can work with small-scale project developers to create a track record of data 
+and results to help build investor confidence. Such pilot projects not only reduce risks but also 
+generate positive spillover effects by showcasing the viability of carbon markets to other sectors 
+and stakeholders.31
+NDBs can also explore the use of long-term offtake agreements as a tool to reduce spot price 
+risk and provide stability for both project developers and credit buyers. These agreements, 
+which secure the purchase of carbon credits over several years at fixed or variable prices, offer 
+developers greater revenue certainty to support upfront investments while helping buyers 
+access a steady stream of high-quality credits, particularly for supply-constrained projects like 
+reforestation or engineered carbon removal initiatives.32
+5.5  SUPPORT FINANCIAL MECHANISMS TO FRONTLOAD 
+FINANCE
+While carbon markets can generate revenue, carbon credits are often sold many years after 
+a project is financed and constructed. To enable carbon revenue to support the initiation of 
+emissions mitigation projects, countries may need to develop innovative mechanisms to bring 
+forward these funds, including by borrowing money today to be repaid using funds from future 
+carbon credit sales.
+PDBs can develop tools that bring upfront financing for carbon abatement by combining their 
+expertise in results-based finance with innovative financial instruments tailored to carbon 
+31  Aurea Regina Evangelista Soares Franco de Carvalho. 2023. Bridging the Carbon Market Gap: The Role of Development Banks in Fostering 
+Climate Finance and Mitigating Market Failures. Available at: https:/ /ic-sd.org/wp-content/uploads/2023/10/2023-submission_940.pdf.
+32  MSCI. 2024. Nature-based offtake deals: Something is stirring in voluntary carbon markets. Available at: https:/ /www.msci.com/www/blog-
+posts/nature-based-offtake-deals/05104913903.
+20
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+markets. With their access to substantial capital and experience in large-scale financing, MDBs 
+can lead in designing innovative instruments such as carbon-linked bonds, performance-based 
+guarantees, insurance schemes, and flexible contractual clauses. These tools can be designed 
+to connect upfront financing directly to emission reduction outcomes, leveraging future carbon 
+credit revenue streams as a repayment source. For example, the ADB’s USD 100 million Climate 
+Action Catalyst Fund provides upfront financing for high-impact climate mitigation actions, with 
+future delivery of carbon credits secured through long-term transactions.33
+In addition to these mechanisms, PDBs can mobilize private capital through blended finance 
+approaches that mitigate risk for private investors. By offering tools such as guarantees, co-
+investment opportunities, offtake agreements, or concessional funding, PDBs can make carbon 
+market projects—especially small-scale initiatives—more attractive to private investors. This 
+not only helps to increase the private-sector participation that is essential for carbon markets, 
+especially in EMDEs, but also addresses the funding gap for smaller projects, increasing their 
+ability to access markets.
+NDBs focus on deploying financial instruments at the local level, working with domestic banks 
+and private investors to enhance their accessibility and relevance. By leveraging their knowledge 
+of local financial systems and stakeholders, NDBs can tailor mechanisms to meet the needs of 
+small- and medium-sized enterprises, community-based organizations, and other local actors. 
+This can foster a broader and more inclusive carbon market to help financing reach those 
+who need it most.
+33  UNFCCC. Asian Development Bank Carbon Market Program. Available at: https:/ /unfccc.int/sites/ default/files/resource/Bhutan-ADB-CMP-
+Slides.pdf. 
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+21
+6. RECOMMENDATIONS
+This section includes some short-term actions that PDBs can pursue to achieve the impact 
+described in Section 5 above. These recommendations include:
+• Facilitating coordination with other PDBs
+• Sharing best practices
+• Supporting development of coherent climate and development strategies
+• Supporting capacity building
+• Advancing innovative pilot projects
+6.1  FACILITATE COORDINATION WITH OTHER PDBS
+Successfully implementing any PDB-led project requires PDBs to coordinate with stakeholders 
+including government, civil society, private financial institutions, and private-sector businesses. 
+As discussed above, coordination among different PDBs, especially between NDBs and MDBs, is 
+crucial for efficient development of domestic carbon markets. These two types of development 
+banks frequently have different goals, capacities, resources, and familiarity with local 
+opportunities and constraints. If these entities are aligned, they can work with other stakeholders 
+more effectively to implement new projects and policies.
+Successful coordination can take many forms, including:
+• MDBs funding projects for NDBs to implement, or providing TA.
+• Working together on policy proposals.
+• Hosting events to convene relevant stakeholders.
+In addition to single-jurisdiction projects, PDBs (especially regionally-focused banks) can work 
+across markets to provide consistency in terms of methodology, integration, and avoiding 
+unintended consequences for stakeholders that are working in multiple carbon markets.
+22
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+6.2  SHARE BEST PRACTICES
+PDBs, especially MDBs and regionally focused banks, will be able to provide important regional 
+and global perspectives to both NDBs and local governments. Carbon markets are complex, and 
+analysis has been conducted over the past decades on where existing markets have succeeded 
+or fallen short. Given local governments’ relative lack of capacity and technical expertise, 
+PDBs can play a critical role in reducing duplication of efforts and supporting governments in 
+learning from what has been tried in other jurisdictions in terms of market scope, methodology, 
+community and business engagement, and financial mechanisms. PDBs can share these findings 
+through convenings, public reports, or one-on-one engagement.
+PDBs can also support with increased transparency and data sharing. This will address barriers 
+described in this report by generating increased trust that the market does not have corruption 
+and is having the intended impact, paving an easier path to integration with regional or 
+global markets, and making it easier for both demand-side and supply-side actors to engage 
+with the market.
+Box 6: IDFC Facility
+One example of PDB coordination is through the International Development Finance Club, 
+which is a group of 26 PDBs that work together to implement and finance the goals of the 
+Paris Agreement and the Sustainable Development Goals. In 2019, the IDFC created a 
+Technical Assistance Facility, tasked with supporting the IDFC’s climate change efforts through 
+“strengthen[ing] knowledge and leverag[ing] resources,”1 including by facilitating collaboration 
+and developing finance expertise and capacities. While the IDFC Facility’s focus is not primarily 
+on carbon market development, it is an example of how collaboration between PDBs is 
+operationalized and makes an impact, including through2:
+• Knowledge sharing: monthly Climate Working Group meetings, workshops, one-on-
+one mentoring, internal and external training opportunities, a climate toolbox to build 
+capacity and reduce duplication of efforts, and high-level events like COP and the Finance 
+in Common Summit.
+• Tracking and transparency: the annual Green Finance Mapping report tracks member 
+banks’ finance flows across sectors and regions, enabling measurement against targets.3
+• Joint project proposals: coordinated mobilization to respond to business opportunities with 
+a more impactful proposal while using fewer resources.
+1  International Development Finance Club. 2024. IDFC Climate Facility. Available at: https:/ /www.idfc.org/wp-content/
+uploads/2024/01/idfc-pamphlet.pdf.
+2  International Development Finance Club. 2024. IDFC Climate Facility. Available at: https:/ /www.idfc.org/wp-content/
+uploads/2024/01/idfc-pamphlet.pdf.
+3  Climate Policy Initiative. 2024. IDFC Green Finance Mapping 2024. Available at: https:/ /www.climatepolicyinitiative.org/publication/
+idfc-green-finance-mapping-2024/. 
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+23
+6.3  SUPPORT DEVELOPMENT OF COMPREHENSIVE 
+CLIMATE AND DEVELOPMENT STRATEGIES
+As noted in Section 5.1, a prerequisite of successful domestic carbon market development is 
+identifying the specific role that the country wants the market to play in achieving its climate, 
+development, and economic goals. To do this, a country needs a comprehensive and coherent 
+policy strategy. Regional and multilateral PDBs can support the development of these strategies 
+by providing financial resources, staff time, and TA. NDBs, which generally have fewer resources 
+to spare, can provide their expertise on existing opportunities for and barriers to investment.
+Once those strategies are available, PDBs can support governments in identifying the role 
+of domestic carbon markets in their strategy, so that the markets are designed with those 
+responsibilities in mind and expectations can be set as to their effectiveness.
+6.4  SUPPORT CAPACITY BUILDING
+Delivering effective carbon markets will require scaling up the capacity of country governments, 
+NDBs, and even larger PDBs. PDBs that have experience of working on carbon markets can 
+provide trainings and resources to government officials, businesses, and communities on the 
+basics of carbon markets and the major factors that should be considered as the are developed 
+and implemented. Such resources should be mainstreamed throughout government, as 
+successful implementation will incorporate staff from all of government including environment, 
+regulators, economy, and finance. 
+This support is especially important for smaller projects and local stakeholders, who have 
+limited capacity and less experience in navigating PDBs, carbon markets, and private financial 
+institutions. PDBs could develop tailored financial products or programs to support small 
+projects, including loan funds paired with TA, aggregation mechanisms, and blended finance 
+vehicles. PDBs can also facilitate upfront engagement between policymakers, local businesses, 
+and civil society organizations, including through holding events, spreading information, and 
+establishing best practices and processes for policymakers to follow.
+6.5  ADVANCE INNOVATIVE PILOT PROJECTS TO MANAGE 
+RISK AND LEVERAGE CARBON REVENUES
+As described in sections 5.4 and 5.5, PDBs can use their financial tools to de-risk carbon markets 
+and increase their impact. To achieve this in the near-term, PDBs should identify potential pilot 
+projects that address key risks and barriers across various geographies and sectors and are 
+scalable to meet the climate finance need. NDBs can support development through coordination 
+with local financial institutions, as they are closer to local markets and private-sector actors. 
+Regional and multilateral PDBs can support pilot projects with TA and start-up funds, including 
+by reducing the risks of projects that generate carbon credits and facilitating borrowing against 
+future carbon revenues. One example could be to offer upfront financing through programs that 
+purchase carbon credits from projects, such as the Forest Carbon Partnership Facility, either by 
+modifying the program to provide financing at the start of a project or by working with a third 
+party to lend against the future credit revenues.
+24
+Role of Public Development Banks in Supporting Domestic Carbon Markets 
+7. CONCLUSION
+While each bank and country context is unique, we endeavored to provide guidance that is 
+broadly applicable and pragmatic. As noted in the examples throughout this report, efforts 
+are well underway across the PDB ecosystem to expand the role of PDBs in supporting 
+domestic carbon markets. Their strategic role in providing funding through innovative financial 
+mechanisms, developing risk mitigation tools, and delivering technical assistance can help bridge 
+key gaps and foster market growth. However, challenges remain, challenges remain, particularly 
+in scaling these efforts and enhancing market integrity across diverse regulatory environments. 
+To maximize their impact, PDBs should continue to collaborate – both among themselves and 
+with governments, private investors, and international institutions – to align carbon market 
+strategies with broader climate and development goals. Engagement through coalitions such as 
+the IDFC, during key convenings throughout the year, and via targeted interventions such as the 
+FiCS Innovation Lab can further scale these efforts. Strengthening knowledge-sharing, piloting 
+innovative financial tools, and improving coordination will be critical to overcoming existing 
+barriers and unlocking the full potential of carbon markets. As global carbon pricing initiatives 
+evolve, domestic carbon markets will play an increasingly vital role in mobilizing private 
+finance for emissions reduction, particularly in emerging economies. By proactively addressing 
+challenges and leveraging best practices, PDBs can position themselves as key enablers of 
+climate action. 
+If you would like more information, or to provide feedback, please contact the 
+authors of this report.
+climatepolicyinitiative.org

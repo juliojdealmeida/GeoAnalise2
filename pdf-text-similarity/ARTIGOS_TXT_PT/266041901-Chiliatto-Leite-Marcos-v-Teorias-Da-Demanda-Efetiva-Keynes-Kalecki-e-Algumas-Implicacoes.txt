@@ -1,0 +1,1353 @@
+1 
+ 
+Teorias da Demanda Efetiva: Keynes, Kalecki e algumas implicações * 
+ 
+ 
+ 
+Marcos Vinicius Chiliatto-Leite ** 
+ 
+ 
+III Encontro Internacional da AKB - São Paulo, 2010. 
+Área: Macroeconomia e Política Econômica. 
+ 
+ 
+ 
+ 
+Resumo 
+A demanda efetiva foi postulada contemporânea e independentemente por Keynes e 
+Kalecki e consolida um princípio fundamental da teoria econômica heterodoxa, a qual entende 
+que o produto é resultado da demanda. As formulações de Keynes e de Kalecki tê m diferentes 
+especificidades e seu próprio foco analítico. Por exemplo: no primeiro há o destaque à 
+determinação do emprego, com estoque de capital dado; no segundo se destaca a 
+determinação dos lucros e as implicações de longo prazo da demanda efetiva. Independente 
+dessas, e outras, diferenças entre Keynes e Kalecki, o princípio da demanda efetiva está 
+presente e as abordagens são plenamente compatíveis. O artigo apresenta a demanda efetiva 
+segundo Keynes e keynesianos, bem como segundo Kalecki e kaleckianos. Ademais, são 
+discutidas implicações fundamentais, tais como: a derrocada da “Lei de Say”; a 
+desmistificação da poupança; a determinação do emprego e da renda; e uma implicação para a 
+dinâmica do capitalismo. 
+Palavras-chave: Demanda efetiva; Keynes; Kalecki. 
+ 
+Abstract 
+The effective demand was postulated contemporarily and independently by Keynes 
+and Kalecki and consolidates a fundamental principle of the heterodox economics theory , 
+which considers that the product is a result of demand. The formulations of Keynes and 
+Kalecki have different characteristics and its own analytical focus. For example: the first 
+emphasizes the determination of employment, with a given capital stock; the latter 
+emphasizes the determination of profits and the long-term implications of effective 
+demand. Regardless of these, and other differences between Keynes and Kalecki, the principle 
+of effective demand is present and the approaches are fully compatible. The paper presents the 
+effective demand by Keynes and Keynesians, as well as by Kalecki and 
+Kaleckians. Furthermore, we discuss basic implications such as: the fall of the "Say's Law"; 
+the demystification of savings; the determination of employment and income; and an 
+implication for the dynamics of capitalism. 
+Keywords: Effective demand; Keynes; Kalecki. 
+                                                 
+* O presente artigo é uma versão adaptada do capítulo II da dissertação de mestrado apresentada ao Programa de 
+Pós-Graduação em Economia do Instituto de Economia da Universidade Federal do Rio de Janeiro (IE/UFRJ), 
+com o título “A teoria do subdesenvolvimen to de Celso Furtado: uma discussão à luz da questão do papel do 
+consumo e da controvérsia do estagnacionismo” (CHILIATTO -LEITE, 2010). O autor agradece, eximindo-os de 
+culpa por eventuais imprecisões do texto, a André Modenesi, Camila Ferraz, Félix Manhiça, Lucas Teixeira e 
+Salvador Werneck Vianna pelas discussões e comentários durante os anos de colaboração no IPEA-RJ; bem 
+como às discussões com Fábio Freitas. 
+** Doutorando do Programa de Pós-Graduação em Economia do Instituto de Economia da Universidade Estadual 
+de Campinas (IE/Unicamp). Contato: chiliatto@eco.unicamp.br . 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+2 
+ 
+1. Introdução 
+O presente trabalho – a ser apresentado em uma Associação Keynesiana – tem como 
+pano de fundo a contigüidade das teorias de Keynes e Kalecki. Isso não significa 
+desconsiderar diferenças nas abordagens, mas significa focar nos pontos em comum, nas 
+convergências teóricas e nas complementaridades entre Keynes e Kalecki. O que contribui 
+para se discutir e compreender, no campo heterodoxo, a essência e a dinâmica de economias 
+capitalistas. 
+Este artigo apresenta uma discussão teórica a respeito do ponto nodal na 
+macroeconomia heterodoxa, qual seja, a demanda efetiva. Formulada por Keynes e Kalecki, 
+este princípio fundamental é a âncora da teoria econômica proposta por esses autores e tem 
+implicações importantes, tais como: a de rrocada da “lei de Say”; a desmistificação da 
+poupança; a determinação do emprego e da renda; e a compreensão da dinâmica cíclica do 
+capitalismo. 
+A Lei de Say postula que a demanda, em termos agregados, é conseqüência da criação 
+de oferta. Antiteticamente, o Princípio da Demanda Efetiva (doravante PDE) formula 
+fundamentalmente o oposto, pois a demanda, em geral (ou o gasto, qualquer que seja), passa a 
+ser a variável independente. 
+O presente artigo buscará apresentar o PDE, discutindo duas diferentes (porém 
+compatíveis) formulações. Então, com o arcabouço das teorias de Keynes e Kalecki, discutir-
+se-ão os determinantes do nível de emprego, renda e o comportamento dinâmico de uma 
+economia capitalista de modo geral.1 
+Para contextualizar a discussão, vale destacar que Keynes e Kalecki, apesar de 
+procedências teóricas distintas, formularam o que ficou conhecido na literatura como o 
+Princípio da Demanda Efetiva. Keynes fora um autor da Escola de Cambridge, que em sua 
+época estava sob forte influência de Alfred Marshall. Kalecki, por sua vez, foi um polonês de 
+formação marxista que, contemporaneamente a Keynes, deu contribuições à compreensão de 
+princípios básicos da economia heterodoxa. Nesse sentido, como propõe Macedo e Silva 
+(1995a; 1995b), o PDE devidamente formulado pode ser considerado como um dos elementos 
+centrais e ponto de partida de uma teoria econômica heterodoxa. 
+A primeira parte deste artigo buscará mostrar que a demanda efetiva em Keynes 
+(1992) é tratada na esfera das decisões de produção (curto prazo), em que a estrutura 
+produtiva e as expectativas de longo prazo são dadas. O princípio é explicitado como um 
+“ponto” de intersecção de funções de demanda e oferta agregadas, em termos de renda 
+esperada, que determina o nível de emprego e conforma um “equilíbrio”, i.e., sem tendência 
+de ajuste automático ao pleno emprego. Ao longo da seção sobre a formulação keynesiana, o 
+leitor perceberá que a dissertação faz uso da contribuição de diferentes economistas, tais 
+como Paul Davidson, Smolensky, Minsky, Sidney Weintraub, Fernando Cardim, Macedo e 
+Silva, Luiz Gonzaga Belluzo e Júlio Gomes de Almeida, que ajudam a esclarecer (ou até 
+mesmo adicionam elementos novos) pontos importantes da teoria de Keynes. 
+A segunda parte do trabalho discutirá a exposição de Kalecki (1983a), na qual o PDE 
+baseia-se em uma “determinação unilateral das receitas (rendas) pelo gasto” (POSSAS, 1999: 
+p. 19). Implicitamente, o princípio aparece por meio dos gastos agregados, separados em 
+classes: consumo capitalista, investimento e mais os salários (em princípio sendo 
+integralmente consumidos pelos trabalhadores). Na esquemática do autor, será visto como os 
+lucros (e, conseqüentemente, as rendas) são determinados pelos dispêndios capitalistas em 
+consumo e investimento (considerando governo com orçamento equilibrado e setor externo 
+com saldo nulo). Assim como na seção dedicada a Keynes, o entendimento da teoria de 
+                                                 
+1 O termo geral aqui utilizado busca explicitar a abordagem generaliza da das relações econômicas capitalistas, 
+sem contemplar especificidades importantes para o entendimento de uma economia segundo seu momento 
+histórico e especificidades estruturais. 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+3 
+ 
+Kalecki é apresentado a partir do original, mas também com o auxílio das obras de Jorge 
+Miglioli, Mário Possas e Paulo Baltar. 
+Com fins introdutórios, deve-se apreender que o princípio que inverte a Lei de Say, o 
+PDE, é geral e trata da compreensão do gasto, qualquer que seja, como a variável 
+independente. Belluzzo e Almeida (2002) resumem a demanda efetiva com a compreensão de 
+que “o conjunto das decisões de gasto determina em cada momento qual será o nível de renda 
+da comunidade” (BELLUZZO & ALMEIDA, 2002: p. 65). 
+Adicionalmente, a formulação de Possas (1987) é simples, direta e elucidativa. O PDE 
+pode ser sistematizado em forma geral partindo-se de uma economia mercantil simples e 
+monetária (analogamente à construção lógica de Marx, na qual a circulação de mercadorias 
+segue a lógica M –D–M). Assim, sem a necessidade de se definir o PDE em uma economia 
+capitalista plenamente constituída , ou ainda, sem qualquer “roupagem” de agregação, 
+distribuição de renda, componentes ex ante etc. Basta uma economia de trocas com o dinheiro 
+cumprindo suas funções básicas2. O PDE acusa que, nas transações econômicas, existe apenas 
+uma única decisão autônoma: gastar. Implica que cada gasto, qualquer, gera uma renda de 
+igual magnitude. Agregando em um período contábil definido: o somatório dos gastos 
+determina e é idêntico ao somatório de receitas (POSSAS, 1987). 
+ 
+2. Formulação keynesiana 
+A década de 1930 trouxe recessão profunda, desemprego involuntário persistente 3 e 
+explicitou a incapacidade de auto-ajuste das economias capitalistas. Foi um período em que o 
+colapso econômico e social trazia o “risco” de colapso político, e setores mais conservadores 
+temiam as idéias de planificação da produção, contra a economia de mercado. A Teoria Geral 
+do Emprego, do Juro e da Moeda 4 (doravante Teoria Geral) foi publicada nesse contexto e 
+proveio de Cambridge, um meio em que Marshall e seus discípulos postulavam teorias cujas 
+conclusões eram mais otimistas com relação a forças imanentes do mercado. Ainda que 
+admitissem imperfeições e falhas nos mecanismos de mercado que justificariam intervenções 
+do Estado, havia uma tendência dos desequilíbrios se ajustarem automaticamente. 
+Foi nesse ambiente, cultivado em Cambridge, onde Keynes publicou sua obra e o 
+termo “revolução” keynesiana é compreensível. A Teoria Geral , alternativamente e em 
+oposição às idéias anteriores, conclui, basicamente, que a economia pode sofrer com 
+insuficiência de demanda, o que implica em desemprego involuntário; diante de tais situações 
+de baixa demanda e desemprego persistente, Keynes argumentava que não há motivos 
+teóricos, nem indícios na realidade, para crer que a economia seja, por si só, auto-ajustável. 
+Segundo Keynes (1992), a ênfase no termo “geral” se justifica por ser uma teoria que 
+se aplica não só ao caso especial do pleno emprego, como ocorria na abordagem ortodoxa, 
+mas também aos casos que coadunam com a realidade observada nas economias capitalistas. 
+Essa primeira parte do artigo busca contribuir para compreender que se inverte o 
+postulado de Say ao definir que a renda e o emprego, em cada instante, são determinados pela 
+demanda agregada. Para isso, a próxima seção do texto discute o princípio da demanda efetiva 
+inspirado em Keynes. Seguida por apresentação sintética da teoria de determinação da renda e 
+do emprego de Keynes (1992) e keynesianos (seção 2.2). 
+ 
+                                                 
+2 Quais sejam, a de reserva de valor, unidade de conta e meio de troca. 
+3 No caso da Inglaterra o desemprego persistente caracterizou todo o pós-primeira guerra. Isso certamente teve 
+influência na reflexão dos economistas ingleses a respeito do tema do desemprego, que já estava em evidência 
+por mais de uma década quando teve início a grande depressão. 
+4 Keynes (1992). 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+4 
+ 
+2.1. Demanda efetiva em Keynes e keynesianos 
+A demanda efetiva na Teoria Geral é apresentad a por meio de um “ponto” formado 
+pela intersecção de curvas (diferentes das tradicionais curvas neoclássicas): uma de “oferta 
+agregada” e a outra de “demanda agregada”, ambas em termos de renda esperada. O esquema 
+sistematiza o arcabouço teórico de Keynes (1992) de determinação do emprego, discutido na 
+seção posterior. 
+Os gráficos da presente seção são construídos a partir das leituras de Weintraub 
+(1966), Davidson e Smolensky (1964) e contribuem para a visualização do que Keynes 
+denominou de “ponto de demanda efetiva”. Para cumprir com esse objetivo, primeiramente 
+analisam-se a função de oferta (Z) e posteriormente a de demanda (D). 
+Os valores de Z representam a quantia monetária (em termos esperados) necessária 
+(custos dos fatores) e compensadora (lucros mínimos desejados) das vendas para os diferentes 
+níveis de mão- de-obra ocupada pelos empresários ( N). Em outras palavras, para entender a 
+essência da idéia representada pela função, pode-se afirmar que a curva de oferta expressa 
+aquilo que os empresários esperam (em cada patamar de emprego de uma dada estrutura de 
+capital) receber somando despesas de salários ( W=w.N, onde w representa o salário médio); 
+custos fixos e variáveis ( F), de modo que os custos marginais podem ser supostos constantes 
+até o ponto em que elevada ocupação da capacidade faz o custo marginal se tornar crescente; 5 
+e um montante de lucro mínimo bruto (R), que além de incluir depreciação, abarca impostos e 
+despesas financeiras. Z representa os valores a partir dos quais passa a ser viável, na ótica dos 
+empresários, o emprego de mais trabalho. Nesse sentido, entende-se o lucro como função 
+crescente do emprego em R=R(N) na medida em que: “the one axiom that embodies is that 
+entrepreneurs will ordinarily give more employment, and produce more output, only if they 
+expect higher levels of sales proceeds (WEINTRAUB, 1966, p. 15, destaque no original). 
+Com esses elementos, a função Z se expressa na equação 1 e 1‟, também representada 
+no gráfico 1: 
+);( wNZRFWZ 
+    (1) 
+);( wNZZ 
+     (1’) 
+Gráfico 1: Curva de oferta agregada (Z) e componentes 
+ 
+ 
+A partir de Weintraub (1966), supõe-se que na função Z i) os salários são constantes e 
+                                                 
+5 Weintraub (1966, p. 21) faz a curva de custo F com taxa de crescimento constante em todos os períodos. Aqui, 
+optou-se por acrescentar os custos marginais crescentes, como supõe Keynes na Teoria Geral, mas não em todos 
+os pontos da curva, apenas a partir de alto nível de ocupação da capacidade. 
+Z ($)
+N
+Z W F R
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+5 
+ 
+o trabalho é homogêneo; ii) o estoque de capital não varia, portanto a análise empreendida é 
+de curto prazo; iii) a função de produção está dada; e, por fim, iv) há um determinado estado 
+de competitividade, que não precisa ser de concorrência perfeita 6. Para os fins da presente 
+discussão, essas suposições não interferem decisivamente nos argumentos. Ademais, 
+poderiam deslocar a função Z, por exemplo, variações no salário, mudanças no volume de 
+equipamento instalado, novas técnicas produtivas, grau de concorrência, ou nova variedade de 
+bens produzidos. 
+É interessante destacar que a função de oferta na concepção keynesiana, aqui 
+discutida, permite observar que com o salário médio constante7, ainda que os custos marginais 
+fossem constantes ao longo de toda a curva, a decisão de produção (e emprego) apenas se 
+justifica por lucros crescentes, o que garante, por si só, que a curva Z além de ser crescente 
+seja, também, a taxas crescentes. 
+Portanto, para condições técnicas e de custo do trabalho dados, trata-se de uma função 
+crescente em relação ao emprego 
+
+
+
+
+  0dN
+dZ  e supõe-se também que os custos podem ser 
+constantes ou a taxas crescentes (a partir de certo nível de ocupação da capacidade) com 
+crescente participação dos lucros em relação aos salários, em termos de distribuição 
+funcional, o que garante que 
+0²
+² Nd
+Zd . Ilustrativamente, poder- se-ia supor Z apenas como 
+uma reta crescente, ou ainda traçar a curva de requintadas maneiras que contemplassem outras 
+especificidades da estrutura de oferta; mas essa questão em nada afeta o que se quer 
+demonstrar neste texto. Sobre esses detalhes vale consultar Davidson e Smolensky (1964). 
+Por sua vez, a curva D expressa a quantia monetária esperada das vendas provenientes 
+do consumo e investimento de cada nível de emprego ( N). Weintraub (1966) decompõe a 
+curva em três componentes principais, quais sejam, o consumo ( Dc), o investimento ( Di) e a 
+despesa do governo (Dg), assim, a função D fica como: 
+gic DDDD 
+     (2) 
+O componente do consumo (Dc) pode ser decomposto segundo múltiplas propensões a 
+consumir, multiplicadas por cada uma das rendas das diferentes categorias da sociedade: 
+assalariados, funcionários públicos, altos executivos, rentistas e aqueles que obtêm lucros e 
+dividendos. Apenas por simplificação, sem prejuízo aos objetivos da presente seção, po de-se 
+apresentar uma propensão média a consumir multiplicada pela renda dos assalariados e outra 
+aos que obtêm renda de alugueis, juros, lucros e dividendos (L) – essa última também como 
+função do nível de emprego (N): 
+ALcwNcD lwc 
+    (3) 
+Nas vezes em que se vê c, as variáveis representam as propensões a consumir daqueles 
+cuja renda provém de salários e de lucros somados a rendas não-assalariadas listadas 
+anteriormente.8 Por fim, o componente A compõe todo o consumo “autônomo” proveniente de 
+                                                 
+6 Embora para Keynes (1992) seja o caso. 
+7 Os salários podem até ser pensados como crescentes, desde que a expectativa de receitas seja crescente a ponto 
+de garantir crescimento absoluto dos lucros de modo satisfatório aos empresários. Ademais, o resultado de 
+variação dos salários torna-se ainda mais incerto quando se considera a função de demanda, que se desloca com 
+mudanças no salário. 
+8 Vale destacar que Keynes (1992) apresenta uma única propensão a consumir para toda a sociedade. 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+6 
+ 
+variadas formas de poder de compra como acumulação de lucros passados, diversos ativos, 
+crédito, aposentadorias, heranças etc. 
+O componente do investimento ( Di) engloba as características determinantes dessa 
+variável, como se discutirá na seção ulterior. Basicamente, Di depende: i) do estoque de 
+capital (K), bem como dos preços dos equipamentos; ii) lucros do passado imediato ( R-1); iii) 
+lucros esperados ( R*); iv) taxa de juros ( r); assim como os salários monetários futuros 
+(WEINTRAUB, 1966). Assim, tem-se: 
+),,*,,;( 1 KrwRRNDD ii 
+    (4) 
+Por fim, o componente do governo pode ser pró-cíclico, ou anticíclico em relação ao 
+emprego e renda, mas por ser determinado por questões eminentemente políticas ou exógenas, 
+define-se simplesmente como um item dado na demanda: 
+gg DD 
+      (5) 
+Desse modo, agregando os três elementos, destacando as variáveis fundamentais e, 
+como faz Weintraub (1966), omitindo parâmetros exógenos define-se: 
+gic DrwNDAwNDD  ),;();(
+    (6) 
+ArwNDD  ),;(
+     (6’) 
+Analisando a curva de demanda em conjunto com a oferta e as implicações em termos 
+de uma teoria do emprego, tal qual Keynes se preocupa na Teoria Geral, D implica que é em 
+função dos gastos agregados esperados que os empresários tomam a decisão, ex ante , de 
+produzir (de acordo com uma dada estrutura produtiva e tecnológica) e de empregar 
+determinada quantia de mão-de-obra. Isso quer dizer que há uma relação positiva entre as 
+variáveis emprego e demanda 
+
+
+
+
+  0dN
+dD  (num dado quadro expectacional). Admitir 
+mudanças, por qualquer motivo, nas expectativas implica em instabilidade das curvas, afinal, 
+as mesmas dependem da variável “expectativa”. 
+Ademais, supõe-se que apesar de a curva D ter inclinação positiva, as taxas são 
+decrescentes 
+
+
+
+
+  0²
+²
+Nd
+Dd  como conseqüência da propensão marginal a consumir diminuir com 
+o crescimento da renda.Vale destacar que é suficiente que a propensão marginal a consumir 
+seja menor que 1, isso garantiria que a curva de demanda seja crescente, mas com inclinação 
+inferior a curva de oferta e, então, necessariamente haveria um ponto de encontro entre as 
+curvas. Analogamente à ressalva feita com a curva Z, poder- se-ia supor D como uma reta 
+simplesmente crescente, ou com outro formato (desde que mais horizontal que Z, para 
+permitir a existência de solução), mas aquilo que este texto discute independe dessas 
+diferentes possibilidades teóricas. 
+O que Keynes (1992) chamou de ponto de demanda efetiva (p, no gráfico 2) determina 
+o nível de emp rego (também a renda e produto da economia) e forma um “equilíbrio” 
+independente do nível de pleno emprego. Desse modo, de acordo com as expectativas, os 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+7 
+ 
+empresários tomam suas decisões de produção; o grau de incerteza e confiança definem o 
+comportamento dos agentes com relação à demanda por moeda como ativo e empregam os 
+fatores de produção de acordo com a demanda efetiva. Caso este ponto esteja abaixo do pleno 
+emprego, trabalhadores involuntariamente ficam desocupados e não há mecanismos auto-
+ajustáveis. Sendo assim, o ponto de demanda efetiva conforma- se como um “equilíbrio” que 
+apenas eventualmente se dá com pleno emprego da força de trabalho. 
+ 
+Gráfico 2: Ponto de demanda efetiva e determinação do emprego 
+ 
+Com o esquema do ponto de demanda efetiva, Keynes explicita que a determinação do 
+nível de emprego em uma economia capitalista não é dada na esfera do mercado de trabalho. 
+Segundo a teoria do emprego de Keynes – discutida a seguir – a ocupação da força de 
+trabalho é resultado das decisões de produção dos empresários, o que está ancorado nas 
+condições esperadas da demanda agregada. Assim, caso exista desemprego involuntário em 
+uma economia, em primeiro lugar, não há mecanismos de ajuste automático; em segundo, 
+mudanças no âmbito do mercado de trabalho (como, por exemplo, reduções salariais), 
+coeteris paribus, não devem afetar o nível de emprego. 
+Note-se, adicionalmente, que o pleno emprego em Keynes não significa plena 
+ocupação de capacidade, mas se refere à ocupação de toda oferta de trabalhadores no mercado 
+de trabalho. Isso explica o porquê de a linha pontilhada que indica o pleno emprego no 
+gráfico 2 não ser assintótica com a curva Z. 
+ 
+2.2. Teoria do emprego e da renda em Keynes e keynesianos 
+Em artigo de 1937, Keynes, ao debater com críticos da recém publicada Teoria Geral, 
+reforça contribuições fundamentais de sua obra, como o tratamento da incerteza e sua relação 
+com a moeda. Segundo Keynes (1937), a incerteza 9 é um conceito fundamental, pois, diante 
+do desconhecimento sobre o futuro os agentes podem preferir, no presente, reservar sua 
+riqueza na forma mais líquida possível. Uma vez que a moeda é socialmente aceita como 
+forma de liquidar contratos, também serve como unidade de conta, meio de troca e reserva de 
+valor. Essas funções exercidas pela moeda em uma economia monetária justificam sua posse 
+num ambiente cujo futuro é necessariamente incerto (mesmo que sua propriedade não 
+implique rentabilidade, ou juros). Do contrário aplicar -se-ia a indagação de Keynes (1937: 
+p.115 e 116): “Why should anyone outside  a lunatic asylum wish to use money as a store of 
+wealth?”. Assim, supondo que as propriedades da moeda não estejam sendo afetadas por 
+complicações quaisquer, como situações hiperinflacionárias, a moeda é capaz de oferecer, ao 
+                                                 
+9 Maiores detalhes sobre incerteza, ver Davidson (1972). 
+N
+Z, D ($)
+Z D
+Emprego 
+segundo DE
+Pleno 
+emprego
+p
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+8 
+ 
+longo do tempo, defesa para a riqueza dos agentes, por isso, denominada de “ liquidity time-
+machine” (Davidson, 1994). 
+No capítulo 18 da Teoria Geral, Keynes organiza a argumentação sob a forma de um 
+modelo sintético em três equações, com três variáveis endógenas, as quais seguem em ordem 
+causal e seqüencial10: i) o esquema da preferência pela liquidez (PL), o qual, com dada oferta 
+de moeda, define “a” 11  taxa de juros; ii) determinado os juros, diante do esquema da 
+Eficiência Marginal do Capital (EMgC) define-se o investimento; iii) dado o investimento, a 
+partir da propensão a consumir e do multiplicador determinam-se a renda agregada e o nível 
+de emprego. 
+Vejamos esses pontos em síntese. No capítulo 13 da Teoria Geral, Keynes supõe um 
+dado nível de oferta de moeda, ao qual se associa um estado da PL que é resultado do grau de 
+incerteza dos agentes, de modo que quanto mais incerteza e insegurança, maior a preferência 
+pela moeda. Esses fatores determinam o nível dos juros, o qual é concebido no modelo da 
+Teoria Geral como uma recompensa por abrir mão da liquidez. 12 Conjugada à teoria da PL, 
+Keynes (1992) desenvolve uma teoria do investimento, a qual se fundamenta na EMgC 13 em 
+comparação com a alternativa dos ativos que rendem a taxa de juros vigente, que, então, 
+define o nível de investimento de uma economia monetária empresarial. 
+Determinado o nível de investimento, por meio das teorias da PL e do investimento, 
+Keynes (1992) conclui a seqüência de determinação da renda e do emprego com um 
+mecanismo de propagação denominado “multiplicador” , que resulta da propensão a consumir 
+da sociedade – que o autor também destacou no artigo de 1937. Então, dado o investimento, 
+há a multiplicação do gasto, segundo uma propensão a consumir, que determina o nível de 
+renda agregada e o nível de emprego. 
+No capítulo 17, Keynes (1992) aponta que a moeda possui qualidades especiais, quais 
+sejam: a elasticidade nula (ou negligenciável) da substituição e da oferta (produção) da moeda 
+em resposta a demanda; e seu “prêmio de liquidez” (máximo) é muito maior que seu  “custo 
+de carregamento” (negligenciável ou nulo). Com apoio da leitura de Minsky (2008: cap.4 e 
+5), o capítulo 17 pode ser compreendido como um “modelo geral de escolha de ativos”, em 
+que cada um dos ativos possui sua “taxa própria de juros” e seus preços  relativos medem as 
+diferenças de seus retornos esperados. Todos eles têm que compensar, em remuneração 
+monetária, seu risco em relação ao “ativo de referência” (moeda), de modo que, em equilíbrio, 
+cada ativo oferece retornos monetários proporcionais ao seu risco de iliquidez (CARVALHO, 
+1996). Dado o fato de que aplicar capital em moeda (ou bens não-reprodutíveis quaisquer) em 
+busca de seu prêmio de liquidez (para se proteger do risco e incerteza de alocar riqueza em 
+                                                 
+10 Como propõe Carvalho (1992). 
+11 Lembrando que Keynes (1992) apresenta “uma” taxa de juros no capítulo 15, no qual ele organiza a 
+argumentação sob a abstração de dois ativos: a moeda (líquido) e títulos (ilíquidos). No controverso capítulo 17, 
+Keynes (1992) muda o enfoque e considera n classes de ativos e, portanto, n taxas de juros. Dentre os ativos está 
+a moeda, cuja taxa de juros está relacionada com o prêmio de liquidez. 
+12 Não é o foco deste artigo a discussão sobre a exogeneidade ou endogeneidade da oferta da moeda. Para 
+detalhes, ver a discussão do verticalismo e horizontalismo em Kaldor ( 1970, 1982, 1985), Davidson (1977), 
+Weintraub (1978a; 1978b), Minsky (1982) e Moore (1979; 1985; 1988; 1989). Parte da literatura interpreta que 
+Moore está entre os principais autores da teoria da moeda endógena  (Fontana, 2001; 2002) – pedra fundamental 
+da abordagem pós-keynesiana –, considera a moeda endogenamente determinada pela preferência pela liquidez 
+dos agentes econômicos (Lavoie, 1984; 1985; 1996; 2005; Chick e Dow, 2002;  Monvoisin e Pastoret, 2003; 
+Fontana e Palacio-Vera, 2003; Palley, 2003; Rochon, 2003). Outra frente de discussão importante, mas não em 
+foco neste trabalho, aborda a taxa de juros como exógena, sobre o tema, ver Lavoie (1992) e Pivetti (1991). 
+13  Sinteticamente, Keynes determina a EMgC pela abundância (ou escassez) de bens de capital e, mais 
+importante do que isso, pelas expectativas correntes dos rendimentos futuros, dos mesmos bens de capital, vis-à-
+vis seus custos. Tais expectativas estão fundadas, como demonstra Keynes na Teoria Geral, em fracos indícios 
+incertos e sujeitos a grandes variações repentinas, capazes de fazer o investimento flutuar rápida e intensamente 
+como resultado da flutuação da EMgC. (Keynes, 1992: capítulo 11 e outros). 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+9 
+ 
+ativos reais) é uma decisão possível (e provável dependendo das circunstâncias); a maior 
+preferência por liquidez (ou, se quiser, propensão a entesourar) afeta o valor da taxa de juros; 
+caso isso implique em baixa efetivação de demanda, por sua vez afetaria o nível de ocupação 
+da força de trabalho. Portanto, explicita-se a possibilidade de insuficiência de demanda efetiva 
+e, por conseqüência, baixa renda agregada e desemprego involuntário. 
+Neste caso, a abordagem keynesiana edifica uma importante preocupação do ponto de 
+vista da renda e ocupação da força de trabalho. Caso se conforme uma situação de 
+desemprego, no arcabouço keynesiano não há mecanismos automáticos que fariam a demanda 
+se reativar e, então, constituir uma tendência ao pleno emprego. Assim, o desemprego 
+involuntário pode persistir e ser um ponto estável de “equilíbrio”. O nível de renda e emprego 
+são vulneráveis aos estados das expectativas e da incerteza, variáveis essas que não 
+apresentam comportamentos auto-ajustáveis e são determinadas por múltiplos motivos, cujos 
+determinantes são pouco objetivos e comumente os agentes optam por simplesmente adotar o 
+comportamento da maioria diante do receio das perdas. 
+Vale comentar que na Teoria Geral , Keynes apresenta-se mais preocupado com os 
+impulsos do que com a propagação, ciclos e a dinâmica. O foco parece ser discutir que a partir 
+de expectativas que configuram baixo nível de demanda efetiva, o desemprego pode ser um 
+“equilíbrio final”; e não um momento passageiro que, per se, rumará para o pleno emprego. 
+Ou seja, Keynes se concentra em d emonstrar que o capitalismo não tem “mecanismos 
+endógenos de promoção e manutenção do pleno emprego”. (CARVALHO, 1988: p. 757). Os 
+ciclos econômicos estão na Teoria Geral, mas em “segundo plano”, considerados no capítulo 
+22 como “uma variação cíclica da eficiência marginal do capital” (Keynes, 1992: p. 243). Do 
+ponto de vista de Carvalho (1988), a propagação e flutuações se tornam um problema de 
+adaptação, certamente interessante, mas compreensivelmente “secundário” na Teoria Geral.14 
+É importante destacar que Keynes divide a decisão do empresário entre o curto prazo e 
+o longo, cada qual com suas especificidades na formação de expectativas, como se pode ver 
+em Keynes (1992, cap. 5 e 12). O curto prazo se refere às decisões de ocupação da capacidade 
+já instalada. Desse modo, o empresário decide colocar seu capital em ação com base nas 
+previsões de venda que, no caso do curto prazo, são muito influenciadas pelos dados correntes 
+e pelo passado mais recente. Quanto ao longo prazo, este trata das decisões sobre criação de 
+capacidade produtiva, na qual as peculiaridades da formação de expectativas e a tomada de 
+decisões são mais complexas. Afinal, uma vez que se opta pela criação de capacidade, não é 
+mais possível rever tal tipo de decisão a cada instante, como ocorre com o curto prazo. A 
+instalação de um equipamento implica em imobilização de capital por longos períodos, que 
+caso precisem ser revistos, levaria a perdas substanciais. 
+Com isso em mente, é possível concluir que as expectativas de longo prazo são 
+cruciais para Keynes (1992). As decisões de investimento são tomadas com base no “retorno” 
+esperado para muitos períodos subseqüentes; em outras palavras, o estado das expectativas e a 
+confiança na mesma orientam planos de investimento (ou em caso de optar pelo n ão-
+investimento: a precaução), que então geram diferentes resultados macroeconômicos. Isso 
+significa que na Teoria Geral, as informações correntes e passadas não compõem toda a base 
+para a tomada de decisões (nem mesmo no caso das expectativas de curto prazo). Algo que 
+                                                 
+14 Apesar de o ciclo econômico ser tratado em “segundo plano” na Teoria Geral é possível que a ob ra seja 
+interpretada com destaque à perspectiva cíclica. Minsky (2008: cap. 3) aponta o caráter cíclico como uma das 
+“perspectivas fundamentais” que permitem uma leitura da Teoria Geral alternativa à síntese neoclássica e 
+adequada à teoria de Keynes. Talvez, o mais importante seja destacar que Keynes (1992) afirma (cap. 18) que as 
+flutuações podem ocorrer não em torno de uma tendência de pleno emprego, mas, sim, em torno de um nível de 
+produto abaixo do pleno emprego. 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+10 
+ 
+anteriormente o próprio autor sugeria no Tratado sobre a Moeda 15, obra essa que enfatiza a 
+importância do lucro (ou perda) corrente nas decisões futuras. 16 Assim, a partir da Teoria 
+Geral, o autor compreende que a compra de um ativo – cujo objetivo é gerar retornos ao 
+longo de anos – não pode ser uma decisão ligada meramente aos dados correntes e passados. 
+Esses últimos não se afirmam irrelevantes, mas insuficientes. A decisão empresarial depende 
+das expectativas e do grau de confiança dos agentes sobre suas próprias previsões, o que não 
+significa que o tão conhecido animal spirits  seja um “impulso” injustificado que faz o 
+investimento ser uma decisão meramente “irracional”, mas admite -se que as deliberações que 
+afetam o futuro estão sujeitas às questões de ordem política, econômica, subjetivas, aos 
+diferentes interesses ou hábitos. Destarte, não se conformando como um fenômeno 
+meramente probabilístico e matemático. 
+Sendo assim, no modelo da Teoria Geral , seja o receio (ou o otimismo) em ocupar 
+capacidade instalada diante da possibilidade de não efetivação de demanda (ou esgotamento 
+de estoques), sejam as expectativas de longo prazo, são maneiras pelas quais o futuro traz 
+resultados reais ao presente. Dessa forma, as decisões de investimento são afetadas e a 
+“expectativa sobre o futuro influencia o presente” (Keynes apud Carvalho, 1988: p. 757) em 
+termos da renda e do emprego. 
+Com a compreensão do esquema Keynesiano, conclui-se a seção com a possibilidade 
+teórica de desemprego involuntário persistente. O nível de emprego e renda são resultados da 
+demanda e dos dispêndios da economia, a possibilidade dos empresários aplicarem seus 
+capitais em ativos não reprodutíveis (como a própria moeda) abre a possibilidade de haver 
+insuficiência de demanda por bens e serviços. Tornando o pleno emprego, no bojo da teoria 
+keynesiana, uma mera eventualidade. 
+ 
+3. Formulação kaleckiana 
+Michal Kalecki, segundo a apresentação de Miglioli (1983), foi um autodidata em sua 
+formação como economista, que esteve sob forte influência das obras de Marx e de autores 
+marxistas. Kalecki iniciou sua graduação na Escola Politécnica de Varsóvia, mas não chegou 
+a concluir o curso. Em 1927 ingressou em emprego no Instituto de Pesquisa de Conjuntura e 
+Preços, de Varsóvia. No ano de 1935, quando já publicara inovadoras idéias em artigos sobre 
+teoria dos ciclos econômicos em 1933 e 1935, 17 foi à Suécia com bolsa de estudos. Também 
+foi à Inglaterra e esteve na Universidade de Cambridge de 1937 a 1939, posteriormente em 
+Oxford de 1940 a 1945. Somente aos 57 anos obteve título acadêmico, quando, já 
+reconhecido internacionalmente, foi nomeado professor universitário pelo governo polonês. 
+Em seguida, no ano de 1964, recebeu da Universidade de Varsóvia o título de Doutor honoris 
+causa. 
+Ao longo da discussão sobre a determinação dos lucros e da renda na teoria de 
+Kalecki, buscar- se-á deixar claro que sua formulação não representa uma quebra, ou uma 
+“revolução” teórica como fora Keynes em Cambridge. Kalecki parte da obra de Marx e das 
+discussões de marxistas como Rosa Luxemburgo e Tugan-Baranowski para, então, avançar no 
+entendimento da demanda efetiva. A formulação do PDE permitiu a conformação de uma 
+teoria capaz de explicar a produção a partir da demanda, fato que – apesar de conformar um 
+                                                 
+15 Nesse ponto, Keynes mudou bastante de idéia entre o Tratado sobre a Moeda  (Keynes, 1971) e a Teoria 
+Geral. Ademais, o desequilíbrio de curto prazo (variação indesejada de estoques e/ou preços diferentes do preço 
+normal de oferta) não é de maneira nenhuma necessário para as suas principais conclusões, em particular aquela 
+referente à possibilidade de uma situação permanente de produto e emprego abaixo dos seus níveis de plenos. 
+16 Ou ainda em Kalecki, como será discutido a seguir, que propõe um “acelerador” do investimento do tipo 
+backward looking. 
+17 Respectivamente Kalecki (1983e; 1983d). 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+11 
+ 
+desenvolvimento de grandes proporções – não rompeu (tal qual fora com Keynes, que negava 
+a teoria neoclássica) com o passado da tradição marxista. 
+Esta segunda parte do texto buscará apresentar que na teoria de Kalecki, o autor parte 
+do entendimento que a única decisão autônoma numa economia capitalista é a de gastar. Na 
+seguinte seção, a partir de Kalecki (1983a; 1983b), será discutido o esquema de 
+departamentos kaleckiano, a partir do qual a lógica do PDE fica explícita e, então, a 
+sistemática da determinação da renda. Posteriormente discute-se o porquê da poupança não 
+financiar o investimento (seção 3.2) e, por fim, o comportamento dinâmico em economias 
+capitalistas é brevemente abordado (seção 3.3). 
+ 
+3.1. Determinação dos lucros, da renda e a demanda efetiva em Kalecki  
+Com fins de entendimento teórico, Kalecki (1983a; 1983b) propõe uma divisão da 
+economia inspirada na departamentalização proposta por Marx (1985), 18  mas com 
+importantes diferenças. Marx havia traçado a divisão entre a categoria de “produtor de bens 
+de produção” e a de “produtor de bens de consumo”, respectivamente departamento I e II. 
+Segundo Kalecki, a reformulação dos departamentos de Marx foi feita com o fim de 
+simplificar a argumentação e se concentrar no “problema básico dos esquemas de 
+reprodução” (KALECK I, 1983b, p. 1). O autor se refere a focalizar as atenções na 
+compreensão da demanda efetiva, cujas idéias seminais (na interpretação do próprio Kalecki) 
+já estavam presentes em Marx, mas sem a devida atenção e investigação. Desse modo, em 
+Kalecki a demand a efetiva se consolida como uma teoria que “continua” 19 a trajetória da 
+tradição marxista e, portanto, não foi uma cisão teórica, tal qual ocorrera com a Teoria Geral 
+em Cambridge. Nesse sentido, deve-se retomar brevemente o esquema de circulação de Marx 
+que permite fundamentar sua crítica à Lei de Say. 
+Para refutar a Lei de Say, Marx (1985) o faz antes de chegar na fórmula do capital, 20 
+i.e., por meio da forma de circulação de mercadorias (M – D – M), o motivo é que a mera 
+existência do dinheiro com suas funções básicas, em uma economia mercantil simples, é 
+suficiente para concluir que não necessariamente todo o produto gerado, convertido em 
+dinheiro, será então convertido em demanda. Portanto, para compreender a inadequação do 
+postulado de Say é suficiente o esquema simples de circulação M – D – M, que se apresenta a 
+seguir. 
+                                                 
+18 Analisando a acumulação de capital no conjunto econômico, Marx (1985) dividiu a economia em dois 
+departamentos, quais sejam, o produtor de bens de produção e o produtor de bens de consumo, respectivamente 
+departamento I e II, os quais subdividem-se entre os três elementos apresentados (capital constante, variável e 
+mais-valia): 
+I=C1+V1+M1 
+II=C2+V2+M2 
+Na situação de reprodução simples, isto é, na qual não há investimento líquido positivo, a produção, ou o valor 
+criado no departamento I compreende exatamente à reposição de capital de ambos os departamentos. Não há, 
+portanto, acumulação, pois a conversão de mais-valia em capital não é suficiente para extrapolar a reposição do 
+capital. No caso da acumulação de capital – a reprodução ampliada – parte da mais-valia deve ser consumida 
+pelos capitalistas (
+ ), e o restante aplicado em capital constante e variável (respectivamente M c e Mv), segundo 
+o esquema: 
+I=C1+V1+
+ 1+M1c+M1v 
+II=C2+V2+
+ 2+M2c+M2v 
+19 Adicionalmente, destaca-se que na tradição marxista, alguns autores haviam se preocupado em investigar a 
+problemática, também de modo seminal, e Kalecki (1983c) se empenha em analisar e discutir a produção desses 
+autores, os quais são representados por Rosa Luxemburgo e Tugan-Baranowski. 
+20 A fórmula do capital surge, analiticamente, quando dinheiro se converte em capital, ou consolida-se na 
+fórmula: Dinheiro (D) – Mercadoria (M) – Dinheiro adicinal (D‟). Desenvolver esse tema não é objetivo do 
+artigo, o que pode ser visto em Marx (1985, Vol. I, cap. 1, 2 e 3). 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+12 
+ 
+O movimento de intercâmbio de mercadorias M – M se conforma em dois processos 
+distintos – separados temporal, espacial e logicamente – que Marx (1985) denominou de 
+“metamorfoses da mercadoria”, quais sejam: M – D, a venda; e D – M, a compra. 
+Primeiramente, analisa-se a metamorfose M – D (venda), que foi também considerada 
+pelo autor como o “salto mortal da mercadoria”. Com a divisão social do trabalho, qualquer 
+pessoa que produza uma mercadoria – que a seu possuidor não há atribuição de valor de uso, 
+mas, sim, valor de troca – deve encontrar outrem que possua dinheiro e atribua a esse produto 
+do trabalho um valor de uso. Dessa maneira, o trabalho despendido na gestação de tal 
+mercadoria se conforma como socialmente aceito, realiza-se, e permite à mercadoria dar o 
+“salto mortal” transformando-se em dinheiro. Caso a mercadoria não se converta em dinheiro, 
+afirma Marx (1985, Vol. I, p. 95): “não é a mercadoria que é depenada, mas sim o po ssuidor 
+dela”. Com a divisão social do trabalho, as diversas necessidades devem ser obtidas com 
+mercadorias de outros, o que se viabiliza somente por meio da posse do dinheiro, assim quem 
+não tem dinheiro é “depenado”. Se certa pessoa não é capaz de cumprir com o “salto mortal”, 
+é, portanto, incapaz de fazer com que o próprio trabalho garanta atender suas “multilaterais 
+necessidades”. 
+A segunda, ou final, metamorfose da mercadoria é D – M (compra). Com a capacidade 
+que o dinheiro tem de expressar o valor de qualquer outra mercadoria e nela se 
+metamorfosear, a metamorfose se completa na conformação de uma compra, que só pode ser 
+decidida pelo possuidor de dinheiro, que ao fazer, garante simultaneamente o “salto mortal” 
+de outrem. Afinal, por óbvio, um ato de compra é também um ato de venda. Assim, a última 
+etapa da metamorfose da mercadoria é também o princípio de outra. Destaca-se, novamente, 
+que aquele que possui o dinheiro é o único que tem o “poder”, ou a capacidade, de garantir 
+que um produto do trabalho seja convertido em dinheiro (renda). 
+Marx (1985) insiste que a realização de uma venda, um salto mortal M – D, é a 
+recíproca de uma compra de outrem, em estágio D – M. A divisão do trabalho garante que os 
+indivíduos precisem intercambiar mercadorias e assim a produção está separada das vendas 
+em termos de indivíduos, mas também em espaço e tempo. Produz-se em locais e períodos 
+distintos de suas vendas. Ademais, a separação lógica entre os processos evidencia que não 
+necessariamente a posse de dinheiro (obtida em M – D, que ao mesmo tempo a outro foi um 
+D – M) implicará em realização de outra compra. 
+Destaca-se, por fim, o que já deve estar claro. O que se apresentou acima acerca das 
+funções da moeda (em especial a sua capacidade de reservar valor) e a explícita separação de 
+metamorfoses, feita por Marx, em dois processos autônomos, quais sejam, a produção de uma 
+mercadoria aliada a sua realização dissociada da compra de outra mercadoria, permite 
+compreender que existe a possibilidade de nem todo o dinheiro obtido em M – D ser efetivado 
+em demanda, D – M. 
+Com essa formulação em mente, na qual se discutiu que na circulação de mercadorias 
+a separação lógica feita por Marx, entre a produção e a realização, abria a possibilidade de 
+não efetivação de demanda e crise, tal compreensão orientaria os rumos do entendimento da 
+demanda efetiva nos estudos de Kalecki, que afirma: 
+“Que Marx estava profundamente consciente do impacto da demanda 
+efetiva sobre a dinâmica do sistema capitalista pode-se ver claramente no 
+seguinte trecho do terceiro volume de O Capital : „As condições da 
+exploração direta [(entenda-se produção)] e as condições da realização da 
+mais-valia não são idênticas. Elas estão separadas não apenas pelo tempo e 
+espaço mas também logicamente. As primeiras estão limitadas meramente 
+pela capacidade produtiva da sociedade, e as segundas pelas proporções dos 
+diversos ramos de produção e pelo poder de consumo da sociedade.‟ 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+13 
+ 
+Marx, contudo, não investigou sistematicamente o processo descrito por 
+seus esquemas de reprodução, do ponto de vista das contradições inerentes 
+ao capitalismo resultantes do problema da demanda efetiva” (KALECKI, 
+1983b, p. 8). 
+ 
+Portanto, Marx tratou da possibilidade de não efetivação da demanda, mas a 
+formulação de uma teoria e uma esquemática de determinação do produto pela demanda, que 
+explicita tal variável como independente, como a que causa a renda e o emprego, e 
+determinante para a dinâmica econômica também no longo prazo, só viria a se consolidar com 
+Keynes e Kalecki. 
+A formulação keynesiana já foi discutida, então, a compreensão da kaleckiana 
+principia-se pela “nova” divisão da economia, na qual o departamento I deve ser 
+compreendido como aquele que compõe o investimento bruto, também incluindo todas as 
+matérias-primas e insumos ligados ao investimento. Esta composição é uma abstração que 
+compreende toda a cadeia produtiva relacionada exclusivamente com os bens correspondentes 
+aos investimentos brutos realizados na economia. 
+Os departamentos II e III passam a ser referentes aos bens de consumo da classe 
+capitalista e da classe trabalhadora, respectivamente. Assim como na primeira subdivisão, 
+vale a mesma abstração que funde toda a cadeia produtiva com a exclusividade de 
+fornecimento de insumos e matérias-primas para cada departamento, desse modo, no setor de 
+consumo capitalista (ou de trabalhadores) estão inclusas as etapas produtivas que antecedem e 
+compõem o produto final. 
+Sem embargo, os departamentos Kaleckianos são didaticamente representados na 
+tabela 1, na qual P1, P2 e P3 são os lucros brutos de cada um dos departamentos; W1, W2 e W3 
+são os salários agregados nas respectivas subdivisões; Cc e Cw são, nessa ordem, as despesas 
+em consumo por parte dos capitalistas e trabalhadores, por fim, I e Y, como de praxe, são o 
+agregado do investimento e da renda bruta. Nesta forma geral e simplificada, abstrai-se o 
+comércio exterior e as contas governamentais. 
+ 
+Tabela 1: Departamentos kaleckianos da renda nacional 
+I II III Total 
+P1 P2 P3 P 
+W1 W2 W3 W 
+I Cc Cw Y 
+Fonte: Kalecki (1983b, p. 1). 
+ 
+Mais do que dividir a contabilidade nacional, o esquema de Kalecki permite elucidar 
+relações de determinação entre as variáveis. O autor parte de básicas e óbvias identidades 
+contábeis macroeconômicas, para, então, destacar a variável independente e o sentido de 
+determinação causal. 
+Supondo que os salários são consumidos integralmente, isto é, os trabalhadores não 
+poupam, e também admitindo por hipótese que não há acumulação de estoques, Kalecki 
+(1983b) evidencia (o que o autor se refere com o “equação de troca de Marx ”, não de si 
+mesmo) a relação entre os departamentos. A primeira observação é feita nos lucros do 
+departamento III, produtor de bens para consumo dos trabalhadores. Já foi dito que os salários 
+são consumidos em sua totalidade, assim, a receita total dos capitalistas que produzem para 
+consumo de trabalhadores corresponde ao somatório de salários da economia; representando-
+se na equação 7: 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+14 
+ 
+321III Receita WWW 
+    (7) 
+Como os departamentos constituem uma abstração em que cada subdivisão está 
+totalmente integrada verticalmente, para obter o lucro dos capitalistas do departamento III, 
+basta descontar de sua respectiva receita as despesas com os salários de seus trabalhadores, 
+como se vê na equação 8 e chegar na equação 9 que está exposta em Kalecki (1983b): 
+33 III Receita PW 
+    (8) 
+213 WWP 
+      (9) 
+Com dada distribuição entre lucros e salários, bem como se valendo das hipóteses 
+acima aventadas, é possível partir da equação 9, a ela acrescentar P1 + P2 em ambos os lados 
+da equação, e concluir que os lucros da economia são iguais aos dispêndios dos capitalistas 
+em investimentos e consumo: 
+2211321 WPWPPPP 
+   (10) 
+Como: 
+PPPP  321
+; 
+IWP  11 ;  
+cCWP  22  (10’) 
+cCIP 
+      (11) 
+A seta na equação 11 indica um elemento importante da teoria proposta por Kalecki, a 
+qual parte do princípio que a única decisão logicamente possível seja a de quanto gastar, e 
+não seja a decisão sobre o quanto ganhar. Assim, a identidade contábil que se forma entre o 
+lucro bruto e os dispêndios capitalistas possui uma determinação causal, que enceta dos gastos 
+e determina as rendas imediatamente. Toda decisão de gasto capitalista implica 
+necessariamente numa renda equivalente. Como os capitalistas não decidem o quanto ganham 
+diretamente, mas decidem o quanto gastam (claro que individualmente), então, no agregado, 
+“ganham o que gastam”, ao passo que os trabalhadores “gastam o que ganham”. A 
+independência dos gastos na determinação dos lucros, na lógica capitalista, é a maneira pela 
+qual a demanda efetiva está presente na teoria de Kalecki, ainda que “implícita”. 
+Denotando, como faz Kalecki (1983b), as participações dos salários no produto de 
+cada um dos departamentos correspondentes, quais sejam, W1/I ; W2/Cc ; W3/Cw por w1, w2 e 
+w3, respectivamente. A partir da equação 9 explicita-se o elemento da distribuição e obtém-se 
+a equação 12, que, por sua vez, ao isolar Cw, alcança a equação do consumo dos trabalhadores 
+na equação 13: 
+cw CwIwCw 213)1( 
+    (12) 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+15 
+ 
+)1( 3
+21
+w
+CwIwC c
+w
+
+
+     (13) 
+Por meio da equação 13, nota-se que o consumo dos trabalhadores é resultado dos 
+gastos capitalistas em investimento e consumo próprio, mas também depende da participação 
+dos trabalhadores nesses itens, então, o consumo dessa classe será tão maior (ou menor) 
+quanto maior (ou menor) o dispêndio capitalista e quanto maior (ou menor) a parcela 
+apropriada pelos trabalhadores em termos distributivos. 
+Por fim, essas identidades contábeis básicas permitem a Kalecki (1983a; 1983b) 
+compor a renda nacional agregada como: 
+wc CCIY 
+    (14) 
+Ou, substituindo na equação 14 o Cw definido em 13 se obtém: 
+)1( 3
+21
+w
+CwIwCIY c
+c
+
+
+    (14’) 
+ 
+A equação 14‟ explicita a lógica de conformação do produto nacio nal segundo o 
+entendimento de Kalecki, então, sistematizando logicamente a determinação da renda, tem-
+se:21 i) dado o investimento e a decisão de consumir dos capitalistas, definem-se os lucros 
+agregados; ii) em conseqüência, dada a distribuição de lucros e salários, determinam-se a 
+massa de salários (integralmente consumidos, como simplificação) e a renda agregada. 
+Por fim, podem ser relaxadas as hipóteses de orçamento governamental equilibrado e 
+comércio exterior com saldo nulo. Basta acrescentar nas equações de determinação do lucro e 
+da renda (enumeradas por 11 e 14‟) o saldo da balança comercial ( X-M) e o déficit 
+orçamentário – composto pela diferença entre os gastos públicos ( G) e os impostos menos 
+transferências (T). Ademais, é possível relaxar a hipótese de que os salários são integralmente 
+consumidos, bastando subtrair a parcela dos salários poupada ( Sw), como se vê a seguir, em 
+que o P’ representa o lucro bruto que passa a ter impostos deduzidos: 
+wc SMXTGCIP  )()('
+  (11’) 
+A renda nacional, por sua vez:22 
+)( MXGCCIY wc 
+    (14’’) 
+Na equação de determinação da renda nacional mantém-se a seta de causalidade, 
+portanto o produto de um determinado período de tempo é resultado de uma série de variáveis 
+                                                 
+21 Como propõe Possas (1987: p. 93). 
+22 Assim como em Possas (1999). 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+16 
+ 
+de dispêndio agregadas, quais sejam, o investimento, o consumo dos capitalistas e 
+trabalhadores, a despesa governamental e, ainda, a demanda internacional líquida. 
+ 
+3.2. Relação poupança e investimento 
+A sistematização do PDE discutida até o presente momento permite superar uma 
+dificuldade comum na teoria econômica em geral, qual seja, o entendimento da “relação” 
+entre poupança e investimento. Essa discussão poderia, tranquilamente, ser feita com base na 
+Teoria Geral , em que Keynes (1992) expõe o tema nos capítulos 6 e 7. Apenas por uma 
+questão de conveniência, o presente trabalho apresenta a relação investimento-poupança 
+somente com base em Kalecki. A presente seção buscará discutir o porquê de a poupança não 
+financiar o investimento, e que, portanto, tal implicação da Lei de Say é lógica e teoricamente 
+inválida. 
+Já se discutiu que o PDE garante que os gastos determinam a renda, parte-se, então, do 
+desenvolvimento da seção anterior, que definiu a equação 14‟‟. Introduzindo-se nessa equação 
+os impostos menos transferências e finalmente subtraindo-se da renda os consumos 
+capitalistas e de trabalhadores, determina-se exatamente o que se denomina por poupança (S): 
+)()( MXTGIS 
+   (15) 
+As equações 14‟‟ e 15 expõem que na perspectiva do PDE, a renda e a poupança, 
+ambas, são determinadas unilateralmente pelos gastos. Portanto, logicamente, do mesmo 
+modo como não é possível decidir o quanto ganhar (no agregado a renda Y), também não é 
+possível decidir o quanto poupar (no agregado a poupança S, seria decidir o quanto ganhar 
+além do quanto consumir, que corresponde a Y-T-Cc-Cw). A decisão conceitualmente possível 
+é a de gastar, então, como conseqüência determinam-se as rendas e a poupança, 
+residualmente. 
+É importante ter claro que os gastos dependem de poder de compra  (estoque), como 
+demonstra Kalecki (1983d) 23, o qual conceitualmente não se liga à noção de poupança, que é 
+um mero fluxo resultado da diferença entre a renda e o consumo num instante econômico. O 
+poder de compra está logicamente relacionado ao crédito, criado ex nihil  pelo sistema 
+bancário, ou a algum estoque de riqueza próprio, que por sua vez pode ser resultado de lucros 
+acumulados, ou ainda resultar de poupança em períodos passados, o que é absolutamente 
+irrelevante para o resultado seguinte. Ora, independente da fonte de geração de poder de 
+compra, supor que a riqueza acumulada no período em análise é gasta seria incorrer em Lei de 
+Say, ao passo que os postulados da demanda efetiva já demonstraram a incoerência disso. 
+Daquilo que se discutiu até aqui, está evidente que poupança e investimento, além de 
+uma identidade contábil, trata-se de uma igualdade com determinação causal (com base no 
+PDE), como explicitou a equação 15. A poupança, como foi discutida, é resultado residual das 
+decisões de gasto e não financia o investimento. Desse modo, a poupanç a não é uma “oferta 
+de recursos líquidos”, mas, sim, um fluxo decorrente e idêntico ao dispêndio em investimento. 
+As teorias da demanda efetiva buscaram demonstrar que o investimento é resultado das 
+decisões capitalistas e possível de ser executado a partir da criação de poder de compra por 
+meio do sistema bancário. 24 Portanto, afirmar que a poupança é uma “oferta de recursos 
+líquidos” que se equilibra com sua demanda (investimento) viola o princípio da demanda 
+                                                 
+23 Mais detalhes em Possas e Baltar (1981) ou, ainda, em Possas (1999). 
+24 Kalecki (1983d: pp.23- 24) deixou claro: “é possível estimula r seus [(dos capitalistas)] investimentos, mesmo 
+se os lucros não aumentaram (...) ou se seu consumo não foi diminuído ad hoc (...). O financiamento adicional 
+do investimento é realizado pela assim chamada criação de poder de compra. Há um aumento da demanda por 
+créditos bancários e estes são concedidos pelos bancos”.  
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+17 
+ 
+efetiva. A causalidade unilateral do PDE deixa claro que o investimento gerará poupança em 
+idêntica magnitude; a poupança será tanto maior, ou menor, quanto for o investimento. 
+Segundo Possas (1999: p.29): “pela determinação contábil e causal do PDE (...) a poupança 
+permanecerá continuamente igual ao investimento”. 
+Vale explicitar outra incoerência do tratamento convencional dado por economistas 
+neoclássicos, ou mesmo clássicos, à poupança. Viu-se que o PDE deixa claro que a poupança 
+não é “ato” voluntário, nem “esforço”, dos agentes econômicos. Pelo qu e foi discutido até 
+aqui, é logicamente incorreto que haja decisão de poupar, ou que se poupe no presente para 
+consumir e/ou investir no futuro, ou tampouco que níveis maiores de taxa de juros 
+estimulariam positivamente a decisão de poupar. Além disso, é comum aos economistas 
+convencionais converterem (T–G) e (M–X) em poupança do governo ( Sg) e poupança externa 
+(Sx), travestindo a equação 15 em: 
+ISSS xgp 
+     (15’) 
+Note que a equação 15‟ explicita o tratamento convencional da “poupança privada”, 
+“poupança do governo”, “poupança externa” e investimento. A equação perde a seta de 
+determinação causal vista na equação 15. Supor que a equação 15‟ possui uma determinação 
+causal da poupança ao investimento (comum na teoria ortodoxa), de modo que seja um 
+“esforço” de poupanças interna e externa por maior investimento é equivocado; e já discutiu -
+se a incoerência da idéia de que a poupança financia o investimento. Com base no PDE, o 
+investimento sempre determina a poupança de seu período. 
+Por fim, está claro que na identidade poupança-investimento a teoria deve preocupar-
+se com o investimento. A poupança, como mero resíduo macroeconômico, é um conceito 
+irrelevante à luz do PDE. “Simplesmente desaparece a „relação‟ poupança-investimento para 
+qualquer efeito teórico ou prático relevante, em detrimento de toneladas de papel produzidas 
+sobre ela”. (POSSAS, 1999: p.30). 
+ 
+3.3. Dinâmica capitalista: ciclo e tendência 
+Por fim, outro importante elemento decorrente da forma proposta por Kalecki é sua 
+implicação dinâmica, e de longo prazo, do princípio da demanda efetiva. A presente seção 
+buscará apresentar brevemente de que maneira uma economia capitalista possui um 
+comportamento cíclico, no qual a tendência não é pré-determinada. 
+O modelo de investimento de Kalecki (1983a) permite construir uma dimensão 
+dinâmica do PDE. Por meio de elementos característicos do investimento, o autor explicita o 
+comportamento de uma economia capitalista ao longo de sucessivos períodos, no qual as 
+flutuações do investimento, renda e estoque de capital são endógenas. A presente seção 
+apresentará o modelo, 25 suas intuições econômicas e as representações formais fundamentais, 
+para, então, elucidar os elementos que fazem com que o modelo seja uma representação 
+dinâmica da economia capitalista, cujas flutuações são desdobramento da atuação de um 
+componente essencial: o investimento. 
+O modelo teórico de investimento de Kalecki é enunciado em termos de “decisão” de 
+investir (D), fato que remete a uma característica fundamental da variável investimento: o seu 
+comportamento “dual”. Isso significa que por um lado o investimento, no momento da 
+decisão (em t), é um gasto e, portanto, um estímulo à demanda agregada; mas, por outro lado, 
+transcorrido um lapso de tempo (t+), o investimento conforma-se em aumento da capacidade 
+produtiva, que desestimula investimentos futuros. Nesse sentido, a primeira equação da seção: 
+                                                 
+25 Tratar-se-á do modelo de Kalecki (1983a), também com o apoio das interpretações e reflexões de Possas e 
+Baltar (1981) e Possas (1987, 1999). E, ainda, Kalecki (1973). 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+18 
+ 
+tt DF 
+          (16) 
+Na equação 16, F representa o investimento agregado bruto em capital fixo, em que há 
+um “retardo” entre as decisões de investir (em t) e a consolidação da capacidade produtiva 
+(t+), considerando, portanto, um hiato temporal entre “encomendas” e “entregas” 26; e Dt 
+representa as decisões de investir em um dado período de tempo. Por sua vez, Kalecki define 
+Dt , em termos de Ft+, como:  
+dt
+Kct
+PbaSF tt
+tt 
+
+
+   (17) 
+Antes de definir os termos da equação, em se tratando da teoria dinâmica de Kalecki, é 
+importante considerar uma premissa lógica central: a “estrutura econômica estável”, que 
+significa ausência de mudanças tecnológicas, de mercados, de estruturas produtivas, ou de 
+política econômica.27 
+O componente aSt manifesta a influência do nível de atividade corrente. Trata-se da 
+poupança bruta agregada como proxy28 de lucros acumulados, que reflete a capacidade de 
+autofinanciamento, ou a aptidão de tomada de crédito. 29 Quanto maior for a acumulação 
+interna, maior o capital empresarial, maiores as capacidades de financiamento e de lidar com 
+o “risco crescente”, como discute Miglioli (1981, pp. 280-282). Kalecki introduz com esse 
+componente um elemento inercial ao modelo de ciclos (que decorre da função de 
+investimento parcialmente descrita aqui), pois supõe um grau de reinversão de lucros, o que 
+contribui em impedir que a dinâmica tenha um comportamento “explosivo”.30 
+Os componentes segundo e terceiro da equação devem ser discutidos em conjunto e 
+representam variações no nível de atividade. Numa representação linear, na ótica de uma 
+“estrutura econômica estável”, exprimem fatores “conjunturais” qu e afetam a taxa de lucro, 
+em especial o grau de utilização da capacidade. O termo Pt (variação dos lucros) reflete o 
+efeito positivo na decisão de investir decorrente de elevação do nível de atividade, ao passo 
+que Kt (variação do estoque de capital) representa o impacto negativo de alta na capacidade 
+instalada. Considerando esse “duplo” efeito do investimento, em conjunto e dinamicamente, 
+refletem-se as rentabilidades esperadas do capital fixo aplicado, projetadas a partir do 
+comportamento corrente. Conforma- se, então, num “acelerador” do investimento do tipo 
+backward looking. 
+Sobre esse acelerador, Kalecki deu destaque às variáveis correntes: “Pode -se supor 
+que a taxa de lucros esperada seja função crescente dos lucros correntes „reais‟ e decrescente 
+do estoque de capital em equipamento” (KALECKI, 1983a: p. 84). Possas (1987) sistematiza 
+uma crítica com base na contribuição de Keynes (1992) do conceito de “expectativas”, 
+                                                 
+26 Possas (1987: p. 124 e 125) explicita que nessa versão do modelo também está considerado, implicitamente, 
+um tempo de reação dos empresários ao nível, ou variações, correntes de variáveis; juntamente ao tempo de 
+produção e implantação dos bens de capital. 
+27 A respeito deste tema Possas (1999: p.32). 
+28 As dificuldades lógicas da utilização desse termo, ainda que como instrumento meramente estatístico, à luz do 
+PDE constam em Possas (1987). 
+29 Seja pelos impactos que o volume de lucros retidos traz ao risco do credor, ou ao risco do próprio tomador. 
+Em artigo, Kalecki (1937) aborda os riscos crescentes e os limites ao investimento. O tema do risco foi 
+amplamente desenvolvido posteriormente por Hyman Minsky.  
+30 Vale comentar, criticamente, que o termo em discussão poderia ser especificado como uma restrição financeira 
+ao investimento e, portanto, como um componente não-linear, o que evitaria o “automatismo” do reinvestimento. 
+A respeito desse tema ver Possas (1987: p. 125-128) e Possas (1999: nota 36). 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+19 
+ 
+argumentando que o acelerador não pode apenas se basear no passado. Acrescenta que as 
+expectativas “keynesianas”, apesar de ausentes em Kalecki, são compatíveis ao modelo. Ou 
+seja, um acelerador à lá Kalecki que contemple a noção de expectativas de Keynes parece a 
+forma mais adequada: conformando um acelerador que além de “olhar” para o pa ssado e 
+presente é capaz, também, de “olhar” para frente. 
+O componente d reflete um conjunto de elementos autônomos do investimento, dito 
+“constante”31 e sujeito a alterações exógenas de longo prazo. É formado pelos gastos não 
+induzidos endogenamente pelas variáveis do modelo, podendo abranger investimentos em 
+inovações, relacionados às demandas finais exógenas, investimentos de longa maturação com 
+pouca (ou nenhuma) relação com questões correntes. Ademais, deve abarcar reposições de 
+capital uma vez que o termo induzido é líquido e F está em termos brutos. Na análise 
+dinâmica do ciclo econômico, a ausência do componente autônomo (considerando apenas 
+reposição da depreciação) fará com que as flutuações não sigam tendência de crescimento de 
+longo prazo.32 
+Do ponto de vista teórico, Kalecki, diferente de Keynes, não dá grande destaque aos 
+juros na determinação do investimento. Em Kalecki o papel dos juros no processo de decisão 
+capitalista é secundário. Como aponta Miglioli (1981), os juros de curto prazo tendem a se 
+elevar no momento ascendente do ciclo (como conseqüência do maior volume de transações), 
+porém os juros de longo prazo (relevantes ao investimento por seus efeitos em custos) 
+ficariam pouco alterados ao longo do ciclo, segundo Kalecki (1983a). 
+Voltando às equações de investimento e considerando-se K/t=F– (em que  
+representa a depreciação do capital) e substituindo-se na equação 17; para depois isolar os 
+termos Ft+ e cFt, dividir todos os termos da equação por 1+c e definindo-se b’=[b/(1+c)] e 
+d’=[(c+d)/(1+c)], chega-se na equação 18: 
+''1 dt
+PbSc
+aF t
+tt 
+
+      (18) 
+Na equação 18 o termo à esquerda representa uma média ponderada de Ft+ e cFt, 
+como c é provavelmente uma “fração muito pequena”, t+ deve estar próximo da ordem de 
+t+ . Adicionando à equação 18, de investimentos em capital fixo, um componente de 
+investimentos em estoques ( Jt+=e.O/t), no qual Kalecki (1983a) entende como 
+relacionado à taxa de modificação da produção do setor privado com uma defasagem. Tal 
+lapso temporal, segundo informações de Kalecki (1983a), são semelhantes a  , por isso (para 
+simplificar) o autor aproxima de  . Então, define-se a fórmula do investimento total (I):33 
+''1 dt
+Oet
+PbSc
+aI tt
+tt 
+
+
+   (19) 
+Dado o que se discutiu até aqui e com auxílio da equação 19, nota-se: i) a relação, com 
+hiato temporal, do investimento em capital fixo com o nível de atividade corrente 
+(“poupança”) com a taxa de modificação do estoque de capital (pelo denominador 1+c); ii) a 
+                                                 
+31 Provavelmente Kalecki descre ve “constante” à luz da premissa de “estrutura econômica estável” e em busca 
+de um modelo teórico linear, portanto simplificado, mas suficiente para explicar a essência do investimento. 
+32 “Se não houver investimento líquido „autônomo‟, a tendência subjacen te ao ciclo se reduz aproximadamente 
+às necessidades de reposição do capital” (Possas, 1987: p. 131). 
+33 Os passos das transformações brevemente apresentadas nos últimos parágrafos constam em Kalecki (1983a: 
+p.84-88), com mais detalhes em Possas (1987: p.146-148). 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+20 
+ 
+taxa de modificação dos lucros; iii) a relação do investimento em estoques com a taxa de 
+variação da produção (O); e iv) o componente autônomo. 
+Uma vez apresentado o modelo de investimento de Kalecki, é importante frisar os 
+elementos básicos de sua teoria e destacar as bases para a dinâmica, que leva a flutuações 
+endógenas. No capítulo 5, Kalecki (1983a) demonstra que o investimento determina o nível 
+de atividade. Em seguida, Kalecki (1983a) explicitou, no capítulo 9, que o investimento é 
+determinado, com certo hiato temporal, pelo nível de atividade econômica e pela taxa de 
+variação desse nível. Ademais, o investimento tem um caráter “dual” de estimular a demanda 
+efetiva, porém gerar capacidade – após hiato temporal – e prejudicar a rentabilidade. Essa s 
+características básicas, mais o progresso técnico e os componentes autônomos, são a essência 
+do processo dinâmico de uma economia capitalista e, particularmente, permitiu a Kalecki 
+demonstrar que essa dinâmica envolve fenômenos cíclicos do investimento, da renda e do 
+estoque de capital. Para haver tendência, na dinâmica cíclica, os componentes autônomos do 
+modelo, como inovações técnicas ou, ainda, podendo- se incluir ações “decididas” do Estado 
+com o fim de criar uma tendência, possuem papel central. 
+Neste momento é importante acrescentar os multiplicadores kaleckianos, no plural, 
+pois, o autor não faz um único multiplicador para a economia toda, como faz Keynes, mas 
+apresentam-se dois diferentes multiplicadores, quais sejam, o dos trabalhadores e o dos 
+capitalistas. O multiplicador capitalista é composto pela propensão a consumir de capitalistas 
+(1/1–q) e no caso dos trabalhadores pela participação dessa classe na renda (1/1 –). 34 
+Ademais, entre uma despesa “inicial” e a efetivação (ou atuação) do multiplic ador há um 
+hiato temporal  (que poderia ser desprezado, como faz Possas (1987) em sua solução 
+formal). 
+Utilizando-se dos multiplicadores, com o que já se obteve, tem-se as equações que 
+relacionam os lucros (P) – com hiato temporal – ao investimento; a relação do produto com os 
+lucros 35 ; e, conseqüentemente, a relação investimento e produto. 36  Por fim, como S=I, 
+substituindo-se as equações da nota 36 na equação 19 e fazendo remanejamentos: 
+')'1)(1(11 dt
+I
+q
+e
+t
+I
+q
+bIc
+aI tt
+tt 
+
+
+
+ 
+
+
+
+
+     (20) 
+Fica evidente que o investimento em t+ depende do investimento em t e da taxa de 
+variação do investimento em t– . O componente a expressa o efeito da retenção de lucros; o 
+componente (1+c) trata do efeito negativo do aumento dos equipamentos e garante a reversão 
+para a formação do ciclo 37 ; além da taxa de modificação dos lucros [b/(1 –q)] e da 
+produção[e/(1–q)(1–‟)]. 
+Kalecki, analisando o “ciclo puro”, supõe ausência de investimento autônomo 
+(tendência) e, então, investimento estável ao nível da depreciação. Representando por i o 
+                                                 
+34 Os multiplicadores estão descritos em Kalecki (1983a: cap. 5). Optou-se por não desenvolvê-los para manter o 
+texto focado nos objetivos propostos, ademais eles seguem, basicamente, a idéia do multiplicador de Keynes, 
+apesar de dividido em categorias distintas. 
+35 Relação definida em Kalecki (1983a: cap. 4 e 5). 
+36 O que significa que chegamos em: 
+
+
+
+
+
+
+
+
+
+ 
+t
+I
+qt
+P tt 
+1
+1
+; e    
+
+
+
+
+
+
+
+
+
+t
+P
+t
+O tt
+'1
+1
+    =>   
+
+
+
+
+
+
+
+
+
+ 
+t
+I
+qt
+O tt 
+ )'1)(1(
+1 . 
+37 Kalecki (1983a: p.86) supõe (a/1+c)<1 e ibidem, p.91 estima em torno de 0,634. Destaca-se que ser menor que 
+1 permite flutuações. 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+21 
+ 
+desvio do investimento em relação à depreciação (investimento líquido), define-se a seguinte 
+equação dinâmica: 
+gt
+iic
+ai t
+tt 
+ 
+
+
+ 1
+    (21) 
+Onde  é função do multiplicador 38 e g representa o componente autônomo, o qual, 
+como dito anteriormente, é suposto nulo pelo autor. 
+A equação 21 em diferenças, finita e linear, possui solução formal – apresentada por 
+Possas (1987) – que elucida os ciclos com conclusões mais “gerais e rigorosas”. Kalecki 
+apresenta intuitivamente como que em conseqüência do investimento (que estimula, porém, 
+passado hiato temporal, desestimula) a dinâmica capitalista está sujeita a reversões 
+endógenas. 
+Pela intuição econômica, uma economia em depressão está com destruição de 
+capacidade produtiva, a qual inicia a recuperação uma vez que a demanda passa a ser atendida 
+por maior utilização da capacidade (restante), elevando sua rentabilidade. O que induz 
+elevação do investimento (com criação de poder de compra), aumentando a produção e 
+emprego de bens industriais, via consumo de trabalhadores e lucros (multiplicador) que 
+afetam as indústrias restantes. A recuperação segue até o auge, em que as entregas (após hiato 
+temporal do período de encomendas na recuperação) de equipamentos superam as 
+necessidades a ponto de reduzir a rentabilidade e reverter o ciclo. 
+Kalecki (1983a: cap.11) supõe (a/1+c)<1, o que permite a reversão dos componentes 
+it e it+ ; expõe que a intensidade dos movimentos se liga a  e o sentido de alta, ou baixa, do 
+ciclo se dão por meio do componente ( it-/t). Assim, a esquemática formalizada aliada à 
+intuição econômica permite melhor compreensão do tema e por isso contribui aos propósitos 
+da presente seção. 
+Com base no que foi brevemente exposto aqui, a dinâmica capitalista do PDE, 
+induzida pelo investimento, apresenta um comportamento cíclico, no qual (em ausência de 
+investimentos líquidos autônomos e progresso técnico) a economia deve flutuar em “estado 
+estacionário” (POSSAS, 1999: p.40). O que significa que a economia capitalista não pode 
+tender, por meio dos componentes endógenos discutidos, a uma dinâmica de crescimento de 
+longo prazo. Portanto, a dinâmica capitalista garante trajetória cíclica, porém a tendência a 
+crescer (ou contrair) não está garantida, pois a tendência será determinada por componentes 
+exógenos como inovações técnicas, investimentos de longa maturação, ou a atividade 
+planejadora do Estado com fins de garantir uma trajetória crescente de acumulação de capital. 
+ 
+4. Considerações finais 
+Por meio do esforço empreendido neste trabalho, a fim de apresentar o PDE segundo a 
+formulação keynesiana e kaleckiana, espera-se colaborar para a compreensão de um elemento 
+básico dessas teorias, e que marca diferença fundamental com as teorias convencionais que 
+explícita ou implicitamente se fundamentam em Lei de Say. 
+O PDE postula, em síntese, que o conjunto de decisões de gastos de uma comunidade, 
+num determinado período contábil, determina a renda agregada. O que se sustenta 
+logicamente, pois, como discutido, a decisão possível em economias mercantis monetárias é o 
+quanto gastar, nunca o quanto ganhar. Uma vez que um gasto, qualquer que seja, implica em 
+uma renda idêntica para outrem; no agregado, o conjunto de dispêndios é igual e determina a 
+renda num período específico. 
+                                                 
+38 =[1/(1-q)] [b/(1+c)+e/(1-‟)]. 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+22 
+ 
+Nesse sentido, apesar das diferentes abordagens de Keynes, Kalecki e seus discípulos, 
+por meio do que foi aqui discutido é possível perceber a inadequação lógica e teórica da Lei 
+de Say. Em decorrência, entende-se que não é correto supor que a poupança financia o 
+investimento, mas, ao contrário, o investimento é sempre idêntico e determina a poupança. 
+Mais do que isso, o PDE permite compreender que os níveis de lucros, renda agregada e 
+emprego são, basicamente, resultado dos dispêndios da economia e oscilam de acordo com 
+variações dos componentes da demanda. 
+Em Keynes, destaque é dado para a decisão empresarial de produção – com estoque de 
+capital dado (curto prazo) – sob incerteza e papel central é atribuído à moeda. O que se 
+justifica pelo objetivo do autor de explicitar que a determinação do emprego é resultado da 
+decisão, ex ante, de produção capitalista com base em sua expectativa de demanda e renda a 
+ser auferida numa economia monetária. 
+No caso da formulação kaleckiana, em específico, sua abordagem ilumina para uma 
+dimensão dinâmica e de longo prazo do PDE, que descreve um comportamento econômico 
+endogenamente cíclico e sem tendência autodeterminada. Kalecki permite a compreensão 
+clara de que o conjunto de gasto s (além de determinar a renda e o emprego num determinado 
+período contábil) tem papel fundamental na formação do estoque de capital. Este fato é 
+descrito no esquema do “acelerador”, em que o aquecimento da atividade corrente pressiona a 
+utilização da capacidade instalada, o que induz os capitalistas a investir em e criar em nova 
+capacidade. 
+Concluindo, deve-se destacar a necessidade de se estudar as abordagens de Keynes e 
+Kalecki em conjunto e em complementaridade. Isso significa, por exemplo, que é important e 
+se entender, teoricamente, o comportamento dinâmico do capitalismo com sua essência 
+cíclica, com elementos endógenos de reversão e que o investimento pode ser induzido pelo 
+nível de atividade – da forma como sugere a leitura kaleckiana. Porém, é importante 
+considerar elementos tipicamente keynesianos, como o efeito das expectativas e incerteza no 
+acelerador, ou ainda, o efeito monetário e financeiro na atividade econômica – elemento que 
+Kalecki coloca em seu modelo com certa passividade. 
+ 
+5. Referências 
+BELLUZZO, L. G., & ALMEIDA, J. G. (2002). Depois da queda: a economia brasileira da 
+crise da dívida aos impasses do Real. Rio de Janeiro: Civilização Brasileira. 
+CARVALHO, F. J. (1988). Keynes, a instabilidade do capitalismo e a teoria dos ciclos 
+econômicos. Pesquisa e Planejamento Econômico , 18, n.3, dez., pp. 741-63. 
+CARVALHO, F. J. (1992). Mr Keynes and the post keynesians : principles of 
+macroeconomics for a monetary production economy. England: Aldershot: E. Elgar. 
+CARVALHO, F. J. (1996). Sobre a centralidade da teoria da preferência pela liquidez na 
+macroeconomia pós-keynesiana. Ensaios FEE , 17, pp. 42-77. 
+CHICK, V., & DOW, S. (2002). Monetary Policy with endogenous money and liquidity 
+preference: a nondualistic treatment. Journal of Post Keynesian Economics  , 24  (4), 
+587-607. 
+CHILIATTO-LEITE, M. V. (2010). A teoria do subdesenvolvimento de Celso Furtado: uma 
+discussão à luz da questão do papel do consumo e da controvérsia do estagnacionismo.  
+Rio de Janeiro: (Dissertação de Mestrado) IE/UFRJ. 
+DAVIDSON, P. (1972). Money and the real world. London: The Macmillan Press. 
+DAVIDSON, P. (1977). A Keynesian view of Friedman‟s theoretical framework for monetary 
+analysis. In R. J. Gordon(Ed.), Milton Friedman’s Monetary Framework: A Debate with 
+his Critics (pp. 90-110). Chicago: Chicago University Press. 
+DAVIDSON, P. (1994). Post Keynesian macroeconomic theory: A foundation for successful 
+economic policies for the twenty-first century. Cambridge: Edward Elgar. 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+23 
+ 
+DAVIDSON, P., & SMOLENSKY, E. (1964). Aggregate Supply and Demand Analysis. New 
+York: Harper and Row. 
+FONTANA, G. (2001). Rethinking endogenous money: A constructive interpretation of the 
+debate between accommodationists and structuralists. Economic Discussion Paper 
+Series . 
+FONTANA, G. (2002). The making of monetary policy in endogenous money theory: an 
+introduction. Journal of Post Keynesian Economics , 24 (4), 503-09. 
+FONTANA, G., & PALACIO-VERA, A. (2003). Modern theory and practice of central 
+banking: An endogenous money perspective. In L. -P. ROCHON, & S. ROSSI(Eds.), 
+Modern Theories of Money: The Nature and Role of Money in Capitalist Economies.  
+Cheltenham: Edward-Elgar. 
+KALDOR, N. (1970). The New Monetarism. Lloyds Bank Review , July, 1-17. 
+KALDOR, N. (1982). The Scourge of Monetarism. New York: Oxford University Press. 
+KALDOR, N. (1985). How monetarism failed. Challenge , May/June, 4-13. 
+KALECKI, M. (1973). Estudios Sobre La Teoria de Los Ciclos Económicos. (X. Calsamiglia, 
+Trad.) Barcelona: Editorial Ariel. 
+KALECKI, M. (1983a). Teoria da Dinâmica Econômica: ensaio sobre as mudanças cíclicas 
+e a longo prazo da economia capitalista  (Os Economistas, original 1954 ed.). São 
+Paulo: Abril Cultural. 
+KALECKI, M. (1983b). As equações marxistas de reprodução e a economia moderna. In: J. 
+M. (org.), Crescimento e ciclo das economias capitalistas. São Paulo: Hucitec. 
+KALECKI, M. (1983c). O problema da demanda efetiva emTugan-Baranovski e Rosa 
+Luxemburgo. In: J. Miglioli [Org.], Crescimento e ciclo das economias capitalistas  (J. 
+Miglioli, Trad., 2a edição revista ed.). São Paulo: Hucitec. 
+KALECKI, M. (1983d). O mecanismo de recuperação econômica. In: J. Miglioli [Org], 
+Crescimento e ciclo das economias capitalistas  (J. Miglioli, Trad., 2a edição revista, 
+original 1935 ed.). São Paulo: Hucitec. 
+KALECKI, M. (1983e). Esboço de uma teoria do ciclo econômico. In: J. Miglioli [Org.], 
+Crescimento e ciclo das economias capitalistas  (J. Miglioli, Trad., 2a edição revista, 
+original 1933 ed.). São Paulo: Hucitec. 
+KEYNES, J. M. (1937). The General Theory of Employment. The Quarterly Journal of 
+Eonomics . February. 
+KEYNES, J. M. (1971). A treatise on money - the pure theory of Money.  London, New York: 
+Macmillan; St. Martin's Press, for the Royal Economic Society. 
+KEYNES, J. M. (1992). A Teoria Geral do Emprego, do Juro e da Moeda  (Original 1936 
+ed.). São Paulo: Atlas. 
+LAVOIE, M. (1984). The endogenous flow of credit and the Post Keynesian theory of money. 
+Journal of Economic Issues , 18 (3), 771-98. 
+LAVOIE, M. (1985). Credit and money: the dynamic circuit, overdraft economics, and Post 
+Keynesian Economics. In I. M. JARSULIC(Ed.), Money and Macro Policy.  Boston: 
+Kluwer-Nijhoff. 
+LAVOIE, M. (1992). A moeda em um programa de pesquisa comum para o pós-
+keynesianismo e o neo-ricardianismo. Revista de Economia Política , 12 (47). 
+LAVOIE, M. (1996). Monetary policy in an economy with endogenous credit money. In G. 
+Deleplace, & E. J. Nell(Eds.), Money in Motion: The Post Keynesian and Circulation 
+Approaches (pp. 532-45). London: Macmillan. 
+LAVOIE, M. (2005). Monetary base endogeneity and the new procedures of the asset-based 
+Canadian and American monetary systems. Journal of Post Keynesian Economics  , 27 
+(4), 689-709. 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010
+24 
+ 
+MACEDO e SILVA, A. C. (1995a). A Economia de Keynes, a busca de uma nova teoria 
+econômica e a "armadilha do equilíbrio". Economia e Sociedade , 5, 111-158. 
+MACEDO e SILVA, A. C. (1995b). Lei de Say e demanda efetiva, equilíbrio e equilibrismo - 
+algumas observações. Anais do XXIII Encontro Nacional de Economia, ANPEC  , 151-
+170. 
+MARX, K. (1985). O Capital (Os Economistas, original: 1867 ed., Vols. I, II, III, IV e V). 
+São Paulo: Nova Cultural. 
+MIGLIOLI, J. (1981). Acumulação de capital e demanda efetiva. São Paulo: T. A. Queiroz. 
+MIGLIOLI, J. (1983). Apresentação. In: M. Kalecki, Teoria da Dinâmica Econômica: ensaio 
+sobre as mudanças cíclicas e a longo prazo da economia capitalista.  São Paulo: Abril 
+Cultural. 
+MINSKY, H. P. (1982). Can “It” Happen Again? E ssays on Instability and Finance.  M.E. 
+Sharpe: Armonk. 
+MINSKY, H. P. (2008). John Maynard Keynes  (reimpressão de 1975 ed.). New York: 
+McGraw-Hill. 
+MONVOISIN, V., & PASTORET, C. (2003). Endogenous money, banks and the revival of 
+liquidity preference. In L. -P. ROCHON, & S. ROSSI(Eds.), Modern Theories of 
+Money: The Nature and Role of Money in Capitalist Economies.  Cheltenham: Edward-
+Elgar. 
+MOORE, B. (1979). The endogenous money stock. Journal of Post Keynesian Economics  , 
+21 (1), 49-70. 
+MOORE, B. J. (1985). Wages, Bank Lending, and the Endogeneity of Credit Money. In M. 
+Jarsulic(Ed.), Money and Macro Policy. Boston: Kluwer-Nijhoff. 
+MOORE, B. J. (1988). Horizontalists and Verticalists: The Modern Macroeconomics of 
+Credit and Money. New York: Cambridge University Press. 
+MOORE, B. J. (1989). On the endogeneity of money once more. Journal of Post Keynesian 
+Economics , 11 (3), 479-87. 
+PALLEY, T. (2003). Monetary control in the presence of endogenous money and financial 
+innovation: The case for asset-based reserve requirements. In L. -P. ROCHON, & S. 
+ROSSI(Eds.), Modern Theories of Money: The Nature and Role of Money in Capitalist 
+Economies. Cheltenham: Edward-Elgar. 
+PIVETTI, M. (1991). An Essay on Money and Distribution. N. York: St. Martin. 
+POSSAS, M. L. (1987). A dinâmica da economia capitalista : uma abordagem teórica.  São 
+Paulo: Brasiliense. 
+POSSAS, M. L. (1999). Demanda Efetiva, Investimento e Dinâmica: a atualidade de Kalecki 
+para a Teoria Macroeconômica. Revista de Economia Contemporânea, IE-UFRJ  , 3, n° 
+2. 
+POSSAS, M. L., & BALTAR, P. (1981). Demanda efetiva e dinâmica em Kalecki. Pesquisa e 
+Planejamento Econômico , 11(1), 107-160. 
+ROCHON, L.-P. (2003). On money and endogenous money: Post Keynesian and circulation 
+approaches. In: L. -P. ROCHON, & S. ROSSI(Eds.), Modern Theories of Money: The 
+Nature and Role of Money in Capitalist Economies. Cheltenham: Edward-Elgar. 
+WEINTRAUB, S. (1966). Employment growth & income distribution.  Philadelphia & New 
+York: Chilton Books. 
+WEINTRAUB, S. (1978a). Keynes, Keynesians and Monetarists.  Philadelphia: University of 
+Pennsylvania Press. 
+WEINTRAUB, S. (1978b). Capitalism’s Inflation and Unemployment Crises.  Addison-
+Wesley: Reading (MA). 
+ 
+Artigo aceito para apresentação no III Encontro da Associação Keynesiana Brasileira 
+De 11 a 13 de agosto de 2010

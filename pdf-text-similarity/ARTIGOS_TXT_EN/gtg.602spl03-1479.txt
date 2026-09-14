@@ -1,0 +1,924 @@
+Geojournal of Tourism and Geosites 
+Year XVIII, vol. 60, no. 2spl, 2025, p.1057-1066 
+ISSN 2065-0817, E-ISSN 2065-1198 
+DOI 10.30892/gtg.602spl03-1479 
+ 
+http://gtg.webhost.uoradea.ro/ 
+ 
+ 
+PERCEPTION OF KEY STAKEHOLDERS ON SUSTAINABLE TOURISM  
+PRACTICES: THE CASE OF VILLA DE LEYVA, COLOMBIA 
+ 
+ 
+Ingrid FONSECA1* , Camila GALEANO1 , Leidy ROA1
+ 
+ 
+1 National Pedagogical University, Faculty of Physical Education, Bogotá, Colombia; ipfonsecaf@upn.edu.co (I.F.); 
+mcgaleanor@upn.edu.co (C.G.); lmroag@upn.edu.co (L.R.) 
+ 
+ 
+ 
+Citation: Fonseca, I., Galeano, C., & Roa, L. (2025). Perception of key stakeholders on sustainable tourism practices: The case of 
+Villa de Leyva, Colombia. Geojournal of Tourism and Geosites, 60(2spl), 1057–1066. https://doi.org/10.30892/gtg.602spl03-1479    
+ 
+ 
+Abstract: Sustainable tourism promotes initiatives that enhance natural and cultural assets while addressing social, 
+environmental, and economic impacts. This study aims to assess the perceptions of residents, public officials, and tourism 
+managers in Villa de Leyva regarding sustainable tourism and their contributions to its development. The town is a 
+recognized colonial heritage site and a certified sustainable tourism destination. However, it faces challenges in balancing 
+tourism growth with sustainable development. The methodology employed a qualitative approach, utilizing a case study 
+design. Hence, data were collected through semi-structured interviews with twelve participants representing four stakeholder 
+groups: farmers, hotel managers, tourism entity leaders, and public sector officials. The results reveal that although Villa de 
+Leyva is certified as a Sustainable Tourism Destination, it lacks an adequate legal framework, which led to the creation of a 
+Public Tourism Policy in the municipality. The study revealed positive aspects include job creation, opportunities for the 
+community, and training tourism programs for businesses and residents. On the other hand, negative aspects include poor 
+waste management, depletion of natural resources, increased insecurity, rising costs, and the displacement of residents. The 
+study emphasizes the importance of inclusive governance models that promote collaboration between the public and private 
+sectors, as well as community participation in planning and implementation processes. Despite Villa de Leyva's certification 
+there is a significant gap that persists between policy formulation and practical application. This research provides valuable 
+insights into how stakeholder perceptions influence sustainable development at the local level. It contributes to the refinement 
+of public policies and informs future studies in heritage tourism and stakeholder engagement. 
+ 
+Keywords: tourism, sustainability, community perceptions, tourism impacts, stakeholders’ engagement, community- based 
+tourism, rural tourism, tourism governance. 
+ 
+* * * * * * 
+ 
+INTRODUCTION              
+Tourism has recently experienced exponential growth, with repercussions at cultural, economic, social, political, and 
+environmental levels (Lőrincz et al., 2020; Olszewski-Strzyżowski, 2022). Tourism activities contribute 10.3% annually 
+to the global Gross Domestic Product (GDP) (Jóźwiak & Sieg, 2021). In this context, Mori et al. (2022) suggest that it 
+contributes to local economic development through job creation and other benefits for residents. Furthermore, progress 
+has been observed in urban and rural areas through improvements in relationships among stakeholders and the 
+implementation of innovative and environmentally responsible practices (Stoiljković et al., 2025). Based on the 
+paragraph above, tourism is defined as the activity through which individuals seek leisure outside of their work 
+environment, causing them to enjoy locations different from their usual place of residence. This can lead to a 
+convergence of cultures, showcasing diverse forms of consumption in the visited area (Więckowski, 2021). 
+The tourist chooses their destination based on the imaginary they construct, shaped by their preferences and personal 
+characteristics, such as age, gender, and social class. According to Gazzola et al. (2018), contemporary tourists tend to seek 
+less crowded destinations to establish a direct connection with the local population, valuing both tangible and intangible 
+goods while pursuing relaxing experiences that include sustainable practices. Their intention lies in understanding the 
+perspective of those who inhabit the space daily and can share their knowledge (Ortega et al., 2021). 
+As a result, the tourism industry has experienced progress and economic growth (Sudarmanto et al., 2025). For this 
+reason, it is crucial to innovate to meet visitors' desires, offering more authentic and natural experiences while connecting 
+with local people, such as farmers, artisans, and others. This trend has given rise to an alternative form of tourism, mainly 
+focused on experiences that enable closer interaction with social and cultural realities (Stoiljković et al., 2025). 
+ 
+Sustainable tourism 
+Sustainable tourism emerged as a response to the historical negative impacts of mass tourism, to protect territories and 
+resources for present and future generations. This approach addresses the needs of both tourists and local communities, 
+integrating supply, demand, the natural environment, and sustainability (Buonincontri et al., 2021; Jóźwiak & Sieg, 
+2021; Olszewski-Strzyżowski, 2022; Trigo & Silva, 2022). These considerations encompass three key dimensions: 
+                                                          
+* Corresponding author 
+
+
+Ingrid FONSECA, Camila GALEANO, Leidy ROA 
+ 
+ 
+1058 
+social, economic, and environmental (Mendoza et al., 2023; Fonseca et al., 2024). Due to the negative environmental 
+impacts of tourism activities, it is essential to mitigate consequences such as pollution, habitat destruction, deforestation, 
+wildfires, climate change, and resource exploitation (Więckowski, 2021). This is achieved through conscious tourism, 
+which promotes the participation and recognition of the local population (Soares et al., 2021).  
+In this context, the United Nations established the Sustainable Development Goals (SDGs) in 2015. According to 
+Moreira et al. (2022), efforts are currently being made to adopt new tourism practices by integrating entrepreneurs and 
+local communities to promote traditional and natural attractions, in order to achieve a balance. Additionally, there is a 
+focus on involving visitors in ways that align their interests with learning about, respecting, and preserving destinations. 
+One option is eco-hotels, designed to provide environmentally protective experiences (Stoiljković et al., 2025). 
+In this regard, activities focused on the care of natural territories and communities are proposed (Więckowski, 2021; 
+Mori et al., 2022). Besides that, the aim is to foster human interaction with the environment while safeguarding natural, 
+traditional, and intangible heritage from an ethical perspective that benefits the host community (Buonincontri et al., 
+2021). In this way, sustainable tourism addresses the challenge of developing environmental, social, and economic 
+strategies to minimize negative impacts (Olszewski-Strzyżowski, 2022).  
+ 
+Community-based tourism 
+Community-based tourism arises from the need to preserve culture, the environment, and values, aiming to provide 
+visitors with a closer connection to communities and active participation in their activities (Rodríguez-Rodríguez, 2018). 
+In this regard, the proactive involvement of the local population becomes crucial, because this causes people to value 
+and appreciate the local traditional knowledge, and to position nature as the main socioeconomic attraction (Moreira et 
+al., 2022; Mandić et al., 2025). It is essential to implement training processes focused on tourism projects that 
+demonstrate their economic, social, and environmental viability to encourage support from local and national governments 
+(Tolkach & King, 2015; Zeng et al., 2024). According to Harb et al. (2025), promoting autonomous community 
+management could generate economic benefits while enhancing competitiveness within the community.  
+In relation to the topic of this article, notable examples include Malaysia, where rural tourism has been promoted 
+through the commercialization of local products, thereby strengthening the economy (Goh, 2021). Meanwhile, Mendoza et 
+al. (2023) observe that while rural tourism generates economic benefits in Ecuador, it does not significantly contribute to 
+the development of local communities. In contrast, Soares et al. (2021) report that in Compostela, Spain, the concentration 
+of tourists in cultural heritage areas overwhelms the ecosystem and adversely affects residents.  
+Lőrincz et al. (2020) propose global strategies to promote sustainable tourism, including business approaches to 
+optimize access to tourist sites in Hungary. In Portugal, tourism drives the economy and creates jobs, recording a 25% 
+increase in recent years and becoming one of the most visited destinations in Europe (Trigo & Silva, 2022). Tourism 
+growth, however, has faced challenges since the 1960s and 1970s, emphasizing the need for stronger management to 
+mitigate its negative impacts (Więckowski, 2021). Mandić et al. (2025) conducted a study in the Metropolitan Area of 
+Split, with the participation of four stakeholders: politicians, public sector entities, cultural and community institutions, 
+and tourism companies. Seidualin et al. (2025) analyzed the role of stakeholders including banks, investment funds, 
+farmers, the local community, and tour operators in contributing to sustainable development in the Ulytau State National 
+Natural Park in central Kazakhstan. They believe that the local community can provide services and traditional cuisine 
+to tourists, while tour operators can organize excursions that immerse visitors in the region's cultural and natural 
+heritage. Harb et al. (2025) examined the effectiveness of sustainable tourism policies in Jordan, a country that holds a 
+significant position in global tourism. In their study, they considered the same stakeholders as in the present study.  
+The authors highlight one key challenge: Jordan's rapid growth as a tourism center has created environmental, 
+economic, and socio-cultural problems. As future lines of research, they suggest using technology to improve tourism 
+management and implementing policies to achieve a sustainable balance. Stoiljković et al. (2025) analyzed the 
+efficiency of tourism in Europe from a sustainability perspective, focusing on social and economic impacts. They argue 
+that sustainable management can mitigate negative impacts such as overcrowding, waste management problems, and 
+environmental pollution. Pérez (2024) conducted a study in Cuba, a country highly dependent on tourism. The author 
+emphasizes that the formulation of policies to safeguard tourist destinations is a globally relevant issue due to its impact 
+on local communities, the economy, infrastructure, and the environment.  
+Finally, Sudarmanto et al. (2025) examined tourism development in Kemuning Village, Indonesia, highlighting the 
+importance of incorporating sports activities as a strategy for local growth. Their findings suggest that such initiatives 
+generate social, cultural, and economic benefits and contribute to the responsible management of tourism. In this context, 
+this research holds particular significance, as it was conducted in Villa de Leyva, a municipality recognized as a National 
+Monument of Colombia for over 70 years. Renowned for its historical and colonial heritage, Villa de Leyva highlights the 
+critical need to preserve its customs and values. The aim of the research is to assess how Villa de Leyva residents, public 
+officials and tourism managers perceive sustainable tourism and how they contribute to its development. 
+ 
+MATERIALS AND METHODS 
+This research adopted a qualitative approach through the case study method with a descriptive scope. Widely used in 
+social science research, this method helps to explore dynamics within real-world contexts. Thus, this research aimed to 
+study situations and understand their development in Villa de Leyva. The case study approach facilitates observing human 
+behavior and collecting data through interviews, offering detailed insights into the surrounding environment. As Carazo 
+
+
+Perception of Key Stakeholders on Sustainable Tourism Practices: The Case of Villa de Leyva, Colombia 
+ 
+ 
+1059 
+(2006) explains, this method can focus on analyzing individuals or groups within specific locations, such as villages, 
+cities, or countries. Given that tourism is inherently a social phenomenon, using a case study approach is both 
+appropriate and relevant. Initially, the problem was defined, followed by the formulation of a strategy to implement the 
+case study, and finally, the data collection technique was selected. The sample in this study consisted of twelve 
+individuals divided into four stakeholder groups. The methodological process included the following stages: literature 
+review, case selection through purposive sampling, data collection and systematization of the case study (Figure 1). 
+         
+ 
+Figure 1. Methodological process 
+ 
+1) 
+Literature review: A comprehensive review of scientific literature on initiatives and tools related to tourism and 
+sustainability. 
+2) 
+Case selection through purposive sampling: Participants were chosen through purposive sampling based on their 
+familiarity with the area of interest and their expertise derived from life experience, professional trajectory, and prior 
+studies (Cohen et al., 2011). Each participant was thoroughly briefed on the research objectives, participated voluntarily, 
+and provided informed consent. The participants were divided into four stakeholder groups (Figure 2). The first group 
+consisted of three farmers with an average age of 58 years, all either born in Villa de Leyva or residing there for over 20 
+years, actively engaged in tourism-related activities. The second group included three hotel managers, each with more than 
+20 years of experience in the tourism sector, operating in the central area or near the Plaza Mayor. The third group 
+comprised three directors of tourism entities, representing both urban and rural businesses such as restaurants and tourism 
+agencies. Lastly, the fourth group included three public sector managers involved in overseeing tourism-related activities. 
+ 
+ 
+ 
+Figure 2. Case selection 
+ 
+Literature review 
+Scientific literature on initiatives 
+Tools and frameworks related to 
+tourism and sustainability 
+The methodological 
+process included the 
+following stages: 
+Case Selection 
+through Purposive 
+Sampling 
+Participants were 
+selected through 
+purposive sampling 
+criteria 
+Participants were selected 
+based on their familiarity 
+with the study area 
+Data Collection 
+Semi-structured 
+interviews with 
+open questions 
+Three thematic categories: 
+tourism, impacts, and 
+strategies 
+Farmers 
+Hotel managers 
+Tourism entities 
+Sistematization of 
+the Case Study 
+This section involved presenting and 
+evaluating specific sustainability practices 
+Stakeholders 
+Three farmers 
+Average age: 58 years 
+All were either born  
+in Villa de Leyva 
+Residing in Villa de Leyva 
+for over 20 years 
+Three hotel managers 
+Each with more than  
+20 years of experience 
+ in the tourism sector 
+Operating in the 
+central area 
+Or near the Plaza 
+Mayor 
+Three directors of 
+tourism entities 
+Representing 
+Both urban and rural businesses such 
+Tourism agencies 
+Restaurants 
+Three public sector managers 
+Responsible for overseeing 
+tourism-related activities 
+
+
+Ingrid FONSECA, Camila GALEANO, Leidy ROA 
+ 
+ 
+1060 
+3) 
+Data collection: Information was gathered through semi-structured interviews with open-ended questions, 
+allowing in-depth discussions that enhanced the research findings. Conducted in August and September 2023, the 
+interviews focused on three main categories: tourism, impacts, and strategies. Farmers were asked about their perceptions 
+of tourism and sustainability, the positive and negative impacts they had experienced, their involvement in local tourist 
+routes, the municipality’s key attractions, and their awareness of implemented projects. For hotel managers, the questions 
+explored the incorporation of sustainable tourism practices in their operations, their collaboration with other projects, the 
+community’s interest in these practices, and the motivations behind their business strategies. Tourism entities provided 
+insights into their role in promoting local employability, their objectives in Villa de Leyva, and their contributions to 
+cultural preservation. Finally, public sector managers were consulted on the implementation of sustainable initiatives and 
+their strategies in education, environmental protection, and community participation. 
+4) 
+Systematization of the case study: This section involved presenting and evaluating specific sustainability practices 
+identified for each of the contexts mentioned above. 
+ 
+RESULTS 
+This section presents the research findings, highlighting how sustainability is being implemented in the tourism sector 
+in Villa de Leyva. 
+ 
+Villa de Leyva’s case 
+Villa de Leyva, originally named Villa de Nuestra Señora de Santa María de Leyva, was founded in 1572 by Andrés 
+Díaz Venero de Leyva. Located in the Alto Ricaurte region of the Boyacá department in Colombia, it spans an area of 128 
+km² and has an average temperature of 18.1°C (64.6°F) (Alcaldía de Villa de Leyva, 2020). Villa de Leyva is celebrated for 
+its colonial architecture and was designated as a Colombian architectural heritage site in 1954. In 2017, Villa de Leyva 
+earned recognition as a sustainable tourism destination from the Ministry of Commerce, Industry, and Tourism of 
+Colombia, becoming the eighth destination to receive this prestigious certification under the Colombian Institute of 
+Technical Standards and Certification. This achievement required a strong commitment to responsible tourism, efficient 
+operation of water treatment facilities, and mindful management of public services (Gobernación de Boyacá, 2017). Villa 
+de Leyva is a municipality with natural, cultural, and historical attractions, which provide a significant advantage in 
+attracting many visitors. It hosts approximately 107 tourism service companies, including tour operators and event 
+organizers, making tourism a fundamental activity for the local economy. However, the growing tourism industry has 
+caused environmental degradation caused by both visitors and tourism businesses, highlighting the need to implement 
+processes to protect the municipality’s heritage and environment (Sudarmanto et al., 2025). The Municipal Development 
+Plan 2020-2023 emphasizes the importance of strengthening sustainability and social cohesion, as well as increasing 
+investment in the rural population. Additionally, the plan underscores the necessity of regulating the use of tourist 
+attractions and operators to prevent negative impacts on nature. Despite its tourism potential, the municipality lacks 
+projects that ensure both quality services and preservation efforts, which could negatively affect the community (Alcaldía de 
+Villa de Leyva, 2020). The following section presents an analysis of the interview data collected from the stakeholder groups, 
+focusing on three categories: sustainable tourism in Villa de Leyva, sustainability strategies, and social, environmental, and 
+economic impacts. 
+ 
+Sustainable tourism in Villa de Leyva 
+Table 1 provides an analysis of the interview data, highlighting key insights. Farmers identify tourism as the primary 
+economic driver for the municipality due to its historical, natural, architectural, colonial, and tranquil attractions, which 
+draw both national and international tourists. While they acknowledge the benefits of employment and economic growth, 
+they also emphasize the need to implement measures to preserve Villa de Leyva’s future.  
+ 
+Table 1. Sustainable tourism in Villa de Leyva 
+ 
+Category 
+Farmers 
+Hotels 
+Tourism Organizations 
+Public Entities 
+Tourism  
+in Villa  
+de Leyva 
+- One of the main economic 
+sources for the municipality 
+- Offers hotel and gastronomic 
+services tied to the town’s heritage 
+- Provides national and inter-
+national gastronomic services 
+- A public tourism policy is being 
+implemented in Villa de Leyva 
+- Hosts cultural and 
+historical attractions 
+- Local tourism regulations 
+require the training of hotel 
+workers 
+- Ensures quality and safety 
+in services 
+- Provides training for tourism 
+service providers in best practices 
+- Offers a variety of tourist 
+options 
+- The municipality hosts a 
+variety of festivals 
+Sustainable 
+Tourism  
+in Villa de 
+Leyva 
+- Focuses on conserving 
+and sharing local values 
+- Preserves traditional 
+architecture 
+- Faces challenges with 
+waste separation and timely 
+collection 
+- The municipality holds a 
+sustainability certification 
+- Seen as a growth 
+opportunity but requires 
+strict control to preserve 
+traditions 
+- Incorporates ecological 
+gardens and hires local staff 
+- Promotes environmental 
+awareness among clients 
+during tours and activities 
+- Promotes the integration of 
+"Tourism-Friendly Schools" 
+- Includes sites of 
+archaeological interest 
+- Conducts cleanup campaigns 
+as part of Colombia Limpia 
+- Collaborates in events and festivals 
+ 
+ 
+In the hotel sector, there is a strong commitment to sustainable tourism. Hoteliers demonstrated environmental and social 
+responsibility by constructing facilities thoughtfully, fostering partnerships with the community, and supporting cultural 
+
+
+Perception of Key Stakeholders on Sustainable Tourism Practices: The Case of Villa de Leyva, Colombia 
+ 
+ 
+1061 
+festivals.  They also educate guests on local attractions and eco-friendly practices, actively encouraging ecological tourism and 
+the use of locally sourced products. Tourism organizations offer unique experiences in gastronomy, high-quality services, and 
+certified safety, supported by well-trained local staff. However, challenges remain in waste separation within establishments 
+and inadequate waste management. Public entities are actively implementing policies to mitigate negative impacts in line with 
+sustainable tourism certification requirements. They provide training through the Tunja Chamber of Commerce to promote 
+best practices and foster partnerships. Furthermore, they organize cleanup initiatives such as Colombia Limpia and encourage 
+the participation of "Colegios Amigos del Turismo" (a group of schools related with tourism-based education). 
+ 
+Sustainability strategies 
+Table 2 outlines the sustainability strategies and the positive and negative aspects of tourism. Farmers appreciate the 
+increased employment opportunities but emphasize the need to preserve the municipality’s infrastructure and 
+environmental wealth. They also propose making their daily activities more visible to visitors and advocating for inter-
+village collaboration to develop tourist routes that benefit all local communities involved. Hotel managers highlight the 
+importance of raising visitor awareness about resource conservation, alongside ensuring efficient management of public 
+services and fostering community development. Tourism entity leaders prioritize effective waste management strategies, 
+including separation and composting, to reduce environmental impacts. Public entities focus on implementing awareness 
+campaigns and conducting regular inspections to ensure compliance and sustainability within tourism establishments. 
+Tourism in Villa de Leyva has brought several benefits, including job creation for residents, a diverse range of 
+accommodation options, and a favorable environment for entrepreneurship driven by the town’s natural attractions and 
+tranquil ambiance. Additionally, opportunities for training and development aimed at implementing sustainable practices 
+are highlighted, attracting responsible visitors, and fostering a culture of sustainability. In contrast, farmers emphasize the 
+rising cost of living as a significant drawback. They also stress the need for greater attention, advocating for prioritization 
+in training and certifications, as well as improved security in rural areas; Hotels point out a lack of entrepreneurial mindset 
+among residents. While they offer various awareness activities, they cannot ensure that guests follow through on them. 
+Hoteliers also warn about the loss of traditions and the increasing volume of waste in the municipality; and, lastly, public 
+entities identify the influx of foreign visitors as a major challenge, which intensifies insecurity. They also highlight the lack 
+of adequate protection in rural areas, emphasizing the need for stronger intervention from authorities. 
+ 
+Table 2. Sustainability strategies 
+ 
+Category 
+Farmers 
+Hotels 
+Tourism Entities 
+Public Entities 
+Sustaina-
+bility 
+Strategies 
+- Promotion of job opportunities 
+for young people. 
+- Notices encouraging 
+conscious use of water and 
+electricity by guests. 
+- Implementation of a 
+waste separation system. 
+- Organization of 
+responsible water and 
+energy use campaigns. 
+- Commitment to preserving 
+buildings and resources. 
+- No use of dryers; washed clothes 
+are air-dried using sunlight. 
+- Significant reduction in 
+the use of public services. 
+- Conducting inspections 
+of tourist establishments. 
+- Interest in showcasing nature, 
+labor, and traditional attractions. - Offering locally sourced food. 
+- Utilization of food waste, 
+even when the amount 
+discarded is minimal. 
+- Reorganization of street 
+vendors. 
+- Active participation in inter-
+village tourism initiatives. 
+- Implementation and use of 
+solar panels. 
+ 
+- Prohibition of flyer 
+distribution and street 
+vending. 
+Positive 
+Aspects 
+- Participation in tourism highlights 
+daily activities such as weaving. 
+- A broad range of hospitality 
+options is available. 
+- Accessible to all social 
+strata. 
+- Variety of tourist plans. 
+- Increasing interest among native 
+inhabitants, who train and work 
+in museums, artisan clothing 
+businesses, and some 
+collaboration with the Tourism 
+Department. 
+- Tourists are drawn by 
+hospitality. 
+- Presence of tourism 
+entities, such as hotels, 
+agencies, and restaurants. 
+- Hotels with varying 
+price ranges, among 
+others. 
+- Strong commitment to 
+preserving cultural heritage and 
+traditions. 
+ 
+- Abundance of tourist 
+attractions, including 
+museums, galleries, and 
+handicrafts. 
+- Implementation of sustainable 
+practices attracts more tourists. 
+ 
+- Proximity to other 
+towns. 
+Negative 
+Aspects 
+- Increase in the cost of basic 
+public services. 
+- No effective measures to raise 
+tourists’ awareness of resource 
+use. 
+- Loss of local traditions 
+due to foreign influence. 
+- Influx of foreigners has 
+affected the quality of 
+tourist services. 
+- Lack of knowledge among 
+farmers about sustainability 
+issues. 
+- High tourist traffic generates 
+significant waste in Villa de 
+Leyva. 
+- Tourism impacts the 
+provision of public 
+services. 
+- Waste proliferation due 
+to the large number of 
+visitors to Villa de Leyva. 
+- Obstacles in obtaining safety 
+and quality certifications. 
+- Lack of specialization in 
+offering typical Villa de Leyva 
+cuisine. 
+ 
+- Tourist activity causes 
+the migration of local 
+residents. 
+- Risk of losing traditions. 
+ 
+ 
+ 
+ 
+Social, environmental, and economic impact 
+Socially, a significant portion of the local population is compelled to relocate to nearby cities due to rising costs of land 
+and public services. On the other hand, residents knowledgeable about history, politics, and tourism actively engage in tourism 
+
+
+Ingrid FONSECA, Camila GALEANO, Leidy ROA 
+ 
+ 
+1062 
+projects. They share their knowledge and expertise with visitors, emphasizing the importance of preserving both the 
+environment and the area's rich cultural heritage. Also, opportunities are provided for young people to receive training and 
+participate in tourism-related sectors such as gastronomy, hospitality, and customer service. Hotels are committed to providing 
+high-quality lodging services. They also strive to hire trained staff, including residents and individuals affected by Colombian 
+armed conflict, with skills in customer service. While they express a willingness to support the community, they face challenges 
+due to the lack of regulation regarding the legal framework for the economic activities of farmers. The analysis of tourism 
+entities reveals that most business owners come from outside Villa de Leyva, selecting this location as an ideal setting to 
+establish their ventures. In this context, these entrepreneurs are actively involved in the local community, providing 
+employment, and adopting business practices that address waste collection issues. Additionally, they promote environmental 
+awareness, local history, and participation in ecological walks among tourists. Public entities demonstrate a strong commitment 
+to identifying the social, economic, and environmental impacts of mass tourism in Villa de Leyva. They have observed 
+significant shifts in local labor dynamics, including increased migration and the acceptance of lower wages. Moreover, the 
+growing number of tourists has led to a marked rise in waste generation, affecting both rural and urban areas (Table 3). 
+ 
+Table 3. Social, environmental, and economic impact 
+ 
+Category 
+Farmers 
+Hotels 
+Tourism Entities 
+Public Entities 
+Social 
+Impact 
+- Opportunities for young 
+people are limited. 
+- Interaction between locals and 
+foreigners. 
+- Non-local entrepreneurs 
+establish businesses in 
+Villa de Leyva. 
+- The community is 
+being integrated into 
+training programs. 
+- Need to train farmers in 
+tourism. 
+- Creates job opportunities for 
+individuals affected by armed 
+conflict. 
+ 
+ 
+Economic 
+Impact 
+- Growth in infrastructure 
+requires specialized labor. 
+- Hotels must present certifications 
+and accounting records to the state 
+for oversight of their activities. 
+- Dependence on tourism as 
+the primary economic 
+driver for the municipality. 
+- Investment in festivals 
+and events. 
+- Land costs in Villa de Leyva 
+have increased significantly. 
+ 
+- Job creation for local 
+residents. 
+ 
+Environ-
+mental 
+Impact 
+- Irresponsible use of 
+resources by some tourists. 
+- Staff commitment to 
+environmental impact training. 
+- Implementation of 
+natural composting. 
+- Increase in waste associ-
+ated with tourist influx. 
+- Villa de Leyva has one of 
+the most equipped fire 
+brigades due to frequent fires. 
+- Information provided on digital 
+platforms for suppliers and clients 
+regarding environmental measures. 
+- Protocols to raise 
+environmental awareness 
+among clients. 
+- Campaigns promoting 
+responsible water and 
+energy use. 
+ 
+- Difficulty in waste separation. 
+ 
+ 
+ 
+DISCUSSION 
+The aim of this research was to analyze the perceptions of residents, public officials, and tourism managers in Villa de 
+Leyva regarding sustainable tourism and their interest in its development. The findings highlight the need for change. 
+Accordingly, Olszewski-Strzyżowski (2022) emphasizes the necessity of transforming current dynamics. Responsible 
+tourism poses a challenge that requires the commitment of tourists, the community, and service providers, all of whom 
+must adhere to existing regulations. Furthermore, it is essential to implement concrete actions across all ventures and 
+tourism events to effectively contribute to sustainable development (Alcaldía de Villa de Leyva, 2020). 
+ 
+Sustainable tourism in Villa de Leyva 
+The findings highlight the benefits derived from tourism activities. In this context, Lee & Jan (2019) point out that in 
+Taiwan, tourism is perceived as an effective strategy to combat poverty by generating employment and creating diverse job 
+opportunities to meet visitors' needs. Likewise, Olszewski-Strzyżowski (2022) emphasizes the importance of customer 
+service, recreation, and transportation. Like Villa de Leyva, countries such as Austria, Norway, and Guatemala maintain 
+strong ties to their colonial and cultural heritage while offering visitors tranquil settings. According to Moreira et al. (2022), 
+rural areas provide opportunities for reflection and connection with nature, where climate, culture, and gastronomy play 
+pivotal roles. Consequently, hotels in Villa de Leyva and the surrounding are actively working to preserve Boyacá’s 
+cultural traditions. The results indicate a strong interest in implementing actions to promote sustainable tourism. In this 
+regard, Dolnicar & Greene (2025) conclude that achieving sustainability requires changes from all stakeholders.  
+However, respondents highlight the need for increased engagement from public organizations, a concern echoed by 
+Gkoumas (2019) in his study of Rhodes, Greece. He emphasizes that successful tourism innovation requires well-prepared 
+governmental institutions, policies, laws, and local actors. Similarly, Ortega et al. (2021) observe that in the Eco Museum 
+of Puerto López, sustainability is driven by collaboration among public representatives, educators, and locals. In Villa de 
+Leyva, public entities are working to develop training programs and initiatives aimed at regulating sustainable practices 
+among tourism operators, residents, and visitors. Villa de Leyva faces significant challenges due to the absence of an 
+efficient system for collecting and sorting waste in both urban and rural areas. Sancho (2005) warns that improper waste 
+management, compounded by increased tourist activity, poses a serious environmental threat. In contrast, Suluo et al. 
+(2023) illustrate how tourism ventures in Tanzania have successfully addressed this issue through organizations dedicated 
+to processing and managing tourism-generated waste. This highlights the potential for similar strategies to be implemented 
+in Villa de Leyva. Public services have become more expensive due to the mass influx of tourists, mirroring the challenges 
+described by Tinoco (2003) regarding irresponsible management in Peru. This issue directly impacts both residents and 
+
+
+Perception of Key Stakeholders on Sustainable Tourism Practices: The Case of Villa de Leyva, Colombia 
+ 
+ 
+1063 
+tourists, as the increased demand for essential services, such as potable water supply, leads to higher costs and deteriorating 
+availability. Burbano et al. (2022) observe a similar trend in Puerto Ayora, Santa Cruz Island, Ecuador. To address this 
+challenge, it is crucial to implement measures that safeguard public services, recognizing them as a fundamental right.  
+The population of Villa de Leyva faces growing security challenges stemming from the surge in tourist arrivals. 
+Marchan et al. (2023) highlight that in Peru, insecurity has persisted over the past five years, impacting major tourist 
+destinations due to terrorism. Comparably, Lee & Jan (2019) report that in Taiwan, residents have observed increased crime 
+rates linked to tourism. As a result, authorities are encouraged to implement robust security measures, as these challenges have 
+profound social and economic consequences, with rural areas in Villa de Leyva being among the most vulnerable. 
+ 
+Sustainability strategies 
+Protecting cultural and environmental heritage in Villa de Leyva is crucial for fostering responsible and economically 
+sustainable tourism, a perspective supported by Del Valle (2017) in Venezuela, and Muresan et al. (2016) in Romania. Both 
+studies highlight the critical role of safeguarding tangible and intangible assets in achieving sustainable tourism 
+development. In Taiwan, efforts go beyond conservation by educating tourists on environmentally responsible behaviors 
+(Lee & Jan, 2019). Preserving these resources ensures the long-term viability of tourist attractions and their ability to draw 
+visitors. Conversely, neglecting such efforts can lead to economic decline. Baloch et al. (2023) underscore the importance 
+of prioritizing environmental considerations over commercial gains in their study of Pakistan. 
+Given these insights, Villa de Leyva must implement targeted measures that balance tourism-driven commerce with the 
+mitigation of consumption and pollution impacts in local establishments—a challenge that requires urgent attention. 
+An effective strategy to mitigate the negative impacts of tourism is waste separation for composting, which can be used 
+as natural fertilizer. Hamón (2008) highlights similar initiatives in Monserrate, including ecological points along pathways 
+and cleanup campaigns organized with local merchants. In Tanzania, tourism businesses prioritize proper waste sorting as a 
+step toward fostering corporate sustainability (Suluo et al., 2023). Similarly, in the Galápagos Islands, improving waste 
+collection systems is proposed as a way to protect ecosystems (Burbano et al., 2022). Implementing such measures in Villa 
+de Leyva, such as installing visible trash bins and ecological points in tourist establishments, is essential to reduce 
+environmental impact and promote sustainable practices. The creation of the Public Tourism Policy in Villa de Leyva is an 
+initiative that requires the participation of tourism entities and the local community for its effective implementation. This 
+approach aligns with Gazzola et al. (2018), who, in their study of the cycling tourism model in Italy, highlight the critical 
+role of public-private partnerships. To achieve sustainable and fair outcomes, it is crucial to involve residents in tourism 
+planning and decision-making, fostering inclusive and equitable growth. Mandić et al. (2025) emphasize the need to 
+promote partnerships between the public and private sectors, as well as the importance of implementing context-specific 
+policies and tourism models that promote cultural preservation and the development of local communities. 
+Residents and farmers have actively contributed to the tourism sector by sharing traditional activities such as milking, 
+harvesting, and weaving. Mwesiumo et al. (2022) illustrate how integrating sustainable innovation processes, as seen in 
+Traena, Norway, can attract more visitors. Following the COVID-19 crisis, Polukhina et al. (2021), Pérez (2024), et al. 
+(2025) and Harb et al. (2025) observe that tourists have shown a growing interest in engaging with nature and local 
+communities. Building on these examples, the farmers of Villa de Leyva have an opportunity to safeguard and share their 
+cultural heritage. By aligning with specific Sustainable Development Goals (SDGs), they can showcase the region’s natural 
+and urban landscapes to both domestic and international visitors, fostering intercultural dialogue and raising awareness 
+about the unique value of the area. A significant positive impact of tourism in Villa de Leyva is the creation of job 
+opportunities for residents. These positions not only enhance the quality of life for the community but also align with the 
+global trend identified by Manzoor (2019) and Stoiljković et al. (2025), which underscores tourism as a key driver of 
+employment and economic growth. In Tanzania, Suluo et al. (2023) highlight the obligation of tourism companies to 
+involve rural communities in their workforce to improve economic conditions. Similarly, Lee & Jan (2019) emphasize the 
+necessity for tourism businesses in Taiwan to prioritize hiring residents. In the city of Jiulong, China, Zeng et al. (2024) 
+concluded that tourism companies that collaborate with local communities create a long-term positive impact, reduce 
+barriers, and minimize conflicts. In this sense, they build relationships based on trust, equality, and cooperation. 
+In Villa de Leyva, tourism entities actively contribute to local development by integrating residents into their 
+operations. This approach aligns with the United Nations' eight Sustainable Development Goal (SDGs), which promotes 
+“decent work and economic growth” as a cornerstone of sustainable development (United Nations, 2023). 
+The migration of residents from Villa de Leyva to other municipalities due to tourism has a significant negative impact. 
+This trend contrasts with Sancho’s (2005) findings, which suggest that sustainable tourism has the potential to reduce youth 
+displacement by fostering economic stability within their communities. In Russia, by comparison, residents have adapted to 
+a shifting economic landscape and successfully learned to coexist with visitors (Polukhina et al., 2021). For Villa de Leyva, 
+the rising cost of living in recent years has posed a substantial challenge, making it increasingly difficult for locals to remain in 
+the area. The lack of infrastructure for people with disabilities is a significant issue in Villa de Leyva. This challenge, however, 
+is not confined to the Boyacá municipality; it is a widespread problem in many regions. For instance, in Chile, particularly in 
+the wine tourism sector, addressing accessibility has become a critical priority, as emphasized by Figueroa & Rotarou (2018).  
+Recognizing and tackling these gaps in infrastructure is essential to ensure that tourism is inclusive and accessible to all. 
+Another variable to consider is the proliferation of tourism ventures, where the majority of owners are either foreigners or 
+individuals from other regions of Colombia. While this trend brings socio-economic benefits to the community, it also 
+raises concerns about the potential erosion of cultural identity. Baloch et al. (2023) observe that such circumstances may 
+lead locals to adopt the customs of visitors and non-local owners, undermining their authenticity. Similarly, Sancho (2005) 
+argues that this dynamic can be harmful, as the host population often assumes roles primarily as employees. 
+
+
+Ingrid FONSECA, Camila GALEANO, Leidy ROA 
+ 
+ 
+1064 
+Social, environmental, and economic impact of tourism 
+Regarding the social impact, Villa de Leyva has achieved the Sustainable Tourism Certification; however, its 
+implementation remains incomplete. Gazzola et al. (2018) highlight that all stakeholders can play a pivotal role in fostering 
+long-term projects, such as cycling tourism, by contributing innovative ideas. In this context, the interviewed stakeholder 
+groups expressed a strong commitment to advancing sustainability in the region through their daily activities, professional 
+efforts, environmental initiatives, and cultural contributions. In Villa de Leyva, interviews reveal that the local population 
+benefits significantly from diverse employment opportunities. According to Birendra et al. (2021), such trends motivate youth 
+and residents to pursue training and careers in the tourism sector, fostering the creation of additional jobs. Notably, Villa de 
+Leyva stands out for its inclusive hiring practices, which prioritize individuals affected by Colombia’s armed conflict. 
+Once again, it is emphasized that tourism has negatively impacted on farmers in Villa de Leyva, leading to the sale of 
+their land and the displacement of residents due to the unsustainability of staying in the region. This phenomenon 
+resembles the situation in Santiago de Compostela, Spain, where, as noted by Soares et al. (2021), local inhabitants have 
+been displaced due to gentrification—a socio-economic process that, over time, harms the original culture. Cuadra (2017) 
+reinforces this concern, highlighting that rising costs and the importation of goods and services from other regions further 
+exacerbate the issue. In response to this problem, the interviewed stakeholders emphasize the need for action to support the 
+community’s socio-economic well-being. They propose the implementation of policies that address the needs of both local 
+residents and tourists, aiming to prevent displacement and ensure visitors can experience the authentic culture of the region. 
+To continue with the economic impact, hotels express a willingness to support local farmers; however, regulatory 
+barriers imposed by government entities prevent them from purchasing their products. Farmers are discouraged by the 
+challenges of formalizing their operations, which require compliance with various legal requirements, such as worker 
+insurance (ARL) and complete documentation—processes that demand both time and financial investment. Hotels, 
+meanwhile, do not take responsibility for sourcing these products or encouraging farmers to align with sector regulations. 
+Sancho (2005) highlights that failing to purchase local products results in higher costs for tourism businesses and 
+economic difficulties for residents who produce food and goods. Similarly, Suluo et al. (2023) illustrate that in Tanzania, 
+sourcing locally grown food enhances sustainability and productivity, benefiting both suppliers and buyers. In Indonesia, 
+Purnomo (2021), and in Nepal, Birendra et al. (2021), emphasize the importance of economic plans that prioritize the local 
+community—especially farmers—by enabling them to market their goods and play a vital role in tourism development. To 
+address these issues, it is crucial to implement strategies that empower farmers to establish legally compliant and 
+prosperous businesses. In terms of environmental impact, tourism businesses and public entities collaborate with 
+Corpoboyacá to organize awareness talks and events focused on environmental care. This demonstrates effective 
+management in environmental protection, particularly on farms, and highlights active participation in training sessions and 
+cleanup campaigns. However, it is essential to foster greater awareness among residents (Del Valle, 2017). 
+In Taiwan, both the government and NGOs actively promote environmental education programs for residents and 
+tourists, aiming to enhance nationwide ecological awareness (Lee & Jan, 2019). Similarly, in Pakistan, initiatives such as 
+tree planting events and infrastructure improvements help mitigate the environmental damage caused by tourism (Baloch et 
+al., 2023). By contrast, Suluo et al. (2023) observe that the community in Tanzania lacks a comprehensive understanding of 
+the negative impacts of irresponsible practices, although government campaigns are working to address this gap. 
+Meanwhile, in Rhodes, Greece, Gkoumas (2019) notes that while entities recognize the value of sustainable tourism, they 
+often favor mass tourism due to its equivalent economic returns and reduced effort. Another significant environmental 
+challenge in Villa de Leyva is the occurrence of forest fires, often triggered by pollution from discarded glass and plastic, 
+improper campfire practices, and cigarette waste. These issues are aggravated by the region’s prolonged summers, which 
+accelerate the spread of flames, deplete natural resources, and increase water consumption. Similarly, in Chile, prolonged 
+droughts—intensified by mining activities—have caused significant losses in wine production (Figueroa & Rotarou, 2018). 
+In response to the risk of fires, Villa de Leyva is supported by one of the largest firefighting teams in Boyacá. However, 
+their efforts are hindered by water shortages and persistent droughts. Furthermore, the influx of tourists during festivals 
+disrupts local flora and fauna, forcing animals like deer to flee or hide from their natural habitats. This demonstrates how 
+tourism influx poses a threat to biodiversity by encroaching on ecosystems (Baloch et al., 2023; Suluo et al., 2023). 
+A management system is being introduced within tourism entities to oversee public services and foster tourism 
+awareness, establishing standards that prioritize sustainable quality over carrying capacity and large-scale events. This 
+initiative reflects progress in enhancing public service conditions, aligning with usage regulations observed in Romania 
+(Muresan et al., 2016). Nevertheless, ongoing monitoring and effective governance remain essential. In contrast, the 
+Galápagos Islands grapple with significant challenges stemming from political disputes over the adequate provision of 
+essential services, adversely affecting both residents and tourists (Burbano et al., 2022). To address these issues, minimizing 
+resource waste is critical to ensuring mutual benefits for the local community and visitors alike (Dolnicar & Greene, 2025). 
+ 
+CONCLUSION 
+Villa de Leyva boasts a variety of tangible and intangible attractions, making it a compelling destination for tourists. 
+While it is recognized for its tourism potential and valuable heritage, it is essential to implement actions that align with its 
+Sustainable Tourism Certification. Several issues remain unaddressed, including waste management, the overuse of natural 
+and public resources, rising insecurity, increasing costs in the municipality, and the displacement of local residents, who 
+also require greater support and guarantees. Additionally, improving infrastructure accessibility, particularly for people 
+with disabilities, and managing the influx of mass tourism are critical steps to ensure sustainable development and preserve 
+
+
+Perception of Key Stakeholders on Sustainable Tourism Practices: The Case of Villa de Leyva, Colombia 
+ 
+ 
+1065 
+the region's appeal. Among the positive aspects, tourism has contributed to job creation and provided valuable 
+opportunities for the community, supported by training programs aimed at enhancing the skills of both businesses and 
+residents. Efforts to preserve natural resources and public services, such as the use of signage and the involvement of 
+trained personnel, are particularly noteworthy. Cooperatives like Corpoboyacá play a key role in maintaining 
+environmental cleanliness through organized campaigns. However, farmers, while acknowledging the economic benefits of 
+tourism, also highlight the significant rise in living costs within the municipality, which has made it increasingly 
+unaffordable. This financial strain has prompted many to migrate. Hotels have shown a strong commitment, positioning 
+themselves as the most engaged stakeholders in Villa de Leyva. Their strategies include hiring local staff, preserving colonial 
+architecture, and actively supporting cultural events. Moreover, they demonstrate diligence by participating in tourism projects 
+and complying with technical standards specific to the tourism sector. Tourism entities demonstrate a strong commitment to 
+advancing sustainability but face external challenges, particularly in waste management. They stress the importance of unified 
+collaboration among authorities, public policies, local communities, and tourism stakeholders to establish effective 
+strategies. This coordination is especially critical for mitigating adverse effects during events that draw large numbers of 
+visitors to Villa de Leyva. Addressing the social, environmental, and economic consequences of mass tourism - such as 
+heightened pollution levels and natural resource degradation - requires targeted actions and sustainable practices. 
+ 
+Author Contributions: Conceptualization, I.F. and C.G.; methodology, L.R. and C.G.; software, I.F. and C.G.; validation, 
+I.F.; formal analysis, I.F. and C.G. and R.L.; investigation, L.R. and I.F. and C.G.; data curation, I.F.; writing - original draft 
+preparation, I.F. and C.G.; writing - review and editing, I.F. and C.G. and L.R.; visualization, I.F. and C.G.; supervision, I.F.; 
+project administration, C.G. and L.R. All authors have read and agreed to the published version of the manuscript. 
+ 
+Funding: Not applicable.   
+ 
+Institutional Review Board Statement: Not applicable. 
+ 
+Informed Consent Statement: Not applicable. 
+ 
+Data Availability Statement: The data presented in this study may be obtained on request from the corresponding author. 
+ 
+Acknowledgments: The authors would like to thank the Bachelor's Degree in Recreation program at UPN. 
+ 
+Conflicts of Interest: The authors declare no conflict of interest. 
+ 
+REFERENCES 
+Alcaldía de Villa de Leyva. (2020). Plan de Desarrollo Municipal para la vigencia 2020-2023 “Villa de Leyva somos todos” [Municipal 
+Development Plan for the period 2020-2023 “Villa de Leyva is all of us”]. https://www.villadeleyva-boyaca.gov.co/Transparencia/Planeacion 
+GestionyControl/Plan%20de%20Desarrollo%20Municipal%20Villa%20de%20Leyva%20Somos%20Todos%202020%20-%202023.pdf 
+Baloch, B., Shah, N., Iqbal, N., Sheeraz, M., Asadullah, M., Mahar, S., & Khan, U. (2023). Impact of tourism development upon 
+environmental sustainability: A suggested framework for sustainable ecotourism. Environmental Science and Pollution Research, 
+30(3), 5917-5930. https://doi.org/10.1007/s11356-022-22496-w 
+Birendra, C., Dhungana, A., & Dangi, B. (2021). Tourism and the sustainable development goals: Stakeholders' perspectives from Nepal. 
+Tourism Management Perspectives, 38, 100822. https://doi.org/10.1016/j.tmp.2021.100822 
+Buonincontri, P., Micera, R., Murillo-Romero, M., & Pianese, T. (2021). Where does sustainability stand in underground tourism? A 
+literature review. Sustainability, 13(22), 12745. https://doi.org/10.3390/su132212745 
+Burbano, V., Valdivieso, C., Izurieta, C., Meredith, C., & Ferri, Q. (2022). “Rethink and reset” tourism in the Galapagos Islands: 
+Stakeholders' views on the sustainability of tourism development. Annals of Tourism Research Empirical Insights, 3(2), 100057. 
+https://doi.org/10.1016/j.annale.2022.100057 
+Carazo, M. (2006). El método de estudio de caso: estrategia metodológica de la investigación científica. [The case study method: a methodological 
+strategy for scientific research]. Pensamiento & Gestión (20), 165-193 (in Spanish) htt://www.redalyc.org/articulo.oa?id=6460200ps 
+Cohen, L., Manion, L., & Morrison, K. (2011). Research methods in education. Routledge. https://doi.org/10.4324/9780203720967 
+Cuadra, M. (2017). Los impactos económicos del turismo: el caso del turismo fronterizo [The economic impacts of tourism: the case of border 
+tourism]. Gran tour, revista de investigaciones turísticas (16), 63-77 (in Spanish), https://eutm.es/grantour/index.php/grantour/article/view/7 
+Del Valle, S. (2017). La planificación y prevención de los impactos ambientales del turismo como herramienta para el desarrollo 
+sostenible: Caso de estudio Timotes, Venezuela [Planning and prevention of environmental impacts of tourism as a tool for 
+sustainable development: Case study Timotes, Venezuela]. Revista interamericana de ambiente y turismo 13(2), 164-183 (in 
+Spanish), http://dx.doi.org/10.4067/S0718-235X2017000200164 
+Dolnicar, S., & Greene, D. (2025). Research for environmentally sustainable tourism–All talk, no action?. Journal of Hospitality and 
+Tourism Management, 62, 28-33. https://doi.org/10.1016/j.jhtm.2024.12.002 
+Figueroa, E., & Rotarou, S. (2018). Challenges and opportunities for the sustainable development of the wine tourism sector in Chile. 
+Journal of Wine Research, 29(4), 243-264. https://doi.org/10.1080/09571264.2018.1532880 
+Fonseca, I., Bernate, J., & Cabanzo, C. (2024). Medición de la Responsabilidad Social Corporativa en organizaciones deportivas: 
+desarrollo y validación de escala, estudio piloto [Measuring Corporate Social Responsibility in sports organizations: scale 
+development and validation, pilot study]. Retos, 53, 58–68 (in Spanish), https://doi.org/10.47197/retos.v53.101720 
+Gazzola, P., Pavione, E., Grechi, D., & Ossola, P. (2018). Cycle tourism as a driver for the sustainable development of little-known or remote 
+territories: The experience of the Apennine regions of Northern Italy. Sustainability, 10 (6), 1863. https://doi.org/10.3390/su10061863 
+Gkoumas, A. (2019). Evaluating a standard for sustainable tourism through the lenses of local industry. Heliyon, 5(11). https://doi.org/ 
+10.1016/j.heliyon.2019.e02707 
+ Gobernación de Boyacá (2017).  Villa de Leyva, uno de los mejores destinos turísticos sostenibles del país. [Villa de Leyva, one of the 
+best sustainable tourist destinations in the country] Recuperado el 7 de octubre de 2023, https://www.boyaca.gov.co/villa-de-leyva-
+uno-de-los-mejores-destinos-turisticos-sostenibles-del-pais/ 
+Goh, C. (2021). Strategies for post-Covid-19 prospects of Sabah’s tourist market–Reactions to shocks caused by pandemic or reflection 
+for sustainable tourism?. Research in Globalization, 3, 100056. https://doi.org/10.1016/j.resglo.2021.100056 
+
+
+Ingrid FONSECA, Camila GALEANO, Leidy ROA 
+ 
+ 
+1066 
+Hamón, A. (2008). Cómo llevar a cabo un turismo sostenible en Monserrate? [How to implement sustainable tourism in Monserrate?] 
+Turismo y Sociedad, 9, 135–155 (in Spanish), Recuperado de https://revistas.uexternado.edu.co/index.php/tursoc/article/view/434 
+Harb, A., Alhammad, F. A., Almajali, T. A., Freewan, A., Shkokani, H. M. K., & Slehat, M. (2025). Promoting Tourism 
+Sustainability in Jordan: Policy Effectiveness and Stakeholders Perspectives. Contemporary Review of the Middle East, 0(0). 
+https://doi.org/10.1177/23477989251319625 
+Jóźwiak, M., & Sieg, P. (2021). Tourism development in post-industrial facilities as a regional business model. Sustainability, 13(4), 
+2028. https://doi.org/10.3390/su13042028 
+Lee, H., & Jan, H. (2019). Can community-based tourism contribute to sustainable development? Evidence from residents’ perceptions 
+of the sustainability. Tourism Management, 70, 368-380. https://doi.org/10.1016/j.tourman.2018.09.003 
+Lőrincz, K., Banász, Z., & Csapó, J. (2020). Customer involvement in sustainable tourism planning at Lake Balaton, Hungary—Analysis 
+of the consumer preferences of the active cycling tourists. Sustainability, 12(12), 5174.https://doi.org/10.3390/su12125174 
+Mandić, A., Petrić, L., & Pivčević, S. (2025). Harmonizing sustainability and resilience in post-crisis cultural tourism: Stakeholder insights from 
+the split metropolitan area living lab. Tourism Management Perspectives, 55, 101331. https://doi.org/10.1016/j.tmp.2024.101331 
+Manzoor, F., Wei, L., Asif, M., Haq, M. Z. U., & Rehman, H. U. (2019). The contribution of sustainable tourism to economic growth 
+and employment in Pakistan. International journal of environmental research and public health, 16(19), 3785. https://doi.org/ 
+10.3390/ijerph16193785 
+Marchan, C., Moscoso, K., & Vásquez, M. (2023). Estudio de la calidad de los servicios turísticos y seguridad turística en Huanta, Perú 
+[Study of the quality of tourist services and tourist safety in Huanta, Peru], Revista Universidad y Sociedad, 15(1),163-175 (in Spanish), 
+Recuperado en 18 de julio de 2024. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2218-36202023000100017&lng=es&tlng=es 
+Mendoza, M., Viteri, V., Vera, V., & Vega, R. (2023). Estrategias para la Gestión Sostenible del Turismo en la Ruta del Manglar, 
+Ecuador [Strategies for Sustainable Management of Tourism in the Mangrove Route, Ecuador], 593 Digital Publisher CEIT, 8(1), 
+188-202 (in Spanish), https://doi.org/10.33386/593dp.2023.1.1390 
+Moreira, J., Bravo, L., & Macías, N. (2022). Realidades del turismo comunitario en Manabí–Ecuador. [Realities of community tourism in Manabí, 
+Ecuador.], RECUS: Revista Electrónica Cooperación Universidad Sociedad, 7(1), 45-57 (in Spanish). https://doi.org/10.33936/recus.v7i1.4211 
+Mori, M., Ramírez Pepe, O. M., García Rivas Plata, C. E., & Ishuiza Tapullima, R. (2022). Turismo sostenible teniendo como base la 
+evaluación de geositios [Sustainable tourism based on geosite assessment]. Revista Universidad y Sociedad, 14(3), 202-216 (in 
+Spanish), https://rus.ucf.edu.cu/index.php/rus/article/view/2858 
+Muresan, I., Oroian, C., Harun, R., Arion, F., Porutiu, A., Chiciudean, G., & Lile, R. (2016). Local residents’ attitude toward sustainable 
+rural tourism development. Sustainability, 8(1), 100. https://doi.org/10.3390/su8010100  
+Mwesiumo, D., Halfdanarson, J., & Shlopak, M. (2022). Navigating the early stages of a large sustainability-oriented rural tourism development 
+project: Lessons from Træna, Norway. Tourism Management, 89, 104456. https://doi.org/10.1016/j.tourman.2021.104456 
+Olszewski-Strzyżowski, D. (2022). Promotional activities of selected National Tourism Organizations (NTOs) in the light of sustainable 
+tourism (including sustainable transport). Sustainability, 14(5), 2561. https://doi.org/10.3390/su14052561 
+Ortega, R., Delgado, E., & Sánchez, J. (2021). Evolución del turismo cultural: Estudio de caso para el desarrollo de un ecomuseo en la 
+provincia de Manabí, Ecuador [Evolution of cultural tourism: Case study for the development of an ecomuseum in the province of 
+Manabí, Ecuador], Historia Actual Online (54), 143-156 (in Spanish), https://doi.org/10.36132/hao.vi54.2034 
+Pérez, V. E. (2024). Assessment of the sustainability of Cuban nature-based tourism destinations with the DEA approach under different weighting 
+schemes. Journal of Environmental Planning and Management, 67(6), 1347-1366. https://doi.org/10.1080/09640568.2023.2168523 
+Polukhina, A., Sheresheva, M., Efremova, M., Suranova, O., Agalakova, O., & Antonov-Ovseenko, A. (2021). The concept of 
+sustainable rural tourism development in the face of COVID-19 crisis: Evidence from Russia. Journal of Risk and Financial 
+Management, 14(1), 38. https://doi.org/10.3390/jrfm14010038 
+Purnomo, A. (2021). Development of Local Food in Tourism for Supporting Sustainable Indonesia Tourism Development. In In Proceedings of the 
+3rd International Conference on Social Sciences, Laws, Arts and Humanities, 104-109.  https://doi.org/10.5220/0010003301040109 
+Rodríguez-Rodríguez, S. (2018). Turismo comunitario en Colombia: ¿retórica de Estado? [Community-based tourism in Colombia: State 
+rhetoric?], Turismo y sociedad, 22, 195-212 (in Spanish). https://doi.org/10.18601/01207555.n22.10. 
+Sancho, A. (2005). Impactos Del Turismo Sostenible Sobre La Población Local [Impacts of Sustainable Tourism on Local Populations]. 
+Anuario Turismo y Sociedad (4), 7-38. https://www.redalyc.org/articulo.oa?id=576276622001 
+Seidualin, D., Mussina, K., & Mukanov, A. (2025). Leveraging territorial branding for sustainable development and tourist attraction: 
+Case of Ulytau, Kazakhstan. Geojournal of Tourism and Geosites, 58(1), 61–77. https://doi.org/10.30892/gtg.58106-1391 
+Soares, J. R. R., Casado-Claro, M. F., Lezcano-González, M. E., Sánchez-Fernández, M. D., Gabriel, L. P. M. C., & Abríl-Sellarés, M. (2021). 
+The Role of the Local Host Community’s Involvement in the Development of Tourism: A Case Study of the Residents’ Perceptions toward 
+Tourism on the Route of Santiago de Compostela (Spain). Sustainability, 13(17), 9576. https://doi.org/10.3390/su13179576  
+Stoiljković, A., Marcikić Horvat, A., & Tomić, S. (2025). Assessing the Tourism Efficiency of European Countries Using Data 
+Envelopment Analysis: A Sustainability Approach. Sustainability, 17(4), 1493. https://doi.org/10.3390/su17041493 
+Sudarmanto, E., Budi Raharjo, B., Kristiyanto, A., Sulaiman, S., Setyawati, H., Priyono, B., & Jariono, G. (2025). Una Revisión Sistemática Para 
+El Desarrollo De Destinos Turísticos Sostenibles Basados En El Turismo Deportivo [A Systematic Review For The Development Of 
+Sustainable Tourism Destinations Based On Sports Tourism]. Retos, 62, 646–654 (in Spanish). https://doi.org/10.47197/retos.v62.108401 
+Suluo, S., Mossberg, L., Andersson, T., Anderson, W., & Assad, M. (2023). Corporate sustainability practices in tourism - Evidence 
+from Tanzania. Tourism planning & development, 20(5), 747-768. https://doi.org/10.1080/21568316.2020.1850515 
+Tinoco, O. (2003). Los impactos del turismo en el Perú [The impacts of tourism in Peru]. Industrial data, 6(1), 47-60 (in Spanish).  
+https://doi.org/10.15381/idata.v6i1.5982 
+Tolkach, D., & King, B. (2015). Strengthening Community-Based Tourism in a new resource-based island nation: Why and how?. 
+Tourism Management, 48, 386-398.https://doi.org/10.1016/j.tourman.2014.12.013 
+Trigo, A., & Silva, P. (2022). Directions for sustainable development for wine tourism in the Douro wine region, Portugal. Sustainability, 
+14(7), 3949 (in Spanish) https://doi.org/10.3390/su14073949 
+United Nations' (2023) Objetivos de desarrollo sostenible [Sustainable Development Goals] (in Spanish). https://www.un.org/sustainable 
+development/es/objetivos-de-desarrollo-sostenible/. 
+Więckowski, M. (2021). Will the consequences of COVID-19 trigger a redefining of the role of transport in the development of 
+sustainable tourism?. Sustainability, 13(4), 1887.  https://doi.org/10.3390/su13041887 
+Zeng, X., Li, Y., Zhang, C., & Yang, X. (2024). Sustainable entrepreneurship in tourism: The interaction between tourism enterprise and 
+community. Journal of Hospitality and Tourism Management, 60, 429-440. https://doi.org/10.1016/j.jhtm.2024.09.001 
+ 
+ 
+Article history: 
+Received: 19.01.2025 
+Revised: 29.04.2025 
+Accepted: 26.05.2025 
+Available online: 30.06.2025 
+ 

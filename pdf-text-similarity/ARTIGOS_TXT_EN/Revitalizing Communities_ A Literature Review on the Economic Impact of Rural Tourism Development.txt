@@ -1,0 +1,361 @@
+ 
+Spring 2025, Vol. 19 No. 1 
+ 
+Page 170 
+ 
+Revitalizing Communities: A Literature Review on the 
+Economic Impact of Rural Tourism Development 
+ 
+Michael J. Bradley, Arkansas Tech University 
+Curtis Clemens, Frostburg State University 
+Emmalee Floyd, Eastern Kentucky University 
+Jay D. Post, Arkansas Tech University 
+ 
+ABSTRACT 
+Rural tourism development offers communities a potential pathway for economic 
+revitalization, especially in regions facing population decline and industrial restructuring. 
+This literature review explores the economic impacts of rural tourism by examining 
+current research on infrastructure investment, job creation, small business 
+development, and local revenue generation. Using a systematic search of peer-
+reviewed articles from databases such as ProQuest and Scopus, the authors identified 
+and analyzed recent scholarship published between 2015 and 2024. The review finds 
+that while tourism can significantly contribute to local economies, successful outcomes 
+depend on strategic planning, community engagement, and the integration of cultural 
+assets. This paper synthesizes findings into key economic themes and proposes a 
+framework for future research and community practice. The study offers theoretical 
+insight into rural development strategies and practical guidance for policymakers and 
+tourism planners. 
+Keywords: Economic development, tourism infrastructure, sustainable tourism, local 
+economics, small business development 
+ 
+INTRODUCTION 
+Rural communities across the United States are facing increasing economic 
+pressures due to shifts in industry, population decline, and reduced access to traditional 
+development resources. As these communities seek alternative pathways for 
+revitalization, rural tourism has emerged as a promising strategy to stimulate local 
+economies. Rural tourism, broadly defined, includes travel and visitor experiences 
+centered in small towns or countryside areas, often emphasizing natural, historical, or 
+cultural assets. It represents an opportunity to attract external revenue, support small 
+businesses, create employment, and encourage investment in infrastructure and public 
+services. 
+In the wake of shifting population patterns and post-pandemic economic recovery 
+efforts, rural communities are increasingly exploring tourism as a tool for long-term 
+ 
+Spring 2025, Vol. 19 No. 1 
+ 
+Page 171 
+ 
+sustainability. However, despite growing interest, there remains a need for a clearer 
+understanding of how, and to what extent, tourism development contributes to 
+measurable economic outcomes. This includes impacts on job creation, business 
+growth, public revenues, and infrastructure investment. While rural tourism offers 
+significant opportunities, it has challenges, including seasonality, income variability, and 
+potential overdependence on a single sector. Understanding these dynamics is 
+essential for planning and managing tourism in ways that truly benefit host communities. 
+This literature review responds to these needs by synthesizing recent research 
+on the economic impacts of rural tourism. It is particularly relevant for economic 
+development professionals, tourism planners, nonprofit leaders, and local government 
+officials seeking to ground their decision-making in evidence-based insights. Drawing on 
+a structured review of peer-reviewed literature published between 2000 and 2024, the 
+paper identifies key themes and frameworks that shape current understanding of rural 
+tourism’s economic role. The following sections provide a review of relevant literature, 
+an analysis of core economic themes, practical and theoretical implications, and 
+recommendations for future research. 
+METHODOLOGY 
+This paper employs a structured literature review methodology to synthesize 
+existing research on the economic impacts of rural tourism development. The authors 
+conducted a comprehensive search of peer-reviewed academic journals using 
+databases including ProQuest, Scopus, and Google Scholar. Keywords used in the 
+search included “rural tourism development,” “economic impact,” “rural revitalization,” 
+“tourism infrastructure,” and “community economic growth.” 
+The review focused on literature published between 2000 and 2024, with a 
+particular emphasis on studies from the last decade to capture recent trends and 
+emerging perspectives. Only English-language, peer-reviewed articles were included. 
+An initial pool of sources was refined based on relevance to rural settings and economic 
+outcomes, resulting in the inclusion of 27 articles. These sources were analyzed 
+thematically, focusing on tourism’s influence on job creation, infrastructure investment, 
+small business development, and local revenue generation. 
+This review approach allows for the identification of key economic themes and 
+practical considerations for policymakers and community leaders seeking to leverage 
+tourism for rural development. 
+LITERATURE REVIEW 
+Tourism’s potential to stimulate rural economies has been well-documented across 
+several decades of research. Early work (e.g., Fredrick, 1993; Wilson, Fesenmaier, 
+Fesenmaier, & Van Es, 2001) established a foundation for understanding tourism as a 
+tool for small business growth, infrastructure investment, and job creation in rural 
+settings. More recent scholarship (e.g., He et al., 2021; Khasawneh et al., 2023; da 
+Mota et al., 2024) builds upon this foundation by examining the nuanced economic 
+ 
+Spring 2025, Vol. 19 No. 1 
+ 
+Page 172 
+ 
+mechanisms through which rural tourism contributes to community development and 
+resilience. 
+Infrastructure and Investment 
+A frequently cited benefit of rural tourism development is the investment it draws 
+into local infrastructure. This includes roads, transportation systems, utility 
+improvements, broadband access, signage, and recreational spaces (Shi & Fan, 2022). 
+Rural areas often struggle to secure such improvements through traditional funding 
+mechanisms; however, tourism provides a rationale for investment from public and 
+private entities. For example, Wilson et al. (2001) found that towns investing in clean 
+streets, flower displays, and wayfinding signage improved visitor satisfaction and 
+encouraged return tourism. Similarly, Khasawneh et al. (2023) identified infrastructure 
+upgrades, such as renovated historic buildings and improved telecommunication 
+systems, as key drivers of tourist attractions in rural Jordan. 
+Moreover, infrastructure improvements often benefit residents as much as tourists. 
+Upgraded roads, water systems, and broadband access improve quality of life and can 
+lead to secondary economic benefits such as attracting new residents or businesses 
+(Camilleri, 2018; Kumar, Valeri, & Shekhar, 2022). 
+Employment and Labor Markets 
+Tourism is often framed as a job generator for rural communities, particularly in 
+hospitality, retail, food service, and recreation sectors. Fredrick (1993) noted early on 
+that rural tourism could create jobs, though many were seasonal or part-time. More 
+recent studies, such as those by Stolarick et al. (2010) and Wijijayanti et al. (2020), 
+affirm that job creation remains a central economic driver but suggest that communities 
+must focus on fostering entrepreneurship and permanent employment opportunities to 
+maximize long-term benefits. For example, the development of heritage-based tourism 
+in Prince Edward County, Canada, led to the expansion of tourism-related services and 
+supported year-round employment through cultural programming and event 
+coordination (Stolarick et al., 2010). Similarly, rural communities in Indonesia observed 
+job growth extended beyond tourism-specific roles to include secondary sectors such as 
+transportation, agriculture, and retail (Wijijayanti et al., 2020). 
+However, several authors caution that relying solely on tourism for employment 
+can reinforce income volatility. Camilleri (2018) and Dogan (1989) emphasize 
+employment gains must be accompanied by workforce development efforts to ensure 
+jobs are stable, adequately paid, and socially sustainable. 
+Entrepreneurship and Small Business Growth 
+Tourism often supports the growth of small and micro-businesses in rural 
+communities. These include lodging facilities (e.g., bed and breakfasts, cabins), guided 
+experiences (e.g., fishing, hiking, or historical tours), artisan markets, cafes, and gift 
+shops. MacDonald and Jolliffe (2003) and da Mota et al. (2024) argue that rural 
+ 
+Spring 2025, Vol. 19 No. 1 
+ 
+Page 173 
+ 
+tourism’s most transformative potential lies in its ability to spark local entrepreneurship 
+and strengthen community identity through place-based businesses. 
+Case examples include Mirandela, Portugal, where gastronomy tourism 
+revitalized small farms and food producers (da Mota et al., 2024), and Fort 
+Boonesborough State Park in Kentucky, where historical reenactments and heritage-
+based programming support not only cultural preservation but also local vendor and 
+service economies (Kentucky State Parks, n.d.). 
+He et al. (2021) further show that sustainable tourism can strengthen community 
+institutions and stimulate intergenerational investment when residents feel empowered 
+to launch and lead tourism enterprises. 
+Public Revenue and Fiscal Impact 
+Several studies highlight the role of tourism in generating new streams of public 
+revenue. Tourism contributes directly through lodging and sales taxes, park entrance 
+fees, special event permits, and indirectly by revitalizing districts that increase property 
+values and reduce vacancy rates (Zhu et al., 2024). In rural China, for instance, tourism 
+development in agricultural resorts increased local government revenue while 
+decreasing reliance on subsidized farming (Zhu et al., 2024). 
+In the U.S. context, rural communities often use tax revenue from tourism to 
+reinvest in public services, education, and community beautification projects (Wilson et 
+al., 2001; Moraru, Bodescu, & Șumovschi, 2023). These reinvestments reinforce the 
+tourism economy in a positive feedback loop while supporting residents’ quality of life. 
+However, researchers like Lieberthal et al. (2024) caution that tourism revenue is highly 
+sensitive to global economic and health events, such as the COVID-19 pandemic, 
+underscoring the need for diversified fiscal strategies within tourism planning. 
+The reviewed literature reveals that rural tourism has the potential to stimulate 
+economic development through multiple channels, including infrastructure investment, 
+job creation, entrepreneurship, and public revenue generation. However, the magnitude 
+and sustainability of these impacts depend on thoughtful planning, local leadership, and 
+inclusive economic strategies. Across recent studies show a clear shift from tourism as 
+a static revenue source to tourism as a dynamic economic development system, where 
+success depends on empowering communities to shape and benefit from tourism in 
+ways that align with their long-term goals. 
+MAJOR THEMES IN RURAL TOURISM’S ECONOMIC IMPACT 
+The literature reveals a set of recurring themes that illustrate the complex, 
+layered nature of rural tourism’s economic impact. These themes reflect the 
+opportunities and the structural conditions that shape whether tourism becomes a 
+catalyst for local revitalization or a missed opportunity. The following synthesis presents 
+four interrelated themes that can guide future research and practice in rural tourism 
+development. 
+  
+ 
+Spring 2025, Vol. 19 No. 1 
+ 
+Page 174 
+ 
+Tourism as a Strategy for Economic Diversification 
+Rural economies that once relied on agriculture, mining, or manufacturing 
+increasingly use tourism to diversify their economic base. This shift allows communities 
+to reduce dependence on declining industries while tapping into visitor spending and 
+cultural heritage assets. As Wilson et al. (2001) and Sidali et al. (2015) noted, the most 
+resilient rural economies embrace tourism not as a replacement industry but as part of a 
+broader diversification strategy, incorporating food tourism, outdoor recreation, and 
+cultural experiences. Communities integrating tourism with existing sectors (e.g., 
+agritourism on family farms or nature tourism in conservation areas) create more 
+durable economic ecosystems. 
+Empowering Local Ownership and Entrepreneurship 
+A consistent theme in recent literature is the importance of local ownership in 
+determining whether tourism benefits the community or external investors. Locally 
+owned small businesses, such as guesthouses, guide services, and local food 
+providers, not only keep profits circulating within the community but also promote 
+authentic experiences that differentiate rural destinations (MacDonald & Jolliffe, 2003; 
+He et al., 2021; da Mota et al., 2024). These businesses often reflect cultural values and 
+regional identity, creating a deeper connection between visitors and host communities. 
+Entrepreneurial training and support are critical to help residents navigate business 
+development in a tourism economy. 
+Readiness through Infrastructure and Institutional Capacity 
+Successful rural tourism requires more than attractive landscapes or historic 
+sites; it demands readiness in terms of infrastructure, public services, and local 
+institutions. Communities that lack reliable transportation networks, accommodations, or 
+clear zoning policies often struggle to scale tourism effectively. Khasawneh et al. (2023) 
+and Shi & Fan (2022) emphasize that infrastructure readiness, including broadband, 
+road access, and signage, plays a pivotal role in attracting and retaining visitors. Equally 
+important is institutional capacity: local governments, tourism boards, and development 
+organizations must be equipped to manage growth, coordinate stakeholders, and 
+secure funding. 
+Strategic Investment and Policy Support 
+Public policy and financial investment, at the local, state, or national level, are 
+critical in shaping the trajectory of rural tourism development. Fiscal tools such as 
+tourism improvement districts, grant funding, and small business incentives can 
+encourage private-sector engagement while ensuring public benefits. Research by Zhu 
+et al. (2024) and Kumar et al. (2022) suggests that communities with proactive tourism 
+strategies, rooted in data, stakeholder input, and long-term vision, are more likely to 
+realize sustained economic benefits. Furthermore, the involvement of community 
+members in shaping tourism policy increases the legitimacy, inclusivity, and success of 
+tourism initiatives (Đurkin et al., 2017). 
+ 
+Spring 2025, Vol. 19 No. 1 
+ 
+Page 175 
+ 
+Synthesizing these themes suggests a conceptual framework in which tourism 
+serves as an economic development tool only when certain conditions are met: 
+diversification is intentional, local ownership is prioritized, infrastructure is in place, and 
+policy support is strong. These themes reinforce that tourism is not a plug-and-play 
+solution but a community-based process that unfolds over time. Future research and 
+practice should explore how these dimensions intersect across rural contexts and how 
+community readiness can be systematically assessed before pursuing tourism 
+development. 
+LIMITATIONS AND FUTURE DIRECTIONS 
+While this review provides a synthesized understanding of the economic impacts 
+of rural tourism, it is not without limitations. First, the scope of the analysis was limited to 
+peer-reviewed English-language literature, which may exclude valuable insights from 
+non-English or practice-based sources such as regional development reports, 
+community plans, or gray literature. Additionally, although care was taken to emphasize 
+recent scholarship, several foundational studies cited predate 2010, reflecting the 
+relatively slower pace of research dissemination in rural development contexts. 
+Another limitation lies in the diversity of rural communities themselves. The term 
+“rural” encompasses a wide range of geographies, cultures, and economic realities. 
+This review does not attempt to account for every contextual variation, so its findings 
+should be interpreted as broadly informative rather than universally prescriptive. There 
+is also a need for more comparative studies that assess tourism’s economic impact 
+across rural regions with differing resource levels, population sizes, or proximity to 
+urban markets. 
+Future research should explore the development of standardized metrics for 
+assessing tourism’s economic outcomes in rural areas, including long-term impacts on 
+income inequality, housing, and labor market stability. Additionally, empirical studies are 
+needed to evaluate the success of specific policy interventions, such as tax incentives, 
+grant programs, and tourism zoning ordinances, to support rural tourism development. 
+Mixed-methods research, including participatory action studies with local stakeholders, 
+may also offer deeper insights into the lived realities of tourism-driven change in rural 
+communities. 
+Finally, future work would benefit from stronger interdisciplinary approaches 
+integrating economics, sociology, planning, and environmental science. This would 
+support more holistic and context-sensitive planning frameworks that can help rural 
+communities attract tourism and ensure it contributes meaningfully to long-term vitality 
+and resilience. 
+CONCLUSION 
+Rural tourism offers a promising, but complex, pathway for economic 
+revitalization in communities facing structural decline and limited development options. 
+As this literature review demonstrates, tourism can stimulate local economies by 
+creating jobs, encouraging entrepreneurship, supporting infrastructure investment, and 
+ 
+Spring 2025, Vol. 19 No. 1 
+ 
+Page 176 
+ 
+generating public revenue. However, these benefits are not guaranteed. Their 
+realization depends on thoughtful planning, inclusive governance, adequate 
+infrastructure, and policies prioritizing local ownership and long-term sustainability. 
+This review contributes to the growing body of knowledge that positions rural 
+tourism as an industry vehicle for economic diversification and community 
+empowerment. This paper provides a conceptual framework that can inform future 
+research and practical decision-making by focusing on key economic dimensions, 
+including diversification strategies, entrepreneurship, infrastructure readiness, and 
+policy support. The themes identified herein underscore the importance of local context, 
+community engagement, and a systems-oriented approach to development. 
+To move from potential to practice, rural communities must develop strategies 
+rooted in evidence, sensitive to local values, and adaptable to changing conditions. 
+Policymakers and planners should consider tourism not as an end but as part of a 
+broader, integrated approach to rural economic development. With the right vision, 
+investment, and community involvement, rural tourism can be a powerful tool to support 
+visitor experiences, resident well-being, and long-term community resilience. 
+REFERENCES 
+Camilleri, M. A. (2018). Travel marketing, tourism economics and the airline product: An 
+introduction to theory and practice. Springer. 
+da Mota, C. V., Rodrigues, R. I., Palrão, T., & Madeira, A. (2024). The role of 
+gastronomy as a driver of rural tourism development: The case of Mirandela. 
+European Countryside, 16(3), 480–499. https://doi.org/10.2478/euco-2024-0025 
+Doǧan, H. Z. (1989). Forms of adjustment: Sociocultural impacts of tourism. Annals of 
+tourism research, 16(2), 216-236. 
+Đurkin, J., Perić, M., & Šebrek, J. K. (2017). Addressing organisational challanges of 
+cultural tourism in rural areas through community-based tourism model. Tourism 
+in Southern and Eastern Europe, 4, 145-157. 
+Fredrick, M. (1993). Rural Tourism and Economic Development. Economic 
+Development Quarterly 7, 215-224. 
+He, Y., Gao, X., Wu, R., Wang, Y., & Choi, B. R. (2021). How does sustainable rural 
+tourism cause rural community development? Sustainability, 13(24), 13516. 
+https://doi.org/10.3390/su132413516 
+Huang, Y. H., & Stewart, W. P. (1996). Rural tourism development: Shifting basis of 
+community solidarity. Journal of Travel Research, 34(4), 26-31. 
+Kentucky State Parks. (n.d.). Fort Boonesborough State Park. 
+https://parks.ky.gov/richmond/parks/historic/fort-boonesborough-state-park 
+Khasawneh, N. A., Al Rousan, R., Bader, M., Mayyas, A. S., & Slehat, M. (2023). 
+Perceptions of local community towards tourism development: A study on rural 
+ 
+Spring 2025, Vol. 19 No. 1 
+ 
+Page 177 
+ 
+tourism sites of Jordan. Geo Journal of Tourism and Geosites, 50(4), 1232–1239. 
+DOI 10.30892/gtg.50403-1121 
+Kumar, S., Valeri, M., & Shekhar. (2022). Understanding the relationship among factors 
+influencing rural tourism: a hierarchical approach. Journal of Organizational 
+Change Management, 35(2), 385–407. https://doi.org/10.1108/JOCM-01-2021-
+0006 
+Lane, B. (2005). Sustainable rural tourism strategies: A tool for development and 
+conservation. Revista Interamericana de Ambiente y Turismo-RIAT, 1(1), 12-18. 
+Lieberthal, B., Jackson, S., & de Urioste-Stone, S. (2024). Risk perceptions and 
+behaviors concerning rural tourism and economic-political drivers of COVID-19 
+policy in 2020. PLoS ONE, 19(4), 1–24. 
+https://doi.org/10.1371/journal.pone.0299841 
+MacDonald, R., & Jolliffe, L. (2003). Cultural rural tourism: Evidence from 
+Canada. Annals of tourism research, 30(2), 307-322. 
+Moraru, R.-A., Bodescu, D., & Șumovschi, D. C. (2023). Socio-Cultural effects of rural 
+tourism development on the host communities. Agronomy Series of Scientific 
+Research; Lucrări Ştiinţifice Seria Agronomie, 66(2), 157–160. 
+https://repository.iuls.ro/xmlui/handle/20.500.12811/4432 
+Shi, B., & Fan, H. (2022). New Path Innovation of Rural Tourism Development Based 
+on Mobile Communication. Mobile Information Systems, 2022(1), 5772204. 
+Sidali, K. L., Kastenholz, E., & Bianchi, R. (2015). Food tourism, niche markets and 
+products in rural tourism: combining the intimacy model and the experience 
+economy as a rural development strategy. Journal of Sustainable Tourism, 23(8-
+9), 1179–1197. https://doi.org/10.1080/09669582.2013.836210 
+Stolarick, K. M., Denstedt, M., Donald, B., & Spencer, G. M. (2010). Creativity, tourism 
+and economic development in a rural context: The case of Prince Edward 
+County. Journal of Rural and Community Development, 5(1). 
+Ting, X, Wai, C.W., & Ting, L. (2023). Rural perception on tourists’ willingness to revisit 
+in rural tourism: a study of Ma Wei Yi folk culture village, Shaanxi Province, 
+China. Ciência Rural, 53(9), 1–12. https://doi.org/10.1590/0103-8478cr20210856 
+Wijijayanti, T., Agustina, Y., Winarno, A., Istanti, L. N., & Dharma, B. A. (2020). Rural 
+tourism: a local economic development. Australasian Accounting Business & 
+Finance Journal, 14(1), 0. http://dx.doi.org/10.14453/aabfj.v14i1.2 
+Wilson, S., Fesenmaier, D. R., Fesenmaier, J., & Van Es, J. C. (2001). Factors for 
+success in rural tourism development. Journal of Travel research, 40(2), 132-
+138. 
+Zhu, L., Hu, J., Xu, J., Li, Y., Xie, T., & Liang, M. (2024). Spatial distribution patterns 
+and factors influencing rural tourism destinations: An empirical study of China’s 
+ 
+Spring 2025, Vol. 19 No. 1 
+ 
+Page 178 
+ 
+agritainment resorts. PLoS ONE, 19(9), 1–29. 
+https://doi.org/10.1371/journal.pone.0308415 
+ 

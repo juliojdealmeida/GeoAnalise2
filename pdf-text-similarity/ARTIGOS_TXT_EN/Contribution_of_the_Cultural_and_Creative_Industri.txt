@@ -1,0 +1,1466 @@
+Citation: Kalfas, D.; Kalogiannidis, S.;
+Ambas, V .; Chatzitheodoridis, F.
+Contribution of the Cultural and
+Creative Industries to Regional
+Development and Revitalization:
+A European Perspective. Urban Sci.
+2024, 8, 39. https://doi.org/10.3390/
+urbansci8020039
+Academic Editors: Qiyang Liu,
+Zhengying Liu and Mengqiu Cao
+Received: 29 March 2024
+Revised: 17 April 2024
+Accepted: 18 April 2024
+Published: 22 April 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Article
+Contribution of the Cultural and Creative Industries to Regional
+Development and Revitalization: A European Perspective
+Dimitrios Kalfas 1,*
+ , Stavros Kalogiannidis 2,*
+ , Vasilios Ambas 1
+ and Fotios Chatzitheodoridis 3
+1 Department of Agriculture, School of Agricultural Sciences, University of Western Macedonia,
+53100 Florina, Greece; vampas@uowm.gr
+2 Department of Business Administration, University of Western Macedonia, 51100 Grevena, Greece
+3 Department of Management Science and Technology, University of Western Macedonia, 50100 Kozani, Greece;
+fxtheodoridis@uowm.gr
+* Correspondence: kalfdimi@otenet.gr (D.K.); aff00056@uowm.gr (S.K.)
+Abstract: Cultural and Creative Industries (CCIs) have emerged as powerful drivers of regional
+development and revitalization in Europe in recent years. This study explores the impact of CCIs
+on European regions, focusing on their economic, social, and cultural contributions. Drawing on
+extensive literature review and empirical research, this study examines the role of CCIs in job
+creation, GDP growth, innovation, social cohesion, cultural identity, urban regeneration, and the
+revitalization of declining areas. Data were collected using questionnaires distributed to 345 key
+players in the Cultural and Creative Industry of Greece. The findings reveal that CCIs significantly
+enhance job opportunities in European regions, with 74.4% of participants acknowledging their role
+in reducing unemployment and underemployment. Moreover, 71.4% recognized the substantial
+contribution of CCIs to regional GDP , highlighting that their economic importance is comparable
+to traditional industries. CCIs are seen as catalysts for social cohesion and cultural identity, as
+75.6% of respondents attested to their role in uniting diverse communities. These results emphasize
+the sensitivity of CCIs to the existing cultural and historical context of these areas. Furthermore,
+this study identifies outcomes of regional development and revitalization, including improved
+education facilities (21.7%), preservation of regional cultural heritage (14.6%), and enhanced business
+relations (26.7%). Regression analysis demonstrated a strong association between CCIs and regional
+development and revitalization. This study provides comprehensive insights into the contributions
+of CCIs to regional development and revitalization in Europe. Policymakers, practitioners, and
+stakeholders can use these findings to harness the full potential of CCIs for sustainable and inclusive
+regional development.
+Keywords: cultural and creative industries (CCIs); social cohesion; cultural identity; urbanregeneration;
+regional development and revitalization; urban development
+1. Introduction
+Researchers, decision-makers, and interested parties from all over the world have paid
+close attention to the Cultural and Creative Industries (CCIs) throughout the last 20 years.
+They are now major actors in regional growth and rejuvenation, especially in the European
+setting, thanks to their diverse effects on the social, cultural, and economic landscape [1].
+A fundamental characteristic of CCIs is their innate capacity to combine business, creativity,
+and culture. By creating jobs, fostering commerce, and revitalizing cities, they not only
+support cultural heritage preservation and promotion but also advance economic progress.
+Saucedo-Estrada (2022) [2] argues that CCIs play a crucial role in modern economies by
+serving as a crossroads between cultural ideals and financial gains; but there are a lot of
+moving parts in the CCI arena. One of the main problems is that there is no definition that
+is widely agreed upon, which causes confusion and inconsistent application of policies.
+Urban Sci. 2024, 8, 39. https://doi.org/10.3390/urbansci8020039 https://www.mdpi.com/journal/urbansci
+Urban Sci. 2024, 8, 39 2 of 22
+Notwithstanding the substantial amount of previous study, terminological clarity is still
+elusive, which makes it challenging to identify and fully use CCIs. A broad framework is
+provided by the UNESCO definition of CCIs, which is defined as “sectors of organized
+activity whose principal purpose is the production or reproduction, promotion, distribution
+and/or commercialization of goods, services and activities of a cultural, artistic or heritage-
+related nature” [3]. However, this reinforces the need for context-specific comprehension
+suited to unique local, regional, or national issues [4–7].
+The phrase “cultural and creative sectors” (CCSs) is now used in the European Union
+to refer to the wider range of activities that fall under this umbrella [8]. These industries
+have become important engines of creativity, entrepreneurship, and competitiveness in the
+area. As an example, research published by the European Commission reveals that CCSs
+contribute between 5% and 10% of the EU GDP , which is a major boost to the economy [9].
+The entire potential of CCIs is still mostly unrealized at the regional level, despite these
+remarkable numbers at the national level. There are many reasons for this underutilization.
+First of all, cross-national comparisons and benchmarking are made more difficult by the
+diverse nature of CCI definitions throughout nations [ 10]. Second, it might be difficult
+to determine the exact extent to which CCIs affect local economies due to differences in
+data-collection methods at the national and regional levels. Last but not least, a clear
+understanding of CCI contributions is further hampered by their incorporation into a
+variety of economic output measures within distinct regional economic paradigms [11].
+Within academic and governmental circles, there is a growing recognition of the poten-
+tial of Cultural and Creative Industries (CCIs) to propel regional growth and rejuvenation.
+These sectors are seen as stimulants for social innovation and cultural vitality in addition
+to being economic engines [12,13]. CCIs have been shown to be essential for promoting
+resilience, competitiveness, and regional development in the European setting. But even
+while their significance is becoming more widely acknowledged, a number of obstacles
+stand in the way of their potential to be fully realized. The lack of clarity in the definition
+of CCIs is one of the main obstacles [14]. The creation of frameworks for the support and
+development of targeted policies as well as the design of policies themselves are hampered
+by the absence of a widely recognized definition. According to ˇCerneviˇ ci˝ ot˙e (2019) [15]
+and Taylor (2009) [16], the European Commission acknowledges the diversity of CCIs,
+including a wide spectrum of industries from traditional arts and crafts to digital media
+and design. But this variety also makes evaluating and comparing their contributions to
+local economies more difficult; it is difficult to determine the actual effect of CCIs because
+of the uncertainty in their definition and classification, which results in variations in policy
+approaches and data-gathering techniques throughout various European areas. For CCIs,
+the quickly evolving global environment, characterized by changes in consumer behavior,
+technology breakthroughs, and heightened competition, presents both possibilities and
+difficulties [17]. CCIs must always develop and adapt if they want to be relevant and
+competitive. Nonetheless, CCIs may find it difficult to obtain the resources and assistance
+required for sustained growth due to the erratic and fluctuating character of the creative
+market [18]. Given these difficulties, the goal of this research is to establish a thorough
+understanding of the effects and issues that CCIs face while exploring the contributions of
+CCIs to regional development and regeneration in the European context. By addressing
+these issues, this study aims to offer insights and recommendations for policymakers, prac-
+titioners, and stakeholders to harness the full potential of CCIs for regional development
+and revitalization.
+1.1. Purpose of the Study
+The primary purpose of this study is to investigate the contribution of CCIs to regional
+development and revitalization in Europe, understanding the breadth and depth of their
+impact. This means investigating CCI influences on economic development, social integra-
+tion, cultural identity, and urban regeneration. The goal is to generate data that can be used
+to design policies and form strategies to utilize CCIs for sustainable regional development.
+Urban Sci. 2024, 8, 39 3 of 22
+The purpose of this research is to fill the gaps in the existing studies by providing an
+all-around depiction of the influence of CCIs at the regional level in the context of Europe.
+1.2. Objectives of the Study
+• Examine the economic impact of CCIs on regional development in terms of job creation,
+GDP contribution, and innovation.
+• Evaluate the role of CCIs in promoting social cohesion and cultural identity within
+European regions.
+• Investigate the influence of CCIs on urban regeneration and the revitalization of
+declining areas.
+1.3. Research Questions
+1. How do CCIs contribute to economic growth and job creation in European regions?
+2. In what ways do CCIs foster social cohesion and cultural identity within these regions?
+3. What is the role of CCIs in urban regeneration and the revitalization ofdeclining areas?
+1.4. Research Hypotheses
+Hypothesis 1 (H1). CCIs have a positive impact on the economic development of European
+regions, contributing significantly to job creation and GDP growth.
+Hypothesis 2 (H2). CCIs play a crucial role in enhancing social cohesion and cultural
+identity within European regions.
+Hypothesis 3 (H3). CCIs are instrumental in the urban regeneration and revitalization of
+declining areas in Europe.
+1.5. Significance of the Study
+This study holds significant value for policymakers, regional planners, and stakehold-
+ers in the cultural sector. By elucidating the contribution of CCIs to regional development,
+it provides empirical evidence to guide strategic decision-making and policy formulation.
+The findings are intended to inform the allocation of resources, development of supportive
+infrastructure, and creation of conducive environments for the flourishing of CCIs and, by
+extension, regional development.
+2. Literature Review
+2.1. The Economic Contribution of Cultural and Creative Industries (CCIs)
+The Cultural and Creative Industries (CCIs) have long been recognized for their
+economic contributions to regional development. In the European context, where culture is
+diverse and deeply rooted, CCIs play a particularly crucial role in driving innovation, job
+creation, and economic growth [11]. This extensive examination of the economic impact of
+CCIs will delve into various facets including employment, GDP contribution, innovation,
+and foreign investment attraction. CCIs are significant employers within the European
+economy. According to a report by Eurostat (2022) [19], CCIs are responsible for 7.1 million
+jobs in the EU, which equates to 3.3% of all EU employees. This employment is not
+just confined to the stereotypical artistic professions but spans a wide range of job roles,
+including technical, administrative, and support positions. Additionally, CCIs tend to
+support a larger ecosystem of ancillary industries, thus indirectly creating more jobs [20].
+Moreover, the nature of jobs within CCIs means they often require a high level of creativity
+and critical thinking. Such skills are increasingly in demand in a global economy that
+is rapidly transitioning from traditional manufacturing to knowledge-based industries.
+Training and education within the CCI sectors often emphasize creativity, problem-solving,
+Urban Sci. 2024, 8, 39 4 of 22
+and flexibility, equipping the workforce with competencies that are transferable across
+sectors and highly valued in the contemporary market [21–23].
+Cinar & Coenen (2022) [24] note that the economic weight of CCIs is further under-
+scored by their contribution to the Gross Domestic Product (GDP). A European Commis-
+sion’s report highlighted that CCIs accounted for 2.6% of the EU’s GDP [ 25]. This is a
+significant figure, especially when compared to other industries like telecommunications
+and the automotive industry. It is important to note that these numbers often underesti-
+mate the total economic contribution of CCIs as their positive externalities extend beyond
+direct economic output [17]. CCIs are often at the forefront of technological and creative
+innovations. The video games industry is a prime example, often pushing the boundaries
+of what is possible in software development, graphics rendering, and user experience
+design. Such advancements often have ripple effects, influencing other sectors like educa-
+tion, healthcare, and even defense [26–28]. Furthermore, CCIs also play a pivotal role in
+shaping cross-sectoral synergies. Design, as an element of the creative industries, permeates
+sectors like manufacturing, retail, and technology. An innovative design not only enhances
+aesthetic appeal but also improves functionality and user experience, creating added value
+for products and services [15].
+CCIs have also been instrumental in attracting foreign direct investment (FDI) [ 8].
+Vibrant cultural sectors make regions more attractive to investors. According to Horizon
+Europe [29], cities that have held the title of European Capital of Culture (ECoC) have
+seen a marked increase in tourism and investment, exemplifying the magnetic pull of
+a thriving cultural scene. This attraction is not just limited to cultural capitals; regions
+with strong CCIs often draw more investment across various sectors, benefiting the wider
+economy [2,30,31].
+According to Lazaretou (2014) [32], CCIs have the potential to address regional dis-
+parities within Europe. Regions with strong CCIs tend to exhibit more robust economic
+growth [33]. For instance, cities like Berlin and Barcelona have leveraged their cultural
+sectors to transform their economies. However, this growth is not uniformly distributed,
+and some regions struggle to capitalize on their cultural assets. The European Commission
+has recognized this and has allocated structural funds to bolster CCIs in less developed
+regions, aiming to foster more balanced regional development [9]. Urban regeneration is
+another economic facet on which CCIs have had a noticeable impact. Deindustrialized cities
+have turned to CCIs as a means of revitalizing their economies [34]. The transformation
+of Bilbao with the Guggenheim Museum is a prime example of how CCIs can regenerate
+a city, boost tourism, and create jobs, generating what is often referred to as the “Bilbao
+Effect” [29].
+Stephen Browning (2018) [35] notes that CCIs in Europe encompass a diverse array of
+sectors, from traditional arts and crafts, heritage sites, music, books, and performances, to
+contemporary sectors such as film, television, radio, video games, and software. According
+to the report by the ILO (2022) [36], CCIs represent an impressive 4.2% of the EU’s total GDP .
+The sheer scale of this contribution underlines the central role that CCIs play in Europe’s
+economic landscape. However, the economic impact of CCIs is not merely confined to direct
+contributions in the form of output or employment; these industries also have multiplier
+effects. The production of a movie, for example, not only generates revenue for filmmakers
+and actors but also benefits local businesses like restaurants, hotels, and transport services,
+often boosting tourism and local craft industries [37–40].
+2.2. Social Cohesion and Cultural Identity
+The cultural and creative industries (CCIs) have increasingly been recognized for their
+unique ability to foster social cohesion and cultural identity—two intangible yet crucial
+aspects of societal well-being and regional development [28,41,42]. In Europe, a continent
+characterized by its rich cultural diversity and history, CCIs serve not only as economic en-
+gines but also as vital instruments for social integration and the preservation and promotion
+of cultural identities [43,44]. The relationship between culture and social cohesion can be
+Urban Sci. 2024, 8, 39 5 of 22
+theoretically traced back to the work of Primorac (2007) [45], who introduced the concept of
+“mechanical” and “organic” solidarity, highlighting the role of shared beliefs and values in
+maintaining social order [46]. Building on these foundations, contemporary scholars such
+as Pesenti (2020) [43] and Boccella & Salerno (2016) [10] have furthered our understanding
+of the intricate ways in which culture contributes to social capital and cohesion. Pesenti
+(2020) [43], in particular, emphasized “cultural capital” as a dimension that intersects both
+social and economic spheres, arguing that cultural practices and participation are critical to
+the fabric of society. Also, the relationship with the natural environment, both urban and
+peri-urban, should not be ignored [47].
+In Europe, CCIs have been identified as vital contributors to social cohesion. This
+is particularly evident in the European Commission’s policies and frameworks, which
+have consistently highlighted the role of culture in fostering a sense of community and
+belonging [25,48]. A study by Comunian & Mould (2014) [ 49] supports the potential of
+cultural policies in addressing social exclusion and promoting integration in European
+cities [18]. Urban cultural events, festivals, and creative projects have been instrumental in
+bringing together diverse community groups, fostering intercultural dialogue and mutual
+understanding. For instance, the European Capital of Culture (ECoC) program, one of the
+most high-profile cultural initiatives in the EU, has been successful in enhancing social
+cohesion through culture-led regeneration projects in cities such as Liverpool [50].
+Usborne & Taylor (2010) [51] noted that the contribution of CCIs to cultural identity is
+equally significant. Cultural identity refers to the shared sense of belonging and collective
+self-understanding based on language, traditions, history, and cultural expressions. In
+Europe, where regional and national identities are complex and layered, CCIs play a pivotal
+role in both preserving and evolving these identities [52]. The cinema industry, for example,
+has been a potent vehicle for reflecting and shaping cultural identities. European cinema,
+often supported by initiatives such as the MEDIA Programme, has been instrumental in
+telling European stories, reflecting the continent’s diversity, and contributing to a sense
+of European identity [ 53]. Furthermore, the publishing sector, through literature and
+translation initiatives, has played a crucial role in cross-cultural exchange and the nurturing
+of a pan-European cultural space [54,55].
+Numerous studies have examined the role of CCIs in promoting social cohesion and
+cultural identity [13,14,24,28]. For instance, in the European context, the “Creative Europe”
+program has recognized the potential of culture in bridging social divides and strengthening
+European identity [9]. The program INNOMED-UP (2022) [56] highlighted how cultural
+districts and creative clusters act as catalysts for social interaction and engagement in cities,
+facilitating a shared sense of community. Similarly, Dellisanti (2023) [57] supports the role
+of arts and culture in fostering community pride and a sense of belonging, particularly in
+multicultural societies.
+The work of J ¯urat˙e ˇCerneviˇ ci¯ut˙e & Strazdas (2023) [ 58] on urban cultural policies
+points out how the cultivation of local culture through CCIs contributes to the revitalization
+of neighborhoods and reinforces local identities. Moreover, Montalto (2020) [ 18] has
+documented the positive impact of flagship cultural events and institutions in enhancing
+the international visibility of cities and the pride of local citizens.
+Several case studies across Europe illustrate the relationship between CCIs and social
+cohesion [14,59,60]. In the city of Barcelona, the regeneration of the Raval district, driven
+by the opening of the Contemporary Art Museum (MACBA), fostered a vibrant cultural
+scene that contributed to social integration and the reinforcement of a distinct cultural
+identity [57]. In Liverpool, the 2008 European Capital of Culture, a range of cultural
+programs and initiatives led to increased community engagement and a renewed sense
+of civic pride among the populace. The “Glasgow Effect,” referring to the city’s cultural
+renaissance in the 1990s, also exemplifies how investment in arts and culture can enhance
+social cohesion and reinvigorate a city’s image and identity [61].
+The subject of CCIs would be incomplete without the discussion of the precarious
+nature of the work in the creative economy and the influence of the pandemic. The
+Urban Sci. 2024, 8, 39 6 of 22
+pandemic brought out the vulnerability of the creative sector, and not unlike tourism, it has
+been shown that strong support structures should be put in place to ensure its recovery
+and sustained growth [62]. Dent, Tanghetti, and Comunian (2023) [63], noted that much
+like the tourism sector was affected, the CCIs have also been severely affected by the
+COVID-19 pandemic. Many cultural and creative activities are highly venue-specific and
+interactive physically, which makes them quite sensitive to lockdowns and social distancing
+regulations. The closure of cultural venues and the cancellation of live events not only
+reduced cash flows but also conflicted with the sector’s operational model and raised
+the question of the sector’s weakness. The recovery may necessitate the introduction of
+an innovative strategy, for example, the enhanced digital engagement and new business
+models that can successfully work under pandemic constraints [63].
+2.3. Cultural Heritage in the European Perspective
+According to Calligaro (2014) [64], cultural heritage holds a special place in Europe,
+where centuries of history, diverse cultures, and rich traditions have shaped a unique and
+invaluable legacy. Europe boasts an extraordinary cultural heritage that spans ancient
+civilizations, medieval history, the Renaissance, and modern times. This cultural wealth
+includes architectural marvels like the Colosseum in Rome, the Eiffel Tower in Paris, and
+historic cities like Prague and Vienna; it encompasses artistic treasures such as the paintings
+of Leonardo da Vinci, the music of Beethoven, and the literature of Shakespeare [15]. Eu-
+rope’s cultural heritage is not confined to tangible artifacts but also encompasses intangible
+cultural practices, folklore, languages, and culinary traditions. This rich tapestry of cultural
+heritage is not only a source of pride for Europeans but also a powerful tool for attracting
+tourists, talent, and investments. Europe is a global tourist destination, and its cultural her-
+itage is a significant draw for visitors from around the world. Historic sites, museums, and
+cultural events contribute to the tourism industry’s growth, generating revenue, creating
+jobs, and stimulating local economies [59,65,66].
+Saucedo-Estrada (2022) [2] argues that cultural heritage is a substantial contributor to
+the European economy. Conservation, renovation, and maintenance activities related to
+cultural heritage represent a significant portion of the European construction industry’s
+value. These activities involve the preservation and restoration of historic buildings, monu-
+ments, and archaeological sites [67]. The cultural heritage sector also includes craftspeople,
+artisans, and professionals specializing in restoration and conservation work. Moreover,
+cultural heritage generates substantial revenue and employment opportunities [ 16,68].
+According to Prezioso et al. (2020) [ 8], the total turnover generated by cultural heritage
+represents approximately 3% of the European Union’s GDP , and the number of jobs created
+by cultural heritage amounts to around 4% of the employed EU workforce. This demon-
+strates the sector’s economic significance and its capacity to support livelihoods across
+Europe [11,41,69].
+According to GIZ (2022) [21], historic areas, industrial sites, and rural regions with her-
+itage value have been repurposed for innovation-driven activities, attracting investments
+and stimulating economic prosperity. The adaptive reuse of historic spaces as cowork-
+ing hubs, incubators, and cultural clusters has become a trend, promoting collaboration
+and innovation at local, national, and international levels. Intangible cultural heritage,
+including artistic traditions and craftsmanship, contributes to the design and production of
+new goods and services [24]. The global economy provides markets for products rooted
+in cultural heritage, from artisanal crafts to traditional cuisines. This connection between
+heritage and innovation not only preserves cultural traditions but also facilitates economic
+sustainability and growth [70,71].
+Europe’s cultural heritage is a strategic asset in international relations and coopera-
+tion [72]. It serves as a tool for cultural diplomacy, fostering mutual understanding and
+collaboration with countries outside the EU. Recognizing and promoting Europe’s linguis-
+tic and cultural diversity enhances its cultural diplomacy efforts, strengthening its soft
+power and global influence [ 52]. Furthermore, the European Union has recognized the
+Urban Sci. 2024, 8, 39 7 of 22
+role of cultural heritage in external relations and cooperation. This recognition aligns with
+the EU’s commitment to promoting culture as one of its key objectives. Cultural heritage,
+with its diverse expressions and historical significance, serves as a bridge for communi-
+cation and engagement with other nations, contributing to global cultural exchange and
+collaboration [53,73–75].
+2.4. Urban Regeneration
+Urban regeneration, driven by CCIs, is grounded in several theoretical frameworks.
+S. Liang & Wang (2020) [1] noted that creativity is a crucial ingredient for urban regenera-
+tion, advocating the development of an environment that fosters creativity and innovation.
+Similarly, ˇCerneviˇ ci¯ut˙e’s et al. (2019) [ 15] pointed out that the “creative class” under-
+scores the importance of attracting creative professionals, so that they act as a catalyst
+for urban revitalization. Another significant framework is the “Bilbao Effect,” named
+after the city’s transformation following the establishment of the Guggenheim Museum.
+This phenomenon illustrates how flagship cultural projects can act as beacons for urban
+regeneration, instigating socio-economic revitalization [13].
+Weber & Duarte (2020) [ 17] examined European cities and revealed that cultural
+projects and events, such as the European Capital of Culture, have profound effects on
+urban regeneration, thereby enhancing a city’s image and boosting tourism. Similarly,
+Cinar & Coenen (2022) [ 24] identified how cultural quarters and creative clusters have
+been instrumental in reviving urban areas, providing spaces for innovation and cultural
+exchange. Moreover, the European Commission’s report on the economy of culture in
+Europe presented evidence of the significant contribution of CCIs to urban economies,
+with a particular focus on job creation and urban renewal [ 9,48]. This is supported by
+Lazaretou (2014) [32], who emphasized the role of arts and culture in transforming urban
+landscapes and fostering economic development. Kalfas et al. (2021) [76] argue that cultural
+heritage is a factor that could redefine the environmental conservation agenda and enhance
+the multifunctionality of the natural environment and the concepts of Landsenses ecology
+and Landsenseology.
+The ways in which CCIs influence urban regeneration are multifaceted. CCIs act as
+attractors of human capital, fostering an environment that draws in entrepreneurs, artists,
+and skilled professionals [ 42,74,77]. They also catalyze the transformation of physical
+spaces, converting abandoned or underutilized areas into vibrant cultural hubs [ 18,60].
+Furthermore, CCIs stimulate the local economy through the creation of jobs, the attraction
+of tourists, and the enhancement of the night-time economy [ 78,79]. Additionally, they
+contribute to the social fabric of urban areas, promoting social inclusion, community
+engagement, and cultural exchange [10].
+2.5. Regional Development and Revitalization
+Regional development and revitalization have been central to European policy agendas
+for decades, responding to economic disparities, deindustrialization, and urban decline [80].
+The European Union (EU), with its cohesion policy, has been at the forefront of tackling
+these challenges, aiming to reduce disparities between regions and promote balanced
+development across the continent. This involves a multifaceted approach, incorporating
+economic, social, cultural, and environmental dimensions [15,74,81].
+The economic restructuring of the late 20th century, particularly the decline of tra-
+ditional industries, left many European regions facing unemployment, population loss,
+and a decline in local services. In response, the EU has sought to revitalize these regions
+through investment in infrastructure, innovation, and human capital [82]. The emphasis
+has shifted over time, from traditional infrastructure projects in the 1980s and 1990s to
+a stronger focus on knowledge-based development and innovation in the 21st century,
+encapsulated in the Lisbon and Europe 2020 strategies [ 83]. One of the critical areas of
+focus in regional development has been the recognition of the potential of the cultural and
+creative industries (CCIs) as drivers of economic growth and social cohesion [58,84].
+Urban Sci. 2024, 8, 39 8 of 22
+According to Y. Liang et al. (2023) [72], CCIs have played a crucial role in revitalizing
+post-industrial cities and regions across Europe. Cities like Glasgow and Bilbao have fa-
+mously used culture-led regeneration to transform their images and economies. Glasgow’s
+focus on cultural development, which culminated in its year as European Capital of Culture
+in 1990, is often cited as a turning point for the city, attracting investment and improving
+its global profile [18]. Similarly, Bilbao’s Guggenheim Museum is frequently highlighted as
+an example of the ‘Bilbao effect’, where a flagship cultural institution helped to catalyze
+wider urban regeneration.
+Beyond flagship projects, the integration of CCIs into local and regional development
+strategies has proven beneficial [ 49]. In regions such as Tuscany in Italy and Rh ône-
+Alpes in France, CCIs have contributed to the creation of vibrant cultural ecosystems,
+supporting SMEs, fostering innovation, and enhancing the attractiveness of these regions.
+These industries often create ‘creative clusters,’ which act as hubs of innovation and
+entrepreneurship, leading to job creation and economic diversification [36]. Moreover, CCIs
+have been instrumental in enhancing social cohesion and cultural identity; they provide
+platforms for cultural expression and dialogue, helping to foster a sense of belonging
+and community. This is particularly significant in the diverse and multilingual context
+of Europe, where cultural identity plays a pivotal role in regional development. The
+Council of Europe’s European Cultural Convention emphasizes the importance of culture in
+promoting mutual understanding and respect among Europe’s diverse populations [8,32].
+The social impact of CCIs extends to education and inclusivity. Initiatives like the
+European Union’s Creative Europe program support cultural projects that aim to engage
+young people, minorities, and disadvantaged groups, contributing to social integration
+and intercultural dialogue [25]. However, the impact of CCIs is not uniformly positive,
+and there are challenges associated with culture-led development. Gentrification and
+the displacement of local communities are potential negative consequences of successful
+cultural regeneration projects [ 27,28,53,73]. Moreover, the reliance on flagship cultural
+institutions and events can sometimes overshadow the development of local cultural
+ecosystems and grassroots initiatives [35].
+In addition to cultural factors, other strategies have been employed in regional devel-
+opment and revitalization in Europe. The EU’s Smart Specialization Strategy, for instance,
+encourages regions to identify and develop their unique competitive advantages, often
+through the fostering of innovation and collaboration between public, private, and aca-
+demic sectors [85]. Environmental sustainability has also become increasingly integrated
+into regional development, with the European Green Deal setting ambitious targets for
+the EU to become climate-neutral by 2050 [ 11]. This involves supporting regions in the
+transition to a green economy, with investments in renewable energy, circular economy
+initiatives, and sustainable urban planning [25,86]. Furthermore, digital transformation
+is recognized as a crucial factor in regional development. The Digital Agenda for Europe
+underlines the importance of digital literacy, infrastructure, and services as prerequisites
+for innovative and competitive regions [8].
+Regional development and revitalization in Europe are multifaceted and complex
+processes. The role of the cultural and creative industries in these processes is significant,
+contributing to economic growth, social cohesion, and urban regeneration [3]. However,
+the challenges associated with culture-led development, such as gentrification and the
+sustainability of flagship projects, need to be carefully managed. Moreover, cultural
+strategies must be integrated with broader approaches, including innovation, sustainability,
+and digital transformation, to ensure balanced and inclusive regional development across
+Europe [20,25,87].
+3. Methodology
+3.1. Research Design
+This research employed a quantitative methodology with a cross-sectional survey
+to investigate the contribution of the Cultural and Creative Industries (CCIs) to regional
+Urban Sci. 2024, 8, 39 9 of 22
+development and revitalization in Europe. A cross-sectional survey, which are commonly
+used to gather data at a certain point in time, was used to understand present trends,
+patterns, and how they affect the economic performance of the region. It was through
+quantitative methods that the impact of CCIs on key development indicators, such as
+economic growth, employment creation, and social cohesion, was determined. By doing so,
+this research aimed to generate strong statistical evidence so as to prove or disprove the
+hypothesized influences of CCIs. The survey was built in such a way as to collect responses
+from a representative sample that is consequently statistically reliable and applicable to
+the whole group of CCI stakeholders in Europe. In this way, a comprehensive image of
+the current state of the cultural and creative industries and their role in regional dynamics
+was built thanks to the combination of empirical data and cultural economics and regional
+development theory. In addition, the cross-sectional nature of this study involved data
+collection from the participants at a single point in time rather than over a long period of
+time. This approach is well suited to identifying the current level of development and its
+immediate impacts, thus offering a snapshot of ongoing dynamics that can become a center
+of discussion on cultural and creative sectors policies.
+3.2. Target Population
+The study targeted important players in Greece’s cultural and creative sector, compris-
+ing 144,700 people as the sample population. The aim was to collect a more representative
+sample of individuals who were knowledgeable about the role that these sectors play in
+regional growth and revitalization.
+3.3. Sample Size Determination
+The study utilized a sample size of 345 key stakeholders in the cultural and cre-
+ative industry in Greece (Figure 1). The sample acted as a representative sample for the
+entire Europe.
+Urban Sci. 
+2024
+,
+ 
+8
+, x FOR PEER REVIEW
+ 
+9
+ 
+of 
+23
+ 
+ 
+and digital transformation, to ensure balanced and inclusive regional development across 
+Europe 
+[20,25,87]
+. 
+ 
+3. 
+Methodolog
+y
+ 
+3.1. 
+Research 
+Design
+ 
+This research employed a quantitative methodology with a cross
+-
+sectional survey to 
+investigate the 
+contribution of the 
+Cultural and Creative Industries (CCIs) to regional de-
+velopment and revitalization in Europe. 
+A c
+ross
+-
+sectional survey
+,
+ 
+which 
+are commonly 
+used to
+ 
+gather data at a certain point in time, 
+was
+ 
+used to understand present trends, 
+pa erns
+,
+ 
+and how they aﬀect 
+the economic performance of the region. It was through 
+quantitative method
+s
+ 
+that the impact of CCIs on key development indicators
+,
+ 
+such as eco-
+nomic growth, employment creation
+,
+ 
+and social cohesion
+,
+ 
+was 
+determined
+. By doing so, 
+this 
+research aimed to 
+genera
+te
+ 
+strong statistical evidence so as to prove or disprove the 
+hypothesized inﬂuence
+s
+ 
+of CCIs. The survey was built in 
+such 
+a way 
+as 
+to collect re-
+sponses 
+from 
+a representative sample
+ 
+that
+ 
+is consequently statistically reliable and appli-
+cable to the whole g
+roup of CCI stakeholders in Europe. In this way, a comprehensive 
+image of the current state of 
+the 
+cultural and creative industries and their role in regional 
+dynamics was built thanks to the combination of empirical data 
+and
+ 
+cultural economics 
+and regiona
+l development theory. 
+In addition
+, the cross
+-
+sectional 
+nature 
+of this study in-
+volved data collection from the participants at a single point in time 
+rather than over
+ 
+a 
+long period of time. 
+This 
+approach 
+is 
+well suited to identifying the 
+current 
+level of de
+vel-
+opment and its immediate impacts, thus oﬀering a snapshot of ongoing dynamics that 
+can
+ 
+become a center of discussion on cultural and creative sectors policies.
+ 
+3.2.
+ 
+Target 
+Population
+ 
+The study targeted important players in Greece
+’
+s cultural and creativ
+e sector, com-
+prising 144,700 people as the sample population. The aim was to collect a more repre-
+sentative sample of individuals who were knowledgeable about the role that these sectors 
+play in regional growth and revitalization.
+ 
+3.3. 
+Sample 
+Size Determina
+tion 
+ 
+The study utilized a sample size of 345 key stakeholders in the cultural and creative 
+industry in Greece
+ 
+(Figure 1). The sample acted as a representative sample for the entire 
+Europe.
+ 
+ 
+(
+a
+) Europe 
+ 
+ 
+(
+b
+) Greece
+—
+study area 
+ 
+Figure 1. 
+Maps of Europe and Greece as 
+the 
+study area.
+ 
+Figure 1. Maps of Europe and Greece as the study area.
+The sample size was chosen after determining the survey’s accuracy and reliability,
+which was determined to be p = 99.7%. A pilot sample of fifty people was used to evaluate
+the variance between managers, directors, or employees who commute. The variance of the
+weekly payment for fuel (movements), only for work, was estimated using a preliminary
+sample (pilot sampling) of 50 persons, where S 2 = 4961.61 and s = 70.44. Sample size
+calculations often use a value of z = 3, which translates to a degree of dependability of
+p = 99.7%. The value of z (P) depends on the necessary degree of dependability. The value
+Urban Sci. 2024, 8, 39 10 of 22
+29.56€ was the confidence interval (or the margin of error) estimated from the pilot sample
+of fifty people, where the sample mean = 50.27 €, standard deviation = 70.44 €, sample
+size = 50 people, confidence level = 99.7, and z-score = 3. This, the sample’s confidence
+interval was 50.27€± 29.56€, or from 20.71€ to 79.83€.
+Equation (1) uses N = 144,700 (the available target population), s = 70.44 (the sam-
+ple standard deviation), z = 3, and d = 11.37 (half of the confidence interval plus 30%
+for contingency) to calculate the minimal sample size, which was determined to be
+345 people [88–90]:
+n = N(zs)2
+Nd2 + (zs)2 (1)
+where n is the sample size the study, d is the level of precision, N is the target total
+population, s is the population proportion, and z is the critical value used to determine of
+the sample size. Thus,
+n = 144.700(3× 70.44)2
+144.700× 11.372 + (3× 70.44)2⇔ n = 344.57≈ 345
+where n = 345.
+3.4. Sampling Technique
+This study used both basic random sampling and stratified random sampling tech-
+niques, which are components of probability sampling procedures. In this case, the target
+sample was created using stratified sampling, and the final sample was extracted using a
+simple random sampling technique. Simple random selection yields very representative
+samples of the whole population but can be time-consuming, especially when dealing with
+large samples.
+3.5. Data Collection
+Data from the selected 345 respondents from Greece’s cultural and creative sector
+were gathered through an online questionnaire. A survey questionnaire is one of the most
+straightforward and commonly used techniques for gathering data. This is because it is less
+costly as a large number of respondents can be surveyed quickly and it enables respondents
+to appropriately and freely reply to sensitive topics without fear of rejection or approval
+from the researcher. The online questionnaire was designed using Google Forms, a popular
+platform that is well established and secure. This tool was selected for its strong feature
+support that enables diversity in questions, data integrity, and ease of exporting data for
+analysis. The survey comprised multiple sections that were designed to correspond with
+the research objectives including economic impact, social cohesion, and urban regeneration
+attributed to creative and cultural industries. Participants were approached through a
+multichannel recruitment strategy to obtain a diverse and representative sample. The first
+contact was made via e-mail using the database of professionals listed under the Ministry
+of Culture and Sports in Greece. This was followed by a series of reminders sent over two
+weeks. Moreover, social media channels, such as LinkedIn groups focused on European
+cultural and creative industries, were utilized to increase participant interaction. When
+handling the data of the respondents, the highest standards of privacy and confidentiality
+were maintained. In addition, respondents were allowed to respond to questions according
+to how well they understood the various opinion questions. As a result, more responses to
+certain questions were received. Ethical considerations such as privacy and confidentiality
+of the data collected were well observed throughout the research process.
+3.6. Data Analysis
+The data were examined in line with the objectives of the research once the completed
+questionnaires were collected. All of the information collected from the respondents
+was then analyzed using the SPSS v.25.0. A frequency table was used to illustrate the
+Urban Sci. 2024, 8, 39 11 of 22
+frequency distribution of the responses, which was derived from the first section of the user
+profile questionnaire. The mean and standard deviations of some of the values were also
+computed. The Pearson’s rank correlation test was also used to determine the associations
+that existed between the study variables. Using regression analysis, it was also determined
+how much the creative and cultural sectors contribute to regional growth and revival.
+The coefficients of the various variables were obtained using a multiple regression model,
+shown in Equation (2) [91,92]:
+Y =β0 +β1X1 +β2X2 +β3X3 + ε (2)
+where Y is regional development and revitalization,
+β0 is a constant (coefficient of intercept), X 1 is the economic impact of CCIs, X 2 is
+the promoting social cohesion and cultural identity by CCIs, X 3 is CCIs impact on the
+urban regeneration and revitalization of declining areas, β1. . .β3 = represents the three
+independent variables’ regression coefficients, which were used to calculate how much
+effect each independent variable had on the dependent variable. andε is a representation
+of the error term that relates to the study’s multiple regression model.
+The three hypotheses of this study were tested based on the obtained regression results
+with 95% confidence interval or at a 0.05 significance level.
+4. Results
+This section presents the results obtained after analyzing the data collected from the
+selected respondents.
+4.1. Demographic Characteristics
+Results for the characteristics of respondents are presented in Table 1.
+Table 1. Participants’ demographic characteristics.
+Characteristic Frequency Percentage (%)
+Gender Male 259 75.1
+Female 86 24.9
+Age bracket
+Below 30 years 27 7.8
+31–40 years 243 70.4
+Above 40 years 75 21.8
+Designation in the creative industry
+Employee 141 40.9
+Director 118 34.2
+Expert/Consultant 86 24.9
+Experience in the creative industry
+Below 5 years 14 4.1
+5–10 years 216 62.6
+Above 10 years 115 33.3
+Total 345 100
+Source: Authors’ own work (2023).
+According to results in Table 1, the majority of respondents (75.1%) were male, while
+24.9% were female. This gender imbalance may reflect the existing gender disparities
+in the cultural and creative industries, where males tend to be overrepresented. The
+age distribution of the participants indicates that the largest group falls within the age
+bracket of 30–40 years, making up 70.4% of the total respondents. This suggests that a
+significant portion of the respondents are in the early to mid-stages of their careers, which
+is relevant as they likely bring a mix of experience and fresh perspectives to the study.
+The designation in the creative industry reveals that the largest group of participants
+identified as employees (40.9%), followed by directors (34.2%) and experts/consultants
+(24.9%). This distribution suggests a diverse representation of roles within the industry,
+which can provide valuable insights from various perspectives. The experience level of the
+participants in the creative industry shows that the majority have between 5 and 10 years of
+Urban Sci. 2024, 8, 39 12 of 22
+experience (62.6%), followed by those with over 10 years of experience (33.3%). A smaller
+percentage of the respondents (4.1%) have less than 5 years of experience. This distribution
+indicates that the study included a mix of relatively new entrants and more seasoned
+professionals, potentially providing a comprehensive perspective on the industry’s impact
+on regional development.
+4.2. Descriptive Results
+This study examined the economic impact of the CCIs on regional development in
+terms of job creation, GDP contribution, and innovation.
+According to the findings in Table 2, the majority of participants (74.4%) believe that
+the CCIs have significantly enhanced job opportunities in their region, compared to the
+25.6% who disagree. This indicates a strong positive perception about CCIs as a job creator
+and their role in decreasing unemployment or underemployment in these regions. Another
+considerable portion (71.4%) of the participants feel that the CCIs contribute a substantial
+percentage to the regional GDP , comparable to traditional industries like manufacturing
+or services. This suggests that the economic value of the CCIs is being recognized as
+essential and on par with more conventional sectors. Over half of the participants (56.4%)
+concur that investing in the CCIs yields higher economic returns and rates of innovation
+than investments in other sectors. However, it is noteworthy that the agreement on this
+point is lower compared to the first two points, with a relatively high proportion (43.6%)
+of respondents disagreeing. This could hint at some skepticism or perhaps the need for
+more evidence about the innovative capabilities and economic returns from the CCIs. The
+majority of the respondents, 93.5%, believe that the growth of the CCIs has attracted new
+businesses and investments, leading to economic diversification in their region. This is
+the highest agreement rate among all the statements and underscores the importance of
+the CCIs in attracting external investments and bringing about diverse economic activities.
+Two-thirds of the respondents (66.2%) think that the development of the CCIs has played a
+pivotal role in fostering entrepreneurial skills and stimulating the birth of start-ups in their
+region. This highlights the potential of CCIs in building entrepreneurial ecosystems and
+encouraging business innovations.
+Table 2. Opinions on economic impact of the CCIs on regional development in terms of job creation,
+GDP contribution, and innovation.
+Statement Agree Disagree
+The presence of cultural and creative industries (CCIs) has significantly increased job opportunities in
+my region. 74.4% 25.6%
+CCIs contribute a substantial percentage to our regional GDP , comparable to traditional industries like
+manufacturing or services 71.4% 28.6%
+Investment in CCIs results in higher economic returns and innovation rates compared to investments in
+other sectors 56.4% 43.6%
+The growth of CCIs in our region has attracted new businesses and investments, leading to
+economic diversification 93.5% 6.5%
+The development of CCIs has been crucial in fostering entrepreneurial skills and start-ups in my region 66.2% 33.8%
+Source: Authors’ own work (2023).
+The results for the role of the CCIs in promoting social cohesion and cultural identity
+within European regions are presented in Table 3.
+Table 3. Opinions on the role of the CCIs in promoting social cohesion and cultural identity within
+European regions.
+Statement Agree Disagree
+CCIs have played a pivotal role in enhancing social cohesion and bringing diverse communities together
+in my region 75.6% 24.4%
+Urban Sci. 2024, 8, 39 13 of 22
+Table 3. Cont.
+Statement Agree Disagree
+The activities of CCIs in my region significantly contribute to the preservation and promotion of our
+local cultural identity 51.2% 48.8%
+CCIs have been effective in using cultural heritage as a means to foster a sense of belonging and pride
+among the residents 82.3% 17.7%
+Public initiatives that support CCIs have resulted in increased community engagement and participation
+in cultural activities 63.5% 36.5%
+The influence of CCIs has been crucial in promoting intercultural dialogue and reducing social tensions
+in my region 64.3% 35.7%
+Source: Authors’ own work (2023).
+According to the results in Table 3, the majority of the respondents (75.6%) believe
+that the CCIs have play a crucial role in enhancing social cohesion and in uniting diverse
+communities in their regions. This highlights the perceived power of culture and creativity
+in bridging divides and creating shared experiences that strengthen social bonds. While
+51.2% agree that the CCIs significantly contribute to the preservation and promotion of local
+cultural identities, a close 48.8% disagree. This suggests that while many see the positive
+role of the CCIs in preserving traditions and cultural values, a significant portion may feel
+that the CCIs could either be diluting local culture or not doing enough to protect it. Also,
+82.3% of the participants felt that the CCIs have been effective in using cultural heritage to
+instill a sense of belonging and pride among residents. This underlines the perceived ability
+of the CCIs to root individuals in their history and shared traditions, cultivating a sense
+of collective identity. Furthermore, 63.5% of respondents believe that public initiatives
+supporting the CCIs have led to more community engagement and participation in cultural
+activities. This suggests that government or local authority interventions can amplify the
+positive effects of the CCIs, motivating more people to partake in and appreciate cultural
+events and programs. Finally, 64.3% of participants feel that the CCIs have been vital
+in encouraging intercultural dialogues and in mitigating social tensions. This shows the
+potential of culture and creativity as tools for conflict resolution and for fostering mutual
+understanding among diverse groups.
+This study also investigated the influence of the CCIs on urban regeneration and the
+revitalization of declining areas, and the results are presented in Table 4.
+Table 4. Opinions on the influence of the CCIs on urban regeneration and the revitalization of
+declining areas.
+Statement Agree Disagree
+CCIs have been a driving force in the urban regeneration of deteriorated or neglected areas in my region 95.7% 4.3%
+The revitalization efforts spearheaded by CCIs have been sensitive to the existing cultural and historical
+context of the areas 73.5% 26.5%
+The transformation led by CCIs has not only been physical (in terms of infrastructure) but also social,
+bringing new life to declining areas 51.7% 48.3%
+CCIs have attracted tourism, making previously declining areas into cultural hotspots and positively
+impacting the local economy 65.6% 44.4%
+CCIs have played a significant role in making declining areas more attractive for residents, businesses,
+and investors 92.3% 7.7%
+Source: Authors’ own work (2023).
+The results in Table 4 show that the majority of the study participants (95.7%) agree that
+the CCIs have been a driving force in the urban regeneration of deteriorated or neglected
+areas in their region. This suggests that the CCIs are widely recognized for their ability to
+breathe new life into areas that have been in decline, potentially through initiatives such as
+art installations, creative hubs, cultural events, or the renovation of historic buildings for
+cultural purposes. Additionally, 73.5% of respondents feel that the revitalization efforts
+Urban Sci. 2024, 8, 39 14 of 22
+led by the CCIs have been sensitive to the existing cultural and historical context of the
+areas. This indicates that, in the majority of cases, the CCIs are not just imposing new
+developments but are doing so in a way that respects and incorporates the existing cultural
+heritage, which is crucial for maintaining the identity of a place. Furthermore, 51.7% agreed
+that while there is recognition of the infrastructure improvements that the CCIs bring,
+their impact on social aspects such as community cohesion or local engagement might
+not be universally acknowledged or felt. Also, 65.6% of the respondents agree that the
+CCIs have attracted tourism, turning previously declining areas into cultural hotspots and
+positively impacting the local economy. This suggests that the CCIs have a significant role
+in rebranding areas and making them more appealing to visitors, which in turn can boost
+local businesses and services. Finally, a high percentage (92.3%) of the respondents agree
+that the CCIs have played a significant role in making declining areas more attractive for
+residents, businesses, and investors. This underscores the holistic impact of the CCIs, not
+just as cultural enhancers but also as catalysts for broader socioeconomic development.
+This study examined the various aspects and outcomes of regional development and
+revitalization. According to the results presented in Figure 2, the majority of the study
+participants perceive the improvement in regional business relations as the most signif-
+icant outcome of regional development and revitalization, accounting for 26.7% of the
+responses. This indicates that cultural and creative industries have a substantial impact
+on fostering business networks, entrepreneurship, and overall economic activity within
+regions. The enhancement of business relations can lead to an influx of investments, the
+creation of new enterprises, and the strengthening of existing ones, all of which are crucial
+for regional economic vitality. Following this, 21.7% of the participants noted an improve-
+ment in education facilities as a key outcome. This suggests that regional development
+initiatives, possibly fueled by cultural and creative industries, are successfully contributing
+to the educational landscape by improving the quality and accessibility of educational
+institutions and programs. This can have long-term benefits for the workforce and regional
+development. The improvement of regional cultural heritage was identified by 14.6% of
+respondents as a significant outcome. Cultural and creative industries play a pivotal role in
+preserving and promoting local culture and history, which can enhance community pride,
+cultural understanding, and can attract cultural tourism. Improved regional environmental
+conservation was noted by 13.4% of participants, indicating that regional development
+and revitalization efforts are also focusing on sustainable practices and the preservation of
+natural resources, which is critical for long-term regional sustainability. The revitalization
+of local languages was seen as an outcome by 10.3% of the participants. Cultural and
+creative industries often play a role in preserving and promoting local languages, which are
+an integral part of cultural identity and heritage. A smaller proportion of the participants
+(9.6%) saw an improved political climate as an outcome of regional development. This
+could reflect the potential of cultural and creative industries to foster community engage-
+ment, dialogue, and understanding, leading to a more collaborative and stable political
+environment. Finally, 3.7% of the respondents identified other outcomes such as an increase
+in cultural tourism, improvements in digital literacy, the formation of regional policies,
+and job creation. While these aspects received less emphasis, they are nonetheless impor-
+tant components of regional development and revitalization, contributing to economic
+diversification, policymaking, and employment opportunities.
+4.3. Regression Analysis Results
+Regression analysis was used to determine the extent to which regional development
+and revitalization is predicted by the economic impact of the CCIs, the CCIs role in promot-
+ing social cohesion and cultural identity, the CCIs impact on urban regeneration and the
+revitalization of declining areas, the results of which are presented in Table 5. Regression
+analysis was used to analyze the extent to which the independent variables (the CCIs
+impact on the economy, promoting social cohesion and cultural identity, and the urban
+regeneration and revitalization of declining areas) contribute to strengthening regional
+Urban Sci. 2024, 8, 39 15 of 22
+development and revitalization in Europe based on different projected values. The findings
+of this research suggest a strong association between the three independent variables and
+regional development and revitalization, as shown by the positive multiple correlation
+coefficient (R) of 0.614. Moreover, the R-square value indicates that a 57.3% change in
+regional growth and revitalization is the outcome of the three independent variables.
+Urban Sci. 
+2024
+,
+ 
+8
+, x FOR PEER REVIEW
+ 
+15
+ 
+of 
+23
+ 
+ 
+environmental conservation was noted by 13.4% of part
+icipants, indicating that regional 
+development and revitalization eﬀorts are also focusing on sustainable practices and the 
+preservation of natural resources, which is critical for long
+-
+term regional sustainability. 
+The revitalization 
+of local languages w
+as seen as an outcome by 10.3% of the participants. 
+Cultural and creative industries often play a role in preserving and promoting local lan-
+guages, which are an integral part of cultural identity and heritage. A smaller proportion 
+of 
+the 
+participants (9.6%
+) saw an improved political climate as an outcome of regional 
+development. This could reﬂect the potential of cultural and creative industries to foster 
+community engagement, dialogue, and understanding, leading to a more collaborative 
+and stable politica
+l environment. Finally, 3.7% of 
+the 
+respondents identiﬁed other out-
+comes such as an increase in cultural tourism, improvements in digital literacy, the for-
+mation of regional policies, and job creation. While these aspects received less emphasis, 
+they are 
+nonetheless important components of regional development and revitalization, 
+contributing to economic diversiﬁcation, 
+policymaking
+, and employment opportunities.
+ 
+ 
+Figure 2. 
+Outcomes of regional development and revitalization.
+ 
+4.3. 
+Regression 
+Analysis Res
+ults
+ 
+Regression analysis was used to 
+determine
+ 
+the extent to which regional development 
+and revitalization is predicted by 
+the economic 
+impact of 
+the 
+CCIs, 
+the 
+CCIs 
+role 
+in pro-
+moting social cohesion and cultural identity, 
+the 
+CCIs 
+impact 
+on urban regeneration and 
+the 
+revitalization of declining areas
+,
+ 
+the results 
+of which 
+are presented in Table 5. Regres-
+sion analysis was used to analyze the 
+extent 
+to which the independent 
+variables (
+the CCIs 
+impact on the economy, 
+promoting social cohesion and cultural identity, 
+and the 
+urban 
+regeneration and revitalization of declining areas) contribute to strengthening regional 
+development and revitalization in Europe based on diﬀerent p
+rojected values. The ﬁnd-
+ings of this research suggest a strong association between the three independent variables 
+and regional development and revitalization, as shown by the positive multiple correla-
+tion coeﬃcient (R) of 0.614. Moreover, the R
+-
+square 
+value indicates that a 57.3% change in 
+regional growth and revitalization is the outcome of the three independent variables.
+ 
+Table 5. 
+Model Summary
+.
+ 
+Model
+ 
+R
+ 
+R
+-
+Square
+ 
+Adjusted R
+-
+Square 
+ 
+Std. Error of the Estimate
+ 
+ 
+0.614
+ 
+*
+ 
+0.573
+ 
+0.594
+ 
+0.03142
+ 
+*
+ 
+Predictors: Economic impact of 
+the 
+CCIs, 
+the 
+CCIs 
+role 
+in promoting social cohesion and cultural 
+identity, 
+and the 
+CCIs 
+impact 
+on urban regeneration and
+ 
+the
+ 
+revitalization of declining areas
+.
+ 
+Figure 2. Outcomes of regional development and revitalization.
+Table 5. Model Summary.
+Model R R-Square Adjusted R-Square Std. Error of the Estimate
+0.614 * 0.573 0.594 0.03142
+* Predictors: Economic impact of the CCIs, the CCIs role in promoting social cohesion and cultural identity, and
+the CCIs impact on urban regeneration and the revitalization of declining areas.
+Table 6 shows the results of a one-way ANOVA used to determine if the linear regres-
+sion model adequately fitted the data or whether the three independent variables were
+better predictors of the dependent variable. The model and data are properly matched, as
+shown by a F (3, 342) value of 402.113, p < 0.05.
+Table 6. ANOVA analysis.
+Model R Sum of Squares d.f. Mean Square F p
+1
+Regression 30.031 3 18.361 402.113 0.002
+Residual 41.105 342 0.027
+Total 71.136 345
+Dependent variable: Regional development and revitalization; Predictors: Economic impact of the CCIs, the role
+of the CCIs in promoting social cohesion and cultural identity, and the impact of the CCIs on urban regeneration
+and the revitalization of declining areas.
+The unstandardized coefficients of the model were examined (Table 7) in order to
+ascertain the part that the culture and creative industries (CCIs) plays in regional growth
+and revitalization. The beta coefficient for economic impact of the CCIs is 0.241, meaning
+that for every unit change in economic impact of the CCIs, regional development and
+revitalization rises by 28.1%. Likewise, the beta coefficient for the role of the CCIs in
+promoting social cohesion and cultural identity is 0.163, indicating that an increase in the
+CCIs promotion of social cohesion and cultural identity by one unit corresponds to an
+increase in regional development and revitalization of 18.6%. Lastly, a unit shift in the
+CCIs impact on urban regeneration and the revitalization of declining areas boosts regional
+development and revitalization by 18.2%.
+Urban Sci. 2024, 8, 39 16 of 22
+Table 7. Regression coefficients.
+Model
+Unstandardized
+Coefficients
+Standardized
+Coefficients T p
+B Std. Error Beta
+(Constant) 0.318 0.142 2.438 0.005
+Economic impact of CCIs 0.241 0.057 0.315 3.736 0.002
+CCIs in promoting social cohesion and cultural identity 0.163 0.067 0.117 3.195 0.003
+CCIs on urban regeneration and revitalization of declining areas. 0.182 0.049 0.341 3.511 0.000
+Dependent variable: Regional development and revitalization.
+The beta coefficientβ1 was 0.315 and the p-value was 0.001; therefore, we accepted hy-
+pothesis 1 that the CCIs have a positive impact on the economic development of European
+regions, contributing significantly to job creation and GDP growth. The beta coefficientβ2
+was 0.117 and p-value was 0.014; therefore, we accepted Hypothesis 2 that the CCIs play a
+crucial role in enhancing social cohesion and cultural identity within European regions. The
+beta coefficientβ3 was 0.341 and the p-value was 0.000, indicating a substantial relationship
+between the effect of the CCIs on urban regeneration and the revitalization of declining
+areas and regional development and revitalization; therefore, we accepted hypothesis3 that
+the CCIs are instrumental in urban regeneration and the revitalization of declining areas
+in Europe.
+5. Discussion
+This study’s findings regarding the economic impact of the Cultural and Creative
+Industries (CCIs) in European regions are particularly significant. The majority of survey
+participants believed that the CCIs have significantly increased job opportunities in their
+regions. This aligns with the fundamental role of the CCIs as engines of employment
+generation. The CCIs encompass a wide range of job roles, not limited to traditional artistic
+professions but also extending to technical, administrative, and support positions [41,72].
+This diverse employment landscape makes the CCIs a valuable contributor to the labor
+market, especially considering the dynamic and evolving nature of creative work [ 87].
+Furthermore, this study reveals that the CCIs contribute substantially to regional GDP , to
+a level that is comparable to more traditional industries like manufacturing or services.
+This highlights the economic value of the CCIs and their potential to rival more established
+sectors. It is important to note that the economic contribution of the CCIs often extends
+beyond direct output, encompassing positive externalities such as increased tourism and
+the attraction of foreign investments [17]. This broader impact underscores the significance
+of the CCIs in shaping regional economies. The finding that investing in the CCIs yields
+higher economic returns and innovation rates compared to other sectors is particularly
+noteworthy. While there was some skepticism, this result emphasizes the potential for
+the CCIs to drive innovation and foster economic growth. The CCIs often operate at the
+intersection of culture, creativity, and commerce, making them well-suited to sparking
+entrepreneurial discovery and regional competitiveness [11].
+Social cohesion and cultural identity are vital components of societal well-being and
+regional development. This study’s findings indicate that the CCIs play a pivotal role in
+enhancing social cohesion and bringing diverse communities together within European
+regions. This aligns with the broader concept that culture, creativity, and the arts can
+serve as powerful vehicles for building bridges among people from different backgrounds
+and fostering a sense of belonging [ 43]. Cultural and creative activities often provide a
+platform for shared experiences, where individuals from various cultural backgrounds can
+come together to appreciate and participate in artistic and cultural expressions. Whether
+through attending cultural festivals, art exhibitions, or music performances, the CCIs create
+spaces for people to connect, engage, and build relationships. This process of interaction
+can contribute to the development of social bonds, mutual understanding, and a sense of
+unity among diverse communities [25,42,49,93]. Furthermore, the CCIs are recognized for
+Urban Sci. 2024, 8, 39 17 of 22
+their ability to celebrate and preserve cultural heritage, which is a cornerstone of cultural
+identity [7,52]. Many regions in Europe have rich and diverse cultural histories, including
+languages, traditions, and practices. The CCIs often serve as custodians of this cultural
+heritage, ensuring that it is passed down to future generations. By doing so, the CCIs
+help communities maintain a strong sense of cultural identity and pride. However, it is
+worth noting that this study also highlights some mixed perceptions regarding the role of
+the CCIs in preserving and promoting local cultural identity. This could be attributed to
+various factors, including concerns about the commercialization of culture or the potential
+homogenization of regional identities. These concerns underscore the importance of
+striking a balance between leveraging the CCIs for economic and cultural growth while
+safeguarding the authenticity and diversity of cultural expressions [11,58,68].
+This study’s findings strongly indicate that the CCIs have been a driving force in the
+urban regeneration of deteriorated or neglected areas in European regions. This aligns
+with previous research by Mavrin et al. (2014) [ 14] that showcases how the CCIs can
+breathe new life into once-declining urban neighborhoods. These initiatives can include
+the establishment of creative quarters, cultural hubs, and artistic spaces that not only
+rejuvenate the physical landscape but also foster a sense of vibrancy and energy within these
+areas [17,24]. The CCIs have a unique capacity to reimagine and repurpose underutilized
+or abandoned spaces, transforming them into cultural hotspots [85]. The adaptive reuse
+of historic buildings for creative purposes, the hosting of cultural events and festivals,
+and the development of public art installations are all strategies employed by the CCIs
+to reinvigorate urban areas. By doing so, the CCIs attract both residents and visitors,
+stimulating economic activity and driving foot traffic to local businesses. Importantly, this
+study reveals that the revitalization efforts led by the CCIs are sensitive to the existing
+cultural and historical context of an area. This is a crucial point because it reflects an
+approach that respects and preserves the identity and heritage of these regions [43,51,82].
+Rather than imposing a one-size-fits-all model of urban development, the CCIs often
+work hand-in-hand with local communities to ensure that their initiatives align with the
+cultural fabric of the region. This sensitivity to context can be seen in the preservation of
+architectural heritage, the incorporation of local traditions into artistic expressions, and the
+celebration of indigenous cultures. Such efforts not only prevent the erasure of historical
+and cultural significance but also make the revitalized areas more attractive and authentic
+for both residents and visitors [10,57].
+While this study acknowledges the recognition of the physical improvements brought
+about by the CCIs in urban regeneration, it also points out that their impact on social aspects,
+such as community cohesion or local engagement, might not be universally acknowledged
+or felt. This is in line with the study by Gerlitz & Prause (2021) [ 13], who support the
+need for a holistic approach to urban regeneration that goes beyond physical infrastructure.
+The CCIs often act as catalysts for community engagement, social inclusion, and cultural
+exchange; they create spaces for residents to come together, interact, and participate in
+cultural activities [49]. The sense of belonging and the shared experiences fostered by the
+CCIs contribute to stronger social bonds within these revitalized areas. Moreover, they
+promote creativity, education, and skills development, providing opportunities for personal
+and collective growth [16,59,94].
+This study’s findings also highlight that the CCIs attract tourism, turning previously
+declining areas into cultural hotspots and positively impacting the local economy. This
+outcome is particularly significant, as it demonstrates the ability of the CCIs to rebrand
+regions and make them more appealing to visitors [17,60]. Cultural tourism, in particular,
+can lead to increased tourism-related businesses, such as restaurants, hotels, and shops,
+providing economic opportunities for residents. Furthermore, the CCIs can contribute
+to the development of the night-time economy in these areas [ 42,77]. Cultural events,
+performances, and nightlife establishments often draw people in the evenings, extending
+the economic activity beyond daylight hours. This revitalization of the night-time economy
+can lead to increased revenue generation and job opportunities within a region [8,58,95].
+Urban Sci. 2024, 8, 39 18 of 22
+This study reveals that the CCIs have played a significant role in making declining areas
+more attractive for residents, businesses, and investors. Beyond physical improvements
+and economic growth, the sense of vibrancy and cultural richness created by the CCIs can
+enhance the overall quality of life in these areas. This, in turn, can lead to an influx of new
+residents and businesses, further contributing to an area’s revitalization [21,24,26,28].
+This research demonstrates that the contribution of the CCIs to regional development,
+including job creation and economic contributions, is at least comparable to that of tra-
+ditional industries [1,9]. Such employment conditions are either temporary or unstable,
+which will need further deliberation. Research shows that employment in the CCIs offers
+benefits such as creativity and innovation and, sometimes, contracts or project-based work;
+however, these roles do not provide the same level of security and benefits as traditional
+roles. Such a form of work can encourage economic instability for people depending only
+on the creative industries for their living. The lifestyle choice of creative activities can
+thus be viewed as a source of income, but it also highlights a bigger trend in people’s in-
+volvement in the gig economy, which consists of both opportunities and challenges [22,36].
+However, the importance of the CCIs as engines of economic growth and innovation need
+to be considered in the context of labor market opportunities and vulnerabilities as well.
+The advantages as shown in this study, e.g., substantial contributions to GDP and attracting
+investments [25], on the other hand, should be balanced with the possibility of economic
+instability that can affect cultural workers. This unstable position is further deepened by
+the fluctuating context of external funding as well as the markets requiring different art
+forms from region to region [40,68]. Furthermore, the role of the CCIs is not only limited
+to the rebirth of urban areas [ 71], social cohesion, and cultural identity [ 78], but is also
+significant for the continuity of these contributions through stable and supportive policy
+frameworks over time. Efforts to boost the resilience and sustainability of the CCIs should
+not only target the stimulation of economic growth and job creation but also stabilize the
+employment conditions of cultural workers. Such a strategy will reduce the precarity of
+creative professions and will also contribute to more equitable economic benefits arising
+from the development of these sectors [10,42].
+6. Conclusions
+This study has explored the different contributions of the Cultural and Creative Indus-
+tries (CCIs) to regional development and revitalization in Europe. The findings revealed
+that the CCIs have a significant and positive impact on various aspects of regional develop-
+ment, including economic growth, social cohesion, cultural identity, urban regeneration,
+and the revitalization of declining areas. This study shows that the CCIs are substantial
+job creators, contributing to reduced unemployment and underemployment in European
+regions. They also make a considerable contribution to Gross Domestic Product (GDP),
+demonstrating their economic significance that is comparable to traditional industries like
+manufacturing and services.
+Furthermore, investments in the CCIs are seen as yielding higher economic returns
+and innovation rates compared to investments in other sectors, underscoring their potential
+for fostering entrepreneurship and innovation. The results also showed that the CCIs have
+a powerful role in enhancing social cohesion by bringing diverse communities together,
+promoting intercultural dialogue, and reducing social tensions; they contribute to the
+preservation and promotion of local cultural identity, instilling a sense of belonging and
+pride among residents. Public initiatives supporting the CCIs have resulted in increased
+community engagement and participation in cultural activities. Moreso, the CCIs are
+recognized as a driving force behind urban regeneration and the revitalization of declining
+areas; they have not only transformed physical infrastructure but have also brought new
+life to declining areas, making them attractive for residents, businesses, and investors.
+The CCIs attract tourism, turning previously declining areas into cultural hotspots and
+positively impacting the local economy.
+Urban Sci. 2024, 8, 39 19 of 22
+The findings of this study provide valuable insights into the multifaceted contributions
+of the CCIs to regional development and revitalization in Europe. The CCIs are recognized
+for their economic significance, social-cohesion-building capacity, and transformative
+influence on urban areas; they have the potential to create jobs, boost GDP , enhance cultural
+identity, and revitalize declining regions. However, it is important to acknowledge that
+this study also reveals some areas of concern and skepticism, such as the potential dilution
+of local culture or the need for more evidence regarding the innovative capabilities of the
+CCIs. Policymakers and stakeholders should consider these perspectives and work towards
+addressing potential challenges while maximizing the benefits of the CCIs. Different
+stakeholders in the culture and creative industry should be mindful of the potential negative
+consequences of the CCIs, such as gentrification and the displacement of local communities,
+seeking to develop policies and strategies that aim to mitigate these effects and ensure that
+the benefits of the CCIs are inclusive.
+The main limitation of this study is that it applied a cross-sectional survey design
+to capture the complicated picture of the CCIs and their long-term impacts on regional
+development. One challenge that needs to be addressed is the design of longitudinal studies
+to determine the sustainability and long-term efficacy of the CCIs during the course of local
+revitalization. Furthermore, scholars and researchers can also delve deeper into specific
+aspects of the CCIs, such as their impact on rural areas, the role of digital technologies in
+the creative industries, the effectiveness of different policy interventions, and the long-term
+sustainability of the CCIs in the face of evolving cultural and economic landscapes.
+Author Contributions: Conceptualization, S.K. and F.C.; methodology, S.K. and D.K.; software, D.K.;
+validation, F.C. and V .A.; formal analysis, S.K.; investigation, S.K. and D.K.; resources, S.K., V .A.,
+and D.K.; data curation, F.C. and V .A.; writing—original draft preparation, S.K.; writing—review
+and editing, D.K.; visualization, V .A. and D.K.; supervision, F.C.; project administration, F.C. and
+V .A.; funding acquisition, F.C. and V .A. All authors have read and agreed to the published version of
+the manuscript.
+Funding: This research received no external funding.
+Data Availability Statement: Data are available upon request.
+Acknowledgments: The authors would like to thank the editor and the anonymous reviewers for
+their feedback and insightful comments on the original submission. All errors and omissions remain
+the responsibility of the authors.
+Conflicts of Interest: The authors declare no conflicts of interest.
+References
+1. Liang, S.; Wang, Q. Cultural and Creative Industries and Urban (Re)Development in China.J. Plan. Lit. 2020, 35, 54–70. [CrossRef]
+2. Saucedo-Estrada, H. Main theoretical approaches of the creative industries: From a meta-analytical orientation. Rev. Investig.
+Univ. Quindío 2022, 34, 371–383. [CrossRef]
+3. UNESCO. Leveraging Culture and Creativity for Sustainable Urban Development and Inclusive Growth ; United Nations
+UNESCO—Educational, Scientific and Cultural Organization: Paris, France; The World Bank: Paris, France, 2021;
+ISBN 978-92-3-100452-0.
+4. de Luca, C.; López-Murcia, J.; Conticelli, E.; Santangelo, A.; Perello, M.; Tondelli, S. Participatory Process for Regenerating Rural
+Areas through Heritage-Led Plans: The RURITAGE Community-Based Methodology. Sustainability 2021, 13, 5212. [CrossRef]
+5. Baycan, T.; Girard, L.F. Heritage in socio-economic development: Direct and indirect impacts. In Proceedings of the 17th General
+Assembly of ICOMOS, Paris, France, 27 November–2 December 2011; pp. 857–860.
+6. Lerario, A. The Role of Built Heritage for Sustainable Development Goals: From Statement to Action. Heritage 2022, 5, 2444–2463.
+[CrossRef]
+7. Sacco, P .L.Culture 3.0: A New Perspective for the EU 2014–2020 Structural Funds Programming; EENC Paper; OMC Working Group
+on Cultural and Creative Industries: Luxembourg, 2011.
+8. Prezioso, M.; D’Orazio, A.; Pigliucci, M. Topic Paper. Synergetic Relations between Cultural Heritage and Tourism as Driver for Territorial
+Development: ESPON Evidence; Topic paper; ESPON—EGTC: Luxembourg, 2020.
+9. European Commission. Recovery and Resilience Scoreboard; RRF—Recovery and Resilience Facility: Brussels, Belgium, 2022.
+10. Boccella, N.; Salerno, I. Creative Economy, Cultural Industries and Local Development.Procedia-Soc. Behav. Sci. 2016, 223, 291–296.
+[CrossRef]
+Urban Sci. 2024, 8, 39 20 of 22
+11. CRE:HUB. Policies for Cultural Creative Industries: The Hub for Innovative Regional Development; CRE:HUB: Vienna, Austria, 2017.
+12. Huang, E.X.; Zou, X. How do CCIs contribute to regional innovation? Int. J. Innov. Sci. 2024, 16, 320–337. [CrossRef]
+13. Gerlitz, L.; Prause, G.K. Cultural and Creative Industries as Innovation and Sustainable Transition Brokers in the Baltic Sea
+Region: A Strong Tribute to Sustainable Macro-Regional Development. Sustainability 2021, 13, 9742. [CrossRef]
+14. Mavrin, I.; Lamza-Maroni´ c, M.; Glavaš, J. Managing Urban And Regional Development Through European Capital of Culture
+Programme and Creative Industries with Application on the City of Osijek. In Proceedings of the 3rd International Scientific
+Symposium: Economy of Eastern Croatia-Vision and Growth, Osijeku, Croatia, 22–24 May 2014; pp. 97–107.
+15. ˇCerneviˇ ci¯ut˙e, J.; Strazdas, R.; Kregždait˙e, R.; Tvaronaviˇ cien˙e, M. Cultural and creative industries for sustainable postindustrial
+regional development: The case of Lithuania. J. Int. Stud. 2019, 12, 285–298. [CrossRef]
+16. Taylor, C. The Creative Industries, Governance and Economic Development: A UK Perspective BT—Creative Economies, Creative
+Cities: Asian-European Perspectives ; Kong, L., O’Connor, J., Eds.; Springer: Dordrecht, The Netherlands, 2009; pp. 153–166.
+ISBN 978-1-4020-9949-6.
+17. Weber, K.; Duarte, T. CCI Policies on European Level; Interreg-Central Europe: Vienna, Austria, 2020.
+18. Montalto, V .; Panella, F.; Sacco, P .L. What does Brexit mean for UK cultural and creative cities?Eur. Urban Reg. Stud. 2020, 28,
+47–57. [CrossRef]
+19. Eurostat Culture Statistics—Cultural Employment. Available online: https://ec.europa.eu/eurostat/statistics-explained/index.
+php?title=Culture_statistics_-_cultural_employment (accessed on 16 March 2024).
+20. OECD. Economic and Social Impact of Cultural and Creative Sectors; Note for Italy G20 Presidency Culture Working Group: Paris,
+France, 2021.
+21. GIZ. Cultural and Creative Industries: A Supra-Regional Project Implemented by GIZ and Goethe-Institut; GIZ: Bonn, Germany, 2022.
+22. El Difraoui, A. Prevention of Extremism through International Cultural Relations. From Art Therapy to Cultural Hub; ifa-Edition Kultur
+und Außenpolitik—2023; ifa (Institut für Auslandsbeziehungen e.V .): Stuttgart, Germany, 2023.
+23. de Bernard, M.; Comunian, R.; Gross, J. Cultural and creative ecosystems: A review of theories and methods, towards a new
+research agenda. Cult. Trends 2022, 31, 332–353. [CrossRef]
+24. Cinar, R.; Coenen, L. Universities’ contribution to culture and creativity-led regional development: Conflicting institutional
+demands and hybrid organizational responses. Ind. High. Educ. 2022, 37, 237–250. [CrossRef]
+25. European Commission. Impulse Paper on the Role of Cultural and Creative Sectors in Innovating European Industry; Publications Office:
+Luxembourg, 2019; ISBN 978-92-79-98202-6.
+26. Cui, R.; Chen, L. Research on art design and application of cognitively oriented thinking in the following creative products.
+Appl. Math. Nonlinear Sci. 2024, 9, 1–19. [CrossRef]
+27. Zhang, J.; Feng, Y. Research on the Creative Performance of Digital Film and Television Works Based on Virtual Reality Technology.
+Appl. Math. Nonlinear Sci. 2024, 9, 1–19. [CrossRef]
+28. Huang, L.; Jia, Y. Innovation and Development of Cultural and Creative Industries Based on Big Data for Industry 5.0.Sci. Program.
+2022, 2022, 2490033. [CrossRef]
+29. Horizon Europe. Culture, Creativity and Inclusive Society; Horizon Europe: Brussels, Belgium, 2023.
+30. Naheed, S.; Shooshtarian, S. The Role of Cultural Heritage in Promoting Urban Sustainability: A Brief Review.Land 2022, 11, 1508.
+[CrossRef]
+31. Krisiuk˙enien˙e, D.; Pilinkien˙e, V . Theoretical presumptions of the creative industries innovation productivity performance.Creat.
+Stud. 2023, 16, 91–107. [CrossRef]
+32. Lazaretou, S. The “Smart” Economy. Cultural and Creative Industries in Greece. Can They Be a Way Out of the Crisis? Bank of
+Greece Economic Bulletin: Athens, Greece, 2014.
+33. Brokalaki, Z.; Comunian, R. Beyond the hype. City 2021, 25, 396–418. [CrossRef]
+34. Lerer, M.; McGarrigle, C. Art in the Age of Financial Crisis. Vis. Resour. 2018, 34, 1–12. [CrossRef]
+35. Browning, S. A New Strategic Approach to the Development of Culture in Portsmouth ; Stephen Browning Associates: London,
+UK, 2018.
+36. ILO. Promoting Decent Work in the African Cultural and Creative Economy; ILO—International Labour Organization, Regional Office
+for Africa (ROAF): Geneva, Switzerland, 2022; ISBN 9789220392454.
+37. Potts, J.; Cunningham, S.; Hartley, J.; Ormerod, P . Social network markets: A new definition of the creative industries.J. Cult.
+Econ. 2008, 32, 167–185. [CrossRef]
+38. Lee, H.-K. Politics of the ‘creative industries’ discourse and its variants. Int. J. Cult. Policy 2016, 22, 438–455. [CrossRef]
+39. Greffe, X. From culture to creativity and the creative economy: A new agenda for cultural economics. City Cult. Soc. 2016, 7,
+71–74. [CrossRef]
+40. Pawlusi ´ nski, R.; Kubal, M. A new take on an old structure? Creative and slow tourism in Krakow (Poland).J. Tour. Cult. Change
+2018, 16, 265–285. [CrossRef]
+41. Gustafsson, C.; Lazzaro, E. The Innovative Response of Cultural and Creative Industries to Major European Societal Challenges:
+Toward a Knowledge and Competence Base. Sustainability 2021, 13, 13267. [CrossRef]
+42. Segovia, C.; Hervé, J. The creative city approach: Origins, construction and prospects in a scenario of transition. City Territ. Archit.
+2022, 9, 29. [CrossRef]
+Urban Sci. 2024, 8, 39 21 of 22
+43. Pesenti, M. Cultural Revival and Social Transformation in Ukraine. The Role of Culture and the Arts in Supporting Post-Euromaidan
+Resilience; Ukraine Forum: London, UK, 2020.
+44. Zhurzhenko, T. Fighting Empire, Weaponising Culture: The Conflict with Russia and the Restrictions on Russian Mass Culture in
+Post-Maidan Ukraine. Eur. Asia Stud. 2021, 73, 1441–1466. [CrossRef]
+45. Primorac, J. The Position of Cultural Workers in Creative Industries—The Case of Croatia; Eight Mediterranean Social and Political
+Research Meeting; Montecatini Terme: Florence, Italy, 2007.
+46. Primorac, J.; Barada, V .; Burši´ c, E. Creative Workers in Permanent Crisis: Labor in the Croatia’s Contemporary Arts and Culture.
+In The Industrialization of Creativity and Its Limits: Values, Politics and Lifestyles of Contemporary Cultural Economies; Kiriya, I., Kom-
+patsiaris, P ., Mylonas, Y., Eds.; Springer International Publishing: Cham, Switzerland, 2020; pp. 31–48. ISBN 978-3-030-53164-5.
+47. Kalfas, D.; Kalogiannidis, S.; Chatzitheodoridis, F.; Toska, E. Urbanization and Land Use Planning for Achieving the Sustainable
+Development Goals (SDGs): A Case Study of Greece. Urban Sci. 2023, 7, 43. [CrossRef]
+48. Betzler, D.; Loots, E.; Prok ˚ upek, M. Arts and culture in transformation: A critical analysis of the national plans for the European
+Recovery and Resilience Facility. Eur. Policy Anal. 2024, 10, 101–127. [CrossRef]
+49. Comunian, R.; Mould, O. The weakest link: Creative industries, flagship cultural projects and regeneration. City Cult. Soc. 2014, 5,
+65–74. [CrossRef]
+50. UK Department for Culture Media and Sport Creative Industries Sector Vision. Available online: https://www.gov.uk/
+government/publications/creative-industries-sector-vision (accessed on 18 March 2023).
+51. Usborne, E.; Taylor, D.M. The Role of Cultural Identity Clarity for Self-Concept Clarity, Self-Esteem, and Subjective Well-Being.
+Personal. Soc. Psychol. Bull. 2010, 36, 883–897. [CrossRef]
+52. Turgel, I.; Baskakova, I.; Derbeneva, V . Classifications of “second-tier” cities in the context of creative reindustrialisation. InE3S
+Web of Conferences, Proceedings of the VII International Scientific Conference “Cities of New Age: GLASS” (REC-2023), Ekaterinburg,
+Russia, 27–29 June 2023; EDP Sciences: Les Ulis, France, 2023; Volume 435, p. 435.
+53. Faraone, C. Territorial Challenges for Cultural and Creative Industries’ Contribution to Sustainable Innovation: Evidence from
+the Interreg Ita-Slo Project DIVA.Sustainability 2022, 14, 11271. [CrossRef]
+54. Sapiro, G. Globalization and cultural diversity in the book market: The case of literary translations in the US and in France.Poetics
+2010, 38, 419–439. [CrossRef]
+55. Compagnucci, L.; Spigarelli, F. The Third Mission of the university: A systematic literature review on potentials and constraints.
+Technol. Forecast. Soc. Change 2020, 161, 120284. [CrossRef]
+56. INNOMED-UP . Promoting UPcycling in Circular Economy through INNovation and Education for Creative Industries in
+MEDiterranean Cities. Available online: https://www.enicbcmed.eu/projects/innomed-up (accessed on 17 March 2024).
+57. Dellisanti, R. Spatial patterns of Cultural and Creative Industries: Creativity and filière behind concentration. Pap. Reg. Sci. 2023,
+102, 533–565. [CrossRef]
+58. ˇCerneviˇ ci¯ut˙e, J.; Strazdas, R. Creative Industries as Part of a Sustainable Urban Development Strategy: Vilnius City Case.
+Sustainability 2023, 15, 10778. [CrossRef]
+59. Manioudis, M.; Angelakis, A. Creative Economy and Sustainable Regional Growth: Lessons from the Implementation of
+Entrepreneurial Discovery Process at the Regional Level. Sustainability 2023, 15, 7681. [CrossRef]
+60. ECBN. European Creative Industries Summit 2015—ECIS Report; ECBN: Brussels, Belgium, 2015.
+61. Franco, P .A.I.; Njogu, K. Cultural and Creative Industries Supporting Activities in Sub-Saharan Africa: Mapping and Analysis ; ifa
+Publications: Stuttgart, Germany, 2020; ISBN 394820523X.
+62. Dent, T.; Comunian, R.; Tanghetti, J. Who cares for creative and cultural workers? The role of intermediaries in Europe’s creative
+economy. Cult. Trends 2023, 1–18. [CrossRef]
+63. Dent, T.; Tanghetti, J.; Comunian, R. Creative and cultural work post-Covid-19: Interruptions as space of political re-futuring.
+Int. J. Cult. Stud. 2023. [CrossRef]
+64. Calligaro, O. From ‘European cultural heritage’ to ‘cultural diversity’? Polit. Eur. 2014, 45, 60–85. [CrossRef]
+65. ADRION. Policy Paper with Recommendations and Follow-Up for Influencing the Policy Debate on Cultural Heritage Assets Management
+Widely Conceived as Tangible and Intangible Assets; ADRION: Bologna, Italy, 2023.
+66. Allam, Z.; Newman, P . Smart Cultural and Inclusive Cities: How Smart City Can Help Urban Culture and Inclusion. InRevising
+Smart Cities with Regenerative Design; Allam, Z., Newman, P ., Eds.; Springer International Publishing: Cham, Switzerland, 2023;
+pp. 77–99. ISBN 978-3-031-28028-3.
+67. LGA. Combined Authorities and the Creative Industries; LGA: London, UK, 2021.
+68. UNIDO. Creative Industries and Micro & Small Scale Enterprise Development. A Contribution to Poverty Alleviation; UNIDO: Vienna,
+Austria, 2018.
+69. Papadaki, E. Promoting Green Tourism Synergies with Cultural and Creative Industries: A Case Study of Greece. Sustainability
+2024, 16, 633. [CrossRef]
+70. OECD. Disrupting Tradition. How Digital Technology Is Changing the Cultural and Creative Processes; The Summer Academy: Paris,
+France, 2023.
+71. UNCTAD.Strengthening the Creative Industries for Development in Mozambique: Multi-Agency Pilot Project: ACP/EC/ILO/UNCT AD/UNESCO;
+UNCTAD creative industries country studies series; UNCTAD: Geneva, Switzerland, 2011.
+Urban Sci. 2024, 8, 39 22 of 22
+72. Liang, Y.; Mazlan, N.S.; Bin Mohamed, A.; Mhd Bani, N.Y.B.; Liang, B. Regional impact of aging population on economic
+development in China: Evidence from panel threshold regression (PTR). PLoS ONE 2023, 18, e0282913. [CrossRef]
+73. Borre, J.R.; Romero, G.C.; Gutiérrez, J.M.; Ramírez, J. Discussion of the aspects of the cultural and creative industries that impact
+on sustainable development: A systematic review. Procedia Comput. Sci. 2023, 224, 532–537. [CrossRef]
+74. Chapain, C.; Lange, B.; Stachowiak, K. Can medium-sized cities become Creative Cities? Discussing the cases of three Central
+and Western European cities. Roswoj Reg. I Polit. Reg. 2013, 24, 99–127.
+75. Fahmi, F.Z.; McCann, P .; Koster, S. Creative economy policy in developing countries: The case of Indonesia.Urban Stud. 2015, 54,
+1367–1384. [CrossRef]
+76. Kalfas, D.G.; Zagkas, D.T.; Dragozi, E.I.; Melfou, K.K. An approach of landsenses ecology and landsenseology in Greece. Int. J.
+Sustain. Dev. World Ecol. 2021, 28, 677–692. [CrossRef]
+77. Rausell-Köster, P .; Ghirardi, S.; Sanjuán, J.; Molinari, F.; Abril, B. Cultural experiences in the framework of “cultural cities”:
+Measuring the socioeconomic impact of culture in urban performance. City Territ. Archit. 2022, 9, 40. [CrossRef]
+78. Zhang, R.; Chen, S.; Xu, S.; Law, R.; Zhang, M. Research on the Sustainable Development of Urban Night Tourism Economy: A
+Case Study of Shenzhen City. Front. Sustain. Cities 2022, 4, 870697. [CrossRef]
+79. Son, N.N.; Thu, N.T.; Dung, N.Q.; Huyen, B.T.; Xuan, V .N. Determinants of the Sustained Development of the Night-Time
+Economy: The Case of Hanoi, Capital of Vietnam. J. Risk Financ. Manag. 2023, 16, 351. [CrossRef]
+80. Yan, W.-J.; Liu, S.-T. Creative Economy and Sustainable Development: Shaping Flexible Cultural Governance Model for Creativity.
+Sustainability 2023, 15, 4353. [CrossRef]
+81. Kalogiannidis, S.; Chatzitheodoridis, F.; Dimitrios, K.; Papadopoulou, C.-I. Role of Local and Regional Authorities in Inclusive,
+Resilient, and Green Recovery for Sustainable Development. In Financing Regions toward Sustainability in the Midst of Climate
+Change Risks and Uncertainty ; Filipiak, B.Z., Kordela, D., Nawrolska, I., Eds.; IGI Global: Hershey, PA, USA, 2023; pp. 1–26.
+ISBN 9781668476208. [CrossRef]
+82. Ma, D. The Construction of Cultural and Creative Industry Policy Ecosystem Based on Big Data Platform. SHS Web Conf. 2023,
+165, 01014. [CrossRef]
+83. McCann, P .; Ortega-Argilés, R. Smart Specialization, Regional Growth and Applications to European Union Cohesion Policy.
+Reg. Stud. 2015, 49, 1291–1302. [CrossRef]
+84. Brandano, M.G.; Urso, G. Italian cultural and creative industries following the Great Recession: An exploration of the local
+determinants of growth. Reg. Stud. Reg. Sci. 2023, 10, 778–797. [CrossRef]
+85. OECD. The Value of Culture and the Creative Industries in Local Development; Summer Academy on Cultural and Creative Industries
+and Local Development: Paris, France, 2018.
+86. Eurostat. Available online: https://ec.europa.eu/eurostat/web/main/home (accessed on 11 March 2024).
+87. UNCTAD. Creative Economy Outlook 2022: Overview; United Nations Conference on Trade and Development: New York, NY, USA,
+2022; ISBN 9789210021418.
+88. Kalogiannidis, S.; Kalfas, D.; Chatzitheodoridis, F.; Lekkas, E. Role of Governance in Developing Disaster Resiliency and Its
+Impact on Economic Sustainability. J. Risk Financ. Manag. 2023, 16, 151. [CrossRef]
+89. Kalogiannidis, S.; Paschalidou, M.; Kalfas, D.; Chatzitheodoridis, F. Relationship between Cyber Security and Civil Protection in
+the Greek Reality. Appl. Sci. 2023, 13, 2607. [CrossRef]
+90. Kalogiannidis, S.; Kalfas, D.; Chatzitheodoridis, F. The Impact of Collaborative Communication on the Physical Distribution
+Service Quality of Soft Drinks: A Case Study of Beverage Manufacturing Companies in Greece. Beverages 2022, 8, 47. [CrossRef]
+91. Kalogiannidis, S.; Kalfas, D.; Loizou, E.; Chatzitheodoridis, F. Forestry Bioeconomy Contribution on Socioeconomic Development:
+Evidence from Greece. Land 2022, 11, 2139. [CrossRef]
+92. Kalfas, D.; Kalogiannidis, S.; Papaevangelou, O.; Melfou, K.; Chatzitheodoridis, F. Integration of Technology in Agricultural
+Practices towards Agricultural Sustainability: A Case Study of Greece. Sustainability 2024, 16, 2664. [CrossRef]
+93. Chen, Z.; Chen, X.; Mak, B. The hybrid discourse on creative tourism: Illuminating the value creation process. Int. J. Cult. Tour.
+Hosp. Res. 2021, 15, 547–564. [CrossRef]
+94. Khlystova, O.; Kalyuzhnova, Y. The impact of the creative industries and digitalization on regional resilience and productive
+entrepreneurship. J. Technol. Transf. 2023, 48, 1654–1695. [CrossRef]
+95. ADBI. Creative Economy 2030: Imagining and Delivering a Robust, Creative, Inclusive, and Sustainable Recovery; Sonobe, T., Buchoud,
+N.J.A., Tan Ghee Tiong, J., Baek, S., Hendriyetty, N., Sioson, E.P ., Eds.; Asian Development Bank Insitute—ADBI: Tokyo, Japan,
+2022; ISBN 4899742576.
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

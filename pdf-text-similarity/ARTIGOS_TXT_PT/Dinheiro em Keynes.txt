@@ -1,0 +1,761 @@
+O CONCEITO DE DINHEIRO EM KEYNES* 
+Carlos Aguedo Nagel Paiva* 
+"O observador deve já possuir o conceito daquilo que há 
+de procurar nas manifestações duma coisa, para ver­
+dadeiramente a compreender " 
+G. F. Hegel 
+Introdução à História da Filosofia 
+1 - À guisa de introdução: a questão do conceito 
+de dinheiro na tradição pós-keynesiana 
+Aparentemente não haveria motivos para se tomar a categoria dinheiro como 
+particularmente polêmica na obra de Keynes. De fato, dentre o sem-número de 
+controvérsias que a obra deste autor abriu — e que se reproduzem tanto no mterior do 
+"pós-keynesianismo" como nos embates dessa corrente com o mainstream —, a 
+questão da caracterização mesma do dinheiro tem pouca ou nenhuma expressão. E um 
+tal "acordo mterpretativo" não parece infundado. Afmal, as duas obras teóricas mais 
+expressivas de Keynes — o Treatise on Money e a Teoria Geral do Emprego, do 
+Juro e do Dinheiro — têm essa categoria (ainda que de forma distinta) em seu centro. 
+A primeira dentre essas obras pretende ser justamente um tratado exaustivo sobre 
+o dmheiro. Dividido em dois grossos volumes — The Pure Theory of Money e The 
+Applied Theory of Money —, o Treatise abarca todo um leque de questões, que 
+avançam da caracterização mais geral da "natureza do dinheiro" (apanhada a parth- do 
+resgate de suas "formas", lógica e historicamente consideradas) até a tentativa de 
+detenninação empfrica da participação relativa (no volume total) e das velocidades de 
+Contrariando uma das normas da revista — que toda citação de original de autor estrangeiro deve vir 
+acompanhada de tradução em português —, este artigo trabalha diretamente com os textos em inglês, 
+dada a peculiaridade do que está em exame. A excepcional idade da abordagem e os méritos do conteúdo 
+fornecem-nos os argumentos para flexibilizarmos a referida norma (Nota do Editor). 
+Professor da UFU e doutorando em Economia da UNICAMP. 
+Como aparece — apenas para citar dois exemplos clássicos — em Davidson (1972, em especial caps 7 
+e 8) e Hicks (1967, particularmente no primeiro conjunto de ensaios, intitulado The two triads) Vale 
+observar que ambos os autores convergem em resgatar a importância da demanda precauclonal de 
+dinheiro (vis-à-vis à demanda especulativa, que teria sido "sobrevalorizada" na literatura keynesiana) e 
+divergem no tratamento da demanda transacional, que ganha relevância em Davidson, enquanto para 
+Hicks" (. ) it is not ademand for money, in the way that the other is. There ip no a 'Transaction Motive' 
+bebindit" (HICKS, 1967, p 16) 
+Como consta — resgatando uma expressão recente desse debate entre nós — em Costa (1993, p 61 e 
+segs ) e Carvalho (1993, p 114 e segs.) Para Costa (1993, p 62), "(..) o postulado das propriedades da 
+moeda é 'negligenciável' na teoria monetária pós-keynesiana", o que será duramente criticado por 
+Carvalho a partir da inconsistência das hipóteses "horizontalistas", que, pretensamente, sustentariam a 
+posição daquele primeiro É de se notar, contudo, que, para além das diferenças entre os autores, ambos 
+tratam — equivocadamente, do nosso ponto de vista — as categorias "dinheiro" e "moeda" como 
+absolutamente equivalentes Foi a constatação da recorrência desse equívoco entre autores de 
+reconhecida competência como intérpretes de Keynes que nos estimulou a produzir e a trazer à luz 
+este pequeno trabalho. 
+circulação específicas do dinheiro empregado nos circuitos da produção industrial, do 
+consumo de bens finais e da circulação financeua, na Inglaterra do início do século. 
+Por outro lado, se, na Teoria Geral, o dinheiro deixa de ser o objeto por excelência 
+da investigação de Keynes, ele vai aparecer como o elemento mediador do processo 
+mais geral de valorização capitalista, em sua bifurcação no jogo conflitivo da especu­
+lação e do investimento produtivo. E, dentro desse quadro, o dinheiro será igualmente 
+objeto de investigação e teorização ao longo de toda a obra, recebendo tratamento 
+conceituai acurado no mui justamente famoso Capítulo 17 da mesma, intitulado As 
+Propriedades Essenciais do Juro e do Dinheiro. 
+Ora, sujeito a tratamento tão exaustivo, não é de se estranhar que a maior parte dos 
+intérpretes de Keynes tome o "dmheiro" como uma categoria clara e solidamente 
+definida nesse autor. O que, por sua vez, sem conduzir à conclusão de que a "teoria 
+monetária" keynesiana seja carente de pontos polêmicos (o que seria um completo 
+absurdo), tende a circunscrever essa polêmica à avaliação crítica da correção e da 
+atualidade dos determinantes da demanda' e propriedade do dinheiro. 
+Infelizmente, porém, quer nos parecer que a questão não seja tão simples e que um 
+tal padrão de circunscrição do debate seja responsável por todo um conjunto de 
+incompreensões e desvios interpretativos. Desde logo, há uma confiisão metodológica 
+séria na pretensão de que se pudesse discutir as "funções" (em sentido mais geral) e as 
+"propriedades" de uma dada categoria sem colocar em discussão o seu próprio conceito. 
+Uma tal leitura é prisioneira de uma apreensão materialista vulgar das categorias 
+científicas, como se elas fossem "coisas" portadoras de uma realidade empírica não 
+apenas insuspeita como, por si só, suficiente para sustentar sua caracterização/de­
+finição. Só assim, a questão de se cabe ao dinheiro uma "demanda transacional" ou a 
+"propriedade de baixa elasticidade de produção" não colocaria em xeque o conceito 
+mesmo dessa categoria. Afinal, dentro dessa perspectiva, dinheiro é... dinheiro, nada 
+mais do que isto! 
+Brunner expressa com a máxima nitidez essa leitura, ao dizer: "Money is still best defined in the classical 
+tradition to reter to any object generally accepted and used as a médium of exchange. Financial 
+innovation associated with technological or institucional changes do not modify this defmition" 
+(BRUNNER, 1991, p 527) É digno de nota que essa definição tão sucinta quanto equivocada se encontra 
+em um dicionário tomado por muitos como "heterodoxo", mas que, sintomaticamente, não comporta o 
+verbete "money", como se, de alguma forma, o seu conceito não fosse objeto de polêmica 
+Sintetizada por Minsky(1975, p 10) no fato de que: "A Treatise on Money rests upon the determination 
+of system behavior by a theoretical apparatus based upon production fiinctions and simple preference 
+systems In The General Theory this analytical apparatus is discarded — or at least placed in a 
+subordinate position. ( ) In The General Theory the speculative nature ofasset holding and financing 
+choices dominates production-fünction characteristics in determining investment-output" 
+De fato, há toda uma tradição "teórica" que se satisfaz com uma tal "definição": 
+para o mainstream, o "dinheiro" é um pouco essa planitude, essa categoria "óbvia", 
+"auto-reférida", carente de qualquer complexidade ou significação teórica. Mas isso só 
+é assim na exata medida em que, ao se tomar aí o dinheiro como algo essencialmente 
+uniflincional (o "meio de troca"), ele pode ser rigorosamente "coisificado", identifi­
+cando-se imediata e impositivarnente com a moeda.^ 
+Ora, nada poderia estar mais distante da perspectiva de Keynes. Na realidade — e 
+ao contrário do que pretenderiam aqueles que tomam essas obras como suficientes para 
+dirimir qualquer polêmica conceimal —, já no projeto de trabalho que resultará no 
+Tratado sobre o Dinheiro e na Teoria Geral do Emprego, do Juro e do Dinheiro, 
+fica evidente a insatisfação de Keynes com a pretensão de se tomar essa categoria como 
+"óbvia" e "auto-explicativa". Em oposição a tal leitura, Keynes vai buscar aí (dentre 
+outros movimentos) determinar o conceito de dinheiro; o que envolve toda uma 
+batalha á máscara de "obviedade" com que o maisníream asfixiava aquele conceito 
+num jogo contraditório de "coisificação" e "indeterminação" (abstração). 
+Não deixa de ser interessante que um tal movimento tenha escapado a boa parte 
+dos intérpretes mais abalizados de Keynes, aparentemente satisfeitos com a redução 
+(por assim dizer) "monetarista" do dinlieiro. Contudo uma tal confiisão é, até certo 
+ponto, bastante compreensível. 
+Desde logo, há que se entender que a obra de Keynes não é um todo homogêneo e 
+contínuo, mas uma obra complexa e dinâmica, permeada de mpturas que circunscrevem os 
+limites dentro dos quais se pode querer integrar seus distintos desenvolvimentos sobre um 
+mesmo tema. Em particular, há toda uma distância entie o Treatise e a Teoria Geral, que, se 
+já foi suficientemente apreendida ao nível mais geral dos determmantes do processo de 
+reprodução econômica'*, ainda não o foi naquilo que diz respeito à leitura do dinheiro que 
+ambas carregam. Para ii ao ponto (e antecipando desenvolvimentos posteriores); a despeito 
+de todos os avanços que o Treatise comporta, Keynes não alcançou formular nessa obra um 
+novo conceito de dinheiro. E isso na medida mesmo em que sua teoria "monetário-fmanceira" 
+da produção apenas começava a ser gestada nesse momento, o que circunscrevia sua própria 
+leitura das "funções do dinheiro" bem como a hierarquia destas (que é o ftindamento do 
+novo conceito que emergirá na Teoria Geral) a uma "apropriação crítica" da leitiuB clássica. 
+Não será preciso dizer, contudo, que esse "ofuscamento" acaba por cobrar o seu preço E o preço é a 
+incompreensão de todo um conjunto de desenvolvimentos de Keynes, tomados como contraditórios e 
+carentes de "concertos" e "enxertos". 
+Na realidade, o problema está em que se "cash" ou "currency" expressam exclusivamente a idéia de 
+"moeda", o substantivo "money" não tem sua acepção restrita à idéia de "dinheiro" Antes pelo contrário: o 
+adjetivo "monetary" (monetário) — que se deriva de "money" — não só revela a ambigüidade desse 
+substantivo, como reforça sua interpretação em um determinado sentido, Foi para escapar a essas ambigüi­
+dades terminológicas e para garantir autonomia ao leitor deste artigo na avaliação de nossa própria 
+interpretação do conceito de dinheiro em Keynes que optamos por reproduzir em sua forma original todas 
+as citações extraídas de textos escritos em inglês Em respeito àquele leitor que não tem acesso à edição 
+inglesa da Teoria Geral, indicamos com anotação "E.B." apáginaem que as passagens citadas seencontram 
+na edição brasileira da coleção Os Economistas da Abril Cultural (KEYNES, 1983). 
+É isso que explica o fato de Marx — que, sem padecer da limitação "léxica" keynesiana, explicitamente 
+diferencia as duas categorias — poder ser tão mal interpretado nesse particular, que se toma possível a ampla 
+divulgação de um texto pautado exatamente no apagamento da distinção entre "dinheiro" e "moeda" — 
+como o é A Moeda em Marx de Suzanne de Brunhoff — como uma das melhores apresentações da "teoria 
+monetária" (sic) marxista! Diante disso, qualquer limitação no debate pós-keynesiano em tomo do conceito 
+de dinheiro em Keynes parece mais do que trivial, parece quase "natural". 
+Como o são — para dar apenas dois exemplos tão conspícuos quanto "populares" — os "near-moneys" 
+e os "Ms 1, 2, 3, . n". Como veremos adiante, Keynes desenvolverá um sistema analítico próprio para 
+a classificação do dinheiro, tão distante da indeterminação da (pseudo) categoria "near-money" quanto 
+do empirismo vulgar dos "Ms numerados". 
+Como se isso não bastasse para gerar a incompreensão aludida acima, Keynes só 
+vai atingir uma formulação radicalmente nova sobre o dinheiro na medida em que 
+passar a referenciar essa categoria a uma dinâmica mais geral do processo de 
+valorização capitalista. Vale dizer, sua nova formulação emerge justamente quando 
+o dinheiro enquanto tal deixa de ocupar o epicentro de suas investigações. O resultado 
+desse processo é que essa nova determinação conceituai acaba sendo como que 
+"ofiiscada" pelo conjunto absolutamente revolucionário de desenvolvimentos teóricos 
+que a Teoria Geral comporta.^ 
+Finalmente, a contribuir com esse movimento de "ofuscamento", está toda a força 
+do hábito, a força de se pensar nos termos mais tradicionais. Força que, nesse caso, 
+ganha uma impulsão particular a partir de um fato tão prosaico quanto significativo: o 
+fato de que a língua inglesa — que não é apenas a língua em que Keynes escreve, mas 
+a língua da economia política por excelência — não comporta duas expressões distintas 
+para as idéias de "dinheiro" e "moeda".^ 
+É bem verdade que essa limitação léxica da língua inglesa não é gratuita, mas 
+deve-se à própria sutileza da distinção entre essas categorias. Há, de fato, uma 
+intersecção estrutural entre as duas, que, inúmeras vezes, se impõe de forma a tornar 
+qualquer distinção teórica ociosa em termos "práticos"/ Contudo essa situação-
+-limite não corresponde à "regra" do funcionamento da economia. E o reconhecimento 
+desse fato já se expressa — particularmente ao nível da tradição anglosaxã da ciência 
+econômica—na recorrência dos esforços de qualificação do substantivo "money" com 
+vistas a explicitar os significados distintos que esse significante comporta,* 
+2 - A construção do conceito de dinheiro em Keynes 
+2.1 - A "natureza do dinheiro" no Treatise on Money 
+Sem sombra de dúvida, a despeito das limitações teóricas a que já nos referimos 
+acima, o Treatise on Money é um marco no desenvolvimento do conceito de dinheiro 
+em nosso autor. De foima particular — e considerando-a estritamente no plano dessa 
+questão conceimal —, essa é a obra onde Keynes leva mais longe o esforço de resgatar 
+a complexidade do "objeto dinheiro" a partir da análise e da explicitação da multiplici­
+dade de "formas" e "dimensões" inerentes a essa categoria. 
+Na realidade, todo o Livro I — The Nature of Money — do Treatise de Keynes 
+pode ser lido como uma batalha contra a camisa-de-força "léxica" que aprisiona ao 
+significante "money" um conjunto multifácetado de significados. "Money", "money of 
+account", "money proper", "bank money", "representative money", "commodity 
+money", "fiat money", "managed money", "state money", "cwrent money", "income 
+money", "business money", "saving money", "demand deposit", "cash deposit", "cash 
+facüities" são expressões que emergem e se alternam ao longo dos três capítulos desse 
+livro, na busca de resgatar e de expressar teoricamente as diferenças — mais ou menos 
+sutis, mais ou menos sistematizadas nesse contexto — entre distintas dimensões do 
+dinheiro. Dentre as inúmeras distinções levantadas por Keynes, vale a pena resgatar 
+sua caracterização de "money of account" e de "money" (ou "money itself) tal como 
+aparecem na abertura do primeiro capítulo do Treatise. Segundo Keynes; 
+"Money of account, namely that in which debts and prices and general 
+purchasing power are expressed, is the primary concept of a theory of money. 
+"A money of account comes into existence along with debts, which are 
+contracts for deferred payment, and prices lists, which are offers of contracts 
+for sale or purchase. 
+"Money itself^ namely that by delivery of which debt contracts and price 
+contracts are discharged, and in the shape of which a store of general 
+purchasing power is held, derives its character from its relationship to the 
+money of account, since the debts and prices must first have been expressed 
+in terais of the latter. Something which is merely used as a convenient 
+médium of exchange on the spot may approach to being money, inasmuch as it may 
+represent a means of holding general purchasing power. But if this is ali, we have 
+Como veremos adiante, Keynes foi um dos autores que levou mais longe o esforço de 
+caracterização e qualificação das distintas formas e dimensões do dinheiro. Infelizmente, 
+porém, seus esforços não foram suficientes para driblar o complexo jogo de determinantes 
+que alimentou o ofuscamento do caráter revolucionário de sua obra nesse plano particular. 
+' Os quais, por sua vez, como é bastante evidente, extraímos de Marx, em particular do capítulo terceiro 
+do Livro I de O Capital. 
+scarcely emerged from the stage of barter. Money proper in the fiill sense of the 
+term can only exist in relation to a money of account" (KEYNES, 1979, p.3). 
+Desde logo, é mais ou menos evidente que, em Keynes, a categoria "money of 
+account" é aquela que responde pela fimção "medida do valor" da economia. E isso em 
+um sentido rigoroso, como uma função do dinheiro que se diferencia da mera "unidade 
+de conta" pelo fato de não se referir tão-somente a um instrumento para "apreçar" 
+(tomando comparáveis) mercadorias que estão postas já e inexoravelmente em 
+processo de intercâmbio. Ao definir o "money of account" explicitamente como a 
+referência que viabiliza os confratos de débito e crédito, Keynes busca tornar clara 
+sua prevalência como instrumento de avaliação do "valor" (e de sua estabilidade) 
+para a realização de transações que sg projetam no tempo. 
+Por oufro lado, Keynes vai caracterizar "money" como a "coisa" capaz de cumprir 
+a dupla fimção de "médium of exchange on the spot" e "the shape of which a store of 
+general purchasing power is held". Pareceria, então, que, se se resgatam as três funções 
+clássicas do dinheiro, a categoria "money" cumprfria em Keynes a dupla função de meio 
+de froca e reserva de valor; o que permitiria interpretar o padrão analítico proposto por 
+esse autor como uma forma particular do critério funcional mais fradicional. 
+Feliz ou infelizmente, porém, a questão é mais complexa do que paiece à primeira vista. 
+E isso na medida mesmo em que a opção de Keynes por operar com as categorias "money" e 
+"money of account" ao invés de trabalhar com as "fimções clássicas" diz respeito à 
+preocupação com a possibiüdade de diferenciação objetiva daquelas duas dimensões 
+do dinheiro. É o que o autor explicitamente coloca na continuidade da passagem reproduzida 
+acima: 
+"Perhaps we may elucidate the distinction between money and money of account 
+by sayng that the money of account is the description or title and the money is 
+the thing which answers to the description. Now, if the same thing always 
+answered to the interest. But if the thing can change, whilst tlie description remains 
+the same, then the distmction can be highly significant" (KEYNES, 1979, p.3). 
+Ora, o que fica claro aqui é que a dimensão conceitual/fimcional do dinheiro cabe, em 
+Keynes, antes ao "money of account" do que àquilo que esse autor chama de "money". E é 
+por isso que "(...) money proper in the fitll sense of the term can only exist in relation to a 
+money of accovmt"; é porque, se a "coisa money" se distingue do "money of account", ela 
+perde o afributo de ser instmmento de avaliação Ê, portanto. ÜÊ preservação do valor 
+ao longo do tempo. Ela vira pura "moeda", puro "meio de froca". 
+Traduzidas as categorias acima nos nossos próprios termos^, diríamos que, para o 
+Keynes do Treatise, "money proper" corresponde ao "dinheiro", enquanto o "money 
+itself (ou "money, the thing") corresponde ao "ativo monetário", portador (de fonna 
+Evidentemente, para que essa dialética entre "sustentação" e "preservação" não se torne um jogo de 
+palavras, é preciso que a variação de poder de compra a que está submetida a moeda não seja tão 
+pronunciada a ponto de significar um risco permanente de não-realização dos planos de compra de 
+agentes que a mantêm consigo por motivos meramente transacionais. 
+É interessante observar desde já que, a despeito do que pretenderam intérpretes abalizados da obra de 
+Keynes — como Hicks, 1967, p. 18) —, esse autor não rompeu com a perspectiva do Treatise de tomar 
+o dinheiro como um ativo capaz de proporcionar rendimentos financeiros. Os que pretendem o contrário, 
+fázem-no por não entenderem que a teoria do juro como remuneração pela cedência de liquidez 
+(dinheiro) busca resgatar os determinantes da taxa de juros relevante da economia (aquela que, 
+confi-ontada com a eficiência marginal do capital, impõe um freio à acumulação produtiva), e nãO de 
+qualquer remuneração monetário-financeira que toma a forma de juro. Quando se alcança superar 
+essa conftisão, fica fácil entender porque, para o Keynes da Teoria Geral,"(...) we can treat as money 
+any command over general purchasing power which the owner has not parted with for a period in excess 
+of three months (. ) It is often convenient in practice to include in money time-deposits with banks and, 
+occasionally, even such instruments as (e g ) treasury bills As a rule, ishall, as in my Treatise on money, 
+assume that money is co-extensive witii bank deposits" (KEYNES, 1978, p.l67; E.B.; 122). 
+inalienável, ainda que não exclusiva) da função meio circulante. Se à "moeda" assim 
+defmida caberá plenamente, ou não, a "função dinheiro", é algo que está em ftinção de 
+sua relação com o "money of account" da economia. 
+Mas, se a leitura acima está correta, porque haveria Keynes caracterizado a moeda 
+(o "money itself) como "the shape of which a store of general purchasing power is 
+held"? Quer nos parecer que a resposta se encontra no fato de que, mesmo reconhe­
+cendo a possibilidade de a moeda não cumprh (a partir da instabilização de seu poder 
+de compra) a "função dinheiro" da economia, Keynes vai pensá-la rigorosamente como 
+um ativo; vale dizer, como "coisa" que se preserva no tempo e que intervém particu­
+larmente em transações onde o intervalo que medeia a "decisão" e a "conclusão" de 
+uma compra é não desprezível. Assim, por ser a moeda o poder de compra coisificado, 
+ela é, também e conceitualmente, a forma em que este poder de compra é "susten­
+tado", ainda que esta sustentação não implique preservação plena do mesmo."* 
+Que esta seja a melhor interpretação das intenções de Keynes na passagem 
+considerada acima é algo que fica mais claro no capítulo terceiro do Treatise, quando 
+nosso autor introduz uma nova categoria — a de "cash facilities" —, que, sem se 
+identificar com o ativo monetário (o "money itself), corresponde a uma forma 
+particular e tendencialmente hegemônica do "meio circulante" da economia. 
+O ponto de partida dessa nova categoria encontra-se no capítulo segundo — Bank 
+Money — do Treatise. Havendo demonshado aí que, já no período considerado, paia as 
+economias capitalistas mais desenvolvidas"(...) current money is predominantly bank money" 
+(KEYNES, 1979, p.27), Keynes vai tratar de definir este último a partir da caracterização de 
+"cash e savings deposits". O primeiro dentre estes, segundo o autor, "(...) roughly corresponds 
+to what Amei icans call demand deposits and we call current accounts", com a ressalva de que 
+"(...) the old-fasliioned distinction between deposit accounts and cuirent accounts, namely that 
+the former eam interest but the latter do not, is fást becoming blurred". E isso na exata medida 
+em que, na concepção de Keynes,"(...) short-period savings deposits are liable to be classified 
+amongst the current accounts rather than the deposit accounts". (KEYNES, 1979, p.32).'' 
+É só por se colocar nessa perspectiva mais ampla que Keynes pode afirmar, no bojo mesmo dessa 
+discussão, que "in the case of large and well-organised firms, the tendency is for their cash accounts 
+to tend on the average (reckoning cash deposits pius and overdrafts minus) towards zero, or, at any 
+rate, a very low figure, partiy by the use of the overdraft and partiy hy investing temporary surpius 
+balances in Mls ar in loans to íM money market. If the minimum balances, maintained in pursuance 
+of an agreement for the remuneration of the bank, be subhacted, íM average cash accounts flf big 
+business (reckoned as abovel bear a very small proportion to the volume of the cheque.s passing 
+through the account.s But private individuais also are making an ever-increasing use of overdraft 
+facilities (grifo nosso)" (KEYNES, 1979, p 37), 
+Mas, se os "cash deposits" assim definidos correspondem ao conjunto dos ativos monetários 
+bancários, eles não correspondem ao conjunto do "meio circulante" de origem bancária E isso na 
+medida em que os saldos disponíveis em "cash deposif não coirespondem ao único meio de prover 
+"(...) the ready comand over money which is required fi^r the convenient transaction 
+of current payments. (...) It is provided, equally well, by the overdraft, i.e. by an 
+arrangement with the bank that an accoimt may be in debit at any time up to an 
+amount not exceeding an agreed figure, interest bemg paid not on the agreed 
+maximum debit, but on the acüial average debit" (KEYNES, 1979, p.36). 
+Só quando associamos os "cash deposits" ao conjunto dos modernos mecanismos 
+bancários de "crédito automático" (sintetizados por Keynes no termo "overdrafts'') 
+é que alcançamos dimensionar efetivamente os "instrumentos monetários" — ou "cash 
+facilities" — da economia. É para esse fato que Keynes chama atenção ao dizer: 
+"The reader must notice that it is not the amoimt of the customer's used 
+overdraft appearing on the asseis side of the bank's balance sheet, but the 
+amount of bis unesed overdraft, which does not (at present) appear anywhere 
+at ali in a bank's statement of its assets and liabilities, which corresponds to 
+a cash deposit [as a disposable mean of payment] — so that it is the total of 
+the cash deposits and the unused overdraft facilities outstanding which 
+together make up the total of cash facilities" (KEYNES, 1979, p.37). 
+E a relevância dada por Keynes ao fato de que, não sendo rigorosamente um ativo,"(...) 
+there exists in imused overdraft facilities a form of bank money of growing importance, of 
+which we have no statistical record whatever (...) (grifo nosso)" (KEYNES, 1979, p.37). 
+Prende-se ao fato de que, para esse autor,"(...) the cash facilities (...) are truly cash for 
+the purposes ofthe theory ofthe value of money (grifo nosso)" (KEYNES, 1979, p.38). 
+Ora, não nos importa discutir aqui a correção ou incorreção da teoria proposta por 
+Keynes no Treatise em tomo do poder de compra da moeda. O que importa, isto sim, 
+é resgatar o significado da categoria "cash facüities" na leitura desse autor do desen­
+volvimento das formas monetárias no capitalismo avançado. Nesse sentido, é preciso 
+ver que Keynes subsume ao que ele chama de "overdraft facilities" todo um conjunto 
+de movações financeiras (onde, rigorosamente, se incluem movimentos de agilização 
+dos processos de compensação bancária e de ampliação da "liquidez" de aplicações 
+financeiras formalmente ilíquidas), cujo sentido maior é o de maximizar a autonomia 
+do sistema bancário na sustentação e na criação do meio circulante da economia.'^ 
+2.2 - Dinheiro e liquidez na Teoria Geral 
+A transformação imposta por Keynes no eixo do tratamento do dinheiro do 
+Treatise para a Teoria Geral é algo que salta aos olhos do leitor mais desavisado. A 
+manifestação mais evidente dessa transformação é justamente o abandono de todo o 
+sofisticado aparato categorial da obra anterior, voltado à classificação/diferenciação de 
+suas distintas "formas". E isso não por qualquer pretensa irrelevância das mesmas. É 
+que — do nosso ponto de vista —, ao alcançar efetivamente formular "o" (ou, se se 
+quiser, "um") conceito de dinheiro em sua obra maior, Keynes luta para firmar esse 
+conceito em suas determinações teóricas mais gerais, o que implica, justamente, abstrair 
+a (por assim dizer) excessiva multiplicidade de formas que o mesmo pode assumir.''* 
+Podem ser identificadas inúmeras passagens na Teoria Geral onde esse conceito 
+de dinheiro, sob pressões mais ou menos equivalentes, é apresentado; mas é no Capítulo 
+21 — intitulado The Theory of Prices — que esse conceito aparece em sua expressão 
+mais sucinta, ao mesmo tempo em que é explicitamente dissociado de suas "foimas 
+especificamente monetárias": 
+De quebra, com essa "tradução livre" da expressão cunhada por Keynes, alcançamos uma certa simetria 
+entre os dois conjuntos de "instrumentos monetários" (casti facilities): os "dispositivos propriamente 
+monetários" (caslí deposits) e os "dispositivos paramonetários" (overdraftfacilities). 
+O estudo dessas formas seria, assim, deslocado para o que se poderia chamar de "teoria monetário-fi­
+nanceira", que se distingue da "teoria geral do dinheiro" pelo recorte histórico-institucional que lhe é 
+inerente Longe de ser irrelevante, esse estudo está para a teoria geral do dinheiro como o estudo da 
+dinâmica concreta de uma economia concreta está para a teoria geral do emprego e do investimento. 
+financeiras foimalmente ilíquidas), cujo sentido maior é o de maximizar a autonomia 
+do sistema bancário na sustentação e na criação do meio circulante da economia.'^ 
+Só que — e este é o ponto realmente crucial — essa crescente autonomização do 
+sistema bancário não se refere à criação de "dinheiro" em sentido rigoroso. As 
+"overdraft facilities" (que traduzimos, resgatando o seu sentido mais geral, por "dis­
+positivos paramonetários" da economia) ^ podem até ser contabilizadas na unidade 
+do "money of account" (medida do valor) da economia. Mas elas não são nem definem 
+essa medida. Tão pouco são rigorosamente "money itself na acepção de "ativos 
+monetários". E, por isso mesmo, não são "moneyproper", vale dizer, não servem como 
+reserva de valor, não sendo, portanto, dinheiro em sentido rigoroso. 
+É bem verdade que essas conclusões não estão perfeitamente claras no Treatise. 
+E isso não é gratuito. Ousaríamos pretender que elas não se encontrain perfeitamente 
+claras no Keynes do Treatise. Mas, a despeito disso, elas estão lá. E o seu resgate é a 
+condição para se entender o Keynes maduro da Teoria Geral. 
+o asterisco nessa passagem conduz a uma nota de pé de página que, por sua vez, remete ao Capítulo 
+17 da Teoria Geral Entraremos nessa discussão mais adiante. 
+Na seqüência imediata dessa passagem, Keynes deixa claro que a segunda função do dinheiro aí 
+levantada é a que realmente importa Segundo o autor,"( ) our desire to hold money as a store of wealth 
+is a barometer of the degree of our distrust of our own calculations and conventions concerning the 
+future. (. ) The possession of actual money lulls our disquietude; and the premium which we require 
+to make us part with money is the measure ofthe degree of our disquietude" (KEYNES, 1973, p. 116). 
+"Money, in its significant attributes is, above ali, a subtle device for linking 
+the present to the future; and we cannot even begin to discuss the effect of 
+changing expectations on current activities except in monetary terms. We 
+cannot get rid of money even by abolishing gold and silver and legal tender 
+mstruments. So long as there exists any durable asset, it is capable of possessing 
+monetary atributes* and, therefore, of giving rise to the characteristic problems 
+of a monetary economy" (KEYNES, 1978, p.294; E.B., p.204).'^ 
+Dois elementos definidores emergem nessa passagem, que são de absoluta cen­
+tralidade para a compreensão do conceito de dinheiro da Teoria Geral. Em primeiro 
+lugar, na tão curta quanto precisa caracterização de "money" como "a subtle device for 
+linking the present to the future", o que se depreende desde logo é a expressão que a 
+dimensão "temporal" do dinheiro — enquanto um ativo que se preserva e preserva o 
+seu poder de compra no tempo — assume para o Keynes maduro. 
+Há aqui uma transição que está longe de ser inconseqüente, e que poderia ser 
+sintetizada como um movimento de identificação da categoria "money" (sem qualifi­
+cativos) com aquilo que, no Treatise, Keynes chama de "money proper" (e que nós 
+traduzíamos — em um sentido teórico rigoroso — por "dinheiro"). Expresso nos termos 
+da teoria monetária convencional (e com todos os limites que uma tal expressão 
+necessariamente comporta), poder-se-ia dizer que o Keynes da Teoria Geral impõe 
+um certo privilegiamento das ftmções "medida e reserva de valor" do dinheiro vis-à-vis 
+à função "meio de troca" na determinação do conceito deste. De fato, em uma passagem 
+bastante conhecida de um de seus mais famosos artigos posteriores à publicação da 
+Teoria Geral — The General Theory of Employment — Keynes diz-nos; 
+"Money, it is well known, serves two principal puiposes. By acting as a money 
+of account it facilitates exchange without picture as a substantive object. In this 
+respect it is a convenience which is devoid of signifícance or real influence. In 
+the second place, it is a store of wealth" (KEYNES, 1973, p.l 15).'° 
+A radicalidade dessa passagem chega a surpreender e impõe que nos pei^guntemos por que a 
+fiinção "meio de troca" do dinheiro não é sequer citada aqui. Evidentemente, a hipótese de que 
+Keynes houvesse deixado de considerá-la uma função do dinheiro em sua maturidade sequer pode 
+entrar em consideração. O mero resgate de suas análises em tomo do "motivo transacional" de 
+demanda de dinheiro na Teoria Geral é mais do que suficiente para patentear o absurdo de 
+semelhante argumento. Mas, se é assim, só se pode entender sua não-explicitação na passagem 
+considerada dentro da perspectiva de que esta fimção se encontre subsumida às outras duas. 
+Que, no limite, se reduzem a uma unidade de conta e de algum tipo de sistema bancário de compensação 
+E a demanda "transacional" de dinheiro só se manifesta nesse segundo caso. Não é preciso dizer que 
+isso implica o reconhecimento de que mesmo as decisões de produção (com as compras que lhes são 
+associadas) estão submetidas a condições de incerteza É por isso que Keynes afirma no Capítulo 15 da 
+Teoria Geral — The Psychological and Business Incentives to Liquidity — que "( .) money held 
+for each ofthe three purposes forms, nevertheles, a single pool, which the holder is under no necessity 
+to segregate into three water-tight compartments; for they need not be sharply divided even in his own 
+mind, and the same sum can be held primarily for one purpose and secondarily for another. Thus we 
+can — equally well, and, perhaps, better — consider the individuars aggregate demand for money in 
+given circumstances as a single decision, though the composite result of a number of different motives" 
+(KEYNES, 1978, P.195; E.B., p.l39). 
+Ora, uma tal interpretação é absolutamente coerente com a leitura do Treatise que 
+propusemos acima e implica o reconhecimento de que, para Keynes, o processo de 
+hansferência da propriedade de bens e ativos da economia é um processo no qual oa 
+compras e vendas são previsíveis e tendem à "simuhaneidade" para os agentes relevan­
+tes (e, nesse caso, não se solicita a interveniência de dinheiro propriamente dito, mas 
+tão-somente de "dispositivos paramonetários" — as overdraft facilities — para a sua 
+realizaçãoou elas não são perfeitamente previsíveis, mas envolvem "fricções" e 
+processam-se no tempo, com compras e vendas diferidas (o que impõe a interveniência 
+de um instrumento que sirva de elo entre esses dois momentos, de forma a preservar o 
+valor do bem vendido até o mesmo se transfomiar em um novo valor de uso de valor 
+equivalente). Neste segundo caso — e só neste rigorosamente —, há interveniência de 
+dinheiro como um instrumento que liga o presente ("transpoitando-o") ao futuro.'^ 
+Evidentemente, uma tal inteipretação reafmna a nossa hipótese de diferenciação entre 
+"dmheho" e "instrumentos monetários" na análise keynesiana. Mas isso não é tudo; essa 
+diferenciação ganha novas determinações na Teoria Geral, na medida em que, aí, se 
+aproflinda a cisão conceituai enfre "dinheiro" e "ativo monetário". Afmal, se no Treatise 
+já ficava claro que a "moeda" poderia não ser "dinheiro" (moneyproper), agora vai ficar 
+claio que o "dinheiro" — enquanto elo temporal fínanceiro — pode não ser "moeda". 
+Keynes já sinaliza esse fato na passagem que abre esta seção, ao afirmar que "(...) 
+so long as there exists any durable asset, it is capable of possessing monetary afributes". 
+É este justamente o segundo elemento definidor do dinheiro a que fizemos referência 
+anteriormente; elemento que tanto se deriva da expressão mais sucinta de seu conceito 
+enquanto "elo temporal", como determina e dá sustentação a esse conceito. Por isso 
+mesmo, é no Capítulo 17 da Teoria Geral que encontramos o tratamento mais acurado 
+dessa dimensão conceituai do dinheiro. É lá que Keynes nos diz que; 
+"(...) it is an essential difference between money and ali (ormost) other assets 
+that in the case of money its liquidity-prenrium much exceeds its carrying 
+cost, whereas in the case of other assets their carrying cost much exceeds 
+thefr liquidity-premiurn" (KEYNES, 1978, p.227; E.B., p.l60). 
+Diga-se de passagem, é assim que Hiclcs interpreta o atributo de liquidez do dinheiro em Keynes, e 
+deriva daí uma contradição Para esse autor,"(...) liquidity (...) cannot be defined (...) except in terms 
+of exchangeability for money. So to define money as an asset with perfect liquiditv is to argue in a 
+circle" (HICKS, 1989, p.42). 
+O que, desde logo, se deriva da caracterização do dinheiro como "elo temporal". Afinal, na medida em 
+que opera como tal, o dinheiro não é mais do que um instrumento da transição (mais ou menos 
+duradoura) de uma po$iç3o econômica (relativamente ilíquida) a outra, Esse movimento de transição 
+se inaugura com uma venda (M-D) e se conclui com uma compra (D-M), o que implica dizer que os 
+extremos do processo pressupõem a dimensão especificamente monetária do dinheiro. 
+Ou, de forma ainda mais enfática, em outro momento desse mesmo capítulo, diz: 
+"Consider (...) an economy in which there is no asset for which the liqui-
+dity-premium is always in excess of the carrying-costs; which is the best 
+defmition I can give of a so-called 'non-monetary' economy" (KEYNES, 
+1978, p.239; E.B., p.l66). 
+É interessante observar a sutileza dessas duas passagens, onde o dinhefro é definido 
+não a partir de sua função "meio de troca", mas como um ativo cuja característica 
+primordial é a liquidez. Aparentemente, esse movhnento confundiu muitos intérpretes, 
+que tomando a "moeda" como "o ativo líquido por excelência", entenderam a carac­
+terização acúna como expressando (de uma forma algo "desajeitada") a virtual identi­
+dade do dinheiro com o ativo monetário.'^ 
+Diferentemente, interpretamos as passagens achna como a expressão da exigência 
+de que o ativo que funciona como dinheho seja não apenas um ativo líquido, mas um 
+ativo particularmente líquido; vale dizer, um ativo que ou £ Já meio circulante, mi 
+pode se transformar em meio circulante em um período desprezível e sem perdas. 
+Isso, evidentemente, não nega a existência de uma "dimensão especificamente 
+monetária" do dinheiro.^*' Só que essa dmiensão monetária emerge aqui como um 
+atributo de liquidez, o que vem colocar a possibilidade de que, entre dinheiro e moeda, 
+não haja uma identidade absoluta, mas tão-somente uma relação de conversibilidade 
+"garantida" de um em outro. 
+Que esta última interpretação corresponda à leitura de Keynes é algo que fica claro 
+a partn do momento em que entendemos o significado de "prêmio de liquidez" e de 
+"liquidez" desse autor. Segundo Keynes, 
+"(...) the power of disposal over an asset during a period may offer a potential 
+convenience or security, which is not equal for assets of different kmds, 
+though the asset themselves are of equal initial value. (...) The amount 
+(measured in terms of itself) which they are willúig to pay for the potential 
+convenience or security given by this power of disposal (exclusive of yeld 
+or carrying cost attaching to the asset), we shall call its liquidity-premium" 
+(KEYNES, 1978, p.226; E.B., p.l59). 
+Ora, não pode deixar de ciiarnar atenção a forma como Keynes associa o "prêmio de 
+liquidez" (e, portanto, o próprio atributo de "liquidez") à "segurança" que a manutenção de 
+um ativo proporciona. Evidentemente, ao fazer essa associação, Keynes não está preten­
+dendo subverter o sentido tradicional do termo" liquidez", mas tão-somente chamar atenção 
+para o fato de que um ativo só é "líquido" na medida em que podemos dispor deste 
+a qualquer momento (para enfrentar qualquer eventualidade e/ou aproveitar qualquer 
+oportunidade de negócio), com um risco mínimo de perda de valor. 
+Por mais que essa caracterização de "liquidez" em Keynes pareça algo inusual, ela 
+corresponde, contudo, à noção mais corriqueira que se faz desse atributo. Afinal, o 
+próprio senso comum reconhece que um ativo não é líquido apenas por ser vendável 
+imediatamente. Nesse grau de generalidade, todo e qualquer ativo deveria ser considerado 
+líquido, na medida mesmo em que, em mercados organizados e desenvolvidos, sempre 
+haverá \xm preço suficientemente baixo (em relação aos custos de produção de um attigo 
+de qualidade similar) para estimular a emergência de algum proprietário de dinheiro apto 
+e disposto a comprar o ativo ofertado. Se admitirmos, contudo, que o atiibuto de liquidez 
+é restrito a determinados ativos, isso nos obriga a admitir que um ativo só é líquido na 
+medida em que sua venda "imediata" possa se realizar com pouca ou nenhuma perda do 
+valor (associado aos custos de reprodução ou a um valor médio esperado) do mesmo. É por 
+isso que, para Keynes, 
+"There is, clearly, no absolute standard of iiquidity' but merely a scale of 
+liquidity — a varying premium of which account has to be taken, in addition 
+to the yeld of use and the carrying-costs, in estimating the comparative 
+attractions of holding different forms of weahh. The conception of what 
+contributes to 'liquidity' is a paitly vague one, changing from time to time 
+and depending on social practices and institutions. The order of prefèrence 
+in the minds of owners of wealth in which at any given time they express 
+their feelings about liquidity is, however, definite and is ali we require for 
+our analysis of the behaviour of the economic system" (KEYNES, 1978, 
+p.240;E.B.,p.l67). 
+Quer nos parecer que da passagem acima e das observações anteriores possamos 
+extrair três idéias básicas, que sintetizariam a contribuição original de Keynes à 
+determinação da categoria "liquidez": (a) o atributo de liquidez é um atributo sócio-ex-
+pectacional indissociável das características que fazem de um ativo uma "boa reserva 
+de valor"; (b) esse atributo não é determinado pura e simplesmente pela amplitude e 
+pela organização do mercado onde são transacionados bens e ativos financeiros; e, 
+finalmente, (c) esse atributo não é imanente à "moeda" (mesmo quando portadora 
+de curso forçado pelo Estado). Sêm sombra de dijvida, esta liltima conclusão é a mais 
+irrusual e a mais difícil de ser admitida. Contudo é justamente isso que Keynes vai 
+defender na seqüência. 
+Asshn é que, após afimrar que "(...) in ceitain historie environments the possession 
+of land has been characterised by a high liquidity-premium in the mind of owners of 
+wealth", Keynes (1978, p.241; E.B., p.l67) acrescenta: 
+Como, aliás, em diversas outras passagens da Teoria Geral, o que não deixa de alimentar uma certa 
+confusão. É de notarmos, contudo, que, nesse mesmo Capítulo 17, Keynes apresenta uma explicação 
+para sua relativa displicência terminológica. Discutindo a inflexibilidade para baixa da taxa de juros, 
+ele diz: "If by money we mean the standard of value. it is clearthat it is not necessarily the money-rate 
+of interest which makes the trouble. ( .) the same difficulties will ensue if there continues to exist any 
+asset of which the own-rate of interest is reluctant to decline as output increases (...) In attributing, 
+therefore, a peculiar significance to the money-rate of interest, JSÊ have been tacitiy assuming that the 
+kind of money to which we are accostumed has some characteristics (grifos com sublinha nossos) 
+(KEYNES, 1978, p.229; E.B., p. 161). As características a que Keynes se refere aqui são as propriedades 
+essenciais do dinheiro, que passamos a analisar acima. 
+"(...) it is unlikely that an asset, of which the supply can be easily increased 
+or the deèü-e for which can be easily diverted by a change in relative price, 
+will possess the attribute of 'liquidity' in the mmds of owners of wealth. 
+Money itself rapidly leses the attribute of 'liquidity' if its future supply 
+is expected to undergo sharp changes (grifo nosso)" (KEYNES, 1978, 
+p.241;E.B.,p. 167). 
+Em suma, a moeda (pois é rigorosamente à moeda que Keynes se refere na 
+passagem acima)^' pode perder o seu atributo de liquidez. E a condição para que não 
+o faça é a de que sua produção e, de forma derivada ou secundária, sua oferta e demanda 
+se processem de acordo com padrões bastante definidos e rígidos. Especificamente ao 
+nível da produção, Keynes acredita que a condição de sustentação da "função dinheiro" 
+(que se confunde com a liquidez) da moeda é: 
+"(...) that money has, both in the long and in the short period, a zero, or 
+at any rate a very small, elasticity of production, so far as the power of 
+private enterprise is concerned distinct from the monetary authority 
+(grifo nosso)" (KEYNES, 1978, p.229,230; E.B.; p.l61). 
+Ora, se tomarmos essa passagem no contexto dos desenvolvimentos anteriores, o 
+que fica claro é que Keynes está buscando resgatar os determinantes objetivos (produ­
+tivos) capazes de garantir a atribuição (social e expectacional) da característica de 
+liquidez à moeda (ou a outro ativo qualquer). E a sua conclusão é a de que, para que se 
+generalize a confiança na estabilidade (relativa) do valor de um ativo financeiro 
+qualquer (monetário ou não), a ponto de essa crença se tornar um instrumento 
+efetivo de estabilização de sen valor de troca, é necessário que se acredite que a 
+escassez relativa do mesmo não será fruto de variações significativas a curto ou a 
+longo prazo. Isso significa dizer, desde logo, que ele não pode ser um ativo (re)pro-
+duzido dentio de padrões especificamente industrial-capitalistas (o que subordinaria 
+sua disponibilidade relativa à contraditória e dinâmica lógica da concorrência inter­
+capitalista), mas, isto sim, deve ter sua produção limitada (pelo menos a princípio) 
+por circunscrições técnicas e/ou institucionais tais que sejam capazes de viabilizar o 
+movhnento inicial de "outorga" do atributo de liquidez ao mesmo. 
+Dentre as quais, apenas a primeira aparece formalmente em Keynes como uma outra "propriedade" do 
+dinheiro. 
+É de se notar que a exigência de custos de manutenção desprezíveis (indubitavelmente, uma determi­
+nação genética do dinheiro) apenas sustenta — sem se identificar com — a "propriedade do dinheiro" 
+aqui considerada 
+Evidentemente, porém, do exposto acima não se deve depreender que a produção 
+do "ativo dinheiro" deva ser absolutamente melástica a variações em sua demanda. 
+Uma tal exigência estaria ern total contradição com a sustentação do atributo de 
+"liquidez" enquanto definidor do dinheho. E isto porque um ativo com tais característi­
+cas é tun ativo "raro", via de regra irreprodutível (como os quadros dos grandes 
+mestres), marcado pelo fato de que variações significativas em sua demanda instabili-
+zam fortemente seu "valor de troca". 
+Diferentemente, o exercício adequado da "função dúrheho" hnpõe aos ativos a 
+sustentá-la—tal como a reconência da opção social pelos metais preciosos e pelas moedas 
+fiduciárias nacionais o comprova — algum grau de flexibilidade em sua produção e oferta. 
+Isso significa que o "ativo dinheho" tem de ser, simultaneamente, reprodutível, em um 
+sentido mais geral, e hreprodutível, em termos mdushiais capitalistas. Keynes procura 
+resolver (e moshar como efetivamente se resolve) essa contradição mtema à primeira 
+propriedade do dinheiro a parth da definição de duas outras condições^^ necessárias à 
+afumação do atributo de liquidez desse atívo. É neste sentído que Keynes afirma que 
+"(...) the second differentia of money is that it has an elasticity of substitution 
+equal, or nearly equal, to zero. (...) This follows from the peculiarity of 
+money that its utility is solely derived from its exchange value, so that the 
+two rise and fali pari passu, with the result that as the exchange value of 
+money rises there is no motive or tendency, as in the case of rent-factors, to 
+substitute some other factor for it" (KEYNES, 1978, p.231; E.B., p.l62). 
+E, adiante, diz: 
+"Thhdly, we come to what is the most fimdamental consideration in. this context, 
+namely, the characteristics of money which satisfy liquidity-preference. (...) 
+beyond a certain point money's yeld from liquidity does not fali m response to 
+an increase in its quantity to anythmg approachmg the extent to which the yeld 
+from other types of assets falls when their quantity is compárably increased. (...) 
+In this cormection the low (or negligible) carrying-costs of money play an 
+essential part" (KEYNES, 1978, p.233; E.B.; p. 163).^^ 
+Ora, desde logo é preciso recorrhecer que essas duas novas condições não são 
+suficientes para resolver a contradição identificada (até certo ponto) por Keynes. A 
+primeira delas só é rigorosamente válida para flutuações relativamente pequenas do 
+"valor de troca" do dinheuo; vale dizer, que se processam em torno do valor "médio" 
+ou "normal" desse ativo. Afinal — e a partir dos termos mesmos em que Keynes coloca 
+a questão da elasticidade de substituição do dmheiro —, para variações mais significa-
+tivas do poder de compra desse ativo, essa elasticidade deveria ser negativa, o que se 
+expressaria em uma corrida para o dinheiro em períodos deflacionários e contra o 
+dmheiro (que se transformaria, assrni, em mera moeda) em períodos inflacionários. 
+Por outro lado, tanto a característica de uma elasticidade de substituição próxhna 
+de zero (ou negativa) quanto a de uma demanda perfeitamente elástica a variações na 
+produção/oferta sá SÊ sustentam na medida em OUÊ Q. ativo que cumpre a "função 
+dinheiro" na economia já tenha sido definido. Elas não cumprem qualquer papel na 
+definição mesma desse ativo, não são determinações genéticas, não explicam a 
+emergência de um ativo como "dinheh-o". Elas tão-somente explicam como, uma vez 
+eleito e definido, o dmheiro sustenta seu atributo de liquidez (em sentido keynesiano) 
+mesmo fi^ente a variações relativamente abruptas em seu processo de produção/oferta. 
+Reconhecer isso é reconhecer que sobrevive uma contradição no processo de 
+outorga da fimção dinheiro a lun ativo qualquer. É isso justamente o que Keynes quer 
+expressar ao dizer: 
+"Unemployment develops, that is to say, because people want the moon; 
+men cannot be employed when the object of desire (i.e. money) is somethmg 
+which cannot be produced and the demand for which cannot be readily 
+choked off. There is no remedy but to persuade the public that green cheese 
+is pratically the same thing and to have a green cheese factory (i.e. a central 
+bank) under public control" (KEYNES, 1978, p.235; E.B.; p.l64). 
+Se, contudo, a "fábrica de queijo verde" (deliberadamente ou não) transpõe os 
+limites dentro dos quais o "queijo verde monetário" pode passar por um substituto eficaz 
+da "lua", seu produto perde a fimção de dinheiro (na medida mesmo em que perde seu 
+atributo de "liquidez" e seus custos de manutenção se elevam com a perda de poder de 
+compra da moeda), e outros "queijos" terão de ser encontrados para cumprirem tal 
+função. O que, diga-se de passagem, não é difícil, pois, como Keynes bem lembra em 
+sua polêmica com Gessel, ^ 
+"(...) money was not unique in having a liquidity-premium attached to it, but 
+differed only in degree from many other articles, deriving its importance 
+from having a greater liquidity-premium than any other article. Thus if 
+currency notes were to be deprived of their liquidity premium by stamping 
+system, a long series of substitutes would step into their shoes—bank-money, 
+debts at call, foreign money, jewellery and the precious metais generally, and 
+so forth" (KEYNES, 1978, p.357-358; E.B., p.242-243). 
+Não há porque se pretender, assim, que uma política monetária expansionista, 
+levada até os limites da perda da confiança na moeda, seja efícaz para enfrentar os 
+problemas postos pelo alto prêmio de liquidez fornecido pelo ativo que cumpre a função 
+dinhefro. E isso pura e simplesmente porque, no caso de uma tal política ser "efícaz", 
+ela só o será no sentido de retirar da moeda o exercício da função dinheiro; o que é o 
+mesmo que dizer que sua eficácia se reduz a afastar o Estado como qualquer confrole 
+sobre a taxa de juros relevante do sistema, bem como sobre a dinâmica do jogo 
+especulativo/financeiro de valorização capitalista, Hic Rhodus, hic salta. 
+•r " 
+mBmímh 
+587 
+3 - À guisa de conclusão: da atualidade da teoria 
+keynesiana do dinheiro 
+Se entendemos por "atualidade" da teoria keynesiana do dinlieiro a relevância 
+prática dessa teoria em termos contemporâneos, é preciso reconhecer que este ensaio 
+não comporta elementos suficientes para uma avaliação mais conclusiva da mesma. E 
+isso na medida em que, já em Keynes, a teoria do dmheho está totahnente hnbricada 
+com uma dada leitura do processo especulativo de valorização capitalista. Com o que, 
+avaliar a atualidade da teoria keynesiana do dmheiro em seu sentido mais amplo 
+envolveria: (a) avaliar o papel da equação fmanceho-especulativa na dmâmica mais 
+geral da valorização capitalista contemporaneamente; e (b) avaliar que papel cabe ao 
+"dinheiro" (enquanto ativo líquido no sentido keynesiano) no mterior dessa equação.^^ 
+Não é difícil se entender que esse movmiento está muito além de nossas possibilidades 
+aqui. 
+Por outro lado, em um sentido, por assim dizer, mais "lógico-teórico" do que 
+propriamente "empúico-histórico", quer nos parecer que a atualidade da leitura keyne­
+siana seja msofismável. Os prmcipais argumentos em defesa desse ponto de vista 
+encontram-se no bojo do próprio texto, e seria ocioso reproduzi-los aqui exausti­
+vamente. Contudo há duas dimensões da atualidade teórica da leitura keynesiana que, 
+apenas apontadas achna, mereceriam alguma atenção nessas considerações fmais. 
+Em prhneiro lugar, parece-nos que a teoria financeira do dmheho em Keynes abre 
+espaço para mna mterpretação da questão da "endogenia da oferta monetária", que é 
+absolutamente subversiva dos termos em que a mesma é tradicionahnente posta. 
+Desde logo, é preciso que se tenha clareza que tuna dada teoria é tanto mais 
+"totalizante" e "endogeneísta" quanto menos restrito o campo objetal-paradigrnático 
+em que se estrutura. Ora, Keynes é um renitente solapador dos aitificiosos limites da 
+"economia pura", o que o faz — como a todo e qualquer autor do campo da economia 
+política —, apriori, um "endogeneísta". 
+Essa determinação, "a priori", contudo, é essencialmente vazia e tem de ser 
+preenchida teoricamente. A contribuição origmal de Keynes para esse movimento se 
+deriva do próprio tratamento analítico das distintas esferas monetárias e financeiras do 
+dinheiro (em sentido mais geral). E isso na medida em que o resultado natiual desse 
+tratamento analítico é a diferenciação das diversas instituições que respondem pela (e 
+"endogeneízam-na") produção e/ou determmação do "dmheho" (em sentido estrito), 
+da "moeda" e dos "disposhivos paramonetários" da economia. 
+Diga-se de passagem, esse segundo movimento tem de levar em consideração que a inflação, a 
+instabilidade cambial e a intemacionalização financeira se tomaram dados estruturais do capitalismo 
+contemporâneo, o que, desde logo, implica que se pense o dinbeiro como um ativo que se diferencia 
+crescentemente de suas formas (monetárias ou não) estritamente nacionais. 
+Que aqui assume um sentido algo distinto, incorporando tanto a "eleição" quanto a "cedência" (em 
+contrapartida da incorporação de posições financeiras relativamente ilíquidas) do ativo que cumpre o 
+papel de dinheiro na economia. 
+De uma forma mais clara — e resgatando o conjunto dos desenvolvimentos 
+anteriores —, diríamos que uma leitura rigorosamente keynesiana da oferta de "dinheiro" 
+deve se pautar no reconhecimento de que: (a) a oferta de "dispositivos para­
+monetários" é ÊSSÊUdalniÊnlÊ endógena ao sistema bancário em sua articulação 
+financeira mais geral (que transcende a esfera das relações de débito e crédito) com o 
+setor produtivo capitalista da economia; (b) a oferta de "moeda" (enquanto ativo) é 
+essencialmente endógena afl_sistema paraestatal ds regniação bancária, repre­
+sentado por um Banco Central (formahnente independente ou não) e pelo conjunto dos 
+bancos-membros do sistema que usufruem, sob restrições, do atributo de "emprestador 
+em última instância" daquele primeno; e (c) a oferta^^ dfi "dinheiro" (em sentido 
+estrito) é endógena ao sistema econômico como nm todo, referida que é a todo um 
+conjunto de avaliações e expectativas de liquidez e de rentabilidade relativa de ativos 
+que são irredutíveis ao campo estreito da regulação estatal. 
+Fínahnente, uma segunda derivação importante do tratamento analítico-conceitual 
+do dmheu-o em Keynes diz respeito a uma questão ainda mais controversa que a 
+anterior: a questão da inflação. Nesse particular, quer nos parecer que a leitura de 
+Keynes implique a recusa dos próprios termos da disputa tradicional entre "monetaris-
+tas" — que pretendem reduzir a questão da inflação a um excedente de oferta de moeda 
+determinado pelo Estado, vis-à-vis a uma demanda essencialmente estável — e "estru-
+turalistas" — que pretendem ser possível reduzir a inflação a uma questão de formação 
+dos preços industriais e dos "fatores de produção". 
+Evidentemente, isso não significa ignorar a maior sofisticação analítica e a con­
+tribuição teórica dos últimos em relação aos primeiros. Tal como Marx, Keynes sabe 
+que nem as mercadorias formam um "angu" que chega ao mercado sem preços, nem o 
+dinheiro chega ao mercado sem valor. A crítica imanente de Keynes às leituras 
+especificamente estruturalistas diz respeito apenas ao fato de que estas não alcançam 
+pensar o próprio processo de produção e formação de preços como um processo 
+eminentemente monetário-financeiro. Com isso, não se alcança perceber que todos os 
+processos inflacionários — sejam eles "de custo", "de demanda", "inerciais", etc. — 
+resuham de decisões de produção e investimento (em sentido mais geral) articuladas 
+dentro de um quadro onde as expectativas de variação do "prêmio de liquidez" da moeda 
+e da sustentação por parte desta da "função dinheiro" da economia adquirem absoluta 
+centralidade. 
+.Ora, já vimos anteriomente que, para Keynes, a política monetária govemamental 
+é não só capaz de interferir sobre a magnitude desse "prêmio", como, no limite, coloca 
+em risco a própria sustentação do "atributo de liquidez" por parte da moeda. Só que é 
+preciso entender que a admissão desse caso-lúnite não implica, absolutameiite, cair em 
+Bibliografia 
+BRUNNER, K. (1991). Money supply. In: EATWELL, J. et al,, ed. The new 
+Palgrave. Londres: Macmillan. 
+CARVALHO, F. C.(1993). Sobre a endogenia da oferta de moeda: réplica ao professor 
+Nogueira da Costa. Revista de Economia Política, São Paulo, v.l3, n.3, p.l 14-
+-121,jul./set. 
+COSTA, F. N. (1993). (Im)propriedades da moeda. Revista de Economia Política, 
+São Paulo, V.13, n.2, abr./jun. 
+DAVIDSON, P. (1972). Money and real world. New York: Halsted. 
+HICKS, J. R. (1967). Criticai essays in monetary theory. Oxford: Claredon. 
+HICKS, J. R. (1989). A market theory of money. Oxford University. 
+KEYNES, J. M. (1978). The general theory of employment, interest and money. 
+Londres: Macmillan. (The collected writings of John Maynard Keynes). 
+KEYNES, J. M. (1979). A treatise on money: the pure theory of money. Londres: 
+Macmillan. (The collected writings of J. M. Keynes, v.5). 
+KEYNES, John Maynard (1973). The general theory and after: defence and 
+development. Londres: Macmillan. (The collected writings of John Maynard 
+Keynes). 
+JCEYNES, Jolm Maynard (1983). A teoria geral do emprego, do juro e da moeda. 
+São Paulo: Abril Cultural. 
+MINSKY, H. (1975). John Maynard Keynes. New York: Columbia University. 
+posições monetaristas. Significa, isto sim, admitir (mais uma vez em consonância com 
+Marx) que a política monetária ativa é não apenas limitada como extremamente 
+perigosa. Desconhecer esses limites e perigos — fazendo a "fábrica de queijo verde" 
+operar de acordo com postulados "horizontalistas" — significa destruir a Irágil base 
+"fiduciária" que sustenta a liquidez desse ativo, alavancando a corrida especulativa 
+contra a moeda, capaz de gerar uma depreciação de seu valor em dimensões absolu­
+tamente desproporcionais à ampliação da oferta original. 
+Evidentemente, desenvolver as hipóteses teóricas levantadas nesta conclusão é 
+uma tarefa para outros trabalhos; eventualmente, até para outros pesquisadores que, tão 
+reticentes quanto nós próprios com a nouvelle vague revisionista e iconoclasta de 
+"modernistas" e "pós-raodemos", ainda acreditam que a releitura atenta de autores 
+como Keynes e Marx seja uma fonte particularmente rica de aprendizagem. 
+Abstract 
+The aim of this paper is to discuss the evolution of Keynes' concept of money 
+from A Treatise an Money ía lh£ Ggngral Thcory- It tries to demonstrate this 
+movement is marked by the development of Keynes' criticism to orthodox identífi-
+cation of "money", "currency", and "cash facilities". It also proves that the 
+distinction of these three categories in Keynes must be clear to permit a good 
+comprehension of: (a) the author's criticism of monetary policy; (b) the amplitude 
+of his view about the determinants of inflation; and (c) the absolute validity of 
+Keynes' theory of liquidity-preference under inflationary conditions. 

@@ -1,0 +1,1042 @@
+Estrategias de diversificación 
+inteligente diferenciadas  
+por el nivel de complejidad  
+de los países
+Ciro de Moura Lopes, João Prates Romero  
+y Elton Eduardo Freitas
+Recibido: 19/12/2023
+Aceptado: 27/12/2023
+Resumen 
+En este trabajo se evalúan trayectorias de diversificación productiva y se propone 
+una regla empírica de diversificación para promover el aumento de la complejidad 
+económica. Se concluye que la complejidad beneficia el crecimiento de manera 
+más significativa en las etapas incipientes del desarrollo económico. Los países 
+menos complejos, al tener capacidades productivas limitadas, se diversifican hacia 
+productos menos complejos y más similares a su estructura productiva, lo que 
+constituye un obstáculo para el crecimiento económico. Los países de complejidad 
+intermedia están más preparados para correr riesgos en sus estrategias, lo que los 
+hace más competitivos en productos de mayor complejidad. Mediante el análisis 
+de componentes principales, se construye la regla de diversificación, que presenta 
+mayor precisión al formular estrategias de diversificación que proponen productos 
+más similares a la estructura productiva. Este resultado demuestra que las estrategias 
+de sofisticación productiva son más precisas cuando dimensionan las limitaciones 
+productivas de las economías.
+Palabras clave
+Desarrollo económico, ajuste estructural, condiciones económicas, productividad, 
+diversificación de la producción, análisis económico, modelos econométricos
+Clasificación JEL 
+O10, O11
+Autores
+Ciro de Moura Lopes es estudiante de la Maestría en Economía del Centro de 
+Desarrollo y Planificación Regional (CEDEPLAR) de la Universidad Federal de Minas 
+Gerais (UFMG) (Brasil). Correo electrónico: ciroeml18@cedeplar.ufmg.br.
+João Prates Romero es Profesor Asociado en el Centro de Desarrollo y Planificación 
+Regional (CEDEPLAR) de la Universidad Federal de Minas Gerais (UFMG) (Brasil). 
+Correo electrónico: jpromero@cedeplar.ufmg.br.
+Elton Eduardo Freitas es Profesor Asociado en el Departamento de Economía de la 
+Universidad Federal de Sergipe (UFS) (Brasil). Correo electrónico: eeftony@gmail.com.
+136
+Revista CEPAL N° 143 • agosto de 2024 
+Estrategias de diversificación inteligente diferenciadas por el nivel de complejidad de los países
+I. Introducción 1
+Los interrogantes de por qué algunas naciones son más ricas que otras y qué caracteriza un proceso 
+de desarrollo exitoso se plantean de manera recurrente en el debate económico. La relevancia de esta 
+discusión reside en el hecho de que la mayoría de las economías en desarrollo no han logrado escapar 
+del estatus de ingreso medio, a pesar de haber experimentado, durante la primera década del siglo XXI, 
+un crecimiento económico vertiginoso (Jankowska, Nagengast y Perea, 2012, p. 9). 
+En los estudios sobre cambio estructural, se entiende que la manera en que se asignan 
+sectorialmente los recursos productivos es determinante para el crecimiento económico (Kuznets, 1966). 
+Según McMillan, Rodrik y Verduzco-Gallo (2014), los países asiáticos, durante su proceso de desarrollo, 
+posibilitaron la potenciación del crecimiento económico al dirigir el flujo de mano de obra hacia sectores 
+de alta productividad, en general de índole industrial y tecnológica. Además, como muestran Jankowska, 
+Nagengast y Perea (2012), los países que escaparon de la trampa del ingreso medio en la era de la 
+posguerra del siglo XX iniciaron un proceso de cambio estructural en el cual se alejaron de los sectores 
+primarios, moviéndose hacia la manufactura.
+Sin embargo, el cambio estructural no es un proceso automático, por lo que resulta fundamental 
+la asignación adecuada de recursos a los distintos sectores (McMillan, Rodrik y Verduzco-Gallo, 2014). 
+Actualmente, los autores debaten la idea de la especialización inteligente (smart specialization), según la 
+cual, en la política de selección de sectores más prometedores para el desarrollo económico, se debe 
+considerar el potencial productivo de la región, con el fin de encontrar oportunidades para aumentar 
+la competitividad en actividades de alto valor agregado (Balland y otros, 2019, pág. 2). Así, aunque los 
+sectores de alta productividad generen mayores retornos para el crecimiento, los países difieren en lo 
+que respecta a sus oportunidades de aumentar la competitividad.
+Según las metodologías de la complejidad económica (Hidalgo y Hausmann, 2009; Hausmann 
+y otros, 2011) y del espacio de productos (Hidalgo y otros, 2007), la estructura productiva del país 
+revela lo que es capaz de producir competitivamente. Las medidas de complejidad propuestas por 
+Hidalgo y Hausmann (2009) son indicadores de la cantidad de conocimiento incorporado en la estructura 
+productiva del país. Por su parte, las medidas de proximidad entre productos propuestas por Hidalgo 
+y otros (2007) indican la facilidad de utilizar los conocimientos existentes para la producción competitiva 
+de cada uno de los bienes que la economía aún no produce. Mientras que Hausmann y otros (2011) 
+presentan datos que confirman que la complejidad predice el crecimiento futuro del ingreso per cápita, 
+Balland y otros (2019) demuestran que la proximidad a sectores competitivos aumenta la probabilidad 
+de que una región se vuelva competitiva en la producción de un bien determinado.
+A partir de este postulado, en varios trabajos recientes se utilizan medidas de complejidad y 
+proximidad para evaluar sectores prometedores para el desarrollo económico. Esto se refleja en estudios 
+como el de Hausmann, Santos y Obach (2017) sobre Panamá, Romero y Freitas (2018) sobre el Brasil 
+y Romero y Silveira (2019) sobre los estados brasileños. 
+No obstante, aunque Hausmann y otros (2011) indiquen que la relación de la complejidad con 
+el crecimiento se reduce con el aumento de la renta, hasta el momento no se ha investigado si esta 
+relación presenta cambios significativos en países con niveles de complejidad diferentes. Por otro 
+lado, tras el trabajo de Hidalgo y otros (2007) y pese a la mayor cantidad de material publicado sobre 
+diversificación relacionada (Hidalgo y otros, 2018), poco se ha investigado sobre los patrones de 
+diversificación productiva de los diferentes países. 
+1 Los autores agradecen el apoyo financiero de la Fundación de Apoyo a la Investigación del Estado de Minas Gerais (FAPEMIG) 
+(APQ-02518-17).
+137
+Revista CEPAL N° 143 • agosto de 2024
+Ciro de Moura Lopes, João Prates Romero y Elton Eduardo Freitas
+En este contexto, el presente artículo tiene tres objetivos: i) estimar el impacto de la complejidad 
+en el crecimiento del PIB per cápita en países de diferentes niveles de complejidad; ii) analizar los 
+patrones de cambio estructural de los países de baja, media y alta complejidad que aumentaron su 
+complejidad en el período comprendido entre 1980 y 2010 y iii) proponer una regla para hallar productos 
+prometedores en lo que respecta a la diversificación de cada país en cada nivel de complejidad, basada 
+en un conjunto de indicadores ponderados mediante el análisis de componentes principales (ACP).
+El resto del artículo está dividido de la siguiente manera: en la sección II se examina el marco 
+teórico utilizado; en la sección III se presentan los análisis econométricos de la relación entre complejidad 
+y crecimiento del PIB per cápita; en la sección IV se analizan los patrones de diversificación productiva 
+de los países; en la sección V se formula la propuesta de reglas de diversificación productiva y en la 
+sección VI se presentan las conclusiones finales.
+II. Desarrollo económico y cambio estructural
+Según Rodríguez (2009, pág. 46), el desarrollo económico consiste en un conjunto de cambios 
+concomitantes y compatibles en la composición sectorial y subsectorial de las estructuras de producción 
+de bienes y servicios y ocupación de fuerza de trabajo que dan curso a su expansión y complejización 
+ordenada y continua. Además, sectores diferentes tienen capacidades distintas para generar rendimientos 
+crecientes de escala, innovación y aumentos de la productividad (Kaldor, 1970; Thirlwall, 2005). Los 
+sectores modernos, como se les denomina, tienen un elevado componente tecnológico y presentan 
+mayores niveles de productividad. Por lo tanto, el desarrollo económico puede comprenderse como 
+un proceso de cambio estructural hacia sectores más modernos (Hirschman, 1958; Kaldor, 1966; 
+Kuznets, 1966; Prebisch, 1950; Furtado, 1964).
+Al evaluar las trayectorias de desarrollo de las naciones, Jankowska, Nagengast y Perea (2012) 
+señalan que el bajo nivel de productividad es uno de los principales elementos que explica por qué 
+algunas naciones no han logrado construir una trayectoria de crecimiento sostenido. En este sentido, 
+la teoría estructuralista de la Comisión Económica para América Latina y el Caribe (CEPAL) contribuye 
+a comprender el cambio estructural al formalizar el concepto del sistema centro-periferia, en el cual los 
+dos polos se diferencian históricamente por el patrón de asimilación y difusión del progreso técnico en 
+sus estructuras productivas (Prebisch, 1950; Marcato, 2013; Rodríguez y otros, 1995). El resultado 
+es una estructura diversificada y sectorialmente homogénea (en términos de productividad) en el 
+centro y, en la periferia, una estructura especializada y sectorialmente heterogénea (Rodríguez, 2009,  
+págs. 81-82). La reproducción de este sistema confiere a la periferia el papel de producir y exportar 
+productos primarios y al centro la función de producir y exportar bienes industriales (Rodríguez, 
+2009, pág. 82).
+1. Espacio de productos, complejidad 
+económica y cambio estructural
+Según Hidalgo y Hausmann (2009), la estructura productiva de una economía se define en términos de la 
+diversidad de capacidades productivas disponibles. Hidalgo y otros (2007) sostienen que los productos 
+se relacionan a partir de la similitud entre las capacidades productivas necesarias para producirlos 
+(Hausmann y Klinger, 2006; Hidalgo y Hausmann, 2009). Por consiguiente, como los países difieren en 
+el conjunto de capacidades disponibles, presentan diferentes trayectorias posibles de diversificación 
+productiva (Hausmann y otros, 2011). Así, dado que el desarrollo económico está relacionado con la 
+complejidad de los bienes que cada país produce y exporta eficientemente (Hidalgo y otros, 2007), 
+138
+Revista CEPAL N° 143 • agosto de 2024 
+Estrategias de diversificación inteligente diferenciadas por el nivel de complejidad de los países
+también está sumamente marcado por la dependencia de la trayectoria, ya que las posibilidades 
+de modernización de las exportaciones dependen de la habilidad de cada país de acumular nuevas 
+capacidades y combinarlas con las ya existentes (Hidalgo y Hausmann, 2009).
+Hidalgo y otros (2007) utilizan el índice de ventajas comparativas reveladas (VCR), formalizado por 
+Balassa (1965) para medir qué bienes exportan competitivamente los países (si VCR > 1). A partir de 
+este indicador, los autores construyen una red de productos utilizando la probabilidad de coexportación 
+entre categorías de productos con VCR: el espacio de productos. Esta probabilidad de coexportación se 
+llama proximidad. Cuanto mayor sea la similitud de capacidades, más próximos estarán los productos 
+dentro del espacio de productos, que no es más que una representación de la estructura productiva, 
+tomando como base la canasta de exportación de una economía.
+Según Hausmann y otros (2011), la estructura productiva de los países desarrollados se caracteriza 
+por la producción competitiva de productos ubicados principalmente en el centro del espacio de 
+productos, donde se encuentran los bienes más sofisticados, que comparten más características con 
+otros productos. Por su parte, los países en desarrollo presentan una estructura productiva especializada 
+en la producción de bienes ubicados en la periferia de la red, ocupada por bienes que tienen pocas 
+conexiones con otros productos. De esta forma, al poseer capacidades menos sofisticadas y que son 
+requeridas por menos productos, los países en desarrollo tendrán naturalmente más dificultades para 
+modernizar su estructura productiva.
+La velocidad del proceso de cambio estructural y de diversificación productiva depende de la 
+densidad del espacio de productos en los alrededores del producto que el país produce y exporta 
+competitivamente (Hausmann y Klinger, 2006). Es decir, depende del nivel de similitud, en términos de 
+necesidad de capacidades, entre los productos potenciales y la canasta actual de exportación del país, 
+lo que está incluido en el índice de densidad desarrollado por Hidalgo y otros (2007). Intuitivamente, 
+cuanto mayor es la densidad del producto, más cercano está a la estructura productiva actual, ya que 
+comparte una mayor cantidad de capacidades con los productos exportados por el país.
+Profundizando en esta perspectiva, Hidalgo y Hausmann (2009) y Hausmann y otros (2011) 
+desarrollan la metodología de la complejidad económica, basada en lo que llaman el método de 
+reflexiones. Inicialmente, los autores producen los indicadores de diversificación del país (cantidad de 
+bienes que un país exporta con VCR) y de ubicuidad de los productos (cantidad de países que exportan 
+ese producto con VCR). Los autores muestran que las medidas de diversidad y ubicuidad están 
+inversamente relacionadas, lo que indica que los países más diversificados producen competitivamente 
+bienes menos ubicuos. Dentro del método de reflexiones, los autores combinan estos dos indicadores 
+y construyen las medidas de complejidad: el índice de complejidad del producto (ICP) y el índice de 
+complejidad económica (ICE). Se supone entonces que los productos complejos (mayor ICP) presentan 
+un bajo grado de ubicuidad y son exportados por países más diversificados, mientras que los países 
+complejos (mayor ICE) tienen un mayor grado de diversificación y exportan competitivamente bienes 
+menos ubicuos.
+A partir de pruebas empíricas desarrolladas por Hidalgo y Hausmann (2009) y Felipe y otros (2012), 
+se confirma que estas medidas pasan a ser datos empíricos que resultan buenos predictores del 
+crecimiento económico y de la complejidad futura de la canasta de exportación del país. Por lo tanto, 
+el objetivo de los países menos desarrollados, dentro del proceso de cambio estructural, es salir de la 
+periferia del espacio de productos y encaminarse, a través de un proceso de diversificación y aprendizaje 
+de nuevas capacidades, hacia el centro más complejo y denso de la red de productos, potenciando 
+el crecimiento económico futuro.
+139
+Revista CEPAL N° 143 • agosto de 2024
+Ciro de Moura Lopes, João Prates Romero y Elton Eduardo Freitas
+2. El principio de la afinidad y las trayectorias 
+de diversificación productiva
+La lógica de capacidades está en la base del principio de la afinidad. Dicho de otra manera, dos actividades, 
+ya sean productos, industrias o áreas de investigación, son afines cuando requieren conocimientos o 
+insumos similares (Hidalgo y otros, 2018, pág. 452). Así, un país tiene mayor probabilidad de iniciar 
+la producción de un producto con VCR cuanto mayor sea el número de productos relacionados con 
+aquellos que el país ya exporta eficientemente (Hidalgo y Hausmann, 2009).
+Basándose en este principio, Pinheiro y otros (2018) analizaron las trayectorias de diversificación 
+de los países a partir del conjunto de opciones de las economías: el conjunto de productos aún no 
+exportados con VCR por los países (Pinheiro y otros, 2018, pág. 9). Partiendo de un conjunto de 93 países, 
+durante el período de 1965 a 2015, los autores muestran que, en casi el 93% de los casos, las naciones 
+comienzan a exportar productos más similares al producto promedio de su canasta de exportación, 
+confirmando el principio de la afinidad entre productos en la trayectoria de diversificación productiva.
+Sin embargo, de acuerdo con los autores, aunque en menor escala, hay casos que se desvían 
+del principio de la afinidad, en que los países comienzan a exportar productos no relacionados con su 
+conjunto de opciones. Así pues, dentro del espacio de productos, existen trayectorias de diversificación 
+no relacionada (hacia productos poco relacionados con el conjunto de opciones) y de diversificación 
+relacionada (hacia productos más relacionados con el conjunto de opciones). 
+Pinheiro y otros (2018) contribuyen a la literatura sobre modernización productiva con la 
+elaboración de los índices de densidad relativa y de complejidad relativa del producto, con el fin de 
+que las medidas de similitud entre productos sean comparables entre países a lo largo del tiempo. 
+Según los autores, la densidad constituye la distancia entre un producto y todos los productos afines 
+y, por lo tanto, tiene el inconveniente de no encuadrarse en el mismo rango de valores para todos los 
+países (Pinheiro y otros, 2018, pág. 12). 
+El índice de densidad relativa relaciona las nuevas exportaciones del país con su conjunto de 
+opciones en un año determinado. En la ecuación (1), el término G~c,tH0 se refiere a la densidad media 
+del conjunto de opciones y v0I~c,tM es la desviación estándar de la densidad de este conjunto de 
+productos. Los casos de diversificación relacionada ocurren cuando la densidad relativa es positiva, 
+es decir, cuando el producto en cuestión está más cerca de la estructura productiva que el promedio 
+de las opciones. De lo contrario, se tienen situaciones de diversificación no relacionada. 
+ 
+ (1)
+El índice de complejidad relativa analiza el nivel de complejidad de un determinado producto 
+en relación con la complejidad media del conjunto de opciones. El término GICPc,tH0 se refiere a la 
+complejidad media de los productos en el conjunto de opciones y v0IICPc,tM es la desviación estándar 
+de la complejidad de los productos en este mismo conjunto.
+ 
+ (2)
+La interpretación de estos dos indicadores se vuelve más clara cuando Pinheiro y otros (2018) 
+formalizan el vector de diversificación, que refleja la dirección media de la diversificación en una ventana 
+de tiempo determinada. Intuitivamente, este vector bidimensional define la dirección de la diversificación 
+en términos de las variaciones de similitud y de complejidad de las nuevas exportaciones en relación 
+con el conjunto de opciones de una economía. Básicamente, en relación con el promedio de las 
+140
+Revista CEPAL N° 143 • agosto de 2024 
+Estrategias de diversificación inteligente diferenciadas por el nivel de complejidad de los países
+opciones, el país puede diversificarse hacia productos más cercanos o más lejanos de su estructura 
+productiva y hacia productos más complejos o menos complejos. 
+Aplicando estos indicadores a los datos de comercio internacional desagregados, los autores 
+verifican que la dirección del desarrollo y el tipo de diversificación productiva dependen del nivel de 
+desarrollo de los países. En las etapas iniciales del desarrollo, los países poseen un conjunto limitado de 
+capacidades productivas y, por lo tanto, se especializan en productos menos complejos y más similares. 
+En las etapas más avanzadas, los países ya presentan un conjunto más diversificado de capacidades 
+productivas, por lo que tienen una estructura productiva más cercana a sectores más complejos (Pinheiro 
+y otros, 2018, pág. 25). Finalmente, el estudio demuestra que los países se comprometen más con 
+trayectorias de diversificación no relacionada en etapas intermedias del desarrollo, justamente cuando 
+están cerca tanto de bienes más complejos como de bienes menos complejos.
+En resumen, de acuerdo con el estudio, en las etapas intermedias reside uno de los principales 
+dilemas de la diversificación: ¿dar saltos más largos en el espacio de productos y admitir trayectorias 
+de diversificación no relacionada o dar pasos cortos en el espacio de productos, continuando la 
+trayectoria desarrollada desde las etapas iniciales de desarrollo? Ambas trayectorias son posibles. 
+Según Pinheiro y otros (2018), la trayectoria de diversificación no relacionada está asociada a niveles 
+más altos de complejidad económica. Por otro lado, los costos de desarrollar una actividad, dentro del 
+proceso de diversificación relacionada, son menores, ya que la probabilidad de éxito es mucho mayor 
+(Alshamsi, Pinheiro e Hidalgo, 2018). 
+3. Estrategias de diversificación productiva
+Reconociendo las contribuciones de los enfoques del espacio de productos y de la complejidad 
+económica, hay trabajos empíricos que se han centrado en el estudio comparado de las trayectorias 
+de sofisticación de los países y en el estudio de estrategias de modernización productiva.
+Hausmann, Santos y Obach (2017) realizaron un estudio de la economía de Panamá con el 
+fin de evaluar estrategias de diversificación productiva para el país. Los autores proponen un índice 
+que contiene diferentes componentes del mercado global y nacional para evaluar la potencialidad de 
+un producto y que se divide en tres componentes: fortaleza del mercado local en Panamá ( strength 
+in Panama today), oportunidades en el mercado internacional ( global market opportunities) y análisis 
+de la complejidad ( complexity analysis). La primera dimensión evalúa el desempeño de la industria 
+panameña, la segunda evalúa las oportunidades de mercado para las industrias y la tercera, al promover 
+una evaluación de la complejidad económica, refleja el grado de complejidad de estas industrias, si 
+son estratégicas (en términos de acceso a otras industrias complejas) y sus distancias —en términos 
+de capacidades— a las industrias ya existentes (Hausmann, Santos y Obach, 2017, pág. 35). Los 
+autores aplican el puntaje de oportunidades de diversificación (diversification opportunity score) a las 
+provincias de Chiriquí y Darién.
+Esta metodología, junto con el análisis de complejidad económica, sirvió de base para otros 
+estudios. Romero y Freitas (2018) la adaptaron para averiguar cuáles eran los sectores más prometedores 
+a la hora de aumentar la complejidad del Brasil. También basándose en tres dimensiones —capacidades 
+actuales, oportunidades de mercado y análisis de beneficios— y considerando solo productos con 
+VCR < 1, los autores elaboraron una regla de decisión, por medio de la cual concluyeron que, entre 
+los 20 productos con mayor potencial para elevar la complejidad de la economía brasileña, los tres 
+principales eran los automóviles, las partes de vehículos y los teléfonos. Los resultados del estudio 
+también muestran que el aumento del ICE del Brasil (en caso de adquisición de VCR en los 20 productos 
+listados) traería aparejado un aumento de 0,53 puntos porcentuales de la tasa de crecimiento del PIB 
+per cápita brasileño. 
+141
+Revista CEPAL N° 143 • agosto de 2024
+Ciro de Moura Lopes, João Prates Romero y Elton Eduardo Freitas
+Análogamente, también se han realizado otros estudios para identificar estrategias de diversificación 
+y sofisticación productiva, como aquellos llevados a cabo por Hartmann (2016) sobre Türkiye; Hausmann 
+y Chauvin (2015) sobre Rwanda; Hartmann, Bezerra y Pinheiro (2019) sobre el Paraguay y, finalmente, 
+Queiroz, Romero y Freitas (2023) sobre los estados brasileños, utilizando datos de empleo. Sin embargo, 
+aún no se ha llevado a cabo un estudio empírico detallado sobre la relación entre las características 
+de la estructura productiva y las experiencias exitosas de modernización económica, ya sean estas 
+basadas en trayectorias de diversificación relacionada o de diversificación no relacionada. Esta es la 
+laguna que el presente trabajo intenta llenar, con el fin de facilitar la propuesta de una regla empírica 
+que promueva el aumento de la complejidad de las economías.
+III. Análisis empírico
+1. Base de datos
+Para analizar empíricamente las trayectorias de diversificación de los países, en este trabajo se 
+utilizaron datos desagregados del comercio internacional que siguen la Clasificación Uniforme para 
+el Comercio Internacional (CUCI), revisión 2, de 4 dígitos. Los datos fueron obtenidos de la base del 
+Atlas de Complejidad Económica, proporcionada por el Centro para el Desarrollo Internacional de 
+la Universidad de Harvard, y abarcan el período de 1962 a 2017. Además, en lo que respecta a los 
+modelos econométricos, las series de datos del PIB y del PIB per cápita, ambos en dólares constantes, 
+fueron obtenidas a través de los Datos de libre acceso del Banco Mundial.
+Dada la diversidad de países y productos, y reconociendo que no todos los países informan los 
+datos de comercio de forma coherente con los criterios utilizados en los estándares internacionales, la 
+base de datos pasó por un proceso de limpieza conocido como el método Bustos-Yildirim, con el fin 
+de producir información coherente. Una vez obtenida la base, se aplicó un nuevo proceso de limpieza 
+de los datos con tres criterios, similares a los utilizados por Hausmann y otros (2011). Primero, se 
+mantuvieron solo los países que tenían datos disponibles de 2010. Segundo, se mantuvieron los países 
+que exportaron al menos 1.000 millones de dólares en 2010. Tercero, se mantuvieron los productos 
+cuya exportación superó los 10 millones de dólares en 2010. Por último, se eliminaron de la base 
+las observaciones de Iraq, Macao (China) y Chad, países o territorios con diversos cuestionamientos 
+sobre la calidad de los datos. Así, la muestra final contó con 5.661.984 observaciones, 147 países y 
+766 productos.
+2. Evaluación de trayectorias de diversificación productiva
+Para analizar trayectorias de diversificación, es necesario definir una metodología para identificar los 
+productos que un país comienza a exportar competitivamente. En el aspecto temporal, se considerarán 
+períodos de diez años, entre 1980 y 2010, lo que produce cuatro intervalos en el tiempo para los cuales 
+se distinguen las estrategias. 
+Se entiende que un país se vuelve competitivo en la producción de un producto p entre  
+t y t’ si VCRcp < 1 en t y VCRcp � 1 en t’. Sin embargo, como señalan Pinheiro y otros (2018), existe la 
+posibilidad de falsos positivos en el análisis, es decir, patrones de exportación que no se repiten en períodos 
+sucesivos en el tiempo. Por lo tanto, al igual que los autores, en este trabajo se adoptó una metodología 
+para corregir el análisis de falsos positivos, en la cual el punto t’ es el año de referencia y el punto  
+t (t = t’ – 10) es el año de comparación. Se definió un criterio retrospectivo, en el cual el país c debe tener 
+VCRcp < 1 en t – 1, y un criterio prospectivo, en el cual el país c debe tener VCRcp � 1  en t’ + 1. De esta 
+142
+Revista CEPAL N° 143 • agosto de 2024 
+Estrategias de diversificación inteligente diferenciadas por el nivel de complejidad de los países
+manera, se asegura que realmente no era exportador competitivo del bien en el año de comparación y 
+que en efecto pasó a ser exportador competitivo después del año de referencia.
+En esta sección, las trayectorias de diversificación de los países se analizan sobre la base de 
+dos características fundamentales: i) la similitud entre los nuevos productos y la estructura productiva 
+y ii) la complejidad de los nuevos productos en relación con la complejidad del conjunto de opciones 
+de diversificación. 
+Para esto, se utilizarán los indicadores de densidad relativa (rc,t"t’) y complejidad relativa 
+(Xc,t"t’) desarrollados por Pinheiro y otros (2018). Así pues, hay cuatro patrones de diversificación, 
+dos de diversificación relacionada (DR) y dos de diversificación no relacionada (DNR), siendo dos 
+asociados a una complejidad superior al promedio de las opciones (progresiva) y dos asociados a una 
+complejidad inferior al promedio de las opciones (regresiva): 
+i) DR progresiva (rc,t"t’ > 0 y Xc,t"t’ > 0) 
+ii) DNR progresiva (rc,t"t’ < 0 y Xc,t"t’ > 0) 
+iii) DR regresiva (rc,t"t’ > 0 y Xc,t"t’ < 0)
+iv) DNR regresiva (rc,t"t’ < 0 y Xc,t"t’ < 0)
+3.  La curva en S del proceso de sofisticación productiva 
+Hartmann y otros (2020) utilizan la correlación entre la densidad y la complejidad del producto para 
+ilustrar las características de la estructura productiva de cada país. El cálculo se realiza mediante el 
+coeficiente de correlación de Pearson para el conjunto de opciones de diversificación. Si este índice 
+toma un valor positivo, significa que los productos más complejos tienen una mayor densidad, es decir, 
+la estructura productiva del país está más cerca de productos más sofisticados. 
+Teniendo el ICE en el eje de las abscisas y el índice de correlación en el eje de las ordenadas, 
+los autores construyen la curva en S de sofisticación económica, la que nos indica que la dirección de 
+diversificación —hacia bienes más o menos complejos— depende del estadio de desarrollo del país 
+(Hartmann y otros, 2020). 
+A partir de esta contribución, los países se clasifican en tres grupos distintos, de acuerdo con 
+la característica de su estructura productiva en 2010. Para dividir los grupos, se realizó una prueba de 
+Chow a fin de verificar quiebres estructurales en la relación explicativa entre el índice de correlación 
+y la complejidad, utilizando datos de 2010. Interpretando que una variación positiva del índice de 
+correlación ilustra la aproximación del país a los productos más sofisticados, se probaron dos puntos 
+de quiebre: i) ICE = 0,0 y ii) ICE = 1,0. Para ambos, el valor de la estadística de prueba indicó con 
+significación estadística la existencia de quiebres. Se extendió la clasificación de la estructura productiva 
+de 2010 a los demás años, lo que se representa en la curva en S por la existencia de superposición 
+entre algunos puntos. Por lo tanto, la curva en S de sofisticación de este trabajo capta cómo ocurrió 
+la evolución de la estructura productiva, representada por la variación del índice de correlación, entre 
+1980 y 2010, para cada grupo de países. En el panel inferior derecho del gráfico 1 se observa el nivel 
+de complejidad y la característica de la estructura productiva de 122 países a lo largo de intervalos de 
+diez años entre 1980 y 2010.
+143
+Revista CEPAL N° 143 • agosto de 2024
+Ciro de Moura Lopes, João Prates Romero y Elton Eduardo Freitas
+Gráfico 1 
+Curva en S de sofisticación
+-1,0
+-0,5
+0
+0,5
+1,0
+-2 02
+ICE
+Correlación (ICP e IDP)
+-1,0
+-0,5
+0
+0,5
+1,0
+-2 02
+ICE
+Correlación (ICP e IDP)
+-1,0
+-0,5
+0
+0,5
+1,0
+-2 02
+ICE
+Correlación (ICP e IDP)
+-1,0
+-0,5
+0
+0,5
+1,0
+-2 02
+ICE
+Correlación (ICP e IDP)
+A. Países de baja complejidad B. Países de complejidad intermedia
+C. Países de alta complejidad D. Todos los países
+Fuente: Elaboración propia. 
+Nota: ICP: índice de complejidad del producto; IDP: índice de densidad del producto; ICE: índice de complejidad económica. 
+El color verde indica el grupo de baja complejidad (ICE 2010 ≤ 0,0); el color rojo, el grupo de complejidad intermedia 
+(0,0 < ICE2010 < 1,0), y el color azul, el grupo de complejidad elevada (ICE2010 ≥ 1,0).
+De acuerdo con los resultados presentados por Hartmann y otros (2020), se observa que los 
+países de baja complejidad (panel superior izquierdo) tienen una estructura productiva conectada a 
+productos más simples. Mayoritariamente, este grupo presentó valores negativos para el índice de 
+correlación. Además, se observa que la estructura productiva de los países menos complejos mostró 
+poca evolución en el período de 1980 a 2010, ya que los puntos verdes continúan concentrados en 
+la región donde el índice de correlación es menor que -0,5 y el ICE es menor que 0,0.
+El grupo de países de complejidad intermedia (panel superior derecho), a pesar de tener una 
+estructura más conectada a productos menos complejos, está ligeramente más cerca de productos 
+más sofisticados. En este sentido, queda claro que, en comparación con el grupo de baja complejidad, 
+la estructura productiva de los países de este grupo experimentó una evolución, ya que los puntos en 
+rojo están distribuidos más verticalmente en la región central de la curva, indicando una considerable 
+variación positiva del índice de correlación entre 1980 y 2010.
+144
+Revista CEPAL N° 143 • agosto de 2024 
+Estrategias de diversificación inteligente diferenciadas por el nivel de complejidad de los países
+Por último, la estructura productiva de los países de alta complejidad (panel inferior izquierdo) 
+está muy conectada a productos más complejos. Al igual que en el grupo de complejidad intermedia, 
+se observa que la distribución de los puntos azules está más cerca de una distribución vertical, lo 
+que indica que los valores del índice de correlación para estos países variaron significativamente entre 
+1980 y 2010. En consecuencia, los países de alta complejidad iniciaron una trayectoria de cambio de 
+la estructura productiva entre 1980 y 2010.
+En el cuadro 1 se presentan las estimaciones de la relación explícita en la curva en S, en un 
+análisis decenal para el período 1980-2010. El índice de correlación es la variable dependiente, y una 
+variación positiva ilustra el proceso de cambio estructural hacia productos más sofisticados. El ICE es 
+la variable explicativa y representa el nivel de complejidad de la estructura productiva de los países. La 
+regresión se estimó a través de un modelo de efectos fijos de dos vías para datos de panel.
+Cuadro 1 
+Relación entre el estadio de desarrollo y las oportunidades de sofisticación
+Variable Baja complejidad Complejidad intermedia Complejidad elevada
+Índice de complejidad económica (ICE) 0,0638*** 0,6391*** 0,9455***
+(0,0217) (0,0516) (0,0950)
+Constante -0,7681*** -0,7492*** -0,6182***
+(0,0191) (0,0369) (0,1165)
+Observaciones 272 124 92
+R² ajustado 0,2167 0,6535 0,7391
+Estadístico F 4,23 39,74 47,33
+Valor p 0,0041 0,0000 0,0000
+Fuente: Elaboración propia. 
+Nota: El modelo tiene el índice de correlación (ICP frente a índice de densidad de producto (IDP)) como variable explicada. 
+Error estándar robusto entre paréntesis. Significación estadística de los coeficientes: *** p < 0,01; ** p < 0,05; * p < 0,1. 
+En los tres grupos, el coeficiente del índice de complejidad económica es estadísticamente 
+significativo al nivel del 1%. Sin embargo, el modelo para los países de baja complejidad presentó la 
+menor capacidad explicativa (21,67%). No obstante, en este grupo, el coeficiente del ICE presentó el 
+menor valor (0,0638). Según el gráfico 1, se observa que, en el caso de los países de baja complejidad, 
+los valores del índice de correlación varían poco en comparación con los demás. Por lo tanto, se entiende 
+que, en niveles bajos de complejidad, los países tienen mayores dificultades para iniciar el proceso de 
+cambio estructural, manteniendo niveles bajos de complejidad económica. 
+A partir de niveles intermedios de complejidad, se torna viable el proceso de diversificación que 
+lleva la estructura productiva más allá de productos más simples, como indica el aumento significativo 
+del coeficiente del ICE y la capacidad explicativa del modelo. Al analizar el tercer grupo, se observa que 
+los países clasificados como de alta complejidad en 2010 mostraron el proceso de cambio estructural 
+más acelerado entre 1980 y 2010. El valor del coeficiente del ICE, que era de 0,6391 para el grupo 
+de complejidad intermedia, pasa a ser de 0,9455. En resumen, estos resultados indican que los 
+países que eran más complejos en 2010 experimentaron, entre 1980 y 2010, un proceso de cambio 
+estructural más constante, mientras que los países de complejidad intermedia, aunque volvieron más 
+sofisticada su estructura productiva, no mantuvieron un proceso de desarrollo tan sólido como los 
+países más complejos.
+145
+Revista CEPAL N° 143 • agosto de 2024
+Ciro de Moura Lopes, João Prates Romero y Elton Eduardo Freitas
+4. La curva en U del proceso de diversificación productiva
+En el gráfico 2 se muestra la relación entre la densidad relativa y la complejidad relativa. Se observa que 
+la mayoría de los nuevos productos se encuentran en el segundo cuadrante, es decir, son productos 
+menos complejos (con complejidad relativa negativa) y están más cerca de la estructura productiva 
+del país (con densidad relativa positiva) en comparación con el comportamiento medio del conjunto 
+de opciones de diversificación.
+Gráfico 2 
+Relación entre la densidad relativa y la complejidad relativa de los nuevos productos 
+-6
+-3
+0
+3
+6
+-6 -3 03 6
+Complejidad relativa
+Densidad relativa
+Fuente: Elaboración propia. 
+Al analizar la distribución del indicador de densidad relativa (panel izquierdo del gráfico 3), se 
+observa que la mayoría de los nuevos productos tienen densidad relativa positiva (70,17% de los 
+casos). Esto refuerza la conclusión de Pinheiro y otros (2018) de que, en general, los países tienden 
+a diversificar su producción hacia productos más similares a su estructura productiva. En cuanto 
+a la complejidad relativa (panel derecho del gráfico 3), se observa un equilibrio en las estadísticas. 
+Aproximadamente el 52,34% de los casos tienen un índice de complejidad relativa negativo. Este 
+equilibrio puede explicarse por el hecho de que, en el caso de los países más complejos, los productos 
+más cercanos a su estructura productiva son precisamente los más sofisticados.
+En el cuadro 2 se resume la frecuencia con la que ocurre cada patrón de diversificación. Dentro 
+del patrón de diversificación relacionada, la DR regresiva representa el 62,63% de los casos, mientras 
+que la DR progresiva representa el 37,37%. Por otro lado, dentro del patrón de diversificación no 
+relacionada, la DNR progresiva representa el 71,84% del total y la DNR regresiva, que ya tiene una baja 
+participación en el total de nuevos productos (8,40%), representa el 28,16% de los casos. El cuadro 2 
+refleja las conclusiones de los gráficos 2 y 3: la diversificación relacionada es predominante, siendo 
+que aquella dirigida a productos menos complejos que el promedio de las opciones (DR regresiva) 
+tiene una frecuencia mayor.
+146
+Revista CEPAL N° 143 • agosto de 2024 
+Estrategias de diversificación inteligente diferenciadas por el nivel de complejidad de los países
+Gráfico 3 
+Distribución (histogramas) de los valores de densidad relativa  
+y complejidad relativa de los nuevos productos
+A. Densidad relativa 
+0
+0,1
+0,2
+0,3
+0,4
+-6 -3 03 6
+Densidad relativa
+Densidad
+B. Complejidad relativa 
+0
+0,1
+0,2
+0,3
+0,4
+-6 -3 03 6
+Complejidad relativa
+Densidad
+Fuente: Elaboración propia. 
+147
+Revista CEPAL N° 143 • agosto de 2024
+Ciro de Moura Lopes, João Prates Romero y Elton Eduardo Freitas
+Cuadro 2 
+Estrategias de diversificación 
+(En número y porcentajes)
+Estrategia Cantidad de nuevos productos
+(En número)
+Participación en el total 
+de nuevos productos
+(En porcentajes)
+Diversificación relacionada progresiva 3 775 26,22
+Diversificación relacionada regresiva 6 326 43,95
+Diversificación no relacionada progresiva 3 085 21,43
+Diversificación no relacionada regresiva 1 209 8,40
+Fuente: Elaboración propia. 
+Sin embargo, los países no siguen un único patrón. En el cuadro 3 se detalla la combinación de 
+estrategias dentro de cada grupo de países. Los países de baja complejidad siguen mayoritariamente un 
+patrón de DR regresiva (70,07% de los casos), debido a las limitaciones impuestas por una estructura 
+productiva poco sofisticada.
+Cuadro 3 
+Estrategias de diversificación, por nuevos productos
+(En porcentajes)
+Grupo Estrategia Participación por grupo de países
+Baja complejidad Diversificación relacionada progresiva 8,48
+Diversificación relacionada regresiva 70,07
+Diversificación no relacionada progresiva 16,55
+Diversificación no relacionada regresiva 4,89
+Complejidad intermedia Diversificación relacionada progresiva 24,06
+Diversificación relacionada regresiva 40,54
+Diversificación no relacionada progresiva 27,91
+Diversificación no relacionada regresiva 7,49
+Complejidad elevada Diversificación relacionada progresiva 49,57
+Diversificación relacionada regresiva 17,81
+Diversificación no relacionada progresiva 19,00
+Diversificación no relacionada regresiva 13,61
+Fuente: Elaboración propia. 
+Cuando se analizan los países de complejidad intermedia, llama la atención la participación de la 
+DNR progresiva (27,91%) y de la DR progresiva (24,06%). Una vez más, se refuerzan las conclusiones 
+de Pinheiro y otros (2018) y de Hartmann y otros (2020), que también están presentes en el modelo 
+expuesto en el cuadro 1: los países de complejidad intermedia, al tener una estructura productiva 
+cercana a productos simples y sofisticados, ya están en condiciones de aspirar a la diversificación 
+hacia productos más complejos. 
+En el caso de los países más complejos, predomina la DR progresiva (49,57%). Aprovechando 
+una estructura productiva con conocimientos y tecnologías más sofisticadas, estos países pueden 
+sostener la progresión del proceso de complejización de su estructura productiva. 
+Calculando los valores medios de los índices de densidad relativa y de complejidad relativa 
+para el conjunto de nuevos productos, se observa, a través del vector de diversificación (Pinheiro 
+y otros, 2018), la trayectoria de diversificación de cada grupo. 
+En el gráfico 4 se observa la curva en U de diversificación. Al igual que en el gráfico 1 (curva 
+en S de sofisticación), en el gráfico 4, cada punto representa un país en un año determinado en los 
+intervalos decenales entre 1980 y 2010. Como se anticipó en el gráfico 2, la mayoría de los nuevos 
+productos tienen valores positivos para el índice de densidad relativa. De este modo, es comprensible 
+148
+Revista CEPAL N° 143 • agosto de 2024 
+Estrategias de diversificación inteligente diferenciadas por el nivel de complejidad de los países
+que, en promedio, los países, independientemente del grupo al que pertenezcan, tiendan a diversificarse 
+hacia productos más similares a aquellos que ya producen y exportan competitivamente. En el 95,01% 
+de las trayectorias de diversificación analizadas en el gráfico 4, la densidad relativa media asumió un 
+valor positivo.
+Gráfico 4 
+Curva en U de diversificación
+-2
+0
+2
+-2 02
+Complejidad relativa media
+Densidad relativa media
+Fuente: Elaboración propia. 
+Nota: El color verde indica el grupo de baja complejidad; el color rojo, el grupo de complejidad intermedia, y el color azul, el 
+grupo de complejidad elevada. 
+Sin embargo, lo que parece variar entre las trayectorias de diversificación es el nivel medio de 
+complejidad de la dirección adoptada. Mientras que los países de baja complejidad tienden a moverse, en 
+promedio, hacia productos menos complejos —el 95,97% de los casos (puntos verdes) se concentran en 
+el segundo cuadrante—, los países de elevada complejidad se mueven hacia productos más complejos 
+que el promedio de las opciones —el 81,44% de los casos (puntos azules) se concentran en el primer 
+cuadrante—. Los países de complejidad intermedia, aunque también se posicionan mayoritariamente 
+en el segundo cuadrante —el 59,54% de los casos (puntos rojos)—, están distribuidos más cerca del 
+origen (0,0). Un indicador de esto es que el 34,35% de los casos de este grupo se concentran en el 
+primer cuadrante, mientras que este valor es del 1,10% para el grupo de baja complejidad.
+Los resultados del cuadro 3 y el gráfico 4 confirman que el proceso de sofisticación productiva 
+y, por ende, el desarrollo económico, dependen de la trayectoria (Hidalgo y Hausmann, 2009). Debido 
+a que poseen un conjunto más simple de capacidades, los países menos complejos tienden a ganar 
+competitividad en sectores más simples y de mayor densidad relativa, lo que comprueba que la 
+dificultad para acumular y combinar capacidades más sofisticadas impone restricciones a movimientos 
+en el espacio de productos más allá de la periferia. Por otro lado, un conjunto más sofisticado de 
+capacidades productivas permite que los países más complejos permanezcan en partes centrales del 
+espacio de productos, manteniendo la competitividad en sectores más complejos. Por lo tanto, queda 
+claro que las características de la estructura productiva determinan la intensidad del proceso de cambio 
+estructural (véase el cuadro 1), el tipo de estrategia de diversificación adoptada por los países (véase 
+el cuadro 3) y su trayectoria de diversificación (véase el gráfico 4). En consecuencia, el conjunto de 
+productos potenciales para el desarrollo económico también variará según el grupo.
+149
+Revista CEPAL N° 143 • agosto de 2024
+Ciro de Moura Lopes, João Prates Romero y Elton Eduardo Freitas
+IV. Pruebas econométricas
+1. Especificación econométrica 
+Para analizar estrategias de diversificación, uno de los objetivos del presente artículo es dividir a los países 
+en grupos de acuerdo con las características de su estructura productiva. Así, se intentó probar, para 
+cada grupo de países, si la complejidad económica explica las dinámicas de crecimiento económico 
+a partir de la misma especificación utilizada por Hausmann y otros (2011).
+ txpibpci,t = b0 + b1lnpibpci,t + b2ICEi,t + b3recursosnaturalesi,t + b4interacción + ni (3)
+La variable txpibpc es la tasa de crecimiento anualizada del PIB per cápita por intervalo de diez 
+años, lnpibpc es el PIB per cápita inicial del intervalo (en logaritmo), ICE es el nivel inicial de complejidad 
+económica, recursos naturales es el peso de la exportación de recursos naturales2 como proporción 
+del PIB inicial del intervalo, interacción es el término de interacción entre el ICE y el PIB per cápita, 
+y e es el término de error.
+Hipotéticamente, el b1 captará la idea de convergencia en el proceso de crecimiento económico, 
+según la cual los países más pobres, ceteris paribus, tienden a crecer a mayores tasas. Al añadir la 
+variable del peso de las exportaciones de recursos naturales, se intenta controlar el efecto de las riquezas 
+producidas por estas actividades, que no están explicadas por el índice de complejidad económica 
+(Hausmann y otros, 2011, pág. 30).
+Sin embargo, en relación con el modelo propuesto y probado por Hausmann y otros (2011), 
+en este trabajo se eliminó el término de interacción entre el ICE y el PIB per cápita al probar el modelo 
+por grupos de países. El término de interacción capta la variación del impacto de la complejidad sobre 
+el crecimiento del PIB per cápita para diferentes niveles de ingresos, entendiendo que los países 
+de ingresos más bajos tienden a crecer más rápido (hipótesis de convergencia), lo que requiere un 
+determinado control. En este trabajo, se entiende que los diferentes niveles de desarrollo económico 
+condicionan la velocidad del proceso de crecimiento económico y el cambio estructural, por lo que el 
+control por nivel de complejidad es más adecuado a esta perspectiva. Finalmente, también siguiendo 
+la contribución de los autores, se añadió una variable ficticia para cada década, con el fin de controlar 
+los efectos que afectan a todos los países en ese intervalo.
+2. Resultados 
+El cuadro 4 contiene los resultados de las regresiones para el modelo, replicando las pruebas de 
+Hausmann y otros (2011) y considerando las décadas 1980-1990, 1990-2000, 2000-2010. Al igual que 
+en Hausmann y otros (2011), se optó por una regresión de datos apilados con variables ficticias para 
+los intervalos de tiempo, con el fin de captar diferentes efectos de la complejidad sobre el crecimiento 
+entre países. 
+2 La definición de recursos naturales se realizó siguiendo las directrices presentadas en el apéndice estadístico de la Organización 
+Mundial del Comercio (2010).
+150
+Revista CEPAL N° 143 • agosto de 2024 
+Estrategias de diversificación inteligente diferenciadas por el nivel de complejidad de los países
+Cuadro 4 
+Efectos de la complejidad sobre el crecimiento, en intervalos de diez años, 1980-2010
+Variable (1) (2)
+PIB per cápita inicial, log -0,0002 -0,0053***
+(0,0010) (0,0012)
+Peso de las exportaciones de recursos naturales 0,0097 0,0326*
+(0,0194) (0,0185)
+Índice de complejidad económica inicial - 0,0341***
+(0,104)
+Índice de interacción (índice de complejidad económica inicial x PIB per cápita inicial, log) - -0,0025**
+(0,0104)
+Constante 0,0100 0,0533***
+(0,0088) (0,0107)
+Observaciones 255 255
+R² ajustado 0,0283 0,1643
+Estadístico F 3,53 9,32
+Valor p 0,0080 0,0000
+Fuente: Elaboración propia. 
+Nota: El modelo tiene la tasa de crecimiento anualizada del PIB per cápita como variable explicada. Error estándar robusto 
+entre paréntesis. Significación estadística de los coeficientes: *** p < 0,01; ** p < 0,05; * p < 0,1. 
+Sobre la base de los resultados, se observa que el aumento del ICE y del término de interacción 
+incrementa la capacidad explicativa del modelo aproximadamente 13,6 puntos porcentuales. Este 
+aumento explicativo es similar al encontrado por Hausmann y otros (2011), que fue de alrededor 
+de 14,9 puntos porcentuales. Sin embargo, aunque la magnitud y la significación estadística de los 
+coeficientes son similares a las encontradas por los autores, el modelo (2) aquí presentado explica 
+cerca de 27 puntos porcentuales menos de la variabilidad en las tasas de crecimiento en comparación 
+con el modelo de los autores (0,434). 
+Los coeficientes de todas las variables explicativas son significativos. De esta manera, se entiende 
+que, controlando el nivel inicial del PIB per cápita y el aumento de las exportaciones de recursos naturales, 
+el aumento del índice de complejidad económica está relacionado con un aumento de las tasas de 
+crecimiento futuras del PIB per cápita. Un aumento de 0,1 del ICE eleva la tasa de crecimiento del PIB 
+per cápita aproximadamente 0,34 puntos porcentuales, mientras que el impacto de la complejidad 
+sobre el crecimiento tiende a ser menor para los países más ricos, según indica el valor negativo del 
+coeficiente del término de interacción. 
+El cuadro 5 contiene los resultados de la regresión para los grupos de países (sin el término de 
+interacción). Para este modelo, también se utilizaron regresiones de datos apilados con la inclusión 
+de variables ficticias para cada intervalo de diez años. En el caso de los países de baja complejidad, 
+el modelo tiene una capacidad explicativa media, ya que explica el 23,49% de la varianza de la tasa 
+de crecimiento del PIB per cápita. Se observa que solo el coeficiente del ICE es significativo al menos 
+al 10%. En el caso de los países de este grupo, los aumentos de la complejidad de la estructura 
+productiva refuerzan positivamente el crecimiento económico.
+En el caso de los países de complejidad intermedia, también se confirma que el ICE tiene un 
+impacto positivo en la tasa de crecimiento. Un aumento de 0,1 en el ICE tiende a aumentar 0,16 puntos 
+porcentuales la tasa de crecimiento anual del PIB per cápita. Para este grupo, la dinámica de las 
+exportaciones de recursos naturales también es un factor determinante a la hora de explicar las diferentes 
+dinámicas de crecimiento. Cabe destacar que, en este intervalo intermedio de complejidad, el modelo 
+presentó la menor capacidad explicativa de los tres grupos (R² ajustado de 0,1576).
+151
+Revista CEPAL N° 143 • agosto de 2024
+Ciro de Moura Lopes, João Prates Romero y Elton Eduardo Freitas
+Cuadro 5 
+Dinámica de crecimiento por grupo de países, en intervalos de diez años, 1980-2010
+Variable Baja complejidad Complejidad intermedia Complejidad elevada
+PIB per cápita inicial, log -0,0026 -0,0071*** -0,0190***
+(0,0017) (0,0020) (0,0027)
+Peso de las exportaciones de recursos naturales 0,0165 0,0938** 0,4488***
+(0,0202) (0,0413) (0,1372)
+Índice de complejidad económica inicial 0,0088*** 0,0160** 0,0059
+(0,0028) (0,0064) (0,0052)
+Constante 0,0212 0,0675*** 0,2005***
+(0,0140) (0,0159) (0,0219)
+Observaciones 135 63 57
+R² ajustado 0,2349 0,1576 0,6478
+Efectos fijos de tiempo Sí Sí Sí
+Estadístico F 9,22 3,32 21,60
+Valor p 0,0000 0,0106 0,0000
+Fuente: Elaboración propia. 
+Nota: El modelo tiene la tasa de crecimiento anualizada del PIB per cápita como variable explicada. Error estándar robusto 
+entre paréntesis. Significación estadística de los coeficientes: *** p < 0,01; ** p < 0,05; * p < 0,1. 
+Por último, en el caso de los países de alta complejidad, llama la atención el hecho de que 
+la complejidad económica no muestra significación estadística a la hora de explicar la dinámica de 
+crecimiento dentro del grupo. Hipotéticamente, el ICE en este grupo se nivela hacia arriba, de manera 
+que habría otros factores, distintos de la complejidad de la estructura productiva, que explicarían las 
+diferentes trayectorias de crecimiento de estos países.
+V. Una propuesta de regla de 
+diversificación productiva
+Partiendo de las contribuciones de Hausmann, Santos y Obach (2017) y siguiendo la línea de 
+investigación propuesta por Romero y Freitas (2018) y Queiroz, Romero y Freitas (2023), se empleará 
+la metodología del puntaje de oportunidades para evaluar productos prometedores para el desarrollo 
+económico, tal como se muestra en el cuadro 6. Sin embargo, a diferencia de los trabajos mencionados, 
+que distribuyen equitativamente el peso de las variables dentro de cada dimensión, en este estudio 
+se utilizará la herramienta estadística de análisis de componentes principales (ACP) para establecer el 
+peso de cada variable en el cálculo del puntaje, aplicando el ACP a grupos de países con baja, media 
+y alta complejidad. 
+El método consiste en construir combinaciones lineales particulares, a partir de un conjunto de 
+n variables aleatorias originales, con el fin de generar un conjunto de componentes principales que 
+expliquen el máximo de información posible dentro del conjunto inicial de variables y observaciones 
+(Mingoti, 2007). Una alternativa para definir el número de componentes que se ha de utilizar es aquella 
+propuesta por Kaiser (1960), en la cual se eligen los componentes con un valor superior a la unidad, 
+ya que, de esta manera, los componentes seleccionados deberán contener varianzas mayores que las 
+observadas por las variables originales estandarizadas. Sin embargo, en este trabajo, se mantuvieron 
+las n componentes generadas que expliquen acumulativamente, como mínimo, el 80% de la varianza 
+dentro de las dimensiones. Este valor del 80% es considerado por Manly (2008) un porcentaje alto 
+para la suma de las varianzas de los primeros componentes elegidos en relación con el total de la 
+varianza de todos los componentes. 
+152
+Revista CEPAL N° 143 • agosto de 2024 
+Estrategias de diversificación inteligente diferenciadas por el nivel de complejidad de los países
+Cuadro 6 
+Dimensiones e indicadores que componen el puntaje y las ponderaciones por grupo
+Dimensiones Peso Indicadores
+Grupos de países
+Baja complejidad Complejidad 
+intermedia
+Complejidad 
+elevada
+Capacidades actuales 1/3 Valor exportado por producto 0,5731 0,5975 0,6364
+Ventaja comparativa revelada (VCR) 0,1073 0,1561 0,1490
+Tasa de crecimiento compuesta 
+de las exportaciones
+0,3196 0,2464 0,2146
+Oportunidades de mercado 1/3 Valor importado por producto 0,7265 0,9418 0,5360
+Desventaja comparativa revelada (DCR) 0,0204 - 0,0074
+Tasa de crecimiento compuesta 
+de las importaciones
+0,2532 0,0582 0,4566
+Análisis de beneficios 1/3 Índice de complejidad del producto (ICP) 0,4689 0,4276 0,3716
+Índice de densidad del producto (IDP) 0,0562 0,1437 0,2671
+Índice de ganancia de oportunidad (IGO) 0,4749 0,4286 0,3613
+Fuente: Elaboración propia. 
+El método de ACP se utilizará para calcular el peso de las variables por dimensión, teniendo 
+en cuenta solo los productos en los cuales los países no tienen VCR. Primero, dentro de la base de 
+datos, las variables se estandarizan; luego se realiza el análisis de componentes principales; finalmente, 
+se calcula el puntaje. Este método se prefiere por sobre la asignación de pesos iguales a las variables 
+debido a su capacidad de determinar la influencia de cada variable. Si un indicador presenta una alta 
+variabilidad, los datos de los países en los años de la muestra variarán más, lo que señala que este 
+indicador es más relevante para diferenciar los países dentro del conjunto de n variables aleatorias 
+originales. Por lo tanto, deja de ser un método ad hoc de asignación de pesos a las variables para 
+convertirse en un método revelado por los propios datos.
+En el cuadro 6 se muestra la distribución del peso de cada variable que compone el cálculo 
+del puntaje para los grupos definidos anteriormente. Con el fin de basar la propuesta de regla en 
+experiencias exitosas de desarrollo, para calcular el peso se mantuvieron en las bases de cada grupo 
+solo los países que presentaron un aumento del ICE entre los períodos analizados y solo los productos 
+que constituyen el conjunto de opciones de diversificación para cada país.
+Dentro de la primera dimensión, se evalúa la capacidad del país para exportar un determinado 
+bien, a partir del valor exportado del producto, el índice de VCR (que indica cuán competitiva es la 
+exportación del bien) y la tasa de crecimiento de las exportaciones3. La segunda dimensión capta las 
+oportunidades de mercado de un determinado producto a partir de cuellos de botella productivos. Es 
+decir, mayor será el beneficio que el país tendría al iniciar la producción y exportación competitiva del 
+bien cuanto mayor sea el valor importado del producto, el índice de desventaja comparativa revelada 
+(DCR) y la tasa de crecimiento de las importaciones. Desarrollado por Britto y otros (2019), el índice de 
+DCR capta el rendimiento de la producción nacional en comparación con competidores internacionales. 
+El cálculo es similar al del índice de VCR. Sin embargo, en lugar de los valores de exportación de los 
+productos, se utiliza el valor importado. Si el DCR > 1, existe un cuello de botella productivo en ese bien.
+Finalmente, en la tercera dimensión, se intenta evaluar los beneficios de iniciar la producción 
+competitiva de un producto, a través del índice de complejidad del producto (nivel de conocimiento 
+requerido en la producción del bien, es decir, cuán complejo es el producto), el índice de densidad 
+del producto (nivel de similitud del bien en relación con la estructura productiva del país) y el índice 
+de ganancia de oportunidad. Este último fue desarrollado por Hausmann y otros (2011) y mide las 
+oportunidades creadas por un producto no explotado por un país en cuanto a la posibilidad futura de 
+diversificación hacia un mayor número de productos y productos más complejos. 
+3 Las tasas de crecimiento de las exportaciones e importaciones se obtuvieron mediante el cálculo de la tasa de crecimiento 
+anual compuesta.
+153
+Revista CEPAL N° 143 • agosto de 2024
+Ciro de Moura Lopes, João Prates Romero y Elton Eduardo Freitas
+En el caso del grupo de complejidad intermedia, el análisis de componentes principales indicó, 
+en un primer momento, un peso negativo para el índice de DCR. De esta forma, dado que el objetivo 
+es obtener pesos con valores positivos para variables que de hecho explican la variabilidad dentro de 
+cada dimensión, se eliminó el índice de DCR para este grupo, manteniendo solo las variables de valor 
+importado y la tasa de crecimiento compuesta de las importaciones. Las diferencias más significativas 
+entre los pesos residen en la dimensión de análisis de beneficios. Se observó que, en el grupo de 
+países de baja complejidad, las variables de ICP (índice de complejidad del producto) e IGO (índice 
+de ganancia de oportunidad) tienen mayores pesos. En los países de complejidad intermedia, se 
+produce un leve aumento del peso de la variable de densidad del producto. Finalmente, en el caso de 
+los países de alta complejidad, los pesos para la dimensión de análisis de beneficios están distribuidos 
+de manera más equilibrada.
+1. Evaluación de las reglas de diversificación
+En el cuadro 7 se describen el acierto promedio y el acierto más reciente de la regla por grupo de 
+países. Primero, para la evaluación de la regla, se calculó el número de nuevos productos en los que 
+el país se diversificó, considerando solo los países con trayectorias de desarrollo exitosas, es decir, 
+aquellos que aumentaron el ICE entre dos períodos. Luego, se estableció, mediante la cantidad de 
+nuevos productos, la lista de industrias prometedoras. Por ejemplo: si un país comienza la exportación 
+competitiva de X nuevos productos, se consideraron los X productos con valores más elevados del 
+puntaje. A partir de ese número, se calculó entonces el porcentaje de acierto al comprobar cuántos 
+de los nuevos productos indicados por la regla se encuentran entre los sectores que efectivamente 
+ganaron VCR. Es decir, de todos los productos señalados como potenciales por la regla, en cuántos 
+de hecho resultó competitiva la exportación para el país que la inició.
+Cuadro 7 
+Validación del puntaje por grupo
+(En porcentajes)
+Grupo Acierto
+Densidad 
+superior al 
+promedio
+Densidad inferior 
+al promedio
+Índice de 
+complejidad 
+superior al 
+promedio
+Índice de 
+complejidad 
+inferior al 
+promedio
+Baja complejidad Acierto promedio 
+(1980-2010)
+32,00 27,90 23,30 36,39
+Acierto más reciente (2000-2010) 19,86 16,48 20,83 29,89
+Complejidad intermedia Acierto promedio
+(1980-2010)
+33,12 23,22 23,86 29,73
+Acierto más reciente (2000-2010) 32,70 32,10 24,71 31,11
+Complejidad elevada Acierto promedio
+(1980-2010)
+33,12 23,55 33,94 19,30
+Acierto más reciente (2000-2010) 43,91 29,01 44,90 27,55
+Fuente: Elaboración propia.
+Nota: Los valores en negrita indican en qué dirección de diversificación la regla tuvo mayor acierto promedio en el período.
+Se realizaron dos cortes para los productos antes de calcular el acierto de la regla explicitada 
+en el cuadro 6. Estos cortes obedecen al comportamiento de la densidad relativa y de la complejidad 
+relativa de los productos (mayor o menor que el promedio del conjunto de opciones). Además, para 
+todos los aciertos, se mantuvieron solo los productos cuyo valor de índice de VCR está entre 0,5 y 1,0, 
+dado que en este intervalo se encuentran los productos que el país no exporta competitivamente, pero 
+que ya produce con cierto conocimiento. 
+154
+Revista CEPAL N° 143 • agosto de 2024 
+Estrategias de diversificación inteligente diferenciadas por el nivel de complejidad de los países
+Los valores en negrita indican el mayor acierto promedio para los cortes de densidad y complejidad 
+y confirman los resultados encontrados en el análisis descriptivo. En el caso de los países de baja 
+complejidad, la regla presentó un mayor acierto promedio cuando se consideraron los productos con 
+densidad superior y los productos con complejidad inferior al promedio del conjunto de opciones. 
+En estos casos, los países efectivamente iniciaron la exportación competitiva de uno de cada tres 
+productos identificados por la regla. Los resultados refuerzan lo que ya se constató en este trabajo: 
+moverse hacia productos más similares a la estructura productiva es una tendencia y las estrategias que 
+apuntan a productos menos complejos parecen ser más adecuadas para las limitaciones productivas 
+existentes, de manera que la diversificación regresiva sea la más prevalente. Sin embargo, se observa 
+que los valores del acierto para el período más reciente son significativamente inferiores al promedio. 
+En el caso de los países de complejidad intermedia, el mayor acierto promedio también se 
+registra en los productos con densidad superior y los productos con complejidad inferior al promedio 
+del conjunto de opciones. Asimismo, en el grupo de baja complejidad, la regla acierta en uno de cada 
+tres productos identificados. Lo que llama la atención es el acierto para los productos más distantes 
+de la estructura productiva: para el período más reciente, la tasa de acierto en el caso de los productos 
+con densidad inferior al promedio de las opciones fue del 32,10%, valor parecido al observado respecto 
+del corte de los productos más similares a la estructura productiva. En comparación con el grupo de 
+baja complejidad, sumado al hecho de que el acierto para el corte de complejidad superior al promedio 
+para el período más reciente es satisfactorio (24,71%), este resultado indica que la DNR progresiva 
+es interesante para los países de complejidad intermedia, desde la perspectiva de la regla construida.
+Por último, en el caso de los países de alta complejidad, la regla propuesta es eficiente cuando 
+los países refuerzan la trayectoria en curso de diversificación relacionada con productos más complejos. 
+Es interesante observar que, en el período más reciente, de cada diez productos identificados por la 
+regla, aproximadamente en cuatro se registró acierto tanto en cortes de densidad superior al promedio 
+como en los de complejidad superior al promedio. Por lo tanto, para la recomendación de productos 
+potenciales para el desarrollo de las economías más complejas, la regla mostró una mayor eficacia. 
+Es importante destacar, sin embargo, que el nivel de aciertos de la regla no debe interpretarse 
+como un indicador de su calidad. Debido a la estructura de las reglas, es posible que su implementación 
+completa lleve a una tasa de crecimiento aún mayor que la observada. Sin embargo, el nivel de acierto 
+de las reglas indica su factibilidad, señalando que de hecho se acercan en cierta medida a trayectorias de 
+desarrollo relativamente exitosas.
+VI. Conclusiones
+El objeto del presente artículo era evaluar el proceso de cambio estructural y crecimiento de países en 
+diferentes niveles de desarrollo. Partiendo de la curva en S de sofisticación de Hartmann y otros (2020), 
+se dividieron los países en tres grupos: baja, media y alta complejidad.
+Primero, se realizaron pruebas econométricas para replicar los resultados encontrados por 
+Hausmann y otros (2011) y luego se llevaron a cabo pruebas similares dividiendo la muestra entre 
+países de baja, media y alta complejidad. La contribución de este artículo fue reemplazar el término de 
+interacción entre el ICE y el PIB per cápita inicial por estimaciones por grupos de países, con el fin de 
+captar dinámicas propias de cada grupo según su complejidad (baja, media, alta). Esta investigación 
+reveló que la complejidad está asociada a un mayor crecimiento futuro solo en los países de baja 
+y media complejidad y que esta relación es más fuerte en los países de complejidad media. No se 
+observan lo mismos resultados en el caso de los países de alta complejidad. 
+155
+Revista CEPAL N° 143 • agosto de 2024
+Ciro de Moura Lopes, João Prates Romero y Elton Eduardo Freitas
+En otras palabras, los beneficios de la complejidad económica sobre el crecimiento parecen ser 
+mayores y más significativos en las etapas iniciales del desarrollo económico. En etapas más avanzadas 
+de la complejización de la estructura productiva, hay otros determinantes, además de la cantidad de 
+conocimiento incorporado en la producción, que pueden tener una mayor influencia en la trayectoria 
+de crecimiento de los países. Estas conclusiones son coherentes con los resultados del trabajo de 
+Pinheiro y otros (2018), que señalan que es en las etapas iniciales del desarrollo donde reside la decisión 
+crucial de moverse hacia actividades económicas más diversas y complejas o hacia actividades más 
+similares y menos complejas, siendo que la primera opción tiene mayores beneficios en el proceso 
+de cambio estructural y para evitar la trampa del ingreso medio. De acuerdo con esta conclusión, el 
+objetivo era evaluar, por grupos de complejidad económica, los patrones de cambio estructural de los 
+países. Al analizar las características de los procesos de diversificación productiva de los países que 
+aumentaron su complejidad en cada uno de los grupos por separado, se observó que la velocidad del 
+proceso de desarrollo económico depende del conjunto de capacidades incorporadas en la estructura 
+productiva de los países. 
+Usando los indicadores elaborados por Pinheiro y otros (2018), se analizaron diferentes patrones de 
+diversificación observados en cada grupo de países. El análisis indica que los países de baja complejidad 
+tienden a diversificarse, en la mayoría de los casos, hacia productos de menor complejidad y mayor 
+similitud con el promedio de las opciones. Por lo tanto, siguen una trayectoria de diversificación limitada 
+a productos de baja complejidad, lo que explica la dificultad para iniciar el proceso de modernización 
+productiva. Los países de complejidad intermedia, aunque también muestran más casos de diversificación 
+relacionada regresiva, tienen más capacidad para innovar en sus estrategias productivas, volviéndose 
+competitivos en productos con una complejidad superior al promedio de las opciones, lo que impulsa 
+el desarrollo económico. Por último, los países de alta complejidad, al tener una estructura productiva 
+con más capacidades, mantienen trayectorias constantes de modernización productiva a través de la 
+diversificación relacionada hacia productos con una complejidad superior al promedio de las opciones. 
+Este resultado refuerza la idea de que, si la complejidad en este grupo se nivela hacia arriba, otras 
+variables pueden determinar y diferenciar las trayectorias de crecimiento entre los países. 
+Por último, utilizando el método del análisis de componentes principales, se hallaron los productos 
+potenciales basados en los indicadores de complejidad divididos en tres dimensiones: las capacidades 
+actuales del país, las oportunidades de mercado en el mercado internacional y los posibles beneficios 
+en caso de diversificación para estos productos. Los resultados encontrados indican que los productos 
+potenciales varían según los grupos. Al analizar el acierto de la regla para los países que experimentaron 
+un aumento de la complejidad, se encontró que la regla es más eficiente al recomendar productos 
+que siguen las trayectorias de diversificación ya adoptadas por los países. Es decir, los países de 
+complejidad baja y media mostraron una mayor convergencia con la regla en el caso del corte de 
+productos más similares a su estructura productiva y menos complejos que el promedio de las opciones 
+de diversificación, mientras que los países de alta complejidad mostraron una mayor convergencia 
+en el corte de productos más similares y más complejos que el promedio de las opciones, lo que es 
+compatible con el resultado observado en el gráfico 4 (curva en U de diversificación). En estos mejores 
+cortes, la regla acertó aproximadamente en uno de cada tres productos recomendados en los tres 
+grupos analizados.
+Así pues, en el presente artículo se afianza la existencia de una dependencia de trayectoria en el 
+desarrollo económico, ilustrada por la curva en U de diversificación productiva, además de confirmar 
+que esta dependencia condiciona las estrategias de diversificación. Por lo tanto, los resultados del 
+presente artículo indican que los países con diferentes niveles de desarrollo deben adoptar políticas 
+de diversificación productiva basadas en estrategias diferentes.
+156
+Revista CEPAL N° 143 • agosto de 2024 
+Estrategias de diversificación inteligente diferenciadas por el nivel de complejidad de los países
+Bibliografía
+Alshamsi, A., F. Pinheiro y C. Hidalgo (2018), “Optimal diversification strategies in the networks of related 
+products and of related research areas”, Nature Communications, N° 9, Berlín, Springer.
+Balassa, B. (1965), “Trade liberalisation and ‘revealed’ comparative advantage”, The Manchester School , 
+vol. 33, N° 2, Hoboken, Wiley.
+Balland, P . y otros (2019), “Smart specialization policy in the European Union: relatedness, knowledge 
+complexity and regional diversification”, Regional Studies, vol. 53, N° 9, Milton Park, Taylor & Francis.
+Britto, G. y otros (2019), “La gran brecha: complejidad económica y trayectorias de desarrollo del Brasil y la 
+República de Corea”, Revista CEPAL, N° 127 (LC/PUB.2019/6-P), Santiago, Comisión Económica para 
+América Latina y el Caribe (CEPAL).
+Felipe, J. y otros (2012), “Product complexity and economic development”, Structural Change and Economic 
+Dynamics, vol. 23, N° 1, Ámsterdam, Elsevier.
+Furtado, C. (1964), Development and Underdevelopment, Berkeley, University of California Press.
+Hartmann, D. (2016), “The economic diversification and innovation system of Turkey from a global comparative 
+perspective”, International Innovation Networks and Knowledge Migration: The German-Turkish Nexus, 
+A. Pyka, Y. Kustepeli y D, Hartmann (eds.), Londres, Routledge.
+Hartmann, D., M. Bezerra y F. Pinheiro (2019), “Identifying smart strategies for economic diversification and 
+inclusive growth in developing economies: the case of Paraguay”, Hohenheim Discussion Papers in 
+Business, Economics and Social Sciences, N° 4, Stuttgart, Universidad de Hohenheim.
+Hartmann, D. y otros (2020), “Why did some countries catch-up, while others got stuck in the middle? Stages 
+of productive sophistication and smart industrial policies”, Texto para Discussão, N° 526, São Paulo, 
+Fundación Getulio Vargas (FGV).
+Hausmann, R. y J. Chauvin (2015), “Moving to the adjacent possible: discovering paths of export diversification 
+in Rwanda”, CID Working Paper, N° 294, Cambridge, Universidad de Harvard.
+Hausmann, R. y B. Klinger (2006), “Structural transformation and patterns of comparative advantage in the 
+product space”, CID Working Paper, N° 128, Cambridge, Universidad de Harvard.
+Hausmann, R. y otros (2011), The Atlas of Economic Complexity: Mapping Paths to Prosperity, Nueva York, 
+Puritan Press.
+Hausmann, R., M. Santos y J. Obach (2017), “Appraising the economic potential of panama: policy 
+recommendations for sustainable and inclusive growth”, CID Working Paper , N° 334, Cambridge, 
+Universidad de Harvard.
+Hidalgo, C. y R. Hausmann (2009), “The building blocks of economic complexity”, Proceedings of the 
+National Academy of Sciences of the United States of America (PNAS), vol. 106, N° 26, Washington, D.C., 
+Academia Nacional de Ciencias.
+Hidalgo, C. y otros (2018), “The principle of relatedness”, Unifying Themes in Complex Systems IX: Proceedings 
+of the Ninth International Conference on Complex Systems, A. Morales y otros (eds.), Cham, Springer.
+(2007), “The product space conditions the development of nations”, Science, vol. 317, N° 5837, 
+Washington, D.C., Asociación Estadounidense para el Progreso de la Ciencia (AAAS).
+Hirschman, A. (1958), The Strategy of Economic Development, New Haven, Yale University Press.
+Jankowska, A., A. Nagengast y J. Perea (2012), “The product space and the middle-income trap: comparing 
+Asian and Latin American experiences”, OECD Development Centre Working Paper , N° 311, París, 
+Organización de Cooperación y Desarrollo Económicos (OCDE).
+Kaiser, H. (1960), “The application of electronic computers to factor analysis”, Educational and Psychological 
+Measurement, vol. 20, N° 1, Thousand Oaks, Sage Publications.
+Kaldor, N. (1970), “The case for regional policies”, Scottish Journal of Political Economy , vol. 17, N° 3, 
+Hoboken, Wiley.
+(1966), Causes of the Slow Rate of Economic Growth of the United Kingdom , Cambridge, Cambridge 
+University Press.
+Kuznets, S. (1966), Modern Economic Growth: Rate, Structure and Spread, New Haven, Yale University Press.
+Manly, B. (2008), Métodos estatísticos multivariados: uma introdução, Porto Alegre, Bookman.
+Marcato, M. (2013), “O (sub)desenvolvimento sob a perspectiva do estruturalismo latino-americano”, Revista 
+Economia Ensaios, vol. 27, N° 2, Minas Gerais, Universidad Federal de Uberlândia.
+McMillan, M., D. Rodrik e Í. Verduzco-Gallo (2014), “Globalization structural change, and productivity growth, 
+with an update on Africa”, World Development, vol. 63, Ámsterdam, Elsevier.
+157
+Revista CEPAL N° 143 • agosto de 2024
+Ciro de Moura Lopes, João Prates Romero y Elton Eduardo Freitas
+Mingoti, S. (2007), Análise de dados através de métodos de estatística multivariada: uma abordagem aplicada, 
+Belo Horizonte, Editora UFMG.
+OMC (Organización Mundial del Comercio) (2010), Informe sobre el Comercio Mundial 2010: El comercio 
+de recursos naturales, Ginebra.
+Pinheiro, F. y otros (2018), “Shooting low or high: do countries benefit from entering unrelated activities?”, 
+Papers in Evolutionary Economic Geography, N° 18.07, Utrecht, Universidad de Utrecht.
+Prebisch, R. (1950), The Economic Development of Latin America and Its Principal Problems (E/CN.12/89 Rev.l), 
+Nueva York, Naciones Unidas.
+Queiroz, A., J. Romero y E. Freitas (2023), “Complejidad económica y empleo en los estados del Brasil”, 
+Revista CEPAL, vol. 139 (LC/PUB.2023/4-P), Santiago, Comisión Económica para América Latina y 
+el Caribe (CEPAL).
+Rodríguez, O. (2009), O estruturalismo latino-americano, Río de Janeiro, Civilização Brasileira.
+Rodríguez, O. y otros (1995), “CEPAL: velhas e novas ideias”, Economia e Sociedade , N° 5, Campinas, 
+Universidad Estatal de Campinas (UNICAMP).
+Romero, J. y E. Freitas (2018), “Setores promissores para o desenvolvimento do Brasil: complexidade e 
+espaço do produto como instrumentos de política”, Alternativas para uma crise de múltiplas dimensões, 
+M. Viegas y E. Albuquerque (coords.), Belo Horizonte, Universidad Federal de Minas Gerais (UFMG).
+Romero, J. y F. Silveira (2019), “Mudança estrutural e complexidade econômica: identificando setores 
+promissores para o desenvolvimento dos estados brasileiros”, Alternativas para o desenvolvimento 
+brasileiro: novos horizontes para a mudança estrutural com igualdade  (LC/TS.2019/27), M. Chialliato 
+(coord.), Santiago, Comisión Económica para América Latina y el Caribe (CEPAL).
+Thirlwall, A. (2005), A natureza do crescimento econômico: um referencial alternativo para compreender o 
+desempenho das nações, Brasilia, Instituto de Investigaciones Económicas Aplicadas (IPEA).

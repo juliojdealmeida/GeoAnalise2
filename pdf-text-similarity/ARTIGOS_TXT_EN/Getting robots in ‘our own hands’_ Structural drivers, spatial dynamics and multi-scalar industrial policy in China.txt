@@ -1,0 +1,1062 @@
+Special Issue Article
+Competition & Change
+2026, Vol. 30(1) 177 – 199
+© The Author(s) 2024
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/10245294241261878
+journals.sagepub.com/home/cch
+Getting robots in ‘our own hands ’:
+Structural drivers, spatial dynamics
+and multi-scalar industrial policy in
+China
+Antonio Andreoni 
+Department of Economics, Centre for Sustainable Structural Transformation, SOAS University of London, London, UK;
+South African Research Chair in Industrial Development, University of Johannesburg, Johannesburg, South Africa
+Federico Frattini  and Giorgio Prodi 
+Department of Economics and Management, University of Ferrara, Ferrara, Italy
+Abstract
+Robots are a key digital production technology of the Fourth Industrial Revolution. In 2020, China
+accounted for one third of all industrial robots in operation globally. The emerging literature has
+mainly focused on the effects of robotization, while evidence on its drivers and spatial diffusion
+remain limited. We address this gap by producing new evidence on the complex mix of structural
+and policy factors driving fast robotization across China and its regions. We identify three
+‘structural drivers ’ of robotization – demand pull, supply push and capability preconditions – and
+study the resulting spatial dynamics of technology adoption. We ﬁnd signi ﬁcant heterogeneity in
+robots’ adoption across regions and sectors, in robots manufacturing and technological capabilities.
+Furthermore, we highlight the key role of a fourth ‘policy driver’– industrial policy – and conduct an
+in-depth analysis of robotization policies at the national and province levels since 2016. We identify
+four main robotizing regional hubs in China – Guangdong, Yangtze-River-Delta, Beijing-Tianjin and
+Jilin-Liaoning. We ﬁnally analyse three emerging policy interfaces linking Made in China 2025 (within
+which China ’s robotization policy is framed) and the Belt and Road Initiative – that is, opening
+markets, shaping industry and standards, and directing ﬁnance. With this new multi-scalar industrial
+policy conﬁguration, China is further reshaping the domestic and international political economy of
+robotization, ultimately moving the country ahead in the digital technology race.
+Keywords
+Robots, diffusion, structural drivers, industrial policy, China, regional hubs, made in China 2025, belt
+and road initiative
+Corresponding author:
+Antonio Andreoni, Department of Economics, Centre for Sustainable Structural Transformation, SOAS University of
+London, Thornhaugh Street Russell Square, London WC1H OXG, UK.
+Email: aa155@soas.ac.uk
+
+JEL Codes
+O14, O25, O30, R11
+Introduction
+The emergence and diffusion of new technologies of the so-called Fourth Industrial Revolution
+(4IR) is increasingly transforming the nature of industrial sectors and opening the way to new
+organizational and business models. Advances in technology, such as sensorization, additive
+manufacturing and intelligent automation, robots and collaborative robots, as well as related data
+analytics – Internet of Things (IoT), digital platforms and supply chains – have opened new
+windows of opportunity for industrial innovation ( Sturgeon, 2021 ). These technologies and their
+‘fusion’ into new digital technology systems have the potential to increase ﬁrms’ productivity,
+reshape employment dynamics and redesign the geography of production ( Andreoni et al., 2021 ).
+The ﬁrst computer-controlled automated production lines were installed in the USA in the 1970s.
+Further technological and commercial developments were reported in Germany and Japan
+throughout the 1980s and 1990s (Gasparetto and Scalera, 2019), especially thanks to the rise of ICTs
+and the fusion of electronic, electrical and mechanical engineering into mechatronics ( Kodama,
+1986). Since the early 1990s, Japan has gradually established world leadership in robot technologies
+and innovation, with country’s industrial policy playing an important role (Johnson, 1982; Okimoto,
+1989). Japan launched the Japan Robot Leasing Company and promoted concessional ﬁnance and
+fast depreciation of capital investments in robots. Since 2000, the geography of robotization has
+further shifted towards Asia, driven by the fast catching up of ﬁrst South Korea and then China. 1
+Globally, the period between 2012 and 2017 has been the one with the strongest expansion in
+robot adoption, with average robot sales increasing by 19% (Compound Average Growth Rate,
+CAGR) over the period. This expansion was mainly driven by Asia (China, Japan and South Korea),
+where the CAGR for the same period reached 25%. The following 2 years recorded a global
+slowdown in growth (from 30% in 2017 to 6% in 2018) and, for the ﬁrst time, a decline in 2019 (a
+10% drop in new robot adoption) mainly due to sector-speci ﬁc dynamics affecting robots users in
+automotive and electronic industries, as well as rising trade con ﬂicts ( IFR, 2021 ). Despite the
+pandemic, in 2020, robot adoption grew again by 0.5% driven by the electrical and electronics
+(E&E) industry which surpassed the automotive industry as the largest user of robots for the
+ﬁrst time.
+China became the biggest robot market in 2013, and since then has consolidated its position as
+world leader in robot adoption. Nonetheless, the literature has mainly generated cross-country
+evidence and country-level studies focussing on the impact of robotization on productivity and
+employment dynamics in advanced economies (e.g. Acemoglu and Restrepo, 2020 ; Graetz and
+Michaels, 2018). Evidence for developing countries remains limited, with few notable exceptions.
+Fu et al. (2021) found a disproportional impact of robotization among 74 developed and developing
+economies between 2004 and 2016, with insigni ﬁcant gains in labour productivity and total
+employment in developing countries, but higher income inequality. Focussing on Brazil, Ferraz
+et al. (2020) found that adoption of more advanced digital production technologies (ADPTs) is
+associated with higher levels of ﬁrm capabilities and readiness, regardless of sectors and size. Delera
+et al. (2022) found that the diffusion of ADPTs remains limited in Ghana, Viet Nam and Thailand,
+however, their adoption is positively associated with ﬁrms’participation in Global V alue Chains
+(GVCs) and results in a labour productivity premium. With a focus on the automotive value chain
+178 Competition & Change 30(1)
+across 34 countries, Anzolin et al. (2022) found that Foreign Direct Investments (FDIs) per se do not
+drive robots adoption in the host country, but FDIs become a signi ﬁcant driver of robotization when
+interacted with proxies of host countries ’innovation capabilities.
+Recent contributions focussing on China look at the effects of robotization. Duan et al. (2023)
+ﬁnd that robotization is associated with productivity increases among Chinese listed companies by
+improving human capital and innovation capabilities; however, the relationship is U-shaped ( Du
+and Lin, 2022 ). Several studies also ﬁnd positive effects of robot adoption on high-skilled em-
+ployment (e.g. Hu et al., 2023 ; Tang et al., 2021 ; Wang et al., 2024 ), and a related rise in income
+inequality (Lai et al., 2023 ). Overall, robotization tend to have a positive effect on employment in
+the long term ( Du and Wei, 2022 ), although broader ﬁrms’performances tend to improve more in
+capital-intensive sectors ( Huang et al., 2023 ). There is also evidence of a link between robotization
+and industrial innovation (e.g. Han and Mao, 2023; Wang et al., 2023) and export quality and scope
+(Hong et al., 2023; Qi and Zhang, 2023), despite heterogeneity (Lu et al., 2023) and time-lags (Hong
+et al., 2022 ). A systematic literature review is presented in Appendix A .
+Evidence on the drivers and spatial dynamics of robotization within China remain scarce,
+however. Cheng et al. (2019) combined aggregate industry-level and ﬁrm-level data to investigate
+both supply- and demand-side factors responsible for fast robotization in manufacturing in China
+(manufacturing sectors account for 80% of all robots). They ﬁnd a positive relationship linking
+robotization to wage dynamics and manual tasks across ﬁrms; government subsidies are also found
+shaping robot adoption among ﬁrms. Fan et al. (2021) also ﬁnd that robotization is driven by
+increasing labour cost (minimum wage), although robotization does not always meet cost-reduction
+expectations (Lei, 2022). Zhao and Gerefﬁ (2022) highlight the different roles of industrial policies,
+public-private collaborations in R&D, technological spillovers from inward FDIs and international
+acquisitions in upgrading the domestic industrial robot industry. Synergistic con ﬁgurations along
+GVCs can support upgrading (Fu and Cheng, 2022). Finally, Kimura (2022) ﬁnds that Chinese ﬁrms
+are catching up with technology leaders in the domains of robots ’ basic functions and robot
+sophistication.
+Despite fast robotization and increasing investments of multinational robot manufacturers in
+China, the country is still catching up in the development of indigenous technological capabilities in
+robots. The Chinese government has targeted robotization in its latest and most important national
+industrial policy – that is, Made in China 2025 (MIC25) – to shift from robot adoption to robot
+production and technological leadership. Other national and province-level initiatives can be traced
+back to 2013 at least. These initiatives have evolved in a complex package of national and province-
+based industrial policies, as revealed by alarmed reports from the U.S. and Germany ( Zenglein and
+Holzmann, 2019; NSCAI, 2021). To paraphrase Xi Jinping ’s vivid language in the context of food
+security when he states that ‘The Chinese people’s rice bowl must be ﬁrmly in their own hands at all
+times’, China is equally trying to reach ‘technology security’by getting robots in its ‘own hands’.
+By focussing on the drivers and spatial dynamics of robotization in China, we aim at ﬁlling an
+important knowledge gap. Against the evolving global landscape, we analyse the complex mix of
+structural and policy factors driving fast robotization across Chinese provinces. We proceed in three
+steps. First, we produce evidence on the international geography and structural drivers of robot-
+ization by distinguishing robot adoption from robot production and technological capability
+preconditions. Against this backdrop, we then identify and analyse three main structural factors –
+demand pull, supply push and capability preconditions – driving robotization and spatial dynamics
+in China. We produce evidence on production and technological capabilities for robots across
+Chinese provinces, including new estimates of the geographical distribution of robots within China.
+Finally, we focus our attention on a fourth driving factor, that is, the extent to which national and
+Andreoni et al. 179
+province-based industrial policy (and their interaction with ‘structural drivers ’) are shaping ro-
+botization across regions in China. We also assess the extent to which China ’s robotization policy
+nested in MIC25 is increasingly boosted by the deepening of the Belt and Road Initiative (BRI),
+giving rise to a new multi-scalar industrial policy.
+We ﬁnd that China is the robotized factory of the world, however, a factory that still relies on
+foreign robot technologies heavily. This is why catching up in robotization is a major government
+priority. Central government-led industrial policies have been increasingly aligned and com-
+plemented with province-led initiatives since 2016 to localize technological innovation and exploit
+potential regional agglomeration economies. We identify the emergence of four main robotizing
+regions – that is, Guangdong, Yangtze-River-Delta (YRD), Beijing-Tianjin and Jilin-Liaoning.
+Each one of them is trying to exploit its strengths and work on its weaknesses, while responding to
+mounting competition across provinces. We ﬁnally found the emergence of three synergies linking
+MIC25 and BRI and underpinning China ’s leadership in robot technologies: opening markets for
+robots, shaping global industry and technology standards, ﬁnally directing ﬁnance towards robots
+technology diffusion.
+The paper is outlined as follows. We ﬁrst present materials and methods. We then identify and
+provide cross-country evidence of structural factors driving robotization. We address these
+structural drivers to explain emerging evidence on the disproportional distribution of robots across
+regions in China, and emerging regional agglomerations. Against this bakdrop, we analyse the
+evolution of national and province-based industrial policy for robotization in China. We conclude
+by re ﬂecting on China ’s robotization trajectory and industrial policy lessons.
+Theoretical approach, data and methods
+In the analysis of technological trajectories – that is, technology innovation, diffusion and
+adoption – both evolutionary and structural economics focus on demand-pull – both quantity and
+quality – and supply-push dynamics – both technical change and changes in industrial structures
+(Dosi, 1982 ). Both push and pull dynamics, and their interaction, are necessary to drive learning
+within and across ﬁrms; they are cumulative and develop along patterns of complementarity in
+investments and technological capabilities development ( Andreoni, 2014; Mowery and Rosenberg,
+1989). Push and pull dynamics are also heterogenous across sectors ( Pavitt, 1984) and geographies
+(Storper, 1997), resulting in sector-speciﬁc dynamics of change as well related spatial dynamics. We
+build on this body of literature to guide our empirical investigation of robotization in China.
+The literature on robotization has largely relied on the International Federation of Robotics (IFR)
+datasets. The IFR provides annual data on the cumulated operational stock of industrial robots by
+sectors, and the annual ﬂow of new robots for a large group of countries since 2005. As detailed in
+Appendix B, in line with the literature, we follow the approach proposed by Acemoglu and Restrepo
+(2020) to scale down robots adoption from the country to the province level. First, based on IFR
+(2021), we estimate robots adoption across a selection of manufacturing sectors at a national level.
+Second, building on from the National Bureau of Statistics of China (NBSC web data warehouse
+available at https://www.stats.gov.cn/english/), we estimate the distribution of the output from these
+sectors across regions and the distribution of the employment across regions. Based on these three
+estimates, we calculate the expected stock of industrial robots deployed across provinces and
+province-level cities as a percentage of the country ’s total and its density per inhabitant. Estimates
+are also reported in Appendix B .
+The identi ﬁcation of manufacturing plants across China relied on a careful triangulation of
+specialized press, technical/consultancy reports and the companies ’ ofﬁcial websites and their
+180 Competition & Change 30(1)
+ﬁnancial reports. Triangulation was needed as each one of these sources presents some ﬂaws.
+Starting from Technavio (2019) as a baseline, we further re ﬁned our identi ﬁcation of robot
+manufacturing plants in China by relying on ﬁrm-speciﬁc patents data. Patents are widely used as a
+reliable measure of technology output ( Keller, 2004), and patent applicants a reliable proxy of the
+ﬁrms producing that output ( OECD, 2009 ). We also rely on of ﬁcial reports from robots manu-
+facturers and patent data to capture location of manufacturing plants in China, acquisitions of ﬁrms,
+and technological-innovation capabilities.
+While several factors such as ﬁnance and broader skills can act as preconditions of technology
+adoption, we estimate the capability preconditions of robotization across Chinese regions only
+based on patent data. This solution stresses the capability to process and develop technologies (see
+Kimura, 2022 for an application to Chinese companies within the industrial robot GVC) and, thus,
+helps single out the preconditions factor from the broader supply push driver. Speci ﬁcally, we
+referred to patents applications under the Patent Cooperation Treaty (PCT) administered by the
+World Intellectual Property Organization (WIPO) from the OECD, REGPA T database (July 2021).
+We selected the list of patent classes related to the domain of robotics and automation, identifying
+the class B25 J (manipulators; chambers provided with manipulation devices) as the technological
+key to extract a list of PCT applications from the database. We ﬁnally collected longitudinal data on
+applications according to the priority date, and allocated patents to Chinese regions to generate a
+detailed and comprehensive regional map of the technology preconditions of robotization in China.
+Finally, the industrial policy analysis builds on an in-depth review of policy strategies and
+documents. Data from these documents have been triangulated and reviewed longitudinally to
+assess reliability and accuracy.
+Structural drivers and spatial dynamics of robotization: Locating the
+China case
+Demand-pull: Geography and sector-speci ﬁcity of robot adoption
+Industrial robot adoption across countries is highly concentrated. In 2017, when the stock of robots
+in operation reached its peak, 37 countries accounted for 95.9% of all robots in the world. The top
+10 ‘robotised’countries accounted for 85.8% of the total, the top ﬁve alone for 74.8% of all robots.
+The top ﬁve include three leading industrialized nations – Japan, the USA and Germany – and two
+of the fastest industrialisers of the last century – South Korea and China. In 2020, the top ﬁve still
+accounted for 73.1% ( Table 1 ). This geographical concentration re ﬂects a key structural factor
+driving robotization, that is, the deployment of industrial robots is not homogenous across sectors.
+Thus, countries (and regions) specialized in those sectors that deploy robots the most are also those
+where robot users will exercise the strongest demand pull.
+By 2017, 88% of industrial robots were deployed in the manufacturing sector, with automotive
+accounting for the largest sectoral share of industrial robots (36.81%; 32.2% in 2020). Automotive
+has always been the bedrock of manufacturing automation due to its high-volume production,
+modularization and stability in product design in OEMs ( Anzolin and Andreoni, 2023 ). Electrical
+and electronics (E&E) is the other leading sector for robot adoption (24.25%; 25.3% in 2020). The
+production of micro-small parts at high speed, which characterizes this sector, makes automation
+and robots highly productive and pro ﬁtable. Robots are capable of handling screens and coating
+circuit boards and assembling connectors faultlessly. In 2020, the other two major sectors with more
+robots in operation are metals (10.3%), and plastic and chemical products (6.3%). Together, these
+four sectors account for 74% of the world operational stock of industrial robots in 2020. The fact that
+Andreoni et al. 181
+most industrial robots have been deployed in a few sectors and GVCs-stages so far, means that only
+countries specialized in these sectors have robotized due to sector-speciﬁc demand-pulls (De Backer
+et al., 2018 ).
+Table 1 also shows a disaggregated country-sector matrix to capture sector-speci ﬁc demand-pull
+dynamics for 2020. For the top ﬁve robotized countries, we calculated the distribution of robots
+across manufacturing sectors, and we benchmark each country-sector cell in the matrix against the
+average share across all countries. China and Korea score above average in the two leading sectors
+of E&E which underpin digital technologies. Network analyses have found that the South-East
+Asian region is where digital technologies GVCs are denser; hence, there is more inter-countries
+demand pull for ﬁnal and intermediate components ( Andreoni et al., 2023 ). In South Korea, which
+has the world ’s second highest density of industrial robots after Singapore (more than twice the
+density in Japan and Germany, almost four times the density in the USA), robot adoption is driven
+by country ’s catch up and regional agglomeration in electronics ( Lee, 2013 ). On the contrary, the
+demand pull is stronger in automotive for Germany, USA and Japan (in the case of Germany, it
+includes its European supply network; Cs´efalvay, 2020).
+Supply-push: Geography and manufacturers of robots
+While sector-speciﬁc robots users drive robot adoption across countries (and their regions) through a
+demand-pull, the geographical distribution of robot producers is determined by a combination of
+different supply push factors. These include: (i) path-dependency in robot production and tech-
+nological capability leadership of certain countries (and their regions and ﬁrms); (ii) localization
+investment decisions (R&D and production plants) of world-leading robot manufacturers in do-
+mestic and foreign expanding markets; and (iii) new robot manufacturers attempting to compete
+Table 1. Country-sectoral matrix and comparison between countries ’ total operational stocks of industrial
+robots (2020) and PCT applications (2007 – 2018)* as percentage of world totals. Source: authors ’ elaboration
+based on data from IFR (2021) and OECD, REGPAT database, July 2021.
+Sector
+Operational stock of industrial robots (2020) Share of world total
+Automotive
+(%)
+Electric and
+electronic
+products
+(%)
+Metals and
+machinery
+(%)
+Plastic and
+chemical
+products
+(%)
+Other
+sectors
+(%)
+Operational
+stock of
+industrial
+robots (2020)
+(%)
+Industrial
+robot PCT
+applications
+(2007– 18)
+(%)
+Country
+China 27.2 29.5 11.6 4.9 26.8 31.3 11.1
+Japan 32.2 33.5 13.0 5.0 16.2 12.4 30.7
+Rep. of
+Korea
+28.3 53.6 2.9 2.6 12.7 11.4 5.9
+United
+States
+43.2 16.1 8.3 7.6 24.8 10.4 16.6
+Germany 49.4 4.9 13.0 9.0 23.6 7.6 12.6
+World 32.2 25.3 10.3 6.3 26.0 100.0 100.0
+*IFR (2021) considers an industrial robot life cycle of 12 years. We count here integer patent applications over 12 years to
+produce comparable ﬁgures.
+182 Competition & Change 30(1)
+with most established players in their domestic (or foreign) markets. Some of these supply push
+factors interact with sector-speci ﬁc demand-pull dynamics discussed above.
+The top 10 industrial robot manufacturers in th e world, with revenues ab ove US$1 billion are all
+headquartered in advanced economies (Table 2). Among them, Mitsubishi Electric is a highly diversiﬁed
+business group, while ABB specializes in robotics andﬂexible automation alongside power and heavy
+electrical equipment. The other listed companies sp ecialize in industrial robots and intelligent auto-
+mation systems. Four of them–Fanuc, ABB, KUKA and Yaskawa– had an estimated combined market
+share of 57% in 2019. Japan is the country with the biggest concentration of robot manufacturers and
+innovating robot technologies around three clusters in Kyoto City, Osaka City and Kobe City. With the
+Table 2. Major industrial robot manufacturers in the world: segment revenue (2020), production facilities in
+China (2020) and industrial robot PCT applications (2007 – 2018). Source: authors ’ elaboration based on
+information from OECD, REGPAT database, July 2021, and companies ’ websites/ﬁnancial reports.
+Company HQ country
+Industrial robot
+specialization
+Segment
+revenue
+(billion USD,
+2020)
+Industrial robot
+PCT applications
+(2007– 18)
+Production
+facilities in
+China (2020)
+Mitsubishi
+electric
+Japan Factory automation and
+robots
+10.8 118 6
+Omron
+adept
+Japan Mobile robots, industrial
+robots and other
+automation equipment
+3.0 71 1
+ABB Switzerland Robotics and automation 2.9 323 1
+Kawasaki Japan Industrial robots for several
+applications, including
+dual-arm SCARA robots
+working alongside humans
+2.1 338 4
+Fanuc Japan Arc welding robots, paint
+robots, palletizing robots,
+collaborative robots, and
+mini robots, AI
+1.8 78 4
+Dürr Germany Assembling and painting
+automation
+1.8 33 1
+Yaskawa Japan Industrial robots for welding,
+packaging, assembly,
+dispensing, material
+handling, spot welding,
+coating, and general
+automation
+1.2 140 5
+Fuji Japan Compact industrial robots
+(SCARA and multi-axes)
+and mobility support
+(health)
+1.1 112 2
+KUKA
+(Midea
+group)
+Germany/
+China
+Six-axis robots in different
+sizes, lightweight robots,
+heat and dirt-resistant
+robots, palletizing robots,
+and shelf-mounted robots
+1.0 268 2
+Andreoni et al. 183
+acquisition of KUKA (95%) by the Chinese companyMidea Group in 2016, China has become the only
+emerging economy with a domestic world-leading system integrator in robotics.
+The robot GVC involves several importers and exporters of robots. GVC integration offers some
+opportunities to emerging countries trying to catch up in 4IR technologies ( De Backer et al., 2018 ;
+Sturgeon, 2021; Anzolin et al., 2022 ; Kimura, 2022). This is particularly the case for China, where
+the demand-pull of robot users has attracted the localization of robot production facilities since the
+mid-2000s, and some R&D centres since 2017 ( ABB, 2020 ). In 2017, when China started ac-
+celerating its robotization efforts, Japan was the leading net exporter of industrial robots in the
+world, with a net export value of more than US$2 billion and China imported more than $1 billion
+worth of robots (based on UN Comtrade data, product class 847,950 – i.e. ‘machinery & mechanical
+appliances; industrial robots ’). By 2020, almost all leading robotics companies have built one or
+more production facilities in China, alongside their sale and post-sale service networks.
+Capability preconditions: Spatial distribution of technological capabilities
+The localization decisions of both robots producing and using companies are affected by a third
+factor: the presence of several foundational capability – especially technological – that act as
+‘preconditions’ of robotization ( Andreoni et al., 2021 ; Anzolin et al., 2022 ). The adoption and
+production of industrial robots presuppose productive organizations endowed with basic and in-
+termediate production and technological capabilities (e.g. digital skills). These ﬁrm-level capa-
+bilities also need enabling infrastructures, such as reliable electricity, and connectivity. Moreover, to
+deliver productivity gains, robots require signi ﬁcant capital investment. While the cost of robots
+declined by 20% in real terms between 1990 and 2006, robots remain expensive. Robot integration
+and retroﬁtting of existing production lines and cells are costly processes, especially for SMEs, and
+hence requires access to ﬁnance. These preconditions are disproportionally distributed across
+countries, as revealed by several indicators of human and productive capabilities, industrial
+competitiveness and institutional development ( Fagerberg et al., 2007 ; Crescenzi et al., 2012 ).
+In 2017, only 25% of new robots installed in China were produced domestically by either inter-
+national or domestic robot manufacturers. Moreover, Chinese companies managed to supply only
+components for the robot corpus (accounting for only 22% of the cost structure of a typical robot). More
+complex components of robot technologies such as – controllers, servo motors and reduction gears–
+accounting for over 70% of the cost of a typical robot, were produced by foreign suppliers (Made in
+China, 2025). Despite challenges in building the necessary technological capabilities to robotize, patent
+data analysis reveals a fast-changing scenario (Figure 1). Since 2016, China has recorded a dramatic
+acceleration in PCT applications. While Japan remains the global leader in PCT applications for robot
+technologies, China is overtaking the USA in patents to become the second technological leader in robot
+technologies. As discussed in Kimura (2022), an acceleration in PCT applications is evidence of fast
+development of technological capabilities in robotization.
+Structural drivers and spatial dynamics of robotization in China: Results
+Figure 2 summarizes the evidence on structural drivers of robotization in China, speci ﬁcally, sector-
+speciﬁc demand pull (Panel 2.A), supply push and manufacturing capacity (Panel 2.B) and
+evolution in technology preconditions (Panel 2.C). These are presented longitudinally and in
+relation to the evolution in robots policy in China (Panel 2.D). This information is complemented by
+Figure 3 where information on the same structural drivers is mapped out by regions (Panel 3.A).
+Four robotics hubs are also highlighted (Panel 3.B) and discussed below.
+184 Competition & Change 30(1)
+Demand pull by sector and regional distribution
+The adoption of industrial robots in China has been pulled by the automotive sector since 2012
+(20%, 16% in 2020), although E&E industry recently overtook automotive (7% in 2012, 17% in
+2020). This re ﬂects the massive expansion of the E&E in China ( Figure 2(A) ). Miscellaneous
+activities persist in absorbing a substantial number of robots (15% in 2020). At regional level, we
+found that robotization across regions is highly heterogenous. Three factors explain this high
+heterogeneity. First, as expected, the width of robotization at the regional level is driven by the
+distribution of manufacturing and the presence of industries where robots are widely adopted.
+Second, this relation is clearer for the regions of extensive robotization; that is, those agglomerating
+many industrial robots as they feature the largest numbers of employees in manufacturing, such as
+Guangdong, Jiangsu and Zhejiang. Third, the distribution is fuzzier for regions where a higher share
+of industrial robots than employees are agglomerated (small numbers but high densities of industrial
+robots), such as Tianjin, Chongqing, Jilin and Shanghai.
+Overall, robots adoption across regions in China ( Figure 3(A)) appears to con ﬁrm the relevance
+of the sector-speci ﬁc demand pull as the stocks of industrial robots are relatively larger where the
+E&E industry is more concentrated (output shares generally beyond 10%), while densities are
+higher where the automotive industry agglomerates more (output share of 7 –10%). Guangdong is
+one exception, featuring both a large stock and high density of robots, due to high concentration of
+the E&E industry (42.2% of mobile phones and 57.2% of television sets) and automotive (12.4%).
+Supply push by domestic and international robot manufacturers, and
+regional distribution
+While domestic demand for robots remains higher than domestic supply, robot manufacturing
+capabilities have developed over the last three decades ( Table 3). The national leading company,
+Estun, was established in the early 1990s and over the years specialized in ‘CNC robotics ’
+combining Computer Numerical Control machines with advanced robotics; this was made possible
+with the acquisition of technology assets abroad (Figure 2(B)). The second-largest company, Siasun,
+was established in 2000 as a spin-off of the Shenyang Institute of Automation of the Chinese
+Figure 1. PCT applications by country and year, 2001 – 2018 (applicants, integer counts). Source: authors ’
+elaboration on data from OECD, REGPAT database, July 2021.
+Andreoni et al. 185
+Figure 2. Structural and policy layers of robotization in China. Panel A: Adoption. Operational stock of
+industrial robots by main sector of deployment, 2001 – 2020. Source: authors ’ elaboration based on IFR
+(2021). Panel B: Production. Establishment of major Chinese industrial robot manufacturers and major
+acquisitions of foreign companies in the robotics industry by Chinese players, 2001 – 2020. Source: authors ’
+elaboration based on multiple sources. Panel C: Technology. Industrial robot PCT applications in China by
+applicant origin: domestic and af ﬁliated applicants, 2001 – 2018 (integer counts). Source: authors ’ elaboration
+on data from OECD, REGPAT database, July 2021. Panel D: Policy. Industrial policy framework for robotization
+in China, 2001 – 2020.
+186 Competition & Change 30(1)
+Academy of Sciences. Despite their growth, all domestic players operate at a substantially smaller
+scale of revenues than the world-leading robot manufacturers (see Table 2 for a comparison).
+Since 2015, acquisition of foreign companies has played an increasing role (Figure 2(B)), starting
+with CMA Robotics, a small Italian company becoming part of Efort. Italian and German companies
+Figure 3. Robotization in China. Panel A: Robotizing regions. Adoption patterns (polygons), manufacturers
+(bubbles) and technologies (squares). Panel B: Robotization hubs. Summary information and local policy
+initiatives. Source: authors ’ elaboration on information from various sources. (A) Robotizing regions. (B)
+Robotization hubs.
+Andreoni et al. 187
+were the main targets of these acquisitions throughout 2016 and 2017. The acquisition of the
+German KUKA by Midea Group in 2016 represents the most relevant case. Alongside national
+players, global leading companies such as ABB, Fanuc and Yaskawa, operate in China through local
+subsidiaries (see Table 2 above on number of these production facilities in China).
+From our mapping of both major domestic and foreign manufactures of robots across Chinese
+regions, we found some signs of robot manufacturers agglomeration (Figure 3(A)). First, the overall
+number of manufacturers (bubble size) tend to localize according to the density of robots demanded.
+Second, the localization of foreign manufacturers appears as feebly but positively associated with an
+increasing density of industrial robots. The domestic manufacturers as well as foreign-owned
+facilities localize in eight regions. However, co-localization is quite weak, occurring in only four
+regions: Guangdong, Beijing, Shanghai and Jiangsu (bubble colour). The largest concentration of
+manufacturing facilities is in Shanghai (ten), followed by Jiangsu (eight), and Guangdong (seven).
+And this concentration is mainly fostered by the localization of foreign-owned facilities: eight out of
+ten in Shanghai, six out of eight in Jiangsu and ﬁve out of seven in Guangdong (see Appendix B for
+more details).
+Technological capabilities preconditions development across regions
+Frontier-technology capabilities – measured as number of PCT applications in robotics – started
+emerging in China in 2001 ( Figure 2(C) , domestic applicants), 20 years after the ﬁrst patents
+worldwide (Japan in 1979, followed by Germany and USA). Nonetheless, China reported an
+increasing number of applications since 2009 and a real upsurge since 2015. In addition, these
+technological capabilities have been progressively supplemented by those acquired abroad
+Table 3. Major Chinese industrial robot manufacturers in China: number of production facilities (2020) and
+PCT applications (2007 – 2018). Source: authors ’ elaboration based on information from OECD, REGPAT
+database, July 2021, ﬁnancial and companies ’ websites.
+Company
+Year
+established
+Industrial robot
+specialization
+Total
+revenue
+(billion USD,
+2020)
+Industrial robot
+PCT applications
+(2007– 18)
+Production
+facilities in China
+(2020)
+Estun 1993 Automation, motion
+control, industrial
+robots for a variety of
+applications
+0.47 16 3
+Siasun (China
+Academy of
+Sciences)
+2000 Industrial, mobile,
+collaborative and
+service robots, smart
+logistics
+0.42 4 4
+Geek+ 2015 Autonomous mobile
+robots
+0.30 5 1
+PartnerX 1996 Motion arms (brand
+EVOX)
+0.25 8 1
+Efort 2007 Mini, painting, and
+collaborative robots,
+various payloads
+robots
+0.17 1 5
+188 Competition & Change 30(1)
+(afﬁliated applicants). By 2017, China generated 21% of the world frontier technologies in robotics.
+An astonishing result if compared to the fact that between 2001 and 2008 it was only 1% ( Figure 1).
+Despite this rapid growth, technological capabilities measured by patents remain concentrated in
+a few regions ( Figure 3(A) ). These are: Guangdong (390), Jiangsu, (146) and Beijing (114),
+followed by Shanghai (62) and Zhejiang (35). These are also the regions where we mapped 30 out of
+40 robot production facilities (11 out of 14 domestic-owned and 19 out of 26 foreign-owned). The
+capability to supply more advanced technologies in China is critically driven, indeed, by ag-
+glomerations around foreign and indigenous ‘seeds’of supply push, which are often associated with
+foreign companies and, more recently, indigenous ones ( Prodi et al., 2018 , 2020).
+Regional robot hubs
+By triangulating evidence on the structural drivers of robotization across Chinese regions
+(Figure 3(B) ), we have identi ﬁed four main regional robot hubs.
+The ﬁrst hub is Guangdong: an extensive manufacturing hub in China, where 22% of China ’
+employment in manufacturing is concentrated. In 2020, the industrial base pulled 20% of the
+national stock of industrial robots; attracted investments in one out of ﬁve robots production fa-
+cilities (28% of which domestic-owned). The density of robots remains lower than in other regions;
+this is mainly due to the regional concentration of E&E industries (especially, mobile phones and
+television sets accounting around 50% of China). A comparable concentration emerges for the
+technological capabilities in robotics (45% over the country ’s total of PCT applications), suggesting
+that Guangdong is the forerunner of a demand-pull extensive pattern of robotization.
+A second hub is the Yangtze-River-Delta (YRD) region, which includes Shanghai, Jiangsu,
+Zhejiang and Anhui. Overall, this hub agglomerates 22% of the stock of industrial robots and 27%
+of the national employment in manufacturing, with a dis-homogeneous density ranging between
+0.2 in Anhui and 1 in Shanghai. The wide area hosts 23 out of 40 robot manufacturing facilities
+(40% of which are domestic owned, only 20% in Shanghai). Furthermore, it is the second provider
+of domestic robot technologies (30%). Thus, the robotization pattern in the YRD appears to be one
+of supply pushed robotization. The centre of the hub, Shanghai, features more intensive roboti-
+zation, which is attractive for foreign ﬁrms, and pulls the development trajectory of the three
+surrounding provinces.
+The third hub, located in Beijing and the linked region of Tianjin, exhibits an intensive pattern of
+robotization: 6% of the national stock of industrial robots turns into one of the highest densities of
+industrial robots (0.6 in Tianjin and 0.9 in Beijing) among the Chinese regions (manufacturing
+accounts for less than 5% of the country ’s total). Despite its small size, the region agglomerates 8%
+of the manufacturing facilities and 14% of PCT applications, suggesting that supply, and especially
+technology-relevant activities, are the main drivers of robotization.
+The fourth and last hub is located across the provinces of Jilin and Liaoning. It can be considered
+one of the original sites of robotization in China, since Jilin hosts one of the largest agglomerations
+in automotive (14%), while Liaoning hosts the headquarters of one national leading robot man-
+ufacturer (Siasun in Shenyang). Siasun operates the only production facility in the region. The
+overall concentration of manufacturing activities is relatively low (4% of country ’s employment)
+absorbing 6% of the national stock of robots, mainly triggered by the intensive pattern of ro-
+botization in automotive (the density of robots peaks at 0.7 in Jilin). Also, the generation of frontier
+technologies is limited (3% of PCT applications), suggesting that robotization is demand-pulled
+mostly.
+Andreoni et al. 189
+Industrial policy driving robotization in China: Evolution
+The Chinese government has forcefully targeted industrial robotization using its full package of
+industrial and innovation policy instruments since the National High-Tech R&D programme
+(863 Programme) issued in 1986 ( Liu et al., 2011 ; Andreoni and Tregenna, 2020 ; Wen and Zhao,
+2020). However, China’s catching-up effort – moving from robot adoption to robot production and
+technological global leadership – has been mainly associated with the Twelfth Five-Year Plan
+(2011–2015). The Thirteenth Five-Year Plan (2016 –2020) has further advanced China ’s approach
+by emphasizing the importance of promoting a ‘number of world-class development clusters for
+strategic emerging industries ’. While this development has opened the way to several province-led
+industrial policy experiments and initiatives promoting robotization, the central government has
+retained a pivotal role in framing and governing a complex mix of national level and place-based
+central government-led industrial policy ( Chen and Naughton, 2016 ; Naughton, 2018 ). Table 4
+summarizes the development of this multi-scalar industrial policy framework for robotization in
+China focussing on the main steps, target and goals.
+In 2015, with the launch of Made in China 2025 (MIC25) – a major plan to improve the
+competitiveness, innovation, technology, quality, reliability, and ‘green-ness’ of China ’s
+manufacturing sector – intelligent manufacturing and robots have received even more attention ( Li,
+2018). Robots have been recognized as the technology that will allow China to address the so-called
+‘double-press’, according to Miao Wei, MIIT Minister. The double-press means competing with
+developed countries in advanced technologies and with developing countries for cheap labour.
+MIC25 is by far the most ambitious programme in Chinese history when it comes to robots. It aims
+to upgrade China ’s manufacturing industry by making China ‘the world ’s largest producer of
+industrial robots and to master technologies for key components, a longstanding challenge for
+China’s robotic industry ’(authors’translation).
+The Robotics Industry Development Plan (2016 –2020) reports that China is still a relative
+latecomer. China still depends on imports for core components of industrial robots – that is,
+controllers, decelerators and servomotors. Chinese-made core components tend to be larger in size
+and lower in output power, especially compared with Japanese-made robots. Three- and four-axis
+machines still tend to be the most diffused, while six-axis robots capable of performing complex
+tasks like assembly, disassembly and welding are relatively less common.
+Within the MIC25 and the Robotics Industry Development Plan (2016–2020), the industrial policy
+package includes instruments operating at the national and provincial levels. At the national level, the
+government relies on ﬁve main policy instruments: subsidies ( Cheng et al., 2019 ; Lin, 2018); ﬁscal
+incentives, such as the State Council ’s announcement of cutting more than 60 billion yuan
+(US$8.78 billion) worth of taxes for smalland micro-enterprises and high-techﬁrms in order to reduce
+its operating costs and spur innov ation; promoting (and approving) company acquisition; promoting
+joint ventures (De Graaff, 2020); creating robotics centres and parks (Zenglein and Holzmann, 2019).
+Since 2015, Chinese provinces have started announcing and implementing a variety of province-
+led industrial policy packages for robotization. Some of these policy instruments target increasing
+robot adoption, while others have increasingly targeted acquisition, development and agglomeration
+of productive and technological capabilities in robots. The overarching national industrial policy
+framework for robotization is meant to provide industrial policy alignment and governance co-
+ordination, as there is a recognition of their strategic importance in achieving targeted goals ( Chang
+and Andreoni, 2020), and offers the main architecture for advancing China’s national interests in the
+age of strategic competition ( Singh, 2023 ). Table 5 provide most striking examples of central-led
+initiatives and province-led initiatives for the four robotization hubs.
+190 Competition & Change 30(1)
+Provinces have implemented different schemes and incentive packages to become the biggest robot
+hub of China. In some cases, regional policies mirro r the national-led policy initiatives; indeed, all
+provinces attempt to reach the High- and New-Technology Enterprise (HNTE) status that guarantees a
+signiﬁcant reduction of the Corporate Income Tax (CIT) rate to encourage investments in high-tech and
+R&D. In other cases, province-led initiatives reﬂect the structural speciﬁcities of the region in terms of
+demand pull, supply push and capability preconditions and governments target their speci ﬁc oppor-
+tunities and constraints. For example, some regional governments have set up investment capital funds
+Table 4. Industrial policy framework for robotization in China. Source: authors based on policy documents.
+Plan/action Target and goals
+Twelfth ﬁve-year plan (MST, 2011 – 2015) Reducing the overdependence on imported high-end
+equipment and its key components for domestic
+production; development of speci ﬁc technologies,
+including robotics, sensors, industrial communication
+networks and controllers
+Guideline on promoting the development of the
+industrial robot industry (MIIT, 2013 – 2020)
+Tackling four weaknesses: a small industry base and reliance
+on imports for key components; China ’s common
+service platform standards and personnel; market
+competitiveness of country ’s own brands; market
+competition
+Goals: developing three to ﬁve globally competitive robot
+manufacturers; creating eight to 10 industrial clusters for
+the industry; reaching a 45% domestic market share for
+Chinese high-end robots; and increasing robot
+penetration to 100 per 10,000 workers
+Thirteenth ﬁve-year national economic and social
+development plan (2016 – 2020)
+Aligning the guideline to sectoral industrial policies
+Made in China 2025 (2015 – 2025) Owning the intellectual property rights (IPRs) of key
+components of industrial robots; becoming a leader in
+the development of next-generation robots; having one
+or two Chinese-owned companies ranked among the
+world top ﬁve companies
+Goals: replacing the import of industrial robots with
+domestically produced ones by 50% of total robots
+installed by 2020, and 70% of those installed by 2025; in
+the area of robot core components, moving from 50% of
+replacement by 2020 to 70% in 2025 and a projected
+80% by 2030
+Robotics industry development plan (MIIT,
+NDRC, MF, 2016 – 2020)
+Promoting automation massively, including in the service
+sector; building in 10 types of industrial robots,
+performing an array of services, and even programming
+themselves
+Goals: annual industrial robot production of Chinese
+brands of up to 100,000 units, with 50,000 of these being
+six-axis industrial robots; achieving a volume of sales of
+service robots of over 30 billion yuan (US$4.7 billion)
+New generation AI development plan (2016 –
+2020)
+Focussing on core components, hardware and software
+interfaces and standards for smart service robots and
+smart industrial robots
+Andreoni et al. 191
+Table 5. Central-led and province-led policies in the four robotization hubs. Source: authors based on policy
+documents.
+Hub Central-led policies Province-led policies
+Jilin–
+Liaoning
+In 2018, the MIIT announced the establishment
+of a national Robotics centre in the
+Shenyang. The new centre focuses on
+tackling common bottlenecks across
+domestic robot producers, such as human-
+machine interaction technologies and
+compliant control. This centre is one of the
+15 national centres focussing on emerging
+technologies, planned in MIC25 before
+2020. The new centre joined several
+institutions, some of which are part of the
+so-called China Robot Industry Alliance, a non-
+proﬁt national industry association
+Policies in the northern provinces focus on the
+presence of the national robot innovation
+center, Harbin institute of technology, and
+other companies and institutions. It is worth
+noting that Siasun is owned by the China
+academy of sciences, which is one of the
+funders of the national robot innovation
+centre. This governance structure guarantees
+ﬁnancial commitment and alignment with
+government industrial strategy direction
+Guangdong As part of the Midea ’s acquisition of KUKA, a
+robot park is due to be built in Shunde,
+where Midea is located. This park will have a
+manufacturing capacity of 100,000 robots
+and will focus on six-axes robots and new
+robot design for Chinese industries
+The Industrial Restructuring and Upgrading of
+Guangdong Province Three-year Action Plan
+(2015 to 2017) focuses on developing
+cutting-edge industrial technologies and
+improving product quality, as well as
+manufacturing process ef ﬁciency. Policy
+measures to overcome gaps in capability
+preconditions for robotization include
+promotion of incubators and accelerators;
+innovative entrepreneurship schemes,
+including ﬁnancial support for development
+of R&D centres within large-scale
+enterprises, and assuring the growing rate of
+investments in R&D departments. Finally, it
+aims to create a complete robot
+manufacturing industrial ecosystem via
+promoting demonstration extension services
+for industrial robot adoption
+The Development Plan of Intellectual
+Manufacturing of Guangdong Province (2015 to
+2025) develops the idea of demonstration
+bases further and gives them a speci ﬁc
+directionality. Guangdong province issues
+subsidies to companies of 15% to 30% of the
+robotic approach cost to help local
+manufacturers automate. Beyond robot
+adoption, the Foshan district is emerging as
+the most important robot production hub
+where Midea and KUKA have located three
+new ventures, and ABB located new
+investments
+(continued)
+192 Competition & Change 30(1)
+and allocated resources to support robotization v ia targeted supply side initiatives (Guangdong and
+Beijing in particular), while others have done so via demand-side measures (YRD).
+Shifting-up a gear: New multi-scalar industrial policy and BRI
+China felt short on several goals of the Robotics Industry Development Plan (2016 –2020). Do-
+mestic production of robots was planned to reach 50% in 2020, China stopped at 29.2%. This gap
+can be mainly attributed to the very ambitious target set in 2016, both in terms of import substitution
+and wide range of applications targeted, and ultimately to the fact that learning cycles in advanced
+robots technologies are relatively long. In December 2021, the MIIT launched the Fourteenth Five-
+Year Plan for the Development of Robot Industry whose long-term goal is to develop a domestic
+Table 5. (continued)
+Hub Central-led policies Province-led policies
+Beijing–
+Tianjin
+The government is leveraging the presence of AI
+companies that are developing in the area to
+attract 10 R&D headquarters and 10 leading
+robot companies ( Xinhua, 2017 ). Several
+other targeted programmes have been also
+introduced. For example, with the
+programme on intelligent manufacturing and
+Robotics research, in accordance with the
+‘Comprehensive Plan for the Enhancing the
+Establishment of Beijing as a National Science,
+Technology and Innovation Centre (Guo Fa
+[2016] No. 52) , and the relevant municipal-
+level 5-year plan (Jing Zheng Fa [2016] No.
+44), in 2018 the Beijing Municipal science and
+technology commission started funding a
+series of research projects to enhance the
+city’s innovation capabilities in the ﬁeld of
+intelligent manufacturing and robotics ’
+(China Innovation Funding, 2020 )
+YRD The ‘Made in Shanghai ’ initiative is a
+comprehensive set of policies (subsidies,
+R&D centres, improved business
+environment, specialized districts, etc.)
+targeting both foreign high-tech and domestic
+companies. The policy aims to develop an
+innovation- and technology-driven 4IR
+cluster ( Shanghai Municipal Commission,
+2019). Thanks to the opportunities given by
+the Made in Shanghai Initiative, in 2021, ABB
+decided to invest US$150 million into one of
+the most advanced Robotics factory in China
+(ABB, 2020 ). Shanghai has also grown its
+aspiration to become an international hub for
+robotization, re ﬂecting a new international
+industrial policy scale
+Andreoni et al. 193
+industry able to compete on international markets by 2035. In January 2023, the Ministry of
+Industry and Information Technology translated this renewed aspiration in the ‘Robot + Application
+Action Plan ’. This new plan focuses on ten key application areas and aims at achieving break-
+throughs in more than 100 innovative applications, and over 200 model use cases. Moreover, ‘It also
+emphasized efforts to build a collaborative innovation system for robot production and application
+and speed up the development and promotion of robot application standards ’2.
+With the 14th plan and other policy documents which have advocated for a ‘Digital Silk Road ’
+(China’s National Informatization Strategy), the multi-scalar industrial policy approach is in-
+creasingly including an international level to the national and province ones discussed above. The
+BRI provides a strategic platform to project domestic industries and their scale-intensive capa-
+bilities, leveraging international rising demand for technologies and shaping regional and global
+markets in speci ﬁc sectors and technology domains ( Calabrese et al., 2024 ). While it is dif ﬁcult to
+identify ‘the key scalar moments at which big policy ideas are transformed into new development
+geographies’ (Klinger and Muldavin, 2019 ; see also Jones and Zeng, 2019 ), there are signs of
+emerging synergies between MIC25 and BRI. Speci ﬁcally, BRI offers China ’s robotization efforts
+an important channel through which the ambitious goals of the MIC25 and the latest Plan for
+robotization can be reached. From our policy analysis and emerging contributions, we can identify
+three main mechanisms through which MIC25 will be boosted by a stronger alignment with BRI.
+First, BRI opens new markets and export routes for robots and related digital production
+technologies. Zheng et al. (2021) show how the overall value chain connection between China and
+the Silk Road countries has been rising since 2001, with Southeast Asia being the most connected
+region, followed by Central and Eastern European countries. Li et al. (2022) provide evidence of the
+emerging core-periphery structure in the BRI industrial robots trade network. They also ﬁnd that
+‘the Belt & Road industrial robot trade relationship shows a feature of steady growth, and the
+accessibility and trade efﬁciency of the intraregional trade are constantly improved’. A central factor
+shaping industrial robots trade networks within BRI, according to this study, is the technical distance
+of industrial robots. The technology gap also in ﬂuences the potential productivity spillover effect of
+robots adoption in BRI host countries ( Razzaq et al., 2021 ). Given the scale-intensive nature of
+robots manufacturing and its industries of adoption, BRI is expected to provide increasing market
+access for Chinese manufacturers of ﬁnal robots and intermediate components.
+Trade data seems to corroborate such emerging pattern and potential BRI dividend ( Table 6).
+Between 2022 and 2023, Chinese exports of robots to BRI countries (BRIs) increased by 123%,
+against 48% for non-BRIs. By 2023, BRIs are the ﬁrst market for China robots. Export of robots to
+BRIs has increased also in relative terms when we compare export of all commodities and a broader
+group of machineries which included industrial robots until 2021. Export of robots is a good proxy
+of the other two channels through which BRI contributes to robotization. This is because robot
+exports are a vector for exporting technology standards and services. Furthermore, being a capex-
+intensive technology, export of robots is often bundled with export ﬁnancing and licensing contracts
+operated through various specialized ﬁnancial institutions.
+BRI offers China a platform to shape global industry and technology standards around the
+MIC25 digital framework, including digital production technologies like robots as well as related
+infrastructure connectivity technologies like 5G. Increasing market access allows Chinese com-
+panies to shape digital production technology adoption across ﬁrms and sectors of emerging
+economies. To remain competitive in digital global value chains, ﬁrms in these countries are looking
+for digital retro ﬁtting of their production facilities and the fastest and most cost-competitive way.
+China can increasingly provide such technology systems, and in doing so set the technical standards
+and inter-operability technology standards. As stressed by Choudary (2020) : ‘Much like Google
+194 Competition & Change 30(1)
+established itself as a dominant player in the smartphone ecosystem, China is attempting to do the
+same in an increasingly digital geopolitical landscape. [ … ] China ’s National Informatization
+Strategy calls upon China’s internet companies to go out into the world and support the creation of a
+“Digital Silk Road”— which refers to the export of Chinese technology alongside the Belt and Road
+Initiative (BRI), China ’s massive global infrastructure investment project. The “Digital Silk Road ”
+is China ’s bet on a country-as-a-platform strategy ’.
+Finally, BRI is a platform to direct exportﬁnance towards robots adoption and diffusion. Since BRI,
+nearly 70% of Chinese overseas lending has been directed to state-owned companies, state-owned
+banks, special purpose vehicles, joint ventures and private sector institutions (AidData, 2021). One factor
+driving Chinese technology competitiveness abroad is its capacity to package technology andﬁnancial
+solutions. As discussed inCamba (2020), China channels two types ofﬁnance to the global south. State-
+backed capital which imposes a development model by modifying ‘local orders’,a n d ﬂexible capital
+interested in extricating itself from the conditions imposed on it in China, and looking for new venues of
+accumulation and novel ways of organizing production. Different streams of ﬁnance coupling export
+technology trade offer different direct (and indirect) channels through which Chi n aa sas t a t ea n dC h i n e s e
+companies can gain competitive advantage in the BRI.
+Conclusions
+Robotization in China and across its regions has been driven by a set of interacting structural
+factors – demand pull, supply push and capability preconditions – as well a key policy factor –
+industrial policy. The paper presented the ﬁrst regional evidence on drivers of robotization in China
+and highlighted how demand pull, supply push and preconditions have resulted in regional het-
+erogeneity and the emergence of robotization hubs. We have stressed how industrial policy has also
+played a key role in aligning underlying structural dynamics of demand, supply and localization.
+The study identiﬁed the emergence of four main robotizing regions. Each one of them is trying to
+exploit its strengths and work on its weaknesses, while responding to mounting competition across
+provinces. Guangdong province needs robotization, given its well-developed industrial agglomerations
+in electronic and automotive. Leveraging this demand-pull strength, place-based policies are focussing
+on pushing both robots’adoption and domestic production. On the contrary, YRD is relying on relatively
+Table 6. Exports of robots from China to World and BRIs, HS classi ﬁcation. Source: authors based on
+UNCOMTRADE and Green Belt and road initiative center, https://green-bri.org/.
+2017 2022 2023
+All commodities World (billions
+USD)
+2263.37 3593.60 3379.75
+BRIs (billions USD) 781.96 1415.84 1372.62
+BRIs (share) 34.55% 39.40% 40.61%
+847950 machinery and mechanical appliances; industrial
+robots (H5)
+World (billions
+USD)
+0.21 0.41 0.45
+BRIs (billions USD) 0.10 0.19 0.21
+BRIs (share) 47.34% 47.63% 45.48%
+842870 industrial robots (H6) World (billions
+USD)
+NA 0.12 0.21
+BRIs (billions USD) NA 0.05 0.11
+BRIs (share) 41.13% 51.29%
+Andreoni et al. 195
+less targeted policies and leveraging its international attractiveness. Differently from both Guangdong
+and YRD, Beijing sees in the interaction between AI and Robotics an opportunity to overcome its
+manufacturing weaknesses by emerging as a technological-innovation hub.
+National and place-based central government-led policies have been increasingly aligned and
+complemented with province-led initiatives since 2016. Our analysis revealed some differences in
+industrial policy approaches across regions. While Guangdong and Beijing and the Northern
+provinces have mainly relied on supply side incentives and their leverage of national funds, policies
+in YRD seem to be more focused on the demand side. Being the most advanced area in China, YRD
+provinces have all of the capability preconditions to attract and host robotics companies: high-level
+human capital, a developed high-tech machinery industry and a network of local and foreign
+suppliers. Automotive and electronic industries also guarantee high demand because the cost of
+labour in the area is the highest in China. Therefore, provinces in YRD do not have and need a
+detailed set of policies, as we have seen for the Guangdong province on top of programmes
+promoted at National level for robotics.
+We ﬁnally emphasized the emerging synergies between China ’s national industrial policy for
+robotization and its BRI, and the emergence of a new multi-scalar industrial policy. Even though the
+links between these policies remain often implicit, there are clear emerging synergies that China will
+leverage to achieve its ambitious robotization goals. We emphasized three mechanisms through
+which BRI will be increasingly play a role in boosting Chinese domestic robotization effort –
+opening markets for robots; shaping global industry and technology standards; directing ﬁnance
+towards robots technology diffusion. By developing a multi-scalar policy alignment between
+national and province-led industrial policy under the MIC25 on the one hand and the BRI on the
+other, China is set to write a new chapter in the international political economy of robotization and
+further establish its position as the rising global leader in robotization.
+Declaration of con ﬂicting interests
+The author(s) declared no potential con ﬂicts of interest with respect to the research, authorship, and/or
+publication of this article.
+Funding
+The author(s) received no ﬁnancial support for the research, authorship, and/or publication of this article.
+ORCID iDs
+Antonio Andreoni  https://orcid.org/0000-0001-9389-0927
+Federico Frattini  https://orcid.org/0000-0002-8490-4159
+Giorgio Prodi  https://orcid.org/0000-0002-3957-4939
+Supplemental Material
+Supplemental material for this article is available online.
+Notes
+1. The empirical and policy analysis in our paper does not include Taiwan, Province of China.
+2. Source: https://english.www.gov.cn/statecouncil/ministries/202,301/20/content_WS63c9d296c6d0a757729e5e28.
+html
+196 Competition & Change 30(1)
+References
+ABB (2020) Annual Report 2019 . Zurich, Switzerland: ABB Ltd.
+Acemoglu D and Restrepo P (2020) Robots and jobs: evidence from US labor markets. Journal of Political
+Economy 128(6): 2188 –2244.
+AidData (2021) Banking on the Belt and Road. Available at:https://www.aiddata.org/publications/banking-on-
+the-belt-and-road (accessed 1 October 2021).
+Andreoni A (2014) Structural learning. Embedding discoveries and the dynamics of production. Structural
+Change and Economic Dynamics 29: 58 –74.
+Andreoni A and Tregenna F (2020) Escaping the middle-income technology trap: a comparative analysis of in-
+dustrial policies in China, Brazil and South Africa.Structural Change and Economic Dynamics54: 324–340.
+Andreoni A, Chang H-J and Labrunie M (2021) Natura non facit saltus: challenges and opportunities for digital
+industrialisation across developing countries. European Journal of Development Research 33: 330–370.
+Andreoni A, Anzolin G, Labrunie M, et al (2023) Unveiling Structure and Dynamics of Global Digital
+Production Technology Networks . London: SOAS University of London. SOAS Working paper 261.
+Anzolin G and Andreoni A (2023) Robotising, but how? Evidence from the automotive sector in South Africa.
+Journal of Manufacturing Technology Management 34(5): 820 –837.
+Anzolin G, Andreoni A and Zanfei A (2022) What is driving robotization in the automotive value chain?
+Technovation 115: 102476.
+Calabrese L, Jenkins R and Lombardozzi L (2022) The belt and road initiative and dynamics of structural
+transformation European Journal of Development Research . DOI: 10.1057/s41287-024-00644-x.
+Camba A (2020) The sino-centric capital export regime: state-backed and ﬂexible capital in the Philippines.
+Development and Change 51(4): 970 –997.
+Chang H-J and Andreoni A (2020) Industrial policy in the 21st century.Development and Change51(2): 324–351.
+Chen L and Naughton B (2016) An institutionalized policy-making mechanism: China ’s return to techno-
+industrial policy. Research Policy 45(10): 2138 –2152.
+Cheng H, Jia R, Li D, et al. (2019) The rise of robots in China.The Journal of Economic Perspectives33(2): 71–88.
+China Innovation Funding (2020) Funding programmes in Beijing. https://chinainnovationfunding.eu/funding-
+programmes-beijing/
+Choudary SP (2020) China’s Country-As-Platform Strategy for Global In ﬂuence. Washington, DC: Brookings
+Institution.
+Crescenzi R, Rodriguez-Pose A and Storper M (2012) The territorial dynamics of innovation in China and
+India. Journal of Economic Geography 12(5): 1055 –1085.
+Cs´efalvay Z (2020) Robotization in central and eastern Europe. European Planning Studies 28(8): 1534–1553.
+De Backer K, Destefano T, Menon C, et al. (2018) Industrial robotics and the global organisation of production.
+In OECD STI . Paris: OECD, Working Papers.
+De Graaff N (2020) China Inc. goes global. Transnational and national networks of China ’s globalizing
+business elite. Review of International Political Economy 27(2): 208 –233.
+Delera M, Pietrobelli C, Calza E, et al. (2022) Does value chain participation facilitate the adoption of Industry
+4.0 technologies in developing countries? World Development 152: 105788.
+Dosi G (1982) Technological paradigms and technological trajectories. Research Policy 11(3): 147 –162.
+Du L and Lin W (2022) Does the application of industrial robots overcome the Solow paradox? Technology in
+Society 68: 101932.
+Du Y and Wei X (2022) Technological change and unemployment: evidence from China. Applied Economics
+Letters 29(9): 851 –854.
+Duan D, Chen S, Feng Z, et al. (2023) Industrial robots and ﬁrm productivity. Structural Change and Economic
+Dynamics 67: 388 –406.
+Andreoni et al. 197
+Fagerberg J, Srholec M and Knell M (2007) The competitiveness of nations: why some countries prosper while
+others fall behind. World Development 35(10): 1595 –1620.
+Fan H, Hu Y and Tang L (2021) Labor costs and the adoption of robots in China.Journal of Economic Behavior
+& Organization 186: 608 –631.
+Ferraz JC, Kupfer D, Torracca J, et al. (2020) Snapshots of a state ofﬂux: how Brazilian industrialﬁrms differ in the
+adoption of digital technologies and policy implications.Journal of Economic Policy Reform23(4): 390–407.
+Fu T and Cheng Y (2022) Regionalisation or domesticalisation? Cambridge Journal of Regions, Economy and
+Society 15(2): 343 –365.
+Fu X(M), Bao Q, Xie H, et al. (2021) Diffusion of industrial robotics and inclusive growth. Journal of Business
+Research 122: 670 –684.
+Gasparetto A and Scalera L (2019) A brief history of industrial robotics in the 20th century. Advances in
+Historical Studies 08(1): 24 –35.
+Graetz G and Michaels G (2018) Robots at work. The Review of Economics and Statistics 100(5): 753–768.
+Han F and Mao X (2023) Arti ﬁcial intelligence empowers enterprise innovation: evidence from China ’s
+industrial enterprises. Applied Economics :1 –16. DOI: 10.1080/00036846.2023.2289916.
+Hong L, Liu X, Zhan H, et al. (2022) Use of industrial robots and Chinese enterprises’export quality upgrading:
+evidence from China. Journal of International Trade & Economic Development 31(6): 860 –875.
+Hong L, Luo R and Wu Y (2023) Industrial robot application and export product scope: empirical evidence
+from China. Applied Economics Letters 1–7. DOI: 10.1080/13504851.2023.2289405.
+Hu S, Lin K, Liu B, et al. (2023) Does robotization improve the skill structure? Applied Economics 56:
+3415–3430. DOI: 10.1080/00036846.2023.2206623.
+Huang K, Liu Q and Tang C (2023) Which ﬁrms beneﬁt from robot adoption? Evidence from China. Journal of
+Asian Economics 86: 101612.
+IFR (2021) World Robotics 2021 – Industrial Robots. Frankfurt, Germany: International Federation of Robotics.
+Johnson C (1982) MITI and the Japanese Miracle . Stanford, CA: Stanford University Press.
+Jones L and Zeng J (2019) Understanding China ’s ‘Belt and Road Initiative ’: beyong ‘grand strategy’to state
+transformation analysis. Third World Quarterly 40: 1415 –1439.
+Keller W (2004) International technology diffusion. Journal of Economic Literature 42(3): 752 –782.
+Kimura K (2022) How do ﬁrms specialize?Journal of Chinese Economics and Business Studies20(4): 339–353.
+Klinger JM and Muldavin JSS (2019) New geographies of development: grounding China ’s global integration.
+Territory, Politics, Governance 7(1): 1 –21.
+Kodama F (1986) Japanese innovation in mechatronics technology. Science and Public Policy 13(1): 44–51.
+Lai JT, Zheng D and Zhang J (2023) The effect of industrial robots ’adoption on urban income inequality in
+China. Applied Economics Letters 30(17): 2388 –2395.
+Lee K (2013) Schumpeterian Analysis of Economic Catch-Up . Cambridge UK: Cambridge University Press.
+Lei Y -W (2022) Upgrading China through automation: manufacturers, workers and the techno-developmental
+state. Work, Employment & Society 36(6): 1078 –1096.
+Li L (2018) China ’s manufacturing locus in 2025: with a comparison of “Made-in-China 2025” and “Industry
+4.0”. Technological Forecasting and Social Change 135: 66 –74.
+Li Y , Li Y , Pan A, et al. (2022) The network structure characteristics and determinants of the Belt & Road
+industrial robot trade. Emerging Markets Finance and Trade 58(5): 1491.
+Lin O (2018) Chinese robotic ﬁrms thrive, thanks to subsidies . Hong Kong: China. Asia Times, May 8.
+Liu F-C, Simon DF, Sun Y -T, et al. (2011) China ’s innovation policies: evolution, institutional structure, and
+trajectory. Research Policy 40(7): 917 –931.
+Lu J, Wang T, Y uan Y , et al. (2023) Do industrial robots improve export product quality of multi-product
+enterprises? Emerging Markets Finance and Trade 60: 1691 –1715. DOI: 10.1080/1540496X.2023.
+2278652.
+198 Competition & Change 30(1)
+Mowery DC and Rosenberg N (1989) Technology and the Pursuit of Economic Growth . Cambridge, UK:
+Cambridge University Press.
+Naughton B (2018) The Chinese Economy: Adaptation and Growth . Massachusetts: MIT Press.
+NSCAI (2021) Final report. Available at: https://www.nscai.gov/wp-content/uploads/2021/03/Full-Report-
+Digital-1.pdf
+OECD (2009) OECD Patent Statistics Manual . Paris, France: OECD Publishing.
+Okimoto DJ (1989) Between MITI and the Market . Stanford, CA: Stanford University Press.
+Pavitt K (1984) Sectoral patterns of technical change — towards a taxonomy and a theory. Research Policy
+13(6): 343 –373.
+Prodi G, Frattini F and Nicolli F (2018) The diffusion and embeddedness of innovative activities in China.
+Economia Politica 35(1): 71 –106.
+Prodi G, Nicolli F and Frattini F (2020) Embeddedness and local patterns of innovation: evidence from Chinese
+prefectural cities. Journal of Evolutionary Economics 30(4): 1219 –1242.
+Qi J and Zhang Z (2023) Robot application and adjustment of export product scope. China Finance and
+Economic Review 12(1): 67 –88.
+Razzaq A, An H and Delpachitra S (2021) Does technology gap increase FDI spillovers on productivity
+growth? Technological Forecasting and Social Change 172: 121050.
+Shanghai Municipal Commission of Commerce (2019) White paper on environment for foreign investment in
+Shanghai. https://www.shanghai.gov.cn/english2019/swzt/2019-White-Paper-On-Environment-for-
+Foreign-Investment-in-Shanghai.pdf
+Singh JTN (2023) The advance of the state and the renewal of industrial policy in the age of strategic
+competition. Third World Quarterly 44: 1. DOI: 10.1080/01436597.2023.2217766.
+Storper M (1997) The Regional World . New York, NY: Guilford.
+Sturgeon TJ (2021) Upgrading strategies for the digital economy. Global Strategy Journal 11(1): 34 –57.
+Tang C, Huang K and Liu Q (2021) Robots and skill-biased development in employment structure: evidence
+from China. Economics Letters 205: 109960.
+Technavio (2019) Top 21 industrial robotics companies in 2018. Technavio. https://blog.technavio.org/blog/
+top-21-companies-in-the-industrial-robotics-market
+Wang L, Zhou Y and Chiao B (2023) Robots and ﬁrm innovation: evidence from Chinese manufacturing.
+Journal of Business Research 162: 113878.
+Wang T, Zhang Y and Liu C (2024) Robot adoption and employment adjustment: ﬁrm-level evidence from
+China. China Economic Review 84: 102137.
+Wen H and Zhao Z (2020) How does China ’s industrial policy affect ﬁrms’ R&D investment? Applied
+Economics 53(55): 6333 –6347.
+Xinhua (2017) Beijing aims high in robotics. https://www.xinhuanet.com//english/2017-08/23/c_136548842.
+html
+Zenglein MJ and Holzmann A (2019) Evolving Made in China 2025 . Berlin, Germany: MERICS. https://
+merics.org/en/report/evolving-made-china-2025
+Zhao J and Geref ﬁ G (2022) Upgrading of Chinese domestic ﬁrms in advanced manufacturing. In: Geref ﬁ G,
+Bamber P and Fernandez-Stark K (eds) China’s New Development Strategies. Singapore: Springer Nature,
+195–233.
+Zheng Z, Liu W and Song Z (2021) Does the Belt and Road initiative promote value chain connection between
+China and the Silk Road countries? Chinese Geographical Science 31(6): 979 –995.
+Andreoni et al. 199

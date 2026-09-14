@@ -1,0 +1,1449 @@
+As publicações do Ipea estão disponíveis para download gratuito nos 
+formatos PDF (todas) e EPUB (livros e periódicos). Acesse: 
+http://www.ipea.gov.br/portal/publicacoes 
+As opiniões emitidas nesta publicação são de exclusiva e inteira responsabilidade dos 
+autores, não exprimindo, necessariamente, o ponto de vista do Instituto de Pesquisa 
+Econômica Aplicada ou do Ministério da Economia. 
+É permitida a reprodução deste texto e dos dados nele contidos,  desde que citada a fonte. 
+© Instituto de Pesquisa Econômica Aplicada – 
+‘ 
+ 
+ 
+ 
+Título do capítulo 
+CAPÍTULO 3 
+DINÂMICAS E TRANSFORMAÇÕES TERRITORIAIS 
+RECENTES: O PAPEL DA PNDR E DAS POLÍTICAS 
+PÚBLICAS NÃO REGIONAIS COM IMPACTO 
+TERRITORIAL 
+ 
+Autores(as) 
+Carlos Antônio Brandão 
+DOI  
+  
+Título do livro 
+DESENVOLVIMENTO REGIONAL NO BRASIL: 
+POLÍTICAS, ESTRATÉGIAS E PERSPECTIVAS 
+ 
+Organizadores(as)
+Aristides Monteiro Neto 
+Volume 2 
+Série Desenvolvimento regional no Brasil 
+Cidade Rio de Janeiro 
+Editora Instituto de Pesquisa Econômica Aplicada (Ipea) 
+Ano 2020 
+Edição 1a 
+ISBN 978-65-5635-003-5 
+DOI  
+CAPÍTULO 3
+DINÂMICAS E TRANSFORMAÇÕES TERRITORIAIS RECENTES: O 
+PAPEL DA PNDR E DAS POLÍTICAS PÚBLICAS NÃO REGIONAIS 
+COM IMPACTO TERRITORIAL1
+Carlos Antônio Brandão2
+1 INTRODUÇÃO
+Este capítulo objetiva fazer um levantamento sistemático de identificação e apontamento 
+dos principais temas relacionados às transformações econômicas, sociais e populacionais 
+no território brasileiro no período recente (2003-2015), procurando analisar o papel 
+das políticas públicas de cunho regional neste contexto. Pretende-se também estabelecer 
+um balanço dos mais destacados avanços e dificuldades na implementação da Política 
+Nacional de Desenvolvimento Regional (PNDR).
+Almeja-se revelar novas leituras sobre o desenvolvimento territorial 
+brasileiro naquele período com vistas a identificar permanências e transformações 
+nas dinâmicas econômicas, sociopolíticas e populacionais, buscando perscrutar 
+novas dinâmicas a fim de estruturar novas agendas de investigação e orientação 
+para a formulação de políticas públicas.
+De maneira específica, espera-se construir uma sistematização das pesquisas 
+produzidas atualmente pelo Ipea e por outras instituições que possam informar uma 
+leitura territorial dos processos de transformação estrutural do desenvolvimento 
+brasileiro recente, nas dimensões urbana, regional, federativa e ambiental.
+1. Em agosto de 2016, foi realizada no Ipea, em Brasília, a oficina de trabalho Elementos para uma Agenda de Estudos 
+e Políticas para o Desenvolvimento Regional Brasileiro, sob coordenação de Aristides Monteiro Neto (Ipea), em que uma 
+primeira versão deste texto foi apresentada e debatida. O autor agradece as sugestões e os comentários recebidos dos 
+especialistas externos convidados: Marília Steinberger (Departamento de Geografia da Universidade de Brasília – UnB), 
+João Mendes Rocha Neto (Secretaria de Governo da Presidência da República), Antonio Carlos Galvão (Centro de Gestão 
+e Estudos Estratégicos do Ministério da Ciência, Tecnologia, Inovações e Comunicações – CGEE/MCTIC) e José Otamar 
+de Carvalho (consultor independente); bem como  dos especialistas do Ipea: Ricardo Karam (Diretoria de Estudos e 
+Políticas do Estado, das Instituições e da Democracia – Diest), Constantino Cronemberger Mendes, Adriana Moura, 
+Marco Aurélio Costa e Bárbara Margutti (Diretoria de Estudos e Políticas Regionais, Urbanas e Ambientais – Dirur). 
+O autor gostaria de agradecer especialmente o apoio e o incentivo para a realização deste balanço das dinâmicas e 
+políticas regionais recentes e as variadas e instigantes ideias que o coordenador do projeto, Aristides Monteiro Neto 
+(Ipea), aportou ao texto. A responsabilidade, contudo, pelo texto final é toda do autor.
+2. Pesquisador do Programa de Pesquisa para o Desenvolvimento Nacional (PNPD) na Dirur/Ipea; e professor titular 
+no Instituto de Pesquisa e Planejamento Urbano e Regional da Universidade Federal do Rio de Janeiro (IPPUR/UFRJ).
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+152 | 
+Intenciona-se identificar as transformações e dinâmicas territoriais 
+econômicas, populacionais e sociais mais significativas, evidentes e necessárias 
+à correta compreensão do fenômeno territorial, surgidas na última década no 
+país. Para tanto, são levantados e hierarquizados os temas mais relevantes para a 
+agenda de desenvolvimento regional consequente com as principais transformações 
+territoriais do período em análise (2003-2015).
+Adicionalmente, as possibilidades e os limites apresentados pela PNDR do Brasil 
+quanto aos seus objetivos de redução das desigualdades e de ativação do desenvolvimento 
+no território nacional são problematizados, assim como as políticas públicas de caráter 
+nacional não explicitamente regional – as quais têm tido impactos relevantes para a 
+melhoria das condições de vida da população em territórios de baixa renda e baixo 
+crescimento econômico.
+2 BREVES ANTECEDENTES
+É bem conhecida a extensa literatura que tratou das flagrantes e incontestáveis 
+desigualdades regionais brasileiras (Bacelar, 2000; Cano, 2007; Diniz, 1995; 
+Guimarães Neto, 1995; Pacheco, 1999). As marcas da desigualdade e da diversidade 
+estiveram reiteradamente presentes na formação e no desenvolvimento do país em 
+sua dimensão territorial.3
+Processos históricos muito peculiares deixaram heranças muito marcantes de 
+alta heterogeneidade das trajetórias das cinco macrorregiões brasileiras. Além da 
+porção Sudeste-Sul, poderíamos afirmar que se consolidaram três "mundos 
+regionais” muito distintos: a Amazônia, o Nordeste e o Centro-Oeste. Para além 
+das enormes diferenças entre eles, ainda se apresentam processos muito específicos 
+de desenvolvimento desigual em qualquer uma das dimensões em que se queira 
+jogar luz sobre nossas variadas desigualdades e injustiças internas, em qualquer 
+uma das macrorregiões (amálgama e sobreposição de iniquidades sociais, de não 
+acesso a direitos, heterogêneas estruturas econômicas etc.), e muito vigorosas 
+variedades-diversidades (ambientais, sociais, culturais etc.).
+Esses complexos processos, de longa duração, tiveram não só as marcas do 
+dinamismo econômico e dos efeitos de multiplicação e aceleração da renda e 
+da riqueza, mas também dos travamentos para grande parcela da sociedade: das 
+reformas sociais, da distribuição da renda, da habilitação pela propriedade e do 
+acesso aos direitos.
+3. “Essa diversidade remonta ao início da organização da nação brasileira, diante de um processo 
+de colonização que ocorre de formas muito distintas entre suas regiões. Ao mesmo tempo em que 
+as pluralidades de culturas e de formações geográficas são fontes de riquezas e de inspiração para 
+os brasileiros, as grandes diferenças socioeconômicas podem enfraquecer seu pacto federativo e seu 
+desenvolvimento socioeconômico” (Oliveira e Magalhães, 2010, p. 13).
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 153
+O sistema econômico nacional configurado ao longo do século XX alcançou 
+elevado grau de integração comercial e produtiva, dotando-se de uma rede 
+matricial de relações intra e inter-ramos econômicos, que se distribuiu desigual 
+e seletivamente por todo o país. Mesmo com alta concentração espacial, aquele 
+sistema mostrou-se virtuoso no engate de todas as economias regionais no contexto 
+de uma complementaridade expansiva, que conformava um todo que crescia 
+junto, embora com fortes assimetrias e disritmias entre suas partes envolvidas nesta 
+coerência estruturada regionalmente.
+Consolidou-se um complexo esquema de relações centro-periferia 
+e hierarquias, ancorado em uma longa trajetória de junções/conexões inter e 
+intrarregionais articuladas. Estas solidarizaram, pela via do mercado, as partes do 
+país, fazendo com que os variados espaços regionais confluíssem seus projetos e 
+coalizões de expansão em torno de uma convenção desenvolvimentista durável 
+por meio século (1933-1982), não obstante a força coercitiva não só concorrencial 
+mas também militar e político-institucional tenha desempenhado papel muito 
+relevante na coerência imposta que forjou a escala nacional.
+Mas foi sobretudo no último quartel do século XX que a ação estatal mais 
+sistemática, especialmente na periferia nacional, reforçou o papel do Estado enquanto 
+investidor direto e estruturante do território nacional. Consolidou-se um regime 
+de crescimento econômico rápido, e pelos caminhos de menor resistência, o que 
+legitimou um estilo perverso de convivência e exclusão social e predação de pessoas, 
+recursos naturais, valores culturais e espaços geográficos. Em suma, em termos 
+nacionais principalmente durante os “cinquenta gloriosos” do Brasil (1933-1982), 
+consolidou-se uma sociedade de massas complexa, dispersa e amorfa.
+O que ainda é um enigma da construção nacional brasileira é compreender 
+como, mesmo dispondo de uma das bases materiais mais potentes do planeta, não 
+se forjaram forças civilizacionais capazes de prover, em quantidade e qualidade, 
+direitos, serviços e bens públicos e coletivos à maior parte de suas massas 
+populacionais regionais.
+A desigualdade jaz como a marca mais indelével, generalizada por todo o 
+território, e permanente da nação brasileira, de construção travada, estando presente 
+em todas as macrorregiões e estados da Federação, ou seja, estando bem distribuída 
+no imenso e heterogêneo espaço brasileiro. No entanto, simultaneamente, está 
+posta a vitalidade de uma máquina de crescimento (econômico), de dinâmica 
+bastante cíclica e conjuntural, circunscrita e encravada, setorial e espacialmente.
+Em suma, o país é uma espécie de amálgama de todos os tipos de disparidades, 
+combinação e convivência do variado e plural, tendo como substrato geral uma 
+sociedade pouco democrática, orientada pela extensividade e itinerância, e de 
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+154 | 
+fuga para a frente expansiva. Conjuntural e ciclicamente frequentes, disputas 
+redistributivas deságuam em impasses sociopolíticos marcantes.
+2.1 Anos 1980
+O ano de 1983, depois da crise das dívidas latino-americanas, marca o final de 
+nosso meio século de inserção com crescimento, no contexto internacional do 
+pós-guerra, com a crise de liquidez, a debacle e as insolvências generalizadas, não 
+possibilitando que os países periféricos honrassem seus compromissos com os 
+serviços da dívida externa.
+Ocorreu, então, a confluência e a articulação de três choques: o abrupto 
+corte de crédito internacional, a deterioração da relação de trocas e o aumento 
+dos custos do refinanciamento dos débitos; resultando na ampliação do passivo 
+externo, no ajuste do setor público, na transferência de recursos ao exterior e, 
+finalmente, no desmonte dos mecanismos articuladores da ação estatal.
+Tivemos miniciclos inconsistentes de crescimento, que desaguaram no 
+desapossamento do patrimônio público, que tinha sido construído em meio 
+século de lutas; na crítica quase generalizada ao Estado “interventor”; e, em suma, 
+na reacomodação e na cristalização dos velhos compromissos do amplo arco de 
+alianças conservadoras.
+Pelo lado das empresas, os agentes privados, amparados pelo Estado, irão 
+recompor seus portfólios, liquidificar e expandir suas aplicações imobiliárias/fundiárias, 
+e avançar na subsunção passiva aos movimentos dos capitais internacionais.
+Forçado pelos fatos, nosso dinheiro volta a submeter-se a um padrão monetário 
+internacional. Na hora da crise e frente a um futuro incerto, extinguem-se a eficácia do 
+principal suporte desta longa e heterodoxa “acumulação politizada”, cuja lei de valorização 
+teve sua raiz mais profunda na liberdade de decisão estatal sobre o valor do dinheiro e 
+do direito (Fiori, 2003, p. 173, grifo nosso).
+Assim, prosseguiu nossa eterna “fuga para a frente” (inclusive dos direitos), 
+pois, segundo Fiori (2003, p. 179):
+avançar aparecia como a única solução, ainda que fosse pela via de uma valorização 
+heterodoxamente politizada do capital. Uma valorização que, por causa de seus limites 
+políticos, permitiu o convívio e a sobrevivência de frações e órbitas financeiras mercantis 
+altamente especulativas, e de frações industriais e agrárias de baixa produtividade.
+O fato é que se acelera a perda de poder orgânico e sistêmico do Estado 
+brasileiro. Este perde poder de orientação e de promoção de renovadas frentes de 
+expansão, periféricas ou mesmo dentro do núcleo central. Vai erodindo aquela 
+que é uma das principais marcas do capitalismo brasileiro: em que o processo das 
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 155
+decisões de inversão de capital era amparado por ampla capacidade de coordenação 
+das decisões públicas e privadas.
+Na dimensão espacial do nosso processo de subdesenvolvimento, esse período 
+trouxe uma significativa mudança na articulação da diversidade regional brasileira. 
+A partir do ajuste externo, e do esforço exportador, além das privatizações, 
+nega-se nossa herança histórica, em cada macrorregião de montagem de estruturas 
+produtivas relativamente complementares, com baixo grau de abertura para o 
+exterior e sob amparo do Estado.
+Não apenas a situação econômica se agravou. Além do esgotamento do padrão 
+de acumulação e de seu regime de regulação, ocorreram mudanças profundas no 
+padrão de sociabilidade, estancando a mobilidade estrutural e intergeracional da 
+civilização brasileira. Ou seja, a mobilidade, que era uma das principais variáveis que 
+fechava nossa equação social de legitimação do processo de expansão e crescimento 
+econômico, mesmo com as brutais exclusão e modernização conservadora, foi 
+travada. Ao mesmo tempo, acelera-se a crise fiscal e financeira do Estado brasileiro 
+e a desmontagem dos seus mecanismos de coordenação de interesses setoriais, 
+sociais e regionais dispersivos.
+Esse início da década de 1980 foi revelador do, desde então, recrudescimento 
+dos nossos velhos impasses e recorrências históricas de nossa reprodução social 
+enquanto nação travada e inconclusa. Ocorreram marcadas reatualizações: 
+das heterogeneidades estruturais (produtivas, sociais e regionais); do pacto de 
+dominação interna (e sua relação com o exterior); da sistêmica vulnerabilidade 
+externa; e dos processos de exclusão e marginalização da maioria da população 
+dos frutos do progresso material.
+Na segunda metade dos anos 1980, as forças sociais e políticas da 
+redemocratização impuseram importantes avanços durante o processo constituinte,4 
+embora não lograssem fazer frente ao processo avassalador da verdadeira revolução 
+conservadora que tomou conta do país.
+Assim, 1988 pode ser considerado paradoxalmente um marco, tanto da Constituição 
+Cidadã, que estabeleceu importantes direitos sociais, quanto da consagração da hegemonia 
+das práticas, das narrativas e da remontagem de instrumentos e dispositivos neoliberais.
+Faltavam 22 anos para terminar o século XX quando, além da consagração 
+de direitos e garantias individuais e coletivos, a promulgação da nova Carta Magna 
+deixou uma grande expectativa de futuro avanço em uma abordagem territorial 
+estrutural de nossas desigualdades, pois ficou assegurada em sua seção IV , denominada 
+4. Para um balanço dos interesses em disputa na elaboração da Constituição Federal de 1988 (CF/1988), 
+ver Leme (1992).
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+156 | 
+Das Regiões, a necessidade de organização de um aparato de planejamento regional 
+(em lei complementar):
+Art. 43 – Para efeitos administrativos, a União poderá articular sua ação em um 
+mesmo complexo geoeconômico e social, visando a seu desenvolvimento e à redução 
+das desigualdades regionais:
+§ 1o Lei complementar disporá sobre:
+I – as condições para integração das regiões em desenvolvimento;
+II – a composição dos organismos regionais que executarão, na forma da lei, os planos 
+regionais, integrantes dos planos nacionais de desenvolvimento econômico e social, 
+aprovados juntamente com estes (Brasil, 2016, p. 43).
+Entretanto, a CF/1988 apresentou várias limitações para o enfrentamento das 
+desigualdades regionais, que foram rigorosamente analisadas por Bercovici (2003).
+Ela criou ainda os Fundos Constitucionais de Financiamento do Norte (FNO), do 
+Nordeste (FNE) e do Centro-Oeste (FCO), destinando, anualmente, 3% da arrecadação 
+(Imposto de Renda – IR somado ao Imposto sobre Produtos Industrializados – IPI), 
+a serem aplicados pelos bancos públicos (Banco da Amazônia – BASA, Banco do 
+Nordeste – BNB e Banco do Brasil – BB) em programas de financiamento aos setores 
+produtivos daquelas regiões.
+Embora tenha avançado na institucionalização de um Estado democrático 
+de direito, ampliado à participação popular, a CF/1988:
+impõe um corte no formato do financiamento do desenvolvimento regional, por 
+reduzir os recursos destinados a esse fim; ao invés dos 3% do conjunto da arrecadação 
+destinados ao desenvolvimento regional, passamos a ter apenas parcela do IR e do IPI, 
+tendo os fundos correspondido em 2011 a 0,7% do PIB [produto interno bruto], 
+menores do que os desembolsos do BNDES [Banco Nacional de Desenvolvimento 
+Econômico e Social] para essas regiões (Carleial et al., 2018, p. 87).
+A Carta Constitucional deixou expressos conceitos centrais para a estruturação  dos 
+fundamentos institucionais, financeiros e de proteção social de um Estado de bem-estar 
+social no Brasil (Fagnani, 2005).
+A garantia da existência digna por meio da homogeneização social 5 está também 
+diretamente vinculada à democracia. Afinal, com a falta de homogeneidade 
+social, inúmeros setores da população já não mais se identificam com a política 
+e o Estado. A cidadania, assim, não se limita aos direitos de participação política, 
+inclui, também, os direitos individuais e, fundamentalmente, os sociais. A ideia 
+de integração na sociedade é fundamental para a democracia, o que não ocorre 
+em países como o Brasil. A igualação das condições sociais de vida (...) é essencial 
+5. No sentido de Furtado (1983): satisfação de necessidade e acesso a bens e serviços.
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 157
+para a legitimidade, permanência e futuro da democracia como forma política 
+(Bercovici, 2015, p. 79).
+2.2 Anos 1990
+A perda generalizada de dinamismo econômico e o alargamento dos desníveis 
+socioeconômicos entre as regiões brasileiras foram determinados: pelo ambiente 
+macroeconômico internacional; pelas opções equivocadas de política econômica; 
+e pela perda da qualidade sistêmica e orgânica da atuação do Estado. T udo isso 
+resultou em disritmias entre os investimentos públicos e privados.
+A rodada de neoliberalização (Peck, 2010; Brenner et al., 2012), com o 
+manejo ortodoxo da política macroeconômica, aprofundou a crise e promoveu 
+a financeirização do ambiente de decisões, ficando as convenções e o estado de 
+confiança abalados. Nesse contexto, segundo Monteiro Neto (2005, p. 48):
+as decisões de investimento em novas plantas produtivas (greenfield) são consideradas 
+cada vez mais arriscadas em face de um leque ampliado de opções de investimento 
+em ativos financeiros (títulos do tesouro, títulos cambiais, derivativos etc.) que geram 
+rendimentos de curto e médio prazos.
+No período 1995-2002, do governo Fernando Henrique Cardoso (FHC), 
+os processos de abertura comercial e financeira, o desmonte das capacidades 
+estatais de intervenção, a entrega do patrimônio público à iniciativa privada 
+e a internacionalização de parcela fundamental do parque produtivo nacional 
+culminaram, em 1999, com a instituição (nos últimos dezessete anos) do tripé 
+macroeconômico (metas de inflação, taxa de câmbio flutuante e metas de superavit 
+fiscal primário). Este foi o fator decisivo para a manutenção de uma política 
+ortodoxa, que impôs baixas taxas de crescimento ao país.
+Entre outros fatores, eles determinaram importantes transformações nas 
+relações das e entre as regiões brasileiras. Assim, ao longo dos anos 1990, as mudanças 
+na paisagem regional brasileira resultaram, em grande medida, de involuções e 
+desconstruções, isto é, mais dos impactos diferenciados regionalmente da crise 
+econômica e das opções conservadoras de políticas macroeconômicas do que de 
+processos reestruturantes.
+Foi muito diversa a sensibilidade de cada região aos processos de abertura 
+comercial, aos determinantes microeconômicos da reorganização empresarial, à 
+deterioração da infraestrutura econômica e à desestruturação do setor público nos 
+três níveis de governo da Federação.
+As heterogeneidades inter e intrarregionais, sobretudo essas últimas, cresceram 
+muito. Ampliaram-se ilhas de produtividade e polos de competitividade, de 
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+158 | 
+produção e exportação de alguns produtos, em alta e vulnerável especialização 
+regressiva, sobretudo em commodities.6
+A guerra fiscal, enquanto estratégias estaduais de atração de investimentos, com 
+a criação e a aplicação de incentivos, muitos de natureza ad hoc e customizados, foi 
+ampliando a coerção concorrencial, com o acirramento das rivalidades inter-regionais, 
+e minando, em cada estado, sua própria base de arrecadação, produzindo efeitos 
+prejudiciais para os demais (Vieira, 2012; Cardozo, 2010).
+Naquela última década do século XX, as características macroestruturais 
+históricas das múltiplas desigualdades sociais e regionais brasileiras se exacerbaram 
+em razão das opções neoliberais de condução da política econômica realizadas. 
+O Estado perdeu poder de coordenação estruturante para orientar e promover 
+frentes de expansão atrativas, tornando cada dia mais difícil acomodar e fazer 
+convergir tantos, grandes e dispersivos interesses. Consolidou-se enorme perda de 
+capacidade de concatenação por parte do Estado e, consequentemente, de indução 
+do investimento privado.
+Ocorreu reespecialização e remercantilização, pois o Brasil, durante os anos 1990, 
+aprofundou ainda mais suas vantagens competitivas estáticas e absolutas históricas 
+nos segmentos padronizados e de processamento contínuo de recursos minerais, 
+florestais, energéticos, agrícolas e pecuários, como a produção de minério de ferro, 
+siderurgia e alumínio (basicamente insumos metálicos semiacabados); petróleo e 
+petroquímica; celulose e papel; alimentos industrializados (grãos, suco de laranja, 
+carnes etc); e têxteis padronizados.
+Ocorreu também um processo de perda de participação e de desindustrialização7 
+na estrutura produtiva mais complexa e completa, no coração industrial do país 
+(São Paulo e Sudeste); expansão do agronegócio exportador, com ocupação e 
+urbanização acelerada do Centro-Oeste brasileiro; e desmatamento Amazônia, 
+com poucas decisões de investimento em novas plantas produtivas.
+A coerção concorrencial no pós-1990 conduziu à maior concentração e 
+centralização dos capitais nesses setores, inclusive com a desnacionalização de muitas 
+linhas de produção, por exemplo, alimentos, linha branca de eletrodomésticos, 
+brinquedos, bens de capital sob encomenda etc.
+A orientação macroestratégica por commodities e infraestrutura de logística está 
+em elaboração e aperfeiçoamento desde a década de 1980 – ou mesmo antes, desde 
+os corredores de exportação de 1972 do governo militar –, mas foi Silva (1997) quem 
+6. Para o controverso debate sobre a natureza da orientação produtiva e comercial por commodities, ver Furtado 
+e Urias (2013).
+7. Sobre o debate da desindustrialização no Brasil e seus impactos regionais, ver Sampaio (2015).
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 159
+sintetizou os grandes eixos de crescimento do Brasil e da América do Sul, com sua 
+ideia de cinturões de desenvolvimento. Segundo o autor:
+o ponto chave do novo paradigma é a promoção do desenvolvimento sustentado de 
+uma infraestrutura em cinturões de desenvolvimento regionalmente orientados. Através 
+da combinação simultânea de sistemas de transporte e de suprimento de energia e 
+de linhas e redes de telecomunicações, os cinturões de desenvolvimento multimodais 
+podem minimizar o custo da construção destas redes individual e separadamente e 
+também o potencial de prejuízo ambiental. Em cada cinturão de desenvolvimento, 
+os planejadores devem analisar todos os três elementos – transportes, energia e 
+telecomunicações – para assegurar que sejam atendidas todas as exigências para a 
+modernização” (Silva, 1997, p. 33).
+Nos dois mandatos do governo FHC, foram definidos os Eixos Nacionais 
+de Integração e Desenvolvimento (ENIDs), portfólios de oportunidades de 
+investimentos de caráter estruturante, discutidos exaustivamente no programa Brasil 
+em Ação (Plano Plurianual – PPA 1996-1999), do primeiro mandato, e no programa 
+Avança Brasil (PPA 2000-2003),8 do segundo. Esses documentos oficiais partiam do 
+diagnóstico de que teriam ocorrido equívocos nas estratégias de planejamento 
+do passado e que, em consequência, significativas distorções na alocação regional 
+e setorial dos recursos públicos implicaram a inibição de inúmeras oportunidades 
+privadas. Em contraponto a estes erros pretéritos, propõem um “planejamento 
+indicativo”, servindo de elemento privilegiado para otimização sistêmica na exploração 
+das oportunidades, em que o Estado não mais lidera o processo, devendo este evoluir 
+mediante a implementação de parcerias.
+Entretanto, uma análise crítica da capacidade do Estado revelaria que este vai 
+perdendo crescentemente, sobretudo a partir do final da década de 1980, o poder 
+estratégico de decisão frente aos interesses dos setores privados. As instâncias de 
+coordenação foram paulatinamente sendo prejudicadas, o que fez com que prevalecesse 
+uma perspectiva compartimentadora nas decisões públicas. As ações públicas se 
+tornaram predominantemente setoriais e fragmentadas, além de orientadas pelo 
+atendimento das demandas localizadas e circunscritas, de curto prazo. Por exemplo, 
+se deslegitimou totalmente o tratamento abrangente, e com continuidade planejadora, 
+das questões regional e urbana.
+Em um ambiente em que está ausente (ou é insuficiente) a capacidade de 
+antecipação e de formular estratégias estruturantes, há sempre o risco de apenas seguir 
+“o curso dos acontecimentos prefigurados pelo mercado” (Furtado, 1967, p. 143).
+8. Para uma discussão detalhada dos ENIDs, ver Galvão e Brandão (2003).
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+160 | 
+Foi provocado, no período, o travamento da capacidade institucional e financeira 
+do Estado de conceber e implementar políticas mais estruturadas, e ocorreu a derrocada 
+final de qualquer ação mais consequente de planejamento (Rezende, 2010).
+Quanto à problemática territorial, consolida-se o enfraquecimento das 
+instituições estaduais de pesquisa, que tinham formulado importantes planos 
+regionais de desenvolvimento no passado, alguns amparados por seus bancos 
+estaduais, que foram fechados nesse período.
+A renegociação da dívida dos estados e, depois, a Lei de Responsabilidade 
+Fiscal vieram garrotear a capacidade estadual de planejamento e de levar a cabo 
+políticas de combate às desigualdades regionais.
+Além da perda de substância e de legitimação do planejamento governamental, 
+ocorreu o desmantelamento das instituições regionais e o fechamento das 
+superintendências, com sua substituição por inconsistentes e precarizadas agências 
+de desenvolvimento regional: a Agência de Desenvolvimento do Nordeste (ADENE) 
+e Agência de Desenvolvimento da Amazônia  (ADA).
+Em suma, durante toda a década de 1990, os processos de abertura comercial 
+e financeira; desmonte das capacidades estatais de sinalização e coordenação; 
+privatização do sistema produtivo e de infraestrutura estatais; internacionalização de 
+elos fundamentais das cadeias do parque produtivo nacional; entre outros fatores, 
+determinaram importantes transformações nas relações entre as regiões brasileiras, 
+com a reconcentração espacial da riqueza e da renda no período 1985-2002 e o 
+aumento das desigualdades inter e intrarregionais.
+Um ponto a se ressaltar, finalmente, e a retornar posteriormente, para a discussão 
+atual do Brasil é a persistência do movimento cíclico, recorrente, de aprofundamento da 
+especialização em commodities e recursos naturais e as correspondentes pressões políticas 
+pela necessidade de infraestrutura. Ou melhor, há rodadas frequentes, ao longo da 
+história brasileira, entre, por um lado, eficiência, na forma de requerimentos logísticos 
+e nas opções pela competitividade espúria, e, por outro, equidade, disputas por maior 
+homogeneização social e lutas pelo aumento do combate às desigualdades sociais e 
+regionais. Nesse período, estas últimas não estiveram incluídas na agenda governamental.
+3 O INÍCIO DO SÉCULO XXI: O AMBIENTE MACROESTRUTURAL DAS 
+TRANSFORMAÇÕES REGIONAIS RECENTES
+O elevado crescimento da economia brasileira na última década teve importantes 
+rebatimentos sobre suas economias regionais (Siqueira, 2015). As regiões Centro-Oeste, 
+Norte e Nordeste apresentaram taxas bem mais elevadas de crescimento do PIB que 
+as demais regiões desenvolvidas (Sul e Sudeste), contribuindo para o arrefecimento do 
+processo de divergência e para a melhoria das condições de vida das populações envolvidas.
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 161
+Avaliações feitas por estudiosos no período recente (Monteiro Neto, 2015; 
+Resende, 2014), entretanto, apontam que os avanços na diminuição da desigualdade 
+regional são mais um resultado de políticas não explicitamente regionais, como as sociais 
+(Programa Bolsa Família) e as de investimento em infraestrutura (Programa de Aceleração 
+do Crescimento – PAC) e habitação (programa Minha Casa, Minha Vida – MCMV), que 
+propriamente das políticas regionais e de seus instrumentos clássicos (FCO, FNO e FNE).
+Por outra perspectiva, a das transformações territoriais, a emergência de 
+dinâmicas territoriais em vários subespaços nacionais está cada vez mais presente, ora 
+por conta das conexões estabelecidas com a economia internacional, via exportações 
+de commodities – como são os casos dos cerrados do Centro-Oeste e Nordeste 
+(commodities agrícolas) e de regiões do Pará (commodities minerais) –, ora por conta 
+dos impactos dos grandes projetos governamentais em infraestrutura – como a 
+transposição do rio São Francisco e da construção da ferrovia T ransnordestina no 
+Nordeste e a construção de usina hidrelétrica (UHE) em Altamira (Pará), e de 
+refinaria de petróleo e gás, em Suape (Pernambuco), entre outros. Por isso, uma 
+avaliação mais circunstanciada destes novos temas das estratégias recentes de 
+desenvolvimento em sua dimensão territorial precisa estar mais bem esclarecida.
+Concorrem para o êxito ou fracasso desses experimentos de dinâmicas territoriais 
+diversas os arranjos federativos que lhes dão ou que possam vir a dar suporte institucional. 
+Assim, tem sido cada vez mais apontado o papel mais ativo da discussão federativa – no 
+sentido das pactuações possíveis entre entes federativos (União, estados e municípios) 
+e, por conseguinte, da dimensão coordenação nas políticas públicas.
+A fim de construir um quadro sintético das principais transformações e 
+dinâmicas territoriais, algumas ainda em curso, torna-se importante ter presente 
+as dimensões demográficas, econômicas e sociais do processo de desenvolvimento 
+no Brasil nessa década e meia do século XXI.
+É preciso tomar as cadeias de fatores determinantes, buscando apreender as 
+mudanças inter-relacionadas para refletir sobre seus possíveis efeitos cumulativos 
+espaciais. Procuraremos, aqui, alinhavar, em grandes traços, os principais 
+determinantes  – entre a “grande variedade de mudanças inter-relacionadas em resposta 
+às mudanças primárias” (Myrdal, 1960, p. 53) – dos prováveis efeitos acumulativos9 e 
+alguns efeitos propulsores, que neutralizaram, em parte, efeitos regressivos nas regiões 
+e mercados urbano-regionais dos espaços menos desenvolvidos. 
+9. “O estudo realista de qualquer processo terá de considerar grande variedade de mudanças inter-relacionadas 
+diferentemente em resposta à mudança primária, e não nego que algumas vezes essas mudanças se  
+inter-relacionam de tal forma que se compensam mutuamente. Todavia, acredito que, quando as tendências 
+principais em período mais ou menos longo são consideradas, as mudanças se fortalecerão reciprocamente e 
+tenderão, portanto, a ter efeitos líquidos acumulativos” (Myrdal, 1960, p. 55).
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+162 | 
+Primeiramente, coloca-se a necessidade de verificar sucintamente os movimentos 
+migratórios e demográficos mais recentes, em grande parte motivados pelas novas 
+dinâmicas econômicas territoriais, para se discutir as principais transformações regionais 
+no período. A direção dos fluxos migratórios inter-regionais bem como a intensidade 
+com que ocorreram precisam ser devidamente apropriadas e/ou consolidadas pelas 
+interpretações acerca das transformações territoriais na última década.
+A primeira década do século XXI revelou o reforço de dinâmicas espaciais 
+paradoxais (concentração/desconcentração/seletividade), fluxos migratórios com 
+perfil mais diversificado, requalificações territoriais e rearranjos das redes urbanas de 
+menor hierarquia (IBGE, 2013). Embora construindo uma trajetória de urbanização 
+mais polinucleada, com o avanço de centros regionais de maior expressão, as 
+marcas estruturais dos grandes movimentos populacionais do século XX ainda 
+afirmam a persistência de inércias colocadas pelos grandes estoques demográficos 
+concentrados espacialmente, que reatualizam volumes de imigrantes e emigrantes 
+ainda significativos nos grandes centros. De qualquer forma, trata-se de uma 
+dinâmica demográfica muito mais complexa e pluridirecional, pois
+deixam de existir os estados ou regiões que se destacam somente por ser origem ou 
+destino dos grandes fluxos migratórios. E esses contrafluxos são alimentados pelo 
+aumento na reemigração interestadual de retorno, um dos fenômenos marcantes nas 
+mudanças ocorridas no padrão migratório (Brito, 2015, p. 21).
+Segundo a análise de Brito (2015), alcançamos em 2010 cerca de 1 milhão 
+de imigrantes retornados (21,53% dos imigrantes) no período 2005-2010. 
+Os migrantes interestaduais de curto prazo perfizeram mais de 1,8 milhão (28,32%). 
+Assim, as proporções de imigrantes de retorno e de curto prazo, características 
+marcantes desde o novo padrão demográfico, juntas, chegaram a 43,77% dos 
+imigrantes interestaduais no período. Não obstante, a persistência das grandes 
+trajetórias migratórias anteriores10 impediram mudanças abruptas em relação ao 
+antigo padrão, determinando que ocorra no presente muito mais a combinação de 
+variados padrões migratórios, revelando elementos de estabilização e regularidade 
+dos caminhos estruturais migratórios já trilhados. Por essas anteriores trajetórias 
+migratórias já percorridas, segundo Brito (2015, p. 25):
+circulam fluxos e contrafluxos alimentados pelas migrações de retorno de curto 
+prazo. Como um fenômeno tipicamente estrutural, a migração interna interage 
+10. “Do ponto de vista migratório, é a integração hierárquica dos diferentes espaços de influência 
+migratória, expressa na inércia das trajetórias migratórias, que explica a redução gradativa dos índices 
+de eficácia migratória. O processo de concentração nas grandes cidades não metropolitanas e nas 
+regiões metropolitanas ainda persiste e continuará a persistir. Contudo, ele é mais bem compreendido 
+quando considerado como um movimento que se dá no âmbito da hierarquização da rede urbana que 
+articula municípios heterogêneos ou, em outras palavras, que articula espaços diferenciados de influência 
+migratória” (Brito e Pinho, 2015, p. 25).
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 163
+com as dinâmicas da economia e da sociedade, espelhando, espacialmente, as suas 
+desigualdades regionais e sociais.
+Por exemplo, os espaços das três principais regiões metropolitanas, São Paulo, 
+Rio de Janeiro e Brasília, continuam a traçar as linhas principais das trajetórias 
+migratórias brasileiras. Entretanto, deve-se destacar o crescimento dos municípios 
+intermediários, posto que a taxa de crescimento da população total, entre 2000 
+e 2010, foi de 0,45% para os municípios pequenos, 2,81% para os médios e 
+1,29% para os grandes.
+O processo demográfico no Brasil ainda é muito dinâmico e ativo. T emos 
+mesmo uma arraigada “cultura migratória” (Brito, 2015), em que os deslocamentos 
+espaciais com forte expectativa de ascensão social ainda persistem, mesmo quando 
+a possibilidade de conjugar as mobilidades espacial e social, típica da trajetória 
+histórica da mobilidade estrutural do século XX no Brasil (muito marcante até 
+meados dos anos 1980), já não existe mais.
+Em seguida, trataremos da dimensão econômica e produtiva para o período 
+2003-2015. Nesta, torna-se crucial analisar as tendências dos investimentos privados 
+e da lógica microdinâmica do mundo empresarial em cada conjuntura cíclica, pois
+as decisões empresariais sobre compra, venda, desenvolvimento de ativos e estratégias 
+competitivas desempenham, todas elas, papéis num cenário geográfico (...). Por que é 
+importante estudar o comportamento das empresas nas economias regionais? As decisões 
+empresariais conformam tanto a distribuição inter-regional da atividade econômica quanto 
+a qualidade e natureza do trabalho dentro das regiões (Markusen, 2005, p. 64-65).
+Averiguar o processo de industrialização, seu perfil setorial, a natureza dos 
+investimentos realizados em cada região, questionar se foram geradas capacidades 
+produtivas novas indutoras, se fomentaram diversificação produtiva local ou 
+especialização excessiva, analisar qual tipo, quantidade e qualidade de empregos foram 
+gerados, avaliar quais os efeitos setoriais e regionais do ambiente macroeconômico de 
+valorização cambial e alta taxas de juros, entre outros, tornam-se elementos centrais 
+para indagar se as trajetórias do crescimento regional foram virtuosas ou não.
+As transformações quantitativas e qualitativas das estruturas produtivas regionais 
+são decisivas nesse contexto. Não deve restar dúvida que o processo de industrialização, 
+enquanto constituição de forças produtivas materiais modernas e avançadas que 
+promovam transformações profundas na produtividade social, é o cerne do processo 
+histórico e social de desenvolvimento de uma nação soberana. Ele expande e aprofunda 
+a divisão técnica e social do trabalho em uma sociedade em evolução complexa, 
+em que novas conexões e interdependências vão se estruturando, não apenas entre 
+os elos tecnoeconômicos de seu aparelho produtivo, como também entre os seus 
+agentes cruciais de decisão, com seus encadeamentos de ação transformadora que 
+constroem peculiarmente, em cada país, suas próprias vias, trajetórias e estilos de 
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+164 | 
+desenvolvimento. A indústria está no coração deste processo de mudança estrutural 
+que é o desenvolvimento.
+Para averiguar a evolução de estruturas produtivas nas escalas nacional e regional, 
+torna-se central analisar os movimentos da variável-chave do desenvolvimento das 
+forças produtivas que é o investimento. É preciso ter presente a complexidade dos 
+determinantes das inversões de capital e do investimento11 e buscar o conhecimento, 
+mais aprofundado possível, acerca de ter ocorrido, naquele espaço sob análise, a mera 
+ocupação de capacidade produtiva já existente ou o implante de novas plantas industriais 
+e de ramos até então não existentes, aprofundando as inter-ramificações e, com elas, as 
+inter-regionalidades e interurbanidades (Brandão, 2011).
+Durante a década de 1990 e o início do século XXI, o país aprofundou suas 
+especializações, algumas de natureza regressiva, perdeu alguns importantes elos 
+produtivos e passou a ser ainda mais orientado por vantagens competitivas estáticas 
+no grupo de processamento contínuo de recursos minerais, florestais, siderúrgicos, 
+energéticos, agrícolas e pecuários, com a produção de minério de ferro, siderurgia e 
+alumínio (basicamente insumos metálicos semiacabados), petróleo e petroquímica, 
+celulose e papel, alimentos industrializados (grãos, suco de laranja, carnes etc.) 
+e têxteis padronizados. São setores fortemente condicionados pela dinâmica da 
+conjuntura externa e pelas variações dos preços internacionais.
+As unidades produtivas desse grupo geralmente são demandantes de estruturas 
+agigantadas de portos, estradas e outras infraestruturas para o escoamento de sua 
+pesada produção, geralmente orientada ao mercado exterior e com baixa capacidade 
+de transbordamento e transmissão de crescimento em seu entorno. O risco de 
+transformação dessas unidades ou complexos industriais em um semienclave territorial 
+(com pouco transbordamento virtuoso regional) está sempre presente. Segundo 
+Kupfer (2012), é importante estar atento também aos problemas de capital-intensidade 
+dos setores de commodities que estão se desconcentrando espacialmente, pois sua 
+fase de implantação traz impactos muito diferentes daqueles da fase de operação 
+do empreendimento. Quando ingressam na fase de produção corrente, não têm, 
+geralmente, a mesma capacidade de arrasto que demonstram na fase do investimento. 
+Normalmente utilizam infraestrutura própria, muitas de caráter monofuncional, 
+que não se constituem em externalidades para outras atividades presentes na região.
+Esse grupo, cujo padrão locacional é orientado pelo acesso a fontes de  
+matérias-primas, contando com custos e qualidade adequados e razoável padronização 
+11. “O investimento é a variável determinante no processo de formação da renda e, portanto, da capacidade 
+de consumo do assim chamado ‘público’. A aquisição de meios de produção depende da perspectiva de 
+expansão do mercado, ou seja, das estimativas dos empresários a respeito da evolução do consumo, o que 
+envolve, simultaneamente, as avaliações dos empresários a respeito da disposição de seus pares de gastar 
+na criação de emprego e da renda no setor de bens de produção” (Belluzzo e Galípolo, 2016, p. 23).
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 165
+de produtos e processos, continuou nos últimos anos a ampliar sua capacidade de 
+alcançar mercados externos específicos. Quanto ao mercado interno, este apresenta 
+alguns ganhos de escala, graças ao tamanho do mercado. Nesses setores, o país 
+apresenta boa eficiência nas fases iniciais do processo produtivo e nos produtos 
+pouco elaborados. À medida que se percorrem tais cadeias produtivas no sentido 
+dos produtos de maior transformação e diferenciação produtivas, sofisticação 
+tecnológica e comercial etc., a capacidade competitiva vai minguando.
+O grupo produtor de bens tradicionais – basicamente calçados de couro, vestuário 
+e têxteis não padronizados, a agroindústria de alimentos de baixa elaboração e bebidas 
+simples – apresentou alguma trajetória de deslocalização na direção de porções seletivas 
+da periferia nacional. São setores fortemente condicionados pela elasticidade da demanda, 
+pela oferta de crédito ao consumidor e pelo comportamento dos juros e do câmbio. 
+São dependentes das mudanças quantitativas e qualitativas nos mercados urbanos de 
+trabalho e de consumo e da expansão das rendas nos meios rural e urbano.
+A partir de 2003, com o aumento da renda rural ou urbana interiorizada, o 
+maior adensamento das redes urbano-regionais articuladas às cidades médias e 
+a maior sofisticação e diferenciação do consumo, esse grupo conseguiu se expandir, 
+naqueles casos em que existia capacidade competitiva frente ao ingresso dos produtos 
+importados. Ocorreu, dessa forma, a abertura de novas frentes de localização, com a 
+criação de plantas de alguns desses ramos bens-salário (wage goods), geralmente com 
+a implantação de compartimentos industriais pouco sofisticados tecnologicamente, 
+leves e com baixa geração de encadeamentos (linkages). Esses segmentos produtivos 
+procuraram se desconcentrar, pois são caracterizados por serem pouco exigentes 
+de ambiente mais complexo de externalidades. Assim, puderam ser atraídos para 
+vários polos periféricos de porte, sobretudo espaços metropolitanos ou cidades 
+intermediárias, com características de capitais regionais, geralmente por meio de 
+guerras fiscais, com ampla concessão de subsídios e outros favores, custos salariais 
+menores, maior flexibilidade trabalhista e ambiental e, em alguns casos, pelo 
+fácil acesso a fontes de recursos naturais abundantes e baratos. Para o processo 
+de desconcentração industrial e a diminuição das desigualdades regionais, esse 
+segmento tradicional da indústria é fundamental, pois
+forma um tecido produtivo mais permeável à atuação de médias e pequenas empresas, 
+emprega trabalhadores com níveis intermediários ou mesmo mais simples de 
+qualificação e, portanto, melhor se ajusta ao perfil dos recursos disponíveis nessas 
+novas regiões industriais (Kupfer, 2012).
+A partir de 2003, algumas propostas de política industrial foram lançadas, 
+com destaque, em 2011, para o Plano Brasil Maior, que procurava estimular a 
+inovação e a competitividade industrial. Em termos da dimensão regional do 
+desenvolvimento produtivo, esse documento apenas mencionava brevemente 
+possíveis ações especiais em desenvolvimento regional que visavam inserir em todas 
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+166 | 
+as Unidades da Federação (UFs) por meio da articulação entre agentes públicos 
+e privados: PNDR (coordenada pelo Ministério da Integração Nacional – MI); 
+T erritórios da Cidadania (Ministério do Desenvolvimento Agrário – MDA); 
+Grupo de T rabalho Permanente para Arranjos Produtivos locais (GTP-APL) 
+(Ministério da Indústria, Comércio Exterior e Serviços  – MDIC); Rede Nacional 
+de Informações sobre Investimentos (Renai) (MDIC); e Rede Nacional de Política 
+Industrial (Renapi) (Agência Brasileira de Desenvolvimento Industrial – ABDI).
+Mesmo que não conduzida por uma clara estratégia industrial, pois as decisões 
+privadas e públicas pouco ou nada se orientaram pelo Plano Brasil Maior, a 
+geografia econômica brasileira passou por mudanças importantes, sobretudo no 
+decênio 2004-2014. Vultosas inversões de capitais privados, com forte apoio estatal, 
+principalmente por parte do BNDES, ocorreram nos setores agroindustriais, 
+da indústria extrativa mineral, da indústria automobilística e da infraestrutura. 
+Gigantescos investimentos estavam em andamento em plantas automobilísticas, 
+siderúrgicas, petróleo, indústria naval, refinarias, extração mineral etc.
+Quanto aos investimentos automobilísticos, as plantas instaladas ou em instalação 
+são: Chery (Jacareí, São Paulo); Nissan (Resende, Rio de Janeiro); Jeep (Goiana, 
+Pernambuco); BMW (Araquari, Santa Catarina); Jaguar Land Rover (Itatiaia, Rio de 
+Janeiro); Honda (Itirapina, São Paulo); Hyundai-Caoa (Anápolis; Goiás); Audi-VW 
+(São José dos Pinhais, Paraná); JAC (Camaçari, Bahia); Hyundai (Piracicaba, São Paulo); 
+T oyota (Sorocaba e Porto Feliz, São Paulo); e Mitsubishi (Catalão, Goiás).
+Até 2011, muitos investimentos siderúrgicos foram realizados. Hoje, o parque 
+siderúrgico brasileiro, com suas 29 usinas, de propriedade de onze grupos empresariais 
+(Aperam, ArcelorMittal Brasil, Companhia Siderúrgica Nacional – CSN, Gerdau, 
+Siderúrgica Norte Brasil – SINOBRAS, Thyssenkrupp CSA, Usiminas, Vallourec 
+Soluções T ubulares do Brasil – VSB, Vallourec, Villares Metals e Votorantim), passa 
+por grave crise. Há importantes projetos que teriam papel central no desenvolvimento 
+regional, como a Companhia Siderúrgica do Pecém, em São Gonçalo do Amarante, 
+que se encontra em compasso de espera.
+No setor de petróleo, antes da profunda crise, os investimentos da  Petrobras 
+para viabilizar a exploração do pré-sal estavam baseados em uma estratégia de 
+expansão e adensamento da cadeia de suprimentos para o período 2013-2020. 
+Tais inversões, que tinham sido planejadas segundo uma lógica de ampliação do 
+conteúdo nacional, viabilizariam a construção naquele prazo de: 38 plataformas 
+de produção, 28 sondas de perfuração, 88 navios-tanque e 198 barcos de apoio. 
+Somente consideradas as encomendas destinadas à indústria naval brasileira, o 
+montante estimado de investimentos chegaria a US$ 100 bilhões.
+A indústria naval brasileira vinha sendo reativada, sobretudo pela ampliação 
+das atividades petrolíferas offshore , o que acarretou na encomenda de novas 
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 167
+embarcações. No seu auge, a capacidade instalada foi rapidamente ampliada, com 
+os estaleiros assim distribuídos: onze no Rio de Janeiro; três em Santa Catarina; 
+dois no Rio Grande do Sul; um no Ceará; um em São Paulo; e o maior de todos, 
+o Atlântico Sul, em Ipojuca, Pernambuco.
+Com a crise na Petrobras, os projetos de novas refinarias foram redimensionados 
+ou atrasados, como o da Refinaria Abreu e Lima (Pernambuco); adiados, como o do 
+Complexo Petroquímico do Rio de Janeiro (Comperj); ou, ainda, abandonados, como 
+os das Refinarias Premium I (Maranhão) e II (Ceará). Não obstante, os impactos 
+do anúncio e da construção destes megaempreendimentos foram de grande monta, 
+representando forte especulação imobiliária, aumento do custo de vida, atração de 
+população etc. nos locais e entorno de sua instalação.
+Os investimentos em extração mineral, excetuando petróleo e gás, foram 
+de US$ 50 bilhões por quinquênio no período 2003-2015, com destaque 
+para os realizados nos estados de Minas Gerais e Pará, que concentram  
+os maiores investimentos, 41,8% e 21,93%, respectivamente. Os demais estados 
+com investimentos minerais são Mato Grosso do Sul, Bahia, Ceará, Piauí, Amazonas 
+e Maranhão (IBRAM, 2015).
+Para se ter um panorama dos investimentos realizados e que estavam em andamento 
+no Brasil, é importante analisar o que representou, no período 2007-2015, o macroprojeto 
+do governo brasileiro, o PAC,12 que desde 2007 procura mobilizar um poderoso bloco 
+simultâneo de inversões em infraestrutura. O conjunto dos investimentos programados 
+estava organizado em três eixos: infraestrutura logística (construção e ampliação de 
+rodovias, ferrovias, portos, aeroportos e hidrovias); infraestrutura energética (geração e 
+transmissão de energia elétrica, produção, exploração e transporte de petróleo, gás natural 
+e combustíveis renováveis) e infraestrutura social e urbana (saneamento, habitação, 
+metrôs, trens urbanos, universalização do programa Luz para T odos e recursos hídricos).
+Por sua própria dimensão, natureza estrutural e complexidade, o PAC deveria 
+ter sido concebido em diálogo permanente em um processo de planejamento 
+territorial mais abrangente, para pensar o país em sua totalidade. Só assim poderia 
+ter cumprido seus objetivos declarados (de forma muito generalista) de ativar áreas 
+deprimidas e articular as mais aptas aos impulsos de crescimento, estimulando 
+a eficiência produtiva e a produtividade dos aparelhos econômicos regionais. 
+O programa poderia ter sofisticado suas ações, que estiveram prioritariamente 
+voltadas ao crescimento econômico, ao mero suporte infraestrutural e à mais 
+rápida e eficiente exploração de recursos naturais. Quando não o fez, perdeu a 
+oportunidade de ter avançado em uma estratégia nacional e latino-americana de 
+desenvolvimento e planejamento territoriais.
+12. Disponível em: <http://www.pac.gov.br/>.
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+168 | 
+Quanto ao setor elétrico, no início do governo Lula, a Lei n o 10.847/2004 
+autorizou a criação da Empresa de Pesquisa Energética (EPE), e a Lei 
+no 10.848/2004 mudou o modo de comercialização de energia elétrica no Brasil, 
+abrindo espaço para um boom de investimentos no setor.
+São trinta UHEs em operação, que tiveram leilões realizados no período 
+pós-2000, com destaque para as maiores: Jirau (Rondônia); Santo Antônio 
+(Rondônia); T eles Pires (Mato Grosso e Pará); Estreito (Maranhão e T ocantins); 
+e Foz do Chapecó (Santa Catarina e Rio Grande do Sul).
+O Plano Nacional de Energia 2030 ainda prevê aumento de 88 mil MW , 
+sendo 11 mil a potência instalada em Belo Monte, em Vitória do Xingu (Pará), 
+e outras dez UHEs estão em construção, entre as quais as de: Ponte de Pedra 
+(Mato Grosso), Salto Curucaca (Paraná), Colíder (Mato Grosso), Baixo Iguaçu 
+(Paraná), São Roque (Santa Catarina), Cachoeira Caldeirão (Amapá), Salto Apiacás 
+(Mato Grosso), Sinop (Mato Grosso) e São Manoel (Pará).
+Além dos investimentos hidrelétricos, há as perspectivas dos complexos 
+eólicos, com previsões de investimentos de R$ 35 bilhões, enquanto à energia solar 
+se destinariam R$ 6,6 bilhões. São duas frentes que geram grandes expectativas 
+para dinamização regional, sobretudo nos estados nordestinos. No PAC 2 foram 
+realizadas mais de 538 mil ligações de energia elétrica para 2 milhões de pessoas 
+que vivem no campo, em assentamentos da reforma agrária, aldeias indígenas, 
+comunidades quilombolas e ribeirinhas, representando importante melhoria nas 
+condições de vida rural.
+Além disso, foram concluídos 28 empreendimentos em exploração e produção 
+de petróleo e iniciadas as perfurações de 448 poços exploratórios, sendo 174 em 
+mar e 198 em terra, totalizando 372 concluídos.
+Quanto aos portos, a partir da criação, em 2007, da Secretaria de Portos 
+da Presidência da República (SEP/PR), com a formulação do Plano Nacional de 
+Logística Portuária (PNLP), em 2010, mas sobretudo com a Lei no 12.015/2013 
+sancionada, o setor passou a ter grandes expectativas de investimento em novos 
+terminais e na modernização dos equipamentos dos já existentes. 13 T rinta 
+empreendimentos foram concluídos ou estavam em implantação até 2015.
+13. “Vários são os direcionadores do investimento em portos, entre eles: a pressão de demanda a que alguns 
+portos estão submetidos (p.ex.: Itaqui, Suape, Vila do Conde, Vitória, Santos e Paranaguá); o desenvolvimento 
+de novas ferrovias e a expansão de ferrovias existentes (p.ex.: as ferrovias Norte-Sul, Transnordestina Logística, 
+de Integração Oeste-Leste e de Carajás); e a expansão dos mercados de commodities de exportação, de 
+contêineres e carga geral (veículos e cargas de projeto) e de granéis líquidos (em função de novas refinarias 
+na região NE e da distribuição de combustíveis na região SE)” (BNDES, 2013, p. 3).
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 169
+Segundo a Agência Nacional de T ransportes Aquaviários (ANTAQ), os 
+investimentos do Complexo Industrial e Portuário de Suape, em Ipojuca (Pernambuco), 
+de Pecém, em Fortaleza (Ceará), e do Porto de Itaqui, em São Luís (Maranhão), 
+além da modernização dos portos de Santos, Vitória, Paranaguá etc., permitirão 
+o escoamento da produção com maior eficiência operacional, e o aporte logístico 
+brasileiro passará por grandes transformações. Os investimentos nos T erminais de Uso 
+Privado (TUPs), cujo pioneiro foi o Porto do Açu, chegaram a cinquenta unidades 
+naquele período no Brasil.
+Fundamental para a problemática regional brasileira e para o seu processo 
+de interiorização é a experiência dos portos secos e dos Centros Logísticos 
+e Industriais Aduaneiros (CLIAs), que têm ganhado importância com sua 
+consolidação em: Santana do Livramento (Rio Grande do Sul), Corumbá 
+(Mato Grosso do Sul), Foz do Iguaçu (Paraná), Cuiabá (Mato Grosso), Anápolis 
+(Goiás), Uberlândia (Minas Gerais), Ribeirão Preto (São Paulo), Novo Hamburgo 
+(Rio Grande do Sul), entre muitos outros.
+Quanto à infraestrutura aeroportuária, os investimentos previstos são 
+de R$ 26 bilhões, com seis leilões já realizados para a concessão dos aeroportos de 
+São Gonçalo do Amarante (Rio Grande do Norte), Brasília (Distrito Federal), 
+Guarulhos (São Paulo), Campinas (São Paulo), Confins (Minas Gerais) e Galeão 
+(Rio de Janeiro). A capacidade dos aeroportos brasileiros foi ampliada em mais de 
+70 milhões de passageiros por ano, com a conclusão de 37 empreendimentos, a 
+recuperação de pistas e pátios dos aeroportos de Foz do Iguaçu (Paraná) e Campo 
+Grande (Mato do Grosso do Sul), e a construção do T erminal 4 de Guarulhos. 
+Nos aeroportos regionais, foram concluídas quinze obras em onze cidades.
+No que se refere às hidrovias, estão em andamento dezenove empreendimentos, 
+com destaque para os da Amazônia e do Centro-Oeste. A navegação de cabotagem 
+também tem sido reativada.
+Em ferrovias, ao longo de últimos quatro anos, 1.088 km foram concluídos, com 
+destaque para a melhoria do escoamento de commodities minerais e do agronegócio.
+Além do PAC, é indispensável analisar os diversos casos concretos de blocos 
+de investimentos potentes e concentrados no tempo e no espaço que o Brasil e 
+outros países da América do Sul vinham realizando no âmbito da Iniciativa para 
+a Integração da Infraestrutura Regional Sul-Americana (IIRSA), 14 uma ação de 
+doze países sul-americanos buscando a maior integração física das infraestruturas 
+logísticas, energéticas e de telecomunicações (banda larga, basicamente). 
+Seus eixos de integração e desenvolvimento propõem a organização do espaço 
+sul-americano em faixas multinacionais que concentrariam fluxos de comércio 
+14. Disponível em: <http://www.iirsa.org>.
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+170 | 
+atuais e potenciais para promover o desenvolvimento de negócios e o aumento 
+do valor adicionado com o adensamento e a maior integração das cadeias 
+produtivas presentes na área da iniciativa.
+Colocou-se, desse modo, a discussão da necessidade de construção de um espaço 
+mais integrado e uma plataforma privilegiada para o relacionamento com o resto 
+do mundo. A IIRSA discutiu e iniciou obras de interesse bilateral e subcontinental, 
+desenhando diversos suportes financeiros para os projetos em execução e buscando 
+a harmonização dos regimes e marcos normativo, regulatório, institucional e 
+administrativo que agilizem a interconexão e a operação dos sistemas de transportes, 
+energia e telecomunicações. Elaborou-se um detalhado portfólio de projetos, 
+reunidos em 31 projetos-âncora, que tem por base uma avaliação das sinergias 
+possibilitadas pelos serviços de logística na área de influência que recebem os 
+impactos de tais projetos. Porém, infelizmente, nada ou muito pouco foi articulado 
+em termos de ações que têm sensibilidade para a dimensão territorial desse processo 
+de crescimento. Se o projeto fosse levado adiante, o risco seria apenas sancionar 
+fluxos existentes, sem uma visão sistêmica das oportunidades e inter-regionalidades 
+que poderia explorar na escala continental.
+O projeto de lei do PPA 2012-2015 – Plano Mais Brasil – foi bastante vago 
+em relação à problemática das disparidades regionais. Entre os 65 programas 
+temáticos do documento estava o denominado Desenvolvimento Regional, 
+T erritorial Sustentável e Economia Solidária, que pretendia dispender o montante 
+de R$ 43 bilhões para a redução das desigualdades inter-regionais e interpessoais, 
+mas não apresentava nenhuma direção estratégica para sua implementação.
+Importante analisar ainda as políticas de proteção social, que representaram 
+significativo aporte para a redução das desigualdades regionais e de renda no 
+Brasil no período 2003-2015. Um conjunto abrangente de políticas sociais 15 se 
+articulou com o aumento real do salário mínimo, a previdência rural, o crédito 
+15. “Os resultados (até outubro de 2014) falam por si: 22 milhões de brasileiras e brasileiros superaram 
+a extrema pobreza com o Bolsa Família; 1,35 milhão de famílias que eram extremamente pobres foram 
+incluídas no Cadastro Único pela Busca Ativa, e imediatamente entraram no Bolsa Família; mais de 1,5 milhão 
+de pessoas de baixa renda se inscreveram em cursos de qualificação profissional do Pronatec (Programa 
+Nacional de Acesso ao Ensino Técnico e Emprego) Brasil sem Miséria; mais de 400 mil beneficiários do 
+Bolsa Família se formalizaram como microempreendedores individuais; 3,6 milhões de pessoas do Bolsa 
+Família fizeram operações de microcrédito produtivo orientado do Programa Crescer; 349 mil famílias 
+de agricultores de baixíssima renda do semiárido receberam serviços de assistência técnica no semiárido, e 
+131 mil já estão recebendo recursos de fomento para ajudar a estruturar sua produção; 750 mil cisternas 
+de água para consumo foram entregues, também no semiárido; 69,8 mil famílias foram beneficiadas pelo 
+Programa Bolsa Verde; 267 mil famílias do Bolsa Família receberam ligações de energia elétrica do Programa 
+Luz para Todos; 702,8 mil crianças do Bolsa Família estão matriculadas em creches; 35,7 mil escolas com 
+maioria de estudantes do Bolsa Família agora têm ensino em turno integral com o Programa Mais Educação; 
+e 388 mil famílias do Bolsa Família foram beneficiadas pelo Minha Casa, Minha Vida” (Brasil, 2014, p. 27).
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 171
+consignado, entre outras políticas públicas, realizando uma transformação 
+impactante na base da pirâmide social brasileira.
+Em 2011, foi lançado o Plano Brasil sem Miséria, pretendendo alcançar 
+(através de um processo de “busca ativa”) 16,2 milhões de pessoas (aquelas 
+que habitavam lares cuja renda familiar é de até R$ 70 por pessoa), que 
+constituiriam o núcleo da pobreza extrema no país. Essas metas perseguidas 
+seriam alcançadas através de transferência de renda, acesso a serviços públicos 
+(nas áreas de educação, saúde, assistência social, saneamento e energia elétrica) 
+e ações de inclusão produtiva (via economia popular e solidária e qualificação 
+profissional). Segundo Brasil (2014), em três anos do plano, com a busca 
+ativa, foram identificadas 1,35 milhão de famílias extremamente pobres que 
+estavam fora do Cadastro Único para programas sociais, sendo então incluídas 
+e passando a receber o Bolsa Família.
+Outra política importante foi a educação de nível superior. As matrículas 
+universitárias dobraram entre 2003 e 2014. Nesse primeiro ano, 747 municípios 
+possuíam alunos concluintes registrados no Censo da Educação Superior; em 2014, 
+esse número chegou a 1.568. Catorze novas universidades federais e 126 novos campi 
+universitários foram criados, elevando o número total de estudantes universitários, 
+de 5,9 milhões para 13,5 milhões. A Rede Federal de Educação Profissional, 
+Científica e T ecnológica chegou em 2016 a 644 unidades.
+No que diz respeito à política habitacional, apenas no PAC 2 o eixo MCMV 
+concluiu empreendimentos no valor de R$ 449,7 bilhões, entregando 1,87 milhão 
+de moradias. As contratações somaram, ao todo, 3,7 milhões de unidades, das quais 
+2,8 milhões eram de moradias contratadas no MCMV 2.
+Assim, durante um determinado período, basicamente em 2004-2014, o 
+país procurou, em alguma medida, articular crescimento econômico e inclusão 
+social, fazendo dialogar a política social com a ampliação do mercado interno 
+de consumo de massa e a formalização das relações de trabalho. O resultado 
+foi o aperfeiçoamento e a expansão do sistema federativo de bem-estar social 
+erguido a partir da CF/1988. Do ponto de vista territorial, afirma Monteiro 
+Neto (2015, p. 22) que
+a questão real dos desequilíbrios regionais passou a ser tratada a partir de seus 
+atributos sociais, os quais deveriam ser o foco da agenda social brasileira mais 
+ampla. Mudou-se a orientação de políticas essenciais para a construção de uma 
+nova trajetória de bem-estar nas regiões: do seu foco exclusivamente territorial 
+para o do atendimento direto aos cidadãos, isto é, de políticas do tipo centrado no 
+território, place-based approach, para o tipo voltado para a melhoria do bem-estar 
+dos cidadãos, place-neutral approach.
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+172 | 
+Essa mudança abre espaço para questionar, seguindo o debate internacional, 
+se a melhor estratégia de redução das desigualdades regionais seria pela via 
+das políticas regionais explícitas, do place-based approach, ou das implícitas, 
+do place-neutral approach, em que “os mais potentes instrumentos para a 
+integração [regional] são as melhorias espacialmente ‘cegas’ em instituições; 
+ou seja, a provisão de serviços essenciais como educação, saúde e segurança 
+pública” (Gill, 2010, p. 3).
+4 ELABORAÇÃO, OPORTUNIDADES E LIMITAÇÕES DA PNDR EM SUAS ETAPAS I E II
+Depois de exatos vinte anos sem uma estratégia para enfrentar nossas históricas 
+e persistentes desigualdades inter-regionais – desde a crise da dívida até o final 
+do governo FHC (1982-2002) –, o governo Lula, ao assumir em 2003, criou 
+institucionalidades e elaborou políticas de cunho territorial, iniciando uma 
+luta para buscar vencer o caráter setorial e fragmentado das políticas públicas. 
+Avanços ocorreram sobretudo no diagnóstico mais aprofundado das problemáticas 
+socioespaciais, e novas bases conceituais foram incorporadas. Documentos 
+importantes foram elaborados e discutidos amplamente, com destaque aqui 
+para a elaboração da PNDR, no primeiro ano de governo, e sua posterior 
+institucionalização, pelo Decreto-Lei n o 6.047, de 22 de fevereiro de 2007.
+Instituída em 2007, a política foi revisada apenas três anos depois, deixando para 
+trás alguns pontos importantes da versão anterior, como as mesorregiões diferenciadas, 
+o Programa de Promoção da Sustentabilidade de Espaços Sub-Regionais (Promeso) 
+e os fóruns mesorregionais.
+Em 2010, o governo apresentou o novo modelo de gestão da chamada PNDR 
+Fase II (2011‐2015), que foi discutido entre o final de 2012 e o início de 2013 nas 
+conferências estaduais, macrorregionais e na nacional, culminando com a elaboração 
+e o envio ao Congresso Nacional de um projeto de lei que transformaria a política 
+regional em uma política de estado, e não de um governo.
+A PNDR II, além de levar o diálogo aos governos estaduais, propôs um 
+modelo de governança denominado Sistema Nacional de Políticas Regionais. 
+Este seria estruturado a partir de quatro instâncias de deliberação e gestão, 
+sendo: i)  duas de âmbito federal – o Conselho Nacional de Integração de 
+Políticas Públicas no T erritório (ou Conselho Nacional de Desenvolvimento 
+Regional), em nível estratégico, e a Câmara Interministerial de Gestão Integrada 
+de Políticas Regionais, em nível tático; ii) uma de âmbito estadual – os Comitês 
+Estaduais de Gestão de Políticas no T erritório; e iii) uma de âmbito supramunicipal 
+(ou sub‐regional), representada por associações de municípios, consórcios públicos, 
+fóruns mesorregionais, comitês de bacias e demais organizações que atuem 
+territorialmente e extrapolem o âmbito municipal.
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 173
+A partir da experiência das conferências do desenvolvimento regional, 
+com a participação de 13 mil pessoas, foram estabelecidas as áreas a serem 
+privilegiadas pela nova política regional. No âmbito da PNDR II, foram 
+aprovados quatro objetivos específicos, que são também os critérios de 
+elegibilidade e de priorização das ações.
+1) Convergência: para a redução das diferenças no nível de desenvolvimento 
+e na qualidade de vida entre e intrarregiões.
+2) Competitividade: para a capacitação produtiva em regiões que apresentam 
+declínio populacional e elevadas taxas de emigração.
+3) Diversificação: para a maior agregação de valor e diversificação econômica 
+em regiões que apresentam forte especialização na produção de commodities 
+agrícolas e/ou minerais.
+4) Centralidades urbanas: para a construção de uma rede de cidades com 
+maior harmonia entre os diferentes níveis hierárquicos, identificando 
+e fortalecendo centralidades, em diferentes escalas, que possam 
+operar como vértices de uma rede policêntrica que contribua para a 
+desconcentração e interiorização do desenvolvimento (Alves e Rocha 
+Neto, 2014).
+Em uma das inúmeras trocas de ministro e secretários do Desenvolvimento 
+Nacional, surgiu uma proposta ousada (agora aparentemente abandonada) de que a 
+PNDR II estabelecesse pactos de metas, firmados entre o MI e os ministérios setoriais, 
+gerando compromissos regionalizados de ações concertadas nas áreas da saúde, 
+educação, indústria, ciência, tecnologia e inovação (CT&I), serviços básicos etc., 
+buscando avançar no processo de desenvolvimento, com inovação e inclusão social, 
+em sua dimensão espacial e territorial, de forma abrangente e coerente.
+Entretanto, vários aspectos da política regional não avançaram. Não foi 
+criado um fundo nacional de desenvolvimento regional, nem operaram as 
+instâncias de governança esboçadas, nem a temática ganhou centralidade na 
+agenda governamental.
+Se estavam presentes na concepção original da PNDR I, em 2003, “aspectos 
+importantes como a governança, a transversalidade, a intergovernabilidade e a 
+integração continental sul-americana aparecem de forma secundária nas discussões 
+relacionadas à PNDR II” (Silva, 2014, p. 251). Segundo o autor, seus desafios 
+são hercúleos, pois
+além de ser uma política complexa e transversal, ela demanda a articulação de 
+partidos, políticas, pessoas e entes federados e abrange temas como o pacto federativo 
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+174 | 
+e a “guerra fiscal”, estando relacionada às discussões sobre os fundos regionais e a 
+reforma tributária (Silva, 2014, p. 251).16
+Talvez a PNDR possa ser bem caracterizada como contendo “muitos 
+objetivos e pouca articulação” (Monteiro Neto, 2014), ou seja, é atravessada 
+por uma insuficiência, ou mesmo a ausência, de uma articulação entre políticas 
+regionais, setoriais e regime de partilha de recursos no federalismo brasileiro atual.
+Outro ponto importante na agenda hoje é o papel a ser reservado para as 
+superintendências na política de desenvolvimento regional. Essas instituições regionais 
+de desenvolvimento (Superintendência do Desenvolvimento do Nordeste – Sudene, 
+Superintendência do Desenvolvimento da Amazônia – Sudam, e Superintendência 
+de Desenvolvimento do Centro-Oeste – Sudeco) sofreram de perda de substância 
+propositiva, decisória e administrativa. Segundo o MI, o papel a ser atribuído a 
+essas instituições exige debates intensos, vontade política e profundas readequações, 
+buscando maior aderência tanto aos processos contemporâneos que moldam o 
+território brasileiro quanto aos objetivos expressos na PNDR II. Uma profunda 
+transformação institucional é urgente, visando averiguar qual o espaço de atuação das 
+superintendências na relação com o governo central, com os governos subnacionais 
+e com a sociedade civil das regiões onde atuam.
+5 DESAFIOS, CONSTRANGIMENTOS E QUESTÕES EM ABERTO
+O Brasil é sempre o país das simultaneidades: desde a virada para este século vem 
+reforçando sua presença no litoral, ao mesmo tempo que interioriza tanto a riqueza 
+quanto a pobreza.
+Ciclicamente no país se coloca o risco da atenuação da marcha da 
+desconcentração regional do emprego e da renda, que vem, bem ou mal, ocorrendo 
+desde meados dos anos 1970, e o da acentuação das heterogeneidades estruturais 
+históricas (entre elas, a regional).
+Se o Estado não promove políticas públicas com ousada intencionalidade, 
+colocam-se com maior vigor processos de reconcentração espacial, pois as vantagens 
+16. Uma interessante perspectiva é apresentada por Silva (2014, p. 253), ao afirmar que o máximo que se 
+tem logrado na política regional brasileira é: “definir como ponto de partida as prioridades e estratégias 
+estabelecidas pelos ministérios setoriais, buscando uma articulação entre os diversos setores e a partir 
+daí definir os locais que serão abarcados pelas ações preestabelecidas, delimitando-os a posteriori, pouco 
+contribuindo com uma leitura sobre as desigualdades regionais no país e com a consolidação de um 
+planejamento regional verdadeiramente estratégico, que abranja as múltiplas dimensões da desigualdade 
+e suas implicações territoriais. Tal inversão, possivelmente, teria como consequência o reforço do caráter 
+setorial e fragmentado das políticas públicas, uma vez que cada ministério ofereceria à política regional 
+ações e estratégias já disponíveis, sem necessariamente formular programas, projetos e ações tendo como 
+fundamento a questão regional. Ou seja, haveria cooperação, sobretudo, naquelas políticas setoriais que 
+se ‘encaixam’ na política regional”.
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 175
+locacionais, as externalidades positivas e os efeitos aglomerativos do Sul-Sudeste 
+são marcantes, atrativos e cruciais para a tomada de decisão privada de realização 
+de inversões de capital.
+A montagem de novas plantas (greenfields) industriais que requerem escala e 
+densidade urbanas e econômicas tende a ser realizada no centro-sul, o que indicia 
+que estaríamos caminhando para um novo ciclo de reconcentração espacial da 
+produção, da renda e da geração de empregos de qualidade.
+Não é fácil realizar um balanço exaustivo dos efeitos territoriais dos 
+investimentos realizados no âmbito do PAC 1 e 2, tais como aqueles no Pré-Sal, 
+na Copa do Mundo e nas Olimpíadas. Entretanto, talvez se possa defender a 
+hipótese de que estas inversões apresentam tendência a reforçar a concentração de 
+riqueza e as oportunidades nos espaços geográficos de maior dinamismo e melhor 
+dotados de infraestruturas, devido a seus padrões locacionais rígidos.
+Por meio do crédito público, sobretudo do BNDES, o Estado brasileiro 
+procurou  sinalizar prioridades ao setor privado no período sob análise. O federalismo do 
+bem-estar social cumpriu papel relevante na transferência de recursos, gerando mercados 
+regionalizados de consumidores dotados de maior poder de compra, “contudo, tais 
+recursos não têm transformado as estruturas produtivas locais de maneira a fortalecer a 
+base de geração de tributos [e não têm sido] capazes de operar transformações robustas 
+nas estruturas produtivas regionais” (Monteiro Neto, 2015, p. 25).
+Malgrado todas as concessões de financiamentos dos fundos constitucionais 
+e dos fundos de desenvolvimento, e mesmo com as desonerações realizadas, como 
+em móveis e linha branca de eletrodomésticos, a agregação de valor regionalizado 
+foi muito baixa.
+Há, no MI, a Portaria n o 162, de 24 de abril de 2014, que estabelece 
+o programa Rotas de Integração Nacional como estratégia de inclusão 
+produtiva e desenvolvimento regional, que buscará ações convergentes das 
+agências de fomento a fim de promover o adensamento e o enraizamento de 
+empreendimentos industriais e agroindustriais, articulando-os às economias 
+de base local. Ao mesmo tempo, parte de uma visão interessante de priorizar 
+atividades desenvolvidas em mais de uma UF , de modo a facultar a cooperação 
+intermunicipal e interestadual.
+Do mesmo modo, tem sido afirmado pelo MI que é necessário aprimorar os 
+critérios de concessão de financiamentos dos fundos, ampliando sua seletividade 
+geográfica e setorial, bem como as contrapartidas dos beneficiados (inovação, 
+comprometimento com práticas sustentáveis e/ou de exploração do potencial 
+da biodiversidade das regiões e articulação com universidades para pesquisa e 
+desenvolvimento – P&D).
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+176 | 
+Esse ponto é crucial para a transformação das estruturas produtivas das 
+regiões em desvantagem, buscando evitar ou minorar os problemas advindos dos 
+vazamentos inter-regionais de renda de forma a
+garantir que os esforços do sistema de transferências governamentais de renda para 
+uma dada região não escapem dela por meio de transferências privadas (de empresas 
+e de consumidores) na forma de compras de bens de consumo e de investimento 
+para a região mais rica, desfazendo desse modo a ação compensatória do governo 
+(Monteiro Neto, 2016, p. 22).
+De qualquer maneira, a questão do ambiente macroeconômico precisa mudar. 
+Uma economia em recessão praticamente inviabiliza a consecução de uma política 
+de desenvolvimento regional em um país.
+Em uma economia que não cresce, torna-se muito difícil enfrentar as 
+disparidades, mas em uma economia em crescimento, é preciso decisão firme, 
+contra a corrente da bonança, para promover políticas compensatórias ao curso dos 
+acontecimentos naturais da reconcentração. É preciso estar sensível ao ambiente 
+econômico de maior ou menor geração de emprego e renda, e aprofundar e articular 
+os estudos regionalizados para armar uma estratégia de maior coesão econômica 
+e sociopolítica para o Brasil, buscando um desenvolvimento inter-regional mais 
+balanceado e uma combinação de equidade e eficiência, apoiando e favorecendo 
+regiões em desvantagem.
+O que ficou patente no período 2003-2015 foram os colossais 
+constrangimentos do padrão de alta concentração de renda e baixo acesso à 
+riqueza e à propriedade (sobretudo da terra, rural ou urbana), que restringe 
+sobremaneira os mercados regionais de consumo e produção e cria barreiras 
+enormes ao avanço de um tecido produtivo e empresarial mais endógeno nas 
+regiões menos desenvolvidas.
+Mesmo para os bens-salário, como alimentos, bebidas, confecções e calçados, os 
+mercados regionais muitas vezes não tiveram economia de escopo ou de escala para 
+competir com os produtos ofertados por empresas extrarregionais, principalmente 
+no caso do Sul-Sudeste.
+Apesar do porte e da complexidade dos maiores polos regionais periféricos, a 
+estreiteza dos mercados mais interiorizados ainda tem precedência frente a impulsos 
+dinamizadores dados pelo ativismo fiscal do Estado.
+Naquele período, esses mercados foram um pouco alargados, engendrando 
+potenciais futuras frentes de acumulação e mercados mais regionalizados, quando do 
+arrefecimento da crise econômica. Porém, ficou demonstrado que outros suportes, 
+de recursos, de infraestrutura etc., precisam melhorar e ter continuidade para se 
+forjar bases econômicas com maior autonomia.
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 177
+Uma longa citação de Bercovici (2015, p. 81) sintetiza nossos limitantes e 
+constrangimentos mais estruturais.
+A garantia de ampliação de direitos sociais está estreitamente vinculada à 
+universalização das políticas sociais, com igualdade de acesso e qualidade nas 
+prestações para todos, e ao desenvolvimento endógeno do país, com o mercado 
+interno como centro dinâmico da economia e a internalização dos centros de 
+decisão econômica, fundamentos essenciais, previstos constitucionalmente (artigos 
+3o, 6o, 170 e 219) para a implantação efetiva de uma sociedade industrial avançada 
+e democrática entre nós. No entanto, resta um obstáculo até hoje não ultrapassado: 
+a distribuição da renda passa, necessariamente, pela questão da distribuição do 
+patrimônio, ou seja, da propriedade privada. Esse é o núcleo essencial das reformas 
+urbana e agrária nunca implementadas no Brasil.
+A redemocratização e a Constituição Cidadã ajudaram a promover, e a 
+legitimar minimamente, políticas sociais abrangentes, sobretudo sanitárias e 
+educacionais, que ergueram certo patamar mínimo de condições materiais e cidadãs 
+que criaram as bases de uma sociedade moderna de massas de alta complexidade 
+no contexto de uma urbanização planetária (Brenner, 2014). Isso congregou a 
+maior parte da população em uma sociedade urbana moderna, embora persistam 
+ruralidades muito marcantes em todo o heterogêneo território nacional.
+Quando se observa de forma agregada, na escala das macrorregiões 
+brasileiras, ou focalizando os “três mundos regionais” com menores patamares de 
+desenvolvimento, não se enxerga ou pode ficar enublada a miríade de microprocessos 
+de alto dinamismo social, produtivo, político ou institucional que brotaram no 
+último quartel do século XX.
+Nesse contexto, os processos de inovações sociais e organizacionais, de produto 
+e de processo, e as demandas sociais devem ser analisados de forma regionalizada e 
+sob uma perspectiva de dentro da estrutura e dinâmica da rede urbana brasileira.
+Vêm ocorrendo mudanças importantes durante esse início de século 
+XXI no padrão de oferta de bens, infraestruturas e serviços públicos de caráter 
+social no território, mas muito precisa ser analisado e realizado ainda. Segundo 
+Monteiro Neto (2015, p. 23), tudo isso aponta para
+[a] necessidade de uma nova agenda para uma política nacional de desenvolvimento 
+regional que dê suporte aos avanços sociais e seja capaz de fomentar a diversidade 
+de recursos humanos, culturais e produtivos existentes nas regiões brasileiras. 
+Aponta-se para a necessidade de uma agenda articuladora das várias dimensões das 
+políticas setoriais federais com as diferenciadas necessidades dos cidadãos no variado 
+território nacional. Por sua vez, a dimensão articuladora das diversas políticas deve 
+ser problematizada no contexto e determinações do atual pacto federativo. Nele, 
+circunscrevem-se as proposições políticas, os instrumentos e recursos para a necessária 
+construção de elementos de articulação e coordenação das políticas no território.
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+178 | 
+6 CONSIDERAÇÕES FINAIS
+No período 2003-2015, ocorreu intensa reconfiguração inter-regional no Brasil, 
+sobretudo na escala intrarregional de suas cinco macrorregiões. Em razão da nossa 
+avançada agenda de política social e de infraestrutura levada a cabo recentemente, 
+o problema regional tomou outra dimensão.
+Embora com pouco tempo para consolidar esses processos de transformação, pois 
+tratam-se, em sua maioria, de fenômenos ainda em curso, é preciso buscar aquilatar, 
+em uma visão de conjunto, as mudanças ocorridas e promover uma avaliação mais 
+aprofundada, realizando um balanço do papel desempenhado pelas políticas públicas 
+(produtivas, sociais, infraestruturais etc.), no contexto territorial vis-à-vis o cumprido 
+pelo avanço e aprendizado conceitual das políticas explícitas de desenvolvimento 
+regional. Foram políticas públicas setoriais, implementadas na escala nacional, e não 
+explicitamente de cunho regional, que tiveram impactos importantes para a maior 
+homogeneização social e a melhoria das condições de vida da população, justamente 
+nos territórios caracterizados por menor crescimento econômico.
+As desigualdades interpessoais arrefeceram um pouco, mas as iniquidades 
+inter-regionais brasileiras persistiram e ganharam outra natureza. No entanto, 
+a questão regional, uma problemática no seio do Estado, ainda não foi 
+adequadamente apropriada ou legitimada politicamente a ponto de tornar 
+possível o seu enfrentamento com a envergadura e a complexidade requeridas 
+para sua resolução.
+Não é o caso de entender que política regional não seja necessária, mas de 
+pensar: o que cabe à política regional (explícita) fazer neste início do século XXI? 
+Com as políticas sociais e de infraestrutura levadas a cabo, como ficaram os vínculos 
+inter-regionais e a capacidade endógena das regiões de potencialmente responderem 
+aos desafios colocados pelas novas dinâmicas socioeconômicas do novo século?
+O certo é que persiste o grande desafio no Brasil de instituir um planejamento 
+territorial que construa vetores estratégicos que permitam engendrar impulsos 
+dinâmicos de forma a gerar a maior convergência de renda, o alargamento de 
+oportunidades e um processo de coesão (econômica, social e política) entre nossas 
+heterogêneas regiões, e que, ao mesmo tempo, respeite e valorize nossa diversidade.
+Se no passado apenas situações extremas de crise lograram legitimar uma 
+intervenção mais coerente (cujo exemplo histórico mais conspícuo foram as 
+crises provocadas pelas secas nordestinas e a criação da Sudene), o que esperar do 
+contexto atual?
+Um ponto importante do diagnóstico atual das novas dinâmicas regionais é 
+procurar entender as diversas dimensões dos impactos econômicos, sociais 
+e ambientais de se ter em todo o território nacional um conjunto de obras 
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 179
+interrompidas, inauguradas “pela metade”, não concluídas ou mesmo abandonadas. 
+Muitas expectativas de desenvolvimento regional foram frustradas. Além disso, 
+impactos negativos que deixaram estão presentes, sobretudo nas áreas dos grandes 
+projetos descontinuados.
+Há uma carteira de investimentos em infraestrutura que atravessou governos 
+de diversos matizes, algumas obras são reivindicações regionais das décadas de 1960, 
+além de estarem presentes nos corredores de exportação (1972), nos ENIDs e 
+depois no PAC. O país não realizou uma reflexão mais profunda se algumas dessas 
+obras talvez não façam mais parte de uma estratégia de inserção nos paradigmas 
+tecnoeconômicos do século XXI.
+Seria desejável um amplo debate democrático sobre escolhas estratégicas 
+que congregassem projetos exitosos ou com potencialidades portadoras de futuro, 
+aglutinassem e dessem vazão a recursos dispersos em variadas fontes, promovessem 
+capacitação de quadros técnicos administrativos e montassem novas engenharias 
+financeiras de horizonte temporal mais amplo. Realizar-se-ia, assim, a aplicação 
+seletiva de recursos em pacotes de investimento realmente impactantes em termos 
+de encadeamentos e de sustentação dos mercados domésticos/internos de cada 
+região, além de uma inserção mais soberana e dinâmica no mercado internacional. 
+T udo isso tem que ser descortinado mantendo no centro da agenda o combate 
+permanente a nossas recalcitrantes e estruturais desigualdades multidimensionais 
+(sobretudo as sociais e regionais) e buscando o respeito, o afloramento e a valorização 
+de nossas heterogeneidades e diversidades.
+Em suma, trata-se de construir institucionalidades, instrumentos, dispositivos 
+e projetos que, de forma sistêmica, permanente e conjugada, combatam nossas 
+injustiças sociais e socioespaciais, além de ampliar a homogeneização social e 
+o acesso a bens, serviços e infraestruturas sociais, proporcionando melhores 
+condições de vida à maioria da população, orientados por uma perspectiva 
+“mais macro” de enfrentamento das grandes questões estruturais da destituição 
+e da descidadania “no atacado”. Isso ao lado da implementação de um conjunto 
+de políticas públicas dotadas de uma perspectiva diferenciada/diferenciadora, 
+“mais micro”, “no varejo”, aptas a captar especificidades dos plurais subespaços 
+intramacrorregionais e intramesorregionais.
+É urgente congregar e enfeixar projetos em andamento, incitar outros mais 
+ousados e inovadores, dar coerência e estruturação a trajetórias exitosas, realizar a 
+bricolagem de políticas setoriais especializadas e compostas a serem “empacotadas” 
+a fim de se construir uma rota promissora de desenvolvimento. Ao mesmo tempo, 
+ativar e mobilizar a diversidade, sendo sensível às diferenças, mas também de forma 
+a promover a revelação e a exploração de potencialidades de ativos e capacitações 
+ociosos ou adormecidos.
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+180 | 
+Tais estratégias devem ser construídas democraticamente, com capacidade de 
+prospecção e de apreensão das especificidades sub-regionais, e não localistas, a partir 
+de uma ação estatal consequente, participativa e com o resgate do planejamento 
+e levando em consideração nossa complexidade federativa.
+REFERÊNCIAS
+ALVES, A. M.; ROCHA NETO, J. M. A nova Política Nacional de Desenvolvimento 
+Regional – PNDR II: entre a perspectiva de inovação e a persistência dos desafios. 
+Política e Planejamento Regional, v. 1, n. 2, jul./dez. 2014.
+BACELAR, T . Ensaios sobre o desenvolvimento brasileiro: heranças e urgências. 
+Rio de Janeiro: Revan, 2000.
+BELLUZZO, L. C. M.; GALÍPOLO, G. A nova bolha: os mercados financeiros 
+afogam-se em liquidez e o investimento seca. Porto Alegre: Ceape, 9 maio 2016.
+BERCOVICI, G. Desigualdades regionais, estado e constituição . São Paulo: 
+Max Limonad, 2003.
+______. A questão social, a Constituição de 1988 e os desafios do desenvolvimento.  
+In: SOUZA, P . (Org.). Brasil, sociedade em movimento. São Paulo: Paz e T erra; 
+Rio de Janeiro: Centro Celso Furtado, 2015.
+BNDES – BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO 
+E SOCIAL. Perspectivas do investimento 2013-2015. Rio de Janeiro: 
+BNDES, 2013.
+BRANDÃO, C. Estratégias hegemônicas e estruturas territoriais: o prisma analítico 
+das escalas espaciais. Bahia Análise e Dados, Salvador, v. 21, n. 2, p. 303-313, 
+abr./jun. 2011.
+BRASIL. O Brasil sem Miséria. Brasília: MDS, 2014.
+______. Constituição da República Federativa do Brasil. Brasília: Senado Federal, 2016.
+BRENNER, N. Implosions/explosions: towards a study of planetary urbanization. 
+Berlin:  Jovis, 2014.
+BRENNER, N. et al. Após a neoliberalização? Cadernos Metrópole, v. 1, n. 27, 
+p. 15-39, 2012.
+BRITO, F . A transição para um novo padrão migratório no Brasil. Belo  Horizonte: 
+UFMG; CEDEPLAR, 2015. (T exto para Discussão, n. 526).
+BRITO, F .; PINHO, B. A. T . D. Distribuição espacial da população, urbanização 
+e migrações internas no Brasil. Belo Horizonte: UFMG; CEDEPLAR, 2015. 
+(T exto para Discussão, n. 524).
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 181
+CANO, W . Desconcentração produtiva regional do Brasil: 1970-2005. São Paulo: 
+Editora Unesp, 2007.
+CARDOZO, S. Guerra fiscal e alterações das estruturas produtivas estaduais 
+desde os anos 1990. 2010. T ese (Doutorado) – Instituto de Economia, Universidade 
+Estadual de Campinas, Campinas, 2010.
+CARLEIAL, L. et al. (Org.). O desenvolvimento regional brasileiro : questões 
+em debate. São Paulo: Hucitec, 2018.
+DINIZ, C. C. Dinâmica regional recente da economia brasileira e suas 
+perspectivas. Brasília: Ipea, 1995. (T exto para Discussão, n. 375).
+FAGNANI, E. Política social no Brasil (1964-2002): entre a cidadania e a 
+caridade. 2005. T ese (Doutorado) – Instituto de Economia, Universidade Estadual 
+de Campinas, Campinas, 2005.
+FIORI, J. L. O voo da coruja: para reler o desenvolvimentismo brasileiro. Rio de 
+Janeiro: Record, 2003.
+FURTADO, C. Prefácio: a nova economia política. Rio de Janeiro: Companhia 
+Editora Nacional, 1967.
+______. T eoria e política do desenvolvimento econômico. São Paulo: Abril 
+Cultural, 1983.
+FURTADO, J.; URIAS, E. Recursos naturais e desenvolvimento : estudo 
+sobre o potencial dinamizador da mineração na economia brasileira. São Paulo: 
+Editora dos Autores; Ibram, 2013. Disponível em: <http://www.ibram.org.br/
+sites/1300/1382/00005249.pdf>.
+GALVÃO, A. C.; BRANDÃO, C. A. Fundamentos, motivações e limitações da 
+proposta governamental dos “Eixos Nacionais de Integração e Desenvolvimento”. 
+In: GONÇALVES, M. F .; BRANDÃO, C. A.; GALVÃO, A. C. (Org.). Regiões e 
+cidades, cidades nas regiões: o desafio urbano-regional. São Paulo: Editora Unesp, 2003.
+GILL, I. Regional development policies: placed-based or people-centred? VOX 
+CEPR Policy Portal, 9 Oct. 2010.
+GUIMARÃES NETO, L. Desigualdades regionais e federalismo. In: AFFONSO, 
+R.; SILVA, P . L. B. (Org.). Desigualdades regionais e desenvolvimento. São Paulo: 
+Editora Fundap/Unesp, 1995.
+IBGE – INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Atlas 
+do censo demográfico de 2010. Rio de Janeiro: IBGE, 2013.
+IBRAM – INSTITUTO BRASILEIRO DE MINERAÇÃO. Informações sobre 
+a economia mineral brasileira. Brasília: Ibram, 2015.
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+182 | 
+KUPFER, D. O setor e o território. Jornal Valor Econômico, 14 mar. 2012.
+LEME, H. J. C. O federalismo na Constituição de 1988: representação política e 
+a distribuição de recursos tributários. 1992. Dissertação (Mestrado) – Instituto de 
+Filosofia e Ciências Humanas, Universidade Estadual de Campinas, Campinas, 1992.
+MARKUSEN, A. Mudança econômica regional segundo o enfoque centrado no ator. 
+In: DINIZ, C. C.; LEMOS, M. B. (Org.). Economia e território. Belo Horizonte: 
+Editora UFMG, 2005.
+MONTEIRO NETO, A. Desenvolvimento regional em crise: políticas econômicas 
+liberais e restrições à intervenção estatal no Brasil dos anos 90. 2005. T ese (Doutorado) – 
+Instituto de Economia, Universidade Estadual de Campinas, Campinas, 2005.
+______. (Org.). Governos estaduais no federalismo brasileiro: capacidades e 
+limitações governativas em debate. Brasília: Ipea, 2014.
+______. Políticas de desenvolvimento, território e pacto federativo: avanços 
+e limitações no quadro atual (2000/2012). Revista Política e Planejamento 
+Regional, v. 2, n. 1, p. 19-38, 2015.
+______. O padrão atual de atuação federal no território no período recente 
+(2000/2015): estrutura e características para o caso da região Nordeste. 
+In: ENCONTRO NACIONAL DE ECONOMIA POLÍTICA, 21., 2016, São 
+Bernardo do Campo, São Paulo. Anais... São Bernardo do Campo: UFABC, 2016.
+MYRDAL, G. T eoria econômica e regiões subdesenvolvidas. Rio de Janeiro: 
+MEC/ISEB, 1960.
+OLIVEIRA, C. W . A.; MAGALHÃES, J. C. R. Estrutura produtiva avançada 
+e regionalmente integrada: diagnóstico e políticas de redução das desigualdades 
+regionais. Brasília: Ipea, 2010. v. 2.
+PACHECO, C. A. Novos padrões de localização industrial? T endências recentes 
+dos indicadores da produção e do investimento industrial. Brasília: Ipea, 1999. 
+(T exto para Discussão, n. 633).
+PECK, J. Constructions of neoliberal reason. Oxford: Oxford University Press, 2010.
+RESENDE, G. M. Avaliação de políticas públicas no Brasil: uma análise de 
+seus impactos regionais. Brasília: Ipea, 2014.
+REZENDE, F . Planejamento no Brasil : auge, declínio e caminhos para a 
+reconstrução. Brasília: Ipea, 2010. (T exto para Discussão, n. 1522).
+SAMPAIO, D. P . Desindustrialização e estruturas produtivas regionais no 
+Brasil. 2015. T ese (Doutorado) – Instituto de Economia, Universidade Estadual 
+de Campinas, Campinas, 2015.
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 183
+SILVA, E. B. da. Infraestrutura para desenvolvimento sustentado e integração 
+da América do Sul. Rio de Janeiro: Expressão e Cultura, 1997.
+SILVA, S. A. da. O planejamento regional brasileiro pós-Constituição Federal de 
+1988: instituições, políticas e atores. 2014. Dissertação (Mestrado) – Universidade 
+de São Paulo, São Paulo, 2014.
+SIQUEIRA, H. Novo desenvolvimentismo e dinâmica regional recente no Brasil 
+(2004/2012). Revista Latinoamericana de Estudios Urbano Regionales, Santiago 
+do Chile, v. 41, n. 122, jan. 2015.
+VIEIRA, D. J. Um estudo sobre a guerra fiscal no Brasil. 2012. T ese (Doutorado) – 
+Instituto de Economia, Universidade Estadual de Campinas, Campinas, 2012.
+BIBLIOGRAFIA COMPLEMENTAR
+AJARA, C. Brasil: espaços incluídos e espaços excluídos na dinâmica da geração de 
+riqueza. 2001. T ese (Doutorado) – Instituto de Geociências, Universidade Federal 
+do Rio de Janeiro, Rio de Janeiro, 2001.
+AMPARO, P . P . Os desafios a uma política nacional de desenvolvimento regional 
+no Brasil. Interações, Campo Grande, v. 15, n. 1, p. 175-192, jan./jun. 2014.
+ARRETCHE, M. Democracia, federalismo e centralização no Brasil. Rio de 
+Janeiro: FGV , 2012.
+______. Quando instituições federativas fortalecem o governo central? Novos 
+Estudos CEBRAP, São Paulo, v. 95, p. 38-57, 2013.
+BACELAR, T . T endências do desenvolvimento regional recente no Brasil. 
+In: BRANDÃO, C.; SIQUEIRA, H. (Org.). Pacto federativo, integração nacional 
+e desenvolvimento regional. São Paulo: Fundação Perseu Abramo, 2013.
+BANCO MUNDIAL. Reshaping economic geography. Washington: 
+The World Bank, 2009.
+BARCA, F .; MCCANN, P .; RODRÍGUEZ-POSE, A. The case for regional 
+development intervention: place-based versus place-neutral approaches. Journal 
+of Regional Science, Amherst, v. 52, n. 1, p. 134-152, Feb. 2012.
+BNDES – BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO 
+E SOCIAL. Perspectivas do investimento 2015-2018 e panoramas setoriais. 
+Rio de Janeiro: BNDES, 2014.
+BRANDÃO, C. T erritório e desenvolvimento: as múltiplas escalas entre o local 
+e o global. Campinas: Editora Unicamp, 2012.
+BRASIL. Estudo da dimensão territorial para o planejamento. Brasília: MP , 2008.
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+184 | 
+______. Ministério da Integração Nacional. Avaliação da Política Nacional de 
+Desenvolvimento Regional (PNDR). Brasília: MI, 2011a.
+______. Plano Brasil Maior: inovar para competir, competir para crescer – balanço 
+executivo 2011-2014. Brasília: ABDI; MDIC, 2011b.
+______. Fundos regionais e incentivos fiscais. Brasília: MI, 2012.
+CARDOSO JÚNIOR, J. C. Brasil em desenvolvimento: Estado, planejamento 
+e políticas públicas. Brasília: Ipea, 2010.
+CASTRO, C. N.; RESENDE, G. M.; PIRES, M. J. Avaliação dos impactos regionais 
+do Programa Nacional de Fortalecimento da Agricultura Familiar (PRONAF). 
+In: RESENDE, G. (Ed.). Avaliação de políticas públicas no Brasil: uma análise 
+de seus impactos regionais. Rio de Janeiro: Ipea, 2014.
+COÊLHO, V . L. P . A esfinge e o Faraó: a política regional do governo Lula 
+(2003/2010). 2014. T ese (Doutorado) – Instituto de Economia, Universidade 
+Estadual de Campinas, Campinas, 2014.
+DINIZ, C. C. Políticas de desenvolvimento regional: desafios e perspectivas à 
+luz das experiências da União Europeia e do Brasil. Brasília: Editora UnB, 2007.
+______. Dinâmica regional e ordenamento do território brasileiro: desafios e 
+oportunidades. Belo Horizonte: UFMG; Cedeplar, 2013. (T exto para Discussão, n. 471).
+DINIZ, C. C.; CROCCO, M. A. Reestruturação econômica e impacto regional: o novo 
+mapa da indústria brasileira. Nova Economia, Belo Horizonte, v. 6, n. 1, jul. 1996.
+DINIZ, C. C.; LEMOS, M. B. Economia e território. Belo Horizonte: Editora 
+UFMG, 2005.
+FERNÁNDEZ, V . R.; BRANDÃO, C. Escalas y políticas del desarrollo regional: 
+desafios para América Latina. Buenos Aires: Miño y Dávila Editores, 2010.
+FILHO, E. T . T .; PUGA, F . P . Perspectivas do investimento 2007/2010. Rio de 
+Janeiro: BNDES, 2007.
+GALINDO, E. Por uma geografia para o planejamento e a ação governamental. 
+Boletim Regional, Urbano e Ambiental, Brasília, jan./jun. 2016.
+GUIMARÃES NETO, L. A experiência brasileira de planejamento regional na 
+perspectiva do Nordeste. In: HOLTHUS, M. et al. A política regional na era da 
+globalização. São Paulo: Konrad-Adenauer-Stiftung, 1996.
+______. Antecedentes e evolução do planejamento territorial no Brasil. In: FAVARETO, 
+A. et al. Políticas de desenvolvimento territorial rural no Brasil: avanços e desafios. 
+Brasília: IICA, 2010. (Série Desenvolvimento Rural Sustentável, v. 12).
+Dinâmicas e Transformações Territoriais Recentes: o papel da PNDR e das políticas 
+públicas não regionais com impacto territorial
+ | 185
+IBGE – INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. 
+Regiões de influência das cidades 2007. Rio de Janeiro: IBGE, 2008.
+IPEA – INSTITUTO DE PESQUISA ECONÔMICA APLICADA. Políticas de 
+desenvolvimento territorial no Brasil: reflexões sobre a experiência do período 
+2000-2012 e propostas de aperfeiçoamento. Brasília: Ipea, 2016.
+MACEDO, F . C.; PIRES, M J. S.; SAMPAIO, D. P . 25 anos de Fundos Constitucionais 
+de Financiamento: avanços e desafios à luz da PNDR. In: ENCONTRO NACIONAL 
+DE ECONOMIA POLÍTICA, 20., 2015, Foz do Iguaçu, Paraná. Anais... Foz do 
+Iguaçu: UNILA, 2015.
+MENDES, C. C.; MONTEIRO NETO, A. Planejamento, instrumentos e resultados: 
+a (in)compatibilidade de políticas para o desenvolvimento do Nordeste. Cadernos 
+do Desenvolvimento, Rio de Janeiro, v. 7, n. 10, p. 43-82, jan./jun. 2012.
+MONASTERIO, L. M.; NERI, M. C.; SOARES, S. S. D. Brasil em 
+desenvolvimento: Estado, planejamento e políticas públicas. Brasília: Ipea, 2014.
+MONTEIRO NETO, A. Mecanismos de financiamento do desenvolvimento regional. 
+In: MONTEIRO NETO, A. (Coord.). Brasil em desenvolvimento 2011: Estado, 
+planejamento e políticas públicas. Brasília: Ipea, 2012a.
+______. Brasil em desenvolvimento 2011: Estado, planejamento e políticas 
+públicas. Brasília: Ipea, 2012b.
+MONTORO, G. C. F . et al. Um olhar territorial para o desenvolvimento: Sul. 
+Rio de Janeiro: BNDES, 2014.
+NEGRI, F . de; ALMEIDA, M. Estrutura produtiva avançada e regionalmente 
+integrada: desafios do desenvolvimento produtivo brasileiro. Brasília: Ipea, 2010. v. 1.
+OECD – ORGANISATION FOR ECONOMIC CO-OPERATION AND 
+DEVELOPMENT . How regions grow: trend and analysis. Paris: OECD, 2009.
+______. Regions matter: economic recovery, innovation and sustainable growth. 
+Paris: OECD, 2010.
+PÊGO, B.; CAMPOS NETO, C. A. S. O PAC e o setor elétrico: desafios para o 
+abastecimento do mercado brasileiro (2007-2010). Brasília: Ipea, fev. 2008. (T exto 
+para Discussão, n. 1329). 
+PEREIRA, R. H. M.; FURTADO, B. A. Dinâmica urbano-regional: rede urbana 
+e suas interfaces. Brasília: Ipea, 2011. 
+PIKE, A.; RODRIGUEZ-POSE, A.; TOMANEY, J. What kind of local and 
+regional development and for whom? Regional Studies, Cambridge, v. 41, n. 9, 
+p. 1253-1269, 2007.
+Desenvolvimento Regional no Brasil: políticas, estratégias e perspectivas
+186 | 
+PORTUGAL, R. et al. Ensaios sobre uma política regional em (na) crise. In: ENCONTRO 
+NACIONAL DE ECONOMIA POLÍTICA, 21., 2016, São Bernardo do Campo, 
+São Paulo. Anais... São Bernardo do Campo: UFABC, 2016.
+PORTUGAL, R.; SILVA, S.; MOURÃO, K. Fundo de Desenvolvimento da 
+Amazônia (FDA): análise do esforço fiscal por meio de indicadores de desempenho. 
+Cadernos CEPEC, v. 4, p. 1-17, 2015.
+REZENDE, F . A guerra fiscal e o abismo federativo. Boletim Regional, Urbano 
+e Ambiental, Brasília, jan./jun. 2016.
+RIGOTTI, J. I. R.; CAMPOS, J.; HADAD, R. Migrações internas no Brasil: 
+(des)continuidades regionais à luz do censo demográfico 2010. In: ENCONTRO 
+NACIONAL SOBRE MIGRAÇÕES, 9., 2015, Campinas, São Paulo. Anais. 
+Campinas: NEPO; Unicamp, 2015.
+SOUZA, P . Brasil, sociedade em movimento. São Paulo: Paz e T erra; Rio de 
+Janeiro: Centro Celso Furtado, 2015.
+WERNER, D. Estado, capitais privados e territórios no processo de 
+reconfiguração do setor elétrico brasileiro pós-1990. 2016. T ese (Doutorado) 
+Instituto de Pesquisa e Planejamento Urbano e Regional, Universidade Federal do 
+Rio de Janeiro, Rio de Janeiro, 2016.

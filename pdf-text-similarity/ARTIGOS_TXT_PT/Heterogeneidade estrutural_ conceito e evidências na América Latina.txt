@@ -1,0 +1,186 @@
+ 
+_______________________________________________________________________________________ 
+___________________________________________________________________________________65 
+Economia & Tecnologia – Ano 06, Vol. 21 – Abril/Junho de 2010 
+Heterogeneidade estrutural: conceito e evidências na América Latina 
+ 
+Gabriel Porcile* 
+  
+RESUMO - A heterogeneidade estrutural é uma antiga preocupação das teorias do 
+desenvolvimento. Neste artigo apresentam -se brevemente o marco teórico em que a 
+persistência da heterogeneidade pode ser entendida e algumas evidências para América Latina. 
+Argumenta-se em favor de políticas de mudança estrutural para reduzir a heterogeneidade no 
+longo prazo. 
+ 
+Palavras-chave: heterogeneidade estrutural. mudança tecnológica. 
+ 
+O conceito de heterogeneidade estrutural foi desenvolvido pela CEPAL para 
+explicar porque as economias em desenvolvimento mostram níveis extremamente elevados de 
+subemprego e de assimetrias na produtividade do trabalho, tanto entre setores como no 
+interior dos mesmos. É importante mencionar que diferenças de produtividade são normais e 
+existem em todas as economias. Alguns setores mostram maior dotação de capital e 
+intensidade da inovação; a produtividade é, portanto, maior e tende a crescer a taxas mais altas 
+do que no resto da economia. A geração de vantagens via inovação e oligopólios é nor mal no 
+capitalismo ( SCHUMPETER, 1934). Mas o que singulariza as economias em 
+desenvolvimento é o fato de que a magnitude das assimetrias de produtividade é muito mais 
+elevada e persistente, e atinge a uma maior parcela da força de trabalho ( PINTO, 1965, 1970, 
+1978; RODRIGUEZ, 2007; INFANTE e SUNKEL, 2009; CIMOLI and PORCILE, 2009).   
+Como se origina a heterogeneidade? Inicialmente, existem duas economias idênticas. 
+Num certo momento (por razões que não é o caso discutir, mas nas quais, como dizem os 
+economistas, a história importa), uma delas acelera sua taxa de inovação, o que se traduz em 
+mudança estrutural e diversificação produtiva. A tecnologia gradualmente se difunde ao 
+conjunto do sistema de forma que surge uma economia homogênea (níveis similares de 
+produtividade do trabalho) e diversificada (existem numerosos setores ou ramas produtivas).  
+Na outra economia, o progresso técnico penetra de forma muito parcial e apenas 
+nos setores mais vinculados à exportação. A estrutura que emerge nesse contexto é 
+heterogênea (partes importantes do emprego permanecem em níveis próximos à subsistência) 
+                                                           
+* Mestre em Ciências Econômicas pela Universidade Estadual de Campinas e PhD pela London School of 
+Economics. Atualmente  é Professor Associado do Departamento de Economia da Universidade Federal do 
+Paraná (UFPR) e Pesquisador do CNPq. Endereço eletrônico: porcile@ufpr.br. 
+ 
+_______________________________________________________________________________________ 
+66___________________________________________________________________________________ 
+Economia & Tecnologia – Ano 06, Vol. 21 – Abril/Junho de 2010 
+e especializada (mínima densidade e integração da matriz produtiva). Essa economia não será 
+capaz de gerar o impulso dinâmico necessário para que se difunda o progresso técnico e para 
+que se gerem empregos em atividades de mais alta produtividade -- que possam 
+eventualmente eliminar a heterogeneidade. 
+A primeira economia (homogênea e diversificada) é o Centro; a segunda 
+(heterogênea e especializada) é a Periferia. A orige m das duas estruturas radica nas diferentes 
+taxas de inovação e difusão de tecnologia – e por trás delas, em diferenças políticas e 
+institucionais. O Gráfico 1 ilustra essas estruturas. No Gráfico 1A se observa que a estrutura 
+do centro tem diversos setores (setores de N=1 até N=N C) e a produtividade muda de forma 
+suave entre eles. A Periferia tem poucos setores (de N=1 até N P, onde N C > NP) e há saltos 
+significativos, degraus qualitativos de produtividade. 
+GRÁFICO 1A – PRODUTIVIDADE DO TRABALHO E ESTRUTURA 
+GRÁFICO 1B -  EMPREGO E DIVERSIFICAÇÃO 
+ 
+VARIÁVEIS 
+ = Produtividade do trabalho  
+E = Participação acumulada no emprego  
+N = Número de setores da economia ordenados segundo níveis decrescentes de produtividade do trabalho  
+NC = Total de setores no centro 
+NP = Total de sectores na periferia  
+EP = Total do emprego nos setores modernos da periferia (o emprego residual 1-Es se aloca na subsistência). 
+NC 
+ 
+NP 
+E=0 
+Centro Periferia 
+E = 1 
+E=0  
+N=1 N=1 
+1-Ep 
+Ep 
+NC 
+ 
+ 
+NC 
+ 
+NP 
+Centro Periferia 
+NC 
+ 
+N=1 
+N=1 
+P 
+C 
+ 
+_______________________________________________________________________________________ 
+___________________________________________________________________________________67 
+Economia & Tecnologia – Ano 06, Vol. 21 – Abril/Junho de 2010 
+No Gráfico 1B se observa a taxa acumulada de emprego (E) por setor: todo o 
+emprego é absorvido nos setores modernos no Centro (E=1 até N C), mas na periferia os 
+setores modernos só absorvem uma parte do emprego total, o resto sendo alocado na 
+subsistência (1-EP).   
+A seguinte tabela, elaborada por Mario Cimoli e Giovanni Stumpo da CEPAL, 
+compara os níveis de heterogeneidade na América Latina e nos Estados Unidos (Tabe la 1). 
+Observa-se que: 
+i) O coeficiente de variação da produtividade do trabalho entre setores é muito mais 
+alto na América Latina que nos Estados Unidos; 
+ii)  Esse coeficiente permanece mais ou menos constante na América Latina e 
+declina um pouco nos Estados Unidos 
+iii) A dispersão relativa da produtividade entre América Latina e os Estados 
+Unidos aumenta entre 1990 e 2008. 
+O Gráfico 1 confirma essa maior dispersão relativa da produtividade na América 
+Latina e aponta ainda um fenômeno preocupante, qual seja a diferenç a crescente entre a 
+produtividade média do trabalho nos Estados Unidos e na América Latina. Assim como 
+existe um hiato de produtividade crescente entre países, também se observa o aumento do 
+hiato entre trabalhadores da América Latina.  
+O tema da heterogen eidade estrutural está recebendo uma atenção cada vez maior 
+por parte dos governos da região. Algumas medidas procuram facilitar o acesso das pequenas 
+e médias empresas, e dos setores atrasados, à tecnologia. Também (ainda timidamente) 
+procura-se qualificar aos trabalhadores. Mas os dados indicam que uma absorção dinâmica do 
+subemprego exige taxas mais elevadas de crescimento e políticas tecnológicas que estimulem 
+o adensamento da matriz produtiva. 
+TABELA 1 – CONVERGÊNCIA INTERNA E PRODUTIVIDADE: AMÉRICA LATINA E EE.UU  
+ 1990 1998 2003 2008 
+Coeficiente de variação da produtividade na América 
+Latina 
+0,94 1,24 1,14 1,05 
+Coeficiente de variação da produtividade nos Estados 
+Unidos 
+0,63 0,67 0,60 0,52 
+Dispersão relativa América Latina/EE.UU. 1,40 1,85 1,89 2,01 
+FONTE: CEPAL (2009), Series históricas de estadísticas económicas 1950 – 2008 y OIT (2009) - Laborsta. 
+Disponível em: <http://laborsta.ilo.org/>. 
+ 
+_______________________________________________________________________________________ 
+68___________________________________________________________________________________ 
+Economia & Tecnologia – Ano 06, Vol. 21 – Abril/Junho de 2010 
+GRÁFICO 1 – PRODUTIVIDADE RELATIVA AMÉRICA LATINA/EE.UU. E COEFICIENTE DE 
+DISPERSÃO DA MESMA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FONTE: CEPAL (2009), Series históricas de estadísticas económicas 1950 – 2008 y OIT (2009) - Laborsta. 
+Disponível em: <http://laborsta.ilo.org/>. 
+ 
+REFERÊNCIAS 
+CEPAL (Comisión Económica para América Latina y el Caribe) , América Latina y el Caribe: 
+Series históricas de estadísticas económicas 1950 -2008, Cuadernos Estadísticos , Nº 37 
+(LC/G.2415-P), Comisión Económica para América Latina y el Caribe (CEPAL), Santiago de 
+Chile 
+CEPAL, PROGRESO TÉCNICO Y CAMBIO ESTRUCTURAL EN AMÉRICA LATINA, 
+Documento de Proyecto, LC/W136, Comisión Económica para América Latina y el Caribe 
+(CEPAL), Santiago de Chile. 
+CIMOLI, M. and PORCILE, G. Sources of Learning Paths and Technological Capabilities: 
+An Introductory Roadmap of Development Processes, Economics of Innovation and New 
+Technology, 1476-8364, Volume 18, Issue 7, 2009, Pages 675 – 694 
+INFANTE R. y O. SUNKEL, Chile: hacia un desarrollo inclusivo, Revista de la CEPAL , 
+Nº 97, Comisión Económica para América Latina y el Caribe (CEPAL), Santiago de Chile. 
+OIT - Laborsta Internet. Disponível em: <http://laborsta.ilo.org>. 
+PINTO, A. Notas sobre los estilos de desarrollo en América Latina, Revista de la CEPAL , 
+Nº 1, Santiago de Chile, primer semestre 
+PINTO, A. Naturaleza e implicaciones de la heterogeneidad estructural de la America Latina. 
+FCE, México. 
+PINTO, A. Concentración del progreso técnico y de sus frutos en el desarrollo 
+latinoamericano. Trimestre Económico. Enero-marzo. FCE, México. 
+RODRÍGUEZ, O. El Estructuralismo Latinoamericano. México: Siglo XXI. 
+SCHUMPETER, J.A. The Theory of E conomic Development , Cambridge, Harvard 
+University Press. 
+70 
+90 
+110 
+130 
+150 
+170 
+190 
+210 
+230 
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 
+PRD relativa Coef dispersão 

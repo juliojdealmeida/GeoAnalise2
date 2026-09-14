@@ -1,0 +1,1240 @@
+Revista de Desenvolvimento Econômico – RDE - Ano XIX – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+TEORIAS DO DESENVOLVIMENTO REGIONAL E LOCAL: UMA 
+REVISÃO BIBLIOGRÁFICA 
+J
+ulio Cesar Bellingieri1 
+RESUMO 
+No Brasil, a partir da década de 1990, e mais intensamente nos anos 2000, a relativa 
+estabilidade macroeconômica, aliada à emergência do paradigma do desenvolvimento 
+endógeno (relacionado à valorização do local) impulsionaram o ressurgimento da temática 
+do desenvolvimento regional/local, com a proliferação de programas de Pós-graduação em 
+desenvolvimento e a difusão de políticas e estratégias governamentais voltadas à sua 
+promoção. Este artigo, de caráter descritivo, objetiva construir uma revisão bibliográfica das 
+principais abordagens teóricas sobre desenvolvimento, centrando-se nas que tratam o 
+desenvolvimento em sua escala regional e local, bem como discutir as principais limitações 
+destas teorias. São apresentadas as Teorias Clássicas da Localização, as Teorias do 
+Desenvolvimento Regional (Base de Exportação, Causação Circular Cumulativa, 
+Desenvolvimento Desigual e Transmissão Inter-regional do Crescimento, Polos de 
+Crescimento) e as principais abordagens de Desenvolvimento Local, vinculadas ao 
+paradigma do desenvolvimento endógeno (Nova Teoria do Crescimento, Distrito Industrial, 
+Milieu Innovateur, Cluster, Capital Social, Cidade Criativa). Dadas as limitações das teorias 
+do desenvolvimento, conclui-se pela impossibilidade de uma teoria geral, que dê conta de 
+explicar exatamente por que ele surge. 
+Palavras-chave: Economia Regional; Desenvolvimento Regional; Desenvolvimento Local; 
+Desenvolvimento Endógeno. 
+THEORIES OF LOCAL AND REGIONAL DEVELOPMENT: A BIBLIOGRAPHIC REVIEW 
+ABSTRACT 
+In Brazil, from the 1990s onward and most intensely in the 2000s, the relative 
+macroeconomic stability coupled with the emergence of the endogenous development 
+paradigm (related to the valorization of the local) drove the resurgence of the local/regional 
+development theme, which comes with the rapid increase of graduate programs in 
+development and with the dissemination of government policies and strategies that focus on 
+the promotion of this theme. This article is a descriptive study that aims to present a 
+bibliographic review of the main theoretical approaches on development, with particular 
+emphasis on the ones that deal with development in its local and regional scale, and we also 
+discuss here the main limitations of these theories. We present the Classical Location 
+Theories, the Regional Development Theories (Export Base, Circular and Cumulative 
+Causation, Unbalanced Growth, Growth Poles), and the main approaches on Local 
+Development, which are connected to the paradigm of endogenous development (New 
+Growth Theory, Industrial District, Milieu Innovateur, Cluster, Social Capital, Creative City). In 
+light of the limitations of the development theories, one may conclude that a general theory is 
+impossible for the explanation of the reasons why it emerges. 
+Keywords: Regional Economics; Regional Development; Local Development; Endogenous 
+Development. 
+JEL: R58; R11; R28; R38. 
+1 Mestre em Economia e Doutor em Geografia – UNESP. E-mail: julio@asbyte.com.br 
+DOI: http://dx.doi.org/10.21452/rde.v2i37.4678
+
+| 7 |..........................................................| Julio Cesar Bellingieri |.........................................................| 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+1 INTRODUÇÃO 
+Existe vasta literatura que discute o fenômeno do d esenvolvimento – o que é, 
+como e por que ocorre, e como (e se) pode ser medid o – a partir de inúmeras 
+abordagens, teorias e modelos, em diversas áreas do  conhecimento – Economia, 
+Geografia, Sociologia, História, etc. – e nas diver sas escalas territoriais – 
+continental, nacional, regional ou local –, como, p or exemplo, nas discussões sobre 
+as origens do predomínio econômico do Ocidente sobr e o resto do mundo 
+(MCNEILL, 1963; NORTH; THOMAS, 1973), sobre o atras o econômico da América 
+Latina (PREBISCH, 2000), sobre a ascensão e queda d as grandes potências 
+(KENNEDY, 1994), a respeito da riqueza e da pobreza  dos países (LANDES, 1998) 
+e sobre o desempenho de regiões (BENKO; LIPIETZ, 19 94) e cidades (FLORIDA, 
+2003). 
+Conforme disse Furtado (1980, p. 26), “a reflexão s obre o desenvolvimento, 
+ao conduzir a uma progressiva aproximação da teoria  da acumulação com a teoria 
+da estratificação social e com a teoria do poder, c onstitui-se em ponto de 
+convergência das distintas ciências sociais”. Ao me smo tempo, conforme defende 
+Brandão (2010, p. 9), nenhum campo disciplinar, iso ladamente, dará conta 
+minimamente da riqueza de determinações do complexo  processo do 
+desenvolvimento, sendo que “a busca de uma teoria g eral e com algum nível de 
+abstração será ou inútil ou impossível”. 
+Sunkel (2001) aponta que, na América Latina, a temática do desenvolvimento, 
+desaparecida a partir da década de 1970, em função do declínio do sistema 
+financeiro internacional, das recessões com inflaçã o e das crises do petróleo e da 
+dívida externa, voltou ao centro das atenções a par tir da década de 1990, em razão 
+de alguns países terem obtido conquistas macroeconô micas importantes, embora 
+insuficientes e frágeis. 
+O Brasil enquadra-se neste processo: a busca do desenvolvimento, associada 
+à industrialização, que dominou o pensamento e a po lítica econômica nacional entre 
+as décadas de 1950 e 1970, desapareceu da agenda pú blica nos anos de 1980 e 
+início de 1990, pela prioridade a problemas macroec onômicos (principalmente a 
+inflação); mas a relativa estabilização monetária o btida em meados da década de 
+1990 abriu caminho para a discussão de questões mai s estruturais da economia, 
+|........................................| Teorias do desenvolvimento regional e local... |.....................................| 8 | 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+tais como a distribuição de renda e o desenvolvimen to, e este voltou a ocupar lugar 
+de destaque. 
+A partir do final da década de 1990 e mais intensam ente nos anos 2000, a 
+emergência do paradigma do desenvolvimento endógeno  (relacionado à valorização 
+do local e dos atores locais, à ideia de protagonis mo das cidades e ao 
+desenvolvimento de baixo para cima , em contraposição ao de cima para baixo ) 
+reconduziu o desenvolvimento regional/local como te ma relevante, contribuindo para 
+a proliferação e a interiorização de Programas de P ós-Graduação em 
+desenvolvimento 2 (com numerosas pesquisas), bem como a difusão de p olíticas e 
+estratégias governamentais voltadas à promoção do d esenvolvimento, nas escalas 
+regional e municipal.  
+Este artigo tem os objetivos de construir uma revis ão bibliográfica das 
+principais abordagens teóricas sobre desenvolviment o, centrando-se nas que tratam 
+o desenvolvimento em sua escala regional e local, e  discutir as principais limitações 
+destas teorias. 
+Cabe destacar que d esenvolvimento local  não é sinônimo de desenvolvimento 
+municipal . O desenvolvimento local, conceito identificado co m o paradigma do 
+desenvolvimento endógeno, não se refere a uma escal a geográfica determinada, 
+mas, sim, a um território socialmente construído, p odendo, portanto, remeter tanto 
+ao desenvolvimento de uma cidade quanto ao de um gr upo de cidades ou ao de 
+uma região, embora muitas vezes acabe sendo utiliza do como sinônimo de 
+desenvolvimento de cidades. 
+O artigo é descritivo, efetuado por meio de pesquis a bibliográfica de teses e 
+artigos, nacionais e internacionais, que tratam de teorias de desenvolvimento, sob 
+enfoque regional, numa abordagem qualitativa. 
+O artigo divide-se em cinco seções, incluindo esta Introdução. A seção 2 trata 
+brevemente o que é o desenvolvimento, descrevendo c omo seu conceito variou ao 
+                                                 
+2 Em setembro de 2016, existiam em funcionamento no Brasil 108 Programas de Pós-Graduação 
+cujos títulos contêm a palavra desenvolvimento  (excetuando-se os referentes a desenvolvimento de 
+tecnologia , desenvolvimento de medicamentos  e psicologia do desenvolvimento ), reconhecidos pela 
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Destes, 69 (64% do total) 
+foram criados nos últimos 10 anos (a partir de 2007), e 40 (37% do total), criados nos últimos 5 anos 
+(a partir de 2012). Dos 39 Programas existentes até  2006, 15 (38%) estavam localizados fora das 
+capitais, enquanto, dos 69 Programas criados a part ir de 2007, 45 deles (65%) já não estavam em 
+capitais, mas em municípios do interior do País, en tre eles Juazeiro do Norte (CE), Cruz das Almas 
+(BA), Divinópolis, Passos (MG), Franca, Tupã (SP), Francisco Beltrão (PR), Santa Maria, Taquara 
+(RS), etc. (BRASIL, 2016). 
+ 
+| 9 |..........................................................| Julio Cesar Bellingieri |.........................................................| 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+longo do tempo. As seções 3 e 4 descrevem, respecti vamente, as teorias do 
+desenvolvimento regional e do desenvolvimento local . Finalmente, na seção 5, as 
+Considerações Finais, discutem-se as limitações destas teorias. 
+ 
+2 EVOLUÇÃO DO CONCEITO DE DESENVOLVIMENTO  
+O que é o desenvolvimento? Conceito, ideia, paradig ma, visão, ilusão, utopia, 
+mito, ideologia? Sinônimo de progresso, prosperidad e, crescimento, industrialização, 
+modernização, avanço tecnológico? Segundo Sachs (20 08b, p. 25), “sua 
+multidimensionalidade e complexidade explicam o seu  caráter fugidio”, e, “como 
+seria de se esperar, o conceito tem evoluído durant e os anos, incorporando 
+experiências positivas e negativas, refletindo as m udanças nas configurações 
+políticas e as modas intelectuais”.  
+Alguns autores, como Escobar (2007) e Esteva (2000), consideram o discurso 
+de posse do presidente dos EUA, Harry Truman, proferido em 20 de janeiro de 1949, 
+a inauguração do desenvolvimento enquanto conceito ideológico, quando ele se 
+referiu a áreas subdesenvolvidas . A partir daí, fundou-se a divisão do mundo entre 
+países desenvolvidos  e subdesenvolvidos , e preconizou-se a “necessidade” de os 
+países subdesenvolvidos almejarem o modelo de desen volvimento dos países 
+industrializados, para o que deveriam adotar políti cas voltadas ao crescimento 
+econômico e à industrialização. Assim, o desenvolvimento passou a ser determinado 
+pela industrialização, e era sinônimo de cresciment o econômico, medido por um 
+indicador de atividade econômica, o PIB per capita (LATOUCHE, 2000). 
+Mas, já a partir da década de 1960, houve uma guina da nos estudos sobre 
+desenvolvimento, de uma abordagem centrada exclusiv amente no padrão de vida , 
+associado ao nível de consumo, para uma abordagem que enfatizava os indicadores 
+sociais , levando também em conta o bem-estar da população (VITTE et al., 2002). 
+Assim, nas décadas de 1960 e 1970, já se pode consi derar a existência de um 
+conceito de desenvolvimento social  (ou socioeconômico ), com ênfase na questão da 
+pobreza. 
+Mas foi a emergência da problemática ambiental, no final dos anos 60 e início 
+dos 70, a responsável pela primeira grande mutação do conceito de 
+desenvolvimento. Sachs (2000) explica que, depois d o entusiasmo pelo crescimento 
+econômico das décadas de 40 e 50 e da descoberta da s necessidades básicas nos 
+|........................................| Teorias do desenvolvimento regional e local... |.....................................| 10 | 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+anos 60, a sobrevivência do planeta, a partir dos a nos 70, tornou-se o novo frenesi 
+do desenvolvimento. 
+Assim, em 1973, surgiu o conceito de ecodesenvolvim ento. Mas, como ele 
+pressupunha a estagnação voluntária do crescimento econômico como forma de 
+atenuar as agressões contra o ambiente, não teve bo a aceitação, abrindo caminho 
+para o surgimento e a consolidação, a partir de 198 7, do paradigma do 
+desenvolvimento sustentável, que recomendava o cres cimento econômico como 
+forma de se reduzir a pobreza e, por consequência, os problemas ambientais 
+(SACHS, 2000). 
+Em fins da década de 1980, o Programa das Nações Un idas para o 
+Desenvolvimento (PNUD), da ONU, dedicava-se à criaç ão de um indicador sintético 
+que representasse, por si só, o desenvolvimento. Em  1990, foi lançado o Primeiro 
+Relatório sobre o Desenvolvimento Humano do PNUD qu e, inspirado nas 
+contribuições teóricas de Sen (2000), defendia que o crescimento da riqueza 
+econômica não é a finalidade última do desenvolvime nto, mas um meio para se 
+ampliarem as capacidades dos indivíduos, entre elas  um nível de vida decente, 
+acesso à educação e uma vida longa e saudável (UNIT ED NATIONS 
+DEVELOPMENT PROGRAMME, 1990). 
+Nesse relatório, é lançado o Índice de Desenvolvime nto Humano (IDH) – 
+calculado a partir de três indicadores, relacionado s à renda, saúde e educação –, 
+que se tornou uma medida de desenvolvimento bastant e aceita, adaptada por 
+muitos países para uso nacional, inaugurando e inst itucionalizando, assim, o 
+paradigma do desenvolvimento humano. 
+Já a partir dos anos 2000, inspirados em estudos qu e revelaram 
+discrepâncias entre a riqueza e a percepção de bem- estar da população, alguns 
+autores, como Veenhoven (2000), têm defendido que i ndicadores objetivos não 
+seriam suficientes para tratar de questões como qua lidade de vida e satisfação de 
+uma população. Propõem, assim, o uso de indicadores  subjetivos (obtidos por meio 
+das próprias declarações/percepções dos indivíduos) para se medir bem-estar e, por 
+consequência, desenvolvimento, inaugurando, assim, o paradigma do 
+desenvolvimento subjetivo. 
+É importante ressaltar que o surgimento de novos co nceitos de 
+desenvolvimento não significa que os anteriores for am abandonados e substituídos. 
+| 11 |..........................................................| Julio Cesar Bellingieri |.........................................................| 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+Pelo contrário, existe uma superposição deles, de m odo a coexistirem atualmente 
+vários paradigmas de desenvolvimento, com maior ou menor grau de prestígio 
+acadêmico, político e popular. 
+ 
+3 TEORIAS DO DESENVOLVIMENTO REGIONAL 
+O desenvolvimento é um tema central da ciência econ ômica, já presente no 
+pensamento dos economistas clássicos, embora repres entado pelas ideias de 
+riqueza, produção, crescimento e progresso. Adam Sm ith, no século XVIII, defendia 
+a especialização (baseada na divisão do trabalho) e  o livre comércio (baseado nas 
+vantagens absolutas de cada país) como a fonte da r iqueza das nações. David 
+Ricardo, no princípio do século XIX, preocupou-se c om a distribuição da riqueza 
+nacional entre capitalistas, trabalhadores e propri etários de terra, tendo também 
+construído o conceito de vantagens comparativas, pe lo qual a competitividade de 
+cada país estaria ligada à sua especialização em fa bricar produtos em que são 
+relativamente mais eficientes (HUNT, 1981). 
+Marshall (1982), no final do século XIX, foi o prim eiro a identificar as 
+vantagens advindas da aglomeração territorial de em presas do mesmo ramo, 
+gerando economias externas, o que lançou as bases p ara as teorias 
+contemporâneas dos distritos industriais e dos clusters . Schumpeter (1982), no 
+começo do século XX, também descreveu o fenômeno fu ndamental do 
+desenvolvimento econômico, a inovação, capitaneada pelo empresário 
+empreendedor. 
+Até meados do século XX, predominava o modelo de cr escimento econômico 
+clássico, pelo qual o crescimento se origina da acu mulação de capital. Neste 
+modelo, a explicação para o desenvolvimento regiona l/local confundia-se com a do 
+desenvolvimento nacional. Os problemas regionais se riam tão somente 
+manifestações espaciais de um desajustamento dos fa tores de produção. Assim, a 
+garantia de livre movimentação dos fatores produtiv os entre as regiões asseguraria 
+o desenvolvimento (BASTOS, 2005). 
+Ainda segundo Bastos (2005), foi a partir dos anos 1950 que surgiu uma 
+preocupação específica com os problemas regionais, cuja análise se desenvolveu 
+sob dois eixos: o das Teorias Clássicas da Localiza ção e o das Teorias do 
+Desenvolvimento Regional. 
+|........................................| Teorias do desenvolvimento regional e local... |.....................................| 12 | 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+As Teorias Clássicas da Localização seguem a tradiç ão da Teoria da 
+Produção da análise microeconômica, tendo Walter Is ard como seu principal autor, 
+fundador da denominada Ciência Regional, que retomo u as contribuições de J. von 
+Thünen, Alfred Weber, Walter Christaller e Auguste Losch. 
+O economista alemão Johann Heinrich von Thünen é co nsiderado o fundador 
+da teoria econômica da localização. Seu modelo, con struído em 1826, supõe a 
+existência de uma cidade isolada, abastecida por fa zendeiros que a circundam, e 
+afirma que, por causa dos custos de transporte até à cidade, a concorrência entre os 
+fazendeiros “levaria a um gradiente de aluguéis de terra que declinaria de um 
+máximo na cidade a zero, no limite mais afastado de  cultivo” (FUJITA; KRUGMAN; 
+VENABLES, 2002, p. 32). 
+Na primeira metade do século XX, geógrafos alemães,  entre os quais Weber, 
+Christaller e Losch, também desenvolveram teorias d a localização, que levavam em 
+conta a disposição geográfica do mercado e os custo s de transporte (FUJITA; 
+KRUGMAN; VENABLES, 2002). 
+Já as Teorias do Desenvolvimento Regional são de in spiração Keynesiana, 
+inseridas na análise macroeconômica, e trazem como elemento comum a existência 
+de uma atividade econômica líder que propaga seu di namismo para os demais 
+setores da economia, gerando o crescimento. Trata-s e do paradigma de cima para 
+baixo , ou centro-abaixo , baseado numa força externa, exógena, que se insta la na 
+região e dá origem ao desenvolvimento. Seus quatro principais modelos são 
+descritos a seguir: 
+a) A Teoria da Base de Exportação afirma que os nív eis de produção e de 
+emprego de uma região dependem de suas atividades e xportadoras, as quais 
+dependem, por sua vez, da procura externa e das van tagens comparativas da 
+região, variáveis que o modelo considera exógenas, isto é, que a região não pode 
+influenciar (POLÈSE, 1998). 
+A economia urbana divide-se em dois setores básicos : endógeno e exógeno. 
+O nível de renda total (ou emprego) numa área urban a é a soma da renda (ou 
+emprego) gerada nestes dois setores. A renda gerada  no setor exógeno depende de 
+eventos sobre os quais a comunidade urbana não tem controle, entre eles o valor 
+das exportações da área para o resto do mundo e o v olume de gastos do governo 
+não local na área. Uma vez que os residentes ganham  essa renda, será gerada uma 
+| 13 |..........................................................| Julio Cesar Bellingieri |.........................................................| 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+demanda local, dentro da comunidade. A geração de r enda (e emprego), que resulta 
+da satisfação desta demanda local, representa o set or endógeno da economia. 
+Assim, uma vez que o nível da atividade do setor en dógeno depende do nível de 
+demanda gerada pelo setor exógeno, conclui-se que a s variações no nível total da 
+atividade econômica devem ser iniciadas pelo setor exógeno da economia urbana 
+(LANE, 1977). 
+O modelo da base de exportação centra-se, portanto,  em dois elementos 
+fundamentais: o dinheiro que entra na região graças  às atividades básicas de 
+exportação e os efeitos de propagação, devido ao im pacto multiplicador desse 
+dinheiro na região; em outras palavras, existem as indústrias de base, que permitem 
+à região “ganhar a vida”, e as atividades de suport e, que derivam da presença das 
+atividades de base. Assim, uma região vive da procura externa e a ela deve adaptar-
+se para sobreviver (POLÈSE, 1998). Por exemplo, Nor th (1977), um dos principais 
+formuladores dessa teoria, demonstrou que todo o de senvolvimento do Pacífico 
+Noroeste dos EUA dependeu, desde o início, de sua c apacidade de produzir artigos 
+exportáveis (trigo, farinha e madeira); 
+b) O modelo de Causação Circular Cumulativa, que te m em Gunnar Myrdal 
+seu principal autor, recorre à ideia de ciclo vicio so (ou virtuoso) para explicar como 
+um processo se torna circular e cumulativo, no qual um fator negativo (ou positivo) é, 
+ao mesmo tempo, causa e efeito de outros fatores ne gativos (ou positivos). Por 
+exemplo, a instalação de uma nova indústria em dete rminada região causará 
+aumento da renda e da demanda local que, por sua ve z, provocará aumento da 
+renda e da demanda nas demais atividades, configura ndo-se um processo de 
+causação circular cumulativa (LIMA; SIMÕES, 2010). 
+ 
+O [...] poder de atração de um centro econômico se origina principalmente 
+em um fato histórico fortuito, isto é, ter-se inici ado ali com êxito um 
+movimento [...]. Daí por diante, as economias inter nas e externas sempre 
+crescentes fortificaram e mantiveram seu cresciment o contínuo às expensas 
+de outras localidades e regiões, onde, ao contrário , a estagnação ou a 
+regressão relativa se tornou a norma (MYRDAL, 1972, p. 52). 
+ 
+ Assim, são os fatores exógenos que movem o sistema  continuadamente, o 
+que justifica a intervenção pública, que poderia co ntrabalançar ou neutralizar a lei de 
+funcionamento do sistema de causação circular, mini mizando as disparidades entre 
+as regiões (LIMA; SIMÕES, 2010); 
+|........................................| Teorias do desenvolvimento regional e local... |.....................................| 14 | 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+c) O modelo de Desenvolvimento Desigual e Transmiss ão Inter-regional do 
+Crescimento, de Albert Hirschman, analisa como o de senvolvimento econômico 
+pode ser transmitido de uma região (ou país) para outra. 
+Segundo a teoria, o desenvolvimento dá-se pela capa cidade de investir ( the 
+ability to invest ), que depende dos setores mais modernos da economi a e do 
+empreendedorismo local. Quanto mais baixo o nível d e desenvolvimento do país, 
+menor será esta capacidade. Dessa forma, as decisõe s de investimento tornam-se a 
+principal questão da teoria sobre o desenvolvimento  e o principal objeto de política 
+econômica (LIMA; SIMÕES, 2010); 
+d) Segundo o modelo dos Polos de Crescimento, basea do em François 
+Perroux e Jacques R. Boudeville, um polo surge a pa rtir do aparecimento de uma 
+indústria motriz (uma unidade econômica ou um conju nto formado por várias dessas 
+unidades), que se desenvolve mais cedo do que as ou tras, cuja taxa de crescimento 
+é mais elevada do que a taxa média de crescimento d a economia como um todo 
+(LIMA; SIMÕES, 2010). 
+Esta indústria motriz funciona como agente de dinam ização da vida regional, 
+atraindo outras indústrias, criando aglomeração pop ulacional e estimulando a 
+criação de atividades primárias, fornecedoras de al imentos e matérias-primas, e 
+terciárias, proporcionais às necessidades da popula ção que se instala em seu 
+entorno (SILVA, 2004). 3 
+ 
+4 TEORIAS DO DESENVOLVIMENTO LOCAL 
+Bastos (2005) descreve as transformações ocorridas nas décadas de 1970 e 
+1980, que culminaram na emergência do desenvolvimen to endógeno, um novo 
+paradigma de desenvolvimento. Segundo a autora, nes se período, ocorreu uma 
+grande reestruturação econômica, social e política,  marcada pela passagem do 
+modelo da grande empresa industrial fordista, basea da nas economias de escala, 
+para um modelo de acumulação flexível, baseado na e letrônica e na informática, e 
+caracterizado pela redução do tamanho das plantas i ndustriais e pela 
+                                                 
+3 Jesus e Spinola (2015) resumiram algumas das princ ipais críticas à teoria dos Polos de 
+Crescimento, feitas por diversos autores, entre as quais: a) a imprecisão na definição do que seja 
+um polo de crescimento; b) o questionamento se um p olo de crescimento é uma entidade “natural” 
+(derivada de uma economia de mercado) ou se foi fom entado por medidas de política econômica; c) 
+o equívoco de se considerar que um polo de crescime nto geraria automaticamente o 
+desenvolvimento regional. 
+ 
+| 15 |..........................................................| Julio Cesar Bellingieri |.........................................................| 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+desverticalização e terceirização da produção, com o consequente aumento da 
+proximidade entre as empresas, formando redes entre produtores e fornecedores. 
+Ainda de acordo com a autora, no regime de acumulaç ão fordista, a ideia de 
+desenvolvimento regional ou local não era prioritár ia, pois o desenvolvimento era 
+pensado em termos nacionais, sendo conduzido pelos governos centrais. As 
+políticas de desenvolvimento caracterizavam-se pela  industrialização pesada, 
+centralizada nas grandes empresas, localizadas prio ritariamente nas metrópoles 
+nacionais. As grandes empresas não eram pensadas no plano do local, mas, sim, no 
+marco da economia nacional. O local, visto como dep ositário de recursos e 
+atividades, somente importava enquanto suporte do d esenvolvimento da economia 
+nacional. 
+Já a partir do modelo da acumulação flexível, a ide ia de desenvolvimento 
+local começou a tornar-se prioritária, e os governos centrais transferiram a tarefa das 
+políticas de desenvolvimento regional e local para as instâncias inferiores (estados e 
+municípios). Assim, se no fordismo a escala espacia l dominante era a nacional 
+(mercado nacional), na acumulação flexível há certa  polarização entre duas escalas 
+que se articulam, a escala global (mercado mundial)  e a escala local (BASTOS, 
+2005). 
+Por isso, a partir da década de 1980, surgiu o para digma do desenvolvimento 
+endógeno, segundo o qual o desenvolvimento não seri a determinado pelo 
+funcionamento das livres forças do mercado ou pelas  políticas de planejamento 
+territorial oriundas do poder central, mas, sim, po r aspectos intrínsecos ao local, ao 
+território, e pela sua capacidade de usar suas pote ncialidades de forma a conectar-
+se ao sistema econômico global. Este paradigma cont rapõe-se ao modelo de 
+desenvolvimento em estágios, de Rostow (1978), reje itando a necessidade de uma 
+imitação mecânica das sociedades industriais e valo rizando as especificidades de 
+cada território (FERNANDES, 2010). 
+E, ao contrário dos modelos neoclássicos de crescim ento (que incorporam o 
+progresso técnico como o motor do crescimento, mas consideram-no exógeno, 
+determinado fora do modelo, independentemente da in tervenção dos agentes 
+econômicos), esta endogeneização das teorias do des envolvimento (AMARAL 
+FILHO, 2001), ao fazer com que o progresso técnico passe a ser considerado como 
+|........................................| Teorias do desenvolvimento regional e local... |.....................................| 16 | 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+endógeno, abre possibilidades para os territórios r egionais e locais adotarem 
+políticas ativas de desenvolvimento.  
+Benko (2001) afirma que a crescente internacionaliz ação da atividade 
+econômica e a redefinição das funções clássicas do Estado modificam as escalas 
+territoriais, fortalecendo os níveis de ação locais  e regionais, elegendo as regiões e 
+lugares como fontes de vantagens concorrenciais e o s atores locais como 
+determinantes da competitividade das atividades eco nômicas. Esta nova paisagem 
+econômica forma um “mosaico de regiões”. 
+Vásquez Barquero (2001, p. 38) segue na mesma direç ão, ao dizer que, num 
+contexto de globalização, caracterizado por transfo rmações econômicas, 
+organizacionais, tecnológicas e institucionais, e e m que o Estado cede seu papel de 
+protagonista e sua liderança às empresas inovadoras , surge a ideia do 
+desenvolvimento endógeno, segundo a qual “o sistema  produtivo dos países se 
+expande e se transforma pela utilização do potencia l de desenvolvimento existente 
+no território (nas regiões e cidades), mediante os investimentos realizados por 
+empresas e agentes públicos e sob o crescente controle da comunidade local”. 
+Vale (2007) enfoca o protagonismo das cidades, que se afirmaram como o 
+locus  da globalização. Segundo o autor, dada a tendência  da redução da função do 
+Estado-nação, elas passaram a ter papel renovado na s estruturas territoriais de 
+poder, funcionando como motores da economia. 
+Castells e Borja (1996, p. 152) ilustram esse argum ento com exemplos de 
+cidades pelo mundo que emergiram como atores políti cos e econômicos 
+(promovendo transformações urbanísticas, atraindo i nvestimentos, promovendo o 
+turismo e grandes eventos, etc.), passando a adquir ir, cada vez mais, um forte 
+protagonismo e assumindo “definitivamente centralid ade na criação e na 
+dinamização de bens simbólicos e no bem-estar de sua população”. 
+ 
+As políticas de planejamento territorial, ao encarg o do poder central até os 
+anos oitenta, foram delegadas às coletividades loca is territoriais. O 
+"desenvolvimento local" substitui a partir de então  o desenvolvimento "de 
+cima". Não há territórios em crise, há somente territórios  sem projeto", 
+declarou em 1997 o ministro francês do Aménagement du Territoire . Esta 
+abordagem tornou-se incontornável tanto em economia  quanto em política. 
+A consideração de fatores locais nas dinâmicas econ ômicas aparece hoje 
+como uma evidência e uma imperiosa necessidade (BEN KO; PECQUEU, 
+2001, p. 37). 
+ 
+| 17 |..........................................................| Julio Cesar Bellingieri |.........................................................| 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+Assim, pode-se dizer que o local  (a cidade, a região), a partir da década de 
+1980, vai emergindo como o novo protagonista do des envolvimento, o que levou 
+Pires, Müller e Verdi (2006) a afirmarem que o dese nvolvimento territorial local se 
+constitui no paradigma mais recente do desenvolvimento. 
+Para os modelos de desenvolvimento endógeno, o desenvolvimento territorial: 
+ 
+É um processo de mudança social de caráter endógeno  [...] e que possa 
+conduzir de forma integrada e permanente a mudança qualitativa e a 
+melhoria do bem-estar da população de uma localidad e ou uma região. Nas 
+estratégias competitivas da globalização, o desenvo lvimento territorial é 
+dinamizado por expectativas dos agentes econômicos nas vantagens 
+locacionais, no qual o território é o ator principa l do desenvolvimento 
+econômico regional, e as políticas, as organizações , as instituições e a 
+governança são recursos específicos, a um só tempo disponível ou a ser 
+criados; quando disponível, tratar-se-ia de sua dif usão no território; quando 
+ausente, de sua criação (invenção e inovação). Dest a forma, o 
+desenvolvimento territorial é o resultado de uma aç ão coletiva intencional de 
+caráter local, um modo de regulação territorial, po rtanto uma ação 
+associada a uma cultura, a um plano e instituições locais, tendo em vista 
+arranjos de regulação das práticas sociais (PIRES; MÜLLER; VERDI, 2006, 
+p. 448). 
+ 
+Assim, em oposição aos modelos oriundos das teorias  do Desenvolvimento 
+Regional, exógenos, de cima para baixo , o desenvolvimento endógeno supõe o 
+território como fator estratégico de desenvolviment o, que parte das potencialidades 
+socioeconômicas originais do local, enraizadas nas condições locais, de baixo para 
+cima.  O desenvolvimento poderia ser alcançado não pela c apacidade do território 
+em atrair atividades econômicas dinâmicas, mas, sim , por gerar internamente estas 
+atividades; os atores locais ampliam sua base de de cisões autônomas, podendo até 
+criar ou antecipar um acidente histórico  positivo, ou seja, tendo em suas mãos os 
+destinos da economia local ou regional (AMARAL FILHO, 2001). 
+Por isso, “o território é um agente de transformaçã o e não mero suporte dos 
+recursos e das atividades econômicas, uma vez que h á interação entre as empresas 
+e os demais atores, que se organizam para desenvolv er a economia e a sociedade” 
+(VÁZQUEZ BARQUERO, 2001, p. 39). O território deixa  de ser meramente o palco 
+onde se desenrolam as atividades econômicas, para s er o protagonista da geração 
+do desenvolvimento. 
+O paradigma do desenvolvimento endógeno desdobra-se  em várias 
+abordagens, as principais delas descritas a seguir: 
+|........................................| Teorias do desenvolvimento regional e local... |.....................................| 18 | 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+a) De acordo com a Nova Teoria do Crescimento, form ulada por Paul 
+Krugman, principal autor da Nova Geografia Econômic a 4, uma concentração 
+geográfica surge da interação entre os rendimentos crescentes, os custos de 
+transporte e a demanda (KRUGMAN, 1992), e está fort emente relacionada à 
+história, ou, mais especificamente, a acidentes históricos , ideia semelhante ao fato 
+histórico fortuito  de Myrdal. 
+ 
+Se as economias de escala são suficientemente grand es, cada fabricante 
+prefere abastecer o mercado nacional a partir de um  único local. Para 
+minimizar os custos de transporte, elege uma posiçã o espacial que permita 
+contar com uma demanda local grande. Mas a demanda local será grande, 
+precisamente na área onde a maioria dos fabricantes  elegem situar-se. 
+Deste modo existe um argumento circular que tende a  manter a existência 
+do Cinturão Industrial uma vez que este tenha sido criado (KRUGMAN, 
+1992, p. 20). 
+ 
+A Nova Geografia Econômica preocupa-se em fornecer fundamentos 
+microeconômicos para explicar as aglomerações econô micas, e é considerada por 
+seus principais autores uma continuação (ou mesmo u ma validação) da Ciência 
+Regional de Isard (FUJITA; KRUGMAN; VENABLES, 2002); 
+b) O Distrito Industrial representa uma “evolução” em relação ao modelo de 
+produção tradicional fordista, pois supõe um aglome rado de pequenas e médias 
+empresas, funcionando de maneira flexível e estreit amente integradas entre si e o 
+ambiente social e cultural, alimentando-se de intensas economias externas formais e 
+informais (PIORE; SABEL, 1984). 
+Conforme já salientado neste artigo, a noção de Dis trito Industrial deriva de 
+Marshall (1982). Mas o conceito foi aprimorado a pa rtir da década de 1970, quando 
+diversos autores se voltaram para o fenômeno do cre scimento de pequenas e 
+médias empresas, de variados setores (entre os quai s calçados, cerâmica, têxtil, 
+máquinas), que funcionavam num alto nível de coordenação cooperativa, localizadas 
+na região denominada de Terceira Itália (Centro e Nordeste daquele país). 
+Um Distrito Industrial não é uma concentração volun tária ou planejada. “Pelo 
+contrário, as empresas enraízam-se no território e não é possível conceituar este 
+fenômeno sem ter em conta sua evolução histórica” (BECATTINI, 1994, p. 21); 
+                                                 
+4 Uma síntese da Nova Geografia Econômica é feita po r Fujita, Krugman e Venables (2002), e, uma 
+análise crítica desta corrente, por Ruiz (2003). 
+ 
+| 19 |..........................................................| Julio Cesar Bellingieri |.........................................................| 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+c) O Milieu Innovateur (Ambiente Inovador), de inspiração Schumpeteriana 5, 
+confere papel determinante e certa autonomia às ino vações tecnológicas. Uma 
+região pode estar orientada tanto para as vantagens  adquiridas quanto para a 
+renovação ou para a criação de recursos, e as que o ptam pelas vantagens 
+adquiridas, ou dadas, estarão candidatando-se ao de clínio econômico, enquanto as 
+que optam pelas conquistas de novas vantagens estar ão mais próximas do sucesso 
+ou da sobrevivência. 
+Assim, para esta abordagem, a chave para o desenvol vimento encontra-se na 
+“capacidade de os atores de um determinado milieu , ou região, compreenderem as 
+transformações que estão ocorrendo em sua volta, no  ambiente tecnológico e no 
+mercado, para que eles façam evoluir e possam trans formar seu ambiente” 
+(AMARAL FILHO, 2001, p. 275); 
+d) O Cluster é uma espécie de síntese das duas abordagens anterior es, mais 
+abrangente não apenas porque incorpora aspectos des tas abordagens, mas porque 
+não fica restrito às pequenas e às médias empresas (AMARAL FILHO, 2001). 
+Para Michael Porter (1993), principal autor desta a bordagem, a 
+competitividade de um país é oriunda da competitivi dade de empresas localizadas 
+em concentrações geográficas dentro desse território, que compartilham, em grupos, 
+as externalidades positivas decorrentes de economia s de aglomeração (SILVA, 
+2004). Trata-se de uma recuperação do conceito de i ndústria motriz de Perroux. 
+Assim, não são as nações, mas, sim, os agrupamentos  econômicos ( clusters ), 
+localizados nas nações, que efetivamente competem a  nível internacional e que 
+determinam a vantagem competitiva dos países. Segun do Amaral Filho (2001, p. 
+276), “a ideia central é formar uma indústria-chave , ou indústrias-chaves, numa 
+determinada região, transformá-las em líderes de se u mercado, se possível 
+internacionalmente, e fazer dessas indústrias a pon ta de lança do desenvolvimento 
+dessa região”. 
+ Para Porter, os determinantes da competitividade s ão as condições de 
+fatores, de demanda, indústrias correlatas e de apo io, estratégia, estrutura e 
+rivalidade das empresas, compondo o diamante competitivo . Duas variáveis que 
+podem afetar os determinantes da vantagem competiti va são o acaso  – 
+                                                 
+5 Para uma análise abrangente do pensamento econômic o neo-Schumpeteriano, ver Hanusch e Pyka 
+(2007). 
+ 
+|........................................| Teorias do desenvolvimento regional e local... |.....................................| 20 | 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+acontecimentos fora do controle das empresas (inven ções puras, descobertas em 
+tecnologias básicas, guerras, acontecimentos políti cos, grandes mudanças na 
+demanda do mercado externo, etc.) – e o Estado  que, por meio de políticas, pode 
+atuar para melhorar ou piorar a vantagem nacional (SILVA, 2004). 
+Estudos empíricos relativos a clusters  em cidades estão disseminados ao 
+redor do mundo; por exemplo, na França, Reino Unido , Áustria, Escandinávia, Nova 
+Zelândia, EUA, Canadá (POTTER; MIRANDA, 2009), Bang ladesh, Índia e Sri Lanka 
+(CHOE; ROBERTS, 2011); 
+e) A abordagem do Capital Social preconiza como fatores de desenvolvimento 
+os valores éticos, a capacidade de associação, o gr au de confiança e a consciência 
+cívica dos indivíduos de uma sociedade, constituind o-se num recurso (ou via de 
+acesso a recursos) que, em combinação com outros fa tores, permite lograr 
+benefícios para os que o possuem, sendo que esta fo rma específica de capital se 
+fundamenta nas relações sociais (DURSTON, 2000). 
+De acordo com Durston (2000), Pierre Bourdieu e Jam es Coleman, no âmbito 
+da Sociologia, foram os primeiros autores a expressar, modernamente, o conceito de 
+capital social de forma detalhada e completa. O eco nomista neoinstitucionalista 
+Douglass North também deve ser considerado um dos i nspiradores do conceito, 
+pois, embora trate de instituições , quase todo o marco teórico do capital social está  
+presente em seus textos. Segundo North (1990), citado por Durston (2000, p. 8), “las 
+instituciones son “conjuntos de normas y valores qu e facilitan la confianza entre los 
+actores”. 
+Mas o autor mais citado no debate recente sobre cap ital social é Robert 
+Putnam, que realizou estudos empíricos de grande re percussão aplicados à Itália e 
+aos EUA. Em Comunidade e Democracia , Putnam (2002) comparou as diferenças 
+de engajamento cívico de comunidades do norte da It ália (com capital social denso 
+desde o século XI, altamente cívico e próspero), co m as do sul (“acívico” e pobre), 
+concluindo que, quanto mais cívica a região, mais e ficaz seu governo e maior seu 
+avanço econômico. 
+Segundo ele, os estoques de capital social tendem a  ser cumulativos e a 
+reforçar-se mutuamente, sendo que o comportamento c ívico muda apenas 
+lentamente, em grande parte porque as normas e valo res são reproduzidos no 
+âmbito da família. Ainda, as regras informais perme iam as organizações formais, 
+| 21 |..........................................................| Julio Cesar Bellingieri |.........................................................| 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+alterando seu funcionamento, muitas vezes funcionan do contra o desenvolvimento e 
+a democracia, mais notadamente naquelas culturas carentes de capital e de tradição 
+cívica. E, segundo Putnam (2002, p. 192), “para a e stabilidade política, para a boa 
+governança e mesmo para o desenvolvimento econômico , o capital social pode ser 
+mais importante até do que o capital físico ou humano [...]” 6; 
+f) Os termos Indústria Criativa (setores econômicos  que têm como base a 
+criatividade humana, tais como arte, cultura, moda,  arquitetura, propaganda, 
+softwares ) e Economia Criativa (que abrange não só aqueles s etores, mas também 
+seus impactos nos demais setores), criados durante a década de 1990, evoluíram, 
+nos anos 2000, para o paradigma da Cidade Criativa,  definida por Reis (2017, p. 3) 
+“como uma cidade capaz de transformar continuamente  sua estrutura 
+socioeconômica, com base na criatividade de seus ha bitantes e em uma aliança 
+entre suas singularidades culturais e suas vocações econômicas”. 
+ Uma corrente da Cidade Criativa enfoca o potencial  econômico do que é 
+produzido criativamente no espaço urbano; outra val oriza a prevalência de um 
+ambiente capaz de gerar, capacitar, atrair e reter talentos que sustentem essa 
+criatividade e seu valor econômico agregado; e uma terceira corrente “vê a essência 
+da cidade criativa na confluência entre capacidade de geração tecnológica, 
+formação de uma mentalidade aberta e tolerante, e a tração de talentos” (REIS, 
+2017, p. 2-3). 
+ A esta última corrente pertence Richard Florida 7 que, em 2002, publicou The 
+Rise of the Creative Class , no qual defendia os “3Ts” do desenvolvimento econômico 
+como a chave para o desenvolvimento econômico das r egiões e das cidades. A 
+Tolerância , definida como abertura, inclusão e diversidade pa ra todas as etnias, 
+raças e estilos de vida; o Talento , definido como aqueles com o mínimo grau de 
+bacharel, e a Tecnologia , uma função da concentração de inovação e de alta 
+tecnologia numa região (FLORIDA, 2003). Segundo o a utor, a classe criativa 
+                                                 
+6 Durston (2000) discute as principais críticas à ab ordagem do Capital Social: a) a contradição entre a  
+ideia de que alguns povos carecem historicamente do s elementos de capital social e a proposta de 
+que se pode construí-lo intencionalmente; b) a expl icação tautológica do capital social como causa e 
+ao mesmo tempo efeito do desenvolvimento; c) a difi culdade de se medir/quantificar o capital social, 
+por meio de indicadores objetivos. 
+7 Florida (1995) já havia antes proposto o conceito de Região Inteligente  para caracterizar regiões que 
+funcionam como coletores e repositórias de conhecim entos e ideias, e fornecedoras de ambiente e 
+infraestrutura que facilita os fluxos de conhecimen to, ideias e aprendizagem, constituindo territórios  
+privilegiados de interação, aprendizagem e inovação. 
+ 
+|........................................| Teorias do desenvolvimento regional e local... |.....................................| 22 | 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+(profissionais cuja criatividade é o motor de sua a tividade, tais como artistas, 
+cientistas, professores, empresários) é o motor do crescimento e da transformação 
+da economia, e as cidades precisam saber atrair estes talentos.8 
+Em suma, a abordagem de Florida, assim como a dos o utros autores 
+vinculados ao desenvolvimento endógeno, aqui mencio nados, têm como elemento 
+comum a valorização do local como fator de desenvolvimento, distanciando-se das 
+abordagens das teorias do Desenvolvimento Regional. 
+No Brasil, o prestígio do desenvolvimento endógeno abriu caminho para uma 
+série de políticas, estratégias e experiências prát icas voltadas à promoção do 
+desenvolvimento, em regiões e cidades.  Algumas destas são: 
+a) Arranjo Produtivo Local (APL), inspirado no Dist rito Industrial e no Cluster , 
+que pode ser definido como “[...] aglomerações terr itoriais de agentes econômicos, 
+políticos e sociais – com foco em um conjunto espec ífico de atividades econômicas 
+– que apresentam vínculos mesmo que incipientes (CA SSIOLATO; LASTRES, 
+2003); 
+b) Indicação Geográfica, que implica a obtenção de um selo de Denominação 
+de Origem para os produtos agrícolas ou alimentício s fabricados localmente, 
+objetivando agregar valor à produção local, tornand o a região competitiva e 
+articulada com os circuitos de comércio. A Denomina ção de Origem existe na 
+Europa desde a década de 1970, cujo exemplo maior s ão os vinhos de Portugal, 
+Espanha, França e Itália. No Brasil, a prática inic iou-se nos anos 2000, com o Vale 
+dos Vinhedos , na Serra Gaúcha, produtora de vinhos finos, e o Café do Cerrado , em 
+Minas Gerais (CALDAS; CERQUEIRA; PERIN, 2005); 
+c) Planejamento Estratégico de Cidades, ou Planejam ento Estratégico 
+Urbano, definido por Lopes (1998) como um plano de ação, formulado a partir do 
+consenso e do compromisso de atores públicos e priv ados, definindo projetos 
+tangíveis e intangíveis. “Similar aos ensinamentos das ações estratégicas nas 
+empresas, as cidades são concebidas como atores eco nômicos que encontram na 
+                                                 
+8 Florida (2003) descreve alguns indicadores desenvo lvidos por ele e sua equipe que tentam 
+relacionar tecnologia, talento e tolerância. Por ex emplo, o Melting Pot Index  (índice de imigração ou 
+porcentagem de nascimento de estrangeiros), que mos tra existir relação estatística entre regiões 
+onde este índice é mais alto e regiões de alta tecn ologia; Gay Index  (porcentagem de casais gays  
+que residem numa região), forte indicador de concen tração de indústrias de alta tecnologia; 
+Bohemian Index  (porcentagem de determinados profissionais, tais c omo escritores e músicos, numa 
+região), também correlacionado a regiões baseadas e m alta tecnologia, e também um forte 
+indicador do crescimento do emprego e da população de uma região. 
+ 
+| 23 |..........................................................| Julio Cesar Bellingieri |.........................................................| 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+lógica do mercado o modelo de planejamento e execuç ão de suas ações” 
+(DURIGUETTO, 2007, p. 5); 
+d) City Marketing  que, por meio de conceitos e estratégias de marketing  
+semelhantes aos da iniciativa privada, visa a posic ionar a cidade frente à 
+“concorrência” com as demais cidades, valorizando sua imagem aos olhos de seus 
+moradores e, especialmente, dos investidores extern os (DUARTE; ULTRAMARI; 
+CZAJKOWSKI, 2008). 9 
+ 
+5 CONSIDERAÇÕES FINAIS: LIMITES DAS TEORIAS DO DESENVOLVIMENTO 
+Determinar as causas do desenvolvimento de um terri tório, isto é, determinar 
+por que  surge(m) a(s) atividade(s) econômica(s) impulsiona dora(s) do crescimento 
+econômico de um território (pressupondo que o cresc imento, embora não 
+necessariamente suficiente, é condição necessária p ara o desenvolvimento, 
+conforme Sachs (2008a)), é tarefa por demais complexa. 
+As teorias do desenvolvimento regional, conforme ap ontou Lasuén (1976), 
+apenas descrevem como  ocorre a transmissão do crescimento sobre toda a 
+economia, por meio dos efeitos dos polos, indústria s motrizes, etc.; mas não 
+explicam por que  ele surge, embora alguns autores tenham dado impor tância ao 
+acaso, consubstanciado no fato histórico fortuito , de Myrdal (1972). 
+Já as teorias do desenvolvimento endógeno conseguem  explicar por que 
+surge a atividade econômica  que dará origem ao desenvolvimento (em função de 
+fatores como inovação tecnológica, existência de ca pital social, etc.); mas não 
+explicam por que surgem tais fatores . 
+Por exemplo, retomando a crítica de Durston (2000) de que a teoria do Capital 
+Social seria uma explicação tautológica e circular (ao mesmo tempo causa e efeito 
+do desenvolvimento), pode-se questionar: é a existê ncia de capital social que torna 
+possível o surgimento de atividades econômicas dinâ micas que impulsionarão o 
+desenvolvimento ou é a existência de atividades eco nômicas dinâmicas que 
+                                                 
+9 Há uma gama de críticas ao desenvolvimento endógen o e às estratégias de desenvolvimento dele 
+derivadas, encontradas, por exemplo, em Maricato (2 011), Arantes (2011), Vainer (2011) e Brandão 
+(2004). Este último autor alerta para o que chama d e endogenia exagerada, ou de pensamento 
+único localista. Segundo ele, o desenvolvimento end ógeno negligencia a política, os conflitos, as 
+classes sociais, o papel da ação estatal, a Nação, as questões estruturais do país e a própria 
+natureza das hierarquias do capitalismo, para apost ar na vontade dos atores sociais, materializada 
+em empreendedorismos, governança local, comitês de desenvolvimento, etc. 
+ 
+|........................................| Teorias do desenvolvimento regional e local... |.....................................| 24 | 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+estimulam a geração de capital social? Ou então, é a existência de tolerância, 
+talento e tecnologia que determina o crescimento ec onômico de um território, ou é 
+justamente seu crescimento que atrai uma classe criativa que praticará/desenvolverá 
+a tolerância, o talento e a tecnologia? 
+Além disso, é complexa a mensuração/quantificação  do grau de importância 
+destes fatores para o surgimento das atividades eco nômicas dinâmicas. Por 
+exemplo, como mensurar quanto do crescimento de um território pode ser atribuído 
+ao seu estoque de capital social? 
+Uma ilustração desta dificuldade é a defesa do dese nvolvimento endógeno 
+feita por Vázquez Barquero (2001). O autor afirma q ue inovações e conhecimento, 
+organização flexível do sistema produtivo, desenvol vimento urbano (em termos de 
+infraestrutura e meio ambiente) e instituições adeq uadas são fatores que contribuem 
+para a acumulação de capital, base para o desenvolv imento. Mas, segundo ele, é a 
+atuação conjunta  destes fatores, criando sinergias mútuas, que resu ltará no que 
+denominou de fator H , este sim a condição para a acumulação. “Observa-s e que 
+todos e cada um dos fatores que determinam a acumul ação de capital atuam como 
+elementos dinamizadores ou limitadores dos processo s de desenvolvimento, 
+conforme o fator de eficiência H contribua ou coloq ue obstáculos aos processos de 
+mudança” (VÁZQUEZ BARQUERO, 2011, p. 31). Dessa for ma, para o autor, tudo  
+determina o desenvolvimento! 
+Assim, são três os problemas centrais com os quais se deparam as teorias do 
+desenvolvimento: 
+a) Isolar os fatores que se consideram a causa do f enômeno que se estuda (o 
+surgimento de uma atividade econômica dinâmica, por  exemplo) dos demais fatores 
+que também podem estar afetando tal fenômeno. 
+Há muitas cidades brasileiras que cresceram (e “des envolveram-se”) em 
+função de fatores ditos externos, exógenos, tais co mo a instalação de grandes 
+empresas ou de projetos governamentais. Dois exempl os: Mogi-Guaçu, município 
+com sede urbana modesta e de matriz tecnológica arc aica até os anos 50, a partir 
+da instalação de duas grandes unidades produtivas c ontroladas por multinacionais, 
+já era, em 1970, um dos municípios mais industriali zados do Estado (SELINGARDI-
+SAMPAIO, 2009); São José dos Campos, até a década d e 1940, conhecida como 
+cidade sanatorial (baseada em serviços hospitalares  para doenças pulmonares), foi 
+| 25 |..........................................................| Julio Cesar Bellingieri |.........................................................| 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+escolhida pelo governo federal para abrigar o Centr o Técnico de Aeronáutica (CTA), 
+inaugurado em 1951, fato que impulsionou a indústri a local e transformou a cidade 
+num complexo tecnológico-industrial-aeroespacial (SOUZA; COSTA, 2009). 
+Nestes casos, a causa da decolagem  da cidade parece estar bem definida: a 
+chegada da(s) empresa(s). Mas as instituições, o ca pital social, o nível educacional 
+ou mesmo as atividades econômicas locais preexisten tes não poderiam ter 
+contribuído, em maior ou menor grau, para a decisão  de se instalar a empresa 
+naquele local, ou mesmo para que a instalação fosse  bem-sucedida ao longo do 
+tempo? 
+Milton Santos (2006) e Bryant (2006), citado por Villela (2009), sintetizam bem 
+a complexidade da determinação dos fatores causais do fenômeno do 
+desenvolvimento: 
+Falando sobre sucessões e coexistências no tempo e no espaço, Santos 
+(2006, p. 106-7) disse: 
+ 
+Isso o evento deve exatamente à preeminência dos se us dois níveis de 
+existência: o global e o local. Ainda com Whitehead  (1938, p. 225) 
+aprendemos que "nenhum acontecimento pode ser sozin ho, nem 
+completamente, a causa de outro evento (... no even t can be wholly and 
+solely the cause of another event)". 
+Um evento é a causa do outro, mas o faz pela via do  universo, com a 
+intermediação da totalidade, conforme à totalidade.  Isto tanto se dá com os 
+grandes fatores de mudança global, como em níveis i nferiores e em 
+episódios banais. Uma modificação em um quarteirão afeta outros e não só 
+os vizinhos. Melhorar o trânsito em uma área reperc ute em outras 
+positivamente ou negativamente caso não sejam alter ados o traçado das 
+vias ou a estrutura do movimento. Criar um sinal lu minoso em um 
+cruzamento repercute quilômetros mais longe. 
+[...] 
+Segundo a admirável expressão de Leslie Paul (1961,  p. 125), o evento é 
+"uma gota de existência" e "repete no microcosmo o que o universo é no 
+macrocosmo". Daí a lição de G. Simmel (1980, p. 131 ), para quem somente 
+a totalidade dos eventos permite entender um evento  individual. Os eventos 
+são individuais, mas não há eventos isolados. Eles são inter-relacionados e 
+interdependentes e é nessas condições que participa m de situações. Na 
+realidade, somente há situações porque os eventos s e sucedem, ao mesmo 
+tempo em que se superpõem e interdependem. 
+ 
+Criticando os revisionistas da História Econômica q ue afirmam que antes da 
+Revolução Industrial inglesa as regiões mais avança das da China e da Europa 
+Ocidental caminhavam numa mesma trajetória de desen volvimento e que esta só 
+veio a divergir (iniciando-se o predomínio do Ocide nte sobre o resto do mundo) em 
+função de “acidentes” geográficos/geológicos (por e xemplo, disponibilidade de 
+|........................................| Teorias do desenvolvimento regional e local... |.....................................| 26 | 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+carvão), Bryant (2006), citado por Villela (2009, p . 147), afirma que, na História, não 
+existe criação a partir do nada, “mas sim relações de causalidade entre o passado e 
+o presente, de tal forma que mesmo as transformaçõe s mais revolucionárias  
+envolvem ‘re-fazer’ ou ‘ir além’ de algo preexistente, ou seja, têm por base recursos 
+e oportunidades que se vinham acumulando no passado ”. Ainda segundo Bryant 
+(2008), citado por Villela (2009, p. 147), “todo o passado molda ou condiciona o 
+presente que surge, e toda contingência exógena cru za com processos causais 
+endógenos e arranjos estruturais existentes”; 
+b) Determinar a direção da causalidade do desenvolv imento (o quê determina 
+o quê). 
+Por exemplo, numa análise englobando quase todos os  municípios paulistas 
+para o ano de 2000, Pavarina (2003) mostrou que exi ste relação estatística positiva 
+entre indicadores de capital social e crescimento e  entre capital social e 
+desenvolvimento (medido pelo Índice de Desenvolvime nto Humano Municipal – 
+IDHM). Porém, a própria autora afirma que não se po de dizer que é o capital social 
+quem determina o crescimento ou o desenvolvimento, mas apenas que eles têm 
+ligação entre si. 
+ Esta dificuldade de determinação da direção da causalidade pode ser também 
+ilustrada pela crítica de Hobson (2004) ao vício de  origem de alguns autores, entre 
+os quais Landes (1998), em suas explicações para a ascensão do Ocidente sobre o 
+resto do mundo. 
+Partindo do fato de que o Ocidente foi pioneiro na Revolução Industrial e 
+dominou o restante do mundo nos séculos XIX e XX, e stes autores buscariam 
+características supostamente intrínsecas à cultura ocidental que “explicassem” este 
+pioneirismo. “Não encontrando, nas sociedades orien tais, muitos destes traços, tais 
+autores acreditariam estar demonstrando  serem estas as razões para a ascensão do 
+Ocidente (e, simetricamente, a não ascensão do Orie nte) quando, para Hobson, 
+estariam, meramente, incorrendo na armadilha da tel eologia, ao escrever a História 
+de frente para trás” (VILLELA, 2009, p. 135);  
+c) Entender o processo de transmissão do cresciment o econômico para o 
+desenvolvimento. 
+Ao longo das últimas décadas, a evolução do conceit o de desenvolvimento 
+caminhou do paradigma econômico (baseado no crescim ento do PIB), para 
+| 27 |..........................................................| Julio Cesar Bellingieri |.........................................................| 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+paradigmas baseados no social, humano e sustentável . No entanto, as teorias do 
+desenvolvimento, desde as clássicas até às recentes , ao tentar explicar por que ele 
+ocorre, acabam ocupando-se, na realidade, em entend er como o crescimento 
+econômico  ocorre, sem se preocupar como se dá a transposição  do crescimento 
+econômico para a expansão do bem-estar material e s ocial da sociedade como um 
+todo. Ou seja, implicitamente, entendem que o cresc imento da economia deverá, 
+naturalmente, transformar-se em desenvolvimento. 
+Mas o crescimento econômico, embora condição necess ária, não é suficiente 
+para o desenvolvimento. Há uma vastidão de estudos que mostram cidades cuja 
+prosperidade econômica trouxe o chamado desenvolvim ento, mas também 
+problemas sociais, urbanos e ambientais. Alguns exe mplos brasileiros são 
+Americana, Piracicaba, Santa Bárbara d’Oeste (TERCI , 2009), Ribeirão Preto 
+(FERNANDES, 2004), Uberlândia (VIEIRA, 2009), São J osé do Rio Preto, 
+Presidente Prudente (MELAZZO, 2006; VIEIRA, 2009), Araçatuba, Bauru, Marília 
+(MELAZZO, 2006), Londrina (DORES, 2005), Camaçari ( SOUZA, 2006), Blumenau 
+(SAMAGAIA, 2010). 
+Para concluir este artigo, são feitas duas breves r eferências, que levam 
+praticamente ao limite a ideia da impossibilidade d e uma teoria do desenvolvimento 
+(qualquer que seja sua escala territorial) capaz de explicar tal fenômeno: 
+Num debate entre Douglass North e Joseph Stiglitz ( dois laureados com o 
+Prêmio de Ciências Econômicas em Memória de Alfred Nobel), ocorrido no Brasil, 
+em 2006, North afirmou que os economistas nem seque r conseguiram descobrir 
+como o desenvolvimento acontece. E disse ainda: “O que nós aprendemos sobre 
+desenvolvimento? Nada”. “Nós não temos um corpo de teoria econômica para 
+entender completamente o desenvolvimento” (BILLI, 2006). 
+Clark (2000), autor da revolução industrial inglesa , numa discussão sobre por 
+que ela ocorreu na Inglaterra, e não em outro país, concluiu: 
+ 
+Enquanto isso faz a Revolução Industrial previsível  uma vez que chegamos 
+à economia britânica de 1760, de certa forma apenas  se empurra a 
+aleatoriedade de volta para um período anterior. Po r que a Grã-Bretanha 
+evoluiu para ser uma economia de pessoas que amavam  a inovação e a 
+celebraram em 1760? Ninguém sabe  (CLARK, 2000, p. 18, grifo nosso). 10  
+                                                 
+10  While this makes the Industrial revolution predict able once we get to the British economy in 1760, in  
+some ways it just pushes the randomness back to an earlier period. Why did Britain evolve to be an 
+economy of people who loved innovation and celebrated it in 1760? No one knows. 
+ 
+|........................................| Teorias do desenvolvimento regional e local... |.....................................| 28 | 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+REFERÊNCIAS  
+AMARAL FILHO, Jair. A endogeneização no desenvolvimento econômico regional e 
+local. Planejamento e Políticas Públicas , Brasília, n. 23, p. 261-286, jun. 2001. 
+ 
+ARANTES, Otília Beatriz Fiori. Uma estratégia fatal: a cultura nas novas gestões 
+urbanas. In: ARANTES, Otília; VAINER, Carlos; MARICATO, Ermínia. A cidade do 
+pensamento único : desmanchando consensos. 6. ed. Petrópolis: Vozes, 2011. 
+ 
+BASTOS, Suzana Quinet de Andrade. Disritmia Espaço-Tempo: análise das 
+estratégias de desenvolvimento adotadas em Juiz de Fora (MG), pós anos 70. In: 
+SEMINÁRIO DE HISTÓRIA ECONÔMICA E SOCIAL DA ZONA DA MATA MINEIRA, 
+1., 2005, Juiz de Fora, MG. Anais...  Juiz de Fora, MG, 2005. 1 CD-ROM. 
+ 
+BECATTINI, Giacomo. O Distrito Marshalliano: uma noção socioeconômica. In: 
+BENKO, Georges; LIPIETS, Alain (Org.). As regiões ganhadoras : distritos e redes: 
+os novos paradigmas da geografia econômica. Oeiras: Celta, 1994. 
+ 
+BENKO, Georges. A recomposição dos espaços. Interações : Revista Internacional 
+de Desenvolvimento Local, Campo Grande, v. 1, n. 2, p. 7-12, mar. 2001. 
+ 
+BENKO, Georges; LIPIETZ, Alain (Org.). As regiões ganhadoras : distritos e redes: 
+os novos paradigmas da geografia econômica. Oeiras: Celta, 1994. 
+ 
+BENKO, Georges; PECQUEUR, Bernard. Os recursos de territórios e os territórios 
+de recursos. Geosul , Florianópolis, v. 16, n. 32, p. 31-50, jul./dez. 2001. 
+ 
+BILLI, Marcelo. Desenvolvimento vira divergência entre Prêmios Nobel. Folha de 
+São Paulo , 1 abr. 2006. Disponível em: 
+<http://www1.folha.uol.com.br/fsp/dinheiro/fi0104200614.htm>. Acesso em: 25 mar. 
+2017. 
+ 
+BRANDÃO, Carlos Antônio. Teorias, estratégias e políticas regionais e urbanas 
+recentes: anotações para uma agenda do desenvolvimento territorializado. Revista 
+Paranaense de desenvolvimento , Curitiba, n. 107, p. 57-76, jul./dez. 2004. 
+ 
+BRANDÃO, Carlos. Prefácio. Os enigmas do processo de desenvolvimento de uma 
+região. In: DALLABRIDA, Valdir Roque. Desenvolvimento regional : por que 
+algumas regiões se desenvolvem e outras não? Santa Cruz do Sul: EDUNISC, 2010. 
+ 
+BRASIL. Ministério da Educação. Coordenação de Aperfeiçoamento de Pessoal de 
+Nível Superior . Cursos recomendados e reconhecidos . Disponível em: 
+<http://www.capes.gov.br/cursos-recomendados>. Acesso em: 6 out. 2016. 
+ 
+CALDAS, Alcides dos Santos; CERQUEIRA, Patrícia da Silva; PERIN, Teresinha de 
+Fátima. Mais além dos arranjos produtivos locais: as indicações geográficas 
+protegidas como unidades de desenvolvimento local. Revista de Desenvolvimento 
+Econômico , Salvador, v. 7, n. 11, p. 5-16,  jan. 2005. 
+ 
+| 29 |..........................................................| Julio Cesar Bellingieri |.........................................................| 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+CASSIOLATO, José Eduardo; LASTRES, Helena M. M. O foco em arranjos 
+produtivos e inovativos locais de micro e pequenas empresas. In: LASTRES, M. M.; 
+CASSIOLATO, J. E.; MACIEL, M. L. (Org.). Pequena empresa : cooperação e 
+desenvolvimento local. São Paulo: Relumé Dumará, 2003. 
+ 
+CASTELLS, Manuel; BORJA, Jordi. As cidades como atores políticos. Revista 
+Novos Estudos , n. 45. São Paulo: CEBRAP, p. 152-166, jul. 1996. 
+ 
+CHOE, Kyeongae; ROBERTS, Brian. Competitive cities in the 21st century : 
+Cluster-based local economic development. Mandaluyong City, Philippines: Asian 
+Development Bank, 2011. 
+ 
+CLARK, G. What caused the industrial revolution?  Winter, 2000. 
+ 
+DORES, Júlia Luciana Pereira das. Exclusão social, políticas públicas e 
+representações sociais na cidade de Londrina-PR : um olhar sobre o 
+assentamento urbano Jardim Maracanã. 2005. Dissertação (Mestrado em Geografia) 
+– Faculdade de Ciências e Tecnologia, Universidade Estadual Paulista, Presidente 
+Prudente-SP, 2005. 
+ 
+DUARTE, Fábio; ULTRAMARI, Clóvis; CZAJKOWSKI, Sérgio. A cidade e o 
+mercado: enfim, a gestão urbana negociada. Revista de Desenvolvimento 
+Econômico , Salvador, v. 10, n. 17, p. 36-42, jan. 2008. 
+ 
+DURIGUETTO, Maria Lúcia.  A lógica mercantil do planejamento estratégico de 
+cidades. In: SIMPÓSIO NACIONAL DE HISTÓRIA, 24., 2007, São Leopoldo. 
+Anais ... São Leopoldo, 2007. v. 1. 
+ 
+DURSTON, John. Qué es el capital social comunitario? Santiago de Chile: 
+CEPAL, 2000. (Serie Políticas Sociales, 38).  
+ 
+ESCOBAR, Arturo . La invención del tercer mundo : construcción y deconstrucción 
+del desarrollo. Caracas: Fundación Editorial el perro y la rana, 2007. 
+ 
+ESTEVA, Gustavo. Desenvolvimento. In: SACHS, Wolfgang (Org.). Dicionário do 
+desenvolvimento : guia para o conhecimento como poder. Petrópolis: Vozes, 2000. 
+ 
+FERNANDES, Cláudio Tadeu Cardoso. Impactos socioambientais de grandes 
+barragens e desenvolvimento : a percepção dos atores locais sobre a Usina 
+Hidrelétrica de Serra da Mesa. 2010.  427f. Tese (Doutorado em Desenvolvimento 
+Sustentável) – Centro de Desenvolvimento Sustentável, Universidade de Brasília, 
+Brasília-DF, 2010. 
+ 
+FERNANDES, Maria Esther (Coord.). A cidade e seus limites : as contradições do 
+urbano na "Califórnia Brasileira". São Paulo: Annablume; FAPESP; Ribeirão Preto: 
+UNAERP, 2004. 
+ 
+FLORIDA, Richard. Cities and the creative class. City & Community , v. 2, n. 1, p. 3-
+19, mar. 2003. 
+ 
+|........................................| Teorias do desenvolvimento regional e local... |.....................................| 30 | 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+______. Toward the learning region. Futures , v. 27, n. 5, p. 527-536, 1995. 
+ 
+FUJITA, Masahisa; KRUGMAN, Paul; VENABLES, Anthony J. Economia espacial . 
+São Paulo: Futura, 2002. 
+ 
+FURTADO, Celso. Pequena introdução ao desenvolvimento : enfoque 
+interdisciplinar. São Paulo: Nacional, 1980.  
+ 
+HANUSCH, Horst; PYKA, Andreas (Ed.). Elgar Companion to Neo-Schumpeterian 
+Economics . Cheltenham, UK; Northampton, USA: Edward Elgar, 2007. 
+ 
+HOBSON, John. M. The Eastern Origins of Western Civilization . Cambridge: 
+Cambridge University Press, 2004. Disponível em: 
+<http://dlia.ir/Scientific/e_book/Auxiliary_Sciences_Of_History/History_of_Civilization/ 
+CB_195_281_Civilization_Race_/000852.pdf>. Acesso em: 25 mar. 2017. 
+ 
+HUNT, Emery Kay. História do pensamento econômico . 7. ed. Rio de Janeiro: 
+Campus, 1981. 
+ 
+JESUS, Josias Alves de; SPINOLA, Noelio Dantaslé. Seis décadas da Teoria dos 
+Polos de Crescimento. Revista de Desenvolvimento Econômico , Salvador, v. 17, 
+n. 32, p. 935-952, dez. 2015. 
+ 
+LANDES, David S. A riqueza e a pobreza das nações : por que algumas são tão 
+ricas e outras são tão pobres. Rio de Janeiro: Campus, 1998. 
+ 
+LANE, Theodore. O multiplicador da base urbana: avaliação de sua situação atual. 
+In: SCHWARTZMAN, Jacques (Org.). Economia regional : textos escolhidos. Belo 
+Horizonte: CEDEPLAR/CETREDE-MINTER, 1977. 
+ 
+KENNEDY, Paul E. Ascensão e queda das grandes potências . Rio de Janeiro: 
+Campus, 1994. 
+ 
+KRUGMAN, Paul. Geografia y comercio . Barcelona: Antonio Bosch, 1992. 
+ 
+LASUÉN, José Ramón. Ensayos sobre economia regional y urbana . Barcelona: 
+Ariel, 1976. 
+ 
+LATOUCHE, Serge. Padrão de vida. In: SACHS, Wolfgang (Org.). Dicionário do 
+desenvolvimento : guia para o conhecimento como poder. Petrópolis: Vozes, 2000. 
+ 
+LIMA, Ana Carolina da Cruz; SIMÕES, Rodrigo Ferreira. Teorias clássicas do 
+desenvolvimento regional e suas implicações de política econômica: o caso do 
+Brasil. Revista de Desenvolvimento Econômico , Salvador, v. 12, n. 21, p. 5-19, jul. 
+2010. 
+ 
+LOPES, Rodrigo. A cidade intencional : o planejamento estratégico de cidades. 2. 
+ed. Rio de Janeiro: Mauad, 1998. 
+  
+| 31 |..........................................................| Julio Cesar Bellingieri |.........................................................| 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+MARICATO, Ermínia. As ideias fora do lugar e o lugar fora das ideias: planejamento 
+urbano no Brasil. In: ARANTES, Otília; VAINER, Carlos; MARICATO, Ermínia. A 
+cidade do pensamento único : desmanchando consensos. 6. ed. Petrópolis: Vozes, 
+2011. 
+ 
+MARSHALL, Alfred . Princípios de economia . São Paulo: Abril Cultural, 1982. 
+ 
+MCNEILL, William H. The rise of the West : a history of the human community. 
+Chicago: University of Chicago Press, 1963. 
+ 
+MELAZZO, Everaldo Santos. Padrões de desigualdades em cidades paulistas de 
+porte médio : a agenda das políticas públicas em disputa. 2006. 229f. Tese 
+(Doutorado em Geografia) – Faculdade de Ciências e Tecnologia, Universidade 
+Estadual Paulista, Presidente Prudente-SP, 2006. 
+ 
+MYRDAL, Gunnar. Teoria econômica e regiões subdesenvolvidas . 3. ed. Rio de 
+Janeiro: Saga, 1972. 
+ 
+NORTH, Douglass. Teoria da localização e crescimento econômico regional. In: 
+SCHWARTZMAN, J. Economia regional : textos escolhidos. Belo Horizonte: 
+CEDEPLAR/ CETREDE-MINTER, 1977. 
+ 
+NORTH, Douglass; THOMAS, Robert Paul. The rise of the western world : a new 
+economic history. Cambridge: Cambridge University Press, 1973. 
+ 
+PAVARINA, Paula Regina de Jesus Pinsetta. Desenvolvimento, crescimento e o 
+capital social do Estado de São Paulo . 2003. 181f. Tese (Doutorado em Economia 
+Aplicada) – Escola Superior de Agricultura “Luiz de Queiroz”, Universidade de São 
+Paulo, Piracicaba, 2003. 
+ 
+PIORE, Michael J.; SABEL, Charles F . The second industrial divide : possibilities 
+for prosperity. New York: Basic Books, 1984. 
+ 
+PIRES, Élson Luciano Silva; MÜLLER, Geraldo; VERDI, Adriana Renata. 
+Instituições, territórios e desenvolvimento local: delineamento preliminar dos 
+aspectos teóricos e morfológicos. Geografia , Rio Claro, v. 31, n. 3, p. 437-454, 
+set./dez. 2006. 
+ 
+POLÈSE, Mario. Economia urbana e regional : lógica espacial das transformações 
+econômicas. Coimbra: APDR, 1998.  
+ 
+PORTER, Michael. E. A vantagem competitiva das nações . Rio de Janeiro: 
+Campus, 1993. 
+ 
+POTTER, Jonathan; MIRANDA, Gabriela (Ed.). Clusters, innovation and 
+entrepreneurship . Paris: OECD, 2009. Disponível em: 
+<http://www.clusterpolisees3.eu/ClusterpoliSEEPortal/resources/cms/documents/200 
+9_OECD_Clusters_Innovation_and_Entrepreneurship.pdf>. Acesso em: 25 mar. 
+2017. 
+ 
+|........................................| Teorias do desenvolvimento regional e local... |.....................................| 32 | 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+PREBISCH, Raul. O desenvolvimento econômico da América Latina e alguns de 
+seus problemas principais. In: BIELSCHOWSKY, Ricardo (Org.). Cinquenta anos 
+de pensamento na Cepal . Rio de Janeiro: Record, 2000, v. 1. 
+ 
+PUTNAM, Robert D. Comunidade e democracia : a experiência da Itália moderna. 
+3. ed. Rio de Janeiro: Editora FGV, 2002. 
+ 
+REIS, Ana Carla Fonseca. Cidades criativas, turismo cultural e regeneração 
+urbana . Disponível em: <http://www.redbcm.com.br/arquivos/cidadescriativas/ ana-
+carla-fonseca-cidades-criativas.pdf>. Acesso em: 25 mar. 2017. 
+ 
+ROSTOW, Walt Whitman. Etapas do desenvolvimento econômico . 3. ed. Rio de 
+Janeiro: Zahar, 1978. 
+ 
+RUIZ, Ricardo Machado. A nova geografia econômica : um barco com a lanterna 
+na popa? Belo Horizonte: UFMG/CEDEPLAR, 2003. (Texto para Discussão, n. 200).  
+ 
+SACHS, Ignacy. Caminhos para o desenvolvimento sustentável . 3. ed. Rio de 
+Janeiro: Garamond, 2008a. 
+ 
+______. Desenvolvimento : includente, sustentável, sustentado. Rio de Janeiro: 
+Garamond, 2008b. 
+ 
+SACHS, Wolfgang. Meio Ambiente. In: SACHS, Wolfgang (Org.). Dicionário do 
+desenvolvimento : guia para o conhecimento como poder. Petrópolis: Vozes, 2000. 
+ 
+SAMAGAIA, Jacqueline. Globalização e cidade : reconfigurações dos espaços de 
+pobreza em Blumenau/SC. 2010. 263f. Tese (Doutorado em Geografia) – 
+Universidade Federal de Santa Catarina, Florianópolis-SC, 2010. 
+ 
+SANTOS, Milton. A natureza do espaço : técnica e tempo, razão e emoção. 4. ed. 
+São Paulo: Edusp, 2006. 
+ 
+SCHUMPETER, Joseph A. A teoria do desenvolvimento econômico . São Paulo: 
+Abril Cultural, 1982. 
+ 
+SELINGARDI-SAMPAIO, Sílvia. Indústria e território em São Paulo : a estruturação 
+do Multicomplexo Territorial Industrial Paulista: 1950-2005. Campinas: Alínea, 2009. 
+ 
+SEN, Amartya. Desenvolvimento como liberdade . São Paulo: Companhia das 
+Letras, 2000. 
+ 
+SILVA, Jorge Antonio Santos. Turismo, crescimento e desenvolvimento : uma 
+análise urbano-regional baseada em cluster . 2004. 480f. Tese (Doutorado em 
+Ciências da Comunicação) – Escola de Comunicações e Artes, Universidade de São 
+Paulo, São Paulo, 2004. 
+ 
+ 
+ 
+| 33 |..........................................................| Julio Cesar Bellingieri |.........................................................| 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+SOUZA, Adriana Aparecida Moreira de; COSTA, Wanderley Messias da. Atividades 
+industriais no interior do Estado de São Paulo: uma análise da formação do 
+complexo tecnológico-industrial-aeroespacial de São José dos Campos. Interface , v. 
+6, n. 2, p. 142-159, jul./dez. 2009. 
+ 
+SOUZA, José Gileá de . Camaçari, as duas faces da moeda : crescimento 
+econômico x desenvolvimento social. 2006. 235f. Dissertação (Mestrado em 
+Desenvolvimento Regional e Urbano)–Universidade Salvador, Salvador-BA, 2006. 
+ 
+SUNKEL, Osvaldo. A sustentabilidade do desenvolvimento atual na América Latina. 
+In: ARBIX, Glauco; ZILBOVICIUS, Mauro; ABRAMOVAY, Ricardo (Org.). Razões e 
+ficções do desenvolvimento . São Paulo: Editora Unesp; Edusp, 2001. 
+ 
+TERCI, Eliana T. Industrialização e seus impactos na urbanização do interior 
+paulista: uma análise comparada de Americana, Piracicaba e Santa Bárbara 
+d’Oeste. História Econômica & História de Empresas , São Paulo, v. 12, n. 1, p. 
+33-69, jan./jun. 2009. 
+ 
+UNITED NATIONS DEVELOPMENT PROGRAMME. Human Development Report 
+1990 . Oxford: Oxford University Press, 1990. Disponível em: 
+<http://hdr.undp.org/en/reports/ global/hdr1990/chapters/>. Acesso em: 25 mar. 
+2017. 
+ 
+VAINER, Carlos B. Pátria, empresa e mercadoria: notas sobre a estratégia 
+discursiva do Planejamento Estratégico Urbano. In: ARANTES, Otília; VAINER, 
+Carlos; MARICATO, Ermínia. A cidade do pensamento único : desmanchando 
+consensos. 6. ed. Petrópolis: Vozes, 2011. 
+ 
+VALE, Mario. Globalização e competitividade das cidades: uma crítica teórica na 
+perspectiva da política urbana. Geophilia : uma Geografia dos Sentidos, Lisboa, p. 
+465-474, 2007. 
+ 
+VÁZQUEZ BARQUERO, Antonio. Desenvolvimento endógeno em tempos de 
+globalização . Porto Alegre: FEE, 2001. 
+ 
+VEENHOVEN, Ruut. The four qualities of life. Journal of happiness Studies , v. 1, 
+p. 1-39, 2000. 
+ 
+VIEIRA, Alexandre Bergamin. Mapeamento da exclusão social em cidades 
+médias : interfaces da Geografia Econômica com a Geografia Política. 2009. 208f. 
+Tese (Doutorado em Geografia) – Faculdade de Ciências e Tecnologia, 
+Universidade Estadual Paulista, Presidente Prudente-SP, 2009. 
+ 
+ 
+ 
+ 
+ 
+ 
+|........................................| Teorias do desenvolvimento regional e local... |.....................................| 34 | 
+  
+ 
+Revista de Desenvolvimento Econômico – RDE - Ano XI X – V. 2 - N. 37 - Agosto de 2017 - Salvador, 
+BA – p. 6 – 34. 
+VILLELA, André Arruda. As origens da grande divergência: uma sistematização do 
+debate acerca da ascensão do Ocidente. História Econômica & História de 
+Empresas , v. 12, n. 2, p. 129-167, jul./dez. 2009. 
+ 
+VITTE, Claudete de Castro Silva et al. Novas abordagens de desenvolvimento e sua 
+inserção na gestão de cidades. In: KEINERT, Tania Margarete Mezzomo; KARRUZ, 
+Ana Paula (Org.). Qualidade de vida : observatórios, experiências e metodologias. 
+São Paulo: Annablume; Fapesp, 2002. 

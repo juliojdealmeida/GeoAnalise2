@@ -1,0 +1,796 @@
+Policy Research Working Paper 9417
+Climate Change Group
+  &
+Global Facility for Disaster Reduction and Recovery
+September 2020 
+Revised Estimates of the Impact of Climate 
+Change on Extreme Poverty by 2030
+Bramka Arga Jafino
+Brian Walsh
+Julie Rozenberg
+Stephane Hallegatte 
+Poverty and Shared Prosperity 2020
+Background Paper
+ Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+ Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+
+Produced by the Research Support T eam
+Abstract
+The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development 
+issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the 
+names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those 
+of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and 
+its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.
+Policy Research Working Paper 9417
+Thousands of scenarios are used to provide updated esti -
+mates for the impacts of climate change on extreme poverty 
+in 2030. The range of the number of people falling into pov-
+erty due to climate change is between 32 million and 132 
+million in most scenarios. These results are commensurate 
+with available estimates for the global poverty increase due 
+to COVID-19. Socioeconomic drivers play a major role: 
+optimistic baseline scenarios (rapid and inclusive growth 
+with universal access to basic services in 2030) halve poverty 
+impacts compared with the pessimistic baselines. Health 
+impacts (malaria, diarrhea, and stunting) and the effect of 
+food prices are responsible for most of the impact. The effect 
+of food prices is the most important factor in Sub-Saharan 
+Africa, while health effects, natural disasters, and food prices 
+are all important in South Asia.  These results suggest that 
+accelerated action to boost resilience is urgent, and the 
+COVID-19 recovery packages offer opportunities to do so.
+This paper is a product of the Climate Change Group and the Global Facility for Disaster Reduction and Recovery, and 
+a background paper for the 2020 Poverty and Shared Prosperity Report. It is part of a larger effort by the World Bank to 
+provide open access to its research and make a contribution to development policy discussions around the world. Policy 
+Research Working Papers are also posted on the Web at http://www.worldbank.org/prwp. The authors may be contacted 
+at bwalsh1@worldbank.org.  
+Revised Estimates of the Impact of Climate Change on Extreme
+Poverty by 2030 ∗
+Bramka Arga Jaﬁno1, Brian Walsh2, Julie Rozenberg 3, and Stephane Hallegatte 3
+1Delft University of Technology
+2Global Facility for Disaster Risk and Recovery, The World Bank
+3The World Bank
+Keywords: development, poverty, climate change, shared socio-economic pathways, scenarios, uncer-
+tainty, inequalities
+JEL: I30, I32, Q54, Q56, O10, O40
+∗The authors would like to thank Samuel Freije-Rodriguez, Michael Woolcock, Minh Nguyen, Alexander Cojocaru, Marta
+Schoch, Christoph Lachner, and the rest of the GMD and DEC teams for guidance and support on this work. Thanks as
+well to Emmanuel Skouﬁas for thoughtful contributions.
+1 Introduction
+It is widely recognized that climate change will disproportionately aﬀect poorer countries (Mendelsohn,
+Dinar, & Williams, 2006; Tol, 2009; Bathiany, Dakos, Scheﬀer, & Lenton, 2018; Dell, Jones, & Olken,
+2008), and poorer individuals within countries (Skouﬁas, Rabassa, & Olivieri, 2011; Hertel, 2016; Dennig,
+Budolfson, Fleurbaey, Siebert, & Socolow, 2015). Here, we provide a new assessment of the future impacts
+of climate change on extreme poverty by 2030, updating previous work (Rozenberg & Hallegatte, 2015;
+Hallegatte & Rozenberg, 2017) using the most recent available household surveys from the World Bank’s
+Global Monitoring Database. This assessment is done at the household level, using a bottom-up approach
+to explore the compounding eﬀects of future socioeconomic development and changing climatic and
+environmental conditions.
+Because of the uncertainty in future socioeconomic change and future climate change impacts (see
+Table 1), we use an exploratory modeling approach to create tens of thousands of scenarios for the next
+10 years. The main idea behind this approach is to understand the consequences of various combinations
+of uncertainties to the system of interest (Bankes, Walker, & Kwakkel, 2013; Kwakkel & Haasnoot,
+2019). The approach is mainly used for exploration, rather than prediction. Here, we do not provide a
+“best-guess” for the future impacts of climate change on poverty, but instead provide a range of possible
+impacts, and explore the inﬂuence of various relevant drivers and uncertainties. These factors include
+population growth, education, structural economic shifts, food prices, and health issues, among others.
+Table 1: List of uncertain factors driving socioeconomic development and poverty and considered in this
+analysis.
+Category Parameter
+Socioeconomic -
+SSP
+Population growth
+Age structure
+Average productivity growth
+Education attainment
+Labor participation
+Fraction of skilled labor
+Socioeconomic -
+Others
+Sectoral share of employment
+Sectoral productivity growth
+Redistribution and pension
+Income premium of skilled workers
+Climate change Severity of impacts
+We ﬁnd that rapid and inclusive development is necessary to reduce climate change vulnerability,
+consistent with previous ﬁndings. In particular, we show that climate change may have signiﬁcant
+impacts on global poverty incidence in this decade, possibly pulling more than 100 million people into
+poverty by 2030. We identify the most important factors and uncertainties in each region, highlighting
+diﬀerential vulnerability priorities for action. Finally, the paper concludes with a discussion of the impact
+of the COVID-19 crisis on our estimates, and the importance of COVID-19 recoveries that contribute to
+the long-term resilience of populations against shocks and stresses, including climate change.
+2 Methodology
+The model used for this analysis is based on the model developed for the 2015 World Bank report, Shock
+Waves: Managing the Impacts of Climate Change on Poverty (Hallegatte et al., 2015; Rozenberg &
+Hallegatte, 2015; Hallegatte & Rozenberg, 2017). The model represents the impacts of climate change
+on household incomes to estimate the implications for poverty and inequality. The bottom-up approach,
+considering impacts on individual households, complements top-down analyses based on integrated as-
+sessment models (Dellink, Lanzi, & Chateau, 2019) or econometric estimates (Burke, Hsiang, & Miguel,
+1
+2015). It provides aggregate results that are similar but makes it possible to consider explicitly diﬀerential
+vulnerabilities for people with diﬀerent socioeconomic status.
+We start from household surveys using the latest vintage of the World Bank Global Monitoring
+Database, an aggregation and harmonization of country-level household surveys. The household surveys
+used here were made at diﬀerent dates for diﬀerent countries, but all are before the COVID-19 pandemic
+(cf. Appendix 1). The analysis covers 86 countries representing 64 percent of the total poor population.
+To provide a global estimate, the simulated poverty headcount is scaled up in accordance with the fraction
+of missing population in each region.
+In each country, the population is described by a set of representative households, with their de-
+mographic information, education level, sectoral employment, and consumption or income level (here
+consumption and income are considered interchangeable). Each household has a weight that measures
+its importance and representativeness of the entire population.
+First, we create scenarios for the future income distribution of households in each country in 2030,
+without accounting for climate change impacts. We factor in possible changes to demography, education,
+labor force participation, economic structure (share of population employed in various sectors), produc-
+tivity (for skilled and unskilled labor), and redistribution (through pensions and social protection). We
+explore a range of possible futures for these factors and combine them to generate hundreds of scenarios
+representing a wide range of plausible socioeconomic development pathways for each country.
+In practice, we ﬁrst manipulate the weight of each household to match demographic and macroeco-
+nomic projections detailed in one of the ﬁve Shared Socioeconomic Pathways (SSPs). The SSPs describe
+plausible future changes in demographics, human development, economies, institutions, technologies, and
+the environment (O’Neill et al., 2014, 2017; Samir & Lutz, 2017). Within each country, representa-
+tive weights of the households are adjusted so that the population matches SSP projections in terms of
+population size and composition (including for instance the number of children and education level of
+household members).
+Following previous work (Rozenberg & Hallegatte, 2015; Hallegatte & Rozenberg, 2017), we consider
+two socioeconomic scenarios: SSP4 and SSP5. The SSP5 scenario is optimistic regarding economic growth
+and poverty reduction, with rapid growth, declining inequality, universal access to basic infrastructure
+services by 2030, and relatively slow population growth. Due to these shifts, this scenario forecasts a rapid
+decrease in the number of people living below the extreme poverty line by 2030. In the SSP4 scenario, by
+contrast, the population is growing faster with slow improvement in education levels, economic growth
+is also slower and more unequal. As a result, extreme poverty decreases much less and can even be
+stagnating (or increasing in number of people, since population is growing fast).
+The SSP scenarios do not prescribe every dimension of future development, and our approach probes
+these unconstrained dimensions to understand the drivers of extreme poverty within countries and regions.
+Most importantly, the SSPs do not specify the relative sizes of the agriculture, services, and manufacturing
+sectors within each country’s economy. We allow these parameters to ﬂuctuate randomly within a wide
+range of possible outcomes.
+Then, we adjust the income of each household based on assumption on future productivity gains in
+each of sectors, and for skilled and unskilled labor. Similarly, we adjust income for changes in social
+protection and pension systems, again allowing them to vary within bounds calibrated on historical
+values.
+In practice, we apply a numerical sampling approach where we pseudo-randomly generate the value
+of parameters within a range based on historical data. For instance, we look at the value and change in
+the share of employment in agriculture in the past 20 years to determine a range of possible change in
+agriculture employment in a country in 2030 (see Rozenberg and Hallegatte (2015) for further details).
+We generate 500 scenarios per country using the Latin Hypercube Sampling method (Kwakkel, 2017)
+where we ﬂuctuate independently values for the various parameters characterizing each scenario. Com-
+bining this with the two SSP scenarios, we generate 1,000 baseline scenarios of future socioeconomic
+and demographic change for each country. Latin Hypercube Sampling ensures that each parameter is
+represented evenly across the entire scenarios, thus resulting in a wide and extensive coverage of the un-
+certainty space (McKay, Beckman, & Conover, 1979; Kasprzyk, Nataraj, Reed, & Lempert, 2013). Each
+2
+parameter is determined independently, and some scenarios may be considered extremely unlikely or
+even implausible (e.g., quick increase in skill premium in one sector and rapid drop in others). However,
+past history suggests that what is considered implausible can become possible, and we prioritize here the
+largest coverage of possible futures over the internal consistency of the scenarios.
+Finally, we introduce climate change in these baselines by adjusting income levels based on quantiﬁed
+estimates of the impact of climate change. We speciﬁcally model the impacts of climate change directly on
+the income and real consumption of the representative households. Five climate change impact channels
+are accounted for in the model:
+1. Impact on agricultural productivity and prices, with consequences for agricultural incomes. The
+impacts on incomes and poverty depend on agricultural productivity and the fraction of the popu-
+lation working in agriculture. The impact varies across regions and across diﬀerent assumptions of
+climate change impacts (Havl´ ık et al., 2015).
+2. The impact of climate change on food prices (same as #1), and the consequences of this for con-
+sumers. The impact on poverty depends on the fraction of household expenditures dedicated to
+food consumption. Regional diﬀerences in fraction of expenditure used for purchasing foods are
+also accounted (World Bank, 2016).
+3. Change in exposure to and losses from natural disasters. We consider four kinds of hazards: cy-
+clones, storm surges, ﬂoods, and droughts. We focus on direct economic losses while disregarding
+loss of lives as well as second order and other indirect losses (Hallegatte et al., 2015; Hallegatte,
+Bangalore, & Vogt-Schilb, 2016). It is also important to note that we consider here only the
+changes in natural disasters, not the impact of pre-climate-change hazards. It has been estimated
+that the current (i.e. around 2015) distribution of natural hazards pushes 26 million people into
+extreme poverty every year (Hallegatte, Vogt-Schilb, Bangalore, & Rozenberg, 2017), but they are
+not included in this analysis, which focuses on the incremental impact of man-made climate change.
+4. The impact of climate change on labor productivity, particularly outdoor workers, thus reducing
+their annual income.
+5. The impact of climate change on child stunting, malaria, and diarrhea. The impact of malaria
+and diarrhea is modelled through combinations of cost of treatment, number of days out of work,
+and number of occurrences per year, whereas the impact of stunting is modeled through reduction
+in the individual’s lifelong earnings. The spatial distribution, prevalence, and incidence of these
+diseases are anticipated to change in the future due to climate change (Lloyd, Kovats, & Chalabi,
+2011; Kolstad & Johansson, 2011; Caminade et al., 2014).
+Taking these climate channels into account, we adjust the income and prices to reﬂect the impacts of
+climate change on households, and thus derive the impact on poverty at a national level. We consider
+two qualitative levels (“high” and “low”) of climate impacts, to represent the uncertainty on the physical
+impacts of climate change (e.g., the response of agricultural yields, or the implications on ﬂood frequencies
+and intensities) and local adaptation policies (e.g., improvement in ﬂood control infrastructure). Note
+that the two levels of climate change impacts do not represent the eﬀect of climate change mitigation
+policies and their impact on carbon emissions: the inertia of the climate system means that climate
+policies do not inﬂuence climate change magnitude before 2050 (with the exception of policies targeting
+short-lived climate pollutants, but these eﬀects are not considered here).
+Furthermore, we simulate impacts of each channel individually, as well as impacts of all channels
+simultaneously. Therefore, we have in total 12 climate change scenarios (5 individual channels and 1
+simultaneous impact scenario, and two severity assumptions). Combining this with the baseline scenarios,
+we end up with 12,000 scenarios for each country.
+To create global scenarios, we have to combine the country scenarios. It is impossible to consider all
+possible combinations, so we create global scenarios by sampling the country results. We create 10,000
+global baselines by randomly selecting baselines in each country and added low climate change impacts
+and high climate change impacts in each of them (for a total of 30,000 global scenarios). As for the
+3
+individual drivers of development, these global scenarios assume independence across countries, which
+(again) prioritizes the broadest possible exploration of possible futures, but leads to the inclusion of
+unlikely scenarios (e.g., where agriculture productivity grows very quickly in some countries but declines
+in others, which would assume some technological disconnection across countries).
+3 Results
+3.1 Future poverty without climate change
+We ﬁrst explore the number of people in extreme poverty in 2030 in the baseline scenarios (i.e., with-
+out climate change). Figure 1 shows the distribution of extreme poverty incidence in 2030 across the
+1,000 baseline scenarios per country. These distributions are to be used carefully because each scenario
+represents a possible future, but they are not equally likely. However, we do not attribute any “proba-
+bility” to these scenarios so that the ﬁgures in this section should be considered as histograms and not
+as probability distributions.
+On average across the scenarios, there are 313.5 million people in extreme poverty in 2030. While this
+number is substantially lower than the poverty headcount in 2015, which amounts to 736 million people
+(World Bank, 2018), it is still far from the zero extreme poverty target. In most scenarios, the Sub-
+Saharan Africa region contributes the largest number of poor people (224.4 million people on average),
+followed by South Asia (30.6 million people on average), East Asia and Paciﬁc (11.8 million people on
+average), and Latin America and Caribbean (1.9 million people on average).
+EAP LAC SAS SSA Global
+Region
+0
+200
+400
+600
+800
+1000
+People in extreme poverty
+(million, 2030)
+11.8 1.9 30.6
+224.4
+313.5
+Figure 1: People in extreme poverty, without climate change in 2030
+Figure 1 also shows that the total number of people in extreme poverty exceeds 590 million in more
+than 250 scenarios. There are therefore many futures among our scenarios in which extreme poverty
+remains close to its current levels. These scenarios tend to be associated with the SSP4, which assumes
+high population growth and slow progress in education and productivity.
+On the other hand, there are also 250 scenarios with fewer than 170 million poor people. In the best-
+case scenario there are only 9.3 million people in extreme poverty globally. This shows that approaching
+the eradication of extreme poverty by 2030 requires all our assumptions to be among the most optimistic,
+conﬁrming that this objective is very ambitious at this point. Introducing the impacts of COVID-19
+would make this objective even more diﬃcult to achieve.
+3.2 Climate change impacts on extreme poverty
+We now turn our attention to the poverty headcount under scenarios where all climate impact channels
+are simultaneously included. Figure 2a shows the distribution of the number of additional people falling
+4
+into extreme poverty due to climate change by 2030.
+(a)
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+Additional people living in extreme poverty
+due to climate change (million, 2030) 37.6
+100.7
+Climate change
+impacts
+Low
+High
+(b)
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+Additional people living in extreme poverty
+due to climate change (% total population, 2030)
+0.7
+1.9
+Climate change
+impacts
+Low
+High
+Figure 2: People pushed to extreme poverty due to all climate impact channels in 2030, (a) absolute
+number, (b) percentage of total population
+In scenarios with the more pessimistic assumptions on future impacts of climate change, on average
+100.7 million people are pushed into extreme poverty due to the eﬀects of climate change. In more
+optimistic scenarios regarding climate change impacts, this number is reduced to 37.6 million. Figure 2b
+shows poverty incidence as a fraction of the total population. Within the high climate change scenarios,
+on average 1.9% of the total population would be pushed into poverty, whereas within the low climate
+change scenarios only 0.7% of the total population would become poor.
+Figure 2a also shows that the high climate change scenarios have a wider distribution range of addi-
+tional poverty headcount compared to the low climate change scenarios. In 95% of total cases within the
+high climate change scenarios, the poverty headcounts are between 81.6 million and 124 million people
+(a range of 42 million). Meanwhile, 95% of total cases within the low climate change scenarios have a
+smaller range of 16.7 million (i.e., between 31.1 million and 47.8 million). As is often the case, there is a
+larger uncertainty about the worst-case scenarios than the best-case scenarios.
+The number of people falling into extreme poverty due to climate change varies across regions (see
+Figure 3). 1 The regions where climate change is expected to push the most people into poverty are
+Sub-Saharan Africa and South Asia, conﬁrming previous results. Under high climate change scenarios,
+the numbers of people pushed into extreme poverty in Sub-Saharan Africa, South Asia, East Asia &
+Paciﬁc, and Latin America & Caribbean are 39.7 million, 35.7 million, 7.5 million, and 5.8 million people
+respectively. More optimistic climate impact assumptions (i.e., low climate change scenarios) reduce the
+additional poverty headcount to less than half of the numbers in the more pessimistic climate impact
+assumptions.
+When looking at absolute numbers, regions with relatively lower poverty headcount in baseline sce-
+narios (i.e., East Asia & Paciﬁc and Latin America & Caribbean, see Figure 1) also have fewer number of
+people pushed into poverty due to climate change. However, the ﬁgure changes when we look at relative
+terms by comparing the poverty headcounts in Figure 1 and in Figure 3 (see Table 2). Compared to
+baseline scenarios (i.e., no climate change), the high climate change scenarios increase the average poverty
+headcount by almost 64% in East Asia & Paciﬁc, by more than 100% in South Asia, and by a staggering
+amount of more than 300% in Latin America & Caribbean. In Latin America & Caribbean, extreme
+1We include only regions with substantial coverage of poor countries in this region-level analysis. The available and
+workable survey data for some regions, such as Europe and Central Asia, are limited to only countries within the high
+income and upper middle income categories, where the international extreme poverty line is not the most relevant measure
+for poverty.
+5
+SSA
+0
+20
+40
+60
+80
+100
+120
+Additional people living in extreme poverty
+due to climate change (million, 2030)
+14.2
+39.7
+Climate change
+impacts
+Low
+High
+SAS
+13.9
+35.7
+EAP
+3.3
+7.5
+LAC
+2.4
+5.8
+Figure 3: Regional breakdown of people pushed to extreme poverty in 2030
+poverty is by and large eradicated by 2030 in most scenarios, so even a relatively small absolute increase
+in poverty due to climate change has a major relative eﬀect. On the other hand, Sub-Saharan Africa
+experiences an increase in average poverty headcount of “only” around 17.5%. This is simply due to the
+larger denominator (i.e., number of people in extreme poverty in the baseline scenarios) in the poorest
+regions of the world.
+Table 2: Summary of poverty headcount based on diﬀerent scenarios. Numbers in climate change scenarios
+are additional headcount from the baseline scenario
+Baseline
+(million people)
+High climate
+change (million
+people)
+Low climate
+change (million
+people)
+High climate
+change (increase
+from baseline)
+Low climate
+change (increase
+from baseline)
+EAP 11.8 7.5 3.3 63.6% 28%
+LAC 1.9 5.8 2.4 305% 126.3%
+SAS 30.6 35.7 13.9 116.7% 45.5%
+SSA 224.4 39.7 14.2 17.7% 6.3%
+3.3 Impacts of individual channels
+We now explore the eﬀect of individual climate impact channels to extreme poverty (see Figure 4). On
+average, the health channel leads to the largest increase in poverty headcount. This channel pushes
+more than 44 million people into extreme poverty in the high climate impact scenarios. Even with a less
+stringent climate impact assumptions, 25 million people are still pushed into poverty due to impacts on
+health.
+The health channel includes the increasing prevalence of child stunting, malaria, and diarrhea, three
+diseases which commonly aﬀect low income households and trap them in poverty (Andres, Brice˜ no,
+Chase, & Echenique, 2017; Lloyd et al., 2011; Organization, 2014). This result emphasizes the need
+for better access to health care, including better health care supply (with trained staﬀ and appropriate
+equipment) and universal healthcare coverage. Health policy is therefore one of the most important
+adaptation policies to reduce the vulnerability of poor and near-poor households. More context-speciﬁc
+public health interventions such as subsidizing bed nets and antimalarial drugs along with context-based
+6
+Agriculture
+ revenues
+0
+20
+40
+60
+80
+Additional people living in extreme poverty
+due to climate change (million, 2030)
+0.4-0.4
+Labor
+productivity
+1.8
+6.2
+Food prices
+4.2
+33.5
+Disasters
+6.1
+18.2
+Health
+25.0
+44.1
+Global
+Climate change
+impacts
+Low
+High
+Figure 4: Impacts of individual channel to the number of people falling into extreme poverty in 2030.
+Highlighted red numbers are the median of the distribution
+incentives are also another adaptation approach to minimize climate-induced health impacts to the poor
+(Cohen & Dupas, 2010; Cohen, Dupas, & Schaner, 2015).
+The food prices channel is the second most inﬂuential channel for extreme poverty, with additional
+poverty headcounts of 33.5 million people in high climate impact scenarios. The impacts of this channel,
+however, are substantially reduced by almost 90% to only 4.2 million additional poor people in a less
+stringent climate impact assumption.
+This large drop can be explained by the diﬀerence in projected food prices between high and low
+climate impact scenarios as reported in (Havl´ ık et al., 2015). Under SSP4, for example, the South Asia
+region experiences increases of 7.7% and 3.3% in food prices under high and low climate impact scenarios,
+respectively — hence a diﬀerence of 4.4% between the two climate scenarios. The price increase diﬀerence
+is even larger in Sub-Saharan Africa, with 7.1% increase and 0.74% increase under high and low climate
+impact scenarios, respectively — a staggering diﬀerence of 6.36%. While the actual impacts of climate
+change to food prices are subject to large uncertainty and vary greatly across regions (Havl´ ık et al., 2015;
+Osborne, Rose, & Wheeler, 2013), it is widely accepted that improvement in agricultural technologies
+and adjustment of management practices could dampen climate-induced agricultural shocks (Osborne et
+al., 2013; Lecl` ere, Jayet, & de Noblet-Ducoudr´ e, 2013; Nelson et al., 2014), hence a potential eﬃcient
+intervention for reducing global poverty.
+Climate-driven increase in disaster incidence and decrease in labor productivity also contribute to
+extreme poverty although only to a lesser degree. The impacts of natural disasters, however, are still
+huge with 18.2 million people pushed into extreme poverty in high climate impact scenarios. Within the
+low climate impact assumption, natural disasters push even more people (i.e., 6.1 million) into poverty
+compared to food prices. It is important to remember that the impact of natural disasters in this study
+is only the incremental change due to man-made climate change and needs to be added to the eﬀect of
+today’s natural disasters on poverty, which is already very signiﬁcant (Hallegatte et al. 2017).
+The most dominant channel varies by region (see Table 3). Food prices have the largest inﬂuence for
+the South Asia and Sub-Saharan Africa regions but play a more marginal role in East Asia & Paciﬁc and
+Latin America & Caribbean. There are two factors that can explain this result. First, Sub-Saharan Africa
+and South Asia experience a substantially higher increase in food prices due to climate change compared
+to East Asia & Paciﬁc and Latin America & Caribbean. Under SSP4 and high climate impact scenarios,
+Havlik et al (2015) project food prices increases of 7.1% and 7.7% in Sub-Saharan Africa and South Asia,
+respectively. East Asia & Paciﬁc and Latin America & Caribbean, on the other hand, experience only a
+3.4% 1.4% increase in food prices. Second, purchasing foods occupies a larger share of daily expenditure
+7
+for poorer households. Having a relatively higher income per capita to begin with, countries in East Asia
+& Paciﬁc as well as in Latin America & Caribbean are therefore less vulnerable to increase in food prices.
+Table 3: Impacts of individual channel in each region under the high climate impact scenarios
+Agri
+revenues
+Labor
+produc-
+tivity
+Food
+prices Disasters Health Dominant
+channel
+EAP -0.05 0.30 1.67 1.32 5.65 Health
+LAC -0.02 0.07 0.23 1.38 4.73 Health
+SAS -0.30 2.60 17.90 12.31 17.85 Food prices
+SSA -1.73 4.48 35.79 2.75 10.12 Food prices
+Additional poverty headcount in richer regions, in this case East Asia & Paciﬁc and Latin America
+& Caribbean, is more inﬂuenced by the increasing prevalence of diseases. Households in these regions
+are rich enough to absorb shocks from increase in food prices, which aﬀect everybody in a relatively
+similar way. But they are still vulnerable to health shocks (and disasters) that tend to aﬀect a small and
+concentrated fraction of the population but with impacts that can be massive for a given household.
+In addition, it is also important to note that some regions see one channel dominating all others,
+while others are aﬀected by multiple issues equally. In Sub-Saharan Africa, our results suggest that the
+absolute priority should be food security, and to a lesser extent health. In South Asia, on the other
+hand, the impact of food prices, disasters, and health shocks are almost equal, suggesting the need for a
+multi-prong approach.
+3.4 Socioeconomic development and climate vulnerability
+We now look at how diﬀerent assumptions regarding socioeconomic development (i.e., the baselines) aﬀect
+climate change vulnerability in terms of people pushed into extreme poverty.
+To do so, we select — in each country — two sets of scenarios from the 1000 baseline scenarios
+(i.e., scenarios of socioeconomic and demographic changes, but without climate change). The ﬁrst set of
+scenarios is termed the pessimistic baselines. Here, we select the 100 baseline scenarios with the highest
+poverty rates. These baseline scenarios have global poverty rates between 14% and 15.5%. The second
+set of scenarios, the optimistic baselines, consists of the 100 scenarios with the lowest poverty rates. The
+optimistic baseline has global poverty rates in the 2.8% and 3.8% range. The optimistic baseline can
+be seen as a future with rapid and inclusive socioeconomic development, which can be achieved among
+others through pro-poor policies (they are aligned with the World Bank objective of reducing extreme
+poverty below 3% of the global population by 2030).
+Climate change vulnerability in terms of people falling into extreme poverty is recalculated for the
+two sets of baselines (see Figure 5). In the worst-case combination — with pessimistic baselines and high
+climate change impacts — climate change impacts make more than 130 million people fall in poverty by
+2030.
+Within the high climate change impact scenarios, rapid and inclusive development (i.e., the optimistic
+baseline) can reduce climate change vulnerability by almost 50% (from 131.5 million people on average to
+67.7 million people on average). Although smaller, a noticeable eﬀect of rapid and inclusive development
+is still evident under the low climate change scenarios, with almost 25% reduction in vulnerability (from 42
+million to 32.2 million people). These results conﬁrm previous ﬁndings which show that rapid development
+is an eﬀective strategy to reduce climate vulnerability and is a strong determinant of a society’s adaptive
+capacity (Hallegatte & Rozenberg, 2017; Leichenko & Silva, 2014; Eakin, Lemos, & Nelson, 2014; Barnes
+et al., 2020).
+8
+Pessimistic
+0
+50
+100
+150
+200
+Additional people living in extreme poverty
+due to climate change (million, 2030)
+42.0
+131.5
+Climate change
+impacts
+Low
+High
+Optimistic
+32.2
+67.7
+Figure 5: Eﬀect of socioeconomic development to the number of people falling into extreme poverty in
+2030
+4 Discussion and conclusion
+Building upon the methodology developed in (Hallegatte et al., 2015; Rozenberg & Hallegatte, 2015;
+Hallegatte & Rozenberg, 2017), this study uses household survey data from the 2020 Global Monitoring
+Database to update climate-driven poverty projections for 2030.
+Several similarities in results compared to projections from a previous study (Hallegatte & Rozenberg,
+2017) can be observed. For example, we ﬁnd that health impacts are the dominant channel in most
+scenarios, pushing the largest number of people into extreme poverty. Impacts through increased food
+prices are the most uncertain ones (i.e., widest range of distribution), and could have an eﬀect on poverty
+even bigger than health impacts in the most pessimistic cases.
+Under the high climate change impact scenarios, we ﬁnd that climate-driven increase in prevalence
+of diseases on average leads to 44 million people falling into extreme poverty. This projection is slightly
+higher than the previous projection (around 30 million people), although it is still within a similar order
+of magnitude.
+This analysis does more than updating previous results and provides further results. For instance,
+we explore the dominant climate change impact channel in each region. Health impacts are particularly
+important in relatively richer regions (East Asia & Paciﬁc and Latin America & Caribbean), while
+impacts of food prices dominate in poorer regions (South Asia and Sub-Saharan Africa). This is because
+the impacts through health shocks (and disasters) are concentrated on a fraction of the population and
+can therefore push people into poverty even if their income would be relatively high without climate
+change impacts. Impacts on poverty through food prices, in contrast, aﬀect mostly people near poverty
+who spend a large share of their income on food. In the richest regions, even poor people are rich enough
+to manage the expected rise in food prices without falling into extreme poverty (which does not mean
+that they are not aﬀected: increased food prices would reduce their real consumption).
+Several diﬀerences compared to the previous study (Hallegatte & Rozenberg, 2017) are also observed.
+First, this study projects a higher climate vulnerability, in terms of increase in poverty headcount, com-
+pared with previous work. For example, under the worst case scenario (high climate change impact and
+pessimistic baseline), this study projects that on average there will be 131.5 million people pushed into
+extreme poverty whereas the previous projection was 122 million. Second, rapid and inclusive devel-
+opment has a slightly smaller eﬀect, although still substantial, on reduction of climate change impacts.
+In the previous study, the optimistic baseline reduces climate change impacts by 86%, while this study
+shows that the optimistic baseline reduces the impacts by only 50%.
+This discrepancy can be attributed to a diﬀerent selection of the ’optimistic’ and ’pessimistic’ baseline
+(termed prosperity and poverty scenarios in the previous study). While the previous study uses only one
+representative scenario for the optimistic baseline and one for the pessimistic baseline, this study uses
+a set of scenarios for characterizing the two baselines. Despite the diﬀerences, the main message is still
+9
+the same: rapid and inclusive development can be seen as an adaptation in itself since it substantially
+reduces climate change impacts on poverty.
+We do not attribute a probability to the realization of our optimistic or pessimistic baselines. However,
+the COVID-19 pandemic obviously changes the plausibility of the pessimistic baselines: while a stagnation
+of extreme poverty incidence could have been considered particularly pessimistic only one year ago, it is
+now estimated that the COVID-19 crisis could push 71 million people into extreme poverty in 2020 under
+the baseline scenario and 100 million under the downside scenario (World Bank, 2020). And COVID-19
+leaves most countries with high debt levels and less resources to invest in development, poverty reduction,
+and access to health care and infrastructure services. A slower reduction in extreme poverty between
+now and 2030 would translate into a larger share of the global population with extreme vulnerability
+to climate change impacts. The COVID-19 pandemic is therefore contributing to future climate change
+impacts.
+At the same time, governments have responded forcefully to the COVID-19 crisis with major invest-
+ments in social protection (Gentilini, Almenﬁ, Orton, & Dale, 2020), and large-scale recovery packages.
+2 These responses oﬀer opportunities to boost the future resilience of the population, for instance with
+improved social protection and health coverage for the poorest (Bodewig & Hallegatte, 2020), or with
+investments in landscape and ecosystems that contribute to resilience (Hallegatte & Hammer, 2020).
+In the next months and years, it will be critical to ensure that all synergies are captured between the
+response to COVID-19 (and the global economic crisis it has triggered) and anticipated climate change
+impacts. This study shows that the likely short-term impacts of climate change on poverty (32 million
+to 132 million additional people in extreme poverty by 2030) are of the same orders of magnitude as
+the impacts of COVID-19 (71 million to 100 million additional people in extreme poverty). There is
+utmost urgency to act to protect people aﬀected by the COVID-19 crisis and restore the historical trend
+toward the eradication of extreme poverty, but doing so is possible only by factoring in future climate
+change impacts and the need to provide all individuals, and especially the poorest, with the capacity and
+resources to adapt to them.
+References
+Andres, L., Brice˜ no, B., Chase, C., & Echenique, J. A. (2017). Sanitation and externalities: evidence
+from early childhood health in rural india. Journal of Water, Sanitation and Hygiene for Development ,
+7(2), 272–289.
+Bankes, S., Walker, W. E., & Kwakkel, J. H. (2013). Exploratory modeling and analysis. In S. I. Gass
+& M. C. Fu (Eds.), Encyclopedia of operations research and management science (pp. 532–537). Boston,
+MA: Springer US. doi: 10.1007/978-1-4419-1153-7 314
+Barnes, M. L., Wang, P., Cinner, J. E., Graham, N. A., Guerrero, A. M., Jasny, L., . . . Zamborain-
+Mason, J. (2020). Social determinants of adaptive and transformative responses to climate change.
+Nature Climate Change .
+Bathiany, S., Dakos, V., Scheﬀer, M., & Lenton, T. M. (2018). Climate models predict increasing
+temperature variability in poor countries. Science advances, 4(5), eaar5809.
+Bodewig, C., & Hallegatte, S. (2020). Building back better after covid-19: How social protection can help
+countries prepare for the impacts of climate change. development and a changing climate.Retrieved 2020-
+08-15, from https://blogs.worldbank.org/climatechange/building-back-better-after-covid
+-19-how-social-protection-can-help-countries-prepare
+Burke, M., Hsiang, S. M., & Miguel, E. (2015). Global non-linear eﬀect of temperature on economic
+production. Nature, 527(7577), 235–239.
+2https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19
+10
+Caminade, C., Kovats, S., Rocklov, J., Tompkins, A. M., Morse, A. P., Col´ on-Gonz´ alez, F. J., . . .
+Lloyd, S. J. (2014). Impact of climate change on global malaria distribution. Proceedings of the
+National Academy of Sciences , 111(9), 3286–3291.
+Cohen, J., & Dupas, P. (2010). Free distribution or cost-sharing? evidence from a randomized malaria
+prevention experiment. Quarterly journal of Economics , 125(1), 1.
+Cohen, J., Dupas, P., & Schaner, S. (2015). Price subsidies, diagnostic tests, and targeting of malaria
+treatment: evidence from a randomized controlled trial. American Economic Review , 105(2), 609–45.
+Dell, M., Jones, B. F., & Olken, B. A. (2008). Climate change and economic growth: Evidence from the
+last half century (Tech. Rep.). Cambridge, Massachusetts: National Bureau of Economic Research.
+Dellink, R., Lanzi, E., & Chateau, J. (2019). The sectoral and regional economic consequences of climate
+change to 2060. Environmental and Resource Economics , 72(2), 309–363.
+Dennig, F., Budolfson, M. B., Fleurbaey, M., Siebert, A., & Socolow, R. H. (2015). Inequality, climate
+impacts on the future poor, and carbon prices. Proceedings of the National Academy of Sciences ,
+112(52), 15827–15832.
+Eakin, H. C., Lemos, M. C., & Nelson, D. R. (2014). Diﬀerentiating capacities as a means to sustainable
+climate change adaptation. Global Environmental Change , 27, 1–8.
+Gentilini, U., Almenﬁ, M., Orton, I., & Dale, P. (2020). Social protection and jobs responses to covid-19.
+World Bank, Washington, DC.
+Hallegatte, S., Bangalore, M., Bonzanigo, L., Fay, M., Kane, T., Narloch, U., . . . Vogt-Schilb, A. (2015).
+Shock waves: managing the impacts of climate change on poverty . The World Bank.
+Hallegatte, S., Bangalore, M., & Vogt-Schilb, A. (2016). Assessing socioeconomic resilience to ﬂoods in
+90 countries. The World Bank. doi: 10.1596/1813-9450-7663
+Hallegatte, S., & Hammer, S. (2020). Think ahead: For a sustainable recovery for covid-19. development
+and a changing climate. Retrieved 2020-08-15, from https://blogs.worldbank.org/climatechange/
+thinking-ahead-sustainable-recovery-covid-19-coronavirus
+Hallegatte, S., & Rozenberg, J. (2017). Climate change through a poverty lens. Nature Climate Change,
+7(4), 250–256.
+Hallegatte, S., Vogt-Schilb, A., Bangalore, M., & Rozenberg, J. (2017). Unbreakable: building
+the resilience of the poor in the face of natural disasters . World Bank. Retrieved from https://
+openknowledge.worldbank.org/handle/10986/25335
+Havl´ ık, P., Valin, H., Gusti, M., Schmid, E., Lecl` ere, D., Forsell, N., . . . Obersteiner, M. (2015).Climate
+change impacts and mitigation in the developing world: An integrated assessment of the agriculture and
+forestry sectors . The World Bank. Retrieved from https://elibrary .worldbank .org/doi/abs/
+10.1596/1813-9450-7477 doi: 10.1596/1813-9450-7477
+Hertel, T. W. (2016). Food security under climate change. Nature Climate Change , 6(1), 10–13.
+Kasprzyk, J. R., Nataraj, S., Reed, P. M., & Lempert, R. J. (2013). Many objective robust decision
+making for complex environmental systems undergoing change. Environmental Modelling & Software ,
+42, 55–71.
+Kolstad, E. W., & Johansson, K. A. (2011). Uncertainties associated with quantifying climate change
+impacts on human health: a case study for diarrhea. Environmental Health Perspectives, 119(3), 299–
+305.
+11
+Kwakkel, J. H. (2017). The exploratory modeling workbench: An open source toolkit for exploratory
+modeling, scenario discovery, and (multi-objective) robust decision making. Environmental Modelling
+& Software, 96, 239 - 250. doi: 10.1016/j.envsoft.2017.06.054
+Kwakkel, J. H., & Haasnoot, M. (2019). Supporting dmdu: A taxonomy of approaches and tools. In
+V. A. W. J. Marchau, W. E. Walker, P. J. T. M. Bloemen, & S. W. Popper (Eds.),Decision making under
+deep uncertainty: From theory to practice (pp. 355–374). Cham: Springer International Publishing. doi:
+10.1007/978-3-030-05252-2 15
+Lecl` ere, D., Jayet, P.-A., & de Noblet-Ducoudr´ e, N. (2013). Farm-level autonomous adaptation of
+european agricultural supply to climate change. Ecological Economics, 87, 1 - 14. doi: 10.1016/
+j.ecolecon.2012.11.010
+Leichenko, R., & Silva, J. A. (2014). Climate change and poverty: vulnerability, impacts, and alleviation
+strategies. Wiley Interdisciplinary Reviews: Climate Change , 5(4), 539–556.
+Lloyd, S. J., Kovats, R. S., & Chalabi, Z. (2011). Climate change, crop yields, and undernutrition: de-
+velopment of a model to quantify the impact of climate scenarios on child undernutrition.Environmental
+health perspectives, 119(12), 1817–1823.
+McKay, M. D., Beckman, R. J., & Conover, W. J. (1979). Comparison of three methods for selecting
+values of input variables in the analysis of output from a computer code. Technometrics, 21(2), 239-245.
+doi: 10.1080/00401706.1979.10489755
+Mendelsohn, R., Dinar, A., & Williams, L. (2006). The distributional impact of climate change on rich
+and poor countries. Environment and development economics , 159–178.
+Nelson, G. C., Valin, H., Sands, R. D., Havl´ ık, P., Ahammad, H., Deryng, D., . . . Willenbockel, D.
+(2014). Climate change eﬀects on agriculture: Economic responses to biophysical shocks. Proceedings
+of the National Academy of Sciences , 111(9), 3274–3279. doi: 10.1073/pnas.1222465110
+Organization, W. H. (2014). Quantitative risk assessment of the eﬀects of climate change on selected
+causes of death, 2030s and 2050s [Publications]. Author.
+Osborne, T., Rose, G., & Wheeler, T. (2013). Variation in the global-scale impacts of climate change on
+crop productivity due to climate model uncertainty and adaptation.Agricultural and Forest Meteorology,
+170, 183–194.
+O’Neill, B. C., Kriegler, E., Ebi, K. L., Kemp-Benedict, E., Riahi, K., Rothman, D. S., . . . others
+(2017). The roads ahead: Narratives for shared socioeconomic pathways describing world futures in the
+21st century. Global Environmental Change , 42, 169–180.
+O’Neill, B. C., Kriegler, E., Riahi, K., Ebi, K. L., Hallegatte, S., Carter, T. R., . . . van Vuuren, D. P.
+(2014). A new scenario framework for climate change research: the concept of shared socioeconomic
+pathways. Climatic change , 122(3), 387–400.
+Rozenberg, J., & Hallegatte, S. (2015). The impacts of climate change on poverty in 2030 and the
+potential from rapid, inclusive, and climate-informed development (Tech. Rep. No. WPS7483). The
+World Bank. Retrieved 2016-03-08, from http://documents .worldbank .org/curated/en/2015/
+11 / 25257367 / impacts -climate -change -poverty -2030 -potential -rapid -inclusive -climate
+-informed-development
+Samir, K., & Lutz, W. (2017). The human core of the shared socioeconomic pathways: Population
+scenarios by age, sex and level of education for all countries to 2100. Global Environmental Change, 42,
+181–192.
+Skouﬁas, E., Rabassa, M., & Olivieri, S. (2011). The poverty impacts of climate change: a review of the
+evidence. The World Bank.
+12
+Tol, R. S. (2009). The economic eﬀects of climate change. Journal of economic perspectives , 23(2),
+29–51.
+World Bank. (2016). Global consumption database. World Bank.
+World Bank. (2018). Poverty and shared prosperity 2018 : Piecing together the poverty puzzle . Wash-
+ington, D.C.: World Bank Group. Retrieved from http://documents .worldbank .org/curated/
+en/104451542202552048/Poverty-and-Shared-Prosperity-2018-Piecing-Together-the-Poverty
+-Puzzle
+World Bank. (2020). Pandemic, recession: The global economy in crisis. global economic prospect.
+Appendix 1
+The table below shows the household survey year for each country included the analysis.
+No Country Survey year
+1 AGO 2018
+2 AUT 2018
+3 BDI 2013
+4 BEL 2018
+5 BEN 2015
+6 BFA 2014
+7 BGD 2016
+8 BGR 2018
+9 BIH 2011
+10 BOL 2018
+11 BRA 2018
+12 BTN 2017
+13 BWA 2015
+14 CHE 2018
+15 CIV 2015
+16 CMR 2014
+17 COD 2012
+18 COL 2018
+19 COM 2013
+20 CRI 2018
+21 CYP 2018
+22 CZE 2018
+23 DNK 2018
+24 DOM 2018
+25 ECU 2018
+26 ESP 2018
+27 EST 2018
+28 ETH 2015
+29 FIN 2018
+30 FRA 2018
+31 GBR 2017
+32 GHA 2016
+33 GRC 2018
+34 GTM 2014
+35 HND 2018
+36 HRV 2018
+13
+37 HUN 2018
+38 IDN 2016
+39 IRL 2017
+40 IRQ 2012
+41 ISL 2016
+42 ITA 2018
+43 JOR 2010
+44 KAZ 2017
+45 LAO 2012
+46 LKA 2016
+47 LSO 2017
+48 LTU 2018
+49 LUX 2018
+50 LVA 2018
+51 MAR 2013
+52 MEX 2018
+53 MKD 2017
+54 MMR 2015
+55 MNG 2016
+56 MOZ 2014
+57 MRT 2014
+58 NER 2014
+59 NGA 2009
+60 NIC 2014
+61 NOR 2018
+62 PAK 2015
+63 PAN 2018
+64 PER 2018
+65 PHL 2015
+66 PNG 2009
+67 POL 2018
+68 PRT 2018
+69 ROU 2018
+70 SDN 2009
+71 SLB 2013
+72 SLE 2018
+73 SLV 2018
+74 SVK 2017
+75 SWE 2018
+76 SWZ 2016
+77 TCD 2011
+78 TGO 2015
+79 THA 2017
+80 TLS 2014
+81 TZA 2018
+82 UGA 2016
+83 URY 2018
+84 VNM 2016
+85 VUT 2010
+86 ZMB 2015
+14

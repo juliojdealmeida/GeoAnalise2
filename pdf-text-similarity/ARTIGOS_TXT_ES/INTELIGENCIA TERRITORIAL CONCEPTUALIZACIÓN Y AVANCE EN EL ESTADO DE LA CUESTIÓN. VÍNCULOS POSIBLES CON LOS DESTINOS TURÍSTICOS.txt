@@ -1,0 +1,879 @@
+Cuadernos de Turismo, 41, (2018), 535-554
+Cuadernos de Turismo, nº 41, (2018); pp. 535-554	
+Universidad de Murcia
+ISSN: 1139-7861
+eISSN: 1989-4635
+DOI: http://dx.doi.org/10.6018/turismo.41.327141
+INTELIGENCIA TERRITORIAL: 
+CONCEPTUALIZACIÓN Y AVANCE EN EL ESTADO 
+DE LA CUESTIÓN. VÍNCULOS POSIBLES CON LOS 
+DESTINOS TURÍSTICOS
+María Jesús Perea-Medina
+Enrique Navarro-Jurado
+Ana María Luque-Gil
+Universidad de Málaga
+RESUMEN
+En el documento se presenta la definición, evolución y elementos clave del concepto 
+inteligencia territorial (IT). Así, se muestran las herramientas desarrolladas desde la IT y un 
+estudio de las aplicaciones llevadas a cabo, teniendo en cuenta las herramientas, ubicación 
+y temática. Por el objeto de esta investigación, donde se trata de vincular IT y turismo, se 
+muestran relevantes los casos donde se han aplicado ambos conceptos. La búsqueda de expe­
+riencias en turismo hace imprescindible una valorización de las comunidades anfitrionas, y 
+esto es posible a través de la IT.
+Palabras clave: inteligencia territorial; desarrollo sostenible; gobernanza; TIC; turismo.
+Territorial Intelligence: conceptualization and progress in the status of the issue. 
+Possible links to tourist destination.
+ABSTRACT
+The document presents the definition, evolution and key elements of Territorial Intelligence 
+(TI). Subsequently, shown the tools developed from the TI and a study of the applications 
+carried out, taking into account the implemented tools, location and subject. The aim of this 
+Recibido: 24 de marzo de 2017
+Devuelto para su revisión: 13 de junio de 2017
+Aceptado: 26 de julio de 2017
+Facultad de Turismo. Universidad de Málaga. Calle de León Tolstoi s/n. 29071 MÁLAGA (España). E-mail: 
+maria_vva_vva@hotmail.com, enavarro@uma.es, geoana@uma.es
+
+
+MARÍA JESÚS PEREA-MEDINA, ENRIQUE NAVARRO-JURADO Y ANA MARÍA LUQUE-GIL
+536
+Cuadernos de Turismo, 41, (2018), 535-554
+research, which it’s generate a link between TI and tourism, are relevant cases where both 
+concepts has been applied. Experiences search raises a new way of tourism, so is essential 
+that tourism find a valorization of host communities, and this is possible through the TI.
+Keyword: territorial intelligence; sustainable development; governance; ICT; tourism.
+1.	 INTRODUCCIÓN
+Algunos de los problemas que la sociedad experimenta en la actualidad se deben al 
+modelo económico imperante, basado en el consumo, donde el crecimiento ilimitado es 
+la máxima que canibaliza los recursos naturales y culturales, y conlleva desigualdades 
+sociales cada vez más pronunciadas. Una sociedad que busque solucionar estas diferencias 
+por medio de medidas no sólo económicas sino integrales, debe actuar con inteligencia 
+dado el grado de conocimiento existente. Es en este contexto en el que surge el concepto 
+de “inteligencia territorial”, con los tres elementos que la definen: desarrollo sostenible, 
+gobernanza y Nuevas Tecnologías de la Información y la Comunicación. 
+En otro orden de cosas, una de las actividades de mayor importancia global es el 
+turismo, que se define bajo reglas de consumo de tiempo de ocio, y donde la mercantili­
+zación de los recursos, estandarización y homogeneización han marcado su evolución en 
+el tiempo. A día de hoy, existen nuevas formas de hacer turismo, donde prima lo auténtico 
+y la búsqueda de experiencias, de ahí que el patrimonio, la cultura, la identidad local, 
+se hayan convertido en aspectos fundamentales por los que apostar los gestores de los 
+destinos turísticos. El turismo es un sector que se desarrolla en un territorio en concreto, 
+que es capaz de generar experiencias a través de sus recursos materiales e inmateriales, y 
+donde existen una gran diversidad de actores involucrados, por tanto, a priori podría ser 
+partícipe de iniciativas propias de la inteligencia territorial. 
+Con estos dos elementos como base –inteligencia territorial y turismo– el obje­
+tivo básico de la comunicación es realizar una primera aproximación entre al vínculo 
+referido, atendiendo a aspectos conceptuales, analizando aplicaciones-proyectos desa­
+rrollados e investigando los puntos de conexión entre ambos términos. Para ello, la 
+comunicación comienza definiendo el concepto y evolución del término inteligencia 
+territorial, continua explicando los elementos clave, sigue con la presentación de deter­
+minadas herramientas y aplicaciones que se han llevado a cabo, para concluir, con 
+ejemplos concretos que vinculan la inteligencia territorial y el turismo. Por último, a 
+modo de reflexión, se plantean algunas líneas de investigación futuras que pueden ser de 
+utilidad en el avance de estos planteamientos novedosos en el marco del uso turístico de 
+los territorios. Es necesario plantear que a día de hoy existen muy pocos trabajos donde 
+se vincule inteligencia territorial y turismo, mientras que en otros campos de actuación, 
+como el empleo, la planificación territorial, la integración social o la pobreza, si son 
+más abundantes. Es por esto, que la presente comunicación trata de aportar el estado de 
+la cuestión, con el fin de poder avanzar en la vinculación entre inteligencia territorial 
+y turismo, elaborando una propuesta de tesis doctoral que vincule ambos conceptos y 
+experimentarlo en Málaga.
+
+
+INTELIGENCIA TERRITORIAL: CONCEPTUALIZACIÓN Y AVANCE EN EL ESTADO DE LA ...
+537
+Cuadernos de Turismo, 41, (2018), 535-554
+2. 	CONCEPCIÓN Y EVOLUCIÓN DEL TÉRMINO INTELIGENCIA TERRITO­
+RIAL
+El concepto y las herramientas propias de la inteligencia territorial tienen su origen a 
+finales de los años ochenta, para dar respuesta a las necesidades de un grupo de actores 
+territoriales que trabajaban en proyectos de lucha contra la pobreza (Miedes et al., 2010). 
+En 1989, la ausencia de planes territoriales basados en la participación, la exigencia de 
+planteamientos críticos en el ámbito del desarrollo sostenible, y la revolución de las tec­
+nologías de la información y la comunicación (TICs), dan lugar a que surja en Europa 
+(Besançon, Francia) el método “Catalyse” (Girardot, 2010), cuyo principal objetivo era 
+la creación de inteligencias colectivas a través de diversas herramientas (de diagnóstico 
+y de evaluación), con el fin de que los actores pudiesen elaborar, argumentar, animar y 
+evaluar proyectos de desarrollo sostenible. Desde Francia y a partir de 1994, este proyecto 
+se extendió a España, Bélgica, Rumanía y Hungría. No obstante, hay que esperar al año 
+2000 para que se plantee la primera definición de Inteligencia Territorial, entendida como 
+“un medio para los investigadores, para los actores y para la comunidad territorial 
+de adquirir un mejor conocimiento del territorio, pero también de controlar mejor su 
+desarrollo (…)” (Girardot, 2010: 15). Esta tesis inicial ya recoge los dos aspectos funda­
+mentales que marcarán otras definiciones: el enfoque científico y los actores-comunidad 
+territorial (Girardot, 2002; Bertacchini, 2004; Devillet et al., 2008; Girardot, 2008; Boz­
+zano, 2010; Almansa, 2010; Miedes et al., 2010; Frediani, 2012; Poujol, 20131; Sánchez, 
+20132; Gliemmo, 2013; Marek, 20133). El enfoque científico en la inteligencia territorial 
+tiene como función integrar y desarrollar el conocimiento multidisciplinario y los métodos 
+necesarios para comprender las estructuras territoriales, los sistemas territoriales y las 
+dinámicas de los territorios (Soulier et al., 2011). De ello se deduce que la inteligencia 
+territorial no puede ser vista como una disciplina, no es la simple suma de conocimientos, 
+sino que se conforma como un conjunto de conocimientos obtenidos mediante la obser­
+vación y el razonamiento estructurado. 
+Los actores-comunidad territorial suponen el segundo pilar de la inteligencia territorial, 
+de hecho ésta se define como un proceso que se basa en el entendimiento que articula el 
+conocimiento, siendo imprescindibles la co-participación, la co-construcción y la colabo­
+ración llevada a cabo por los diferentes actores (Bozzano, 2010; Frediani, 2012; Masselot, 
+2008). Con estos tres ítems, se puede trabajar para generar el desarrollo integral de las 
+zonas con mayores dificultades, lo que se traduce en una mejor articulación y combinación 
+de los objetivos económicos, sociales y ambientales de un territorio. De hecho, Bozzano 
+(2011) argumenta que un territorio nunca podrá ser inteligente sin la presencia de los 
+actores que son los que le imprimen dicha cualidad (metáfora de la mesa)4. Así pues, 
+1	
+Poujol, L. citado en Bozzano (2013).
+2	
+Sánchez, C. citado en Bozzano (2013).
+3	
+Marek, A. citado en Seminario en Minas (2013).
+4	
+La metáfora de la mesa plantea de manera muy representativa como se trabaja con la inteligencia terri­
+torial, y hace referencia a la co-construcción de transformaciones con actores territoriales. Existen cuatro patas 
+compuestas por los actores políticos, sociales, económicos y científicos. La tabla de la mesa representa el terri­
+torio por transformar. Encima de la mesa hay tartas, que simulan los proyectos que eligen los actores, y cada una 
+
+
+MARÍA JESÚS PEREA-MEDINA, ENRIQUE NAVARRO-JURADO Y ANA MARÍA LUQUE-GIL
+538
+Cuadernos de Turismo, 41, (2018), 535-554
+se habla de inteligencia territorial cuando los actores –gestores o no– conocen bien el 
+territorio o se esfuerzan para conocerlo a través del acceso a información de todo tipo, 
+siempre y cuando dicho conocimiento se utilice, y esto es importante recordarlo, de 
+forma sostenible territorialmente. 
+Junto al enfoque científico y los actores, las herramientas se convierten en piezas 
+clave de todo este proceso, fundamentalmente porque la actual sociedad de la informa­
+ción cuenta con métodos científicos y herramientas que, a través de las TICs, pueden 
+llegar a los actores que lo deseen y facilitar la búsqueda de alternativas al despilfarro 
+de recursos. De hecho, en la anterior definición se reconoce que “(…) la apropiación 
+de las tecnologías de la comunicación y de la información, en sí misma, es una etapa 
+indispensable para que los actores introduzcan un proceso de aprendizaje que les per­
+mitirá obrar de manera pertinente y eficiente (…)” (Girardot, 2010: 15). Es por ello que 
+el concepto “información” ha de entenderse desde el intercambio, la mutualización, la 
+organización y el conocimiento, para así facilitar el trabajo colaborativo de los actores 
+implicados en un territorio (Bertacchini et al., 2003; Bertacchini, 2004; Dumas, 2004; 
+Devillet et al., 2008). Y el concepto “comunicación” debe actuar primero, como hilo 
+conductor de la información “(…) la cultura, la información, la identidad, la transmi­
+sión y el patrimonio tienen gran importancia (…) desde las ciencias de la información 
+y la comunicación, en el proceso Datos-Información-Acción (…) se estructura la infor­
+mación y se gestiona, co-construyendo conocimientos y comunicaciones (…)” (Bozzano, 
+2013: 5); y segundo, como una “puesta en común”5 que surge cuando las comunidades se 
+comunican y median a nivel cultural, de intercambio y de necesidades. En este sentido, 
+hace referencia al aprendizaje colectivo6, donde los actores piensan y viven su “para 
+qué” y la inteligencia territorial les facilita la herramienta para resolver el “cómo”. Por 
+tanto, la educación, la transmisión de conocimiento y la cultura de los actores locales, 
+es fundamental para la construcción de las TICs y para comprender la necesidad de una 
+intervención social. 
+Un debate actual e interesante, es si la inteligencia territorial es una ciencia o no. La 
+definición empleada por la European Network of Territorial Intelligence (ENTI) cita que 
+la “Inteligencia Territorial es la ciencia que tiene por objeto el desarrollo sostenible y 
+que tiene por sujeto la comunidad territorial” (Girardot, 2008). Sin embargo, el mismo 
+autor tiene una evolución al respecto, porque inicialmente plantea que es un “medio” 
+para los investigadores (Girardot, 2000), posteriormente hace referencia a un “conoci­
+miento multidisciplinar” (Girardot, 2002) para, finalmente, hablar de ciencia (Girardot, 
+2010). Pero no es el único que plantea tal controversia, Frediani (2012) también propone 
+que la inteligencia territorial sea una forma de hacer ciencia. Sin embargo, autores como 
+Girardot (2000), Devillet (2008)7, Masselot (2013) y Sánchez (2013) que proponen que 
+de las capas de chocolate de las tartas representan cada proceso y sus etapas de concreción. A su vez, la mesa se 
+sostiene sobre un fondo que se colorea de abajo hacia arriba con distintos tonos, que representan en primer lugar a 
+los sujetos, en segundo lugar a los objetos, en tercera posición las herramientas y finalmente los logros obtenidos. 
+5	
+Canevari, T. citado en Seminario en Minas (2013).
+6	
+Scala, E. citado en Seminario en Minas (2013).
+7	
+Devillet (2008) y Masselot (2013) citado en Bozzano (2013); Sánchez (2013) citado en Seminario en 
+Minas (2013).
+
+
+INTELIGENCIA TERRITORIAL: CONCEPTUALIZACIÓN Y AVANCE EN EL ESTADO DE LA ...
+539
+Cuadernos de Turismo, 41, (2018), 535-554
+la inteligencia territorial es un enfoque científico debido a su carácter multidisciplinar, 
+no lo plantean como una ciencia. Coincidiendo con esta idea, los investigadores de esta 
+comunicación se posicionan en el debate con la visión de que la inteligencia territorial 
+es entendida como enfoque científico. Por tanto, se podría tomar como referencia más 
+representativa la definición dada por Devillet (Bozzano, 2013: 5): “la inteligencia 
+territorial es un enfoque científico colectivo de movilización de las inteligencias dentro 
+de una región… para así, mejorar el bienestar individual y aumentar la resiliencia del 
+territorio en el marco del desarrollo sostenible. Es un enfoque transversal que involucra 
+la consideración de todos los sectores de actividad y la movilización de los actores del 
+territorio e investigadores institucionales interdisciplinares...”. En lo que sí coinciden 
+las investigaciones es en la relevancia dada al desarrollo social y medioambiental. Así, 
+se podría pensar que ya está implícita la dimensión económica, si se tiene en cuenta 
+que la inteligencia territorial trata de poner los recursos a disposición de los actores. 
+Pero se puede plantear que un enfoque donde no prima el aspecto económico a priori, 
+es complejo de aplicar, dado que la primacía del consumismo, uno de los pilares básicos 
+del capitalismo, va en contraposición de estos territorios. Esto se ve justificado en la 
+evolución del concepto de inteligencia territorial, donde desde un primer momento se 
+ha intentado vincular a un concepto de origen economicista, pero que podría no corres­
+ponderse con la realidad del concepto de inteligencia territorial. 
+Se plantea que la “inteligencia colectiva” (IC) y la “inteligencia económica” (IE) 
+pueden considerarse referentes conceptuales de la inteligencia territorial. De la IC se 
+deribó la idea de “gestión del conocimiento territorial” (GCT), que trata las acciones 
+que buscan el desarrollo humano y la mejora constante de la calidad de vida de los ciu­
+dadanos (Mora, 2003). A su vez, la IE deribó hacia la idea de “inteligencia económica 
+territorial” (IET), entendida como la creación de productos y servicios a través de la 
+inteligencia económica para la innovación económica de los actores y (…) el desarrollo 
+de territorios digitales (Goria, 2006 y Gaucherand, 20068). 
+Sin embargo, y de acuerdo con Girardot (2008), estas definiciones derivadas de la IE 
+se apartan de la dada para la inteligencia territorial. Por tanto, la IT no debe confundirse 
+con la IET porque, si bien es cierto que ambos usan las tecnologías de la información 
+y la comunicación como herramientas, se diferencian en cuanto a sus objetivos. La 
+inteligencia territorial no percibe el territorio como un mercado, sino como un espacio 
+participativo y de colaboración, pero esto ya lo plantea la IC cuando se define como “los 
+resultados de la colaboración y el intercambio de información, así como de la compe­
+tencia entre los individuos… que se puede considerar una forma de red, la cual ha sido 
+posible gracias a la evolución reciente de la tecnología de la información” (Girardot, 
+2010: 29). Sin embargo, en la IET los actores y el territorio están al “servicio” de la 
+inteligencia económica, y no al contrario, como define la inteligencia territorial, donde 
+los actores se sirven del territorio para su bienestar y desarrollo.
+8	
+Gaucherand, A. (2006) citado en Girardot (2008).
+
+
+MARÍA JESÚS PEREA-MEDINA, ENRIQUE NAVARRO-JURADO Y ANA MARÍA LUQUE-GIL
+540
+Cuadernos de Turismo, 41, (2018), 535-554
+Gráfico 1
+EVOLUCIÓN HACIA EL CONCEPTO DE IT
+Fuente: elaboración propia.
+3. 	FUNDAMENTOS, HERRAMIENTAS Y APLICACIONES DE INTELIGENCIA 
+TERRITORIAL
+3.1. Los fundamentos de la inteligencia territorial
+Conocida la definición y el origen de la inteligencia territorial, es necesario avanzar 
+en sus fundamentos a partir del acercamiento a sus tres elementos principales: desarrollo 
+sostenible, gobernanza y nuevas tecnologías de la información y comunicación.
+3.1.1. Desarrollo Sostenible
+El desarrollo sostenible, entendido como una visión de futuro que es capaz de afron­
+tar los problemas medioambientales y la distribución desigual de recursos, contiene tres 
+dimensiones: las necesidades humanas, las limitaciones del ecosistema global y un mayor 
+desarrollo económico. Es por ello, que el concepto está vinculado a la necesidad de una 
+relación humano-territorio que permita la conservación del medio para que este siga siendo 
+
+
+INTELIGENCIA TERRITORIAL: CONCEPTUALIZACIÓN Y AVANCE EN EL ESTADO DE LA ...
+541
+Cuadernos de Turismo, 41, (2018), 535-554
+productivo. Lo que llamamos sostenibilidad es, por tanto, el resultado de un patrón de 
+organización (De Franco, 2000). Se entiende que el desarrollo sostenible se relaciona con 
+la calidad de vida y no debe confundirse solo con el crecimiento económico. Lo con­
+tradictorio es que a medida que crece la preocupación por la sostenibilidad, de manera 
+implícita surge la insostenibilidad de un modelo económico dominado por la civilización 
+industrial (Naredo, 1997), que favorece a los países del llamado primer mundo, para cada 
+vez más empobrecer a los países con menos posibilidades pero con más recursos, que son 
+explotados por los denominados “países desarrollados”.
+No obstante, el modelo de desarrollo sostenible, fundamentalmente por la ambigüedad 
+del concepto, ha llevado a emplearlo más como una “fórmula mágica teórica” que como 
+una aplicación real que proponga soluciones sobre el territorio, de hecho, diversos auto­
+res como Naredo (1997) plantean que bajo el paraguas del desarrollo sostenible, se han 
+desarrollado simplemente actuaciones puramente económicas, utilizando como excusa el 
+medio ambiente y la sociedad. 
+Es por estas razones, por las que la inteligencia territorial se plantea como investi­
+gación-acción. El hecho de que las comunidades humanas sean el foco principal para la 
+inteligencia territorial, viene explicado por la importancia real que se le ha concedido al 
+desarrollo sostenible desde un punto de vista local. Es más factible lograr un desarrollo 
+sostenible a escala local, donde los actores están en contacto directo con su territorio. 
+Se pretende potenciar las capacidades e iniciativas locales, la cercanía a los proble­
+mas, necesidades y recursos, así como permitir a la ciudadanía que elabore acciones y 
+estrategias para el desarrollo. Para implementar estos modelos participativos basados en 
+micro-problemas, micro-acciones y micro transformaciones es necesario tener en cuenta 
+el factor escala, por la complejidad de la cooperación entre actores y de la implantación 
+de un modelo de gobernanza. 
+3.1.2. Gobernanza
+El concepto gobernanza ha sido atendido profusamente en las dos últimas décadas. En 
+principio existe una clara diferenciación entre la idea de gobierno y gobernanza ya que, 
+mientras que el gobierno se caracteriza por la presencia de un poder (Estado) organizado 
+mediante los poderes públicos con relaciones jerárquicas, la gobernanza hace referencia 
+al nacimiento de un nuevo sistema relacional más complejo, que incluye actores ajenos 
+a la política, representando una alternativa al modelo de gestión pública (Farinós, 2008). 
+Teniendo en cuenta las bases de la inteligencia territorial, la gobernanza debe tener un 
+enfoque basado en redes (Messner et al., 1994; Pierre, 2000; Peters, 2006) y un sistema 
+socio-céntrico: el foco de atención es la coordinación, el auto-gobierno y la descentraliza­
+ción. A su vez, se evidencia la existencia de un gobierno que pasa de ser “unidireccional” 
+o estado-céntrico (gobernantes-gobernados) a convertirse en “bidireccional” (público-
+privado), donde la gobernanza se entiende como un fenómeno social y de colaboración 
+para presentar soluciones y oportunidades colectivas (Kooiman, 2003). 
+Es necesario que las diferencias jerárquicas se minimicen y que se siga una estructura 
+horizontal, donde los acuerdos y las decisiones sean fruto de un consenso entre los acto­
+res implicados (Torres et al., 2008). Lo “público” ha de incluir a las instituciones y a la 
+
+
+MARÍA JESÚS PEREA-MEDINA, ENRIQUE NAVARRO-JURADO Y ANA MARÍA LUQUE-GIL
+542
+Cuadernos de Turismo, 41, (2018), 535-554
+sociedad, es decir, una gobernanza multinivel y de participación activa de la población. 
+Para esto, se requiere relaciones de transferencia y coordinación (Almansa, 2010). Una 
+de las claves del éxito es tener una base científica en las herramientas que acompañan los 
+procedimientos de actuación, para asegurar la efectividad de una gobernanza multinivel. 
+Una de las herramientas más utilizadas son los “observatorios territoriales”, que deben 
+ser capaces de obtener datos y rentabilizar el conocimiento generado a través de las 
+TIC, con el fin de desarrollar procesos de planificación, gestión y evaluación, según las 
+bases de la gobernanza.
+Pero la realidad es menos esperanzadora, porque la idea de gobernanza no impera 
+en la mayoría de gobernantes que suelen tener una visión a corto plazo y muy sesgada 
+en relación con su ámbito de interés. Para que un territorio sea inteligente y cuente con 
+un buen sistema de gobernanza, es necesario una cultura de cooperación no solo desde 
+la escala local, sino a nivel regional, nacional y mundial. Donde políticos, empresarios 
+y ciudadanos tengan similares enfoques sobre la perdurabilidad económica, social y 
+ambiental a largo plazo, lejos de sus años de candidatura o beneficios empresariales a 
+costa de todo. Se presenta como una ardua tarea, ya que en una economía globalizada 
+y capitalista, no se suele ver más allá de las aspiraciones económicas y beneficios 
+individuales. 
+3.1.3. TIC
+La inteligencia territorial debería configurar y desarrollar sistemas socio-técnicos 
+para hacer efectiva la integración social con el territorio. Para ello los actores requieren 
+de herramientas y técnicas de comunicación, pero deben ser capaces de hacerlas evolu­
+cionar expresando las necesidades que surgen con el uso de las mismas. En este sentido, 
+el primer requisito que se plantea la inteligencia territorial es promover la difusión de 
+la información, en un entorno de comunicación que sea capaz de trasladar lo local a lo 
+global, y que sirva para conocer las necesidades de una población con el fin de actuar. 
+Desde las ciencias de la información y de la comunicación, el proceso “informacional” 
+y antropológico supone la conjunción de tres hipótesis (Bertacchini, 2000): (1) los 
+actores intercambian información (generación de energía a nivel individual o colectivo); 
+(2) los actores dan credibilidad a la información que reciben (captura e intercambio de 
+información); (3) una vez que el proceso de información se ha establecido, los acto­
+res desarrollan las redes apropiadas y transfieren sus competencias y conocimientos 
+(movilización y transferencia de energía: formulación de un proyecto de desarrollo). 
+La unión de estas tres hipótesis provoca que las competencias y conocimientos de los 
+actores puedan ser identificados mediante la información que han transmitido y se pueda 
+trasferir al resto de comunidad, así la información recabada se pueden transformar en 
+acciones de desarrollo local. 
+Para que las TIC puedan proporcionar herramientas a la inteligencia territorial, se 
+deben cumplir los siguientes requisitos (Girardot, 2010): (1) ser métodos y herramien­
+tas comprensibles para los actores y respetuosos con la ética del desarrollo sostenible; 
+(2) dar difusión a los métodos fundamentales de análisis de los territorios (Sistema 
+de Información Territorial) y del procesamiento de datos territoriales; (3) promover la 
+
+
+INTELIGENCIA TERRITORIAL: CONCEPTUALIZACIÓN Y AVANCE EN EL ESTADO DE LA ...
+543
+Cuadernos de Turismo, 41, (2018), 535-554
+aplicación de los principios de gobernanza, de intercambio de conocimiento y facilitar 
+la investigación-acción territorial. La función de las TIC para la implementación de 
+procesos de inteligencia territorial es básica, ya que concierne al análisis de los méto­
+dos científicos, a las herramientas genéricas como los Software y SIG, al desarrollo de 
+una visión sistémica del concepto de territorio, a un enfoque global de la información 
+territorial y a la implantación de los principios de colaboración y de participación. 
+Pero este escenario dominado por las TIC genera otros conflictos y desigualdades 
+ya que, estas herramientas, deberían haber servido para promover la igualdad y equidad 
+territorial, no obstante, en muchas ocasiones han servido para incrementar las diferencias 
+y promover la decadencia de regiones, aquellas que no tienen recursos para acceder 
+a las mismas (Calderón, 2012). Es por ello, que la inteligencia territorial plantea el 
+diseño de herramientas adaptativas a los territorios, teniendo en cuenta las dificultades 
+tecnológicas de los mismos y sus limitaciones. TIC que contribuyen al desarrollo, que 
+solucionan problemas y cubren necesidades, y que sirven como medio para disminuir 
+las desigualdades culturales, económicas y sociales existentes (Naciones Unidas, 2005). 
+4. 	HERRAMIENTAS Y APLICACIONES DE INTELIGENCIA TERRITORIAL
+Las herramientas y métodos desarrollados desde la inteligencia territorial tienen su 
+base en la estrecha colaboración de los actores territoriales y los equipos de investiga­
+ción, enfocados en una dinámica de investigación-acción para aportar soluciones reales 
+a las problemáticas actuales. Gran parte de las herramientas que se han desarrollado 
+por la ENTI (Red Europea de Inteligencia Territorial) y por el equipo de investigación 
+interdisciplinar TAG (Territorio Actores y Gobernanza para la Transformación9) en 
+Latinoamérica, han sido planteadas para ser utilizadas por partenariados de actores que 
+actúan sobre una misma problemática o espacio. Dichas herramientas se caracterizan por 
+combinar técnicas cualitativas, cuantitativas y espaciales basadas en las TIC´s. Al ser 
+los actores partícipes de su diseño, están adaptadas a sus necesidades y son totalmente 
+accesibles, tanto desde un punto de vista económico como por la sencillez de su uso. 
+En Europa Catalyse emplea un sistema de información territorial (Sitra) como prin­
+cipal herramienta y varios softwares (Pragma, Anaconday Nuage). Es muy común la 
+creación de Observatorios Territoriales, aunque estos no son “nuevos operadores en el 
+territorio, sino un espacio funcional en el que los operadores materializan los procesos 
+de gobernanza asociados a la intervención territorial” (Almansa, 2010: 75). Estas herra­
+mientas han sido desarrolladas desde la ENTI, que reúne a los equipos de investigación 
+y actores territoriales para diseñar, gestionar y evaluar acciones de desarrollo sostenible 
+que mejoren el bienestar de los ciudadanos y de las comunidades territoriales. 
+En Latinoamérica el equipo TAG basa sus herramientas en la Perspectiva Metodo­
+lógica EIDT (Entendimiento, Inteligencia y Desarrollo Territorial), cuyo objetivo es 
+construir entre actores locales métodos de investigación e instrumentos de interven­
+9	
+Es un equipo creado en 2007 y formado por investigadores de la Universidad Nacional de La Plata 
+(UNLP), el CONICET (Consejo Nacional de Investigaciones Científicas y Técnicas de la Argentina) y actores 
+asociados. TAG, a su vez, forma parte del GDRI-INTI “Groupe De Recherche International-International 
+Network of Territorial Intelligence” (INTI).
+
+
+MARÍA JESÚS PEREA-MEDINA, ENRIQUE NAVARRO-JURADO Y ANA MARÍA LUQUE-GIL
+544
+Cuadernos de Turismo, 41, (2018), 535-554
+ción territorial que acompañen sistemáticamente a la: imagen de futuro, estrategia que 
+llevará a ella y obtención de logros colectivos (Bozzano et al., 2010). La metodología 
+EIDT es el fundamento que da pie a seis herramientas: (1) Observatorios de Inteligen­
+cia y Desarrollo Territorial (OIDTe) que despliega una estrategia multi-metodológica 
+cuyas referencias son las experiencias europeas; (2) Método Territorii, empleado para 
+analizar, interpretar y determinar un problema en ocho momentos: territorios reales, 
+vividos, pasados, legales, pensados, posibles, concertados e inteligentes; (3) Método 
+Stlocus, se basa en la identificación de patrones de ocupación y apropiación territorial 
+a micro-escala; (4) Método Portulano, método cartográfico utilizado para investiga­
+ciones interdisciplinarias; (5) Método Skypa, cuyo objeto es hacer más operativa la 
+inteligencia territorial para concretar en menos tiempo proyectos en la micro, meso y 
+macro escala y en el corto, medio y largo plazo; (6) Método Kinético, determina que 
+los colectivos deben estar compuestos por los actores claves de un territorio, quienes 
+deben construir las apuestas imaginadas, negociar y acordar las formas y condiciones, 
+y crear, transformar e innovar en las formas y maneras de logro. Una de las claves 
+de estas herramientas es que se adaptan a cada territorio y a las características de la 
+población. Tras analizar diversas actuaciones10 se pueden sistematizar estas experiencias 
+según las herramientas utilizadas, los países donde se han implantado, la duración de los 
+proyectos, la escala de trabajo y la temática abordada. Las actuaciones se han llevado 
+a cabo principalmente en Latinoamérica (45,6%) y en Europa (43,8%), mientras que en 
+el resto de continentes los trabajos disminuyen notablemente: 5,2% en África, 1,8% en 
+Asia y en América del Norte. 
+A escala nacional, destacan Argentina y España, que contabilizan el 59,6% de todas 
+las actuaciones. En España digno es de mencionar las actuaciones desarrolladas en la 
+provincia de Huelva, donde se implantó el primer Observatorio de Empleo en 199611. 
+Le siguen Francia que concentra el 7,01%, Bélgica el 5,26% y Uruguay el 5,26% de las 
+intervenciones. En Francia destaca Besançon, es el principal núcleo donde se ejecutan 
+estas iniciativas, ya que es la cuna de Catalyse, se desarrolló el observatorio Mosaïque 
+(1995-1999), fue la ciudad donde se llevó a cabo la primera conferencia internacional 
+sobre inteligencia territorial a nivel mundial en 2003 y, posteriormente en 2008. Las 
+actuaciones se organizan desde la Universidad de Franche-Comté. Además, cuenta con 
+varios proyectos como el de la Red de los Jardínes de Cocagne y la asociación ADA­
+PEI (Asociación para discapacitados mentales). En Bélgica, la ciudad de Lieja acoge 
+el Observatorio Partenarial Optima e Integra +, y Uruguay centra sus actuaciones en la 
+región de Lavalleja con proyectos turísticos. En Hungría (Pecs), Rumanía (Alba Iulia), 
+Italia (Salerno) y Túnez (Gafsa/Menzel-Habib) han implementado dos proyectos cada 
+una de ellas, básicamente observatorios territoriales para el desarrollo regional. 
+10	 Se han analizado en números absolutos un total de 56 actuaciones ya que eran aquellas que contaban con 
+información suficiente para su valoración. 
+11	 En 2011 se amplió este observatorio con el Centro de Investigación Internacional en Inteligencia Terri­
+torial (2011); también en Huelva se encuentra la Fundación Valdocco cuyo objetivo es bienestar de la ciudadanía, 
+la familia, la economía y la educación.
+
+
+INTELIGENCIA TERRITORIAL: CONCEPTUALIZACIÓN Y AVANCE EN EL ESTADO DE LA ...
+545
+Cuadernos de Turismo, 41, (2018), 535-554
+Gráfico 2
+NÚMERO DE APLICACIONES DE IT POR PAÍSES
+0 
+5 
+10 
+15 
+20 
+25 
+Fuente: elaboración propia.
+En los países europeos (gráfico 3) han sido los Observatorios, el Método Catalyse y 
+las herramientas Pragma y Anaconda, las herramientas más utilizadas; en Latinoamérica 
+también destaca los OIDTe, el Método Territorii, el Stlocus, el Skypa y los talleres. En 
+África la utilización de los SIG y Observatorios ha sido relevante, mientras que en Asia 
+y Norteamérica han seguido el modelo europeo.
+Gráfico 3
+DISTRIBUCIÓN DEL USO DE HERRAMIENTAS DE INTELIGENCIA 
+TERRITORIAL POR CONTINENTES 
+0% 
+10% 
+20% 
+30% 
+40% 
+50% 
+60% 
+70% 
+80% 
+90% 
+100% 
+Asia 
+África 
+Europa 
+América del 
+Norte 
+América del Sur 
+Fuente: elaboración propia.
+Un rasgo a destacar es que, mientras que en Europa se plantean proyectos de base 
+tecnológica importante, en Latinoamérica los métodos son menos tecnológicos y más 
+humanos, es decir, hay un trabajo más directo con los actores, en forma de talleres, semi­
+narios, etc.
+Con respecto a las temáticas y proyectos abordados, en los países europeos las actua­
+ciones has sido planes conjuntos con duración determinada, mientras que en los otros con­
+tinentes, especialmente en países como Argentina y Uruguay, las intervenciones han sido 
+más aisladas pero continuas, sin límite temporal en la mayoría de los casos. Por último, 
+hay que resaltar que las intervenciones hasta la fecha, son a micro-escala, por tanto, de 
+ámbito local en un 96,4% de los casos. Las temáticas afrontadas son muy diversas, agru­
+
+
+MARÍA JESÚS PEREA-MEDINA, ENRIQUE NAVARRO-JURADO Y ANA MARÍA LUQUE-GIL
+546
+Cuadernos de Turismo, 41, (2018), 535-554
+pándolas para su análisis en 19 ítems. Destaca en primer lugar, que el 70% de las inter­
+venciones se ha realizado en “integración de proyecto de investigación”, “inmigración”, 
+“implantación de observatorios territoriales” y en “planificación territorial”.
+Gráfico 4
+NÚMERO DE APLICACIONES DE INTELIGENCIA 
+TERRITORIAL SEGÚN TEMÁTICA
+0 
+2 
+4 
+6 
+8 
+10 
+12 
+Fuente: elaboración propia.
+Gráfico 5
+NÚMERO DE APLICACIONES DE INTELIGENCIA 
+TERRITORIAL POR TEMÁTICA Y PAÍS
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+España 
+Francia 
+Bélgica  
+Hungría  
+Rumanía 
+Italia 
+Eslovenia 
+Túnez 
+Marruecos 
+Taiwan 
+Canadá 
+Argentina 
+Colombia 
+Uruguay 
+Fuente: elaboración propia.
+
+
+INTELIGENCIA TERRITORIAL: CONCEPTUALIZACIÓN Y AVANCE EN EL ESTADO DE LA ...
+547
+Cuadernos de Turismo, 41, (2018), 535-554
+La “integración de proyectos de investigación” se basa en la difusión de los métodos 
+para el análisis territorial y en el tratamiento de los datos como base para el desarrollo 
+de una región. Se implanta básicamente en Europa, con iniciativas también en Taiwán, 
+Argentina o Canadá. La “inmigración”, trabajado fundamentalmente en España desde la 
+“Asociación Comisión Católica Española de Migraciones”, donde se ha creado una red de 
+siete observatorios de las migraciones. Los “observatorios territoriales” y la “planificación 
+territorial” están muy relacionados porque se implantan generalmente de modo conjunto; 
+parten de la base de que el territorio es un espacio “social común” y para conocer las nece­
+sidades de la población se requiere de un centro que sea capaz de captar estas necesidades 
+y se convierte en espacio de investigación-acción. 
+5. 	INTELIGENCIA TERRITORIAL Y TURISMO: ALGUNAS APLICACIONES
+Como se ha indicado, las temáticas abordadas con metodologías propias de la inte­
+ligencia territorial son variadas y dispares, por ejemplo, en el caso de Europa se han 
+desarrollado actuaciones en el campo de la inmigración, los problemas sociales de las 
+regiones desfavorecidas, el empleo, etc., mientras que en Latinoamérica, los campos de 
+actuación han sido la agricultura, la planificación territorial, el turismo, la integración 
+social y la pobreza.
+Los proyectos de turismo han sido escasos, de hecho tan sólo se han encontrado cinco 
+actuaciones que conjugan inteligencia territorial y turismo: (1) Uruguay (Punta del Este) 
+en 2009, donde se trabajó en la generación de empleo, promoviendo la innovación ecoló­
+gica y social, así como la puesta en valor de los recursos naturales y culturales del destino; 
+(2) Uruguay (Lavalleja) en 2010, en la que se trató al turismo con el fin de conservar la 
+biodiversidad y el patrimonio cultural, e investigando como repercute en la calidad de 
+vida de la población; (3) Argentina (La Plata) en 2012, se trata de rescatar los activos 
+patrimoniales que estén vinculados a la ciudad y a las prácticas sociales de la misma; (4) 
+Argentina (Brandsen) en 2012, se lleva a cabo el “Parador ecológico La Posada” para 
+revalorizar el patrimonio cultural y natural y generar vínculos con los actores locales; (5) 
+Argentina (Santa Fé y Paraná) en 2011, se realizó el proyecto “Organización de la Inteli­
+gencia Territorial, para el Turismo Sustentable de la RMSP”.
+De esta serie de iniciativas de inteligencia territorial focalizadas en el turismo, se 
+han analizado de modo detallado las dos últimas que, al igual que las restantes, tratan de 
+potenciarse y desarrollarse desde las propias comunidades anfitrionas (Gliemmo, 2012: 
+1). La forma de hacer turismo está cambiando, cada vez más se buscan experiencias y 
+emociones, es decir, se busca al individuo de ahí que sea imprescindible que el turismo 
+busque una valorización de las identidades locales, pero no sólo como “mito”, sino como 
+realidad, donde la estandarización y homogeneización no afecte a la cultura del mismo. 
+La sociedad es la que crea la esencia de un lugar, la que vive el territorio y la que es anfi­
+triona del mismo, cualquier transformación que no tenga en cuenta a los actores locales no 
+tendrá sentido. Y es en este contexto, donde la intelegencia territorial aporta herramientas 
+y experiencias para que el desarrollo del turismo pueda ser fuente de redistribución de 
+riqueza y mejore cualquier sociedad. 
+
+
+MARÍA JESÚS PEREA-MEDINA, ENRIQUE NAVARRO-JURADO Y ANA MARÍA LUQUE-GIL
+548
+Cuadernos de Turismo, 41, (2018), 535-554
+5.1. Parador ecológico La Posada12
+El proyecto de este centro ambiental y social se realiza en el municipio de Brandsen 
+en la Provincia de Buenos Aires, ámbito rural (23 hab/km2) en la ruta que une el Área 
+Metropolitana de Buenos Aires y el corredor turístico del Litoral Atlántico Bonaerense 
+(donde se ubica La Plata, uno de los destinos turísticos más importantes dentro del seg­
+mento de sol y playa del país). La propuesta de intervención nace de una problemática, 
+la ubicación de nuevas urbanizaciones en la zonas rurales motivada por la cercanía a La 
+Plata, lo que ha provocado una polarización social grave, con escasa integración social 
+y territorial de estas nuevas zonas residenciales de alto poder adquisitivo, y ha deparado 
+graves impactos ambientales por la proliferación de vertederos clandestinos que afectan a 
+la calidad de vida de la población local.
+Así, el proyecto propone un centro para la recuperación ambiental de una de las áreas 
+degradadas por la ejecución de la Autovía 2 que une Buenos Aires con Mar del Plata. Lo 
+importante de esta actuación no solo es el objetivo que persigue, sino el método participa­
+tivo y como la información (ambiental, social y económica) ayudó a definir las necesida­
+des. Destaca el estudio ambiental-cultural, la realización de encuestas a la población local 
+y los talleres participativos, el proyecto se fue consensuando en cada una de sus etapas. 
+En definitiva, se trata de planificar de abajo-arriba, además estableciendo criterios de 
+preservación natural, cultural y social. Esta reconversión de un espacio degradado no sólo 
+remedia la situación medioambiental-urbanística generadora de conflictos socioeconómi­
+cos, sino que se ha creado un espacio capaz de generar apropiación (terroir13) por parte 
+de la población local, donde se identifican y comparten con los visitantes. 
+5.2.	 Organización de la Inteligencia Territorial, para el Turismo Sustentable de la 
+RMSP14
+Esta iniciativa se organiza en torno a las ciudades de Santa Fe y Paraná (Provincia de 
+Entre Ríos en Argentina). El proyecto surge tras detectar un contexto social problemático, 
+donde se destacan procesos de crecimiento económico que aumenta las desigualdades 
+sociales, bajos grados de cooperación público-privada, formación deficiente, disminución 
+de calidad de vida por la pérdida de valor de los recursos naturales y también los culturales. 
+A partir de un diagnóstico participativo se establecieron dos objetivos: la creación 
+de una Reserva de la Biosfera en Ambiente Urbano para ambas ciudades, a través de 
+la colaboración con organización internacionales, actores académicos y políticos; y, en 
+segundo lugar, la creación de la “Organización de la Inteligencia Territorial, para el 
+Turismo Sustentable de la RMSP”, integrando a organizaciones institucionales en materia 
+12	 Actor dinamizador: Universidad Nacional de La Plata – Facultad de Arquitectura y Urbanismo– Facul­
+tad de Ciencias Económicas. IIPAC – Instituto de Investigaciones y Políticas del Ambiente Construido. 
+13	 El término “Terroir”, es el que delimita una determinada zona geográfica la cual queda definida por 
+una comunidad, donde esta es la que construye su historia, donde prima el conocimiento colectivo y se basan en 
+prácticas que integran el entorno natural y el factor humano (ORMAUX, 2010). Es un área creativa, innovadora 
+y que se fundamenta en la tradición. Trata de identidad de la población hacia “su” territorio, tomando el espacio 
+donde habitan como una propiedad por derecho y donde tiene lugar la idiosincrasia de ese pueblo.
+14	 Actor dinamizador: REDES (Asociación “Red Entrerriana para el Desarrollo Sostenible”).
+
+
+INTELIGENCIA TERRITORIAL: CONCEPTUALIZACIÓN Y AVANCE EN EL ESTADO DE LA ...
+549
+Cuadernos de Turismo, 41, (2018), 535-554
+política, científica, tecnológica y de formación, asociaciones empresarias y la ciudadanía. 
+El turismo se planteó como elemento clave dado el crecimiento en ambas ciudades con 
+tres acciones: (1) estrategias, programas y proyectos turísticos donde la sostenibilidad era 
+la referencia, (2) se creó una red de cooperación con representación de todos los actores, 
+(3) y se planificó la creación de un Centro Regional de Inteligencia Territorial para el 
+Desarrollo Sostenible, a modo de observatorio. 
+En conclusión, ambos casos difieren por la naturaleza de los proyectos, el tipo de 
+espacio, el grado de desarrollo turístico, etc., sin embargo, la clave de ambos es el método 
+y los objetivos para la resolución de conflictos. Se inician con la co-construcción en su 
+primera etapa de diagnóstico, donde los problemas son trasmitidos también por los acto­
+res, y sigue la co-participación para proponer acciones de mejora; es la transformación de 
+abajo hacia arriba, ahondando en las personas y en su implicación, lo que conlleva una 
+apropiación de las iniciativas por tomarlas como suyas. Es ahora donde se comprende 
+lo que Bozzano (2011) identifica como el triple objetivo simultáneo que debe aportar la 
+inteligencia territorial al turismo: sujetos, proyectos y territorios, y se ha de trabajar por 
+identidades, necesidades y expectativas. 
+6.	 UNA ÚLTIMA REFLEXIÓN 
+Esta comunicación nace de una línea de investigación conjunta, planteada desde la 
+Facultad de Turismo de la Universidad de Málaga, donde tres grupos de investigación 
+(Análisis Geográfico Regional, Turismo y Territorio, Grupo de Sistemas de Información 
+Cooperativos) trabajan de modo integrado los procesos que vinculan la actividad turística, 
+los territorios y el concepto de “inteligencia”. Se prevé que en los próximos años, la rela­
+ción entre inteligencia territorial y turismo, sea una temática de enorme interés, bien desde 
+el nuevo concepto “Destinos Turísticos Inteligentes” (DTI), bien desde la Inteligencia 
+Territorial aplicada a los Destinos Turísticos.
+En estas líneas, se ha apostado por una lectura de los procesos de “inteligencia” aplica­
+dos a los territorios turísticos centrada en la gobernanza y el trabajo con los actores, más 
+que en un enfoque sólo y exclusivamente tecnológico, que es aquel por el que están apos­
+tando los nuevos “destinos turísticos inteligentes” olvidándose, en la mayoría de los casos, 
+de los actores del territorio, verdaderos orquestadores en cualquier proceso de cambio y 
+mejora. Se trata de que las tecnologías sean los hilos conductores de las informaciones 
+y el conocimiento, pero no sean el fin de las actuaciones. Es aquí donde surge el punto 
+de inflexión, en el uso de las TICs, ya que es este matiz el que fundamenta la principal 
+diferencia entre los “Destinos Turísticos Inteligentes” y la “Inteligencia Territorial aplicada 
+a los Destinos Turísticos”. 
+En este momento, donde la valorización de diferentes espacios por parte del turismo 
+tiende a reproducir atractivos, muchas veces desconectados de su historia e identidades, 
+de sus características ambientales y desarticuladas de otras actividades económicas, se 
+plantea que la inteligencia territorial aporta una base teórico-metodológica robusta y 
+contrastada. La Inteligencia Territorial puede ser aplicada a cualquier destino turístico, 
+sea cual sea el grado de madurez, el segmento turístico, etc., ayudando a mejorar los 
+procesos de planificación y gestión del turismo y del destino. De esta manera, se ten­
+
+
+MARÍA JESÚS PEREA-MEDINA, ENRIQUE NAVARRO-JURADO Y ANA MARÍA LUQUE-GIL
+550
+Cuadernos de Turismo, 41, (2018), 535-554
+dría una visión más holística y consensuada que repercutiría positivamente en todos 
+los actores implicados. Para ello, los planificadores y gestores de los destinos deben 
+anticiparse y adaptarse a las nuevas necesidades del turismo, y el concepto y las herra­
+mientas de inteligencia territorial pueden ayudar al nuevo paradigma emergente del 
+sector turístico. En este nuevo paradigma los turistas se movilizan cada vez más en 
+busca de la diversidad sociocultural, de nuevas prácticas que evocan a la experiencia, al 
+regreso del individuo y la ruptura de la vida cotidiana; a su vez, requiere de una mayor 
+preservación del medio –en su sentido más amplio–, se refiere a mantener los valores 
+de una sociedad y su identidad, que no sea un territorio “teatralizado” por el turismo, 
+y que sea el desarrollo de la actividad turística un medio para mejorar el tejido social, 
+económico y ambiental. 
+Cabe plantear que la inteligencia territorial es capaz de abarcar las problemáticas 
+expuestas en esta investigación –delimitación territorial y social, sostenibilidad y gober­
+nanza–, pudiendo presentarse como una nueva alternativa a los modelos tradicionales de 
+planificación y gestión del turismo. Donde la participación de todos los actores es vital 
+para planificar y gestionar, ya que a través de las herramientas que aporta la inteligencia 
+territorial es posible llevar a cabo esta participación activa. 
+No obstante, la principal dificultad que se plantea para adaptar el marco teórico-
+metodológico de la inteligencia territorial a cualquier destino turístico, es la escala. Hasta 
+hoy, las intervenciones que se han realizado han sido a micro-escala, y un destino turístico, 
+por norma general, es un territorio más amplio y complejo. Una forma de solventar dicho 
+inconveniente sería a través de intervenciones en los distintos “distritos” (Dredge, 1999) 
+que conforman el destino turístico, dado que la suma de los diferentes “distritos”, da lugar 
+a “condados” que conforman el destino. A modo de ejemplo: la Costa del Sol supondría 
+un destino turístico, Málaga Capital un “condado” y el centro histórico de Málaga un 
+“distrito”.
+El ejemplo de área de estudio no ha sido aleatorio, este estado de la cuestión y los 
+problemas de escalas son el inicio de una línea de investigación futura, donde se plantea 
+utilizar las herramientas propias de la inteligencia territorial en los procesos de gestión y 
+planificación de los destinos turísticos, tomando como área de intervención y experimen­
+tación el centro histórico de la ciudad de Málaga. El fin de dicha línea de investigación 
+es determinar en qué medida y de qué forma inciden las prácticas turísticas en la co-cons­
+trucción de un territorio turístico, entendido desde la identidad, necesidad y expectativas 
+de los actores locales. 
+En definitiva, proponer acciones de inteligencia territorial en los destinos turísticos 
+de la mano de la investigación-acción puede ser positivo, si se avanza en la gobernanza, 
+entendida como el buen gobierno transparente y participativo, y en la sostenibilidad, si el 
+turismo sirve para mejorar el “estado de justicia” como plantea la filósofa Adela Cortina. 
+Esta catedrática de Ética de la Universidad de Valencia entiende que lo justo es cubrir 
+las necesidades básicas de alimentación, educación, sanidad, etc. (Rodríguez, 2014) a 
+lo que habrá que añadir un medio ambiente saludable y perdurable, con todo lo que 
+ello conlleva en nuestro actual modelo económico capitalista con tendencia neoliberal. 
+En conclusión, si la inteligencia territorial solo avanza en tecnología, pese a lo positivo 
+que resulta una mayor eficiencia energética y una movilidad más sostenible, los avances 
+
+
+INTELIGENCIA TERRITORIAL: CONCEPTUALIZACIÓN Y AVANCE EN EL ESTADO DE LA ...
+551
+Cuadernos de Turismo, 41, (2018), 535-554
+“inteligentes” serán muy parciales; parafraseando al arquitecto y filósofo Eduardo Prieto 
+(2014) “La ciudad es el problema; la técnica, la solución”, ¿es el territorio el problema? 
+¿es el destino el problema?, parece ser que no, de ahí que la relación entre inteligencia 
+territorial y destinos turísticos suponga una línea de investigación presente y futura de 
+enorme interés.
+7.	 BIBLIOGRAFÍA
+ALMANSA, B. (2010): «Inteligencia territorial para una redefinición eficiente de las 
+políticas públicas», Revista andaluza de relaciones laborales, nº 23, pp. 75-94.
+BERTACCHINI, Y. (2000):  «How to federate some local resources by developing new 
+links?», ISA Research Committee, vol. 23. 
+BERTACCHINI, Y. (2000):  Information et Veille Territoriales: Représentation du com­
+plexe local et émergence d’un projet d’intelligence territoriale. Thèse de Doctorat 
+en Sciences de l’information et de la communication, Université d’Aix-Marseille III.
+BERTACCHINI, Y. (2004):   «Entre information & processus de communication: 
+l’intelligence territoriale», Revue Humanisme et Entreprise, nº 267, pp. 244-245.
+BERTACCHINI, Y. (2012): «Between Information and Communication Process, the 
+Territorial Intelligence, as a Network Concept & a Framework to Shape Local Devel­
+opment», International Journal of Humanities and Social Science, nº 18, pp. 242-247.
+BERTACCHINI, Y. y HERBAUX, P. (2003): «Mutualisation & Intelligence Territo­
+riale», ISMD, nº 14, pp. 103-113. Disponible en: http://isdm.univ-tln.fr/PDF/isdm14/
+isdm14.pdf
+BOZZANO, H. (2009): «Territorios: El Método Territorii. Una mirada territorial a 
+proyectos e investigaciones no siempre territoriales», 8th International Conference of 
+Territorial Intelligence, November 4th – 7th 2009, Salerno, Italia, pp.10, INTI-Inter­
+national Network of Territorial Intelligence. Disponible en: https://halshs.archives-
+ouvertes.fr/halshs-00533337/document
+BOZZANO, H. (2010): «Transformación entre actores políticos y actores territoriales con 
+sustento científico», V Congreso Internacional Crisis de la globalización económica y 
+el crecimiento insustentable en América Latina, octubre de 2010, Guayana, Venezuela. 
+UNEG. 
+BOZZANO, H. (2011):  «Inteligencia Territorial: Criterios para la concreción de proyec­
+tos». Jornadas sobre políticas públicas para el desarrollo estratégico, San Carlos de 
+Bariloche. Disponible en https://www.slideshare.net/equipotag/inteligencia-territorial-
+criterios-para-la-concrecin-de-proyectos
+BOZZANO, H. (2013): «Geografía e Inteligencia Territorial. Geo-grafein, Geo-explanans, 
+Geo-transformare», Revista Geográfica Digital. IGUNNE, nº 19, pp. 1-24.
+BOZZANO, H. (2013):  «Iniciativas y métodos. Inteligencia Territorial, ciencia con y para 
+la gente». A pesquisa cientifica e a cooperacao para uma sociedade mais justa, 12 de 
+septiembre de 2013. Unversidad do Este do Estado do Paraná. Paraná, Brasil. Dispo­
+nible en: http://portalpos.unioeste.br/media/File/desenvolvimento_rural_sustentavel/
+Conferencia-Exp_Desenv_Territ_em%20confronto.pdf
+
+
+MARÍA JESÚS PEREA-MEDINA, ENRIQUE NAVARRO-JURADO Y ANA MARÍA LUQUE-GIL
+552
+Cuadernos de Turismo, 41, (2018), 535-554
+BOZZANO, H., BARRIONUEVO, C. y CIRIO, G. (2010): «OIDTe: Los Observatorios 
+de Inteligencia y Desarrollo Territorial. Casos en Entre Ríos, Argentina», V Congreso 
+Internacional Crisis de la globalización económica y el crecimiento insustentable en 
+América Latina, octubre de 2010, Guayana, Venezuela, pp. 49-64, UNEG. Disponible 
+en http://www.lavalleja.gub.uy/c/document_library/get_file?folderId=145217&name=
+DLFE-3744.pdf
+CALDERÓN, F. (2012): La protesta social en América Latina. Cuaderno de Prospectiva 
+Política I. Buenos Aires, Siglo Veintiuno Editores.
+DE FRANCO, A. (2000): «¿Por qué Precisamos de un Desarrollo Local Integrado y Sos­
+tenible?», Instituciones y Desarrollo, nº 6, pp. 133-168.
+DEVILLET, G. y BREUER, C. (2008): «Contribution to the applied territorial intelli­
+gence: reasoned catalog of territorial information available on internet and sources 
+in Europe», VI International Conference of Territorial Intelligence, octubre 2008, 
+Besançon, Francia, MSHE. Disponible en: https://halshs.archives-ouvertes.fr/hal­
+shs-00487197
+DREDGE, D. (1999): «Destination place planning and design», Annals of Tourism 
+Research, nº 4, pp. 772-791.
+DUMAS, P. (2004): «Intelligence, Territoire, Décentralisation ou la Région à la française», 
+ISDM, nº16, pp. 92-95. Disponible en: http://isdm.univ-tln.fr/PDF/isdm16/isdm16.pdf
+FARINÓS, J. (2008): «Gobernanza territorial para el desarrollo sostenible: estado de la 
+cuestión y agenda». Boletín de la Asociación de Geógrafos Españoles, vol. 46, pp. 
+11-32.
+FREDIANI, J. (2012): «Inteligencia Territorial y Transformación II. El lugar del Estado. 
+Aplicación a cinco casos». En Experiencias Innovadoras en Investigación Aplicada. 
+San Salvador de Jujuy, Ediciones DASS-UCSE, pp. 475-495.
+GIRARDOT, J. (2000): «Principes, Méthodes et Outils d›Intelligence Territoriale. Évalua­
+tion participative et Observation Coopérative», Séminaire européen Conhecer melhor 
+para agir melhor, May 2000, Evora, Portugal, pp. 7-17. Disponible en: https://halshs.
+archives-ouvertes.fr/halshs-00539811
+GIRARDOT, J. (2002): «L›intelligence Territoriale», Mélanges Jean-Claude WIEBER, 
+Annales Littéraires de Franche-Comté, Besaçon, pp. 10.
+GIRARDOT, J. (2008): «Evolution of the concept of territorial intelligence within the 
+coordination action of the European network of territorial intelligence», Res-Ricerca 
+e Sviluppo per le politiche sociali, pp. 11-29.
+GIRARDOT, J. (2009): «Inteligencia Territorial y Transición Socio-Ecológica», Revista 
+andaluza de relaciones laborales, nº 23, pp. 15-39.
+GIRARDOT, J. (2010): «Qu›est-ce que l›intelligence territoriale», Savigny-Avenir, nº 73. 
+Disponible en: http://www.savigny-avenir.fr/2014/01/06/quest-ce-que-lintelligence-
+territoriale-jean-jacques-girardot/
+GIRARDOT, J. (2013): «Le concept d’intelligence territoriale, domaines et réseaux». En 
+Intelligence et gouvernance territoriales. Université de Franche-Comté, pp. 31-70.
+ GLIEMMO, F. (2012): «Inteligencia Territorial y Turismo: un diálogo hacia la definición 
+de Lugares. Necesidades y expectativas. Estudios de casos en Argentina y Uruguay», 
+11th Annual International Conference of Territorial intelligence of INTI Territorial 
+
+
+INTELIGENCIA TERRITORIAL: CONCEPTUALIZACIÓN Y AVANCE EN EL ESTADO DE LA ...
+553
+Cuadernos de Turismo, 41, (2018), 535-554
+intelligence and globalization tensions, transition and transformation, octubre de 
+2012, La Plata, Argentina, pp. 1-12. Disponible en: https://halshs.archives-ouvertes.fr/
+halshs-00941343/document
+GORIA, S. (2006): L’Expression du problème dans la Recherche d’Informations: Applica­
+tion à un contexte d’Intermédiation Territoriale. Ecole doctorale Langages, Université 
+Nancy II. Disponible en: https://tel.archives-ouvertes.fr/tel-00011918
+KOOIMAN, J. (2003):  «Governing as Governance», International Public Management 
+Journal , nº 3, pp. 439-442.
+MASSELOT, C. (2004): Accessibilité et qualité des systèmes d’information multimédia: 
+transfert méthodologique et technologique. Doctorat SIC, Université de Franche-
+Comté.
+MASSELOT, C. (2008):   «Territorial Intelligence Communicational and Community 
+System (TICCS)». Res-Ricerca e Sviluppo per le politiche sociali, vol 1-2, pp. 90-104.
+MIEDES, B. y FERNÁNDEZ I.M. (2010): «Inteligencia territorial para la lucha contra 
+la pobreza:aprendizajes de 20 años sobre el terreno». Revista Andaluza de Relaciones 
+Laborales, nº 23, pp. 41-73.
+MORA, J. (2003):  «Gestión Territorial del Conocimiento (GTC) y desarrollo rural en 
+América Latina y el Caribe. La reconstrucción de las instituciones rurales en el ámbito 
+de los servicios de asistencia técnica», Antigua, pp. 23-26.
+NACIONES UNIDAS (2005): Objetivos del desarrollo del milenio: una mirada desde 
+América Latina y el Caribe. Santiago de Chile, CEPAL. Disponible en: https://www.
+cepal.org/es/publicaciones/2797-objetivos-desarrollo-milenio-mirada-america-latina-
+caribe
+NAREDO, J. (1997): «Sobre el oriegen, el uso y el contenido del término sostenible», 
+Cuadernos de Investigación Urbanística, nº 41, pp. 7-18.
+ORMAUX, S. (2010): «Products of terroir, between environment, culture and territorial 
+development», 8th International Conference of Territorial Intelligence, November 
+4th – 7th 2009, Salerno, Italia, pp.7, 2010, INTI-International Network of Territorial 
+Intelligence. Disponible en: https://halshs.archives-ouvertes.fr/halshs-00534672
+PETERS, B. (2006):  «Globalización, gobernanza y Estado: algunas proposiones acerca 
+del proceso de gobernar», XI Congreso Internacional del CLAD sobre la Reforma del 
+Estado y de la Administración Pública, Ciudad de Guatemala, pp. 103-115.
+PIERRE, J. (2000): Debating Governance: Authority, Steering, and Democracy. New 
+York, Oxford University Press.
+SÁNCHEZ, N., BETANCOURT, M. y FALCÓN, M. (2012): «Acercamiento teórico al 
+desarrollo local sostenible y su repercusión para el turismo», El Periplo Sustentable, 
+nº 22, pp. 7-36.
+SEMINARIO EN MINAS (2013): ¿Qué es la Inteligencia Territorial? Por integrantes de 
+la INTI-Miradas Complementarias. Formación en Inteligencia Territorial Uruguay 
+2012-2017. Minas, Observatorio de Inteligencia y Desarrollo Territorial. Disponible 
+en: http://www.lavalleja.gub.uy/c/document_library/get_file?folderId=28672&name=
+DLFE-7303.pdf
+SOULIER, E., NEFFATI, H., LEGRAND, J., ROUSSEAU, F., BUGEAUD, F., CALVEZ, 
+P. y SAUREL, P. (2011): «Territorial assemblages simulation for territorial intelligence», 
+
+
+MARÍA JESÚS PEREA-MEDINA, ENRIQUE NAVARRO-JURADO Y ANA MARÍA LUQUE-GIL
+554
+Cuadernos de Turismo, 41, (2018), 535-554
+10th International Conference of Territorial Intelligence, septiembre de 2011, Liège, 
+Belgium, pp. 9. Disponible en: https://halshs.archives-ouvertes.fr/halshs-00777450/
+file/LiA_ge_2011_Soulier_Territorial_assemblages_simulation_for_territorial.pdf
+TORRES, G. y RAMOS, H.A. (2008): «Gobernanza y territorios: notas para la imple­
+mentación de políticas para el desarrollo», Revista Mexicana de Ciencias Políticas y 
+Sociales, nº 203, pp. 75-96.

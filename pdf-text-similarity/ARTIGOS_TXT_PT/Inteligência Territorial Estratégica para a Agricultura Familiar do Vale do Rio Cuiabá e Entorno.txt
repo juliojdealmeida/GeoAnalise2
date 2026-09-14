@@ -1,0 +1,909 @@
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+176 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+  
+Strategic Territorial Intelligence for Family Farming in the 
+Cuiabá River Valley and Surroundings 
+Inteligência Territorial Estratégica para a Agricultura 
+Familiar do Vale do Rio Cuiabá e Entorno 
+Jaudete Daltio*, Salete Gürtler*, Lucíola Alves Magalhães*, André Rodrigo Farias*, Marcelo Fernando Fonseca*, Hilton 
+Luís Ferraz da Silveira*, Paulo Roberto Rodrigues Martinho*, Carlos Alberto de Carvalho*, Rafael Mingoti *, Fabrício 
+Tomaz Ramos** 
+ 
+* Embrapa Brasileira de Pesquisa Agropecuária (Embrapa), jaudete.daltio@embrapa.br, salete.gurtler@colaborador.embrapa.br, 
+luciola.magalhaes@embrapa.br, andre.farias@embrapa.br, marcelo.fonseca@embrapa.br, hilton.ferraz@embrapa.br, 
+paulo.martinho@embrapa.br, carlos-alberto.carvalho@embrapa.br, rafael.mingoti@embrapa.br 
+** Empresa Mato-Grossense de Pesquisa, Assistência e Extensão Rural (Empaer), fabricioramos@empaer.mt.gov.br 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+__________________________________________________________________________________________
+Abstract 
+Family farming is a cornerstone of Brazil's economic and social structure. It accounts for a 
+significant portion of the national food production and plays a crucial role in promoting food 
+security in the country. In the Metropolitan Region of the Cuiabá River Valley and Surroundings, 
+this segment encompasses approximately 28,000 families residing in rural areas, organized into 
+10,547 agricultural establishments. The strengthening of family farming depends on its support by 
+public policies which are capable of understanding regional specificities and creating effective 
+mechanisms for the development and consolidation of the sector. In this context, a partnership 
+was established between the Mato Grosso Company of Rural Research, Assistance, and Extension 
+(EMPAER) and Embrapa, to develop a digital platform that integrates data across different 
+territorial dimensions, aiming to characterize the region and, above all, provide analytical tools to 
+support public policy and local investment decisions. This solution was based on the strategic 
+territorial intelligence concept, which thematically organizes spatial data into five major 
+frameworks: natural, agrarian, agricultural, infrastructural, and socioeconomic. We expect the 
+platform to support territorial management efforts by public and private organizations by 
+classifying the region’s municipalities according to their environmental and production potential. 
+This, in turn, will assist research institutions and organizations responsible for rural planning, 
+management, and technical assistance.  
+Keywords: 
+Rural development, Spatial analysis, Public policies. 
+Resumo 
+A agricultura familiar representa um pilar fundamental da estrutura econômica e social do Brasil, 
+sendo responsável por uma parte significativa da produção nacional de alimentos e 
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+177 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+desempenhando um papel crucial na promoção da segurança alimentar no País. Na Região 
+Metropolitana do Vale do Rio Cuiabá e Entorno, este segmento é representado por cerca de 
+28.000 famílias residentes no meio rural, organizadas em 10.547 estabelecimentos agropecuários. 
+Seu fortalecimento depende do apoio de políticas públicas capazes de compreender 
+especificidades regionais e criar mecanismos eficientes de desenvolvimento e consolidação do 
+setor. Neste contexto, a Empresa Mato-Grossense de Pesquisa, Assistência e Extensão Rural 
+(EMPAER) e a Embrapa estabeleceram uma parceria para desenvolver uma plataforma digital 
+capaz de integrar dados de diversas dimensões territoriais. O objetivo foi caracterizar a região de 
+forma abrangente e, principalmente, disponibilizar ferramentas de análise inteligente que auxiliem 
+na formulação de políticas públicas e na orientação de investimentos locais.  A solução foi 
+estruturada a partir do conceito de inteligência territorial estratégica, que prevê a organização 
+temática de dados espaciais em cinco grandes quadros: natural, agrário, agrícola, de infraestrutura 
+e socioeconômico. Espera-se que a plataforma possa ser utilizada para subsidiar ações de gestão 
+territorial de organizações públicas e privadas por meio da tipificação dos municípios da região em 
+função dos seus potenciais ambientais e produtivos, apoiando instituições de pesquisa, órgãos de 
+planejamento, gestão e de assistência técnica rural. 
+Palavras-chave:  
+Desenvolvimento rural, Análise espacial, Políticas públicas. 
+__________________________________________________________________________________________
+I.  INTRODUÇÃO 
+Family farming is a cornerstone of Brazil's economic and social structure. It accounts for a significant 
+portion of the national food production. According to the 2017 Agricultural Census, 3.8 million agricultural 
+establishments in Brazil are family farms, 77% of the total agricultural establishments in the country (IBGE, 
+2019). Additionally, family farming employs 67% of the agricultural workforce, engaging over 10.1 million 
+people in distinct productive activities. This segment is responsible for a diversified food production, and 
+accounts for high national shares of several products: 70% of cassava, 51% of pigs, 64% of cow's milk, 46% of 
+poultry, and 38% of coffee (EMBRAPA, 2022). 
+This scenario of productive diversity is observed, with some regional particularities, across Brazilian 
+regions and biomes. In Mato Grosso State, the Metropolitan Region of the Cuiabá River Valley and 
+Surrounding Area (RMVRCE) is home to over 1 million inhabitants, and almost 50 thousand people are 
+employed in agricultural establishments (IBGE, 2019). The majority of this population are family farmers and 
+members of traditional communities, such as quilombolas and indigenous peoples, who typically have small 
+areas available for agriculture (on average, less than 80 ha per property) (MDA, 2015). These farmers generally 
+work under a family-collaboration system (approximately 28 thousand families) and account for nearly 80% of 
+rurais establishments that ensure the production of significant amounts of fruit and vegetable products 
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+178 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+consumed in the region, especially gherkins, cassava, okra, zucchini, green beans, tomatoes, citrus fruits, 
+among dozens of other fruit and vegetable products (Ferro; Vechi, 2014). 
+One of the major challenges faced by these farmers is ensuring consistency, quantity and quality of “in 
+natura” or “processed” products for sale (Dallemole et al., 2017). A study made for the 2014 World Cup shows 
+that approximately 53% of fruit products, 42% of dairy products and 21% of vegetables and greens consumed 
+in Mato Grosso State are supplied by retailers and wholesalers from other Brazilian States (mainly São Paulo, 
+Paraná and Rio Grande do Sul), given the mismatch between demand and low production (Dallemole et al., 
+2013). Dependence on in natura and minimally processed foods from other states produces a constant 
+vulnerability, given the high risk of local shortages, food insecurity and increasing costs passed on to 
+consumers. A strategic priority for this sector would be: to increase the productivity of family farming’s 
+vocational production chains in Mato Grosso State by adopting good agricultural practices, and improving 
+climate-intelligent agricultural technologies, as well as logistics and other important factors. 
+As in other developed and developing countries, the migration of the rural population to urban areas is 
+a Brazilian problem, particularly among young people (Morais et al., 2017, Foguesatto et al., 2020). The lack of 
+adequate public policies aimed at generating income and encouraging young people to stay in their 
+communities contributes to their loss of interest in continuing family farming, and pushes them to urban 
+centers in their search for opportunities. This causes an aging of the agricultural workforce, which is a 
+structural factor that takes away the dynamism of family farming and produces uncertainty regarding the 
+succession of these businesses (Matte; Machado, 2016; Cavicchioli et al., 2018, Guanziroli et al., 2020). As a 
+sector that heavily relies on family labor, its scarcity is a prognosis of family farming involution (Guanziroli et 
+al., 2020). Therefore, encouraging young people's interest through new technologies and agricultural practices 
+applied to projects they coordinate with their families is also extremely important to sustain family farming in 
+the region. 
+Both challenges will only be mitigated by converging efforts between funding, planning and 
+implementing agencies. In this context, the Mato Grosso Rural Research, Assistance and Extension Company 
+(Empaer-MT) has established a partnership with Embrapa Territorial to foster the development of family 
+farming in RMVRCE, through joint initiatives to collect primary and secondary data and collaboratively carry 
+out structured diagnoses at the regional level. This cooperation has the André and Lúcia Maggi Foundation 
+(FALM) as sponsor and facilitator.  
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+179 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+The objective of this paper is to present the results obtained by this partnership when structuring a 
+digital platform aimed to support prioritary actions within the scope of a family farming development plan in 
+the RMVRCE region. The platform integrates secondary data about multiple themes which are relevant to 
+characterize the region, thus enabling detailed analyses for each dimension. In addition to data selection, the 
+process of structuring the platform includes curation, aggregation, spatial representation, and data modeling 
+stages. The platform is expected to contribute to the classification of municipalities according to their 
+productive and socio-environmental inclusion potential, and additionally support the elaboration of territorial 
+development plans aimed to retain young people in the countryside, among other regional development 
+actions. 
+II.  MATERIAL AND METHODS 
+Study area 
+The Metropolitan Region of the Cuiabá River Valley was established in 2009 by the state 
+complementary law Nr. 359, amended by the complementary laws Nr. 577/2016 and Nr. 796/2024 (Mato 
+Grosso, 2024). The region encompasses the municipalities of Cuiabá, Várzea Grande, Nossa Senhora do 
+Livramento, Santo Antônio de Leverger, Acorizal, Chapada dos Guimarães and Campo Verde, and its 
+surroundings area, formed by the municipalities of Barão de Melgaço, Jangada, Nobres, Nova Brasilândia, 
+Planalto da Serra, Poconé and Rosário Oeste. The whole territorial delimitation comprises 14 municipalities, 
+totaling 7,850,373 ha (8.7% of the Mato Grosso State area), and is the study area of the project. As shown in 
+Figure 1, the RMVRCE is located between the Cerrado (58%) and Pantanal (42%) biomes. Despite its lower 
+insertion into the Pantanal biome, all municipalities are fully (9 municipalities) or partially (5 municipalities) 
+located within the Upper Paraguay River Basin, which covers 88% of the area. The higher altitude plateaus 
+(not subject to flooding) house most of the Pantanal rivers’ tributaries and headwaters (ANA, 2015). Most 
+environmental problems affecting Pantanal originate on the Plateau and the Depression (Irigaray et al., 2020).  
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+180 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 – Study area – Metropolitan Region of the Cuiabá River Valley and surroundings (RMVRCE). 
+Systems for Strategic Territorial Intelligence 
+A major challenge in territorial management is effectively planning and monitoring public policies while 
+also guiding private initiatives. This requires integrating multiple knowledge areas and fostering collaboration 
+among various society actors. The main tasks involve organizing territorial data for up-to-date analyses, which 
+effectively enable strategic planning aimed at improving the region’s social, economic and environmental 
+conditions. 
+Strategic Territorial intelligence (STI, henceforth ITE, in Portuguese) is a tool that gathers geographic 
+data, geospatial technologies, and territorial analysis to understand and make decisions related to the 
+geographic space (Locatel, 2023). STI has been used collaboratively by several society actors and within a more 
+comprehensive perspective. The integrated analysis of spatial data across natural, agrarian, agricultural, 
+infrastructural, and socioeconomic frameworks is the basis of Embrapa’s Strategic Territorial Intelligence 
+Systems (Magalhães et al., 2021). This concept was adopted to structure the RMVRC's platform, with the aim 
+of improving family farming. A Strategic Territorial Intelligence System (SITE) makes land-use governance more 
+efficient by considering the particularities of each area and promoting sustainable planning (Rodrigues et al., 
+2023). 
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+181 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+ITE is configured as a continuous and collective process of production, integration and leveraging of 
+territorial knowledge. Guided by sustainability and democratic governance principles, it aims to convert 
+information into strategic actions to foster local development (García-Madurga et al., 2020). Previous 
+territorial-policy experiences in Brazil, such as the Sustainable Development Program for Rural Territories 
+(PRONAT) and the Territories of Citizenship Program (PTC), have already highlighted the relevance of 
+articulation between social actors and the State to promote development strategies, often anchored in 
+socially constructed territorial units (Delgado; Grisa, 2014). These experiences show that more than a physical 
+space, territory is a social and political construction that requires multidimensional and integrated analysis 
+structures, both available in the method proposed by SITE.  Initiatives such as the Territorial Plan of the Bean 
+Production Network, within the scope of the Productive Territories Program in the Pernambuco State, 
+reinforce the importance of territorial planning as an instrument for connecting different government levels 
+and civil society sectors and promoting governance based on production networks and participatory processes 
+to strengthen family farming (Melo; Sousa, 2017). Such evidence demonstrates that territorial planning, when 
+structured on collaboration and integration, is an essential instrument to promote sustainable rural 
+development, especially for family farming. 
+III.  RESULTS AND  DISCUSSION 
+The platform was developed using a broad set of spatial data, and structured as a single data 
+management mechanism, a spatial relational database (PostgreSQL + PostGIS). Due to its nature, the spatial 
+component was considered the element that integrates the themes. Figure 2 offers an overview of the data 
+diagram built for the platform, aiming at the normalization, consistency and integrity of the qualifying 
+attributes. The municipality was placed as the central entity, acting as the link for cross-referencing data 
+across multiple thematic tables. It is also the spatial element where most relationships occur, that is, several 
+themes are spatialized by the geometry of the municipalities. The diagram also shows how the relationships 
+between different themes are organized within each of the tables that make up the SITE. In this 
+representation, conventional and spatial relationships are distinguished by a symbol indicating the type of 
+spatial geometry (point, line, polygon) on the left side of their labels. 
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+182 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 – Data model of the platform and its organization by thematic frames. 
+ 
+Figure 2’s Natural Framework aggregates temperature, potential evapotranspiration and precipitation 
+(climate) data and SRTM (Shuttle Radar Topography Mission) data (slope and geomorphology). The Agrarian 
+Framework contains data from multiple categories of legally assigned areas: preservation units, indigenous 
+lands, agrarian reform settlements and quilombola communities. These datasets and their qualifiers are 
+compatible and integrated into a single spatial relationship that contains these areas’ delimiting polygons. 
+From this relationship, municipal consolidations on topics of interest were produced, and are portrayed in the 
+other relationships that make up the framework. 
+The Agricultural Framework gathers production and harvested area data obtained from the 2017 
+Agricultural Census organized into products and their categories (vegetables, fruits or livestock, for example). 
+The Infrastructure Framework portrays connectivity antennas as point geometries, flow routes as line 
+geometries, and micro-basin limits as polygon geometries. This framework also contains additional statistics 
+from the Agricultural Census about the establishments’ access to infrastructure. 
+Other statistics from the Agricultural Census were systematized to compose the Social-Economic 
+Framework, which contains detailed characteristics of rural producers and establishments, in addition to data 
+from the municipal development indicator proposed by Firjan (2018). Data from the Rural Environmental 
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+183 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+Registry (CAR) complete these original databases and were organized under the Rural Preservation theme, 
+which includes spatial delimitations (polygon geometry) of rural properties in the region and municipal 
+consolidations on the areas dedicated to preservation within these properties. 
+The first step to materialize this diagram was selecting the temporal frame for the municipal grid. 
+Seven of the municipalities of the RMVRCE experienced changes to their territorial boundaries between 2017 
+and 2022 (IBGE, 2022), when the last municipal grid was released by IBGE. These changes involved both losses 
+and additions of areas. The biggest changes in terms of area were observed in the municipalities of Cuiabá and 
+Santo Antônio de Leverger, which in 2017 included a portion a portion of what became part of the Jaciara 
+municipality in 2022. Despite these recent changes, we decided to consider the 2017 IBGE municipal 
+boundaries for compatibility with the 2017 Agricultural Census, which was one of our main data sources, given 
+its number of qualifiers on agricultural establishments, producers, economic and employment indicators in 
+rural areas, livestock, agriculture and agribusiness. Since these data are broken down by municipality, using 
+compatible municipal boundaries from the same year was essential. 
+After organizing the data, we began to develop and structure the platform for hosting and visualizing 
+information by constructing an interactive set of panels. These panels were developed using the Tableau tool, 
+a data visualization software that enables the creation of interactive components based on the combination of 
+structured data sources. In Tableau, the available attributes are categorized either as dimensions or measures. 
+Dimensions are qualitative values used to categorize or segment data. Measures are numerical, quantitative 
+values that can be aggregated (e.g. minimum/maximum, count, sum or average). For each table, measures 
+associated with spatial features originated thematic maps. Strategic qualifiers were accommodated in other 
+graphical visual representations considering the behavior of the data and the number of classes, such as 
+bar/pie charts, or tree maps and tables, in some cases. 
+The dashboards were published on the open-access Tableau public cloud1, where it is possible to view 
+and explore the dashboards via browser by applying queries/filters and downloading the data. The platform 
+content was structured using a combination of web elements, incorporating published dashboards, supporting 
+explanatory texts and references, and organized within the Liferay content manager (Embrapa's corporate 
+content hosting environment). Figure 3 offers an overview of the platform’s organization, which is publicly 
+available on Embrapa’s portal2. The platform was organized into thematic pages, dedicated to each framework 
+ 
+1 https://public.tableau.com/ 
+2 www.embrapa.br/baixada-cuiabana 
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+184 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+and to the rural preservation theme. The main information included in each page and the main analytical 
+results are presented below. 
+ 
+Figure 3 – Overview of the platform. 
+Natural framework 
+The natural framework presents precipitation and temperature data, variables that directly influence 
+the water balance and, consequently, the climatic suitability for the various crops in the RMVRCE (Alvares et 
+al., 2015). Furthermore, the framework aggregates altitude data collected by the SRTM (Shuttle Radar 
+Topography Mission) mission and processed by the Brazilian Geomorphometry Database, which is also 
+responsible for calculating slope metrics according to Embrapa’s suitability classes (Valeriano, 2005). 
+Geographically, the RMVRCE corresponds to a transition strip in the North-South direction, between the 
+highest and most humid area of Chapada dos Guimarães and the floodplains and wetlands of Mato Grosso 
+State, that are lower and drier. The region has altitudes above 900 m (Chapada dos Guimarães) and below 150 
+m. In intermediate regions, such as the municipality of Cuiabá and, in part of the municipality Chapada dos 
+Guimarães, the faces of the escarpment present a high slope and abrupt altimetry variation (Prado et al., 
+2014). As a result, the higher and flatter areas are better suited to annual crops using techniques, while the 
+lower ones, with rugged terrain, are home to agriculture at a lower management level.  
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+185 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+From a climatic point of view, the valley region usually experiences a rainy season between October 
+and March, characterized by a water surplus, with average rainfall above 150 mm, also concentrating the main 
+harvest, in addition to a five-month dry season with a deficit in the water balance.  
+The natural climate and topography conditions impose restrictions and opportunities for the 
+development of agriculture in the region. Steep slopes limit the use of machinery and require greater care to 
+erosion control, while the rainfall and temperature regime determine the agricultural calendars and the 
+critical periods for the various stages of crop development (Ramalho Filho; Beek, 1995). 
+In addition to the problems related to low agricultural productivity, rural planning is important to 
+reduce the environmental impact of inadequate management. Problems of soil erosion in degraded pastures 
+and the natural susceptibility to erosion of plateau soils are a worrying factor regarding the deposition of 
+sediments in the Pantanal floodplain and consequent silting of rivers in these lower altitude areas. 
+Agrarian framework 
+The agrarian framework presents the legally assigned areas composed of Conservation Units (UC) for 
+full protection or sustainable use (Ministry of the Environment - MMA; Chico Mendes Institute for Biodiversity 
+Conservation - ICMBio), Indigenous Lands (National Foundation for Indigenous Peoples - FUNAI), Agrarian 
+Reform Settlements and Quilombola Communities (National Institute for Colonization and Agrarian Reform - 
+INCRA). These areas were officially decreed by Mato Grosso State in the 55 years, by deliberations, decrees 
+and acts of various bodies and administrative instances of the Federation. 
+The RMVRCE has 96 legally assigned areas, totaling more than 1.4 million hectares, for the base year 
+2023, discounting already the overlaps, which represents a territorial extension corresponding to 
+approximately 18% of the study area. The municipality of Rosário Oeste, at the north of the study area, 
+encompasses at least a quarter of these areas, with emphasis on the Environmental Protection Area (APA) of 
+the Headwaters of the Cuiabá River and numerous settlements located in the central part of its territory. 
+Regarding the agrarian structure, the UCs are the most representative category in terms of area (70%), 
+followed by Settlements (22%), which have around 6 thousand families settled in the 14 municipalities 
+analyzed. 
+The subsistence farming, with the sale of surplus products, is the basis of the economy of rural 
+settlements and Quilombola communities. So the data from the agrarian framework available on the platform, 
+is analyzed together with data from other frameworks, serving as a support to identify priority locations to 
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+186 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+promote food security, access to credit, rural assistance, and dissemination of good agricultural and 
+environmental practices. These are locations where government programs such as the National Program to 
+Strengthen Family Farming (PRONAF) and the Food Acquisition Program (PAA) benefit families and the local 
+and regional economy. Despite some benefits guaranteed by the agrarian reform program, many settlers 
+don’t receive these benefits (Quintão Braga et al., 2023), which leads to a needed investigation of the living 
+conditions from these families, as a priority for action. 
+Agricultural framework 
+The agricultural sector represents the diversity of producers and products, ranging from intensive and 
+extensive agriculture to family farming and traditional community practices. Although agricultural production 
+in the region represents a modest share of Mato Grosso's trade balance (approximately 5%, according to the 
+2017 Agricultural Census), its relevance is notable, considering the food security and economic sustainability 
+of local families.  
+The most significant products in the region, both in terms of volume produced and production value, 
+include corn, cassava, bananas and beans, among other essential foods for the population's supply. The data 
+presented in this framework were selected to highlight the products of greatest relevance to family farming, 
+excluding those produced on a large scale, aimed primarily at the foreign market. 
+The region's agricultural diversity is expressed through the cultivation of 96 different products, 
+distributed across nine thematic categories: vegetables (fruits or parts of it), vegetables (leaves, flowers and 
+stems), vegetables (roots, bulbs and tubers), fruit growing, grains, livestock, livestock products, other crops 
+and extractive activities. This breadth of products allows a detailed assessment of the agricultural vocation 
+from each municipality related to RMVRCE, promoting an improved understanding of local specificities. This 
+diversity is materialized in local terms, and each municipality has its own particular production structure. 
+Regarding livestock farming, poultry is the most common activity in the region, present in 10,770 
+agricultural establishments out of a total from 16,115, followed by cattle and pig raising. These figures 
+highlight the importance of livestock farming, especially poultry farming, for the local economy and in the 
+livelihood of families in the region. In terms of production value, cattle farming stands out, taking the largest 
+share, with R$735 million. 
+Despite the existence of data on agricultural and livestock production on a municipal scale, with annual 
+and more recent periodicity (IBGE Annual Surveys PAM/PPM and PEVS), the choice of Census data is justified 
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+187 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+for several reasons. The most important is related to the products that are essential for the characterization of 
+the region - the PAM list of temporary and permanent crop products does not include fruit-type vegetables 
+such as cucumber, pumpkin, zucchini, chayote, and ten other products grown in the RMVRCE, as well as leafy 
+vegetables such as lettuce, cabbage, arugula, and twenty other products also grown in the region (IBGE, 2018). 
+Considering livestock, the Census allowed the stratification of data between cattle establishments with up to 
+50 head and larger establishments with more than 50 head, which is not possible for the PPM. Finally, the 
+Census also systematizes several other data about the producer and establishments (Buainain; Souza Filho, 
+2020) that are systematized to compose other tables on the platform. 
+Infrastructure framework 
+The infrastructure framework includes information characterizing the physical infrastructure resources 
+available in the rural areas of the region, such as electrification, access and use of irrigation, and rural 
+connectivity coverage. In the RMVRCE, the distance from the farm headquarters of agricultural establishments 
+to a road (road, street, or highway) varies significantly between municipalities. In Nova Brasilândia, 50% of 
+these headquarters are more than 1 km distant from a road, while in Poconé, only 3% of the headquarters are 
+in this condition. Due to the location of the CEASA in Cuiabá, located on the BR-364 highway, access problems 
+are intensified due to traffic, the solution for which involves the construction of auxiliary roads, with its own 
+challenges (Nora; Lima, 2018). This difficulty aspect to access CEASA is added to other market problems 
+(Rodrigues Pires; Ribeiro, 2020). A great variability was observed in relation to mobile Internet coverage in 
+areas of rural properties (SiCAR, 2021). In Acorizal, only 28% of properties do not have a mobile Internet 
+coverage, while in Barão de Melgaço, 95% of them don’t have this coverage. 
+Regarding the use of irrigation, it was found that the most widely used system is drip irrigation, with 
+Cuiabá, Poconé and Campo Verde presenting most rural properties with this type of irrigation. In addition, in 
+the study area, the wetting technique is used, which involves the utilization of hoses or other systems not 
+provided for in the other categories, for the irrigation horticultural beds, predominantly in the municipalities 
+of Santo Antônio do Leverger, Várzea Grande and Cuiabá. Considering the potential for the expansion of 
+irrigated areas, Barão de Melgaço and Poconé present more than 100 hectares of watershed areas with a high 
+availability of water captured directly from watercourses. 
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+188 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+Social-economic framework 
+The social-economic framework is responsible for gathering social and economic indicators to 
+represent the different regional realities, with an emphasis on family farming. For this purpose, it presents an 
+interactive panel segmented into two main sections: ‘The establishment’, where the available variables are 
+associated with the profile of the agricultural establishments present in the RMVRCE; and ‘The producer’, 
+where the information is dedicated exclusively to the characterization of the producers in the region.  
+In the ‘The establishment’ section, the agricultural establishments are represented in relation to the 
+main variables characterizing them: a) classification to family and non-family farming; b) size of the 
+establishment; c) land use of the establishments; d) identification and measurement of financial expenses 
+incurred on the establishments; e) purpose of production, whether for marketing or own consumption. Based 
+on this analytical set of information on family farming, it is possible to distinguish different profiles of 
+municipalities in relation to agricultural activities, which can promote different policies for each type and 
+condition (Buainain; Souza Filho, 2020; Guanziroli; Sabbato; Buainain, 2020). 
+Regarding RMVRCE, the establishments are mostly family farms (65%), ranging from a participation 
+level of 54% in Cuiabá to 76% in Campo Verde and Barão de Melgaço. There are, however, important internal 
+differences in the analysis of the other available variables. While municipalities such as Planalto da Serra, Nova 
+Brasilândia and Poconé have their own/family consumption as the preferred purpose of the establishments, 
+which indicates family farming with low capacity for commercial exploitation, other municipalities such as 
+Nobres and Campo Verde have its production aimed mainly for commercialization, which demonstrates a 
+higher capacity of producers to enter the markets. This differentiation is also found when considering land 
+use: in Nobres and Campo Verde, the area used for temporary crops is representative in relation to different 
+uses, which is not the case in other municipalities of the region, whose main characteristic of use is 
+represented by the pasture area, whether planted or native. This heterogeneity reflects the complexity of 
+rural development in Brazil which, as pointed out by Schneider et al. (2010), is a multifaceted process that 
+includes diverse realities and grants rural actors an active role in the construction of their ways of life.    
+In the section ‘The Producer’, information is dedicated to characterize the universe of producers in the 
+region. To this end, information on age and education level is presented, segmented into different categories, 
+and identification of gender (male or female), in addition to color or race. In this region, 80% of producers 
+responsible for agricultural establishments are men, a percentage close to the national average of 81.3%. In 
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+189 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+this regard, there are no significant differences between the municipalities in the region, but Barão de 
+Melgaço and Planalto da Serra reach percentages above 90% of men managing the establishments. Research 
+indicates that the strong male presence in the management of rural properties is probably associated with 
+historical issues of succession and concentration of land in male figures. In addition to that, many models of 
+family organization underestimate or make invisible the female contribution (Gonçalves; Teixeira, 2021; Silva; 
+Lima, 2018). This male predominance in management, as pointed out by Gonçalves and Teixeira (2021) and 
+Silva and Lima (2018), may be intrinsically related to the devaluation and invisibility of female work in family 
+farming, where women play a fundamental role, but are often not recognized as the main decision-makers. 
+Regarding color or race, the region's producers are mostly brown, with percentages ranging from 60% 
+to 75%. However, it is worth highlighting the difference recorded in the municipalities of Campo Verde and 
+Nobres, where producers declared themselves as white are the majority, in the case of the former, and very 
+close to the majority, in the case of the latter. Regarding education and age data, all municipalities in the 
+region register significant bottlenecks. In the case of education, the vast majority of producers (more than 
+50%) have only elementary education, with high school accounting for a share between 15% and 25% in most 
+municipalities. The low level of education observed among rural producers in the RMVRCE is similar to other 
+regions in Brazil, which can limit access to more efficient technologies and agricultural practices, as well as 
+create significant obstacles to access credit and technical assistance (Cruz et al., 2021). Regarding the age 
+profile, all municipalities reveal a chronic and emerging problem of family succession: more than half of the 
+producers are over 55 years old. This situation, combined with possible conditions of economic stagnation, 
+can generate a significant decrease in family farming at the regional level, making commercial activity unviable 
+in some locations. The lack of successors on rural properties compromises the continuity of agricultural 
+activities, the transmission of family assets (Spanevello et al., 2017) and the social reproduction of family 
+farming itself.   
+Rural preservation 
+Territorial analyses based on data from the Rural Environmental Registry System (SICAR) provide 
+insight into the territorial dimension of rural properties and the scope of areas designated for the preservation 
+of native vegetation in the region (Ferreira et al., 2019; Miranda et al., 2020). In the processing of data and 
+consolidation of the number of areas dedicated to the preservation of native vegetation by municipality, 
+presented in this work, overlaps between vegetation categories were removed following the priority: 
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+190 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+hydrography overlaps permanent preservation area (APP); permanent preservation areas overlap legal 
+reserve; legal reserve overlaps additional native vegetation area. 
+ At RMVRCE there are 14,545 rural properties registered in the 2023 SICAR, occupying an area of 
+5,750,502 ha (73.3% of the region). These rural properties dedicate 3,378,925 ha of their areas to the 
+preservation and conservation of native vegetation (43% of the RMVRCE). The region is located in the Cerrado 
+of the Legal Amazon (requirement of 35% legal reserve in the 2012 Forest Code) and in the Pantanal 
+(requirement of 20% in the 2012 Forest Code). On average, a rural property dedicates 58.8% for such 
+purposes. In the RMVRCE, 11,167 rural properties are small, with up to 4 tax modules (77.4% of the total), 
+while medium-sized rural properties are 1,906 (13.2%) and large rural properties 1,363 (9.4%). In terms of 
+area occupied by rural properties, the situation is reversed: large properties occupy 3,992,615 hectares (70.0% 
+of the total area of rural properties), while small properties occupy 719,613 hectares (12.6%). The largest 
+registered properties are in the municipalities of Poconé, Barão de Melgaço and Santo Antônio do Leverger, 
+located in the Pantanal Biome. One of the platform's features is the individualized visualization of areas 
+designated for preservation within municipalities, which allows to observe the size of these areas according to 
+the size of the properties. Two divergent examples are the municipalities of Jangada and Acorizal. While in 
+Jangada, more than 60% of the legal reserve (67%) and excess native vegetation (61%) are in large rural 
+properties, in Acorizal the legal reserve is mainly in small (33%) and medium (34%) properties, and native 
+vegetation predominantly in small properties (56%). It is worth noting, however, that the rural area of Jangada 
+has 61% of the area occupied by large properties, while in Acorizal, large properties correspond to 31% of the 
+total rural area. 
+IV. CONCLUSIONS 
+The territorial intelligence platform for the Metropolitan Region of the Cuiabá River Valley and 
+Surrounding Area (RMVRCE) is a significant advance in the integration of spatial and thematic data, allowing a 
+comprehensive analysis of regional realities. It provides detailed information on natural, agrarian, agricultural, 
+infrastructure and social-economic aspects, within the concept of the Strategic Territorial Intelligence System. 
+The platform is a strategic tool to support the sustainable development of family farming in the region. The 
+classification of municipalities based on their environmental and productive characteristics enables the 
+formulation of more assertive public policies that meet local specificities and promote productive inclusion 
+and social-environmental sustainability. 
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+191 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+Additionally, the platform demonstrates the capacity of inter-institutional cooperation between 
+Embrapa, Empaer-MT and FALM to generate innovative and effective solutions to complex challenges, such as 
+retain young people in the countryside and preserve natural resources. The experience acquired at RMVRCE 
+could be a model for other regions, encouraging the use of territorial intelligence technologies to strengthen 
+family farming and sustainable territorial management for different contexts in Brazil. 
+Potential next steps to continue the research include collecting, registering and integrating primary 
+data through collaborations with different public and private institutions and social organizations (e.g. 
+associations, cooperatives, agribusinesses). Primary data from production chains, access roads to production 
+areas, institutional and private markets could be aggregated, contributing to policies supporting and 
+promoting family farming. 
+Acknowledgements 
+The project team would like to thank the André and Lucia Maggi Foundation (FALM) for funding the 
+Family Farming Project, consequently strengthening the farmers of the future of the Cuiabá River Valley and 
+surrounding areas (Baixada Cuiabana). 
+V.  REFERENCES 
+ALVARES, C. A.; DE MATTOS, E. M.; SENTELHAS, P. C. et al. Modeling temporal and spatial variability of leaf 
+wetness duration in Brazil. Theoretical and Applied Climatology, v. 120, p. 455-467, 2015. Disponível em: 
+https://doi.org/10.1007/s00704-014-1182-3. Acesso em: 22 set. 2023. 
+BUAINAIN, A. M.; SOUZA FILHO, H. M. Censo Agropecuário e política agrícola. In: VIEIRA FILHO, J. E. R.; 
+GASQUES, J. G. Uma jornada pelos contrastes do Brasil: cem anos de Censo Agropecuário. Brasília: Ipea, 2020. 
+cap. 18, p. 259-265. 
+CAVICCHIOLI, D.; BERTONI, D.; PRETOLANI, R. Farm succession at a crossroads: The interaction among farm 
+characteristics, labour market conditions, and gender and birth order effects. Journal of Rural Studies, v. 61, p. 
+73-83, 2018. Disponível em: https://www.sciencedirect.com/science/article/pii/S074301671731207X. Acesso 
+em: 31 mar. 2025. 
+CRUZ, N. B.; JESUS, J. G.; BACHA, C. J. C.; COSTA, E. M. Acesso da agricultura familiar ao crédito e à assistência 
+técnica no Brasil. Revista de Economia e Sociologia Rural, v. 59, n. 3, p. 1–20, 2021. Disponível em: 
+https://doi.org/10.1590/1806-9479.2021.226850. Acesso em: 25 fev. 2025. 
+DALLEMOLE, D.; FARIA, A. M. M.; RIBEIRO, A.; ZAVALA, A. A.; FIGUEIREDO, M. G.; FERREIRA, H. M. L. 
+Diagnóstico da Demanda de Produtos e Serviços para a Copa de 2014 em Cuiabá, Várzea Grande e Demais 
+Cidades Turísticas do Vale do Rio Cuiabá. 2013. 
+DALLEMOLE, D.; ZAVALA, A. A. Z.; MANSO, J. R. P.; SILVA, G. S. L. Condicionantes da oferta e demanda de leite 
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+192 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+em Mato Grosso: um estudo com dados em painel. Nexos econômicos, v. 11 n. 1, 2017, 
+https://doi.org/10.9771/rene.v11i1.24424. 
+DELGADO, N. G.; GRISA, C. Políticas de desenvolvimento territorial e pobreza rural no Brasil: análise das 
+institucionalidades e da governança. Estudos Sociedade e Agricultura, Rio de Janeiro, v. 22, n. 1, p. 132-163, 
+2014. 
+EMBRAPA. Secretaria Geral. Gerência de Comunicação e Informação. Embrapa em números. Brasília, DF, 2022. 
+p. 140. 
+FERREIRA, R. R. M.; CASTRO, G. S. A.; CARVALHO, C. A. Dimensão territorial das áreas destinadas a preservação 
+da vegetação nativa em propriedades de Mato Grosso. Rondonópolis, MT: Fundação Mato Grosso, 2019. p. 
+55-60. 
+(Boletim 
+de 
+Pesquisa 
+2019/2020) 
+Disponível 
+em: 
+<https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1114098/1/5131.pdf>. 
+FERRO, A. S.; VECHI, J. B. Contextualização da agricultura familiar em Mato Grosso. Sinop: Embrapa 
+Agrossilvipastoril, 2014. p. 31. 
+FIRJAN. 
+Índice 
+FIRJAN 
+de 
+Desenvolvimento 
+Municipal 
+(IFDM) 
+- 
+2018. 
+Disponível 
+em: 
+<https://www.firjan.com.br/ifdm/consulta-ao-indice/>. Acesso em: 10 fev. 2025. 
+FOGUESATTO, C. R.; MORES, G. V.; KRUGER, S. D.; COSTA C. Will I have a potential successor? Factors 
+influencing family farming succession in Brazil. Land Use Policy, v. 97, 104643, p. 6. 2020. Disponível em: 
+https://www.sciencedirect.com/science/article/pii/S0264837719302340. Acesso em: 31 mar. 2025. 
+GARCÍA-MADURGA, M. -Á.; GRILLÓ-MÉNDEZ, A. -J.; ESTEBAN-NAVARRO, M. -Á. Territorial Intelligence, a 
+Collective Challenge for Sustainable Development: A Scoping Review. Social Sciences, v. 9, n. 7, p. 1-21, 2020. 
+Disponível em: https://www.mdpi.com/2076-0760/9/7/126. Acesso em: 28 mar. 2025. 
+GONÇALVES, R. S.; TEIXEIRA, M. F. Gênero e agricultura familiar: desafios e perspectivas. Revista de Estudos 
+Rurais, v. 7, n. 2, p. 45-60, 2021.  
+GUANZIROLI, C. E.; SABBATO, A.; BUAINAIN, A. M. Evolução da agricultura familiar no Brasil (1996-2017). In: 
+VIEIRA FILHO, J. E. R.; GASQUES, J. G. (Org.). Uma jornada pelos contrastes do Brasil: cem anos de Censo 
+Agropecuário. Brasília: Ipea, 2020. cap. 13, p. 191-203. 
+IBGE. Censo agropecuário 2017: resultados definitivos. Rio de Janeiro: IBGE, 2019. Disponível em: 
+<https://sidra.ibge.gov.br/pesquisa/censo-agropecuario/>. Acesso em: 11 mai. 2024. 
+IBGE. Malha municipal digital e áreas territoriais 2022. Nota metodológica n. 01. Disponível em: 
+<https://biblioteca.ibge.gov.br/visualizacao/livros/liv101998.pdf>. Acesso em: 09 ago. 2024. 
+IBGE. Pesquisas agropecuárias. Série Relatórios Metodológicos. 3. Ed. Rio de Janeiro: IBGE, 2018. p. 111. 
+IRIGARAY, C. T. J. H.; NUNES DA CUNHA, C.; JUNK, W. J. (Org.). Pantanal à margem da lei: panorama das 
+ameaças e perspectivas para a conservação. Programa Corredor Azul - Wetlands International. Cuiabá, MT: 
+Mupan, 2020. 
+LOCATEL, C. D.; TROLEIS, A. L.; MENDES, L. S.; SILVA, B. L. Inteligência territorial e análise de recursos hídricos: 
+apontamentos teórico-metodológicos aplicados ao diagnóstico e prognóstico do PSH. Confins, 2023. 
+Disponível em: <http://journals.openedition.org/confins/54159>. Acesso em: 11 mai. 2024. 
+MAGALHÃES, L. A.; FONSECA, M. F.; PINTO, D. M.; MIRANDA, E. E. Inteligência estratégica e a relevância do 
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+193 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+território como elemento de planejamento. Nota Técnica/Nota Científica. Brasília, DF: Embrapa, 2021. 
+Disponível em: <https://ainfo.cnptia.embrapa.br/digital/bitstream/item/223527/1/5904.pdf>. Acesso em: 11 
+fev. 2024. 
+Mato 
+Grosso. 
+Lei 
+Complementar 
+n. 
+359, 
+de 
+27 
+de 
+maio 
+de 
+2009. 
+Disponível 
+em: 
+<https://legislacao.mt.gov.br/mt/lei-complementar-n-359-2009-mato-grosso-dispoe-sobre-a-criacao-da-
+regiao-metropolitana-do-vale-do-rio-cuiaba-e-da-outras-providencias?origin=instituicao>. Acesso em: 21 jun. 
+2024. 
+MATTE, A.; MACHADO, J. A. D. Tomada de decisão e a sucessão na agricultura familiar no sul do Brasil. Revista 
+de Estudos Sociais, v. 18, n. 37, p.130-151, 2016. 
+MDA - Ministério do Desenvolvimento Agrário. Perfil territorial: Baixada Cuiabana. Secretaria de 
+Desenvolvimento Territorial, 2015. p. 8. 
+MELO, A. B.; SOUSA, J. E. Planejamento territorial de redes produtivas. Revista Práticas de Administração 
+Pública, v. 1, n. 2, p. 41-58, 2017. Disponível em: http://dx.doi.org/10.5902/2526629227875. Acesso em: 4 
+abr. 2025. 
+MENASCHE, R.; BELÉM, R. C. Gênero e agricultura familiar: trabalho e vida na produção de leite do sul do 
+Brasil. Raízes: Revista de Ciências Sociais e Econômicas, v. 17, p. 135-142, jun. 1998. Disponível em: 
+https://doi.org/10.37370/raizes.1998.v.138. Acesso em: 25 fev. 2025. 
+MENASCHE, R.; ESCHER, S. Gênero e agricultura familiar: cotidiano de vida e trabalho na produção de leite. 
+Curitiba: DESER; Comissão Estadual de Mulheres Trabalhadoras Rurais do Paraná, 1996. 
+MIRANDA, E. E.; CARVALHO, C. A.; MARTINHO, P. R. R. Intensificação produtiva da agricultura e regularização 
+ambiental: encontros e desencontros territoriais entre o Censo Agropecuário e o Cadastro Ambiental Rural. In: 
+NAVARRO, Z. (Org). A economia agropecuária do Brasil: a grande transformação. São Paulo: Baraúna, 2020. p. 
+42-101. 
+Disponível 
+em: 
+http://www.bdpa.cnptia.embrapa.br/consulta/busca?b=ad&id=1127561&biblioteca=CNPM&busca=cadastro
+%20ambiental%20rural&qFacets=cadastro%20ambiental%20rural&sort=anopublicacao&paginacao=t&pagina
+Atual=1. Acesso em: 21 set. 2021. 
+MORAIS, M.; BINOTTO, E.; BORGES, J. A. R. Identifying beliefs underlying successors’ intention to take over the 
+farm. Land Use Policy, v. 68, p. 48-58, 2017. 
+NORA, G. D.; LIMA, A. B. C. Passivos ambientais decorrentes da implantação do atual anel viário em 
+Cuiabá/MT. InterEspaço: Revista de Geografia e Interdisciplinaridade, v. 4, n. 14, p. 205-217. 2018. Disponível 
+em: https://periodicoseletronicos.ufma.br/index.php/interespaco/article/view/5970. Acesso em: 24 fev. 2025. 
+PRADO, R. J.; CABRAL, I. L. L.; SILVA, A. P. M.; SOLORZANO, P. E. M.; ALBUQUERQUE, A. P. A. Caracterização de 
+material laterítico do planalto e Chapada dos Guimarães – MT por EDX, XRD e espectroscopia Mössbauer. 
+Revista Brasileira de Geomorfologia, São Paulo, v. 15, n. 4, p. 619-637, out./dez. 2014. Disponível em: 
+<www.ugb.org.br>. Acesso em: 01 abril 2025. 
+QUINTÃO BRAGA, M.; LORENTZ, J. F.; FERREIRA, J.; GAMA, R. C. N.; HENRIQUES, B. S.; SANTANA, J. U. R.; 
+CALIJURI, M. L. Política Agrária no Brasil: uma análise situacional e socioambiental de projetos de 
+assentamento. Revista Brasileira de Geografia. Rio de Janeiro, v. 68, n. 1, p. 3-26, jan./jun. 2023.    
+RAMALHO FILHO, A.; BEEK, K. J. Sistema de avaliação da aptidão agrícola das terras. 3. Ed. rev. Rio de Janeiro: 
+
+
+ 
+ 
+O ESPAÇO GEOGRÁFICO EM ANÁLISE 
+ 
+194 
+ISSN eletrônico 2177-2738 
+ 
+RA’EGA, Curitiba, PR, V.8, n.2, p. 176 – 194, 8/2025 
+https://revistas.ufpr.br/raega 
+ 
+https://doi.org/10.5380/raega.v63i2.100523 
+ 
+ 
+ 
+ 
+ 
+EMBRAPA-CNPS, 
+1995. 
+p. 
+65. 
+ISBN 
+85-85864-01-X. 
+Disponível 
+em: 
+https://ainfo.cnptia.embrapa.br/digital/bitstream/doc/330132/1/Sistema-de-avaliacao-da-aptidao-agricola 
+das-terras-1995.pdf. Acesso em: 07 out. 2023. 
+RODRIGUES PIRES, W. L.; RIBEIRO, A. R. Fatores que Influenciam a Competitividade na Produção Orgânica no 
+Vale do Rio Cuiabá em Mato Grosso. RDE-Revista de Desenvolvimento Econômico, v. 2, n. 46, 2020. Disponível 
+em: https://revistas.unifacs.br/index.php/rde/article/view/6235. Acesso em: 24 fev. 2025. 
+SCHNEIDER, S.; SHIKI, S.; BELIK, W. Rural development in Brazil: overcoming inequalities and building new 
+markets. Rivista di Economia Agraria, v. 65, n. 2, p. 225-259, 2010. 
+SPANEVELLO, R. M.; MATTE, A.; ANDREATTA, T.; LAGO, A. A problemática do envelhecimento no meio rural 
+sob a ótica dos agricultores familiares sem sucessores. Desenvolvimento em Questão, v. 15, n. 40, p. 348-372, 
+2017. Disponível em: http://dx.doi.org/10.21527/2237-6453.2017.40.348-372. Acesso em: 13 jan. 2025. 
+VALERIANO, M. M. Modelo digital de variáveis morfométricas com dados SRTM para o território nacional: o 
+projeto TOPODATA. In: XII Simpósio Brasileiro de Sensoriamento Remoto, 2005, Goiânia, GO. Anais do XII 
+Simpósio Brasileiro de Sensoriamento Remoto, 2005. p. 1-8. 
+ 
+ 

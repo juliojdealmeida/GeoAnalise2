@@ -1,0 +1,1040 @@
+Industry and Innovation
+ISSN: 1366-2716 (Print) 1469-8390 (Online) Journal homepage: www.tandfonline.com/journals/ciai20
+Unveiling the global trade network of digital
+production technologies: a new product
+classiﬁcation
+Antonio Andreoni, Guendalina Anzolin, Mateus Labrunie & Danilo Spinola
+To cite this article: Antonio Andreoni, Guendalina Anzolin, Mateus Labrunie & Danilo Spinola
+(24 Apr 2026): Unveiling the global trade network of digital production technologies: a new
+product classiﬁcation, Industry and Innovation, DOI: 10.1080/13662716.2026.2662858
+To link to this article:  https://doi.org/10.1080/13662716.2026.2662858
+© 2026 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+Published online: 24 Apr 2026.
+Submit your article to this journal 
+Article views: 770
+View related articles 
+View Crossmark data
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=ciai20
+RESEARCH ARTICLE
+Unveiling the global trade network of digital production technologies: 
+a new product classification
+Antonio Andreonia,b, Guendalina Anzolinc,d, Mateus Labrunied and Danilo Spinolab,e
+aCentre for Sustainable Structural Transformation, Department of Economics, SOAS University of London. London, United 
+Kingdom; bSouth African Research Chair in Industrial Development, University of Johannesburg, Johannesburg, South Africa; 
+cDepartment of Economics, University of Modena and Reggio Emilia, Modena, Italy; dInstitute for Manufacturing, University of 
+Cambridge, Cambridge, United Kingdom; eDepartment of Accountancy, Finance and Economics, Birmingham City University, 
+Birmingham, United Kingdom
+ABSTRACT
+This research introduces a novel Digital Production Technology Classification (DPTC) 
+based on the Harmonised Commodity Description and Coding System (HS2017) from 
+the World Customs Organisation. The DPTC identifies 120 traded products linked to 
+digital production technologies (DPTs), focusing on technologies that serve as building 
+blocks of digitalised production. The objective is to provide a tool to assess countries’ 
+positions in the digitalisation process. Using a step-by-step methodology and expert 
+consultations on production technologies with digital potential, the DPTC distinguishes 
+final products, parts, and instruments, capturing levels of technological complexity. We 
+apply this classification to generate empirical evidence on the global production struc-
+ture of DPTs by comparing trade networks in 2012 and 2019. The network analysis 
+reveals shifts in global DPT trade structure, countries’ roles, and their centrality in 
+production and trade. The classification provides a useful tool for researchers and 
+policymakers to analyse DPT trade networks and inform industrial policy.
+KEYWORDS 
+Digitalisation; Digital 
+Production Technology 
+(DPT); product classification; 
+global trade networks; 
+Industrial Policy; 
+Technological Complexity
+JEL CLASSIFICATION 
+O14; O33; F14
+1. Introduction
+The development, production, and diffusion of digital production technologies (DPTs) are transforming the 
+nature of industrial production across sectors, reshaping how tasks are performed and how value chains are 
+organised (Ivanov, Dolgui, and Sokolov 2019). These technologies – such as smart robotics, advanced 
+sensors, and networked systems – are central to the broader process of digitalisation, which entails the 
+integration of digital tools and data infrastructures into productive and organisational processes (Ghosh 
+et al. 2022; Lee and Trimi 2021; Szalavetz 2022; Teece and Linden 2017). In manufacturing, in particular, 
+digitalisation refers to the system-level transformation of production activities through digitally enabled 
+tools, data flows, and process integration (Cohen et al. 2019).
+DPTs are manufacturing and production-oriented technologies that overlay and augment traditional hard-
+ware with smart software, sensors and cyber-physical systems (Andreoni and Anzolin 2019; UNIDO, 2019; 
+Dachs and Wolfmayr 2025). These include, but are not limited to, AI and data analytics, robotics and additive 
+manufacturing, Internet of Things (IoT), cloud computing, and network communication technologies. These 
+technology clusters are increasingly integrated into complex systems of machines, software, and infrastructure, 
+enabling new forms of coordination, monitoring, and control within and across firms (Sturgeon 2021).
+Despite their growing importance, systematic tools for measuring the adoption and diffusion of DPTs across 
+countries remain underdeveloped. Existing efforts often rely on three broad types of evidence: industrial 
+surveys, composite readiness indices, and trade-based analyses (Labrunie 2023). Industrial surveys provide 
+a comprehensive overview of digital technologies adoption, yet their sample is often limited to a few firms, 
+sectors and countries (Tortora et al. 2021ONS (2023); Eurostat 2025); composite readiness indices overcome 
+CONTACT Danilo Spinola 
+ danilo.spinola@bcu.ac.uk 
+ Department of Accountancy, Finance and Economics, Birmingham City University, 
+Birmingham City Business School, Curzon Building, Room C213, 4 Cardigan Street, Birmingham, West Midlands B4 7BD
+This article has been corrected with minor changes. These changes do not impact the academic content of the article.
+INDUSTRY AND INNOVATION                           
+https://doi.org/10.1080/13662716.2026.2662858
+© 2026 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.  
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow 
+the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+this limitation being highly comparable, however they tend to conflate multiple dimensions and processes of 
+digitalisation, from services digitalisation to manufacturing, making difficult to understand what is effectively 
+measured (e.g. WEF, UNCTAD and WIPO developed indices, see section 2.2). Our contribution aligns with 
+studies that utilise trade-based indicators, relying on imports of a defined set of products to measure technology 
+adoption and diffusion. Other papers have followed this approach, for example, examining the adoption of 
+robotics (Bonfiglioli et al. 2024) or, more closely related to our approach, analysing a defined set of advanced 
+digital production technologies across 27 European countries (Castellani, Lamperti, and Lavoratori 2022).
+We build on and expand the previous work of Castellani, Lamperti, and Lavoratori (2022) in three main 
+directions. First, our methodological approach enables us to create a granular product classification which 
+can be used to study digitalisation in most countries worldwide beyond Europe. Second, our approach does 
+not consider exclusively advanced digital production technologies but also different types of technologies 
+with potential for digitalisation, making it a useful tool to map the diffusion of DPT also in emerging and 
+developing countries. Third, integral to our methodological approach is the deployment of this new product 
+classification in network analysis. Product classifications have been mainly used for benchmarking analysis 
+across countries, much less to identify the network structure underpinning digitalisation processes and 
+diffusion across countries and changes in such structures. Given that DPTs are produced and diffused 
+through complex import-export evolving relationships, network analysis can help unveil structural features 
+of this technology diffusion process and changing balances among countries and regions.
+Specifically, we propose a novel Digital Production Technology Classification (DPTC), based on the 
+Harmonised System 2017 (HS2017) product nomenclature, which is used by over 200 countries. Our 
+classification identifies 120 six-digit tradable products that enable the digitalisation of production, selected 
+through a structured, multi-step process combining HS and BEC category filters, keyword searches, and 
+expert validation. These products are organised into three conceptual groups – final capital goods, inter-
+mediate components, and digital instrumentation – to reflect their different roles in production systems.
+We use our classification to unveil the network structure underpinning the diffusion of DPTs and their 
+evolution over time, conducting a network analysis based on bilateral trade data for 2012 and 2019. Through this 
+analysis, we construct bidirected trade networks to assess countries’ positions and roles over time. We also 
+analyse the dynamics of networks for different types of DPTs – that is, final capital goods, intermediate 
+components, and digital instrumentation. This approach captures both the intensity and directionality of 
+trade flows, allowing us to identify central countries and key exporting hubs within the global digital production 
+landscape.
+The paper makes three main contributions to the existing academic literature as well as policy debates around 
+digitalisation and technology policy practice. The first contribution is methodological and pertains to the 
+introduction of a new granular product-level classification of digital production technologies, enabling systema-
+tic and internationally comparable analysis of countries and the network structure connecting them. The second 
+contribution is about policy practice. Our DTPC tool can provide policymakers with insights into countries’ 
+positions, technology diffusion and underpinning structures (trade sources, direction and dependence), ulti-
+mately informing the design of policy measures targeting specific technology domains. Third, our empirical 
+analysis provides evidence of the DTP global networks and the changing roles of countries and regions. By doing 
+so, we identify emerging regional dynamics, such as the increasing centrality of East and Southeast Asia and the 
+fragmentation of European networks, with implications for industrial and technological policy.
+The remainder of the paper is organised as follows. Section 2 reviews the literature on digital production 
+technologies and measurement approaches. Section 3 outlines the construction of the DPTC and the 
+analytical framework. Section 4 presents descriptive evidence on the global trade network of DPTs. 
+Section 5 discusses evidence from the network analysis, and Section 6 concludes with implications for 
+policy and further research.
+2. Literature review
+2.1. Defining digital production technologies within the broader trend of digitalisation
+An important conceptual distinction between digitalisation and digital production technologies (DPTs) 
+underlies this paper; the former indicates a systemic transformation, while the latter refers to the concrete 
+2
+ A. ANDREONI ET AL.
+technological artefacts that enable this transformation. Digitalisation is a broad phenomenon that encom-
+passes shifts in organisational models, production structures, and information flows. When applied to the 
+manufacturing sector, digitalisation indicates the establishment of networks between machines and the use 
+of software systems and data analytics for monitoring, controlling and optimising interconnected work 
+processes (Hirsch-Kreinsen and Hompel 2017). Part of this process, DPTs refer specifically to physical 
+goods, such as machinery, instruments, and components, that support digital operations on the factory floor 
+through connectivity. Connectivity is key as it brings the two concepts (digitalisation and DPT) together 
+and is the real source of value creation mechanisms for businesses (Cirillo et al., 2021; De Propris and Bailey  
+2021).
+We place this study in the DPT literature and emphasise production because mapping DPTs reveals 
+the capabilities, emerging and established, that support structural transformation. Production technol-
+ogies, in particular, spur industrial development through their pivotal contribution to the accumulation 
+of capabilities (Amsden 1990; Andreoni and Chang 2019; Lall 1992). Production technologies histori-
+cally include a wide range of equipment, from conventional machine tools to programmable devices. 
+With digitalisation, these technologies evolve through sensorisation, software integration, and network 
+connectivity, enabling real-time data exchange, remote monitoring, and autonomous control. In this 
+context, DPTs are not defined solely by automation or numerical control, but by their capacity to 
+operate as part of interconnected, data-intensive production systems (Andreoni and Anzolin 2019; 
+Tassey 2014).
+The digital transformation of production relies on multiple layers of enabling technologies (e.g. Jia et al.  
+2019). These include, for example, (i) sensors and measurement devices that collect and process data, (ii) 
+communication infrastructure for data transmission, (iii) computational tools for data processing and 
+storage, and (iv) interfaces and actuators for feedback and control. Together, these technologies constitute 
+the infrastructure of industrial digitalisation and are increasingly embedded in international trade.
+2.2. Industrial digitalisation and empirical approaches
+The digitalisation of production systems is a central feature of contemporary industrial transformation. This 
+process involves not only the introduction of new digital tools but also the reconfiguration of productive 
+and organisational capabilities across firms and sectors (Andreoni, Chang, and Labrunie 2021; Szalavetz  
+2022; Teece and Linden 2017). As digitalisation gains strategic relevance in shaping competitiveness and 
+resilience, there is increasing demand for metrics and indicators that can capture its scope, diffusion, and 
+structural implications.
+Several empirical strategies have been deployed to measure both the broader concept of digitalisation (see 
+section 2.1) and of digital production technologies at the country or sector level. These can be grouped into 
+three main approaches: industrial surveys, composite readiness indices, and trade-based analyses.
+Industrial surveys typically provide firm-level data on the adoption of digital technologies and associated 
+organisational practices. While such surveys offer detailed insights, they are often limited in geographic 
+scope and lack international comparability due to differences in design and definitions. Notable examples 
+include the European Manufacturing Survey (Albrieu et al. 2019), the European Investment Bank’s EIBIS 
+dataset, and national studies for countries such as South Korea and Germany (Sommer 2015). In emerging 
+economies, surveys have been conducted in Brazil (Ferraz et al. 2020), Vietnam, Ghana, and others, often 
+under the auspices of international organisations (UNIDO, 2019; UNDP, 2020). Despite their value, these 
+studies remain fragmented and often rely on self-reported indicators of digital capability.
+A second strand of research relies on composite indices, a great part of which is an attempt to measure 
+‘digital readiness’. These indices combine secondary data on infrastructure, skills, innovation, and regula-
+tion. While useful for cross-country benchmarking, they often conflate inputs, enablers, and outcomes, and 
+may obscure underlying technological heterogeneity. The use of multiple proxies and arbitrarily weighted 
+components can limit their interpretability and relevance for understanding specific technologies or 
+industrial dynamics. For instance, the European Commission’s Digital Economy and Society Index 
+(DESI) merges connectivity, human capital, use of digital services, firm adoption, and digital public services, 
+mixing enablers with firm- and citizen-level outcomes in a single score. Similarly, the World Bank’s Digital 
+Adoption Index (DAI) aggregates adoption by people, businesses, and governments from heterogeneous 
+INDUSTRY AND INNOVATION
+ 3
+proxies (e.g. broadband/mobile penetration, firm web presence, online public services), which makes it hard 
+to isolate specific technological capabilities or bottlenecks.
+A final approach is the one based on trade-based data analysis. Using trade data to map capabilities of 
+various types has been a common approach in economics; the most famous example is Hidalgo and 
+Hausmann’s (2009) analysis of the so-called product space and derived economic complexity of different 
+countries. By tracking the flows of digital goods across borders, these methods use trade data to extract 
+synthetic measures of the degree of digitalisation of specific countries. Macedo et al. (2020), for instance, 
+analyse revealed comparative advantages in capital and Industry 4.0-related goods, linking them to robot 
+intensity and employment risk indicators. Another recent contribution from Bonfiglioli et al. (2024) uses 
+robot imports to study firm-level outcomes. The product lists used in such studies are often narrow (e.g. 
+focusing on a single technology) and not derived from systematic classification procedures, which limits 
+their comprehensiveness and comparability. A systematic attempt is found in Castellani, Lamperti, and 
+Lavoratori (2022), who develop a classification of three sets of Industry 4.0-related products based on the 
+EU Combined Nomenclature (CN8). While this approach improves precision at the product level, it is 
+constrained by its regional scope and a narrower technological focus on advanced digital production 
+technologies (i.e. advanced industrial robots, additive manufacturing, and the industrial Internet of 
+Things), making it less applicable to studying the structural change in emerging economies in this context. 
+Most developing countries lack access to advanced digital production technologies, yet in these countries 
+several production activities – from agriculture to manufacturing and logistics – can be digitalised, that is, 
+they have the potential for digitalisation through production system retrofitting and technology integration 
+processes. In fact, in several cases, it is by turning this digital potential into reality that countries across the 
+global south move their first steps into digitalisation and develop their digital technological capabilities 
+(Figuereido and Zahra 2025).
+3. Methodology and rationale to build the DPT classification
+This section presents the methodology used to construct the Digital Production Technology Classification 
+(DPTC); our framework builds on the classification of internationally traded goods to identify a consistent 
+set of digital production technologies.
+3.1. Conceptual framework for our DPT classification
+We developed the classification of Digital Production Technologies through a multi-step process that 
+combines product-level trade data with both conceptual and empirical criteria. The goal was to identify 
+a set of tradable goods that play a central role in enabling production digitalisation. Unlike an analysis 
+focused on a specific set of advanced digital production technologies such as robots (Castellani, Lamperti, 
+and Lavoratori 2022), we aim to broaden the scope of our classification to include technologies that have the 
+‘potential’ to digitalise the production process. Tradable goods with a ‘digital potential’ are those techno-
+logical products constituting the ‘building blocks’ of digitalised production processes such as screens, 
+antennas or routers, microelectronic components, and machinery with digital capabilities and interface. 
+The integration of these technological products into other production technology and systems have the 
+potential of enabling their digital transformation. This integration often involves various degrees of 
+technological retrofitting – e.g. from the simple sensorisation of a production technology requiring sensors, 
+actuators and screen interfaces – to most advanced forms of integration which may result in indigenous 
+innovation in products, processes and services (Andreoni and Anzolin 2025). There are various examples 
+across sectors, from the introduction of precision feeding in farming (through the integration of sensors, 
+antennas, routers, etc. that enable data analytics underpinning feeding optimisation) to more complex 
+forms of retrofitting of a robotic cell centred around an ADPT being a robotic arm (but further enabled by 
+various human interface systems such as screens for enhanced automation flexibility and human control).
+In our conceptual framework, we distinguish three categories of products that can be understood as 
+having digital potential: parts and components of digital products, such as electronic circuits, memories, 
+processors, antennas, etc. (the bottom layer of the pyramid in Figure 1); intermediate products, such as 
+sensors, actuators, connectivity and network devices, etc. (the middle layer in Figure 1), which make use of 
+4
+ A. ANDREONI ET AL.
+the digital parts and components and that can be both a final and an intermediate product depending on 
+their use; and end-use production technologies with a digital interface – these make use of both the digital 
+parts and components and of intermediary products to enable its integration to digitalised production 
+processes (top layer in Figure 1). These three categories of products play key functions in the digitalisation 
+of production processes and systems.
+It is essential to examine technologies with digital potential to uncover the various technology layers and 
+technology types that enable digitalisation of production systems. We zoom into a couple of examples which 
+pertain to key technologies depicted in Figure 1.
+First, sensors are one of the critical technologies for data collection and management, enabling the 
+creation of various data streams that can be unified within business systems within firms. For example, they 
+allow the connection of Manufacturing Execution System, Enterprise Resource Planning, and other 
+database management systems, thus enabling data transmission across production flows (Colombari et al.  
+2023). Our classification provides special attention to various types of sensors, including thermostats, scales, 
+cameras, and accelerometers (also known as vibration sensors). In addition, sensors are critical in many 
+‘infra-technologies’ and instrumentation for control engineering (Tassey 2014), used in the processes of 
+technology scaling-up, monitoring and testing. Finally, sensors are also an important component of 
+advanced manufacturing and infrastructures (PCAST, 2011), allowing the generation of data transmitted 
+through devices such as antennas, gateways, routers, and other wired or wireless connectivity devices.
+Second, actuators are another key part of the digitalisation process. Once collected the data is analysed 
+and then returned to the shopfloor (or, in many cases, has never left) and can either provide insights for 
+decision-making by humans or generate autonomous responses, such as closing a valve, moving a lever, 
+activating a cooling system, opening a hatch or window, ordering a spare part, etc. – all without human 
+interference, and through devices named actuators. Third, in every step of the process, data must be 
+displayed for setting up, monitoring, tracking, and maintenance purposes. There is indeed a plethora of 
+hardware interfaces without which data and related analytics could not be monitored and processed by 
+human operators and productive organisations in decision-making processes. These hardware interfaces are 
+often integrated into data-enabled machines and devices.
+Examining trade data with this conceptual framework in mind can give more detailed indications about 
+a country’s level of digital capabilities and production organisation, such as whether it is specialised in 
+intermediate goods or final goods, or the most sophisticated instrument technologies (see step 3 in 
+Figure 1. Conceptual framework. Source: Authors.
+INDUSTRY AND INNOVATION
+ 5
+Section 3.2). Building on the granularity of UN Comtrade data, we used BEC1 classification to intersect 
+product categories in a way that allows us to distinguish between final products, parts and instruments (see 
+section 3.2).
+3.2. Step-by-step construction of the DPTC
+In this section, we present the different methodological steps we followed to build our classification.
+3.2.1. Step 1: data selection and levels of product classification
+We extract trade data at the six-digit level to classify products as DPTs. While there are some caveats to 
+using trade data, it remains the most reliable data source, with granular data available for most countries. 
+The main caveat is that trade data does not capture products produced and consumed in the domestic 
+economy. Hence, it has a bias, especially for those economies with a large internal market and domestic- 
+oriented manufacturers of digital technologies (e.g. Brazil). We use data from the Harmonised Commodity 
+Description and Coding System (HS2017) of the World Customs Organisation, which employs 
+a classification of products at the 6-digit level. We focus on trade in goods; service trade, although 
+increasingly relevant in digitalisation,2 is excluded due to its limited coverage in HS-based classifications. 
+The classification we built is available from 2012 to 2019, with the possibility to convert product codes to 
+2022.
+3.2.2. Step 2: selection of the most suitable product classification
+Next, we employ the Harmonised System (HS) 2017 for product classification. This choice is particularly 
+relevant for our study because HS 2017 includes new codes specifically designed to categorise products 
+based on their digital attributes. For instance, it provides distinct codes for machines based on their internet 
+connectivity capabilities, differentiating between those that can connect to the internet and those that 
+cannot. This level of detail in product classification allows for a more accurate and nuanced identification of 
+digital production technologies. 2012 is the earliest year we could align with HS2017 categories, and 2019 is 
+the most recent pre-pandemic year.
+3.2.3. Step 3: identification of the relevant HS chapters and BECs filtering criteria
+To identify DPTs (i.e. capital goods, parts, and instrumentation), we narrowed our research to specific 
+product categories described in section 3.1 within the HS 2017 classification. We selected the following 
+chapters, given our focus on production technologies:
+● HS 2017 Chapter 84 includes machinery and mechanical appliances and their parts.
+● HS 2017 Chapter 85 includes electrical machinery and equipment, sound recorders and reproducers, 
+television image and sound recorders and reproducers, and parts and accessories of such articles.
+● HS 2017 Chapter 90 covers optical, photographic, cinematographic, measuring, checking, precision 
+instruments and apparatus, along with their parts and accessories.
+Additionally, to ensure our analysis remains focused on machinery and appliances used in digital manu-
+facturing production and excludes those intended for consumer use, we filtered these three HS chapters 
+using BEC 4 classification:
+● BEC 4 Chapter 41 focuses on capital goods, excluding transport equipment.
+● BEC 4 Chapter 42 covers parts and accessories.
+● BEC 4 Chapter 22 includes industrial supplies not specified elsewhere and that have been processed.
+1The Broad Economic Categories (BEC) classification is a UN-developed system that groups traded goods according to their main end-use 
+(intermediate goods, capital goods, and consumption goods), linking trade data with national accounts and demand-side analysis. By mapping 
+products from systems like the HS, as in our case, into functional use categories, BEC enables consistent international comparisons of trade flows.
+2Increasingly higher value-added segments of production are the knowledge-intensive services such as software development and implementa-
+tion, R&D, design, marketing, and post-sale activities.
+6
+ A. ANDREONI ET AL.
+We conducted the filtering using the correspondence table between HS2017 and BEC 4, which is publicly 
+available. While the correspondence methodology document highlights that there are ‘many-to-one’ cases 
+from HS to BEC, we followed the UNDP methodology, which assigns the HS 2017 code to the correlate that 
+accounts for 75 % or more of the total trade in all the correlates.3 By applying these filtering criteria to our 
+products clustered under HS 84, 85 and 90, we narrowed the list to 818 products.
+3.2.4. Step 4: systematic identification of DPTs through keyword selection and product analysis
+As a final step, we distinguish those clearly identifiable as digital production technologies – based on ‘self- 
+explanatory description’ and related keywords. We tested multiple keywords and assessed their outcomes. 
+We interrogated the data set by reiterating the keyword identification process until saturation (when we 
+could not find any further products). The selected keywords for which we could find correspondence in the 
+‘self-explanatory description’ were: (E)lectronic, (D)ata, (N)umerical, (N)etwork, (A)utomatic, (T)ransistor, 
+(S)emiconductor, (I)nstruments, (A)pparatus, (W)afers, (C)alcul-, (C)ontrol, (T)esting, (M)eter, (R)emote, 
+(-)stats, (R)adio, (W)eigh.4
+Implementing the filters mentioned earlier streamlined our dataset, narrowing the product count from 
+the original 818 to 262 products. To ensure accuracy and reliability, we reviewed the remaining products 
+individually. Products not directly related to digitalisation were excluded from the classification.5 This step- 
+by-step methodology was reviewed by two experts with engineering backgrounds to ensure it is accurate and 
+consistent; we made adjustments and refined our procedure as part of this iterative process. The adjust-
+ments we made after discussing with the experts are like the following: (i) we excluded the category of 
+telephones for cellular network (wireless) and their parts (851712 and 85,170), because although they can 
+also be used in production facilities to monitor and program, the vast majority is not production related6; 
+(ii) we excluded also a category whose description indicates that it was mostly related to light-emitting 
+diodes (LED), they had been included because of photosensitive semiconductor devices (854140) but are 
+likely to be mostly LED and thus not directly related to production technologies. Finally, (iii) we excluded 
+the category of printing machines (844331) because of their scarce digital potential and parts of diodes and 
+transistors (854190), because they are parts with electric functions that are too basic and are likely to be used 
+in areas broader than production digitalisation.
+We ended up with a final list of 120 DPT products (see list in Appendix I – supplementary material). 
+Alongside each product, Appendix I provides the rationale behind its inclusion, offering insights into the 
+factors that determine its relevance to digitalisation within our study. Figure 2 summarises the steps taken in 
+refining our product list, from the initial application of filters to the final manual check and selection of 
+products.
+To make the best use of our classification as a policy and analytical tool where digital capabilities (and 
+their different levels of intensity) can be mapped across countries we have classified each product under one 
+of these categories: (1) final goods and (2) parts and components (matching HS codes 84 and 85 with BEC 
+21 and 22 as reported in section 3.2 step 3), and (3) instruments, which include all HS 90. Considering final 
+products and parts allows us to map products at different layers of our pyramid (see Figure 3); for example, 
+if we take sensors, they will mostly be in the second layer of our pyramid, and the related parts necessary to 
+produce it will mostly be in the bottom layer. The first layer would include products such as CNC machines 
+and robots, where sensors are often inserted, and which are end-use technologies with a digital interface. We 
+keep instruments as a separate category since this type of technology is a critical and more sophisticated 
+category for the development of digital production technologies, and it embeds higher technological 
+capabilities.
+3urihttps://unstats.un.org/unsd/classifications/Econuri/corr-notes/HS2017%20conversion%20to%20earlier%20HS%20versions%20and%20other% 
+20classifications.pdf
+4Other keywords were tried but excluded as their results were either void, redundant, or misleading. These included: wireless, artificial, computer, 
+automated, sensors, printer, digital, chips, conductor, additive, internet.
+5Some products had the key words but not with the intended meaning. For example, many products had the word ‘numerical’ in the expression 
+‘not numerically controlled’, thus being exactly the opposite of what we were trying to capture. Another example: Product code 844,711 ‘Circular 
+knitting machines, with cylinder diameter ≤ 165 mm’ has the word ‘meter’ within ‘diameter’ which is completely unrelated to what we wanted to 
+capture with the keyword ‘meter’ – aimed at thermometers, electrical current metres, and other sensors. Also, all medical devices were excluded 
+from the analysis.
+6This was a very numerous category, and our network analysis is robust to its exclusion.
+INDUSTRY AND INNOVATION
+ 7
+4. Network results and analysis
+To construct the Digital Production Technologies (DPT) trade network, we used bilateral trade data 
+from the United Nations Comtrade Database (UNCD), accessed through the World Bank’s World 
+Integrated Trade Solution (WITS) interface. We filtered the data for 120 identified DPT products at 
+the six-digit HS level for the years 2012 and 2019. These years were selected to provide 
+Figure 2. Summary of the methodological steps to build the DPT classification. Source: Authors.
+Figure 3. Conceptual framework and categories of our DPTC. Source: Authors.
+8
+ A. ANDREONI ET AL.
+a meaningful time span for structural comparison while avoiding the distortions caused by the 
+COVID-19 pandemic. Classification consistency was ensured by aligning 2012 data (originally in 
+HS2012) with the HS2017 nomenclature used in 2019, following concordance tables provided by 
+the UN Statistics Division.7
+A descriptive analysis of DPT and total trade flows provided preliminary insights into the structure and 
+evolution of global DPT trade. Building on this, we apply a network analysis to study the evolution of the 
+DPT trade network, which allows us to address two key research questions: What are the structural 
+characteristics of the global trade network in digital production technologies? And how have these 
+structures evolved between 2012 and 2019?
+4.1. Network structure of global digital trade (2012–2019)
+The international trade network for digital products is extensive, highly connected, and has become 
+significantly more integrated between 2012 and 2019.
+Table 1 summarises key network metrics for all digital products and for the three sub-networks: final 
+digital goods, parts and components of digital products, and digital technology instruments, in 2012 and 
+2019. Nearly all countries participate in digital trade. In all digital products, over 252,000 distinct bilateral 
+product trade links were active in 2012, increasing by one-third to over 336,000 by 2019, reflecting 
+a significant expansion in the number of trade connections.
+Figure 4 provides a visual representation of the global Digital Production Technologies (DPT) trade 
+network for 2012 and 2019. The network graphs illustrate the main trade connections between countries, 
+highlighting the most significant flows and the overall topology of the system. Nodes represent countries 
+and links correspond to bilateral trade relationships in DPT products, allowing us to visualise the central 
+hubs and the density of connections within the network. The visualisation complements the quantitative 
+metrics reported in Table 1 by providing an intuitive overview of how trade relationships are organised and 
+how the network structure evolved over time.
+Between 2012 and 2019, DPT trade networks became markedly more connected, reciprocal, and integrated 
+(We can see that in Table 1 and Figure 4). The number of bilateral trade links and network density rose 
+significantly, indicating that countries traded larger volumes and a wider variety of digital products with more 
+partners. Reciprocity also increased modestly overall, more significantly in parts and components, suggesting 
+the fact that once trade-flows are established they can transform into potential supply-chain linkages. 
+Although degree assortativity remained negative (around −0.4), it became slightly less so, implying a mild 
+reduction in the core – periphery divide as leading economies traded more among themselves. Clustering was 
+consistently high and continued to increase (global transitivity rose from 0.58 to 0.65), reflecting denser 
+regional and triadic connections that were reinforced by integrated production networks.
+7Conversion table is available in the following link: https://unstats.un.org/unsd/classifications/Econ
+8Each network is directed (i.e. exports and imports) and weighted by trade value. ‘Links’ represents the total number of distinct bilateral trade 
+relationships (at the product level) observed. ‘Reciprocity’ refers to the number of country pairs that engage in mutual trade. ‘Assortativity’ is the 
+degree of correlation (negative values indicate a hub-and-spoke structure). ‘Clustering (global)’ is the global transitivity (fraction of closed triads), 
+while ‘Clustering (avg. local)’ is the average of individual countries’ clustering coefficients. ‘Largest SCC’ is the size of the largest strongly- 
+connected component (i.e. number of countries in the largest group of mutually reachable countries), and ‘Modularity’ is the Louvain community 
+modularity score (with three communities identified in each case).
+Table 1. Global network metrics for digital product trade networks,8 2012 vs. 2019.
+Network Year Nodes Links (count) Reciprocity Assortativity Clustering (global) Clustering (avg. local) Largest SCC Modularity
+All DPT 2012 242 252,375 37.1% −0.482 0.580 0.845 101 0.184
+2019 243 336,589 38.8% −0.390 0.654 0.833 131 0.157
+Final DPT 2012 239 70,875 34.7% −0.446 0.586 0.838 101 0.182
+2019 239 100,195 35.5% −0.355 0.637 0.822 131 0.178
+Parts DPT 2012 242 57,797 37.9% −0.474 0.565 0.845 101 0.129
+2019 241 69,652 41.4% −0.407 0.612 0.827 131 0.103
+Instruments 2012 239 123,651 36.4% −0.440 0.600 0.853 101 0.253
+2019 240 166,459 38.0% −0.379 0.650 0.835 131 0.202
+Source: United Nations Comtrade Database. Table: Authors.
+INDUSTRY AND INNOVATION
+ 9
+Network cohesion increased, as the largest strongly connected component expanded from 101 to 131 
+countries, while smaller components declined, indicating that more nations became mutual traders within 
+the global digital trade core. Community detection reveals three main clusters in both years; however, 
+modularity decreased, indicating weaker regional segmentation and increased cross-community exchange. 
+Overall, the DPT trade has evolved towards denser, more balanced, and globally interconnected structures, 
+with a growing number of economies actively participating in two-way digital trade.
+Despite lower modularity, three main trade communities remain economically and geographically 
+interpretable. In 2012, clusters corresponded broadly to (1) Europe – Africa – Middle East, (2) East Asia 
+and emerging economies, and (3) the Americas – Pacific.9 By 2019, these blocs had persisted but had 
+become more fluid: India had shifted from the Europe-centred to the Asia-centred cluster, reflecting deeper 
+integration with East Asian supply chains, while Brazil’s position varied by product type, being linked to 
+Asia in component trade but to the Americas in final goods. Such shifts illustrate the growing interconnec-
+tion among regional blocs, consistent with the decline of modularity and the strengthening of cross-regional 
+trade linkages.
+In the aggregate digital products network, global trade is highly concentrated among a few dominant 
+hubs.
+While several of our descriptive patterns, such as China’s prominence or the persistence of a core – 
+periphery configuration, may appear consistent with standard trade indicators (e.g. market shares, con-
+centration ratios, or top-exporter rankings), the network perspective adds distinct insights that those 
+metrics cannot recover. First, network measures capture the structure of interdependence: directionality 
+and reciprocity reveal whether countries are mutually embedded in multi-stage value chains or remain in 
+one-way importer positions, which is directly relevant for assessing dependency and upgrading potential. 
+Second, centrality metrics (especially betweenness) identify systemic ‘connectors’ and choke points, coun-
+tries that intermediate trade paths across otherwise weakly connected partners, highlighting vulnerabilities 
+and propagation channels for shocks that are not visible in aggregate shares. Third, clustering, assortativity, 
+and community structure reveal regional production blocs and cross-bloc bridging, allowing policy-relevant 
+interpretation of supplier diversification, supply network resilience, and where strategic interventions (e.g. 
+supplier development, standards participation, or regional partnerships) may reduce exposure and facilitate 
+capability building.
+(a)
+All DPTs 2012
+(b)
+All DPTs 2019
+Figure 4a. Network visualisations of digital production technology trade (top flows and major trade links).
+9The complete data can be found in the supplementary material.
+10
+ A. ANDREONI ET AL.
+(c)
+Final DPTs 2012
+(d)
+Final DPTs 2019
+(e)
+Part DPTs 2012
+(f)
+Part DPTs 2012
+(g)
+Instruments DPTs 2012
+(h)
+Instruments DPTs 2019
+Figure 4b. Network visualisations of digital production technology trade (top flows and major trade links) by digitalisation 
+breakdown.
+INDUSTRY AND INNOVATION
+ 11
+Against this backdrop, Table 2 reports node-level centrality measures that allow us to move beyond 
+aggregate trade shares and identify countries’ structural positions – whether as hubs, intermediaries, or 
+peripheral actors – within the global DPT trade network.
+Network centrality measures indicate that China is the dominant hub. In 2012, China already had the 
+maximum degree (it traded digital products with virtually every other country), and by 2019, China’s 
+connectedness only increased. The betweenness centrality of China quadrupled from 2012 to 2019 – 
+meaning that an overwhelming share of the shortest trade paths between other countries go through 
+China. By 2019, its weighted betweenness was by far the highest of any country, indicating China is the 
+key intermediary linking global trade routes. This suggests that many countries that do not trade directly 
+rely on China as a standard connection (for instance, China might import components from one country 
+and export finished goods to another, effectively connecting those countries’ trade indirectly). The United 
+States, Netherlands, and Singapore also show high betweenness, reflecting their roles as major global trans- 
+shipment or logistics hubs (the Netherlands for Europe, Singapore and HK for Asia, the USA for the 
+Americas). However, by 2019, no country rivals China on this measure, highlighting a single-hub- 
+dominated network.
+Despite China’s dominance, the all-digital network is not a single-star network; rather, it comprises 
+a diverse group of major traders. The United States remains a central node (the only other country, besides 
+China, with both export and import volumes above $200 billion). The EU countries, taken together, form 
+another pillar of the network – for example, Germany (exports $79 billion, imports $25 billion in 2019) and 
+the Netherlands (exports $57 billion, imports $28 billion) act as leading exporters and entry points into the 
+European market. The UK, France, Italy, and other EU states also contribute significantly, though 
+individually they rank below the top Asian economies. East Asian economies, such as those of South 
+Korea, Japan, Taiwan, and Singapore, also occupy positions among the top 10–15 nodes. In Southeast Asia, 
+as mentioned, Vietnam and Malaysia had risen sharply by 2019, integrating into the core. Meanwhile, many 
+developing countries in regions such as Africa and South America remain more peripheral; they appear in 
+the network primarily as importers of digital goods and have fewer connections and smaller trade volumes. 
+This unequal distribution of connectivity is evident in the heavy right tail of the trade network, where the 
+degree and strength distributions follow a power-law pattern. As a result, a small percentage of countries 
+account for the majority of connections and volume. In fact, we find that in 2019 the top 10 exporting 
+Figure 5. Community membership by region, 2012 and 2019, all DPTs. Source: United Nations Comtrade Database. Figure: 
+Authors. Note: Community detection identifies clusters of countries that are more densely connected within the DPT trade 
+network than with the rest of the system. Figure 5 shows the regional composition of these clusters. Community 1 forms the 
+largest and most globally diversified group, representing the core of the global DPT trade network. Community 2 is smaller 
+and more regionally concentrated, mainly including countries with more limited connectivity and more peripheral 
+participation. Community 3 occupies an intermediate position, linking several emerging and advanced economies and 
+reflecting cross-regional supply-chain connections. Together, these communities capture the main structural blocs of the 
+network and illustrate how digital production trade remains organised around partially overlapping regional production 
+systems.
+12
+ A. ANDREONI ET AL.
+Table 2. Node-level characteristics of major countries in the DPT trade network, 2012–2019.
+Country
+In-degree 
+2012
+In-degree 
+2019
+Δ In- 
+deg
+Out-degree 
+2012
+Out-degree 
+2019
+Δ Out- 
+deg
+In-strength 
+2012
+In-strength 
+2019
+Δ In- 
+str
+Out-strength 
+2012
+Out-strength 
+2019
+Δ Out- 
+str
+Betw 
+2012
+Betw 
+2019
+Δ 
+Betw
+China 9041 12988 +3947 4728 5254 +526 368.6 487.7 +119.1 393.4 513.3 +119.9 0.34 1.41 +1.06
+Taiwan 6544 8035 +1491 0 3669 +3669 157.3 271.4 +114.1 0.0 94.7 +94.7 0.00 0.39 +0.39
+Hong Kong 4876 6574 +1698 2502 2743 +241 7.4 17.4 +10.0 172.5 248.6 +76.1 0.06 0.09 +0.02
+USA 8602 11388 +2786 5533 6025 +492 109.3 129.8 +20.4 167.0 218.4 +51.5 0.10 0.20 +0.10
+Malaysia 4689 5950 +1261 0 3668 +3668 90.4 125.9 +35.6 0.0 45.1 +45.1 0.00 0.06 +0.06
+Viet Nam 1819 3657 +1838 2831 3146 +315 8.1 67.7 +59.6 15.0 58.5 +43.5 0.00 0.01 +0.00
+India 4853 7221 +2368 0 4320 +4320 2.7 3.0 +0.3 0.0 31.8 +31.8 0.00 0.01 +0.01
+Rep.Korea 5884 7274 +1390 4055 4553 +498 135.0 183.0 +48.0 56.6 82.6 +26.1 0.16 0.07 −0.09
+Philippines 2908 3650 +742 0 3279 +3279 32.2 42.9 +10.8 0.0 21.6 +21.6 0.00 0.00 +0.00
+Germany 8454 11097 +2643 6338 6735 +397 61.4 78.1 +16.6 57.5 79.1 +21.6 0.05 0.06 +0.01
+Source: United Nations Comtrade Database. Table: Authors. Note: The DPT trade network is directed and weighted: links go from exporter to importer, and weights correspond to bilateral trade values (US$). In-degree 
+(imports) is the number of incoming trade links a country receives (i.e. the count of distinct exporter–product relationships reaching the country); out-degree (exports) is the number of outgoing trade links a country sends 
+(i.e. the count of importer–product relationships served by the country). In-strength and out-strength are the corresponding total values of imports and exports (sum of incoming/outgoing link weights), reported in billions 
+of current US dollars. Betweenness centrality (Betw) captures a country’s brokerage position in the trade network: higher values indicate that the country lies on a larger share of the network’s shortest trade paths and 
+therefore intermediates trade connectivity. Δ reports the change between 2019 and 2012.
+INDUSTRY AND INNOVATION
+ 13
+countries accounted for roughly 75% of total digital exports, and the single most significant bilateral trade 
+link (likely China – Hong Kong or China – USA) alone represents a substantial share of world trade.
+In terms of communities, the all-digital network’s three community structure persist. China and most of 
+East Asia are firmly in the Asia-Pacific community; the US anchors the Americas community; and 
+Germany, along with other EU economies, anchors the Europe-centric community. However, by 2019, 
+the distinctions among these blocs blur: for example, Mexico (a NAFTA member) trades so extensively with 
+the US that it’s in the Americas cluster for all products, but Mexico also has growing linkages with Asia (in 
+parts trade). Russia and India are interesting cases – Russia remains part of Europe’s cluster (due to 
+historical trade ties between Europe and Asia for Russia). In contrast, India, as noted, shifted to Asia’s 
+cluster by 2019, reflecting shifts in policy and supply chain. Overall, the all-digital network can be described 
+as highly globalised yet with regional substructures. The period 2012–2019 saw Asia’s substructure 
+strengthening its prominence within the global web, while all substructures became more interlinked 
+(hence decreasing modularity).
+4.2. Final digital goods network
+The final digital goods network focuses on trade in finished digital products (such as completed electronics, 
+consumer ICT products, etc.). This network exhibits some crucial differences from the all-digital aggregate, 
+particularly in the balance between advanced and emerging economies.
+The network characteristics of the final goods trade (see Table 3) reflect a more fragmented structure. 
+Many countries either export or import final goods, but not both, leading to the lowest reciprocity. Several 
+developing countries import consumer electronics but do not export them. The strong components of the 
+final goods network were smaller in 2012, with only 101 countries in the most significant SCC, meaning 
+a large number of nations were exclusively final-good importers. By 2019, the largest SCC expanded to 131 
+(like the others), implying more countries that previously only imported final goods (or only exported) have 
+started to both import and export some final products (possibly assembly or re-export activities).
+Community-wise, the Americas cluster is quite prominent because the US and much of Latin America 
+form a tightly knit trade group for finished products (largely due to supply chains). Europe remains its own 
+cluster, and Asia (with China and regional partners) another. Interesting differences: Brazil is grouped with 
+the Americas cluster in final goods (because Brazil imports a significant amount from the US/EU, and 
+relatively less from China, compared to other flows). India remains aligned with Asia (as a significant 
+importer from China). The modularity of the final goods network is slightly higher than that of parts, 
+indicating more regionalisation – for example, many final products sold in Europe are made in Europe, and 
+similarly for the Americas, reflecting possibly higher trade barriers or consumer preferences that keep final 
+goods trade somewhat more regional.
+Table 3. Node-level characteristics of major countries for final digital goods, 2012–2019.
+Country
+In-deg 
+2012
+In-deg 
+2019 Δ In
+Out- 
+deg 
+2012
+Out- 
+deg 
+2019 Δ Out
+In-str 
+2012
+In-str 
+2019
+Δ In- 
+str
+Out-str 
+2012
+Out-str 
+2019
+Δ 
+Out- 
+str
+Betw 
+2012
+Betw 
+2019 ΔBetw
+USA 2484 3585 +1101 1600 1827 +227 29.9 32.5 +2.6 82.8 112.3 +29.5 0.21 0.18 −0.03
+Taiwan 2033 2726 +693 – 957 +957 9.9 27.5 +17.6 0 18.7 +18.7 0.00 0.13 +0.13
+China 2873 4660 +1787 1075 1377 +302 124.4 161.4 +37.1 50.0 65.4 +15.4 0.29 0.46 +0.17
+Germany 2580 3592 +1012 1706 1930 +224 15.8 21.6 +5.8 20.5 30.4 +9.9 0.05 0.06 +0.01
+India 1214 1910 +696 – 1276 +1276 0.8 1.1 +0.3 0 8.8 +8.8 0.00 0.03 +0.03
+Netherlands 2042 2763 +721 1225 1421 +196 17.3 19.2 +1.9 20.0 28.3 +8.3 0.04 0.05 +0.01
+Japan 2194 2897 +703 1390 1522 +132 21.0 30.1 +9.1 19.0 19.0 0.0 0.03 0.03 0.00
+Mexico 1734 2118 +384 1026 1221 +195 28.1 45.4 +17.3 11.2 13.9 +2.7 0.02 0.03 +0.01
+Viet Nam 1146 1540 +394 710 906 +196 2.4 4.1 +1.7 1.5 4.4 +2.9 0.00 0.01 +0.01
+France 1940 2504 +564 1160 1306 +146 12.1 14.6 +2.5 10.4 13.0 +2.6 0.02 0.03 +0.01
+Source: United Nations Comtrade Database. Table: Authors. Note: All indicators are computed on the directed, weighted network of final digital 
+goods trade. In-degree/out-degree measure the number of distinct import/export links (counts of incoming/outgoing bilateral trade connec-
+tions). In-strength/out-strength measure the total imported/exported value (sum of trade values across all incoming/outgoing links), in billions of 
+current US dollars. Betweenness (Betw) indicates the extent to which a country acts as a bridge connecting other countries’ trade relationships 
+(higher values imply stronger intermediary/broker role). A dash (–) denotes zero or not observed for that indicator in the corresponding year (e.g. 
+no recorded outgoing links). Δ denotes the change from 2012 to 2019.
+14
+ A. ANDREONI ET AL.
+In terms of leading country blocs, the final goods trade reveals that advanced economies continue to play 
+significant roles. The United States and Germany together exported nearly as much as China in 2019, and 
+the US influence is strong in its hemisphere. Europe collectively is a major producer of final DPT. Japan and 
+South Korea also contribute, though China has eclipsed them individually. Emerging Asia (excluding 
+China) was less dominant in final goods than in parts – for example, ASEAN countries’ final goods exports 
+are growing but remain modest. This suggests that while assembly of parts is spreading in Asia, brand-name 
+final production might still be concentrated or not fully captured in this category for those countries.
+4.3. Parts and components network
+Trade in parts and components forms the backbone of global electronics supply chains, reflecting deep 
+international production fragmentation and the dense interlinkages of ‘Factory Asia.’
+The parts network has the highest reciprocity (41%) and lowest modularity (0.10 by 2019). High 
+reciprocity means many countries both import and export parts, consistent with the idea of multi-stage 
+value chains, where countries specialise in certain stages but also require inputs. Low modularity 
+suggests the community divisions are weakest here; the parts network is truly global with tightly 
+interwoven cross-regional supply chains. While we still detect three communities, they are less geo-
+graphically segmented. For instance, in the parts trade, Brazil and India were part of the Asia-centric 
+cluster (unlike in final goods), likely because they import many parts from China/Asia for their local 
+industries. The European cluster, in parts, is smaller and less isolated, as European industry must source 
+many components from Asia, too. The Americas cluster likewise is less pronounced – the US, Mexico, 
+and Canada trade parts among themselves, but also heavily with Asia. The resulting picture is 
+a complex network where Asia serves as the central hub, connecting to everyone (hence China’s 
+massive betweenness in this network).
+From a bloc of countries’ perspective, East and Southeast Asian economies form the core of the parts 
+network. Not only China, Japan, Korea, and Taiwan, but also Malaysia, Vietnam, Thailand, the Philippines, 
+and Indonesia collectively account for the majority of flows. North America (USA, Mexico and Canada) is 
+another essential block, but more as a consumer/importer of parts (for assembly plants in Mexico or to 
+supply high-end manufacturing in the US) and as a niche exporter (USA of semiconductors, aerospace 
+electronics; Mexico of auto-electronics, etc.). Europe appears more peripheral in certain areas: it relies on 
+importing components. This indicates Europe’s electronics industries are relatively minor or have offshored 
+component production. Meanwhile, China’s role as both the largest supplier and buyer means it links all 
+blocks – it buys from East Asia (Taiwan, Korea, Japan), ASEAN, and even from the West (semiconductors 
+from the US/Europe), and in turn sells parts to many countries for further assembly. This places China at 
+the centre of the network as a broker between different regional production systems.
+As can be observed on Table 4, a final point to note is the rise of Vietnam and Malaysia (and to an extent 
+Thailand and the Philippines) in this period, which has expanded the Asian production bloc. In network 
+Table 4. Node-level characteristics for parts & components (category 3), 2012–2019.
+Country
+In-deg 
+2012
+In-deg 
+2019 Δ In
+Out-deg 
+2012
+Out-deg 
+2019
+Δ 
+Out
+In-str 
+2012
+In-str 
+2019
+Δ In- 
+str
+Out-str 
+2012
+Out-str 
+2019
+Δ Out- 
+str
+Betw 
+2012
+Betw 
+2019
+Δ 
+Betw
+China 1770 2357 +587 1285 1349 +64 209.3 295.8 +86.5 260.8 387.7 +126.8 0.36 2.16 +1.80
+Hong Kong 1241 1434 +193 836 864 +28 4.5 13.4 +8.9 136.1 216.4 +80.3 0.10 0.17 +0.08
+Taiwan 1430 1626 +196 0 875 +875 128.0 231.4 +103.3 0 67.4 +67.4 0.00 0.36 +0.36
+Malaysia 1192 1385 +193 0 800 +800 65.9 102.6 +36.7 0 37.1 +37.1 0.00 0.04 +0.04
+Viet Nam 527 911 +384 614 675 +61 6.8 57.0 +50.2 12.9 49.1 +36.2 0.00 0.02 +0.02
+Rep. Korea 1017 1315 +298 863 967 +104 100.7 155.6 +54.9 33.4 57.5 +24.1 0.04 0.06 +0.02
+USA 1294 1510 +216 1002 1056 +54 48.7 63.7 +15.0 58.7 75.1 +16.4 0.07 0.08 +0.01
+Philippines 642 842 +200 0 753 +753 16.8 35.1 +18.3 0 21.6 +21.6 0.00 0.00 +0.00
+Singapore 1130 1376 +246 967 1022 +55 35.9 53.7 +17.8 65.7 75.1 +9.4 0.05 0.06 +0.01
+Germany 1115 1305 +190 1008 1057 +49 23.6 24.9 +1.3 23.6 31.2 +7.6 0.03 0.04 +0.01
+Source: United Nations Comtrade Database. Table: Authors. Note: The table reports node-level metrics for the parts and components (intermediate) 
+DPT sub-network, modelled as a directed, weighted trade network. In-degree counts the number of incoming trade links (how many distinct 
+import connections a country has), while out-degree counts outgoing trade links (how many export connections it maintains). In-strength/out- 
+strength are the aggregate import/export values (sum of incoming/outgoing link weights), expressed in billions of current US dollars. 
+Betweenness (Betw) measures a country’s intermediation within the global supply-chain web: higher values indicate a greater tendency to sit 
+on shortest paths and connect otherwise weakly linked trading partners. Δ reports the change between 2019 and 2012.
+INDUSTRY AND INNOVATION
+ 15
+terms, these countries significantly increased their degree (number of trade partners and products) and 
+strength from 2012 to 2019, moving them closer to the core of the periphery. Vietnam’s leap to the top 10 in 
+both importing and exporting of parts is one of the strongest signals of supply-chain reorganisation – likely 
+driven by multinational firms diversifying production (e.g. shifting some assembly from China to Vietnam). 
+Malaysia’s high imports and exports of parts reflect its specialisation in semiconductor fabrication and 
+testing (Penang’s electronics cluster). These emerging hubs add resilience and complexity to the network, 
+reducing reliance on any single supplier country.
+4.4. Digital technology instruments network
+Instruments for digital technology include capital equipment, precision instruments, and machinery used in 
+digital product manufacturing (e.g. semiconductor fabrication equipment, specialised tools, as well as scientific 
+and measuring instruments). This segment has a somewhat different profile, as it often overlaps with high-tech 
+capital goods typically produced by advanced economies; however, China is also increasingly active in this area.
+The network structure for instruments had the highest modularity in 2012 (0.253), which decreased to 
+0.202 in 2019, but remained higher than in other categories. This implies that regional clusters are relatively 
+strongest in the instruments trade. Likely, we have one cluster with Europe (Germany, UK, France, 
+Netherlands, etc.) trading instruments among themselves and with some markets; another cluster with 
+the US and Americas (since US, Canada, Mexico exchange instruments, and the US buys from Europe and 
+Japan); and an Asia cluster where Japan, Korea, China, Taiwan trade instruments. Interestingly, in the 2019 
+cluster assignment, the USA fell into the same community as some emerging economies for instruments 
+(community labels can swap, but our analysis on instruments shows that the USA and Brazil together in one 
+cluster, and China and India in another). By 2019, China might form its own cluster with some Asian 
+partners in instruments – possibly reflecting that China sources a significant amount from Japan/Korea 
+(intra-Asia), while the US sources from both Europe and Asia, making the clustering less clear-cut.
+Compared to parts, the instrument network is less dense and more one-directional, with reciprocity at only 
+~36–38%. Many countries only import instruments (e.g. countries without the capacity to produce advanced 
+machinery). The largest strongly connected component in 2012 comprised 101 countries, growing to 131 in 
+2019 – implying that by 2019, 131 countries both imported and exported at least something in this category, 
+which is surprising and suggests that smaller countries exported minor amounts of instruments (perhaps re- 
+export or niche products). However, over 100 countries remain one-directional in this regard (pure impor-
+ters). The clustering is high (0.65 globally in 2019), indicating that triads of instrument trade exist (e.g. if A sells 
+to B and C, it is likely that B and C also trade some instruments, possibly via standard suppliers). The 
+assortativity is negative (−0.38 in 2019), reflecting again a hub-periphery pattern: large instrument exporters 
+(such as Germany, the US, Japan, and China) sell to many smaller, import-only countries.
+From a country blocs perspective, as we observe in Table 5, the instruments trade is where advanced 
+economies (US, Germany, Japan, Korea, Netherlands) traditionally held technological advantages, though 
+China has rapidly entered. As of 2019, China is the top exporter; however, it is unclear whether this is 
+primarily due to the lower-tech instruments. The US, EU, and Japan still dominate the very high-tech 
+capital equipment segment (e.g. lithography machines from the Netherlands, high-end semiconductor 
+equipment from the US/Japan). The data suggests that transatlantic trade and transpacific trade in instru-
+ments are significant: the US and Germany both appear as each other’s major partners (both import and 
+export around $31b, likely exchanging different specialised tools). Asia’s internal trade (China-Japan- 
+Korea) is also important as they build their semiconductor industries. Developing countries mostly appear 
+as recipients of instruments (for setting up production lines or telecom infrastructure).
+5. Discussion
+Our multi-layer mapping of digital product technologies reveals a network that is simultaneously more 
+connected and more hierarchical (Kostoska et al. 2020). Between 2012 and 2019, links, reciprocity, and the 
+size of the largest strongly connected component all rose, something that indicates a two-way participation 
+beyond buyer-seller. Yet concentration and hierarchy persist: China’s betweenness increased sharply, and 
+16
+ A. ANDREONI ET AL.
+the top exporters still capture the bulk of trade flows, consistent with a single-hub core bridging other 
+regionalised blocs.
+There are increasing signs of a core-periphery structure, which has partially changed yet also reinforced 
+itself over time. The instruments layer most clearly exhibits a classic core – periphery, with advanced 
+economies (and increasingly China) that retain strong positions (Shin, Kraemer, and Dedrick 2012). High 
+modularity, lower reciprocity, and many one-way importers point to a small club of advanced producers 
+supplying a wide periphery that cannot reciprocate with similar technology and machinery. Examples of 
+this dynamism are Europe as an equipment maker anchoring customers in Eastern Europe and Africa; the 
+US supplies the Americas; Japan and South Korea supply Asia. China’s emergence as a capital-goods 
+supplier appears to carve new countries, likely among Belt-and-Road Initiative (BRI) partners, reshaping 
+community boundaries without overturning core dominance (Zou et al. 2022). Recent analyses show that, 
+between 2022 and 2023, Chinese exports of robots to BRI countries increased by 123%, against 48% for non- 
+BRIs (Andreoni, Frattini, and Prodi 2026).
+By contrast, the parts-and-components network displays the most ‘globalised’ structure – highest 
+reciprocity and the weakest community partitioning – mirroring the deep fragmentation of production in 
+electronics. Factory Asia acts as an integrator that both imports sophisticated inputs and exports sub- 
+systems at scale, pulling in ASEAN latecomers (Vietnam, Malaysia, Philippines) whose rising degrees/ 
+strengths signal upgrading into mid-stream niches. This is consistent with classic upgrading pathways for 
+latecomer electronics firms that learn by manufacturing parts, leveraging modular architectures and 
+standard interfaces (Hobday 1995; Pietrobelli and Rabellotti 2011).
+Final goods trade sits between these contrasting poles. It remains more regionalised and less reciprocal 
+than parts, reflecting branding, standards and regulation, and logistics/after-sales dynamics that favour 
+geographical proximity. The American continent clusters around the US; Europe maintains its own sphere; 
+Asia is China-centred yet increasingly diversified. Notably, more countries move into the final-goods 
+network over time, suggesting the spread of assembly/re-export capabilities even where overall technolo-
+gical capabilities remain thin. This might be consistent with the long trend of value chain catching up in 
+assembly as a low-value adding segment, where most countries that enter the network locate in early stages 
+(Shin, Kraemer, and Dedrick 2012).
+Overall, when we focus on peripheral countries, especially low- and middle-income countries, changes in 
+trade structures should be carefully interpreted and heterogeneity remains significant. Changes in country 
+positions – as the one observed for Vietnam, but also Malaysia and Philippines – clearly reflect a major 
+engagement of these economies with DPTs, however it does not necessarily imply technological upgrading. 
+Trade engagement is often necessary for technological upgrading, but it is certainly not a sufficient 
+condition. Engagement of these economies might be either the result of increased supply capacity due to 
+FDIs or domestic investments or simply increasing intermediate and final demand pull. For these changes 
+in supply and demand to result in technological upgrading much more must happen in terms of 
+Table 5. Node-level characteristics for digital instruments, 2012–2019.
+Country
+In-deg 
+2012
+In-deg 
+2019 Δ In
+Out- 
+deg 
+2012
+Out- 
+deg 
+2019 Δ Out
+In-str 
+2012
+In-str 
+2019
+Δ In- 
+str
+Out-str 
+2012
+Out-str 
+2019
+Δ 
+Out- 
+str
+Betw 
+2012
+Betw 
+2019
+Δ 
+Betw
+Taiwan 3076 3682 +606 0 1837 +1837 19.5 13.0 −6.5 0 8.6 +8.6 0.00 0.00 0.00
+USA 4389 5660 +1271 2725 2901 +176 33.0 33.6 +0.6 26.4 31.7 +5.3 0.24 0.30 +0.06
+India 2576 3870 +1294 0 2151 +2151 0.7 1.1 +0.4 0 4.9 +4.9 0.00 0.02 +0.02
+Viet Nam 683 1567 +884 1460 1567 +107 0.3 2.0 +1.7 0.9 5.0 +4.1 0.00 0.00 0.00
+Malaysia 2203 2883 +680 0 1770 +1770 4.8 7.8 +3.0 0 3.5 +3.5 0.00 0.01 +0.01
+China 2811 3070 +259 1855 1959 +104 22.1 31.6 +9.5 81.4 60.3 −21.1 0.18 0.22 +0.04
+Germany 3265 3915 +650 2142 2302 +160 21.0 31.5 +10.5 14.3 17.5 +3.2 0.12 0.14 +0.02
+Japan 2672 3350 +678 1834 1936 +102 16.8 25.6 +8.8 8.6 10.2 +1.6 0.10 0.12 +0.02
+Rep. Korea 2510 2880 +370 1698 1810 +112 11.5 13.9 +2.4 10.7 9.6 −1.1 0.08 0.09 +0.01
+Netherlands 1905 2430 +525 1233 1366 +133 7.4 9.8 +2.4 6.9 8.1 +1.2 0.03 0.04 +0.01
+Source: United Nations Comtrade Database. Table: Authors. 
+Note: Metrics are computed for the digital instruments sub-network and reflect a directed, weighted structure of exports and imports. In-degree 
+/out-degree capture the number of distinct import/export connections (counts of incoming/outgoing bilateral links). In-strength/out-strength 
+capture the total value traded (sum of link weights), reported in billions of current US dollars. Betweenness (Betw) summarises a country’s role as 
+a network connector (broker) between other trading partners; higher values indicate greater potential to channel trade connectivity through that 
+node. Δ denotes the change from 2012 to 2019; a dash (–) indicates zero or not observed for the respective indicator.
+INDUSTRY AND INNOVATION
+ 17
+technology-intensity of investments, ownership and diffusion of technology, and changes in value chain 
+specialisation and local technological linkages development.
+Globally, there are three main blocks. First, countries like China, ASEAN, Taiwan, and India are the clear 
+winners in parts and increasingly competitive in final goods; China is beginning to assert itself in instruments, 
+confirming how digitalisation accelerated China’s export-technology complexity and upgrading, while rein-
+forcing its centrality in the global digital economy (Liang and Tan 2024). Second, advanced economies (US, 
+EU, Japan, Korea, Netherlands) remain pivotal in instruments and in high-end components, pointing again at 
+a strong path dependency of how high-tech capabilities shape where value concentrates (Agostino et al. 2025; 
+Nam and Barnett 2011; Shin, Kraemer, and Dedrick 2009). Third, most of Africa and much of Latin America 
+(outside Mexico/Brazil) sit at the periphery across all layers, primarily as net importers of both instruments 
+and finals; a handful of middle-income economies (Mexico, Turkey, Brazil) play niche roles linked to regional 
+trade agreements and specific industrial bases (Gereffi 2019). Together, these findings underline a world where 
+denser ties have not dismissed hierarchy; rather, they have reconfigured it, opening selective upgrading 
+windows while entrenching core control in capital-goods and standards-intensive niches.
+6. Conclusions
+This paper introduces a new classification to study digitalisation based on a structural understanding of the 
+technologies underpinning the digitalisation process, which offers a novel way to analyse global DPT trade 
+networks’ structure and evolving dynamics. By focusing on production technologies with digital potential and 
+excluding consumables, we achieve a finer granularity with a classification that includes products at different 
+levels of the digitalisation process. Our paper expands the literature on attempts to capture digitalisation in 
+three main ways: first, the use of HS data makes our classification a tool for analysts and policymakers with the 
+highest geographical coverage; second, by going beyond advanced digital production technologies and 
+including products with digital potential, our classification is also a tool to study the diffusion of DPT in 
+emerging and developing countries that might not be already able to produce the most advanced digital 
+products (such as industrial robots, 3D printers, AI hardware components), yet might be in a ‘climbing up’ 
+phase producing parts and components of advanced digital technologies. Third, by employing our classifica-
+tion in a network analysis, we provide insights into the evolution of the structure underpinning processes of 
+digital technologies diffusion across countries. DPT rely on an intense import-export relationship, which we 
+capture and use to depict the global landscape in production technologies with digital potential.
+Our Digital Production Technology Classification (DPTC) offers the potential for future research in 
+several areas. Future work could narrow the analysis down to specific product categories vital to new 
+technologies, like artificial intelligence, mapping the digital value chain and tracking countries’ progress 
+along these chains. Also, the geopolitical relevance of our classification opens research paths into the 
+manufacture of crucial technologies, new forms of technological dependence and the possibility of strategic 
+alliances between countries addressing industrial challenges. Finally, a broader reflection on policy implica-
+tions for developing countries could also indicate an avenue for future research, for example, considering 
+attempts of industrial policy in developing countries around instrumentations and more sophisticated 
+products, to reduce dependency on imported capital goods, and/or supplier development programmes tied 
+to standards participation, with the overarching aim to move away from non-reciprocal exchanges.
+Our study also has limitations, particularly the omission of services due to the unavailability of compar-
+able international data. This is a significant oversight given the crucial role of software and services in 
+digitalisation and new technologies. Furthermore, our time-bound analysis, limited to snapshots with the 
+most recent in 2019, misses the effects of recent disruptions in global supply chains and geopolitical 
+changes. Overcoming these limitations calls for the development of new data and analytical approaches 
+in forthcoming research.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+18
+ A. ANDREONI ET AL.
+References
+Agostino, M., E. Brancati, A. Giunta, D. Scalera, and F. Trivieri. 2025. “Digital Technologies and Global Value Chains: 
+Evidence from the Italian Industry.” Industry and Innovation 33 (1): 1–26. https://doi.org/10.1080/13662716.2025. 
+2487508  .
+Albrieu, R., C. B. López, M. Rapetti, J. C. Ferraz, J. N. de Paiva Britto, D. Kupfer, and J. Torracca. 2019. “The Adoption 
+of Digital Technologies in Developing Countries: Insights from Firm-Level Surveys in Argentina and Brazil.” 
+Inclusive and Sustainable Industrial Development Working Paper Series (6): 1–34. Vienna: United Nations 
+Industrial Development Organization (UNIDO).
+Amsden, A. 1990. “Third World Industrialization: ‘Global Fordism’ or a New Model?” New Left Review 182 (5): 5–32.
+Andreoni, A., and G. Anzolin. 2019. “A Revolution in the Making. Challenges and Opportunities of Digital Production 
+Technologies for Developing Countries.” Inclusive and Sustainable Industrial Development Working Paper Series 7. 
+Vienna: United Nations Industrial Development Organization (UNIDO).
+Andreoni, A., and G. Anzolin. 2025. “Windows of Digital Innovation in South Africa: Digital Capabilities for Product, 
+Process, and Service Development.” In Building Digital Technological Capabilities: A Global South Perspective, edited 
+by P. N. Figueiredo and S. A. Zahra, 122–140. Cheltenham, UK: Edward Elgar Publishing.
+Andreoni, A., and H. J. Chang. 2019. “The Political Economy of Industrial Policy: Structural Interdependencies, Policy 
+Alignment and Conflict Management.” Structural Change and Economic Dynamics 48:136–150. https://doi.org/10. 
+1016/j.strueco.2018.10.007  .
+Andreoni, A., H. J. Chang, and M. Labrunie. 2021. “Natura Non Facit Saltus: Challenges and Opportunities for Digital 
+Industrialisation Across Developing Countries.” European Journal of Development Research 33 (2): 330–370. https:// 
+doi.org/10.1057/s41287-020-00355-z  .
+Andreoni, A., F. Frattini, and G. Prodi. 2026. “Getting Robots in ‘Our Own Hands’: Structural Drivers, Spatial 
+Dynamics and Multi-Scalar Industrial Policy in China.” Competition & Change 30 (1): 177–199. https://doi.org/ 
+10.1177/10245294241261878  .
+Bonfiglioli, A., R. Crino, H. Fadinger, and G. Gancia. 2024. “Robot Imports and Firm-Level Outcomes.” Economic 
+Journal 134 (664): 3428–3444. https://doi.org/10.1093/ej/ueae055  .
+Castellani, D., F. Lamperti, and K. Lavoratori. 2022. “Measuring Adoption of Industry 4.0 Technologies via 
+International Trade Data: Insights from European Countries.” Journal of Industrial and Business Economics 
+49 (1): 51–93. https://doi.org/10.1007/s40812-021-00204-y  .
+Cirillo, V., M. Rinaldini, J. Staccioli, and M. E. Virgillito 2021. “Technology Vs. Workers: The Case of Italy’s Industry 
+4.0 Factories.” Structural Change and Economic Dynamics 56: 166–183.
+Cohen, Y., M. Faccio, F. Pilati, and X. Yao. 2019. “Design and Management of Digital Manufacturing and Assembly 
+Systems in the Industry 4.0 Era.” International Journal of Advanced Manufacturing Technology 105 (9): 3565–3577.  
+https://doi.org/10.1007/s00170-019-04595-0  .
+Colombari, R., A. Geuna, S. Helper, R. Martins, E. Paolucci, R. Ricci, and R. Seamans. 2023. “The Interplay Between 
+Data-Driven Decision-Making and Digitalization: A Firm-Level Survey of the Italian and US Automotive 
+Industries.” International Journal of Production Economics 255:108718. https://doi.org/10.1016/j.ijpe.2022.108718  .
+Dachs, B., and A. Wolfmayr. 2025. “Digital Production Technologies and Exports.” Industry and Innovation 33 (1): 
+1–21. https://doi.org/10.1080/13662716.2024.2421952  .
+De Propris, L., and D. Bailey. 2021. “Pathways of Regional Transformation and Industry 4.0.” Regional Studies 
+55 (10–11): 1617–1629. https://doi.org/10.1080/00343404.2021.1960962  .
+Eurostat. 2025. “The Use of Artificial Intelligence in Enterprises.” Study available here: https://ec.europa.eu/eurostat/ 
+statistics-explained/index.php?title=Use_of_artificial_intelligence_in_enterprises .
+Ferraz, J. C., D. Kupfer, J. Torracca, and J. N. Britto. 2020. “Snapshots of a State of Flux: How Brazilian Industrial Firms 
+Differ in the Adoption of Digital Technologies and Policy Implications.” Journal of Economic Policy Reform 23 (4): 
+390–407. https://doi.org/10.1080/17487870.2019.1578651  .
+Figuereido, P. N., and S. A. Zahra, Eds. 2025. Building Digital Technological Capabilities. Global South Perspective. 
+Cheltenham, UK: Edwards Elgar.
+Gereffi, G. 2019. “Global Value Chains, Development, and Emerging Economies.” In Business and Development 
+Studies: Issues and Perspectives, edited by P. Lund-Thomsen, M. W. Hansen, and A. Lindgreen, 125–158. 
+Abingdon, UK: Routledge.
+Ghosh, S., M. Hughes, I. Hodgkinson, and P. Hughes. 2022. “Digital Transformation of Industrial Businesses: 
+A Dynamic Capability Approach.” Technovation 113:102414. https://doi.org/10.1016/j.technovation.2021.102414  .
+Hidalgo, C. A., and R. Hausmann. 2009. “The Building Blocks of Economic Complexity.” Proceedings of the National 
+Academy of Sciences 106 (26): 10570–10575. https://doi.org/10.1073/pnas.0900943106  .
+Hirsch-Kreinsen, H., and M. Hompel. 2017. “Digitalisierung Industrieller Arbeit: Entwicklungsperspektiven Und 
+Gestaltungsansätze.”
+Hobday, M. 1995. “East Asian Latecomer Firms: Learning the Technology of Electronics.” World Development 23 (7): 
+1171–1193. https://doi.org/10.1016/0305-750X(95)00035-B  .
+INDUSTRY AND INNOVATION
+ 19
+Ivanov, D., A. Dolgui, and B. Sokolov. 2019. “The Impact of Digital Technology and Industry 4.0 on the Ripple Effect 
+and Supply Chain Risk Analytics.” International Journal of Production Research 57 (3): 829–846. https://doi.org/10. 
+1080/00207543.2018.1488086  .
+Jia, M., A. Komeily, Y. Wang, and R. S. Srinivasan. 2019. “Adopting Internet of Things for the Development of Smart 
+Buildings: A Review of Enabling Technologies and Applications.” Automation in Construction 101:111–126. https:// 
+doi.org/10.1016/j.autcon.2019.01.023  .
+Kostoska, O., S. Mitikj, P. Jovanovski, and L. Kocarev. 2020. “Core-Periphery Structure in Sectoral International Trade 
+Networks: A New Approach to an Old Theory.” PLOS ONE 15 (4): e0229547. https://doi.org/10.1371/journal.pone. 
+0229547  .
+Labrunie, M. 2023. Economic Development and Industrial Policy in the Age of Digitalisation: Global Mapping and the 
+Case of Brazil. Apollo - University of Cambridge Repository. https://doi.org/10.17863/CAM.106149  .
+Lall, S. 1992. “Technological Capabilities and Industrialization.” World Development 20 (2): 165–186. https://doi.org/ 
+10.1016/0305-750X(92)90097-F  .
+Lee, S. M., and S. Trimi. 2021. “Convergence Innovation in the Digital Age and in the COVID-19 Pandemic Crisis.” 
+Journal of Business Research 123:14–22. https://doi.org/10.1016/j.jbusres.2020.09.041  .
+Liang, S., and Q. Tan. 2024. “Can the Digital Economy Accelerates China’s Export Technology Upgrading? Based on 
+the Perspective of Export Technology Complexity.” Technological Forecasting and Social Change 199:123052. https:// 
+doi.org/10.1016/j.techfore.2023.123052  .
+Macedo, A. C., N. Cantore, L. Barbier, M. Matteini, and G. Pasqualetto. 2020. The Impact of Industrial Energy Efficiency 
+on Economic and Social Indicators. Milan, Italy: Fondazione Eni Enrico Mattei (FEEM).
+Nam, Y., and G. A. Barnett. 2011. “Globalisation of Technology: Network Analysis of Global Patents and Trademarks.” 
+Technological Forecasting and Social Change 78 (8): 1471–1485. https://doi.org/10.1016/j.techfore.2011.06.005  .
+ONS. 2023. “Management Practices and the Adoption of Technology and Artificial Intelligence in UK Firms: 2023.” 
+ONS Article available here: https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymea 
+sures/articles/managementpracticesandtheadoptionoftechnologyandartificialintelligenceinukfirms2023/2025-03-24 .
+Pietrobelli, C., and R. Rabellotti. 2011. “Global Value Chains Meet Innovation Systems: Are There Learning 
+Opportunities for Developing Countries?” World Development 39 (7): 1261–1269. https://doi.org/10.1016/j.world 
+dev.2010.05.013  .
+President’s Council of Advisors on Science and Technology, (PCAST) 2011. Report to the President on Ensuring 
+American Leadership in Advanced Manufacturing. Washington, DC: Executive Office of the President.
+Shin, N., K. L. Kraemer, and J. Dedrick. 2009. “R&D, Value Chain Location and Firm Performance in the Global 
+Electronics Industry.” Industry and Innovation 16 (3): 315–330. https://doi.org/10.1080/13662710902923867  .
+Shin, N., K. L. Kraemer, and J. Dedrick. 2012. “Value Capture in the Global Electronics Industry: Empirical Evidence for 
+the “Smiling Curve” Concept.” Industry and Innovation 19 (2): 89–107. https://doi.org/10.1080/13662716.2012.650883  .
+Sommer, L. 2015. “Industrial Revolution-Industry 4.0: Are German Manufacturing SMEs the First Victims of This 
+Revolution?” Journal of Industrial Engineering and Management 8 (5): 1512–1532. https://doi.org/10.3926/jiem.1470  .
+Sturgeon, T. J. 2021. “Upgrading Strategies for the Digital Economy.” Global Strategy Journal 11 (1): 34–57. https://doi. 
+org/10.1002/gsj.1364  .
+Szalavetz, A. 2022. “The Digitalisation of Manufacturing and Blurring Industry Boundaries.” CIRP Journal of 
+Manufacturing Science and Technology 37:332–343. https://doi.org/10.1016/j.cirpj.2022.02.015  .
+Tassey, G. 2014. “Competing in Advanced Manufacturing: The Need for Improved Growth Models and Policies.” 
+Journal of Economic Perspectives 28 (1): 27–48. https://doi.org/10.1257/jep.28.1.27  .
+Teece, D. J., and G. Linden. 2017. “Business Models, Value Capture, and the Digital Enterprise.” Journal of 
+Organization Design 6 (1): 1–14. https://doi.org/10.1186/s41469-017-0018-x  .
+Tortora, A. M., A. Maria, R. Pianese, C. Iannone, and C. Pianese. 2021. “A Survey Study on Industry 4.0 Readiness Level 
+of Italian Small and Medium Enterprises.” Procedia Computer Science 180:744–753. https://doi.org/10.1016/j.procs. 
+2021.01.321  .
+United Nations Development Programme (UNDP). 2020. Human Development Report 2020: The Next Frontier – 
+Human Development and the Anthropocene. New York: UNDP.
+United Nations Industrial Development Organization (UNIDO). 2019. Industrial Development Report 2020: 
+Industrializing in the Digital Age. Vienna: UNIDO.
+Zou, L., J. H. Shen, J. Zhang, and C. C. Lee. 2022. “What Is the Rationale Behind China’s Infrastructure Investment 
+Under the Belt and Road Initiative.” Journal of Economic Surveys 36 (3): 605–633. https://doi.org/10.1111/joes.12427.
+20
+ A. ANDREONI ET AL.

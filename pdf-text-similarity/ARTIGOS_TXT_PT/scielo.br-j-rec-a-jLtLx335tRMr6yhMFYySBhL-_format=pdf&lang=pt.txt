@@ -1,0 +1,973 @@
+1
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+Revista de Economia Contemporânea (2020) 24(1): p. 1-25
+(Journal of Contemporary Economics) 
+ISSN 1980-5527
+http://dx.doi.org/10.1590/198055272411
+elocation - e202411
+https://revistas.ufrj.br/index.php/rec | www.scielo.br/rec
+Artigos
+Todo o conteúdo deste periódico, salvo indicação em contrário, está licenciado sob os termos da Creative Commons 
+Attribution License.
+Número temático em homenagem aos 70 anos do Manifesto da CEPAL
+DO “MANIFESTO LATINO-AMERICANO” 
+DE RAÚL PREBISCH AOS DIAS DE HOJE: 70 
+ANOS DE ESTRUTURALISMO NA CEPAL
+Ricardo Bieslchowskya
+aProfessor Associado do Instituto de Economia da UFRJ. Rio de Janeiro, RJ, Brasil. ORCID:  
+https://orcid.org/0000-0002-6427-3345.
+Recebido em 16 de maio de 2019 
+Aceito em 25 de maio de 20191
+RESUMO: O artigo é uma condensação de diferentes textos em que seu autor intro-
+duz coletâneas sobre o pensamento cepalino, que ele vem organizando desde 1998. 
+Apresenta os elementos metodológicos e analíticos centrais à construção teórica estru-
+turalista latino-americana, presentes tanto no período estruturalista (1949-1990), 
+quanto no neo-estruturalista (desde 1990). Em seguida, sintetiza brevemente a evolu-
+ção do pensamento estruturalista ao longo das sete décadas de sua existência.
+PALAVRAS-CHAVE: CEPAL; pensamento econômico; desenvolvimento; estrutu -
+ralismo.
+CLASSIFICAÇÃO JEL: B29.
+ Correspondência para: Ricardo Bielschowsky
+ Contato: bielschowsky@gmail.com
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+2
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+FROM RAÚL PREBISCH’S “LATIN AMERICAN 
+MANIFESTO” TO THE PRESENT-DAY:  
+70 YEARS OF STRUCTURALISM IN ECLAC
+ABSTRACT: The article combines different texts in which his author has been 
+introducing books on readings on ECLAC’s (CEPAL ’s) economic thought, which he 
+has been organizing since 1998. It first presents the methodological and analytical 
+elements that have been central to the Latin American structuralist theoretical 
+construct, both in the structuralist period (1949-1990) and in the neostructuralist one 
+(as from 1990). Next, it briefly synthesizes the evolution of the structuralist thought 
+along its seven decades of existence.
+KEYWORDS: ECLAC; economic thought; development; structuralism.
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+3
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+INTRODUÇÃO
+Em boa hora e no lugar certo o Instituto de Economia da Universidade Federal do Rio 
+de Janeiro (IE-UFRJ) dedica este número especial de sua Revista de Economia 
+Contemporânea (REC) aos 70 anos de publicação do “Manifesto latino-americano” . O 
+título foi cunhado por Hirschman (1958), em referência ao texto redigido por Prebisch 
+(1962[1949]) e por ele apresentado em 1949, em Havana, Cuba, em nome da então 
+recém-criada Comissão Econômica para a América Latina, a CEPAL, organismo das 
+Nações Unidas.1 O texto constitui a manifestação inaugural do Estruturalismo que se 
+afirmou a partir de então como a principal construção analítica genuinamente latino-
+americana no terreno de economia política.
+Em “boa hora” porque o Estruturalismo comemora 70 anos de sua condição de 
+continua fonte de refer ência analítica sobre o processo de desenvolvimento latino-
+americano. 
+E no“ lugar certo” , porque a REC é a principal publicação periódica do IE-UFRJ, 
+onde razoável proporção dos professores formula análises de inspiração estruturalista 
+– nas mais variadas combinações com outras abordagens teóricas, dada a composição 
+eclética de seu corpo docente – e onde o ensino e a pesquisa contaram, por muitas 
+décadas, com o brilho de três dos quatro grandes intelectuais brasileiros de linhagem 
+estruturalista, quais sejam, os professores Maria da Conceição Tavares, Antônio Barros 
+de Castro e Carlos Lessa. 2 O outro é, obviamente, o mestre Celso Furtado, cuja obra 
+“Formação Econômica do Brasil” – que pode ser considerada a “obra-prima do 
+Estruturalismo brasileiro”3 – comemorou 60 anos de seu lançamento em 2019.
+O “brado” pela industrialização latino-americana de Raúl Prebisch começa com as 
+seguintes contundentes palavras, que vale a pena citar em espanhol, para transmitir no 
+idioma original – por certo de fácil compreensão para os leitores da REC – a emoção 
+que, segundo Dosman (2011), dominou os que o ouviram em Cuba: 
+1 Atualmente a CEPAL é a Comissão Econômica para a América Latina e o Caribe. 
+2 Os três, quando ainda muito jovens, foram contratados pelo escritório da CEPAL no Rio de Janeiro nos 
+primeiros anos da década de 1960 e nele trabalharam sob a orientação de dois intelectuais que, ao lado de 
+Prebisch e Furtado, são ícones do pensamento estruturalista: Osvaldo Sunkel e Anibal Pinto. Este último 
+prefaciou o livro “clássico” de Castro e Lessa (1967), “Introdução à economia, uma abordagem estrutu -
+ralista” , e a ele Maria da Conceição Tavares (1972) dedicou seu não menos clássico “Da substituição de 
+importações ao capitalismo financeiro” . Vale aqui uma nota anedótica. Cerca de 30 anos depois do con-
+vívio no Rio de Janeiro, expressando seu carinho aos três, Anibal Pinto relatou com muita graça e humor 
+(a este que vos escreve) que, volta e meia, precisava pedir a seus três jovens e queridos colaboradores 
+que procurassem conter a níveis menos “ruidosos” a apaixonada discussão sobre o futuro do Brasil que 
+faziam no quotidiano do escritório, nos idos de 1963.  
+3 A expressão é de Bielschowsky (1994).
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+4
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+La realidad está destruyendo en la América Latina aquel pretérito esquema de la 
+división internacional de trabajo que, después de haber adquirido gran vigor en el siglo 
+XIX, seguía prevaleciendo doctrinariamente hasta muy avanzado en el presente (…) 
+(...) Las ingentes ventajas del desarrollo de la productividad no han llegado a la 
+periferia, en medida comparable a la que ha logrado disfrutar la población de esos 
+grandes países [desarrollados]
+(…) De ahí el significado de la fundamental de la industrialización de los países 
+nuevos. No es ella un fin en sí misma, sino el único medio de que disponen éstos para 
+ir captando una parte del fruto del progreso  técnico y elevando progresivamente el 
+nivel de vida de las masas. (PREBISCH, 1962[1949], p. 1)
+Essas são, contudo, palavras que apenas situavam o significado da industrialização 
+no contexto histórico por que passava a América Latina. Teriam sido esquecidas com 
+o tempo, não fossem três processos históricos de grande relevância. 
+Primeiro, o de que a industrialização viria a se constituir, de fato, na transformação 
+estrutural que lideraria a alteração radical na divisão de trabalho, desde economias 
+predominantemente rurais a economias predominantemente urbanas. E, além disso, e 
+como previra Prebisch, veio a liderar por mais de três décadas uma expansão econômica 
+que alcançou, em média, cerca de 5,5% ao ano no conjunto da América Latina e 
+aproximadamente 7% anuais, no Brasil. 
+Segundo, os parágrafos transcritos deram início ao primeiro texto de uma trilogia 
+com a qual Prebisch, em nome da CEPAL e com posterior reconhecimento de seu 
+próprio nome (PREBISCH, 1962 [1949]; CEPAL, 1951; 4 e PREBISCH, 1973 [1951]) 
+construiu sua “teoria do (sub)desenvolvimento periférico latino-americano” . Tratava-se 
+de uma verdadeira “descoberta” da América Latina no plano intelectual, com a qual o 
+autor fornecia argumentos analíticos contundentes para a defesa do suporte do Estado 
+ao processo de industrialização – o qual, até então, salvo exceções parciais, vinha 
+transcorrendo desde 1930 em forma essencialmente “espontânea” , além de pouco 
+“teorizada” .
+E, terceiro, porque essa teorização inaugural do pensamento econômico 
+estruturalista se mantém viva e influente até os dias de hoje. Cabe, infelizmente, 
+assinalar que, se por um lado, essa atualidade demonstra a força explicativa da 
+teorização inaugural, por outro ela se explica pelo fato de que o subdesenvolvimento 
+não foi superado. Afinal, muito embora as condições socioeconômicas latino-
+4 Texto redigido por Prebisch.
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+5
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+americanas tenham passado por importantes melhorias – como, por exemplo, nos 
+índices de analfabetismo e escolaridade, de mortalidade infantil, de pobreza, e até 
+mesmo de diversidade produtiva e exportadora – sob muitos pontos de vista sociais, 
+econômicos e institucionais a América Latina continua subdesenvolvida. 
+O pensamento inaugural foi utilizado nas duas grandes fases com que se pode 
+dividir a história das ideias da CEPAL: a “estruturalista” propriamente dita, de 1949 até 
+1990, e a “neoestruturalista” , a partir de então. Conforme se argumenta mais adiante, e 
+apesar de algumas adaptações – ou concessões, criticadas por vários estudiosos do 
+pensamento cepalino – o Neoestruturalismo  não perdeu a essência da análise 
+estruturalista original. A leitura atenta da produção da CEPAL mostra que “o 
+neoestruturalismo defende um programa heterodoxo no plano macroeconômico, 
+desenvolvimentista no plano da alocação de recursos e da atuação do Estado na 
+economia, universalista no plano social e conservacionista no plano ambiental” 
+(BIELSCHOWSKY , 2009, p. 174).
+O presente artigo corresponde à reprodução parcial e livre de três textos em que 
+seu autor introduz coletâneas sobre a evolução do pensamento cepalino, por ele 
+organizadas, por encomenda da CEPAL (BIELSCHOWSKY , 2000, 2009, 2010). 
+Beneficia-se também de texto recente em que em que é coautor, e que introduz a 
+coletânea comemorativa de 70 anos do pensamento na CEPAL (BÁRCENA, 
+BIELSCHOWSKY e TORRES, 2018). 
+Além desta introdução e das notas conclusivas, o artigo contém duas partes. A 
+segunda seção apresenta os elementos metodológicos e analíticos centrais à construção 
+teórica estruturalista, presentes tanto no período estruturalista (1949-1990), quanto 
+no neoestruturalista (desde 1990). E a terceira seção oferece uma breve síntese da 
+evolução do pensamento estruturalista ao longo das sete décadas de sua existência. 
+1. ELEMENTOS CENTRAIS AO ESTRUTURALISMO CEPALINO
+1.1. O MÉTODO HISTÓRICO-ESTRUTURAL E A CONDIÇÃO PERIFÉRICA
+A CEPAL desenvolveu-se como uma escola de pensamento especializada no exame 
+das tendências econômicas e sociais de médio e longo prazos nos países latino-
+americanos. A teoria estruturalista constitui um corpo analítico dedicado à análise do 
+subdesenvolvimento da região em três níveis: (i) condicionantes estruturais do 
+crescimento, do emprego e da distribuição da renda (as “restrições ao crescimento” e a 
+dificuldade da “convergência” aos padrões de renda e riqueza dos países avançados); 
+(ii) modo de inserção internacional (enfoque centro-periferia); e (iii) ação estatal para 
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+6
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+promover a industrialização e o desenvolvimento mediante programas e políticas 
+adequadas ao enfrentamento das dificuldades impostas pelo quadro estrutural 
+socioeconômico herdado da formação histórica latino-americana.
+A motivação original para a inclinação cepalina pelas tendências históricas é 
+conhecida. A agenda de reflexão e investigação inaugurada por Prebisch em 1949 
+compunha-se essencialmente do diagnóstico da profunda transição que se observava 
+nas economias subdesenvolvidas latino-americanas, do modelo de crescimento 
+primário-exportador, hacia afuera, ao modelo urbano-industrial, hacia adentro. Esse 
+traço metodológico fundamental lhe foi impresso já em suas origens por Prebisch, e o 
+espaço dessa “cultura” foi ocupado por uma plêiade de intelectuais que reúne alguns 
+dos principais historiadores econômicos da região. Para citar apenas três, vale lembrar 
+Aníbal Pinto (1956) e seu “Chile: un caso de desarrollo frustrado”; Celso Furtado (1959) 
+e seu “Formação econômica do Brasil” , e Aldo Ferrer (1979) e seu “ La economia 
+argentina: etapas de su desarrollo y problemas actuales”.
+Em outras disciplinas das ciências sociais, como a linguística e a antropologia, nas 
+quais o Estruturalismo se origina, este tipicamente correspondeu a um instrumental 
+metodológico sincrônico ou a-histórico. Diferentemente, na análise econômica 
+cepalina o Estruturalismo é essencialmente um enfoque orientado pela busca de 
+relações diacrônicas, históricas e comparativas, que se presta mais ao método 
+“indutivo” do que a uma “heurística positiva” . Daí resultam fundamentos essenciais 
+para a construção teórica da análise histórica comparativa da CEPAL: as estruturas 
+subdesenvolvidas da periferia latino-americana condicionam – mais do que 
+determinam – comportamentos específicos, de trajetórias a priori desconhecidas. Por 
+essa razão, merecem e exigem estudos e análises nos quais a teoria econômica com 
+“selo” de universalidade só pode ser empregada com qualificaç ões, de maneira a 
+incorporar as especificidades históricas e regionais.
+Em outras palavras, o enfoque histórico-estruturalista cepalino abriga um método 
+de produção de conhecimento profundamente atento para o comportamento dos 
+agentes sociais e da trajetória das instituições, que tem maior proximidade com um 
+movimento indutivo do que os enfoques abstrato-dedutivos tradicionais.
+Liberado de marcos dedutivos rígidos e esquemáticos, o pensamento cepalino tem 
+assim a capacidade de acomodar com facilidade a evolução dos acontecimentos, 
+através de contínuas revisões em suas interpretações, que não significam perda de 
+coerência político-ideológica ou de consistência analítica. Ao mesmo tempo, parte da 
+investigação cepalina é uma reflexão crítica numa visão introspectiva sobre seus 
+próprios desenvolvimentos analíticos.
+A oposição entre “periferia” e “centro” , que desempenhou duplo papel analítico, 
+ilustra este ponto.
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+7
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+Primeiro, serviu para o argumento de que a referida estrutura determinava um 
+padrão específico de inserção na economia mundial, como “periferia” da mesma, 
+produtora de bens e serviços com demanda internacional pouco dinâmica, importadora 
+de bens e serviços com demanda doméstica em rápida expansão, e absorvedora de 
+padrões de consumo e tecnologias adequadas ao centro, mas frequentemente 
+inadequadas à disponibilidade de recursos e ao nível de renda da periferia.
+Segundo, prestou-se à ideia de que a estrutura socioecon ômica periférica 
+determina um modo próprio de industrializar, introduzir progresso técnico e crescer, 
+e um modo próprio de absorver a força de trabalho e distribuir a renda. Ou seja, em 
+suas características centrais, o processo de crescimento, emprego e distribuição de 
+renda na periferia seria distinto do que ocorre nos países centrais. As diferenças devem 
+ser encontradas no fato de que as economias “periféricas” possuem uma estrutura 
+pouco diversificada e tecnologicamente heterogênea, quando contrastadas com o 
+quadro encontrado nos países “centrais” . Nestes, o aparelho produtivo é diversificado, 
+tem produtividade relativamente homogênea ao longo de toda sua extensão e tem 
+mecanismos de criação e difusão tecnológica e de transmissão social de seus frutos 
+inexistentes na periferia.
+O foco da abordagem das relações “centro-periferia” foi se alterando ao longo 
+últimos 70 anos, de acordo com acontecimentos históricos que foram se sucedendo na 
+economia mundial. Entre 1949 e meados dos anos 1960, o núcleo da abordagem era a 
+industrialização em condições de escassez de dólares e de restrições externas ao 
+crescimento. Daí  até fins dos anos 1970 passou a prevalecer a abordagem da 
+dependência tecnológica e financeira, agora sob a forte presença de empresas 
+multinacionais no processo de industrialização e de abundantes de fluxos financeiros 
+internacionais à região. Essa perspectiva se deslocaria na década de 1980 à interpretação 
+de “asfixia financeira” provocada pela dívida em condições de taxas de juros 
+internacionais estratosféricas e sob pressão orquestrada entre os bancos credores 
+situados dos países centrais e o Fundo Monetário Internacional (FMI). Por último, 
+estabeleceu-se, a partir da implementação do Plano Brady e da liberalização das 
+economias da região latino-americanas, em fins dos anos 1980 e in ício da década 
+seguinte, a ideia de que os países da região haviam se incorporado à globalização 
+produtiva e financeira sem alterar, contudo, seu papel periférico nesse esse processo, 
+tanto como produtor de mercadorias quanto no que se refere à gestão de fluxos 
+financeiros mundiais.
+O enfoque histórico e a abordagem da condição periférica foram poderosamente 
+instrumentalizados pela teoria “estruturalista” do subdesenvolvimento periférico de 
+Prebisch. 
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+8
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+1.2. ELEMENTOS ANALÍTICOS BÁSICOS DO ESTRUTURALISMO (1949-1980) E SUA 
+CONTINUIDADE NO PERÍODO NEO-ESTRUTURALISTA (A PARTIR DE 1990)
+O mundo acadêmico tradicional, quando dá alguma atenção ao Estruturalismo latino-
+americano, tende a associar o pensamento cepalino à tese de deterioração dos termos 
+de intercâmbio (PREBISCH, 1962[1949]; SINGER, 1950) e à tese de inflação estrutural 
+(NOYOLA-V ÁSQUEZ,1957; SUNKEL, 1958). Essas são, contudo, apenas duas entre 
+as várias contribuições da CEPAL e, ainda mais importante, são inovações analíticas 
+que derivam de uma teorização muito mais ampla, que confere ao Estruturalismo o 
+status de sistema analítico de interpretação do subdesenvolvimento latino-americano.
+Deve-se a Octavio Rodríguez (1981) a leitura mais atenta e precisa das formulações 
+de Prebisch e do estruturalismo cepalino, cuja originalidade e força analítica o autor 
+atribui à engenhosa construção teórica Prebischiana. 5 Rodriguez argumenta que o 
+Estruturalismo repousa sobre a visão de que a América Latina padece de dois 
+problemas fundamentais, herdados de sua história e definidores de seu 
+subdesenvolvimento: baixa diversidade produtiva e heterogeneidade estrutural. Em 
+consulta oral com o autor, e com a concordância do mesmo, Bielschowsky (2009) 
+adicionou um terceiro, qual seja, o de que padece também de uma institucionalidade 
+(Estado, tributação, empresariado, sistemas financeiro e de inovação, etc.) pouco 
+favorável à acumulação de capital e ao progresso técnico. 
+O Quadro 1 apresenta os três componentes centrais da análise estruturalista da 
+realidade latino-americana. Inclui também, a ideia de que o Neoestruturalismo da 
+CEPAL é profundamente estruturalista (BIELSCHOWSKY , 2009).
+Quadro 1 – Caracterização das economias latino-americanas 
+(“periféricas”) em contraste com as economias “centrais”: três 
+elementos básicos, no Estruturalismo e Neoestruturalismo
+Estruturalismo
+(origens, até 1990)
+Neoestruturalismo
+(1990 em diante)
+Consequências
+Baixa diversidade 
+produtiva e 
+especialização em bens 
+primários 
+Inadequada diversidade 
+produtiva e exportadora 
+(baixos efeitos de 
+encadeamento, baixa 
+densidade tecnológica) 
+Anos 1950: a capacidade de geração de divisas é limitada e a 
+pressão por divisas é alta, diante da necessidade de 
+investimentos simultâneos em muitos setores – processo 
+muito exigente em matéria de divisas (vulnerabilidade 
+externa) e de poupança/investimento.
+Hoje, idem no que se refere à vulnerabilidade externa por 
+hiato de divisas (com a novidade do atrelamento a fluxos de 
+capitais voláteis de curto prazo).
+5 A obra de referência é “La teoría del subdesarrollo de la CEPAL” . Leia-se também, do autor “El estrutura-
+lismo latino-americano” (RODRIGUEZ, 2006).
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+9
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+Quadro 1 – Caracterização das economias latino-americanas 
+(“periféricas”) em contraste com as economias “centrais”: três 
+elementos básicos, no Estruturalismo e Neoestruturalismo
+Estruturalismo
+(origens, até 1990)
+Neoestruturalismo
+(1990 em diante)
+Consequências
+Grande heterogeneidade 
+estrutural e oferta 
+abundante de 
+mão-de-obra com baixos 
+rendimentos do trabalho
+Idem (heterogeneidade 
+estrutural, oferta 
+abundante e mão de 
+obra, baixos 
+rendimentos do 
+trabalho, etc.)
+Anos 1950 e hoje, duas consequências:
+(i) Heterogeneidade estrutural determina pobreza e má 
+distribuição da renda;
+(ii) Baixa produtividade média (e hiato de produtividade com 
+relação aos países centrais) limitam o crescimento e a 
+competitividade internacional e geram pobreza e má 
+distribuição de renda; isso se agudiza devido à concentração 
+de propriedade e à ausência de políticas sociais.
+Quadro institucional e 
+composição de agentes 
+pouco favoráveis à 
+acumulação de capital e 
+ao progresso técnico 
+Idem, com atualizações: 
+escassez de global 
+players, precariedade no 
+sistema nacional de 
+inovação e nos sistemas 
+de financiamento, 
+Estado pouco 
+aparelhado, etc. 
+Anos 1950 e atualmente: Baixo investimento (fixos e em 
+inovação), inserção internacional desfavorável, 
+vulnerabilidade externa.
+Fontes: Elaboração própria com base em Rodriguez (1981) e Bielschowsky (2009).
+Cabe ressaltar (antecipando alguns elementos que serão mencionados mais 
+adiante), que todas as teses da CEPAL são derivadas da visão de subdesenvolvimento 
+tal como definido pela presença em toda a América Latina dos três componentes 
+assinalados no Quadro 1. Como ilustração, vale destacar alguns dos elementos 
+analíticos centrais enunciados nas duas primeiras décadas do pensamento cepalino:
+i) A deterioração de termos de interc âmbio supõe oferta ilimitada de mão de 
+obra, especialização em bens primários, baixo poder de barganha dos 
+proprietários (ausência de oligopólios) e inexistência de sindicatos fortes. 
+ii) O desequilíbrio estrutural da balança de pagamentos e a “vulnerabilidade 
+externa” resultam da baixa diversidade produtiva e exportadora e da elevada 
+elasticidade-renda da demanda por importações nos países da região, em 
+contraste com a baixa elasticidade-renda mundial da demanda pelas 
+exportações dos mesmos.
+iii) Devido à recorrente restrição externa, a industrialização se deu por meio de 
+um “processo substitutivo de importações” .6
+6 Essa análise foi feita inicialmente por Prebisch, nos textos inaugurais e, já nos anos 1960, de forma mais 
+acabada, por Maria da Conceição Tavares (1972). 
+(Cont.)
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+10
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+iv) O mesmo problema de restrições externas ao crescimento levou à defesa da 
+criação do com ércio intrarregional por meio do mercado comum latino-
+americano (ALALC) que, se supunha, permitiria o aprofundamento da 
+industrialização a setores exigentes em escala e, dessa forma, redução da 
+vulnerabilidade externa (CEPAL, 1959).7
+v) A tese da inflação estrutural, na essência do que lhe tem sido permanente 
+desde foi enunciada nos anos 1950, corresponde à ideia de que a inflação 
+decorre principalmente do desequilíbrio estrutural do balanço de pagamentos 
+e da pressão resultante por desvalorização na taxa de câmbio.
+vi) A tendência à continuidade do subemprego é produto da incapacidade de 
+promover um crescimento que absorva a mão de obra sobrante, em condições 
+de oferta ilimitada de mão de obra, de heterogeneidade estrutural, e do fato de 
+que o parque industrial em formação absorvia tecnologias de alta intensidade 
+de capital. 
+vii) A má distribuição da renda é reflexo da “heterogeneidade estrutural” – 
+expressão cunhada na década de 1960 por Aníbal Pinto (1965, 1970), 
+transmitindo ideia já contida nos textos cepalinos dos anos 1950 – em 
+conjunto com uma institucionalidade protetora da concentração da renda e 
+da propriedade, etc.;
+Ademais, como se lê na Quadro 1, os três componentes se projetam também sobre 
+as teses enunciadas na fase neoestruturalista. A ideia básica é a de que, com pequenas 
+alterações, o quadro de subdesenvolvimento desenhado para o período estruturalista 
+se modifica pouco no neoestruturalista:
+a) A diversidade produtiva continua sendo baixa ou inadequada e a especialização 
+em bens primá rios continua prevalecendo, o que significa vulnerabilidade 
+externa, desequilíbrio estrutural de balança de pagamentos e baixos efeitos de 
+encadeamento interno sobre o crescimento. 
+b) Persistem a heterogeneidade estrutural no âmbito produtivo, a oferta 
+abundante de mão de obra e baixas remunerações laborais e a má distribuição 
+da propriedade, que conduzem à má distribuição da renda. 
+c) Persistem um quadro institucional e uma composi ção de agentes pouco 
+favoráveis à acumulação de capital e ao progresso técnico (escassez de global 
+players, precariedade no sistema nacional de inova ção e nos sistemas de 
+7 O texto foi redigido por Prebisch.
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+11
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+financiamento, Estados nacionais insuficientemente aparelhados para as 
+tarefas do desenvolvimento, etc.).
+2. O ESTRUTURALISMO AO LONGO DE SETE DÉCADAS 
+A evolução do pensamento estruturalista na CEPAL admite uma periodização em 
+sete décadas, caracterizadas segundo as principais “mensagens” de ação transformadora 
+difundidas pela instituição no decorrer do período, já que, por coincidência, a 
+instituição foi ordenando e reordenando seu pensamento, durante as sete décadas, 
+mais ou menos a cada dez anos.  São mensagens de continuidade e mudança: 
+continuidade no que se refere ao sistema analítico e mudança no que se refere às 
+ênfases e adaptações à história real que se vivia na América Latina. O Quadro 2 resume 
+essa evolução.
+Quadro 2 – Periodização do pensamento estruturalista segundo 
+“Mensagens” da CEPAL (para a ação transformadora) 
+Período estruturalista
+1949 e década de 1950 Industrialização
+Década de 1960 Reformas para aprofundar a industrialização e reduzir as desigualdades 
+(agrárias, fiscais e financeiras, administrativas etc.)
+Década de 1970 Estilos de desenvolvimento com integração social (e primazia do fortalecimento 
+exportador sobre o endividamento externo)
+Década de 1980 Superação, com crescimento, da asfixia da dívida
+Período neoestruturalista
+Década de 1990 Transformação produtiva com equidade (TPE)
+Década de 2000
+TPE, fase de amadurecimento e refinamento, com análise da necessidade de 
+posicionar a América Latina, frente à “globalização” , com desenvolvimento e 
+cidadania
+Década de 2010 “O imperativo da igualdade” (*) 
+Nota: (*) título do livro de Bárcena e Prado (2015).
+Fonte: Bárcena, Bielschowsky e Torres (2018). 
+2.1. A ETAPA ESTRUTURALISTA: 1949-1990
+Na presente seção voltamos aos argumentos apresentados brevemente na seção 
+anterior, de modo a situá-los na evolução da história das ideias da CEPAL. 
+Os anos 1950 foram para a CEPAL os de auge de criatividade e da capacidade de 
+ousar e influenciar. Em seu apoio, diretamente na CEPAL ou em suas cercanias, 
+estariam ninguém menos do que Celso Furtado, Regino Botti, Jorge Ahumada, Juan 
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+12
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+Noyola Vásquez, Aníbal Pinto, Osvaldo Sunkel, e outros conhecidos desbravadores do 
+conhecimento sobre a realidade latino-americana. 
+As mensagens eram inovadoras, e o campo para sua divulgação era fértil. No plano 
+da conveniência histórica a ideologia cepalina caía como uma luva nos projetos 
+políticos de vários governos do continente. No plano analítico a mensagem geral 
+estava plenamente sintonizada com o coração da nova “teoria do desenvolvimento”: os 
+países subdesenvolvidos mereciam uma formulação teórica independente ou pelo 
+menos adaptada, porque em aspectos relevantes funcionavam de forma diferente dos 
+desenvolvidos. 
+Durante a primeira década, talvez a contribuição de maior importância tenha sido 
+a ideia Prebischiana de que existe uma assimetria básica entre a baixa elasticidade-
+renda da demanda mundial pelos produtos primários originados na periferia e a alta 
+elasticidade-renda na demanda da periferia por produtos industriais originados no 
+centro. A assimetria teria consequências potencialmente fatais para o desenvolvimento 
+dos países da região, porque tenderia a provocar um desequilíbrio de natureza 
+estrutural no balanço de pagamentos, com impactos adversos sobre a inflação e a 
+continuidade do crescimento. As dificuldades se acentuariam pelo fato de que, à 
+diferença dos benefícios prometidos pelos defensores do livre comércio, existiria uma 
+tendência à deterioração dos termos de interc âmbio em desfavor dos países 
+subdesenvolvidos – tese, como se sabe, apresentada em duas versões, a do “ciclo” e a do 
+desemprego.8 
+A atenção à vulnerabilidade externa e à insuficiência de divisas – que, ao lado da 
+insuficiência de poupança/investimento, era vista como o obstáculo principal ao 
+crescimento – levaria ainda à análise dos determinantes do processo de industrialização, 
+ou seja, da dinâmica da substituição de importações.9 Também influenciaria de forma 
+decisiva a interpretação estruturalista da inflação latino-americana, de autoria dos 
+autores cepalinos Noyola-Vasquez (1957) e Osvaldo Sunkel (1958). Ao mesmo tempo, 
+8 A versão “ciclo” da tese de deterioração dos termos de intercâmbio (CEPAL, 1951), elaborada em simultâ-
+neo a Singer (1950), diz que em condições de ascenso cíclico os produtos primários aumentam os preços 
+mais do que os industriais, mas a vantagem é muito mais do que revertida na baixa cíclica, pela via da 
+queda abrupta dos preços dos bens primários. A versão “desemprego” (PREBISCH, 1973[1951]) postula 
+que, se os desempregados e sub-empregados no campo forem absorvidos pela atividade de produção 
+para exportação de bens primários, a consequência seria a forte queda no valor das exportações, devi -
+do à escassez de demanda internacional por esses produtos. A “economicidade” da atividade industrial, 
+mesmo em condições de baixa competitividade com relação à produção do centro, seria justificada pela 
+existência da força de trabalho sem ocupação alternativa.
+9 A análise foi feita inicialmente por Prebisch, nos textos inaugurais e, já nos anos 1970, de forma mais 
+acabada, por Tavares (1963).
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+13
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+estava no centro das análises formuladas nos anos 1950 para a criação de um mercado 
+regional (na América Central, e depois na América Latina como um todo), entendida 
+na época como mecanismo que permitiria conferir escala à industrialização, atenuar o 
+problema de insuficiência de divisas para a região como um todo e funcionar como 
+estágio preparatório para posterior exportação de bens industriais ao resto do mundo 
+(CEPAL, 1959). Anos depois, na criação da United Nations Conference on Trade and 
+Development (UNCTAD), liderada por Prebisch, essa perspectiva seria central às 
+formulações sobre a necessidade de formação internacional de estoques reguladores 
+de bens primários e de criação de esquemas preferenciais de acesso aos mercados 
+centrais para produtos primários e industriais dos países em desenvolvimento. 
+Nos anos 1960 a mensagem cepalina em favor da “industrialização” ganhou um 
+componente adicional, ou seja, a proposta das reformas institucionais – agrária, fiscal, 
+financeira, etc. – entendidas como indispensáveis para permitir a continuidade e o 
+aprofundamento do desenvolvimento industrial. Ao mesmo tempo, em uma CEPAL 
+menos otimista do que na década anterior, e como reação ao fato de que o relativo 
+êxito da industrialização não impedia a expansão de considerável miséria urbana, 
+surgiram teses de impacto do processo de industrialização periférica nos planos do 
+emprego e da distribuição da renda. Daí para frente, a questão da equidade passaria a 
+fazer parceria com a questão do desenvolvimento produtivo na agenda cepalina. 
+Furtado (1961) formulou a tese da tendência à continuidade do subemprego – e, 
+consequentemente, do subdesenvolvimento - ao longo do processo de industrialização. 
+Às interpretações cepalinas pr évias sobre tendências ao desequilíbrio estrutural na 
+balança de pagamentos e à inflação, somava-se agora a evidência da instalação de uma 
+nova modalidade de pobreza e desequilíbrio social, crescentemente urbana, e 
+simultânea à modernização promovida pela industrialização. 
+Esse é o momento em que se inaugura a tradição cepalina de vincular pobreza e 
+distribuição de renda à evolução das disparidades na produtividade e na remuneração 
+do trabalho entre pessoas, setores e regiões – a heterogeneidade estrutural, interpretada 
+como resultantes das condições históricas herdadas e da evolução corrente do mercado 
+de trabalho. O argumento era o de que se combinavam, desfavoravelmente ao 
+trabalhador, abundância de oferta de mão de obra e lentidão na expansão de sua 
+demanda – esta última por força do insuficiente ritmo de expansão dos investimentos 
+e do predomínio de elevada intensidade de capital. 
+Foram anos de rica teorização sobre as relações entre a dinâmica da distribuição 
+de renda e a dinâmica do crescimento em condições da nova heterogeneidade 
+socioeconômica, como a que realizaram Aníbal Pinto (1965, 1970), Furtado (1969), e 
+Tavares e Serra (1971). E foram, ao mesmo tempo, como reação à acelerada entrada de 
+capitais estrangeiros na região, anos de rico debate sobre a natureza dependente do 
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+14
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+processo de modernização latino-americano, com destaque, na CEPAL, para a 
+participação de Sunkel (1970) no plano da interpretação econômica, e de Fernando 
+Henrique Cardoso e Enzo Faletto (2000[1969]), no da interpretação política. 
+Nos anos 1970 o pensamento cepalino continuaria movendo-se sobre seus dois 
+trilhos fundamentais, ou seja, o da natureza e dificuldades do crescimento e do 
+desenvolvimento industrial, e o da distribuição de renda. 
+No primeiro, dava-se continuidade a uma discussão bastante intensa, inaugurada 
+na década pr évia, sobre as insuficiências da industrialização, em que se haviam 
+questionado limitações impostas por excesso de proteção e ausências de uma 
+institucionalidade favorável ao investimento e ao progresso técnico. No entanto, nas 
+circunstâncias da onda liberalizante introduzida nos países do Cone Sul, a CEPAL dos 
+anos 1970 inclinou-se por uma atitude de precaução em termos de eventuais revisões 
+no marco regulatório existente, apesar de que muitos de seus intelectuais 
+reconheceram-no, desde inícios dos anos 1960, como excessivamente protecionista 
+(por exemplo, PREBISCH, 1961; MACARIO, 1964). Em seu lugar, propunham-se 
+incentivos à exportação dirigida aos âmbitos regional e mundial. A expansão 
+simultânea do mercado interno e das exportações era defendida como forma de 
+enfrentar o problema da vulnerabilidade externa e passou a ser apresentada a partir do 
+início dos anos 1970 em contraposição ao endividamento externo, que recebeu 
+advertências contundentes quanto a seus riscos, quando praticado com excesso (por 
+exemplo, CEPAL, 1972).  
+No âmbito da distribuição da renda, amadureceu nos anos 1970 o debate sobre 
+“estilos” , ou “padrões” de desenvolvimento, por meio da análise sobre a relação entre 
+estruturas de demanda (distribuição de renda) e de oferta (acumulação de capital e 
+progresso técnico), e da constatação de que o estilo predominante perpetuava a 
+desigualdade e não permitia enfrentamento adequado da pobreza. A mensagem era a 
+da necessidade de redistribuir a renda, que se entendia requerer a recuperação da 
+democracia, então eliminada em boa parte da região, como forma de viabilizar um 
+estilo mais justo de crescimento.10  
+10 Cabe observar, contudo, que não faltou ceticismo, entre os principais intelectuais da CEPAL, com relação 
+à viabilidade política de fazê-lo. Leiam-se, a propósito de dúvidas sobre a viabilidade, os textos da edição 
+inaugural da Revista da CEPAL, de 1976, em especial os artigos de Anibal Pinto (1976), Graciarena (1976) 
+e Marshal Woolfe (1976). No Brasil o debate avançou pelas mãos de vários intelectuais, em especial de 
+Furtado (1969) e Tavares e Serra (1971). A tese central na versão brasileira pode ser assim resumida: a 
+composição da demanda, que reflete as estruturas de propriedade e renda concentradas, predetermina 
+a evolução da composição da oferta; o investimento, assim determinado, reproduz o padrão tecnológico 
+dos países centrais, intensivo em capital e em economias de escala e pouco absorvedor de mão de obra; 
+no caso brasileiro, a oferta ilimitada de mão de obra impede que o aumento de produtividade se traduza 
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+15
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+Nos anos 1980, denominados de “década perdida” , em função da queda da renda 
+per capita regional, a produção intelectual da CEPAL esteve condicionada pelo 
+contexto dos ajustes recessivos praticados em grande parte dos países da região. Isto 
+provocou uma redução da importância relativa atribuída aos dois temas até então 
+principais – desenvolvimento produtivo e equidade - e um redirecionamento das 
+prioridades a um campo em que a instituição se havia movido relativamente pouco 
+nas décadas anteriores, qual seja, o da análise da estabilidade macroeconômica. Neste, 
+dedicou-se especialmente à trilogia dívida/inflação/ajuste.
+A grande mensagem da CEPAL passaria a ser a renegociação da dívida externa 
+para permitir o “ajuste com crescimento” . Entre seus quadros técnicos e dirigentes não 
+havia nos anos 1980 perfeita convergência em relação à forma de tratar a questão, ou 
+seja, entre maior ou menor heterodoxia. 11 No entanto, predominou a ideia de que a 
+formula virtuosa para enfrentar os compromissos da dívida – a que permitiria evitar 
+os grandes sacrifícios a que os credores estavam sujeitando os países da região – seria 
+recuperar o crescimento e o investimento, e dessa forma aumentar a competitividade 
+externa e as exportações. Tratava-se, por certo, de uma mensagem caracteristicamente 
+cepalina, porque evocava a solução às dificuldades externas por meio da expansão e 
+diversificação da produção e das exportações.12
+Nos anos 1980, a relativa primazia atribuída às reflexões sobre a macroeconomia 
+não chegou a impedir a continuidade do interesse pela temática do desenvolvimento 
+econômico, em suas esferas produtivas e distributivas; e, como novidade, passou a 
+incluir também o plano das questões ambientais. A primeira contribuição importante 
+nesta temática foi a engenhosa análise coordenada por Sunkel e Glico (1981) oriunda 
+de pesquisa que, não por casualidade, dirigiu-se ao entendimento de “estilos de 
+desenvolvimento e meio ambiente” e foi conduzida por meio de uma abordagem 
+profundamente estruturalista.
+em aumentos correspondentes de salários e que se forme uma economia de consumo de massa. Essa 
+interação entre “estruturas” de demanda e de oferta determina um “estilo” ou “padrão” de crescimento 
+altamente concentrador de renda. Na visão de Furtado (1969), contestada por Tavares e Serra (1971), 
+determinaria também uma tendência à estagnação devida a “rendimentos decrescentes de escala” .
+11 Sobre as divergências leia-se, por exemplo, Marinho (1991).
+12 Ao mesmo tempo, acolhiam-se com interesse as formulações heterodoxas de combate à inflação inercial 
+nos países de elevada inflação, provenientes do Brasil e da Argentina. Essas formulações tinham um pon-
+to importante em comum com o pensamento estruturalista cepalino sobre inflação, qual seja, o de que a 
+expansão monetária pode, em certas circunstâncias, não ser o elemento causador primário da inflação e, 
+consequentemente, que políticas monetárias restritivas podem afetar de forma drástica os investimentos, 
+a renda e o emprego sem eliminar as fontes básicas do processo inflacionário. 
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+16
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+Contudo, à luz do que viria a ocorrer no pensamento cepalino futuro, o momento 
+de maior import ância dos anos 1980 no plano da reflexão sobre desenvolvimento 
+econômico foi o surgimento de teses de Fernando Fajnzylber, precursoras do 
+Neoestruturalismo que a CEPAL viria a partir de 1990. Quando chegou à CEPAL, em 
+1983, para comandar a Divisão Conjunta CEPAL/UNIDO de Desenvolvimento 
+Industrial, o autor recém havia terminado o livro “Industrialización trunca en América 
+Latina” (FAJNZYLBER, 1983). Esse livro, e o “Industrialización en América Latina: de 
+la caja negra al casillero vacío ” (FAJNZYLBER, 1989), redigido em fins da década, 
+foram os principais textos de referência para a revisão do estruturalismo e a implantação 
+da etapa “neo-estruturalista” , iniciada em 1990.13
+O autor se opunha ao Neoliberalismo emergente, entendia que o desenvolvimento 
+pressupõe um papel importante do Estado, mas era crítico ao modelo de 
+desenvolvimento adotado até então, especialmente no que se refere às carências em 
+termos de igualdade e capacidade de inovação, bem como à institucionalidade que as 
+abrigava. Sua contribuição teve importância decisiva na transição à nova fase, em que 
+a CEPAL passaria a avaliar as oportunidades e os desafios para o desenvolvimento em 
+economias menos fechadas e com Estados propensos à revisão no modo de intervenção 
+na economia.
+A ênfase no primeiro dos dois livros foi a de que era necessário passar a uma “nova 
+industrialização” , baseada no binômio crescimento e criatividade e impulsionada pela 
+constituição em cada país de um “núcleo endógeno de dinamização tecnológica” , 
+entendido como condição necessária para penetrar e manter-se no mercado 
+internacional. Haveria também que buscar uma nova forma de inserção internacional 
+baseada na construção de competitividade sistêmica, pela via do fortalecimento dos 
+encadeamentos produtivos locais e da introdução do progresso técnico em toda sua 
+extensão – e abandonar a inserção por meio da competitividade “espúria” , baseada em 
+desvalorizações cambiais, em baixos salários, e na destruição do meio ambiente.
+O segundo livro, conhecido por “casillero vacío” , é a continuidade de seus estudos 
+comparativos entre, por um lado, os padrões de crescimento dos países latino-
+americanos e, por outro, os das economias desenvolvidas e de outras economias em 
+desenvolvimento. O esquema que estrutura a comparação é engenhoso. Fajnzylber 
+toma os dois mecanismos centrais do desenvolvimento econômico e social, ou seja, 
+crescimento e distribuição da renda, e mostra, com base no comportamento entre 
+1970 e 1984 que os países de América Latina se dividiam em três grupos: os que haviam 
+crescido rapidamente mas tinham uma renda concentrada; os que tinham uma renda 
+13 Ver Fajnzylber (1983, 1990)
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+17
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+relativamente bem distribuída mas cresciam pouco; e os que se encontravam no pior 
+dos mundos, ou seja, tinham uma renda concentrada e não cresciam. À diferença, por 
+exemplo, de países como a República da Coréia, Espanha e Hungria, nenhum país 
+latino-americano se encontrava no grupo ideal, o dos que crescem e ao mesmo tempo 
+promovem um mínimo de justiça distributiva. Na tabela em que se distribuem os 
+quatro grupos – que é uma matriz em que os dois eixos são crescimento e distribuição 
+– se comprova que na América Latina o quadrante que reúne o grupo de países com 
+crescimento e boa distribuição está “vazio” , é o “casillero vacío”.
+Neste segundo livro, o autor põe ênfase nos dois pontos que constarão da 
+mensagem central da CEPAL a partir de 1990. Primeiro, abrir a caixa preta do 
+progresso técnico para agregar valor intelectual à produção de bens e serviços e, dessa 
+forma, fortalecer a competitividade; e, segundo, orientar o crescimento à equidade, de 
+maneira a preencher o “casillero vacío” latino-americano.14
+2.2. A ETAPA NEOESTRUTURALISTA (A PARTIR DE 1990)
+No fim dos anos 1980 eram amplas as evidências de que quase todos os países da 
+América Latina e o Caribe estavam movendo-se rapidamente à abertura comercial e 
+financeira, à privatização e à redução na intervenção estatal em geral. O contexto 
+político e ideológico internacional naquele momento era, como se sabe, muito 
+desfavorável à heterodoxia e hostil às formulações clássicas da CEPAL, por suas 
+cautelas com relação a mudanças na direção da liberalização comercial e de outras 
+desregulações.
+É relevante observar que o Conselho Deliberativo da CEPAL sempre foi 
+majoritariamente formado pelos governos dos países da América Latina. Naquele 
+início da década de 1990, a grande maioria desses governos abraçava com poucas 
+reservas as reformas institucionais em curso. Frente à sensação de irreversibilidade 
+política das reformas, o secretário-executivo Gert Rosenthal acolheu e impulsionou as 
+ideias de Fajnzylber como forma de se posicionar no debate ideológico da época, 
+14 Fajnzylber resgata, assim, as discussões sobre estilos ou padrões de crescimento dos anos 1960 e 1970, 
+e também a visão de Prebisch e Furtado de que a poupança e o investimento eram baixos na América 
+Latina devido à concentração de renda em simultâneo ao consumo conspícuo das classes proprietárias. 
+Ou seja, retoma a ideia da falta de austeridade e da baixa vocação ao investimento e ao progresso técnico 
+das elites da região.
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+18
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+reconhecendo o processo histórico de abertura como incontornável, mas se opondo 
+com firmeza à radicalidade da liberalização orientada pelo “Consenso de Washington”.15 
+A partir de 1990 a instituição foi levada à decisão de flexibilizar a concepção de 
+políticas de desenvolvimento que havia acompanhado o estruturalismo clássico nas 
+quatro décadas anteriores. No entanto, ao mesmo tempo em que admitia a 
+inevitabilidade de mudanças no marco regulatório, discutia-as de forma crítica. 
+Admitia a necessidade de revisões com relação à participação estatal na vida econômica 
+e a instrumentos e mecanismos de intervenção, mas continuava a defender a 
+importância da contribuição do Estado ao desenvolvimento socioeconômico, nos 
+âmbitos macroeconômico/financeiro, produtivo, social e ambiental. Tinha início, 
+assim, a fase que se pode denominar de neoestruturalista.
+O ponto de partida do desenho de uma nova estratégia de desenvolvimento 
+produtivo, social e de inserção internacional deu-se com o texto intitulado 
+“Transformação Produtiva com Equidade” , apresentado no período de sessões de 
+1990, e coordenado por Rosenthal e Fajnzylber. Admitiu-se a necessidade de maior 
+abertura comercial – contanto que gradual, seletiva, e protegida por uma taxa de 
+câmbio real alta e estável – como parte de um projeto de conquista de competitividade 
+por meio do fortalecimento da capacidade produtiva e da inovação (CEPAL, 1990). Ao 
+mesmo tempo, a industrialização continuava a ser considerada o eixo da transformação 
+produtiva e do progresso técnico, mas passava a ser entendida como um processo que 
+deve integrar o setor industrial ao agrícola e ao de serviços modernos, de forma a 
+homogeneizar a produtividade do sistema como um todo. O caráter “sistêmico” da 
+competitividade é realçado, com ênfases na importância da infraestrutura  física, na 
+formação de recursos humanos e na implementação de políticas que permitam à 
+região realizar o catch-up tecnológico e uma inserção internacional virtuosa. 
+A proposta foi a partir daí aprofundada em uma série de textos, em especial nos 
+documentos de períodos de sessões subsequentes. São os casos das proposições 
+relativas aos requisitos de simultaneidade entre equidade e transformação produtiva, e 
+da análise de suas complementaridades (CEPAL, 1992a), do realce à educação e ao 
+conhecimento como os “eixos fundamentais” da transformação produtiva com 
+equidade (CEPAL, 1992b). São, também, os casos da proposição de políticas para 
+melhorar a inserção na economia internacional, entre elas a do controle de fluxos de 
+capital estrangeiro de curto prazo e regulação financeira (CEPAL, 1995), do 
+reconhecimento de que se requer acelerar o crescimento para alcançar mudanças 
+15 A expressão é de Williamson (1990).
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+19
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+significativas em matéria de transformação produtiva, aumento de produtividade e 
+equidade (CEPAL, 1996). 
+A pesquisa sobre o funcionamento das economias latino-americanas e caribenhas 
+no novo contexto histórico passou a ocupar centralmente a instituição, em simultâneo 
+à formulação de estratégias e políticas alternativas à agenda reformista ortodoxa para 
+o desenvolvimento da região. Em lugar de um rechaço das reformas em seu conjunto, 
+que tendia a ser a atitude dos intelectuais cepalinos até fins dos anos 1980 – ou seja, em 
+lugar de uma “agenda negativa” – deslocou-se a argumentação a propostas de revisão 
+das reformas liberalizantes, especialmente em alguns elementos críticos aos objetivos 
+do crescimento e da distribuição. 
+Isso foi feito, destacadamente, nos casos da crítica da abertura financeira, da defesa 
+enfática da agenda de políticas industriais, tecnológicas e de com ércio exterior, da 
+reorientação nas reformas dos sistemas de seguridade e dos desenhos de políticas 
+sociais em diferentes áreas, e na questão da sustentabilidade ambiental. Além disso, e 
+não menos importante, foi feito no plano das recomendações na área fiscal, simbolizado 
+pelo conceito de “pacto fiscal” (CEPAL, 1998), numa abordagem que busca conciliar 
+as demandas sociais com a saúde fiscal e o equilíbrio macroeconômico, em condições 
+de amadurecimento das práticas democráticas.
+Neste ponto, o leitor é convidado a revisitar o Quadro 1, que mostra como as 
+análises cepalinas nos dois períodos são muito semelhantes. Como se ressalta naquele 
+quadro, centralmente, a conexão se dá por meio do diagnóstico que identifica baixa ou 
+inadequada diversidade produtiva e exportadora e, consequentemente, escassez de 
+divisas e vulnerabilidade externa – acentuadas, no período recente, pela volatilidade 
+de capitais. Além disso, se dá pela ideia de que prevalecem grande heterogeneidade 
+estrutural e, consequentemente, pobreza e desigualdade social. A heterogeneidade, 
+que antes se expressava por meio do conceito de “subemprego” , passou a ser identificada 
+também pela ideia de “informalidade” , com a novidade, no Neoestruturalismo, da 
+inclusão da escassez de proteção social entre os determinantes do quadro social injusto 
+(por exemplo, CEPAL, 2006). Não menos significativo, dá-se pelo reconhecimento de 
+inúmeras falhas e insuficiências no arcabouço institucional de suporte ao 
+desenvolvimento socioeconômico (por exemplo, CEPAL, 2014).16
+16 Cabe observar que a proximidade entre o Neoestruturalismo e o Estruturalismo clássico se dá com maior 
+intensidade nos terrenos do desenvolvimento produtivo e da inserção internacional pelo comércio e no 
+da análise do emprego, da pobreza e da distribuição de renda. Nos outros dois grandes temas do pensa -
+mento cepalino recente, ou seja, macroeconomia e finanças, e sustentabilidade ambiental, a comparação 
+com os escritos da fase estruturalista é muito menos sobressalente. No primeiro caso, o tema foi tratado 
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+20
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+Se, para alguns, o que a CEPAL fez nos anos 1990 correspondeu a uma “rendição” 
+ao Neoliberalismo, para outros o Neoestruturalismo inaugurado nesses anos foi, salvo 
+raras exceções – encontradas em uma ou outra passagem pouco felizes, mas que não 
+comprometem o conjunto da obra - a f órmula alternativa à neoliberal de seguir 
+influenciando os países da região a partir da perspectiva teórica e metodológica da 
+CEPAL original. A base analítica da nova fase permanece estruturalista, apesar das 
+modificações que visaram adaptá-la à nova realidade regional, e permite concluir que 
+o pensamento neoestruturalista é, de fato, estruturalista. 
+A leitura atenta dos textos da CEPAL nas décadas de 2000 e de 2010 fortalece essa 
+última interpretação. A par de manter o enfoque “histórico-estrutural” e a abordagem 
+“centro-periferia” , a CEPAL prosseguiu em sua trajetória de exposição das ideias em 
+forma criativa. Isso foi feito por meio da incorporação de todo um conjunto de 
+novidades analíticas que permitiram renovar a forma com que a instituição contribui 
+ao entendimento da realidade latino-americana.
+Na introdução ao livro sobre 60 anos de pensamento na CEPAL (BIELSCHOWSKY , 
+2010) argumentou-se terem sido cinco as principais novidades incorporadas à análise 
+da instituição na sexta década: a perspectiva de uma agenda para a era global; os 
+conceitos sociopolíticos de cidadania e coesão social; a incorporação de um amplo 
+balanço das luzes e sombras dos desempenhos dos países nos âmbitos econ ômico e 
+social a partir das reformas neoliberais; a fusão entre as abordagens estruturalista e 
+schumpeteriana nas análises do desenvolvimento produtivo e de inserção internacional; 
+e o acento nas políticas macroeconômicas anticíclicas frente à volatilidade de capitais. 
+Esse conjunto foi, não sem razão, exibido como prova de vitalidade intelectual e 
+refinamento no pensamento neoestrutura lista na sexta década. 
+A sétima década não ficou atrás. Alinhados com a história intelectual da CEPAL, 
+novos elementos conceituais foram sendo gradualmente incorporados ao longo do 
+período, formando, nos marcos do Neoestruturalismo, um interessante rearranjo 
+analítico, no entorno a um grande esforço por articular a questão da desigualdade com 
+as demais dimensões da problemática de superação do subdesenvolvimento.
+No Quadro 3 listam-se essas novidades conceituais. As três primeiras correspondem 
+a elementos que ajudam a articular diferentes dimensões do desenvolvimento num 
+esquema analítico integrado. As demais são novidades que contribuem às análises nos 
+quatro âmbitos investigativos conduzidos pelas diferentes divisões da CEPAL. Quatro 
+delas são encontradas no âmbito da dimensão social (4 a 7), duas pertencem ao âmbito 
+nas primeiras décadas com ênfase menor do que a partir dos anos 1980; e, no segundo, o tema apenas 
+passou a ganhar relevância na produção cepalina a partir de fins dos anos 1970. 
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+21
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+macroeconômico (8 e 9), quatro ao âmbito produtivo (10 a 13) e duas ao âmbito da 
+sustentabilidade ambiental (14 e 15). 
+Quadro 3 – Quinze novidades analíticas do período 2008-2018
+Dimensões Novas formulações e principais ênfases
+Três elementos 
+interdimensionais 
+básicos
+1.  A centralidade da igualdade
+2.  Pactos para a Igualdade
+3.  A economia política e a cultura do privilégio
+Social
+4.  Análise multidimensional da pobreza
+5.  Matriz de desigualdade social
+6.  Autonomia das mulheres
+7.  Tendências demográficas: envelhecimento e migrações
+Macroeconômico
+8.  Macroeconomia para o crescimento (ênfase renovada)
+9.  Ciclos reais de produção e investimento: intensidade e duração
+Produtivo
+10.  Hiatos de produtividade externa (“não-convergência”) e interna (“heterogeneidade estrutural”)
+11.  Mudança estrutural progressiva: eficiências Keynesiana, Schumpeteriana e Ambiental
+12.  Revolução digital, conectividade de banda larga
+13.  Governança de recursos naturais
+Ambiental
+14.  Economia de câmbio climático
+15.  Grande impulso ambiental
+Fonte: Bárcena, Bielschowsky e Torres (2018, p. 40).
+A MODO DE CONCLUSÃO
+Neste artigo apresentou-se uma breve visão de conjunto sobre a abordagem 
+estruturalista da CEPAL e sua evolução nos últimos 70 anos, desde a divulgação por 
+Prebisch do Manifesto Latino-Americano em 1949.  
+Discorreu-se sobre a história intelectual da CEPAL nas etapas estruturalista e neo-
+estruturalista, argumentando-se que ela corresponde a uma história de continuidade 
+com mudanças: apesar das alterações de ênfases ao longo dos últimos 70 anos – que 
+acompanharam a evolução da história real, econ ômica, social e política de América 
+Latina – a orientação intelectual da CEPAL conservou os elementos centrais da 
+construção analítica inaugural. 
+Argumentou-se que o Estruturalismo e o Neoestruturalismo correspondem a um 
+corpo analítico dedicado ao estudo do subdesenvolvimento como processo evolutivo 
+específico das estruturas produtivas, sociais e institucionais heterogêneas da América 
+Latina (e o Caribe) e dedicado a questões e políticas centrais às mesmas. E ressaltou-se 
+que a natureza da problemática do desenvolvimento latino-americano foi descrita pela 
+CEPAL com foco nas seguintes questões centrais: (i) baixa/inadequada diversidade 
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+22
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+produtiva e exportadora, determinante de s érias restrições internas e externas ao 
+crescimento, e de vulnerabilidade externa (por com ércio e relações financeiras); (ii) 
+subemprego e informalidade no mercado de trabalho, heterogeneidade estrutural, 
+pobreza e má distribuição de renda; (iii) fragilidades institucionais que condicionam a 
+capacidade de investir, inovar e realizar proteção social adequada; (iv) interações entre 
+crescimento e má distribuição de renda e de propriedade (padrão, estilo de 
+desenvolvimento); (v) insustentabilidade ambiental dos padrões de produção e 
+consumo (a partir de 1980); e (vi) determinantes não-monetários do processo 
+inflacionário recorrente e, mais recentemente, do impacto instabilizador dos fluxos de 
+capitais de curto prazo sobre a macroeconomia dos países da região.
+No início do presente artigo reproduziu-se o primeiro parágrafo do “Manifesto 
+Latino-Americano” . O fato de o artigo estar sendo divulgado pela Revista de Economia 
+Contemporânea do Instituto de Economia da UFRJ, no qual seu autor leciona e faz 
+pesquisa sobre desenvolvimento da América Latina e sobre a economia brasileira, serve 
+de incentivo a que ele termine este texto com o último parágrafo do Manifesto. Afinal, 
+neste momento de dificuldades e perplexidades pelas quais, 70 anos depois, passam a 
+América Latina e o Brasil, o parágrafo conclusivo do Manifesto se presta com grande 
+atualidade à mobilização do corpo docente e do alunado do IE-UFRJ – e dos leitores da 
+REC em geral – para a investigação sobre a realidade da América Latina e do Brasil: 
+(…) Si se logra realizar su investigación con imparcialidad científica y estimular la 
+formación de economistas capaces de ir captando las nuevas manifestaciones de la 
+realidad, previendo sus problemas y colaborando en la busca de soluciones, se habrá 
+hecho un servicio de incalculable importancia para el desarrollo económico de la 
+América Latina. (PREBISCH, 1962[1949], p. 25)
+REFERÊNCIAS
+BÁRCENA. A.; PRADO, A. El imperativo de la igualdad : Por un desarrollo sostenible en 
+América Latina y el Caribe. 1 ed. Buenos Aires: Siglo Veintiuno Editores Argentina, 2016.
+BARCENA, A.; BIELSCHOWSKY , R.; TORRES, M. “El séptimo decenio de la CEPAL: una 
+reseña de su producción intelectual” . In: BIELSCHOWSKY , R.; TORRES, M. (Orgs.). 
+Desarrollo e igualdad: e l pensamiento de la CEPAL en su séptimo decenio. Textos 
+seleccionados del período 2008-2018. Santiago de Chile CEPAL, 2018. 
+BIELSCHOWSKY , R. (Org.). Sesenta años de la CEPAL: textos seleccionados del decenio 1998-
+2008. Buenos Aires: CEPAL/Siglo XXI, 2010.
+BIELSCHOWSKY, R. Sesenta años de la CEPAL: estructuralismo y neoestructuralismo. Revista 
+CEPAL, Santiago, n. 97, abr. 2009. 
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+23
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+BIELSCHOWSKY , R. (Org.). Cinquenta anos de pensamento na CEPAL. Rio de Janeiro: Record/
+CEPAL, 2000.
+BIELSCHOWSKY , R. Pensamento econômico brasileiro . O ciclo ideológico do 
+desenvolvimentismo. Rio de Janeiro: Contraponto, 1994.
+CARDOSO, F . H.; FALETTO, E. “Dependência e desenvolvimento na América Latina” . In: 
+BIELSCHOWSKY , R. (Org.). Cinquenta anos de pensamento na CEPAL . Rio de Janeiro: 
+Record/CEPAL, 2000[1969], p. 493-519.
+CASTRO, A. B.; LESSA, C. F . Introdução à economia: uma abordagem estruturalista. Rio de 
+Janeiro: Editora Forense, 1970.
+CEPAL – COMISSÃO ECONÔMICA PARA A AMÉRICA LATINA E O CARIBE. La protección 
+social de cara al futuro: acceso, financiamiento y solidariedade. Santiago de Chile: CEPAL, 
+2006.
+CEPAL – COMISSÃO ECONÔMICA PARA A AMÉRICA LATINA E O CARIBE. Pactos para 
+la igualdad: hacia un futuro sostenible. Trigésimo quinto período de sesiones de la CEPAL. 
+Lima, 5 a 9 de mayo de 2014. Santiago de Chile: CEPAL, 2014.
+CEPAL – COMISSÃO ECONÔMICA PARA A AMÉRICA LATINA E O CARIBE. El pacto 
+fiscal: fortaleza, debilidades, desafíos. Sínteses. (Series Libros de la CEPAL, n. 47) Santiago 
+de Chile: CEPAL, 1998.
+CEPAL – COMISSÃO ECONÔMICA PARA A AMÉRICA LATINA E O CARIBE. Fortalecer el 
+desarrollo: interacciones entre macro y microeconomia. (Series Libros de la CEPAL, n. 42) 
+Santiago de Chile: CEPAL, 1996.
+CEPAL – COMISSÃO ECONÔMICA PARA A AMÉRICA LATINA E O CARIBE. América 
+Latina y el Caribe : políticas para mejorar la inserción en la economía mundial. (Series 
+Libros de la CEPAL, n. 40) Santiago de Chile: CEPAL, 1995.
+CEPAL – COMISSÃO ECONÔMICA PARA A AMÉRICA LATINA E O CARIBE. Equidad y 
+transformación productiva: un enfoque integrado. (Series Libros de la CEPAL, n. 32) 
+Santiago de Chile: CEPAL, 1992a.
+CEPAL – COMISSÃO ECONÔMICA PARA A AMÉRICA LATINA E O CARIBE. Educación y 
+conocimiento: eje de la transformación productiva con equidade. (Series Libros de la 
+CEPAL, n. 33) Santiago de Chile: CEPAL, 1992b.
+CEPAL – COMISSÃO ECONÔMICA PARA A AMÉRICA LATINA E O CARIBE. 
+Transformación productiva con equidad: la tarea prioritaria del desarrollo de América Latina 
+y el Caribe en los años noventa. (Series Libros de la CEPAL, n. 25) Santiago de Chile: 
+CEPAL, 1990.
+CEPAL – COMISSÃO ECONÔMICA PARA A AMÉRICA LATINA E O CARIBE. Estudio 
+económico de América Latina 1971. Nova Y ork: CEPAL, 1972.
+CEPAL – COMISSÃO ECONÔMICA PARA A AMÉRICA LATINA E O CARIBE. El mercado 
+Común Latinoamericano. Ciudad de Mexico: CEPAL, 1959.
+CEPAL – COMISSÃO ECONÔMICA PARA A AMÉRICA LATINA E O CARIBE. Estúdio 
+económico de América Latina 1949. Santiago de Chile: CEPAL, 1951. 
+DOSMAN, E. J. Raúl Prebisch (1901-1986):  a construção da América Latina e do Terceiro 
+Mundo. Rio de Janeiro: Ed. Contraponto-Centro Internacional Celso Furtado, 2011.
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+24
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+FAJNZYLBER, F . Industrialización en América Latina: de la caja negra al casillero vacío. 
+Cuadernos de la CEPAL, Santiago de Chile, n. 60, 1989.
+FAJNZYLBER, F . La industrialización trunca de América Latina. México, D.F .: Editorial Nueva 
+Imagen, 1983.
+FERRER, A. La economia argentina: las etapas de su desarrollo y problemas actuales, Buenos 
+Aires: FCE, 1979.
+FURTADO, C. Formação econômica do Brasil. Rio de Janeiro: Fundo de Cultura, 1959.
+FURTADO, C. Desenvolvimento e subdesenvolvimento. Rio de Janeiro: Fundo de Cultura, 1961.
+FURTADO, C. Desarrollo y estancamiento en América latina: un enfoque estructuralista. 
+Investigación económica, v. 29, n. 113, p. 43-73, feb./mar. 1969.
+GRACIARENA, J. Poder y estilos de desarrollo: una perspectiva heterodoxa. Revista de la 
+CEPAL, Santiago de Chile, n. 1, 1976.
+HIRSCHMAN, A. O. The strategy of economic development. New Heaven: Y ale University Press, 
+1958.
+MACARIO, S. Proteccionismo e Industrialización en América Latina. Boletín Económico de 
+América Latina, Santiago de Chile, v. 9, n. 1, mar. 1964.
+MARINHO, L. C. “La CEPAL y las concepciones del desarrollo en América Latina” . In: 
+TALAVERA, P . (Coord.). La crisis económica en América Latina . Barcelona: Sendai 
+Ediciones, 1991.
+NOYOLA V ÁSQUEZ, J. Inflación y desarrollo económico en Chile y México. Panorama 
+Económico, Santiago de Chile, v. 11, n. 170, jul. 1957.
+PINTO, A. Chile: un caso de desarrollo frustado. Santiago do Chile: Ed. Universitária, 1956.
+PINTO, A. Concentración del progreso  técnico y de sus frutos en el desarrollo de América 
+Latina. El Trimestre Económico, n. 125, enero-marzo, 1965.
+PINTO, A. Naturaleza e implicaciones de la “heterogeneidad estructural” de la América Latina” . 
+El Trimestre Económico, n. 145, enero/mar. 1970.
+PINTO, A. Notas sobre los estilos de desarrollo en América Latina. Revista de la CEPAL , 
+Santiago de Chile, n. 1, 1976.
+PREBISCH, R. Problemas teóricos y prácticos del crecimiento económico. (Serie Conmemorativa 
+del Veinticinco Aniversario de la CEPAL 2) 2. ed. México, D.F .: CEPAL, 1973[1951].
+PREBISCH, R. El desarrollo económico de la América Latina y algunos de sus principales 
+problemas. Boletín Económico de América Latina, Santiago de Chile, v. 7, n. 1, 1962[1949]. 
+PREBISCH, R. El falso dilema entre el desarrollo y la estabilidad monetaria. Boletín Económico 
+de América Latina, Santiago de Chile, v. 4, n. 3, 1961.
+RODRÍGUEZ, O. El estructuralismo latino-americano. México, DF .: Siglo XXI/ CEPAL, 2006.
+RODRÍGUEZ, O. La teoría del subdesarrollo de la CEPAL. México, DF .: Siglo XXI, 1981.
+SINGER, H. W . The distribution of gains between investing and borrowing countries. American 
+Economic Review, v. 40, n. 2, p. 473-485, May 1950.
+BIESLCHOWSKY , R. Do “Manifesto latino-americano” de Raúl Prebisch aos dias de hoje: 70 anos de estruturalismo na CEPAL
+25
+DOI: 10.1590/198055272411Rev. Econ. Contemp., v. 24, n. 1, p. 1 -25, 2020, e202411
+SUNKEL, O. Desarrollo, subdesarrollo, dependencia, marginación y desigualdades espaciales: 
+hacia un enfoque totalizante. EURE, Santiago de Chile, CIDU/CLACSO, v. 1, n. 1, 1970.
+SUNKEL, O. La inflación chilena: un enfoque heterodoxo. El Trimestre Económico, v. 25, n. 4, 
+oct./dic. 1958.
+SUNKEL, O.; GLICO, N. (Orgs.) Estilos de desarrollo y medio ambiente en la América Latina . 
+México, DF .: Fondo de Cultura Económica, 1981.
+TAV ARES, M. C. Da substituição de importações ao capitalismo financeiro. Rio de Janeiro: Zahar 
+Editores, 1972.
+TAV ARES, M. C.; SERRA, J. Más allá del estancamiento: una discusión sobre el estilo de 
+desarrollo reciente en Brasil. El Trimestre Económico, n. 152, nov./dic. 1971.
+WILLIAMSON, J. The Washington Consensus. Washington, DC: Institute for International 
+Economics, 1990.
+WOLFE, M. Enfoques del desarrollo: ¿de quién y hacia qué? Revista de Ia CEPAL, Santiago de 
+Chile, n. 1, 1976.

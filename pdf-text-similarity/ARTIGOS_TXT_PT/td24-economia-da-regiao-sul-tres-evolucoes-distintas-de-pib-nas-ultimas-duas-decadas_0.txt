@@ -1,0 +1,854 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+TEXTOS PARA DISCUSSÃO #24 
+02.04.2025 
+Economia da Região Sul:  
+três evoluções distintas de PIB  
+nas últimas duas décadas 
+Juliana Trece 
+Coordenadora do Monitor da Atividade Econômica 
+ 
+Claudio Considera 
+Coordenador do Núcleo de Contas Nacionais 
+ 
+Isabela Duarte Kelly 
+Assistente de pesquisa do Núcleo de Contas Nacionais 
+
+ 
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO 
+ 
+1. PRINCIPAIS RESULTADOS .................................................................................... 3 
+2. ESTRUTURA DA ATIVIDADE ECONÔMICA DA REGIÃO SUL ................................... 4 
+3. EVOLUÇÃO REAL DA ATIVIDADE ECONÔMICA ..................................................... 5 
+4. ANÁLISE POR UNIDADES DA FEDERAÇÃO ............................................................ 7 
+5. ESTIMATIVAS DE PIB PARA 2023-2024 E ANÁLISE TRIMESTRAL ......................... 12 
+ 
+  
+ 
+ 
+3 
+ 
+No mês passado o IBGE divulgou que o PIB brasileiro cresceu 3,4%, em 2024. 
+Em um país de tamanho continental como o Brasil, é pouco provável que esse 
+desempenho seja observado em todas as suas regiões ou estados. Os resultados 
+regionais oficiais para 2024 só serão divulgados em 2 anos, tempo necessário 
+para que o IBGE tenha todas as informações estruturais para a completa 
+elaboração do Sistema de Contas Regionais. 
+A partir deste estudo, como forma de antecipar a tendência do desempenho 
+econômico das regiões, o Núcleo de Contas Nacionais do FGV IBRE inicia a 
+elaboração de análises trimestrais sobre as regiões e algumas Unidades da 
+Federação que tenham dados conjunturais que permitam mensurar a evolução de 
+suas economias. Para iniciar essa análise, optou-se pela região Sul. 
+Esse texto está estruturado da seguinte forma: (i) principais resultados do estudo; 
+(ii) estrutura do PIB da região Sul; (iii) análise dos dados da evolução real da 
+atividade econômica; (iv) análise dos dados das unidades da federação; (v) 
+estimativas trimestrais para 2023 e 2024. 
+1.  Principais resultados 
+• A evolução do PIB da região Sul tem se mantido abaixo da nacional ao 
+longo de quase todo o período entre 2001 e 2024. 
+• Não é apenas uma atividade econômica que explica o desempenho do PIB 
+da região Sul abaixo do Brasil, sendo um padrão disseminado nas três 
+grandes atividades (agropecuária, indústria e serviços), embora com 
+diferentes intensidades. 
+• Desde 2017, a evolução do PIB do estado de Santa Catarina tem crescido 
+expressivamente. Na análise do crescimento médio do PIB entre 2001 e 
+2024, observa-se que o PIB de Santa Catarina cresceu 2,5% ao ano, tendo 
+sido o único estado da região Sul a crescer mais do que o Brasil. Por sua 
+vez, o crescimento médio do PIB do Rio Grande do Sul, entre 2001 e 2024 
+foi de 1,5% ao ano, tendo sido o único estado da região Sul que cresceu à 
+taxa média inferior a 2% ao ano no período. 
+• Essas realidades distintas dentro de uma mesma região colaboraram para 
+a modificação da ordem dos estados com a maior geração de valor 
+adicionado na região. O Paraná superou o Rio Grande do Sul pela primeira 
+vez, como estado com maior valor adicionado da região em 2013 e, desde 
+então, esses dois estados tem alternado de posição. Ao mesmo tempo, 
+Santa Catarina fortaleceu o seu desempenho no PIB da região Sul tendo, 
+entre 2002 e 2022, aumentado em 5,3 p.p. sua participação. 
+• Nos anos de 2023 e 2024, em que ainda não estão disponíveis os dados do 
+Sistema de Contas Regionais do IBGE, estima-se que o PIB da região Sul 
+tenha crescido mais que o do Brasil. Em 2023, o expressivo crescimento de 
+6,1% do PIB do Paraná foi o responsável por este resultado enquanto, em 
+ 
+ 
+4 
+ 
+2024, Santa Catarina e o Rio Grande do Sul colaboraram para o melhor 
+desempenho da região Sul em comparação ao país. Apesar de o Rio 
+Grande do Sul ter enfrentado a maior enchente de sua história em maio de 
+2024, o PIB do estado cresceu 4,2% em 2024. 
+• Os resultados apresentados mostram que, mesmo dentro de uma região 
+com características semelhantes, podem-se observar evoluções muito 
+diferentes da economia. O desempenho do PIB de Santa Catarina, com 
+forte crescimento desde 2017, por exemplo, se contrapõe as dificuldades 
+encontradas pelo Rio Grande do Sul que, embora tenha tido crescimento do 
+PIB em praticamente todo o período entre 2001 e 2024, em geral 
+apresentou taxas menores que as registradas no Brasil e em seus estados 
+vizinhos da região. 
+2.  Estrutura da atividade econômica da Região Sul 
+A Região Sul do Brasil, que compreende os estados do Paraná, Santa Catarina e 
+Rio Grande do Sul, representa cerca de 7% do território nacional. Em termos 
+populacionais, segundo o Censo Demográfico do IBGE de 2022, 14,7% da 
+população brasileira vive nessa região que, representa aproximadamente 17% do 
+PIB nacional, de acordo com o Sistema de Contas Regionais do IBGE (SCR). 
+No Gráfico 1 é apresentada a distribuição do valor adicionado da região, pelas três 
+grandes atividades econômicas (agropecuária, indústria e serviços), ao longo dos 
+anos a partir das informações do IBGE.  
+Gráfico 1 - Participação %, anual, das atividades econômicas no valor 
+adicionado da Região Sul 
+ 
+Fonte: IBGE - Sistema de Contas Regionais. Elaboração própria. 
+8,6
+12,1
+10,0
+7,8
+8,3
+8,5
+9,3
+8,4
+8,6
+9,4
+7,3
+8,2
+8,3
+8,5
+9,6
+8,6
+8,2
+8,3
+10,9
+12,7
+10,8
+27,9
+26,2
+25,3
+24,8
+24,2
+24,6
+25,0
+25,4
+25,8
+26,5
+28,1
+29,2
+29,2
+28,6
+28,2
+28,8
+29,1
+30,1
+30,8
+28,7
+29,1
+63,5
+61,7
+64,8
+67,3
+67,4
+66,9
+65,7
+66,2
+65,6
+64,1
+64,6
+62,6
+62,5
+62,9
+62,2
+62,6
+62,8
+61,6
+58,3
+58,6
+60,1
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+2022
+2021
+2020
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+Agropecuária Indústria Serviços
+ 
+ 
+5 
+ 
+Observa-se que o setor de serviços1 é a atividade econômica com maior 
+participação no valor adicionado da região, assim como o é na economia 
+brasileira. Em termos de composição, destacam-se as atividades associadas a 
+outros serviços2 e ao comércio como as de maior participação no valor adicionado 
+do setor. 
+A indústria3 é a segunda maior atividade no valor adicionado da região. Embora as 
+indústrias extrativas praticamente inexistam nos estados do Sul, a região ainda 
+assim teve uma maior participação da indústria do que a observada no país 
+(25,3%), o que é explicado pela forte presença regional da indústria de 
+transformação. 
+A atividade agropecuária representou 9,2% do valor adicionado do Sul, em média, 
+entre 2002 e 2022. No Brasil, este percentual foi de 5,7%. Apesar de esta 
+atividade representar pouco menos de 10% do valor adicionado da região Sul, ela 
+é bastante influente na agropecuária nacional. Em torno de 27% do valor 
+adicionado da agropecuária nacional é gerado na Região Sul, sendo que mais de 
+80% concentrado nos estados do Paraná e Rio Grande do Sul. Em publicação no 
+blog do IBRE, sobre o papel da agropecuária no desempenho da economia 
+brasileira de 2023, abordamos a relevância da agropecuária da região para o país. 
+No Gráfico 2 é apresentada a participação do valor adicionado de cada atividade 
+econômica da região Sul em comparação ao Brasil. 
+  
+Gráfico 2 - Participação do valor adicionado da região Sul, por atividades 
+econômicas, no valor adicionado do Brasil, Média de 2002 a 2022 - % 
+ 
+Fonte: IBGE – Sistema de Contas Regionais. Elaboração própria. 
+3.  Evolução real da atividade econômica 
+De acordo com dados do Sistema de Contas Regionais do IBGE, o PIB da região 
+Sul cresceu à taxa média de 1,88% ao ano, de 2002 a 2022, sendo o menor 
+ 
+1 O setor de serviços é composto por comércio, transportes, informação e comunicação, atividades financeiras, atividades 
+imobiliárias, administração pública e outros serviços. 
+2 A atividade de outros serviços compreende os setores de alojamento, alimentação fora da residência, atividades 
+profissionais, educação privada, saúde privada, entre outras. 
+3 Composta por indústrias extrativas, indústria de transformação, eletricidade e gás, água, esgoto, atividades de gestão de 
+resíduos, e construção. 
+27%
+18%
+15%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+Agropecuária Indústria Serviços
+ 
+ 
+6 
+ 
+crescimento médio anual de PIB entre as cinco regiões do país. O Gráfico 3 
+mostra os crescimentos de cada região e o do Brasil. 
+Gráfico 3 - Crescimento médio anual do PIB entre 2002 e 2022, por região - % 
+ 
+Fonte: IBGE – Sistema de Contas Regionais. Elaboração própria. 
+Na análise da evolução do PIB real, nota-se que a trajetória da região tem se 
+mantido abaixo da nacional em quase todo o período. O Gráfico 4, apresenta a 
+evolução do PIB real por regiões para o período 2001-2024.4 
+Gráfico 4 – Evolução do PIB real por regiões – 2001 = 100 
+ 
+Fonte: Brasil e dados regionais de 2021 a 2022: IBGE. Dados regionais de 2023 e 2024: 
+Estimativas dos autores com base em dados conjunturais do IBGE, EPE, ANP, DataSUS e INEP. 
+Elaboração própria. 
+As barras cinzas mostram a diferença entre a evolução do PIB do Brasil e o da 
+região Sul. Nota-se que o início do processo de distanciamento entre as duas 
+séries foi em 2005, com acentuação até 2012, ponto de máximo descolamento. 
+Desde 2015, as séries voltaram a se aproximar, tendência observada até 2021. 
+A partir dos dados da Tabela 1, nota-se que esse descolamento foi disseminado 
+entre as três grandes atividades econômicas, principalmente devido às taxas da 
+agropecuária e da indústria. Já a aproximação posterior deveu-se principalmente 
+ao desempenho do setor de serviços. Enquanto o valor adicionado dos serviços 
+na região cresceu à taxa média de 1,0% ao ano, entre 2012 e 2021, no Brasil o 
+crescimento médio do setor foi de apenas 0,4% ao ano no mesmo período. Os 
+ 
+4 Em todo o trabalho, os dados regionais de 2023 e 2024 são estimativas dos autores enquanto, o dad o do Brasil é o oficial 
+divulgado nas Contas Nacionais Trimestrais do IBGE. 
+ 
+3,22
+2,34 1,91 1,88
+3,23
+2,16
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+3,5
+Norte Nordeste Sudeste Sul Centro-Oeste
+Regiões Brasil
+-01
+04
+09
+14
+19
+24
+29
+90
+110
+130
+150
+170
+190
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+Descolamento do Brasil com a Região Sul Brasil Região Sul Demais regiões do Brasil
+ 
+ 
+7 
+ 
+valores adicionados dos setores da agropecuária e industrial também mostraram 
+desempenho melhor na região Sul do que o brasileiro naquele período. 
+No que tange a agropecuária, a taxa de crescimento média da região foi de 4,0% 
+ao ano, enquanto no país foi de 3,1%. No caso da indústria, embora tenha 
+ocorrido retração no valor adicionado das duas localidades, a da região Sul (média 
+de -0,7%, ao ano) foi menor que a do país (média de -0,9% ao ano). A exceção 
+desse período, em todos os demais anos analisados o crescimento médio no valor 
+adicionado das atividades foi sempre menor na região do que o observado no 
+país. 
+Tabela 1 – Taxa de variação média por período, atividade e região - % 
+  Brasil Região Sul 
+  PIB Agropecuária Indústria¹ Serviços PIB Agropecuária Indústria¹ Serviços 
+2001-24 2.3 3.4 1.5 2.5 2.0 2.3 1.0 2.4 
+2001-12 3.8 3.4 3.4 3.8 2.9 1.6 2.4 3.2 
+2012-21 0.2 3.1 -0.9 0.4 0.8 4.0 -0.7 1.0 
+2021-24 3.3 3.9 2.2 3.6 2.4 0.0 1.3 3.5 
+Fonte: Brasil e dados regionais de 2021 a 2022: IBGE. Dados regionais de 2023 e 2024: 
+Estimativas dos autores com base em dados conjunturais do IBGE, EPE, ANP, DataSUS e INEP. 
+Elaboração própria. 
+A partir de 2022, novamente, as séries voltaram a se descolar com todas as três 
+grandes atividades econômicas com crescimento mais baixos no Sul que no país. 
+Estes resultados mostram que o desempenho do PIB da região é um padrão 
+disseminado nas três grandes atividades, embora com diferentes intensidades. 
+4.  Análise por unidades da federação 
+O Sul é uma das regiões com distribuição de valor adicionado mais similar entre 
+os seus estados. Ao longo dos anos, nota-se que esse equilíbrio tem ficado ainda 
+maior com a perda de participação do Rio Grande do Sul e aumento da 
+participação de Santa Catarina no PIB regional. Tal processo levou a uma 
+modificação da ordem dos estados que mais geram valor na região. 
+O Rio Grande do Sul, que em 2002 respondia por 40,9% do PIB da região, passou 
+para a segunda posição, em 2022, com 35,5%. Em 2013, o Paraná superou o Rio 
+Grande do Sul pela primeira vez, como estado com maior valor adicionado da 
+região e, desde então, esses dois estados tem alternado de posição. Ao mesmo 
+tempo, Santa Catarina tem fortalecido o seu desempenho no PIB do Sul tendo 
+aumentado em 5,3 p.p. sua participação entre 2002 e 2022. O Gráfico 5 apresenta 
+essas participações. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+ 
+Gráfico 5 – Participação das UF no PIB da região Sul - % 
+ 
+Fonte: IBGE - Sistema de Contas Regionais. Elaboração própria. 
+Pela análise da evolução do PIB real, apresentada no Gráfico 6, observa-se que o 
+Rio Grande do Sul descola da trajetória regional a partir de 2004, ficando 
+consistentemente abaixo de seus vizinhos, Paraná e Santa Catarina. 
+Gráfico 6 – Evolução do PIB da Região Sul por UF - 2001 = 100 
+ 
+Fonte: Brasil e dados regionais de 2021 a 2022: IBGE. Dados regionais de 2023 e 2024: 
+Estimativas dos autores com base em dados conjunturais do IBGE, EPE, ANP, DataSUS e INEP. 
+Elaboração própria. 
+Desde 2017, a evolução do PIB de Santa Catarina tem crescido expressivamente. 
+Na análise do crescimento médio do PIB entre 2001 e 2024, apresentada no 
+Gráfico 7, observa-se que o PIB de Santa Catarina (2,5% ao ano) foi o único da 
+região que cresceu mais que o do Brasil (2,3% ao ano). Esse fato deve-se ao forte 
+36,7
+35,3
+37,3
+36,7
+36,8
+37,6
+37,6
+37,4
+36,7
+37,9
+37,3
+36,9
+36,3
+37,1
+37,3
+37,8
+36,6
+36,9
+37,6
+37,5
+36,5
+27,8
+27,5
+26,7
+25,4
+24,9
+24,7
+24,1
+24,7
+25,6
+24,4
+25,1
+25,0
+24,8
+24,4
+24,4
+23,7
+24,2
+23,6
+22,4
+21,8
+22,6
+35,5
+37,3
+36,0
+37,9
+38,2
+37,7
+38,3
+37,9
+37,7
+37,7
+37,6
+38,1
+38,9
+38,5
+38,2
+38,5
+39,2
+39,5
+40,0
+40,7
+40,9
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+2022
+2021
+2020
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+Paraná Santa Catarina Rio Grande do Sul
+90
+100
+110
+120
+130
+140
+150
+160
+170
+180
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+Região Sul Paraná Santa Catarina Rio Grande do Sul
+ 
+ 
+9 
+ 
+crescimento apresentado pelo estado entre 2012 e 2021 (1,6% ao ano), em 
+comparação a estagnação da economia brasileira no período (0,2% ao ano). 
+Gráfico 7 – PIB - Taxa de variação média anual por período e regiões - % 
+ 
+Fonte: Brasil e dados regionais de 2021 a 2022: IBGE. Dados regionais de 2023 e 2024: 
+Estimativas dos autores com base em dados conjunturais do IBGE, EPE, ANP , DataSUS e INEP. 
+Elaboração própria. 
+ 
+Ainda de acordo com o Gráfico 7, destaca-se o fraco desempenho da economia 
+gaúcha. O crescimento médio do PIB entre 2001 e 2024 foi de 1,5% ao ano, 
+sendo o único estado analisado que cresceu à taxa média inferior a 2%. O Paraná, 
+embora tenha apresentado crescimento médio acima do nacional apenas na 
+análise a partir de 2012, não apresentou distâncias tão significativas nos períodos 
+anteriores. O Rio Grande do Sul, em contrapartida, à exceção do período entre 
+2012 e 2021, apresentou o menor crescimento em todos os demais períodos, o 
+que indica realidades distintas, mesmo dentro da mesma região. 
+Na análise por atividades econômicas e localidades, nota-se que o valor 
+adicionado de todas as atividades do Rio Grande do Sul evoluiu abaixo da média 
+da região. Na agropecuária, esse padrão torna-se menos evidente; porém, na 
+indústria e nos serviços, nota-se claro descolamento em relação aos demais 
+estados da região. 
+O Gráfico 8 mostra a evolução da agropecuária por estados. Apesar das 
+oscilações decorrentes de características da lavoura, nota-se forte redução do 
+valor adicionado da atividade no Rio Grande do Sul em 2022, ficando abaixo da 
+série de Santa Catarina. Neste ano, ocorreu forte estiagem que comprometeu a 
+produção de lavouras gaúchas importantes, como a de soja (-54,3%) e de milho (-
+31,7%), segundo dados do Levantamento Sistemático da Produção Agrícola do 
+IBGE (LSPA). Apesar da recuperação em 2023 e 2024, a evolução do valor 
+adicionado da agropecuária do Rio Grande do Sul ainda segue abaixo da trajetória 
+do Paraná e de Santa Catarina. 
+ 
+ 
+2,3
+3,8
+0,2
+3,2
+2,0
+2,9
+0,8
+2,4
+2,2
+3,4
+0,4
+3,5
+2,5
+3,2
+1,6
+3,0
+1,5
+2,3
+0,8 0,9
+2,3
+3,9
+0,1
+3,4
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+3,5
+4,0
+4,5
+2001-24 2001-12 2012-21 2021-24
+Brasil Região Sul PR SC RS Demais regiões do país
+ 
+ 
+10 
+ 
+Gráfico 8 – Evolução do valor adicionado da agropecuária da  
+Região Sul por UF - 2001 = 100 
+ 
+Fonte: Brasil e dados regionais de 2021 a 2022: IBGE. Dados regionais de 2023 e 2024: 
+Estimativas dos autores com base em dados conjunturais do IBGE, EPE, ANP, DataSUS e INEP. 
+Elaboração própria. 
+No Gráfico 9 são apresentadas as evoluções do valor adicionado da indústria5 por 
+estados da região Sul. Enquanto o Paraná apresentou crescimento acima da 
+média regional, principalmente entre 2009 e 2012, o Rio Grande do Sul descola 
+desta média desde 2004, padrão que se acentua a partir de 2016. 
+Gráfico 9 – Evolução do valor adicionado da indústria da  
+Região Sul por UF - 2003 = 100 
+ 
+Fonte: Brasil e dados regionais de 2021 a 2022: IBGE. Dados regionais de 2023 e 2024: 
+Estimativas dos autores com base em dados conjunturais do IBGE, EPE, ANP, DataS US e INEP. 
+Elaboração própria. 
+No caso do Paraná, destaca-se o setor de fabricação de automóveis que, entre 
+2009 e 2012, mais que dobrou a produção, segundo dados da Pesquisa da 
+Indústria Mensal do IBGE (PIM-RG). Além desse componente, também se 
+destacaram positivamente ao longo do tempo os segmentos de fabricação de 
+ 
+5 Composta por indústrias extrativas, de transformação, eletricidade, água, esgoto e atividades de gestão de resíduos e 
+construção. 
+75
+95
+115
+135
+155
+175
+195
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+Região Sul Paraná Santa Catarina Rio Grande do Sul
+90
+100
+110
+120
+130
+140
+150
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+Região Sul Paraná Santa Catarina Rio Grande do Sul
+ 
+ 
+11 
+ 
+bebidas, de máquinas e equipamentos, de celulose e produtos de papéis, entre 
+outros. 
+A redução no valor adicionado da indústria do Rio Grande do Sul foi disseminada. 
+Dados da PIM-RG mostram que a produção industrial do estado apresentou, entre 
+2003 e 2024, recuos em diversas atividades, sendo os mais significativos em 
+fabricação de produtos do fumo (-25,2%), preparação de couros e fabricação de 
+artefatos de couro, artigos para viagem e calçados (-54,9%), fabricação de 
+produtos de borracha e de material plástico (-28,2%) e metalurgia (-24,4%). 
+Em Santa Catarina, desde 2016, observa-se acentuada elevação da trajetória da 
+indústria. Esse é o único estado da região que alcançou o maior nível da série 
+industrial em 2024; o Paraná e o Rio Grande do Sul ainda não recuperaram os 
+patamares que atingiram em 2013. Com base em dados da PIM-RG, destacam-se 
+diversos setores com crescimento entre 2016 e 2024, sendo os maiores 
+destaques o da metalurgia (86,4%), de fabricação de máquinas, aparelhos e 
+materiais elétricos (36,7%) e fabricação de automóveis (23,2%). 
+No setor de serviços6, conforme apresentado no Gráfico 10, Santa Catarina é o 
+grande destaque em evolução de valor adicionado, principalmente a partir de 
+2017. A Pesquisa Mensal de Serviços do IBGE (PMS) mostra que, entre 2016 e 
+2024, o estado foi o terceiro do país que mais cresceu em volume de serviços 
+(29,9%), ficando atrás apenas de Mato Grosso (38,6%) e Amazonas (37,6%). 
+Todos os segmentos de serviços do estado cresceram no período, com maiores 
+destaques no setor de transporte, comércio e informação e comunicação. 
+Gráfico 10 – Evolução do valor adicionado dos serviços da  
+Região Sul por UF - 2001 = 100 
+ 
+Fonte: Brasil e dados regionais de 2021 a 2022: IBGE. Dados regionais de 2023 e 2024: 
+Estimativas dos autores com base em dados conjunturais do IBGE, EPE, ANP, DataSUS e INEP. 
+Elaboração própria. 
+O setor de serviços do Paraná evoluiu conforme a média da região em 
+praticamente toda a série. A análise do período entre 2016 e 2024 mostra que os 
+ 
+6 Composto por comércio, transportes, informaçã o e comunicação, atividades financeiras, atividades imobiliárias, outros 
+serviços e administração pública. 
+90
+110
+130
+150
+170
+190
+210
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+Região Sul Paraná Santa Catarina Rio Grande do Sul
+ 
+ 
+12 
+ 
+maiores crescimentos do setor foram observados nos transportes, informação e 
+comunicação e outros serviços. 
+O Rio Grande do Sul, mais uma vez, foi o estado com desempenho mais fraco da 
+região, na análise dos serviços. Os destaques positivos entre 2016 e 2024 foram 
+os setores de comércio, informação e comunicação e outros serviços. Chama 
+atenção que os transportes e a administração pública apresentaram uma quase 
+estagnação no período. 
+Após a análise estrutural da economia da região Sul e seus estados, conclui-se 
+que o Rio Grande do Sul tem apresentado desafios nas três atividades 
+econômicas, o que tem se refletido no desempenho mais fraco de sua economia. 
+O estado de Santa Catarina tem crescido fortemente, principalmente a partir de 
+2016, o que tem contribuído para o ganho de participação no PIB da região Sul, ao 
+longo dos anos. O Paraná, principal estado gerador de PIB na região atualmente, 
+tem se destacado, principalmente, pelo fortalecimento da sua indústria.  
+Além dos dados oficiais do Sistema de Contas Regionais do IBGE que contém 
+informações até 2022, utilizou-se estimativas para 2023 e 2024 realizadas pelos 
+autores. Abaixo está apresentada a dinâmica trimestral dessa análise, com foco 
+nos anos de 2023 e 2024, período em que a série anual do IBGE não está 
+disponível. 
+5.  Estimativas de PIB para 2023-2024 e análise trimestral 
+Estima-se que o PIB da região Sul tenha crescido mais que o do Brasil nos anos 
+de 2023 e 2024, como mostra o Gráfico 11. Em 2023, o expressivo crescimento de 
+6,1% do PIB do Paraná foi o responsável por este resultado, enquanto em 2024, 
+Santa Catarina e o Rio Grande do Sul colaboraram para o melhor desempenho da 
+região Sul em comparação ao país. 
+O forte crescimento estimado de 4,2% para o PIB do Rio Grande do Sul 
+surpreende tendo em vista que o estado foi atingido, entre abril e maio daquele 
+ano, pela tragédia das enchentes. 
+Gráfico 11 – Taxa de crescimento estimada para o PIB por regiões e anos - % 
+ 
+Fonte: Brasil: IBGE. Dados regionais: Estimativas dos autores com base em dados conjunturais do 
+IBGE, EPE, ANP, DataSUS e INEP. Elaboração própria. 
+3,2 3,4
+6,1
+2,5
+1,4
+3,13,4
+3,9
+2,9
+4,7
+4,2
+3,3
+0
+1
+2
+3
+4
+5
+6
+7
+Brasil Região Sul Paraná Santa Catarina Rio Grande do Sul Demais regiões do
+Brasil2023 2024
+ 
+ 
+13 
+ 
+A Tabela 2 apresenta a taxa de variação trimestral contra o trimestre 
+imediatamente anterior. Na análise do resultado mais recente, o do 4º trimestre de 
+2024, nota-se que o crescimento do PIB da região Sul (0,9%) e de todos os seus 
+estados, foi maior que o do Brasil (0,2%). Esse forte crescimento regional deve-se, 
+principalmente, aos crescimentos observados nos valores adicionados da 
+agropecuária e do setor de serviços.7 
+Tabela 2 – PIB - Taxa de crescimento trimestral contra trimestre 
+imediatamente anterior na série com ajuste sazonal - % 
+  Brasil Região 
+Sul Paraná Santa 
+Catarina 
+Rio Grande 
+do Sul 
+1T2023 1,4 4,1 10,9 1,6 -2,0 
+2T2023 0,7 -0,8 -2,6 0,2 2,4 
+3T2023 0,1 -0,8 -2,8 0,5 -0,4 
+4T2023 0,4 0,2 0,8 0,3 -0,3 
+1T2024 1,0 4,0 2,2 2,3 5,7 
+2T2024 1,3 -1,0 1,2 1,2 -2,9 
+3T2024 0,7 1,6 1,9 1,5 0,8 
+4T2024 0,2 0,9 1,3 0,7 0,8 
+Fonte: Brasil: IBGE. Dados regionais: Estimativas dos autores com base em dados conjunturais do 
+IBGE, EPE, ANP, DataSUS e INEP. Elaboração própria. 
+Na análise trimestral desde 2023, observa-se que o PIB do Brasil apresentou 
+crescimento nos oito trimestres analisados. Na região Sul, apenas o PIB de Santa 
+Catarina obteve o mesmo padrão. No Paraná, houve retrações em dois trimestres 
+de 2023, o que é explicado pela agropecuária. No Rio Grande do Sul, foi 
+observada retração em três trimestres de 2023, principalmente pelo fraco 
+desempenho da indústria. Em 2024, o PIB gaúcho retraiu no 2º trimestre (-2,9%), 
+devido a tragédia das enchentes no estado, com retrações na agropecuária (-
+2,2%), nos serviços (-3,2%) e estagnação da indústria. Nos terceiro e quarto 
+trimestres, a economia gaúcha voltou a crescer registrando 0,8% de crescimento 
+do PIB em cada. 
+Os resultados apresentados mostram que, mesmo dentro de uma região com 
+características semelhantes, pode-se ter evoluções muito diferentes da economia. 
+O desempenho do PIB de Santa Catarina, com forte crescimento desde 2017, por 
+exemplo, se contrapõe as dificuldades encontradas pelo Rio Grande do Sul que, 
+embora tenha crescimento do PIB em praticamente todo o período entre 2001 e 
+2024, em geral apresentou taxas menores que as registradas no Brasil e em seus 
+estados vizinhos. 
+ 
+  
+ 
+7 A pesquisa realizada pelos autores estimou a evolução trimestral do PIB dos estados e da região para uma série iniciada 
+em 2001, possibilitando a análise dessazonalizada desta seção. 
+ 
+ 
+14 
+ 
+ 

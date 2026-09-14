@@ -1,0 +1,2283 @@
+1   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+NEW ECONOMY FOR BRAZIL: 
+EMPIRICAL FRAMEWORK AND 
+SCENARIO ANAL YSIS 
+NEW ECONOMY FOR BRAZIL
+Leonardo Garrido, Andrea M. Bassi, Georg Pallaske, Iryna Payosova, and Arya Harsono
+APRIL 2023
+Executive Summary
+The New Economy for Brazil (NEB) is an initiative 
+of WRI Brasil and the New Climate Economy 
+(NCE) program. NEB identified opportunities 
+in infrastructure, industrial innovation, and 
+sustainable agriculture to achieve inclusive, 
+robust, and resilient economic growth, as 
+well as an opportunity to contribute to global 
+goals on climate and the environment.
+This technical note provides an in-depth 
+description of tools and methods used to support 
+NEB work and summarizes the efforts of a large 
+group of experts and contributors, all of whom 
+are acknowledged in NEB’s 2020 report, A New 
+Economy for a New Age: Elements for Building a 
+More Efficient and Resilient Economy for Brazil 
+(Romeiro et al. 2020). It also describes channels 
+for implementing the policies NEB recommends 
+for improving socioeconomic outcomes in Brazil, 
+including metrics relevant for policymakers, such 
+as value addition, income, and employment.
+The paper explores what effects achieving net zero 
+targets by 2050 or 2060 will have on the economy, 
+simulates different timing of the intervention, and 
+compares these scenarios to reference case scenario 
+which reflects continuation of the past trends. Six 
+economic development scenarios for Brazil have 
+been developed and simulated with the suite of 
+models used by NEB. These scenarios include a 
+reference case or baseline and alternative runs that 
+show different degrees of ambition in transforming 
+TABLE OF CONTENTS
+Executive Summary  . . . . . . . . . . . . . . . . .  .1
+1 . O verview  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2
+2 . A r ationale for the NEB
+technical approach  . . . . . . . . . . . . . . . . 3
+3 . N EB suite of models
+and their linkages .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+4 . Summary of assumptions
+and policy interventions  . . . . . . . . . .  . 11
+5 . Channels of enhanced
+well-being associated
+with NEB policies  . . . . . . . . . . . . . . . .  .17
+6 . Concluding Remarks .  .  .  .  .  .  .  .  .  .  .  .  . 19
+Appendices  . . . . . . . . . . . . . . . . . . . . . . . 21
+Abbreviations .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .26
+Endnotes .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27
+References   . . . . . . . . . . . . . . . . . . . . . .  .28
+Suggested Citation: Garrido, L., A.M. Bassi, 
+G. Pallaske, I. Payosova, and A. Harsano. 
+2023. “New Economy for Brazil: Empirical 
+Framework and Scenario Analysis.” Technical 
+Note. Washington, DC: World Resources 
+Institute. Available online at: https://
+doi.org/10.46830/writn.21.00052.
+2   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+the Brazilian economy, including through the 
+transformation of energy systems and the movement 
+to a low carbon economy. The reference scenario 
+can be interpreted as a Current Policy Scenario 
+where no new low carbon, green interventions are 
+identified. The New Economy for Brazil scenario 
+includes many green low-carbon interventions 
+which start immediately and continue until 2030, 
+with no incremental interventions taken thereafter. 
+Four net zero scenarios have been developed and 
+modeled. Two of these scenarios model that net 
+zero emissions of greenhouse gases in Brazil will 
+be achieved by 2050, and two scenarios model that 
+net zero emissions will be achieved by 2060. Two 
+scenarios have been modeled for each of the net 
+zero “deadline” to simulate the effect of timing of 
+the green policy mix introduction. Two scenarios 
+start with NEB interventions that continue until 
+2030, followed by additional emissions-reducing 
+actions taken in order to achieve net zero target by 
+either 2050 or by 2060. The other two scenarios 
+do not have NEB policies, with low carbon green 
+interventions not immediately implemented. 
+Instead, green interventions are delayed until 
+2030. All four net zero scenarios are calibrated to 
+COVID-19 impacts and associated recovery paths 
+reported by (IMF, 2021). The analysis shows that 
+significant GDP growth and jobs creation are 
+observed in association with “green” sustainable 
+low-carbon policy interventions. The benefits of 
+interventions are observed from the first year when 
+these interventions were introduced. The highest 
+benefits are observed under scenarios with early 
+and continuous green low-carbon interventions. 
+Late action or early but interrupted interventions 
+do deliver benefits as well, but more modest or 
+limited Such co-benefits extend to different areas, 
+including lower use in primary energy; a more 
+renewable electricity generation matrix (with no 
+significant impacts in electricity prices); avoided 
+deforestation while meeting food and energy 
+demand; higher restoration effort; the leveraging 
+on green investment to foster resilience and gaining 
+access both from households and producers to 
+markets; and enhanced agriculture productivity. 
+Additional socio-economic co-benefits are also 
+identified. Overall, the outcomes of the modeled 
+scenarios show that the greatest benefits from 
+low-carbon green development in Brazil will be 
+achieved when early and sustained green policy 
+interventions and implementations are made, from 
+the present day and continuing to mid-century. 
+1. Overview
+The New Economy for Brazil (NEB) is a joint 
+initiative of WRI Brasil and the New Climate 
+Economy (NCE) project.1 NEB was established 
+to provide analytical inputs and engagement 
+activities to advance Brazil’s policymaking 
+toward a low-carbon economy. On the analytical 
+side, NEB identifies several policy interventions 
+capable of delivering short-term responses to 
+the COVID-19 pandemic and sound medium- to 
+long-term interventions for attaining inclusive 
+development targets while simultaneously 
+contributing to meeting climate and environmental 
+goals. Along with WRI Brasil and NCE, NEB 
+brings core contributions from research partners, 
+including the Alberto Luiz Coimbra Institute for 
+Graduate Studies and Research in Engineering 
+within the Center of Technology at the Federal 
+University of Rio de Janeiro (COOPE/UFRJ), 
+its CenergiaLab, and KnowlEdge Srl, a modeling 
+consulting firm based in Geneva, Switzerland. 
+Technical work under NEB identifies and 
+characterizes green development policy scenarios 
+along with a summary of associated co-benefits 
+for the Brazilian economy. This approach allows 
+for comparisons between green development 
+pathways and other development paradigms 
+in terms of their environmental sustainability 
+and contribution to socioeconomic welfare. 
+This exercise calls for explicit identification of 
+transmission (implementation channels and 
+impacts) of green, low-carbon policies, including 
+the core feedback (impact/reaction) triggered by 
+policy interventions over a set of endogenously 
+determined socioeconomic outcomes. NEB 
+findings are presented in WRI Brasil’s flagship 
+report, A New Economy for a New Era: Elements 
+for Building a More Efficient and Resilient 
+Economy in Brazil (Romeiro et al. 2020).
+NEB’s technical work and the identification of 
+policy interventions are designed around the 
+idea that, in order to develop robust policies, one 
+should understand the nature of connectedness, 
+interrelations, and interdependencies of climate, 
+biogeochemical, and socioeconomic systems. 
+Such interdependencies are also referred to as 
+feedback demand and, in turn, are captured in 
+complementary models unified under a common 
+empirical framework. Simply put, NEB takes 
+NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS   |   3
+inputs from integrated assessment models (IAMs), 
+including biophysical representations of energy 
+systems, land use, water resources, ecological 
+diversity, and socioeconomic structures. IAM tools 
+are often used by international research groups 
+and the Intergovernmental Panel on Climate 
+Change (IPCC) to define transition scenarios for a 
+low-carbon world. These modeling tools capture 
+the interactions between different economic 
+sectors, greenhouse gas (GHG) emissions, and 
+the consequences for the global climate (IPCC 
+2022). Modeling scenarios can cover different 
+scopes of assessment (sector versus whole 
+country economy, region, world) and time frame 
+(short term versus medium and long term). 
+Short- to medium- and long-term macro and 
+sector level scenarios (2021–50) were generated 
+during the preparation of this technical note.
+The NEB 2020 report describes results from 
+modeling work conducted between mid-2019 
+and early 2020 and thus, did not include impacts 
+emerging from the COVID-19 pandemic (Romeiro 
+et al. 2020). Further simulations performed during 
+the second semester of 2020 and during January–
+February 2021 included COVID-19–related model 
+structures/segments. These latest results are the 
+ones described in this technical note. Even with 
+COVID-19 segments in the model, results described 
+herein are similar to the simulations performed 
+in 2019–20. Projections for 2021–50 suggest 
+economic recovery from the pandemic shock, in 
+the absence of other unexpected shocks. Modeling 
+results for key economic indicators are presently 
+supported by the observed economic dynamics.
+This note is organized as follows: the subsequent 
+section presents a concise rationale for the 
+technical work supporting NEB. Next, the 
+IAMs used by NEB, along with the method of 
+connection, are summarized. Policy scenarios are 
+then presented, followed by the empirical results 
+for core, endogenously determined variables. 
+Finally, the note identifies the channels of 
+transmission (implementation and outcomes) for 
+policies that can deliver more robust, inclusive 
+socioeconomic outcomes while also delivering 
+on climate and environmental targets.
+2. A rationale for the NEB 
+technical approach
+NEB is built on the premise that attaining Brazil’s 
+socioeconomic development goals, improved health 
+care and literacy rates, and real gross domestic 
+product (GDP) growth relies on public policy 
+interventions and actions that deliver on ambitious 
+climate and environment goals. These interventions 
+include post pandemic recovery efforts as well as 
+shifting toward a more resilient, inclusive medium- 
+and long-term development pathway. Integrated 
+modeling approaches have been used for dynamic 
+modeling of climate scenarios since the early 1990s. 
+The first GHG emissions scenarios were released 
+by the United Nations Framework Convention 
+on Climate Change (UNFCCC) in 1990 and 1992 
+and were used for climate simulations with global 
+circulation models (IPCC 2000). Thanks to an 
+improved understanding of the drivers of GHG 
+emissions and their effect on climate change and 
+the environment, these scenarios were gradually 
+updated and modified. A new set of scenarios was 
+released in 1996, with refined emissions baselines, 
+information on trends in technological change, 
+and socioeconomic development pathways across 
+all countries. Scenarios were further updated by 
+2000 and were used as an input for the IPCC’s 
+Third Assessment Report, the Special Report on 
+Emissions Scenarios (SRES) (Nakicenovic et al. 
+2000). The SRES climate scenarios are comprised 
+of four families in which economic growth and 
+world population growth rates were the key driving 
+forces for emissions. In addition, SRES scenarios 
+covered such elements as technology development, 
+reliance on fossil versus renewable energy sources, 
+and regional and social aspects of development. 
+However, the SRES scenarios did not include 
+any mitigating policies. In 2005, the IPCC called 
+for new emissions scenarios to be ready before 
+the Fifth Assessment Report, and in 2007 the 
+IPCC requested that the Steering Committee 
+on New Scenarios prepare several benchmark 
+concentration scenarios compatible with baseline, 
+stabilization, and mitigation emission scenarios 
+(van Ypersele 2010), as it was understood that 
+stabilizing emissions at the baseline-year level may 
+not be enough to slow climate change. From these 
+processes in the IPCC and the scientific community, 
+two new branches of climate change scenarios 
+evolved: Representative Concentration Pathways 
+4   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+(RCPs) and Shared Socioeconomic Pathways (SSPs) 
+(Riahi et al. 2017). RCP scenarios were meant to 
+interact with climate and atmospheric projections, 
+analysis of impacts, adaptation, and vulnerability, 
+and IAMs for emissions and socioeconomic 
+scenarios, policies, and various issues relevant 
+for sustainable development. IAMs integrate 
+information from diverse fields of science to analyze 
+and explain the interaction of anthropogenic and 
+natural systems.2 RCP scenarios developed four 
+pathways for different levels of radiative forcing 
+(Hausfather 2018). Although RCP scenarios are 
+intended to interact with IAMs, they do not directly 
+include socioeconomic “development pathway” 
+narratives within the scenarios. In contrast, SSP 
+scenarios promote integrated analysis of climate 
+impacts, vulnerabilities, adaptation, and mitigation 
+to climate change, and they elaborate on energy, 
+land use, and emissions. The central question in 
+all these integrated modeling approaches is how 
+the climate will be changing. The NEB technical 
+approach, in a way, asks a reverse question 
+and instead focuses on economic development, 
+with elements of mitigation and adaptation. 
+Based on mounting international evidence, the 
+global community has realized that the effects 
+of climate change are taking a serious toll on the 
+economy and society, and these negative impacts 
+are intensifying. Such evidence is presented, for 
+instance, in reports by New Climate Economy 
+(2018) and Stern and Dietz (2008). These 
+reports identify policy transmission channels 
+and quantify expected benefits from green, low-
+carbon interventions in renewable energy, energy 
+efficiency, land, agriculture, waste, industry, 
+cities, and other areas. Recent evidence challenges 
+common preconceptions about costs and trade-offs 
+associated with low-carbon policies (Medrilzam 
+et al. 2021). These technical papers also highlight 
+often-ignored benefits of green policies, such as 
+mitigating negative externalities and triggering 
+other positive dynamics. These policy interventions 
+are becoming increasingly relevant and important as 
+countries deplete natural resources and competition 
+for natural capital intensifies (IPCC 2022). At 
+the national level, socioeconomic benefits from 
+low-carbon development policies are becoming 
+increasingly apparent, as demonstrated by enhanced 
+resilience and other positive outcomes from the 
+rapid transition to green technologies and processes.
+Nonetheless, skepticism and resistance to green 
+sustainable policies persist. Several factors cause 
+this resistance, including political economy issues, 
+such as institutional rigidity to evolving societal 
+needs and emerging technologies; inherited legal 
+frameworks, slow legislative processes, and the 
+networks of power; the phenomenon of “lock-in” 
+on traditional technologies, paired with research 
+gaps and poor uptake of low-carbon technologies 
+in emerging sectors; and a lack of understanding 
+of the role played by negative externalities in 
+determining the socioeconomic outcomes and 
+fundamental interdependencies between economies, 
+climate, and the environment. At the technical level, 
+skepticism is fueled by the predominant reliance 
+on traditional models and empirical exercises 
+that ignore, underrepresent, or misrepresent core 
+relationships among climate, the environment, 
+and the social economy. At times, failure to act on 
+climate and environmental targets is substantiated 
+by the work from leading economic thinkers (Hänsel 
+et al. 2020; Nordhaus 2006, 2017a; PIK 2020).
+Considering the above, NEB poses an overarching 
+question: Do interventions with higher climate 
+and environmental sustainability ambition have 
+greater socioeconomic development potential versus 
+standard business-as-usual (BAU) policies? BAU 
+policies explicitly or implicitly rely on the extensive 
+utilization of natural capital as a production factor. 
+The question in this technical note is presented 
+from the socioeconomic development standpoint. 
+It focuses on the objectives that matter most to 
+policymakers, including value addition, income, 
+and employment generation.3 Low-carbon 
+policies are not seen as end targets but rather as 
+avenues to attain such desirable socioeconomic 
+goals and contribute to achieving shared global 
+positive outcomes. Along these lines, NEB 
+modeling work strives to capture fundamental 
+feedback relationships that exist in socioeconomic, 
+environmental, and climate systems. It highlights 
+linkages and incorporates monetary valuation of 
+the market and nonmarket elements that affect 
+individuals’ well-being. These linkages and elements 
+are often overlooked yet are crucial for developing 
+optimal policies. The following section describes 
+the framework and relevant models utilized.
+NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS   |   5
+3. NEB suite of models and their linkages
+Several features determine the choice of models 
+for analyzing policy options under NEB. Brazil 
+is a prominent global player. In 2020 Brazil was 
+ranked 12th among countries in terms of GDP, 
+and in 2021 its GDP in terms of purchasing power 
+parity was US$3.44 trillion (World Bank n.d.a). 
+In 2010–12 the country was the 6th-largest and 
+fastest-growing economy in the world, surpassing 
+the United Kingdom (Leahy and Wagstyl 2012). 
+It is the world’s 7th most populous country, with 
+213.99 million people (World Bank n.d.b). In the 
+world, Brazil places 7th in terms of GHG emissions 
+(1.4 gigatons of carbon dioxide equivalent); 5th in 
+country size (8.5 million square kilometers [km2]); 
+hosts 12 percent of the remaining global forests, 
+an area totaling approximately 5 million km2); 
+and is 24th in value of trade (over $530 billion). 
+Five factors guide the choice of the model for Brazil. 
+First, an economy as large and complex as Brazil’s 
+cannot be represented by the small, price-taking 
+economy modeling framework that is commonly 
+used for developing countries. Such simple models 
+cannot accurately capture a multitude of factors, 
+causal links, and dynamic interrelations between 
+these factors. As a result, simple models do not 
+give reliable results and often cannot explain more 
+complex types of interactions. Second, Brazil’s 
+size, together with the openness of its economy, 
+demands examination of trade channels that 
+affect and are affected by a range of policies. As 
+policymakers strive to preserve macroeconomic 
+stability, a condition for sustained economic growth, 
+careful analysis is needed in other areas as well, 
+including the external, real, monetary, and fiscal 
+sectors. Third, Brazil’s economy is rich in natural 
+resources, with a heavy reliance on commodities for 
+value addition, foreign revenue, and employment. 
+Fourth, Brazil has a great potential to embark on 
+an energy transition that is likely to affect both 
+the structure and dynamics of economic activity 
+and wealth generation in decades to come. Fifth, 
+despite episodes of macroeconomic, political and 
+social instability, the country had, until around 
+2015 (with significant setbacks being registered 
+ever since) improved its citizens’ overall average 
+per capita income. However, Brazil is experiencing 
+persistent inequalities, and suffers from haphazard 
+urbanization, inefficient use of inputs, and waste. 
+In terms of the Human Development Index (HDI), 
+in 2019 Brazil dropped five positions, moving 
+from 79th to 84th among 189 countries (Cristaldo 
+2020; UNDP 2020). However, when using the 
+novel version of the HDI, the Planetary pressures–
+adjusted HDI, which incorporates environmental 
+and climate change factors (including carbon 
+dioxide [CO2] emissions and the number of natural 
+resources), Brazil’s ranking improves (UNDP 
+2000). Part of Brazil’s economic development has 
+been attained at the expense of degrading and 
+depleting its natural resources base, including 
+water resources, forests, and biodiversity. The 
+pattern of extensive exploitation of natural 
+resources demands understanding the role of 
+negative externalities on well-being associated 
+with the misuse and overuse of such resources.  
+In this way, NEB combines the following structural 
+approaches under an integrated framework:
+•	 A global model of computable general 
+balance referred to as the Total Economy 
+Assessment (TEA) model. TEA is a recursive 
+dynamic computable general equilibrium (CGE) 
+model that simulates the world economy’s 
+functioning through the simultaneous analysis 
+of the existing interactions between regions, 
+sectors, and economic agents (Cunha et al. 
+2020). It divides the world into 18 regions, 
+Brazil being one of them, and includes a well-
+detailed representation of the agricultural 
+and energy sectors and international trade. 
+•	 A global, bottom-up, dynamic perfect-foresight 
+optimization model with extensive technological 
+details of the energy and land-use systems, 
+referred to as the Computable Framework 
+for Energy and the Environment 
+(COFFEE). It is used to evaluate global 
+and regional mitigation and technological 
+development strategies under different 
+climate stabilization targets (Rochedo 2016). 
+It divides the world into the same 18 regions 
+as TEA. COFFEE was one of many IAMs that 
+was used to develop one of the IPCC’s five 
+illustrative mitigation pathways (IMPs).4
+•	 A national, bottom-up, dynamic perfect-
+foresight optimization model referred to 
+as the Brazilian Land Use and Energy 
+Systems (BLUES) model. It describes in 
+greater detail conventional and mitigation 
+6   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+technologies, investments, and operation and 
+maintenance costs for the energy, land-use, 
+and water-use sectors in six native regions: one 
+main, overarching whole-country region and 
+five geopolitical subregions nested within (de 
+Carvalho Köberle 2018). The BLUES model 
+is used by COPPE/UFRJ (CenergiaLab).5,6
+•	 A national, customized Green Economy 
+Model (GEM Brazil), which offers a 
+macroeconomic assessment of the socio-
+economy, the natural capital that supports it, 
+and externalities (positive or negative effects 
+on the parties who are neither producers nor 
+consumers) (Bassi 2015). Based on Systems 
+Thinking principles and System Dynamics 
+methodology, it is designed to help policymakers 
+identify environmentally sustainable paths 
+consistent with attaining medium- and long-
+term development targets, thereby enabling 
+the transition to a more inclusive, robust, 
+green economy. GEM Brazil allows for a better 
+understanding of the co-benefits associated 
+with sustainable policies, including on value of 
+externalities related to different policy scenarios. 
+Altogether, these models capture core characteristics 
+and policy-relevant elements: country size, 
+openness, macro-stability issues, the role of primary 
+resources, natural capital interdependencies, and 
+the effect of externalities associated with policy 
+scenarios. They help analyze both short- to medium-
+term impacts and responses to the COVID-19 
+pandemic and medium- to long-term development 
+pathways. Both macro and sectoral models are being 
+used and integrated so they can partially investigate 
+distributional issues such as income distribution and 
+poverty, a subject that will be more comprehensively 
+tackled during a subsequent phase of NEB. 
+The key elements of the models and modeling 
+process are described next. They refer to the 
+integration mechanism across NEB models and the 
+feedback that connects climate, environmental, and 
+socioeconomic outcomes. They also encompass the 
+unique COVID-19–related structures to describe 
+the impacts of the pandemic and associated policy 
+responses and the central role of externalities 
+in assessing effects from policy interventions.
+3.1. Integration across models
+The flow of information that feeds into models 
+begins with the definition of macroeconomic 
+scenarios and the process of calibration to crucial 
+variables, such as population and GDP growth 
+rates, both at global and national levels. From the 
+macroeconomic drivers, exchanging information 
+and interactions between the global economic 
+(TEA) and technological (COFFEE) models 
+begins. A soft-link integration7 between models 
+allows the TEA model to provide endogenously 
+generated values for the evolution of the final 
+demand for goods and services for each sector 
+and region in the world. The TEA inputs directly 
+interact with the endogenously generated variables 
+on land, energy, and others in the world, across 
+regions from the COFFEE model.8 The integration 
+across models is illustrated in Figure 1. 
+Once the TEA-COFFEE interaction identifies 
+Brazil’s top-down boundary conditions, the bottom-
+up BLUES model provides more detailed results for 
+the country, ensuring consistency with the global 
+trajectories. These results include the penetration 
+rate of different technologies in economic 
+activities, possible changes in land use and GHG 
+emissions, and the evolution of the sectorial 
+energy intensity, represented by the relationship 
+between energy use and the activity level of the 
+sectors over the analyzed horizon, all of which are 
+important indicators to support decision-makers.
+Outcomes from the BLUES model are used as 
+inputs for calibrating the GEM Brazil model 
+(Figure 1). GEM Brazil was designed to include 
+all key parameters and sectors relevant to the 
+future development of Brazil: population, food 
+demand and supply, land use and land cover, 
+economic activity, employment, access to health 
+care, education, energy demand and supply, air 
+emissions, water pollution, and climate trends, 
+among others. The model also provides an economic 
+valuation of many externalities, including GHG 
+emissions. The valuation is done using approved 
+standard methodologies and based on the social 
+cost of carbon (Nordhaus 2017b), air pollution, 
+wastewater, waste, traffic-related impacts (e.g., 
+accidents, noise), the opportunity cost of water 
+(from savings in the agriculture sector), and 
+biodiversity. GEM Brazil takes data on energy 
+NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS   |   7
+supply and demand, disaggregated by technologies, 
+forest, land, agriculture, and socioeconomic 
+indicators (including GDP) and is calibrated via an 
+iterative process with the inputs from the BLUES 
+model to ensure consistency of results (Figure 1). 
+This calibration process is done in two steps: at 
+first, the calibration process ignores—which is 
+important and will be discussed below—internal 
+feedbacks with the real GDP growth rate (so GDP 
+results given by TEA-COFFEE-BLUES models are 
+unchanged, in this first round, in GEM Brazil). A 
+second step allows for complete feedback across 
+core climate, environmental, and socioeconomic 
+variables (including endogenous changes in GDP 
+and the variables directly and indirectly affected by 
+it), as explained in the following subsection. Figure 
+1 summarizes the process of integration across 
+models. As shown in the figure, the integration 
+channels from TEA-COFFEE-BLUES models 
+into GEM Brazil included the following areas: 
+•	 Energy demand and emissions by the 
+type of fuel, technology, and sector 
+•	 Power generation, including total generation 
+and power generation capacity, through the 
+share of renewable generation, on average 
+emissions per terajoule generated, and 
+through transmission/distribution losses
+•	 GHG emissions from all sources (industrial 
+processes and product use, energy, land) 
+An optional third step in the process is feeding 
+back the endogenously generated outcomes from 
+GEM Brazil into the suite of TEA-COFFEE-BLUES 
+models. These new runs are once again inputted 
+into GEM Brazil, seeking convergence in results. 
+Usually, this is achieved after one or two iterations. 
+3.2. Feedback structures under GEM Brazil
+GEM Brazil is built using the system dynamics (SD) 
+methodology, serving primarily as a “knowledge 
+integrator.” SD is a form of computer simulation 
+modeling designed to facilitate a comprehensive 
+approach to development planning in the medium- 
+to long-term time horizon (Forrester 2002; 
+Meadows 1980; Randers 1980; Richardson and 
+Pugh 1981). SD operates by simulating differential 
+equations with “what if” scenarios, explicitly 
+represents stocks and flows, and can integrate 
+optimization and econometrics. The purpose of SD 
+is not to make precise predictions of the future9 or 
+to optimize performance; instead, these models 
+are used to inform policy formulation, compute 
+policy outcomes (both desirable and undesirable), 
+and assist in creating a resilient and well-balanced 
+strategy (Probst and Bassi 2014; Roberts et 
+al. 1983). Such an approach is consistent with 
+policymakers’ thinking framework, which weighs 
+sets of outcomes based on political, technical, and 
+institutional preferences in choosing from among 
+policy packages (Garrido and Bassi 2022).
+Notes: BLUES = Brazilian Land Use and Energy Systems; COFFEE = Computable Framework for Energy and the Environment; IPPU = 
+industrial processes and product use; TEA = T otal Economy Assessment .
+Source: Authors
+Figure 1 
+Integration across models under NEB
+
+8   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+GEM Brazil includes four key capitals (physical, 
+human, social, and natural) interconnected via the 
+explicit representation of feedback loops (reinforcing 
+or balancing).10 Policies can be implemented 
+to strengthen growth by supporting loops. For 
+instance, they could include investments in physical 
+capital, which, other things being equal, increases 
+aggregate demand and potential growth. Others 
+could curb change (e.g., by strengthening balancing 
+loops). Under NEB, GEM Brazil was used to test the 
+effectiveness of individual policies and investments 
+(by assessing their impact within and across sectors 
+and for social, economic, and environmental 
+indicators) and inform development planning (by 
+determining the outcomes of the simultaneous 
+implementation of various intervention options). 
+Sectors are integrated within GEM Brazil and 
+across models (TEA-COFFEE-BLUES) using 
+stocks and flows (another central feature in 
+SD modeling), which brings consistency to the 
+mathematical formulations used to create the 
+model.11 This integration was possible through 
+collaborative work among modeling partners, as 
+described in the previous section. The resulting 
+consistency within and across models provide 
+a comprehensive, integrated view of many 
+variables of interest for policymakers.12
+GEM Brazil represents many feedback relationships. 
+Two of them are noticeably absent from mainstream 
+structural models and are highlighted in this 
+technical note. These two feedback relationships are 
+central for explaining the connectedness of climate, 
+environmental, and socioeconomic outcomes and 
+are paramount for the design of robust development 
+policies. The first feedback relationship captures the 
+impacts known as total factor productivity (TFP) in 
+mainstream models. The second feedback captures 
+the relationship structure in the main loop that 
+governs linkages between climate, the environment 
+(including policies), and the social economy.13
+Channels affecting total factor 
+productivity (TFP)
+Traditional approaches, including neoclassical 
+models, incorporate TFP as a proximate source of 
+GDP growth. Generally, TFP is introduced in models 
+either as an exogenous input or as a composite 
+factor that combines an exogenous parameter or 
+trend and an endogenous element that responds 
+to changes in other variables, such as the rate 
+of accumulation of human capital or physical 
+infrastructure. GEM Brazil broadens the spectrum 
+of factors affecting GDP and includes changes 
+in the availability of environmental goods and 
+services. Depletion or degradation of natural capital 
+reduces its availability, whereas intentional or 
+natural renewal and accumulation of natural capital 
+increases its availability. A TFP-comparable variable 
+is included in GEM Brazil and affects GDP. This TFP 
+variable is a function of other groups of variables: 
+human capital, health, education, and infrastructure 
+of public services; air and water quality (measured 
+through emissions); elements associated with 
+haphazard industrialization and urbanization 
+(waste, traffic congestion); and the quantity and 
+quality of the natural capital (e.g., forest resources, 
+water, biodiversity). The social cost of carbon is 
+also included/reflected in the TFP function:
+ 
+(EQUATION 1)
+where TFP, TECH, HEAL, EDUC, EMIS, ENER, 
+WAST and INFR are indexes that proxy for factor 
+productivity, technological progress, health 
+status, education, GHG emissions, level of energy 
+consumption, and wastewater production.14 
+The i subscript refers to sectors of economic 
+activity (primary, industry, and services), 
+and t refers to time. Such characterization 
+provides the basis for understanding the 
+differential impacts of green versus nongreen 
+policies over socioeconomic outcomes. 
+The balancing feedback for climate, the 
+environment, and the social economy
+GEM Brazil models a fundamental feedback 
+relationship: any policy that aims to boost 
+aggregate final demand and output (such as the 
+one from a fiscal stimulus for consumption or 
+capital formation) creates a balancing effect (or 
+“balancing loop”) that counters the growth in the 
+demand and output. This happens because such 
+“stimulating” policy induces higher demand for 
+inputs (e.g., for energy, environmental goods, and 
+services) and, all else equal, contributes to higher 
+GHG emissions, depletes or degrades natural 
+capital, and negatively affects TFP. The strength of 
+this balancing effect depends on the initial state, 
+strength of the impacts (including the type of 
+NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS   |   9
+policy: green versus nongreen), and how binding 
+these inputs are in the production process. By 
+extension, the balancing effect’s power is attenuated 
+whenever the initial boost in demand is composed 
+of low-carbon, environmentally sustainable 
+policies or is supported by them. Appendix A 
+provides a high-level representation for a CLD 
+representing this core feedback, balancing loop. 
+3.3. COVID-19–related structures
+Recent literature on the economic impacts of 
+the COVID-19 pandemic highlights three main 
+channels of shock delivery (Fiddamann, T. 2020). 
+The first channel delivers shocks to the economy 
+through medical and health emergencies (Kaye 
+et al. 2021). The second channel delivers policy-
+induced supply shocks and impacts of public 
+and private containment measures, which, in 
+turn, have triggered a demand effect (Guan et 
+al. 2020; Helper and Soltas 2021). The third 
+channel of shock is through policy responses 
+aiming to refloat economies and bring them 
+back onto the path of sustained economic 
+growth (Kirti et al. 2022; OECD 2020, 2022).
+GEM Brazil does not incorporate specific structures 
+to model COVID-19’s dynamics,15 and it does 
+not include estimates of the number of infected, 
+deaths, or the pattern of the epidemic (number of 
+waves, their amplitude, and height) in response 
+to virus-intrinsic factors (e.g., the R0 factor) or 
+social and policy responses. However, GEM Brazil 
+incorporates four different substructures to capture 
+the policy-induced shocks and the alternative types 
+of responses. A key difference of COVID-19 from 
+previous economic crises (e.g., the 2008–9 global 
+financial and economic crisis) is that in the case of 
+COVID-19, both consumption and production have 
+been impacted. These impacts are incorporated 
+in the GEM Brazil model through the following: 
+•	 A shock to economic activity from reduced 
+production (a supply-induced shock that affects 
+demand and limits labor force availability). 
+In GEM Brazil, this is represented by 
+including a constraint to labor availability, 
+which directly impacts production.
+•	 A shock to economic activity from reduced 
+consumption and investments (e.g., due 
+to social distancing, avoided travel). This 
+is represented in the model by including a 
+temporary constraint to consumption (of the 
+same strength as the constraint to employment) 
+and investment, resulting in a higher propensity 
+to save that does not translate into investment.
+•	 A shock to capital utilization from the increased 
+cost of doing business and reduced access to 
+markets. This is represented in the model as 
+reduced capital stock due to business closures. 
+•	 Additional shocks to specific sectors, 
+negatively impacting transport demand 
+and energy consumption when 
+business activity is constrained.
+These four model substructures are included 
+in GEM Brazil, which is then calibrated using 
+data from TEA-COFFEE-BLUES models to 
+retrieve key model parameters introduced in 
+them. Appendix B provides further details on 
+how these four substructures are constructed.
+Those structures can be utilized to capture 
+candidate policy interventions (see “Summary 
+of assumptions and policy interventions”).
+3.4. Externalities
+GEM Brazil includes structural representations of 
+different natural capital components, capturing 
+the provision of environmental goods and services 
+to the economy. Both quantity and quality factors 
+are included. This enables the model to estimate 
+(generally unintended) consequences of policies 
+and investments that are meant to fuel economic 
+activity. These consequences refer to air and water 
+pollution, the generation of solid wastes, transport-
+related costs (e.g., accidents, congestion), and 
+biodiversity losses (and corresponding ecosystem 
+service losses). The social cost of carbon (SCC)16 is 
+also estimated. Table 1 summarizes the externalities 
+computed by GEM Brazil, their definition (how 
+they are calculated), and the costs per unit of 
+the different externalities (Nordhaus 2017b), as 
+identified in the relevant literature and generally 
+accepted as the current global standard.17
+10   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+What is critical regarding these negative 
+externalities is that although they do not have 
+a market-defined value, they impose a cost to 
+society that may not be immediately manifested 
+in monetary terms. Instead, the externalities take 
+the form of direct loss of individuals’ well-being, 
+including increases in the rates of mortality, 
+morbidity, and other parameters that measure 
+changes in quality of life or amount of life. From 
+there, externalities manifest in economic activity, 
+such as through reduced quantity and quality of 
+human capital and through inefficiencies in the 
+production process. These parameters, in turn, 
+increase intermediate costs and reduce potential and 
+effective output. Furthermore, the monetary costs 
+of mitigating the impacts of negative externalities 
+often affect GDP (e.g., costs of hospitalization, 
+waste management, public services to ease or solve 
+traffic problems). Under these circumstances, what 
+happens is that this “value addition” is not incurred 
+to enhance individuals’ welfare but to offset (to a 
+certain degree) the loss of welfare that occurs as 
+a result of the externality. Therefore, such value 
+addition reduces available resources (consumption 
+and investment), and, instead of leading to a net 
+increase in individuals’ well-being, the resources 
+often are used to support the status quo.18
+EXTERNALITY COMPUTED AS (DEFINITION) COSTS PER UNIT OF EXTERNALITY
+Air pollution (excluding 
+from transport)
+Sum of costs from nitrous oxide 
+(NOX), particulate matter (PM 2 .5), 
+and sulfur dioxide (SO 2) emissions
+PM2 .5 = US$120,000/tonne a
+SO2 = US$31,000/tonne b
+NOX = US$4,600/tonne c
+Solid waste (open 
+dumping and 
+managed landfills)
+The environmental cost of open 
+dumping (cost of greenhouse 
+gas emissions) plus the total 
+cost of managed landfills 
+(sanitary and others)
+Open dumping, social cost of carbon = US$31/tonne d
+Cost of managed waste = US$63 . 1/tonne of managed waste e
+Traffic/transport-related
+Sum of cost of air pollution; plus the 
+cost of noise; plus the cost of urban 
+effects; plus the cost of accidents
+Cost of air pollution = €0  .0052/vehicle/km f
+Cost of noise = €0  .0019/vehicle/km g
+Cost of accidents = €0  .029/vehicle/km h
+Cost of urban effects = €0  .0008/vehicle/km i
+Water opportunity cost
+Foregone value added from 
+use in thermal generation in 
+industry and agriculture
+Value added per acre-foot used for agriculture 
+production = US$60  .49/acre-foot j
+Value added per acre-foot used for industrial 
+processing = US$228 .02/acre-foot k
+Value added per acre-foot used for thermal 
+generation = US$27  .26/acre-foot l
+Biodiversity loss 
+(change in the 
+value of ecosystem 
+services provided)
+Net change in value of 
+biodiversity from the following:
+• agriculture to waste
+• forest to agriculture
+• forest to settlement
+• waste to forest
+• waste to settlement
+Value of biodiversity, agricultural land = US$1,115/ha
+Value of biodiversity, fallow land = US$45,058/ha
+Value of biodiversity, forest land = US$50,110/ha
+Value of biodiversity, urban land = US$352/ha
+Table 1 
+Economic Valuation of Externalities
+Note: Averages are calculated using open-source databases for Brazil and recognized industry methodologies . Health costs per unit valued 
+at US$2010 and €2008 prices .
+Sources: compiled by Bassi A. and Garrido L.
+a–c . EPA 2013 
+d . Nordhaus 2017b
+e . EconStor 2004 (Dijkgraaf and Vollebergh 2003)
+f–i . (CE Delft 2011)
+j–l . Frederick et al . 1996 
+NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS   |   11
+3.5. Some caveats regarding 
+the modeling framework
+Three caveats are worth considering for better 
+understanding outcomes from the modeling 
+work and their ability to answer questions 
+regarding the time benefits of NEB policies 
+and their distribution across actors.
+First, the empirical exercise combines optimization, 
+equilibrium frameworks (CGE, land and energy 
+models: TEA, COFFEE, and BLUES) with a 
+“what if” approach that allows for disequilibrium 
+conditions (GEM Brazil). Results from optimization 
+correspond to optimal endogenous outcomes as 
+related to a given “objective function” (such as 
+the lowest cost of the energy technology mix or 
+the maximum utility for a representative agent). 
+Results from the equilibrium frameworks, in 
+turn, are a realization set for a larger number of 
+variables (including variables for natural capital, 
+externalities) that is consistent with results from 
+optimization. This framework may or may not be 
+aligned to a given policymaker’s preferences. In 
+other words, it is open for discussion whether the 
+choice of policies is consistent with (subjective) 
+weights stakeholders and policymakers assign 
+to associated development outcomes.  
+Second, TEA-COFFEE models run with 10-year 
+time steps, and the BLUES model runs on 5-year 
+time steps, which makes it difficult to appraise 
+short-term dynamics and transitions to low-
+carbon systems, especially during the critical 
+2020–30 period. GEM Brazil, in turn, is run with 
+monthly time steps (to capture several climate-
+related seasonal patterns) and yields results on 
+an annual basis. However, because it uses inputs 
+from TEA-COFFEE-BLUES, there are some 
+limitations to appraise short-term dynamics, 
+including impacts and responses to COVID-19.
+Third, it is worth noting that the empirical exercise 
+does not include a comprehensive, economy-wide 
+cost-benefit analysis. Such analyses could provide 
+a foundation to assess how the costs of NEB 
+interventions compare to the variables policymakers 
+care about, such as value addition and income and 
+employment generation. The exercise is limited 
+to identifying the lowest cost for a given energy 
+mix but falls short of providing a fuller appraisal 
+of fiscal implications and of financing needs.
+4. Summary of assumptions 
+and policy interventions  
+Six scenarios have been created with the suite of 
+models used by NEB, including a reference case, or 
+baseline, and alternative runs that show different 
+degrees of ambition in transforming the Brazilian 
+economy, including through the transformation of 
+energy systems and the transition to a low-carbon 
+economy. They are summarized in Table 2.
+Table 2 
+Definition of modeled scenarios: NEB and net zero
+Source: Authors .
+CLIMATE AMBITION SCENARIO
+Reference Ref
+New Economy for Brazil NEB
+Net zero in 2050 NetZero
+New economy for Brazil 
+and net zero in 2050 NEB_NZ
+Net zero in 2060 NetZero_60
+New economy for Brazil 
+and net zero in 2060 NEB_NZ_60
+NEB SCENARIOS NET ZERO SCENARIOS
+• Increased share of 
+sales for the following:
+• Hybrid flex-fuel 
+vehicles
+• Electric buses
+• Fuel cell (light, 
+medium, and 
+heavy trucks)
+• Increased share of 
+biojet kerosene
+• Energy efficiency for 
+building sector
+• Concentrated solar power 
+and photovolatic reservoir
+• Charcoal use in iron 
+and steel sector
+• High productivity 
+agriculture and pasture
+• Linear decreasing 
+trajectory to net 
+zero emissions in 
+2050 or 2060
+12   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+Reference case. It reflects a continuation of 
+past trends. It can be interpreted as a Current 
+Policy Scenario (2020) where no new low-carbon, 
+green interventions are identified. Historical 
+trends are maintained over the horizon. 
+NEB scenario. This includes many interventions 
+spanning areas of technology adoption of low-
+carbon solutions, including in the transportation 
+sector, commercial and residential buildings, the 
+power generation sector, the introduction of new 
+material on the productive process, and actions 
+that enhance productivity in the agricultural sector. 
+The NEB scenario also includes other selected 
+interventions that affect energy consumption, 
+electricity generation, industrial processes, and 
+product use that affect land dynamics. Table 2 
+summarizes all such interventions, and Appendix 
+C identifies quantitative targets by five-year 
+periods. Critically, the NEB scenario stops the 
+increase in policy ambition by the year 2030. 
+Thus, policy targets post-2030 for NEB remain 
+at the 2030 level, as detailed in Appendix C. 
+The NEB scenario is comparable to the “NEB+” 
+discussed in the NEB 2020 report (Romeiro V. 
+et al., 2020), but it has been revised to account 
+for the impacts of COVID-19 and the effect of 
+associated responses. For this purpose, World 
+Economic Outlook data from the International 
+Monetary Fund (IMF) was utilized (IMF 2021). 
+Net zero scenarios. Four net zero scenarios 
+are produced, all of which are also calibrated to 
+COVID-19 impacts and associated recovery paths 
+reported by IMF (2021). The COVID impact 
+is the same across all scenarios, including the 
+short-term negative impact and the recovery 
+path. Two of them include policy ambitions that 
+are consistent with Brazil moving to net zero 
+CO2 emissions by 2050, and the other two are 
+compatible with reaching such targets by 2060:
+•	 NEB_NZ adopts the same policy mix as NEB 
+by 2030 and continues increasing mitigation 
+ambition, so the net zero CO2 emissions target 
+is reached by 2050. This is the most ambitious 
+low-carbon scenario produced under NEB.
+•	 NetZero also attains the net zero CO2 
+emissions target by 2050 but delays the 
+launch of low-carbon policies until 2030.
+•	 NEB_NZ_60 adopts the same policy mix as 
+NEB (and NEB_NZ) by 2030 and continues 
+increasing mitigation ambition so that the 
+net zero CO2 emissions target is reached by 
+2060. NEB_NZ_60 has higher ambition than 
+NetZero by 2030, but after that, the pace 
+of progress slows compared to NetZero. 
+•	 NetZero_60 attains the net zero target by 2060 
+but delays the launch of low-carbon policies until 
+2030. It is less ambitious than NEB_NZ_60. 
+4.1. Summary of Results from 
+NEB Modeling work
+Net zero CO2 emissions in 2050 and 2060 
+are not the same level as 2005.  To reach net 
+zero, all CO2 emitted must be compensated 
+by CO2 removals, so the sum is zero.
+The NEB 2020 report (Romeiro V. et al. 2020) 
+summarized the positive outcomes associated 
+with NEB scenarios. Net zero scenarios with 
+higher climate and green ambition were shown 
+to also have more considerable co-benefits. 
+From the use of TEA-COFFEE-BLUES models, 
+such co-benefits extend to different areas: 
+•	 Lower use in primary energy 
+•	 A more renewable electricity generation matrix 
+(with no significant impacts in electricity prices) 
+•	 Avoided deforestation while meeting 
+food and energy demands
+•	 Higher restoration effort
+•	 Leveraging green investment to foster 
+resilience and gaining access both from 
+households and producers to markets 
+•	 Enhanced agriculture productivity 
+The use of GEM Brazil also identified additional 
+socioeconomic co-benefits. They manifest through 
+lower primary energy use (further explained in 
+“Channels of enhanced well-being associated with 
+NEB policies”) to determine enhanced outcomes 
+relative to those indicated in Romeiro et al. (2020).
+To start, NEB scenarios expand diverse renewable 
+energy sources capable of meeting the country’s 
+NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS   |   13
+growing energy demand while shifting toward 
+the decarbonizing path. These scenarios expand 
+solar, both photovoltaic and concentrated solar 
+power; increase energy generation from biomass 
+and sugarcane; replace fossil fuels with biomass-
+based fuels, such as diesel and kerosene biomass-
+to-liquid (BTL) fuels for transportation and 
+bioenergy with carbon capture and storage (BECCS), 
+associated with ethanol and biomass-based fuels 
+production. Figure 2 summarizes outcomes 
+from the BLUES model on the distribution of 
+primary energy, shares in electricity generation, 
+biofuels, and transport energy consumption.
+As Figure 2 illustrates, primary energy demand 
+will increase over the next 30 years, in all modeled 
+scenarios. Reliance on oil as a primary energy 
+source will reduce in all scenarios by 2030, and 
+even more so by 2050. The share of sugarcane 
+as a primary energy source will also decline in 
+all scenarios, most prominently in the NEB_NZ 
+scenario. Instead, the share of natural gas as 
+a primary energy source will increase and will 
+largely compensate for the reduction in oil use in 
+four scenarios out of six that were modeled: in the 
+reference scenario, NEB, NetZero, and NetZero_60. 
+All models show that the biomass will become 
+the most important primary energy source in 
+Brazil during the following decades. The strongest 
+(approximately quadruple) increase of biomass as 
+a primary energy source over the 30-year period 
+is observed in the NEB_NZ scenario, followed by 
+slightly more modest growth of biomass in the 
+NEB_NZ_60 scenario. Hydropower capacity as a 
+primary energy source is not anticipated to increase. 
+It remains largely unchanged in all scenarios, 
+both in the next 10 years and by 2050. Nuclear 
+energy as a primary energy source will marginally 
+increase, and coal will marginally lose its role. Three 
+scenarios out of six project that solar will strengthen 
+its position as a primary energy source, yet its 
+share in the total primary energy demand remains 
+very low, only slightly higher than that of wind. 
+The main share of electricity is generated by 
+hydropower plants, and all scenarios show an 
+increase in electricity generation, both in absolute 
+terms and in the volumes of hydrogeneration. 
+The generation volume is increasing more 
+than hydropower generation. An additional 
+amount of electricity generation, according 
+to the model and scenarios, will come from 
+bagasse (sugarcane) and solar, and the share 
+of electricity generated from natural gas will 
+steeply decline between 2030 and 2050. The 
+NEB, NEB_NZ, and NEB_NZ_60 scenarios 
+all forecast a substantial increase in electricity 
+generation from concentrated solar power.   
+For biofuels, three scenarios out of six (NetZero, 
+NEB_NZ, and NEB_NZ_60) predict that first-
+generation ethanol will be phased out by 2050 
+and will be partially replaced by the ethanol 
+from BECCS. These three scenarios also predict 
+that a substantial share of biofuels in Brazil will 
+be composed of advanced biodiesel BTL carbon 
+capture and storage by 2050. The volumes of 
+advanced biokerosene BTL will nearly double 
+in all scenarios between 2030 and 2050. 
+Overall, the NetZero and NetZero_60 scenarios 
+show the same level of transport energy 
+consumption in 2050 as the reference scenario. 
+The greatest reduction is predicted by the NEB_NZ 
+and NEB_NZ_60 scenarios. These scenarios also 
+show the lowest use of anhydrous ethanol among 
+the six scenarios. Transport energy consumption 
+will be mainly met by diesel. NetZero and 
+NetZero_60 scenarios show greater reliance on 
+diesel in 2050 than other scenarios evaluated in 
+the model. Gasoline and kerosene, with about 
+equal shares in transport energy consumption, 
+are the second most important after diesel.
+Figure 3, in turn, summarizes the results of NEB 
+scenarios on the land and agriculture sectors. NEB 
+policies include extensive land-use changes due to 
+higher productivity of pasture and agricultural areas. 
+Under the NEB_NZ scenario, about 40 million 
+hectares (ha) of pasture are recovered, compared to 
+about 15 million ha proposed on Brazil’s nationally 
+determined contribution (NDC). NEB also includes 
+a 2 million ha reduction in deforestation as one of 
+the cheapest ways to decarbonize the economy.
+NEB policies help rapidly decrease CO2 emissions: 
+in 2030, projected emissions under this scenario 
+are about 40 percent lower than in the reference 
+scenario. Although all NEB scenarios comply 
+with the revised NDC’s intermediate target (a 43 
+percent GHG reduction in 2030, relative to 2005 
+levels), only the most ambitious ones (NEB_NZ 
+and NEB_NZ_60) would align with the Paris 
+Agreement. To ensure that temperature increase 
+14   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+Figure 2 
+BLUES model results for the energy and transport sectors
+Notes: Mtep = Million-T on Equivalent of Petroleum; TWh = T erawatt-hour; CCS = carbon capture and storage; CHP = combined heat and 
+power generation; CSP = concentrated solar power; DG = distributed generation; IC = imported coal; NC = nationally-sourced coal; PV = 
+photovoltaic .
+a. Primary energy
+b. Electricity generation
+c. Biofuels
+0
+50
+100
+150
+200
+250
+300
+350
+Ref
+Ref
+NEB
+NetZero
+NetZero_60
+NEB_NZ
+NEB_NZ_60
+Ref
+NEB
+NetZero
+NetZero_60
+NEB_NZ
+NEB_NZ_602020 2030 2050
+Mtep
+Oil Natural Gas Coal Biomass Sugarcane Hydro Solar Wind Nuclear
+0
+200
+400
+600
+800
+2020 2030 2050
+TWh
+Ref
+Ref
+NEB
+NetZero
+NetZero_60
+NEB_NZ
+NEB_NZ_60
+Ref
+NEB
+NetZero
+NetZero_60
+NEB_NZ
+NEB_NZ_60
+Hydro Imp. coal DG CSP PV CHPGas Oil Bio Bagasse Nuclear Wind
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+Ref
+Ref
+NEB
+NetZero
+NetZero_60
+NEB_NZ
+NEB_NZ_60
+Ref
+NEB
+NetZero
+NetZero_60
+NEB_NZ
+NEB_NZ_602020 2030 2050
+PJ
+Ethanol_1stGen AdvBioDiesel_BTL_CCS
+AdvBioDiesel_BTL ATJ
+AdvBioKerosene_Bio_BTL Biodiesel Ethanol_BioCCS
+NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS   |   15
+Figure 2 
+BLUES model results for the energy and transport sectors (Cont'd)
+Figure 3 
+BLUES model results for the land and agriculture sectors
+Source: Authors, via TEA-COFFEE-BLUES models .
+a. Cumulative land-use change between 2011 and 2030
+d. Transport energy consumption in 2050
+b. High productivity technologies
+Source: Authors, via TEA-COFFEE-BLUES models .
+0
+1,000
+2,000
+3,000
+4,000
+Ref NEB NetZero NetZero_60 NEB_NZ NEB_NZ_60
+PJ
+Electricity Gasoline Biodiesel KeroseneBunker Ethanol_Anhydrous Hydrogen Diesel Ethanol_Hydrated
+16   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+does not exceed the 1.5°C–2°C limit, both carbon 
+reduction and carbon removal technologies 
+are extremely important, as are the recovery of 
+significantly degraded pastures and BECCS. This 
+is reflected in Figure 4 (panel a). When complying 
+only with the intermediate targets and not taking 
+further action, as in the NEB scenario, emissions 
+can increase after 2030, returning to reference 
+case levels. However, with more ambitious actions, 
+Brazil could comply with net zero targets. 
+Real GDP growth accelerates with increased 
+ambition in the net zero scenarios, especially 
+in the last analyzed decade (2040–50), 
+following a long-term recovery from the 
+COVID-19 pandemic and a full push from 
+NEB policies to meet the climate targets. 
+Figure 5 shows how different scenarios will be 
+realized in real per capita income (GDP). The 
+NEB_NZ scenario has the highest growth rate in 
+total GDP, and in 2050 it yields per capita income 
+that is over 15 percent higher than that computed 
+for the reference case: R$24,981 versus R$21,627, 
+in constant prices. In the GEM model, the base 
+year is 2000, but the results for income are smaller. 
+Additionally, calculations were made with 2005 
+and 2010 as a base year. All other scenarios show 
+less ambitious results, yet all intervention scenarios 
+(NEB, NetZero_60, NEB_NZ, NEB_NZ_60) show 
+higher real per capita GDP than the reference case 
+scenario. General improvements in the economy 
+are accompanied by reduced impacts from 
+negative externalities (summarized in Table 1). 
+GEM Brazil estimates an average reduction in the 
+Figure 4 
+CO2 emissions and real GDP growth 
+Figure 5 
+Real per capita income and average value of externalities
+Source: Authors, via TEA-COFFEE-BLUES models .
+Source: Authors, via TEA-COFFEE-BLUES models .
+NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS   |   17
+costs associated with negative externalities. Here, 
+the reduction in the cost of negative externalities 
+could be viewed as avoided costs or avoided 
+losses to national economy and are expressed as 
+a share of GDP. The NEB_NZ scenario shows the 
+highest reduction: in 2021–50, the cost of negative 
+externalities to Brazil’s economy is reduced to the 
+equivalent of 3.5 percent of GDP. Under the NEB_
+NZ_60 scenario, the cost of negative externalities 
+is reduced by 2.9 percent of GDP. Under the NEB 
+scenario, the cost of negative externalities is reduced 
+in the amount of 1.8 percent of GDP (Figure 5).
+5. Channels of enhanced well-being 
+associated with NEB policies
+Results from the “Summary of assumptions and 
+policy interventions” section indicate general 
+improvements in socioeconomic outcomes from 
+low-carbon policies relative to the reference 
+case. No intertemporal trade-offs are seen on 
+aggregate, meaning that Brazil does not need 
+to wait to benefit from those policies. Although 
+losers are naturally expected in the transition—
+mainly those dependent on or linked to high 
+carbon sectors—the overall NEB picture shows 
+cumulative immediate and sustained gains for 
+most of the population and for the economy. This 
+underlined statement will be explained below.  
+Traditionally, potential gains from low-carbon 
+policies have been ignored or underestimated. 
+As explained above, many economic models fail 
+to incorporate core linkages among climate, the 
+environment, and the social economy. In other 
+circumstances, such a connection is not sufficiently 
+captured and established. There were attempts 
+to quantify the contribution of some natural 
+capital inputs (e.g., land, water), yet issues such 
+as the quality of those resources (pollution) were 
+commonly ignored. The role of externalities is rarely 
+considered. Therefore, under many circumstances, 
+low-carbon policies show minimal differential 
+impacts on well-being (as proxied, for instance, by 
+income, value addition, employment, and poverty 
+changes) relative to standard policy packages.19 
+First, this section addresses some caveats 
+regarding the benefits of development policies 
+characterized by their low-carbon, environmental 
+sustainability profile. Next, it summarizes the 
+sources of improved well-being in low-carbon 
+scenarios relative to a reference case and aligns 
+with findings of alternative models and empirical 
+exercises. The sources of improved well-being 
+can be divided into three main channels: through 
+TFP, through the availability of natural capital and 
+associated primary resources, and via externalities.
+5.1. Qualifying co-benefits associated 
+with low-carbon policymaking 
+identified under NEB
+The real gains from low-carbon development 
+policies have been empirically observed around 
+the world and are within reach for Brazil, should 
+the country embark on a transition to low-carbon 
+systems like the one described by NEB. However, 
+potential benefits from the NEB policies need 
+to be adequately qualified, as indicated next. 
+The NEB scenarios: Not a 
+forecasting exercise 
+The policy scenarios generated from TEA-COFFEE-
+BLUES-GEM models should not be interpreted as 
+a “forecasting” exercise. For instance, when a 3.1 
+percent average real GDP growth rate is reported 
+for 2021–50 under a NEB_NZ scenario, this does 
+not mean that NEB is predicting such a result 
+over the period. It means that under the NEB 
+integrated framework (both from the optimization 
+TEA-COFFEE-BLUES side and the “what if” 
+GEM Brazil framework), the associated policies 
+are consistent, and result is the attainment of 
+output growth and other endogenous outcomes. 
+Focus on strengthening the loops between 
+socioeconomic and climate-environmental 
+structures in the appraisal of co-benefits 
+TEA-COFFEE-BLUES models provide a complete 
+picture of the demand and supply elements to 
+determine the optimal level and changes in the 
+allocation of resources in response to policy. It 
+is understood that demand-side factors play a 
+fundamental role in the resulting socioeconomic 
+outcomes. In the case of Brazil, changes in the 
+allocation of resources are affected by labor 
+market rigidity, by financial sector constraints 
+(including savings availability and financial 
+intermediation problems), by the lack of fiscal space, 
+and so forth. However, the analysis of potential 
+18   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+socioeconomic benefits under GEM Brazil is 
+restricted to elements that affect potential output 
+and the derived implications over variables such as 
+income, employment, fiscal outcomes, and so on. 
+Therefore, NEB focuses on strengthening the loops 
+between socioeconomic structures and climate-
+environmental structures. From this perspective, 
+increases in GDP in the NEB scenarios relative to 
+the reference case, should be interpreted as the 
+potential realization of such gains in value addition 
+on the condition that no binding constraints (for 
+instance, from the demand side) are in place. In this 
+research, proxy indicators are used for measuring 
+externalities linked to the availability and quality of 
+environmental goods and services that contribute 
+to and are affected by anthropogenic activity.
+About inclusiveness and robustness 
+of growth under NEB scenarios
+NEB brings together several global and national-, 
+macro-, and sector-level tools and associated 
+policies through TEA-COFFEE-BLUES-GEM 
+Brazil models (Bassi, A., and G. Pallaske, 2020). 
+Describing outcomes from the NEB 2020 report 
+highlights the role of the NEB policies to help build 
+resilience in Brazil’s socioeconomic systems, helping 
+chart a more inclusive, welfare-improving growth 
+path (Romeiro et al. 2020). Some of the channels 
+include advancing quality infrastructure, adopting 
+sustainable technologies, and transitioning to 
+more sustainable and resilient agriculture. With all 
+these in mind, it is also acknowledged that a more 
+comprehensive, empirically grounded analysis 
+would require incorporating additional tools into 
+NEB. For instance, the tools from micro-level 
+analyses, spatial assessments, and several case 
+studies could shed more light on distributional, 
+sectoral, and regional impacts of policies for a 
+just transition toward low-carbon systems. 
+5.2. Channels of transmission 
+This last discussion builds on the identification 
+of distinct NEB model structures (see “NEB suite 
+of models and their linkages”), which enables a 
+better understanding of the climate-environment- 
+socioeconomic development nexus and describes 
+channels of transmission for NEB policies that 
+determine enhanced socioeconomic outcomes. 
+Total factor productivity (TFP)
+Equation 1 in the “Feedback structures under 
+GEM Brazil” section describes the set of variables 
+that directly affect the productivity of economic 
+activity sectors—and, consequently, the GDP—and 
+associated socioeconomic variables. Changes in TFP 
+are driven by GHG emissions, proxies for human 
+capital (health, education), technology, energy costs, 
+and wastewater. As explained above, ecological 
+scarcity and the associated value of biodiversity 
+losses are also conceptually and empirically 
+identified as drivers of TFP. However, under 
+the current GEM Brazil version, this link is not 
+incorporated. The connection of biodiversity to land 
+sector variables is high level. It is not sufficiently 
+disaggregated to account for heterogeneity elements 
+and other factors that properly capture ecological 
+scarcity and the value of biodiversity in Brazil. 
+Appendix D further identifies variables and other 
+model parameters that affect the explanatory 
+elements (proxies) included in Equation 1.
+Such specification for TFP highlights the 
+role of NEB policies relative to alternative 
+interventions (Romeiro et al. 2020). Specific TFP-
+enhancing effects occur from the following:
+•	 Technological progress in sectors 
+(industry, services) associated with 
+innovative low-carbon solutions
+•	 Reduction of intermediate energy 
+consumption relative to gross output 
+under energy efficiency measures
+•	 Improvements in human capital associated with 
+enhanced air quality and, in general, lower SCC
+•	 Improved wastewater treatment, which also 
+contributes to human capital and increases 
+water availability for the agricultural sector
+•	 Enhanced availability and resilience of 
+infrastructure services, providing more extensive 
+and reliable access to a more significant 
+fraction of producers and households
+NEB policies are associated with differential 
+improvements in all topics above, thus helping 
+to attain enhanced socioeconomic outcomes.
+NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS   |   19
+Availability of natural capital and 
+associated primary resources
+In Appendix A, Figure A-1 highlights the role of 
+natural capital for value addition, especially in 
+primary resource-dependent economies. NEB 
+policies to enhance agricultural productivity, 
+improve water quality and availability, expand 
+infrastructure service and energy access, and 
+reforest or restore degraded land enable greater 
+availability of environmental goods and services, all 
+of which directly (and indirectly) contribute to the 
+output. Appendix E summarizes the transmission 
+mechanism of those NEB policies to agriculture 
+production (both in conventional and sustainable 
+activities) and value added per unit of production. 
+NEB policies tackle a primary concern in Brazil. 
+They reconcile the need to increase output in 
+primary activities to meet the growing national 
+(and global) demand while preserving national 
+forests and the biodiversity base. Sustainable 
+agricultural practices that can be applied to 
+existing crops include fertilizers, sustainable 
+roads and transportation, tackling preharvest 
+losses, wastewater treatment, other interventions 
+of research and development, and human and 
+physical capital. All of these would enable additional 
+yield. Innovative business approaches can directly 
+benefit from the vast, rich biodiversity base. These 
+practices have the potential to boost primary 
+sector-related inputs while maintaining the primary 
+forest and continuously recovering degraded land.
+Externalities 
+The “NEB suite of models and their linkages” 
+section summarized externalities and their valuation 
+method under GEM Brazil. Mitigating such 
+externalities through the NEB scenarios contributes 
+to enhanced socioeconomic outcomes, as described 
+above. Wastewater output is reduced or treated, air 
+quality is improved, and both outcomes positively 
+affect human capital. In several cases, mitigation 
+of externalities is not directly connected to GDP 
+outcomes. Among those externalities are pressure 
+on biodiversity and traffic-related externalities 
+other than emissions. However, addressing these 
+externalities still has an unambiguously positive 
+effect on well-being. Table 1 gathered, from the 
+empirical literature, the per-unit costs of negative 
+externalities. Total estimated values of mitigating 
+such negative externalities can be combined 
+with standard metrics of well-being to discern 
+the economy-wide benefits of NEB. An ongoing 
+challenge under standard national accounting is 
+precisely understanding how to bring together 
+typical proxies for well-being, such as income and 
+GDP per capita, with other nonmarket elements 
+that are equally relevant for welfare analysis.
+6. Concluding Remarks
+The NEB 2020 report (WRI Brasil 2020) 
+summarized the positive outcomes associated 
+with NEB scenarios. Under NetZero scenario GDP 
+per capita is more than 15 percent higher than in 
+the reference scenario. Economic performance in 
+low-carbon scenarios with green investments is 
+improved through higher total factor productivity. 
+The economic modeling carried out to evaluate 
+the benefits was initiated before the COVID-19 
+pandemic, and the modeling results still stand when 
+including the impact of the pandemic. These new 
+economic pathways offer Brazil a stronger and better 
+economic recovery trajectory and employment 
+boost compared to a BAU recovery. The impact of 
+COVID-19 within modeled scenarios is smoothed by 
+the model’s use of data values averaged over five-
+year intervals. Furthermore, although COVID-19 
+did cause a slowdown in Brazil’s economy, the 
+effect was short term, and the economy promptly 
+started to recover. The negative impacts of the 
+pandemic are expected to fully abate by 2030, with 
+greater recovery predicted by 2050. The projected 
+recovery numbers observed in the modeling 
+scenarios so far have been supported by actual 
+data. The analysis presented herein showed 
+that sustainable, low-carbon practices 
+can lead to significant GDP growth, with 
+a total accumulated gain of R$2.8 trillion 
+by 2030 compared to BAU and reference 
+year of 2005. Adopting these measures could 
+lead to a net increase of more than 2 million jobs 
+in the Brazilian economy in 2030 when compared 
+to BAU, yielding benefits from the very first year. 
+These measures would also reduce GHG emissions, 
+exceeding Brazil’s current ambitious commitment 
+under the Paris Agreement to reduce GHG 
+emissions by 37 percent by 2025 versus 2005 level. 
+The higher ambition NetZero scenario runs 
+have even higher climate and sustainability 
+20   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+ambition and provide even more considerable 
+co-benefits. Such co-benefits extend to different 
+areas and include a lower use of primary energy, 
+more renewables in the electricity generation 
+matrix (with no significant impacts in electricity 
+prices), reduced deforestation while meeting 
+food and energy demands, higher rates of land 
+restoration, the leveraging of green investment 
+to foster resilience, expanding market access 
+among households and producers and improving 
+equality, and enhanced agricultural productivity. 
+Additional socioeconomic co-benefits have also been 
+noted. They occur through several transmission 
+channels (see “Channels of enhanced well-being 
+associated with NEB policies”) and determine 
+enhanced outcomes relative to the reference case. 
+By highlighting the linkages among climate, 
+environmental, and socioeconomic dimensions, 
+NEB’s technical work allows us to understand 
+the potential of low-carbon policies to attain 
+inclusive development outcomes in Brazil. From 
+an analytical standpoint, NEB provides a thorough 
+examination of relevant domains (global, national, 
+sectoral) and their interactions. Additional 
+opportunities for new research under NEB include 
+regional analyses (with particular focus on the 
+Amazonia), distributional impact analyses based 
+on micro-level data, and closer examinations of 
+biodiversity and valuations of ecosystem services. 
+NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS   |   21
+Appendix A: Generalized (high-
+level) GEM Brazil structure
+Figure A-1 presents the generalized underlying 
+structure of GEM, the model used as a starting point 
+for creating the GEM Brazil model. This diagram 
+shows how the key capitals are interconnected, 
+and contribute to shaping future trends across 
+social, economic and environmental indicators. 
+Specifically, feedback loops can be identified that are 
+reinforcing (R) in all areas, pertaining to economic 
+growth and social development. These are enabled 
+by the availability of natural capital, which, if 
+not properly managed, can constrain economic 
+growth (hence the balancing loops -(B)- identified 
+in the diagram). Policies can be implemented to 
+promote sustainable consumption and production, 
+decoupling economic growth from resource use 
+(also through education and behavioral change), 
+to mitigate the exploitation of natural capital and 
+generate a stronger and more resilient green growth.
+Source: Forrester, 2002; Bassi, 2015 . 
+Figure A1 
+Casual Loop Diagram (CLD) representing the main variables and feedback loops of GEM 
+applications
+22   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+Appendix B: Summary of 
+COVID-19 impacts 
+Different impacts of the COVID-19 pandemic are 
+identified below. Effects are manifested across 
+all economic sectors. The figures and equations 
+below use the industry sector as an example. 
+GEM Brazil does not model drivers of infections 
+(and associated deaths), nor does it produce 
+endogenous patterns and factors that could 
+result from changes in epidemiological factors, 
+social behavior, and policy responses. Instead, a 
+calibration exercise is conducted—based on data 
+from the IMF’s World Economic Outlook as well 
+as other sources—that captures emerging short-
+term economic dynamics associated with the 
+pandemic. The modelers used the most recent 
+IMF estimate of the impact of COVID-19 as well 
+as the forecasts published in the World Economic 
+Outlook. Instead of inputting COVID impacts as a 
+fully exogenous variable, they have calibrated the 
+impact via the four channels described, calibrating 
+the model to match the observed and forecasted 
+impacts on different variables, not only on GDP.
+The elasticities capture endogenous industry 
+sector structures for COVID-19 response, including 
+potential different resolutions to the pandemic 
+that could be incorporated in subsequent NEB 
+stages. Initially, the primary economic concern 
+of COVID-19 was its effect on labor: deaths and 
+sick leaves due to the disease. Over the course 
+of the pandemic, one was able to observe how 
+different sectors had different adaptive capacity 
+to the pandemic shock due to endogenous 
+factors, and some sectors saw a surplus of 
+labor while others experienced shortages.  
+Figure B1 
+Effect on capital stock
+Figure B3 
+Effect on total consumption
+Figure B2 
+Effect on industry employment
+Figure B4 
+Effect on savings
+COVID-19 effect on capital industry = IF THEN ELSE (COVID-19 
+switch = 1, IF THEN ELSE (Duration of COVID-19 impacts table 
+(Time) > 0, (1 + ((Sinus for COVID-19 impacts + Magnitude of impact 
+industry) * Duration of COVID-19 impacts table (Time))) ^ Elasticity of 
+industry capital to COVID-19 impacts, 1),1)
+COVID-19 impact on propensity to consume = IF THEN ELSE 
+(COVID-19 switch = 1: AND: Duration of COVID-19 impacts table 
+(Time) > 0, Average COVID-19 impact on employment ^ Elasticity of 
+private consumption to COVID-19, 1)
+COVID-19 effect on industry employment = IF THEN ELSE 
+(COVID-19 switch = 1, 1 - (1 + Sinus for COVID-19 impacts) ^ Elasticity 
+of industry employment to COVID-19 impacts * Duration of 
+COVID-19 employment impacts table (Time) * Assumed reduction in 
+industry employment from COVID-19, 1)
+Share of savings for private investment = IF THEN ELSE (COVID-19 
+switch = 1: AND: COVID-19 recovery switch = 1, Share of savings 
+for private investments COVID-19 recovery table (Time), IF THEN 
+ELSE (COVID-19 switch = 1, Share of savings for private investments 
+COVID-19 table (Time), Share of savings for private investments 
+table (Time)))
+NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS   |   23
+Appendix C: Summary tables 
+with policy interventions included 
+in the NEB scenarios 
+Table C1 
+Scenario inputs for policies/interventions/technology adoption
+Table C2 
+Direct outcomes for selected interventions
+Notes: CSP = concentrated solar power; PV = photovoltaic .
+Notes: CSP = concentrated solar power; PV = photovoltaic; PJ = petajoule; TWh = terawatt-hour . Direct outcomes include megawatts of 
+power generation capacity by source and hectares of land affected; selected interventions include power generation and/or land-based 
+emissions reduction .
+24   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+Appendix D: Channels of 
+transmission for low-carbon policies 
+to GDP through productivity
+EFFECT NAME EFFECT EQUATION
+Effect of technology Tech ^ ELASTICITY OF INDUSTRY TFP TO TECHNOLOGY
+Effect of emissions DELAY3I(relative annual energy CO 2e emissions ^ 
+ELASTICITY OF TFP TO CO 2E EMISSIONS, 1, 1)
+Effect of health care EFFECT OF HEALTH CARE ON LABOR PRODUCTIVITY TABLE (access to 
+basic health care) ^ ELASTICITY OF INDUSTRY TFP TO HEALTH CARE
+Effect of literacy rate EFFECT OF LITERACY RATE ON LABOR PRODUCTIVITY TABLE (average 
+adult literacy rate) ^ ELASTICITY OF INDUSTRY TFP TO EDUCATION
+Effect of energy bill DELAY3I(relative energy bill as a share of GDP ^ ELASTICITY 
+OF ENERGY BILL ON INDUSTRY TFP, 1, 1)
+Effect of wastewater treatment DELAY1I((1 - share of n release cost in total real GDP) ^ ELASTICITY 
+OF TFP TO N RELEASE INTO THE ENVIRONMENT, 1, 0  .95)
+Table D1 
+Equations used to calculate the effect of drivers of total factor productivity
+Figure D1 
+Productivity drivers
+Notes: CO2e = carbon dioxide equivalent; GDP = gross domestic product; N = nitrogen; TFP = total factor productivity .
+Figure D-1 and Table D-1 further explain the set of 
+productivity drivers under GEM Brazil, concerning 
+the industry sector, with similar structures being 
+introduced for the services and primary sectors.
+NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS   |   25
+Appendix E: Agriculture production 
+and agriculture GDP
+The value of agriculture GDP is computed from 
+agriculture production and value added per 
+tonne of production and adjusted for production 
+lost during transport to market. Agriculture 
+production, in turn, is the sum of that from 
+sustainable and conventional methods. Value 
+added per tonne of production is a function, among 
+other things, of the availability of infrastructure 
+services. NEB policies allow for improvement 
+on several dimensions, including yields per 
+unit of land, reduction of preharvest losses, 
+postharvest losses, including road infrastructure 
+improvements, and other transport sector policies.
+Figure E1 
+Sustainable agriculture production
+Figure E2 
+Conventional agriculture production
+Figure E3 
+Value added per ton of production
+Sustainable agriculture production = Sustainable agriculture land * Yield per hectare of sustainable agriculture * (1 - (“Share of preharvest 
+losses table” (Time) / Effect of agriculture road infrastructure on food losses - correction factor for preharvest crop losses))
+Conventional agriculture production = traditional land of agriculture * yield per hectare of conventional agriculture * (1 (IF THEN ELSE 
+(NEB policy switch =1, "Share of preharvest losess table NEB" (Time)/Effect of agriculture road infrastructure on food losses, "Share of 
+preharvest losses table" (Time)/Effect of agriculture road infrastructure on food losses) - Correction factor for crop losses preharvest )). 
+Notes: NEB =- New Economy for Brazil; TFP = total factor productivity; AG = agriculture.
+Value added per tonne of production = Value added per tonne of production table (Time) * Effect of agriculture road infrastructure on 
+food losses * (1 + Initial share of production lost during transport to market + Correction factor for reductions in AG GDP)
+Notes: AG = agriculture; GDP = gross domestic product.
+26   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+Abbreviations
+BAU  business as usual
+BECCS   bioenergy with carbon 
+capture and storage
+BLUES   Brazilian Land Use and 
+Energy Systems
+BTL  biomass to liquid 
+CCS  carbon capture and storage
+CGE  computable general equilibrium
+CLD  causal loop diagram 
+COFFEE  Computable Framework for 
+Energy and the Environment
+COPPE   Alberto Luiz Coimbra Institute 
+for Graduate Studies and 
+Research in Engineering 
+CO2  carbon dioxide
+CO2e  carbon dioxide equivalent
+CSP  concentrated solar power
+GDP  gross domestic product
+GEM Brazil Green Economy Model 
+GHG  greenhouse gas 
+HDI  Human Development Index
+IAM  integrated assessment model
+IMP  illustrative mitigation pathway
+IPCC   Intergovernmental Panel 
+on Climate Change
+IPPU  industrial processes and product use
+NCE  New Climate Economy
+NDC  nationally determined contribution 
+NEB  New Economy for Brazil
+N2O   nitrous oxide
+PM2.5  particulate matter 
+PV  photovoltaic
+RCP   Representative 
+Concentration Pathway
+SCC  social cost of carbon
+SD  system dynamics 
+SO2   sulfur dioxide 
+SRES  Special Report on Climate Scenarios
+SSP  Shared Socioeconomic Pathway
+TEA  Total Economy Assessment
+TFP  total factor productivity 
+UFRJ  Federal University of Rio de Janeiro
+UNFCCC   United Nations Framework 
+Convention on Climate Change
+NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS   |   27
+Endnotes
+1 . To learn more about WRI Brasil, visit https://www .wribrasil .org .
+br/; for more information about NCE, see https://newclima-
+teeconomy .net/ .
+2 . According to the UNFCCC (n .d .), the Atmospheric Stabilization 
+Framework (ASF) Model is an “integrated assessment model, 
+which provides a framework for developing scenarios of future 
+emissions based on consistent demographic, economic, and 
+technological assumptions . Its strength is in its links between 
+the use of biofuels, land use, technological development and 
+GHG policy . It is therefore an appropriate tool for evaluating 
+the land-use impacts of response measures .” 
+3 . Regional distributional aspects are also of primary interest for 
+NEB but are being tackled in a new phase for the initiative, 
+under the so-called New Economy for the Amazonia (NEA) .
+4 . See Figure SPM .5: Illustrative Mitigation Emissions Pathways 
+(IMPs) and net zero CO2 and GHG emissions strategies in IPCC 
+(2022) . 
+5 . CenergiaLab was established in 2002 as one of the research 
+branches of the Energy Planning Program of COPPE/UFRJ . 
+See Cenergia’s publications and peer-reviewed research: 
+https://www .cenergialab .coppe .ufrj .br/publications-1 .
+6 . The BLUES model is a perfect-foresight, least-cost optimiza-
+tion model for Brazil . It chooses the energy system config-
+uration with the least total system cost over the entire time 
+horizon of the study, in this case 2010–50 . The model minimiz-
+es the costs of the entire energy system, including electricity 
+generation, agriculture, industry, transport, and the buildings 
+sectors . BLUES finds optimized mixes for the energy system as 
+a whole rather than evaluating sectorial optimal solutions . It in-
+cludes CO2, methane (CH4), and nitrous oxide (N2O) emissions 
+associated with land use, agriculture, and livestock; fugitive 
+emissions; fuel combustion; industrial processes; and waste 
+treatment . Link to the model: https://www .iamconsortium .org/
+resources/model-resources/brazilian-land-use-and-energy-
+system-blues/ .
+7 . Soft-linking is a method designed to jointly/iteratively use the 
+top-down CGE models for a country’s economy and bottom-up 
+energy system optimization models . This method allows two 
+models to operate together, in an iterative process, until they 
+converge on the values of price and quantity parameters in 
+both models . Hard-linking integrates two models . Solutions 
+are found through simultaneous optimization, not iteration 
+(Krook-Riekkola et al . 2017) .
+8 . It is noteworthy that the demands of the energy sector in the 
+COFFEE and BLUES models are demands for energy services, 
+in which the models are free to choose the portfolio of final 
+sources of energy that can meet these demands through 
+different energy end use technologies (different types of vehi-
+cles, thermoelectric power plants, industrial boilers, residential 
+water heaters, etc .) . In the case of the land use modules, the 
+demands are for agricultural products, considering the domes-
+tic and foreign markets provided by the TEA model .
+9 . There are two ways of building future projections . One fo-
+cuses on measuring/predicting the anticipated output from a 
+given input (factor) . Another approach is exploratory; it seeks 
+to understand how a certain scenario will reflect on the perfor-
+mance and dynamics of the system as well as the nature and 
+magnitude of changes in the interconnected system elements . 
+The models described herein are in the latter family of analyti-
+cal tools . 
+10 . In a reinforcing loop, a change in one direction is compound-
+ed by more change . Policies or shocks that move a variable in 
+one direction transmit through the system in a way that leads 
+to further movement in the same direction in such a variable 
+over time . For example, money in a savings account generates 
+interest, which increases the balance in the savings account 
+and earns more interest . Balancing loops, in contrast, counter 
+change in one direction with change in the opposite direction .
+11 . The use of stocks and flows, along with feedback structures, 
+nonlinearities, and potential delays are at the heart of SD 
+modeling . By capturing these core features that characterize 
+systems (e .g ., land, energy, economic) SD modeling can repro-
+duce behavior . Indeed, SD is based on the fundamental idea 
+that the structure of a system determines its behavior over 
+time .
+12 . GEM Brazil includes a total of 993 variables and data inputs, 
+including 91 endogenously determined stocks/levels and 638 
+endogenously determined auxiliary variables (including flows) . 
+Whereas many of those endogenous variables are of primary 
+interest to policymakers (e .g ., the level and growth rate of per 
+capita GDP; the level and ratio of employment; and the GHG 
+emissions, total and by source), others are informative for poli-
+cy (e .g ., the amount of primary forest, the level and distribution 
+of energy demand, and the social cost of carbon) .
+13 . GEM Brazil, being a large model in terms of number of vari-
+ables included for several dimensions (climate, the environ-
+ment, and the social economy) and the coverage of sectors 
+and technologies, includes a large number of feedback loops 
+(over 11,000) . Many are major loops directly included in models 
+as part of the conceptualization and customization process, in 
+what is called the causal loop diagram (CLD) building exercise . 
+Many others emerge naturally from the process of transform-
+ing CLDs into consistent mathematical representations .
+14 . At this stage of NEB, GEM Brazil does not incorporate direct 
+effects of biodiversity changes in GDP via TFP because the 
+estimation of the latter is made at a high level and based on 
+land cover changes only, which does not provide sufficient 
+certainty about the change in the value of the biodiversity 
+variable . More detailed work on biodiversity is expected under 
+a new NEB phase, at which time the linkages to TFP and GDP 
+will be made . NEA, also known as the New Economy for the 
+Brazilian Amazon Project, also investigates related issues .
+15 . A GEM-related SD model produced for Indonesia—referred to 
+as Indonesia Vision 2045, which is part of the country’s Low 
+Carbon Development Initiative led by the Ministry of National 
+Planning—does include such specific structural representation 
+for the COVID-19 epidemic (Medrilzam et al . 2021), based on 
+the so-called susceptible-infected-recovered model (Fidda-
+mann 2020) . Under a new phase of NEB, GEM Brazil could 
+incorporate a structural representation of COVID-19 consider-
+ing the likelihood that the pandemic may not have a short-term 
+resolution and that important tail effects could eventually 
+persist .
+28   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+References 
+Bassi, A .M . 2015 . “Moving towards Integrated 
+Policy Formulation and Evaluation: The Green 
+Economy Model (GEM) .” Environmental and Climate 
+Technologies 16 (1): 5–19 . https://doi .org/10 .1515/
+rtuect-2015-0009 .
+Bassi, A ., and G . Pallaske . 2020 . Technical 
+Documentation GEM Brazil—Integration of GEM and 
+BLUES Models. Geneva: KnowlEdge .
+CE Delft, 2017 . Handboek Milieuprijzen 2017 . S .M . 
+de Bruyn, S . Ahdour, M, Bijleveld, L . de Graaff, A . 
+Schroten . Delft
+Cristaldo, H . 2020 . “Brazil Ranks 84th in World’s 
+Human Development Index .” Agência Brasil, 
+December 16 . https://agenciabrasil .ebc .com .br/
+en/geral/noticia/2020-12/brazil-ranks-84th-worlds-
+human-development-index . 
+Cunha, B .S .L ., R . Garaffa, and A .C . Gurgel . 2020 . “TEA 
+Model Documentation .” Agro Working Paper 001 . São 
+Paulo: São Paulo School of Economics . 
+de Carvalho Köberle, A . 2018 . “Implementation of 
+Land Use in an Energy System Model to Study the 
+Long-Term Impacts of Bioenergy in Brazil and its 
+Sensitivity to the Choice of Agricultural Greenhouse 
+Gas Emission Factors .” PhD diss ., Alberto Luiz 
+Coimbra Institute for Graduate Studies and Research 
+in Engineering, Federal University of Rio de Janeiro .
+Dijkraaf E . and Vollebergh R .J . 2004 . Burn or bury? 
+A social cost comparison of final waste disposal 
+methods . Ecological Economics, 2004, vol . 50, issue 
+3-4, 233-247
+Environmental Prices . CE Delft - https://cedelft .eu/
+method/environmental-prices/
+Federative Republic of Brazil, Paris Agreement 
+Nationally Determined Contribution (NDC) . 2022 . 
+Brasília, 21 March -  https://unfccc .int/sites/default/files/
+NDC/2022-06/Updated%20-%20First%20NDC%20
+-%20%20FINAL%20-%20PDF .pdf
+Fiddamann, T . 2020 . “MSU Covid--What Will 
+Tomorrow Bring?” https://metasd .com/2020/10/msu-
+covid-will-tomorrow-bring/ .
+Forrester, J . 2002 . Road Maps: A Guide to Learning 
+System Dynamics . Cambridge, MA: Sloan School of 
+Management, Massachusetts Institute of T echnology .
+Frederick, K .D ., T . Van den Berg, and J . Hanson . 1996 . 
+“Economic Values of Freshwater in the United States .” 
+Discussion Paper 97-03 . Washington, DC: Resources 
+for the Future . https://media .rff .org/documents/RFF-
+DP-97-03 .pdf .
+Garrido, L ., and A . Bassi . 2022 . “Green Economy 
+Modelling Framework: A T echnical Note .” Washington, 
+DC: New Climate Economy .
+Guan, D ., D . Wang, S . Hallegatte, S .J . Davis, J . Huo, 
+S . Li, Y . Bai, et al . 2020 . “Global Supply-Chain Effects 
+of COVID-19 Control Measures .” Nature Human 
+Behavior 4 (June): 577–87 . https://doi .org/10 .1038/
+s41562-020-0896-8 .
+Hänsel, M .C ., M .A . Drupp, D .J .A . Johansson, F . Nesje, 
+C . Azar, M .C . Freeman, B . Groom, and T . Sterner . 
+2020 . “Climate Economics Support for the UN Climate 
+Targets .” Nature Climate Change 10 (August): 781–89 . 
+https://doi .org/10 .1038/s41558-020-0833-x .
+Hausfather, Z . 2018 . “Explainer: How ‘Shared 
+Socioeconomic Pathways’ Explore Future 
+Climate Change .” CarbonBrief, Arpil 19 . https://
+www .carbonbrief .org/explainer-how-shared-
+socioeconomic-pathways-explore-future-climate-
+change/ .
+16 . The SCC is an estimate, in dollars, of the economic damages 
+that would result from emitting one additional tonne of GHGs 
+into the atmosphere . Specifically, it refers to the marginal cost 
+of the impacts caused by emitting one extra tonne of GHG 
+(CO2 equivalent) at any point in time, inclusive of “nonmarket” 
+impacts on the environment and human health .
+17 . Note that this refers to exogenous assumption of SCC . The 
+cost of externalities is global—not specific to Brazil—but is 
+accepted and approved for use in SCC estimations . 
+18 . Externalities could be viewed as a portion of the cost in the 
+production, which is not incurred by the producer nor by the 
+consumer but is born by the society, the state, and the “other 
+people .” Somebody must “foot the bill .” Since externalities 
+are not included in the estimation of cost, they lead to market 
+distortions . If the producer bore the full cost, including the ex-
+ternalities, some of the activities/products would be economi-
+cally unfeasible or the market price would be higher . 
+19 . Moreover, macroeconomic scenario analyses fail to consider 
+the effects of climate and natural capital depletion and deg-
+radation on baselines . Thus, differential impacts between the 
+baseline and low-carbon, green scenarios over key socioeco-
+nomic indicators are even larger than normally thought . 
+NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS   |   29
+Helper, S ., and E . Soltas . 2021 . “Why the Pandemic 
+Has Disrupted Supply Chains .” White House Council 
+of Economic Advisers Blog, June 17 . https://www .
+whitehouse .gov/cea/written-materials/2021/06/17/
+why-the-pandemic-has-disrupted-supply-chains/ .
+IMF (International Monetary Fund) . 2021 . “World 
+Economic Outlook Update: Policy Support and 
+Vaccines Expected to Lift Activity .” Washington, 
+DC: IMF . https://www .imf .org/en/Publications/WEO/
+Issues/2021/01/26/2021-world-economic-outlook-
+update .
+IPCC (Intergovernmental Panel on Climate Change) . 
+2000 . Summary for Policymakers Emissions 
+Scenarios. A Special Report of Working Group III of 
+the Intergovernmental Panel on Climate Change, 
+edited by N . Nakicenovic and R . Swart . Cambridge 
+and New Y ork: Cambridge University Press . https://
+www .ipcc .ch/report/emissions-scenarios/ .
+IPCC . 2022 . Climate Change 2022: Impacts, 
+Adaptation and Vulnerability . Contribution of 
+Working Group II to the Sixth Assessment Report of 
+the Intergovernmental Panel on Climate Change, 
+edited by H .-O . Pörtner, D .C . Roberts, M . Tignor, E .S . 
+Poloczanska, K . Mintenbeck, A . Alegría, M . Craig, et 
+al . Cambridge and New Y ork: Cambridge University 
+Press . https://doi .org/10 .1017/9781009325844 . 
+Kaye, A .D ., C .N . Okeagu, A .D . Pham, R .A . Silva, J .J . 
+Hurley, B .L . Arron, N . Sarfraz, et al . 2020 . “Economic 
+Impact of COVID-19 Pandemic on Healthcare 
+Facilities and Systems: International Perspectives .” 
+Best Practice & Research: Clinical Anaesthesiology 
+35 (November): 293–306 . https://doi .org/10 .1016/j .
+bpa .2020 .11 .009 .
+Kirti, D ., Y . Liu, S .M . Peria, P . Mishra, and J . Strasky . 
+2022 . “Tracking Economic and Financial Policies 
+during COVID-19: An Announcement-Level 
+Database .” Working Paper 2022/114 . Washington, DC: 
+International Monetary Fund .
+Krook-Riekkola, A ., C . Berg, E .O . Ahlgren, and P . 
+Soderholm . 2017 . “Challenges in T op-Down and 
+Bottom-Up Soft-Linking: Lessons from Linking 
+a Swedish Energy System Model with a CGE 
+Model .” Energy 141 (December): 803–17 . https://doi .
+org/10 .1016/j .energy .2017 .09 .107 .
+Leahy, J ., and S . Wagstyl . 2012 . “Brazil Becomes 
+Sixth Biggest Economy .” Financial Times, March 6 . 
+https://www .ft .com/content/e23a2b34-678e-11e1-b4a1-
+00144feabdc0 . 
+Meadows, D .H . 1980 . “The Unavoidable A Priori .” In 
+Elements of the System Dynamics Method, edited by 
+J . Randers, 23–57 . Cambridge, MA: MIT Press .
+M . Medrilzam, L . Garrido, S . Ida, I . Darliazi-Y ananto, E . 
+Suarga, A . Wijaya, M . Davis, A . Harsono, K . Connolly, 
+and Y . Akopian . 2021 . A Green Economy for a Net-
+Zero Future: How Indonesia Can Build Back Better 
+after COVID-19 with the Low-Carbon Development 
+Initiative (LCDI) . Jakarta: Ministry of Development 
+Planning of Indonesia . https://lcdi-indonesia .id/wp-
+content/uploads/2021/10/GE-Report-English-8-Oct-
+lowres .pdf .
+Nakicenovic, N ., J . Alcamo, G . Davis, B . de Vries, J . 
+Fenhann, S . Gaffin, K . Gregory, et al . 2000 . Special 
+Report on Emissions Scenarios. A Special Report 
+of Working Group III of the Intergovernmental Panel 
+on Climate Change, edited by N . Nakicenovic and 
+R . Swart . Cambridge and New Y ork: Cambridge 
+University Press . https://www .ipcc .ch/report/
+emissions-scenarios/ .
+NCE (New Climate Economy) . 2018 . Unlocking 
+the Inclusive Growth Story of the 21st Century . 
+Washington, DC: NCE, World Resources Institute . 
+https://newclimateeconomy .report/2018/wp-content/
+uploads/sites/6/2018/09/NCE_2018_FULL-REPORT .
+pdf .
+Nordhaus, W .D . 2006 . “The ‘Stern Review’ on the 
+Economics of Climate Change .” Working Paper 
+12741 . Cambridge, MA: National Bureau of Economic 
+Research . https://doi .org/10 .3386/w12741 .
+Nordhaus, W .D . 2017a . “Projection and Uncertainties 
+about Climate Change in an Era of Minimum Climate 
+Policies .” Working Paper 22933 . Cambridge, MA: 
+National Bureau of Economic Research . https://www .
+nber .org/system/files/working_papers/w22933/
+w22933 .pdf .
+Nordhaus, W .D . 2017b . “Revisiting the Social Cost 
+of Carbon .” Proceedings of the National Academy 
+of Sciences of the United States of America 114 (7): 
+30   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+1518–23 . https://doi .org/10 .1073/pnas .1609244114 .
+OECD (Organisation for Economic Co-operation and 
+Development) . 2020 . “Coronavirus (COVID-19): SME 
+Policy Responses .” July 15 . https://www .oecd .org/
+coronavirus/policy-responses/coronavirus-covid-19-
+sme-policy-responses-04440101/ .
+OECD . 2022 . (Database) . Key COVID-19 Policy 
+Responses from the OECD . https://www .oecd .org/
+coronavirus/en/policy-responses .
+PIK (Potsdam Institute for Climate Impact Research) . 
+2020 . “An Economic Case for the UN Climate Targets: 
+Early and Strong Climate Action Pays Off.” July 13 . 
+https://www .pik-potsdam .de/en/news/latest-news/an-
+economic-case-for-the-un-climate-targets-early-and-
+strong-climate-action-pays-off . 
+Probst, G ., and A . Bassi . 2014 . Tackling Complexity: A 
+Systematic Approach for Decision Makers . London: 
+Routledge . https://doi .org/10 .4324/9781351287647 .
+Randers, J . 1980 . Elements of the System Dynamics 
+Method . Cambridge, MA: MIT Press .
+Riahi, K ., D .P . Van Vuuren, E . Krigler, J . Edmonds, 
+B .C . O’Neill, S . Fujimori, N . Bauer, et al . 2017 . 
+“The Shared Socioeconomic Pathways and Their 
+Energy, Land Use, and Greenhouse Gas Emissions 
+Implications: An Overview .” Global Environmental 
+Change 42 (January): 153–68 . https://doi .org/10 .1016/j .
+gloenvcha .2016 .05 .009 .
+Richardson, G ., and A . Pugh . 1981 . Introduction 
+to System Dynamics with Dynamo . Portland, OR: 
+Productivity .
+Roberts, N ., D . Andersen, R . Deal, M . Garet, and W . 
+Shaffer . 1983 . Introduction to Computer Simulation: 
+The System Dynamics Approach . Boston: Addison-
+Wesley .
+Romeiro, V ., et al . 2020 . “A New Economy for a 
+New Era: Elements for Building a More Efficient and 
+Resilient Economy in Brazil .” Working Paper . São 
+Paulo: WRI Brasil . https://www .wribrasil .org .br/sites/
+default/files/wribrasil_neweconomyforanewera_
+en .pdf .
+Rochedo, P .R .R . 2016 . “Development of a Global 
+Integrated Energy Model to Evaluate the Brazilian 
+Role in Climate Change Mitigation Scenarios .” PhD 
+diss ., Alberto Luiz Coimbra Institute for Graduate 
+Studies and Research in Engineering, Federal 
+University of Rio de Janeiro . http://www .ppe .ufrj .
+br/images/publica%C3%A7%C3%B5es/doutorado/
+Pedro_Rua_Rodriguez_Rochedo .pdf .Stern, N ., and S . 
+Dietz . 2008 . Why Economic Analysis Supports Strong 
+Action on Climate Change . London: London School of 
+Economics .
+UNDP (United Nations Development Programme) . 
+2000 . New Atlas of Human Development in Brazil: 
+1991–2000. New Y ork: UNDP .
+UNDP . 2020 . Human Development Country Insights. 
+New Y ork: UNDP .
+UNFCCC (United Nations Framework Convention 
+on Climate Change) . n .d . “Integrated Assessment 
+Models (IAMs) and Energy-Environment-Economy 
+(E3) Models .”  https://unfccc .int/topics/mitigation/
+workstreams/response-measures/modelling-tools-
+to-assess-the-impact-of-the-implementation-of-
+response-measures/integrated-assessment-models-
+iams-and-energy-environment-economy-e3-models .
+van Ypersele, J .-P . 2010 . “Update on Scenario 
+Development: From SRES to RCPs .” Bonn, Germany: 
+United Nations Framework Convention on Climate 
+Change Secretariat .
+World Bank . n .d .a . “GDP, PPP (current international 
+$)—Brazil .” https://data .worldbank .org/indicator/
+NY .GDP .MKTP .PP .CD?locations=BR . 
+World Bank . n .d .b . “Population, total—Brazil .” 
+https://data .worldbank .org/indicator/SP .POP .
+TOTL?locations=BR .
+NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS   |   31
+Acknowledgments
+The authors would like to thank the Danish Ministry 
+of Foreign Affairs for its support and funding of this 
+project, as well as our technical partners KnowlEdge 
+SRL . 
+We also thank the Brazilian experts and institutions 
+that partnered with us for the report, “A New Economy 
+for a New Era: Elements for Building a More Efficient 
+and Resilient Economy in Brazil” (2020), which this 
+technical note expands upon: Pontifical Catholic 
+University of Rio de Janeiro (PUC-RJ), Climate Policy 
+Initiative (CPI), Alberto Luiz Coimbra Institute for 
+Graduate Studies and Research in Engineering of 
+the Federal University of Rio de Janeiro (COPPE/
+UFRJ), Institute for Applied Economic Research 
+(IPEA), Brazilian Federation of Banks (FEBRABAN), 
+and Brazilian Business Council for Sustainable 
+Development (CEBDS) . 
+We thank the following people for providing technical 
+assistance and feedback during the drafting of 
+this working paper: Juan Carlos Altamirano, Andre 
+Lucena, Deepthi Swamy, Gloria Ferrayra, Kenia de 
+Souza, Mariana Imperio, Paulo Camuri and Roberto 
+Schaeffer . 
+Thank you to the New Climate Economy and WRI 
+Brasil teams for their support throughout the project, 
+including, but not limited to: Caroline Rocha, Joana 
+Oliveira, Sara Ascher, Andrea Mendez, Y elena 
+Akopian, Alex Simpkins, and Pandora Batra . Thank 
+you to Romain Warnault, Lauri Scherer and Billie 
+Kanfer for editorial and layout .
+About the Authors
+Leonardo Garrido, Ph.D.: NCE Lead Economist 
+at the time of advancing this research, currently 
+independent climate economics consultant .  
+Contact: oikonomo@gmail .com
+Andrea M. Bassi, Ph.D.: expert in System Dynamics 
+and green economy strategies and scenarios, 
+KnowlEdge Srl . 
+Contact: andrea .bassi@ke-srl .com
+Georg Pallaske: specialist in System Dynamics and 
+sustainability assessments, KnowlEdge Srl . 
+Contact: georg .pallaske@ke-srl .com
+Iryna Payosova, Ph.D.: is an Economist with WRI New 
+Climate Economy . 
+Contact: iryna .payosova@wri .org
+Arya Harsono: is a Research Analyst with WRI New 
+Climate Economy . 
+Contact: arya .harsono@wri .org
+About WRI Brasil
+WRI Brasil is a research institute that transforms 
+great ideas into actions to promote environmental 
+protection, economic opportunity and human well-
+being . It works in the development of studies and 
+implementation of sustainable solutions in climate, 
+forests and cities . It combines technical excellence 
+with political articulation and works in partnership with 
+governments, companies, academia and civil society . 
+WRI Brasil is part of the World Resources Institute 
+(WRI), a global research institution operating in more 
+than 60 countries . WRI relies on the expertise of 
+approximately 1,700 professionals in offices in Brazil, 
+China, the United States, Europe, Mexico, India, 
+Indonesia and Africa .
+About the New Climate Economy
+The New Climate Economy (NCE), a flagship project 
+of the Global Commission on the Economy and 
+Climate, brings together government, business and 
+economic leaders to enhance global and national 
+understanding of how climate action can drive 
+economic, social and development objectives . 
+32   |   NEW ECONOMY FOR BRAZIL: EMPIRICAL FRAMEWORK AND SCENARIO ANAL YSIS
+WRI Brasil 
+Rua Cláudio Soares, 72  Cj. 1510 
+05422-030 | São Paulo (SP) 
+Tel.: +55 11 3032-1120
+Av. Independência, 1299 Cj. 401 
+90035-077 | Porto Alegre (RS) 
+Tel.: +55 51 3312-6324
+wribrasil.org.br
+New Climate Economy
+c/o World Resources Institute 
+10 G St NE 
+Suite 800 
+Washington, DC 20002, USA 
++1 (202) 729-7600
+www.newclimateeconomy.net
+Copyright 2023 World Resources Institute. This work is licensed under the Creative Commons Attribution 4.0 
+International License. To view a copy of the license, visit http://creativecommons.org/licenses/by/4.0/

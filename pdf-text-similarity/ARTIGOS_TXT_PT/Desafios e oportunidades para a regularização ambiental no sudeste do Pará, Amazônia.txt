@@ -1,0 +1,1222 @@
+1
+Desafios e oportunidades para a regularização ambiental 
+no sudeste do Pará, Amazônia, baseado na percepção 
+de atores locais
+Challenges and opportunities for environmental regularization in 
+southeastern Pará, Amazon, based on local actors’ perception
+Izabella da Paixão GOMES1, Samia NUNES1, Rosane Barbosa Lopes 
+CAVALCANTE1, Hellen Kezia Silva ALMADA1,2
+Artigo recebido em 
+6 de maio de 2024
+Versão final aceita em 
+18 de setembro de 2025
+Publicado em 
+16 de abril de 2026
+Resumo: A efetiva implementação da Lei de Proteção da Vegetação Nativa é fundamental 
+para conciliar atividades agropecuárias com a preservação ambiental. Neste estudo, anali­
+samos a conformidade ambiental de 26.703 propriedades rurais em 10 municípios da Bacia 
+Hidrográfica do Rio Itacaiúnas (BHRI), localizada no sudeste do Pará, e investigamos as 
+percepções de 19 proprietários rurais e 46 profissionais da área ambiental sobre a regulari­
+zação ambiental. Até dezembro de 2021 a maioria (99%) dos cadastros analisados na BHRI 
+apresentavam pendências relacionadas ao registro do imóvel no Cadastro Ambiental Rural 
+(CAR). Apenas uma pequena parcela (1%), representando 107 cadastros analisados, está 
+apta para aderir ao Programa de Regularização Ambiental (PRA). Os resultados revelaram 
+que a maioria das propriedades aptas ao PRA ainda não iniciaram o processo de regulariza­
+ção ambiental (78%). Os entrevistados demonstraram conhecimento sobre o CAR (84,2%) 
+e reconheceram a importância das leis de proteção ambiental (94,7%). Os desafios identi­
+ficados incluem altos custos para recuperação de passivos ambientais, falta de incentivos 
+econômicos para motivar a recomposição florestal e baixo conhecimento dos proprietários 
+sobre o PRA. A pesquisa também destacou percepções divergentes entre os profissionais da 
+área ambiental, enfatizando a importância da articulação entre os órgãos estaduais e muni­
+cipais para apoiar as atividades de regularização ambiental. Os desafios identificados neste 
+estudo fornecem recomendações valiosas para políticas públicas visando aumentar a escala 
+da recomposição florestal no Pará. Os principais motivadores para adesão ao PRA foram 
+vantagens econômicas, como acesso a crédito rural e exigências do mercado para comerciali­
+zação da produção. Recomendações incluem ampliação de incentivos financeiros, facilitação 
+do acesso ao crédito, investimento em conscientização ambiental e descentralização das 
+ações de restauração, capacitações para técnicos municipais, promover maior articulação 
+entre órgãos estaduais e municipais, e disponibilizar meios de comunicação mais eficazes 
+para a regularização ambiental. Estas medidas são essenciais para se alcançar efetivamente 
+os objetivos de conservação e restauração ambiental no estado do Pará.
+Palavras-chave: código florestal; propriedades rurais privadas; passivo; percepção ambiental.
+Abstract: Effective implementation of the Native Vegetation Protection Law is crucial for rec­
+onciling agricultural activities with environmental preservation. In this study, we analyzed the 
+environmental compliance of 26,703 rural properties in 10 municipalities of the Itacaiúnas River 
+Basin (BHRI, in Portuguese) located in southeastern Pará, and investigated the perceptions 
+of 19 rural landowners and 46 environmental professionals regarding environmental regular­
+ization. By December 2021, the majority (99%) of the registrations analyzed in the BHRI had 
+pending issues related to property registration in the Rural Environmental Registry (CAR). Only 
+a small portion (1%), representing 107 analyzed registrations, was eligible to join the Rural 
+Environmental Regularization Program (PRA). The results revealed that most properties eligible 
+1 Instituto Tecnológico Vale 
+Desenvolvimento Sustentável 
+(ITV), Belém, PA, Brasil.
+2 Instituto de Pesquisa 
+Ambiental da Amazônia 
+(IPAM), Brasília, DF, Brasil.
+* E-mail de contato: 
+hellenkezia@gmail.com
+v. 67, p. 1-25, jan./jun. 2026 http://doi.org/10.5380/dma.v67i.95400 e-ISSN 2176-9109
+Biblioteca Digital 
+de Periódicos 
+BDP | UFPR 
+revistas.ufpr.br 
+Desenvolvimento e Meio Ambiente usa uma Licença Creative Commons – Atribuição 4.0 Internacional	
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+2
+for PRA have not yet initiated the environmental regularization process (78%). Respondents 
+demonstrated knowledge of CAR (84.2%) and recognized the importance of understanding envi­
+ronmental protection laws (94.7%). The identified challenges include high costs associated with 
+environmental liability recovery, lack of economic incentives to motivate forest restoration, and 
+low owner awareness of the PRA. The research also highlighted divergent perceptions among 
+environmental professionals, emphasizing the importance of coordination between state and 
+municipal agencies to support environmental regularization activities. The challenges identified 
+in this study provide valuable recommendations for public policies aimed at scaling up forest 
+restoration in Pará, Brazil. The main drivers of PRA adoption were economic advantages, such as 
+access to rural credit and market demand for production commercialization. Recommendations 
+include expanding financial incentives, facilitating credit access, investing in environmental 
+awareness, decentralizing restoration actions, providing training for municipal technicians, pro­
+moting greater coordination between state and municipal agencies, and offering more effective 
+communication channels for environmental regularization. These measures are essential for 
+effectively achieving the conservation and environmental restoration goals in the state of Pará.
+Keywords: forest code; private rural properties; deficit; environmental perception.
+1. Introdução
+A Lei de Proteção da Vegetação Nativa (LPVN) (Lei nº 12.651, 2012), popu­
+larmente conhecida como Código Florestal, foi elaborada para equilibrar a 
+produção agropecuária e a conservação da vegetação nativa. A LPVN esta­
+belece normas sobre a proteção e recomposição da vegetação nativa em áreas 
+públicas e privadas, e trouxe inovações significativas ao estabelecer impor­
+tantes instrumentos para o monitoramento e a regularização ambiental de 
+imóveis rurais. Destaca-se, entre esses instrumentos, o Cadastro Ambiental 
+Rural (CAR), um registro público obrigatório para todos os imóveis rurais 
+que integra informações ambientais das propriedades, incluindo Áreas de 
+Preservação Permanente (APP), Reserva Legal (RL) e áreas consolidadas. 
+Além disso, a lei instituiu o Programa de Regularização Ambiental (PRA) e o 
+Projeto de Recuperação de Áreas Degradadas e Alteradas (PRADA), que for­
+necem diretrizes e ações de recomposição para propriedades privadas, visando 
+sua regularização ambiental. No entanto, é importante notar que a legislação 
+reduziu a obrigação de recuperação de áreas desmatadas ilegalmente antes 
+de 22 de julho de 2008, conhecidas como áreas consolidadas, o que pode li­
+mitar o restabelecimento da biodiversidade perdida (Brancalion et al., 2016; 
+Rodrigues & Matavelli, 2020).
+De acordo com o Decreto Federal nº 7.830/2012, a regularização ambien­
+tal ocorre quando são implementadas atividades de manutenção e recupera­
+ção da vegetação em áreas degradadas ilegalmente em APP e RL (Decreto 
+nº 7.830, 2012). Após o registro do imóvel rural no CAR, os produtores que 
+desmataram ilegalmente antes de 22 de julho de 2008 podem aderir volun­
+tariamente ao PRA para informar ao órgão ambiental suas ações de recom­
+posição da vegetação. Com a adesão, os produtores poderão regularizar os 
+seus imóveis, além de suspender eventuais processos decorrentes do desma­
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+3
+tamento dessas áreas (Instrução Normativa SEMAS nº 01, 2020). Apesar das 
+vantagens apresentadas na adesão ao PRA, a efetiva regularização do passivo 
+ambiental é uma realidade distante e depende, em grande parte, do interes­
+se dos produtores rurais e de incentivos que impulsionem a regularização 
+ambiental (Costa, 2020). Neste trabalho, nos referimos a passivo ambiental 
+como o déficit de vegetação nativa em APP e RL que precisa ser regularizado 
+por lei, segundo as alternativas de regularização definidas na LPVN. A regu­
+larização ambiental em terras privadas é importante, pois 44% (375 milhões 
+de hectares) do território brasileiro é coberto por essas terras, sendo que 70% 
+dessa área é representada por imóveis médios e grandes (Sparovek et al., 2019).
+A implementação da LPVN também desempenha um papel crucial para 
+o Brasil alcançar suas metas climáticas (Chiavari & Lopes, 2015). Durante 
+a 21ª Conferência das Partes (COP21) da UNFCCC, realizada em 2015 na 
+França, o Brasil assumiu o compromisso de reduzir as emissões de gases do 
+efeito estufa (Government of Brazil, 2015). A meta atual é reduzir 48% até 
+2025, o que deve ser alcançado com ações que busquem acabar com o desma­
+tamento ilegal e reflorestar e restaurar 12 milhões de hectares de florestas até 
+2030. Porém, a implementação da LPVN ainda é um desafio, pois, mesmo 
+após uma década de sua publicação, a lei está distante de ser efetivamente 
+colocada em prática em todos os estados brasileiros (Lopes et al., 2024).
+O Pará tem se destacado como o estado brasileiro mais proativo na aplica­
+ção de estratégias para monitorar o passivo de vegetação em propriedades pri­
+vadas, alinhando o Código Florestal com outras políticas ambientais (Lopes et 
+al., 2024). Em 2021, o Pará lançou o Plano Estadual Amazônia Agora (PEAA), 
+cujo objetivo é promover ações para redução do desmatamento e aumento 
+de floresta, com uma meta de restaurar 5,6 milhões de hectares até o ano de 
+2030 (Decreto nº 941, 2020). Também foi o primeiro e único estado brasileiro 
+a publicar seu plano de recomposição da vegetação nativa em 2023, um dos 
+instrumentos de cumprimento da meta do PEAA (Secretaria de Estado de 
+Meio Ambiente e Sustentabilidade [SEMAS], 2023). Entre as iniciativas to­
+madas pelo estado estão o aumento das equipes técnicas de análise, a adoção 
+de ferramentas de análise automatizadas do CAR, a adoção de monitora­
+mento por sensoriamento remoto de imagens com alta resolução, fornecendo 
+informações atualizadas e promovendo transparência dos dados online, além 
+de mecanismos de redução de sobreposição e cancelamento de cadastrados 
+sobrepostos (Lopes et al., 2024). No entanto, mesmo com esses esforços, o 
+Pará continua sendo um dos maiores desmatadores da Amazônia (Instituto 
+Nacional de Pesquisas Espaciais [INPE], 2024) e apresenta baixa adesão dos 
+proprietários ao PRA, com iniciativas de recomposição pulverizadas e em 
+pequena escala, compreendendo uma área de apenas 110 mil hectares em 
+processo de recuperação (Lopes et al., 2024).
+O conhecimento sobre as motivações dos proprietários e produtores rurais 
+para adotar práticas de conservação é essencial para impulsionar os esforços 
+no enfrentamento dos desafios ambientais (Thompson et al., 2015). Como os 
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+4
+produtores rurais são os principais responsáveis pelas decisões de conservação, 
+entender como percebem as exigências da legislação e como suas atitudes são 
+moldadas por essas exigências é fundamental para a eficácia das políticas de 
+conservação (Celio et al., 2014; Pacheco et al., 2021). Estudos sobre a percep­
+ção ambiental fornecem informações valiosas para o monitoramento, avalia­
+ção e adaptação de programas de conservação, além de ajudar a identificar as 
+necessidades dos envolvidos e otimizar as estratégias implementadas (Bennett, 
+2016, Fernandes et al., 2025). De acordo com Aronson et al. (2010), apenas 
+3% dos estudos sobre restauração florestal analisam as percepções dos atores 
+envolvidos quanto aos benefícios dos serviços ecossistêmicos e à eficácia das 
+ações de restauração. Exemplo, embora existam diversos estudos que abordam 
+as percepções de produtores rurais sobre práticas de conservação e políticas 
+ambientais (Pacheco et al., 2021), a análise integrada dos diferentes atores que 
+atuam na implementação da regularização ambiental de passivos ambientais 
+na Amazônia é limitada.
+A Bacia Hidrográfica do Rio Itacaiúnas (BHRI), no sudeste do Pará, exem­
+plifica bem esse desafio, tendo perdido 51% de suas florestas e gerado um 
+passivo ambiental de 328 mil hectares, o qual necessita ser recuperado onde 
+ocorreu o desmatamento (Nunes et al., 2019a). Essa perda tem impactos ne­
+gativos na conectividade de corredores ecológicos, na biodiversidade e na 
+oferta de serviços ecossistêmicos para a região (Silva et al., 2025). Este estudo 
+parte da premissa de que as experiências e o conhecimento sobre a legislação 
+ambiental podem influenciar a percepção de diferentes grupos em relação à 
+regularização ambiental. As perguntas centrais do estudo são:
+	 (i)	como o CAR e a adesão ao PRA avançaram na área em estudo?
+	 (ii)	qual o passivo ambiental dos imóveis aptos ao PRA?
+	(iii)	como as percepções sobre a implementação da regularização ambiental 
+variam entre os proprietários rurais, profissionais da área ambiental e 
+técnicos da Secretaria de Estado de Meio Ambiente e Sustentabilidade 
+(SEMAS) no Pará, especialmente em relação aos benefícios, desafios e li­
+mitações do CAR e do PRA?
+Esperamos que proprietários rurais apresentem maior foco em questões eco­
+nômicas e de acesso a crédito. Por outro lado, profissionais da área ambiental, 
+que possuem formação técnica, podem ter uma visão mais crítica e científica 
+sobre a implementação das políticas, enquanto os técnicos da SEMAS po­
+dem se concentrar nas limitações operacionais e estruturais do processo de 
+implementação (Brancalion et al., 2016). Portanto, observamos diferenças 
+significativas nas percepções entre esses três grupos, e estas diferenças podem 
+ser influenciadas por fatores como o conhecimento técnico, a experiência 
+prévia com o CAR e o PRA e o envolvimento direto com as políticas públicas. 
+Essa abordagem visou não apenas destacar os esforços em andamento, mas 
+também identificar desafios e oportunidades para aprimorar as práticas de 
+conservação e recuperação ambiental na região.
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+5
+2. Materiais e métodos
+2.1. Área de estudo
+A área de estudo são 10 municípios que compõem a bacia hidrográfica do Rio 
+Itacaiúnas (BHRI), situada no sudeste do estado do Pará, abrangendo uma ex­
+tensão de aproximadamente 41.300 km² (Figura 1). Os municípios analisados 
+foram: Água Azul do Norte, Canaã dos Carajás, Curionópolis, Eldorado dos 
+Carajás, Marabá, Parauapebas, Piçarra, São Geraldo do Araguaia, Sapucaia 
+e Xinguara (Figura 1). A população total estimada na área é de 714.230 pes­
+soas, com um Produto Interno Bruto (PIB) total de R$ 49 bilhões (Instituto 
+Brasileiro de Geografia e Estatística [IBGE], 2019), o que representa 27,5% do 
+PIB do estado do Pará.
+A vegetação predominante na bacia é a floresta tropical, com presença de 
+manchas de campos ferruginosos (savana) nas áreas mais elevadas, sendo que 
+grande parte da vegetação remanescente está localizada em áreas de unidades 
+de conservação e terras indígenas (Nunes et al., 2019a). A abertura da Rodovia 
+Transamazônica no início dos anos 1970 ocasionou mudanças drásticas na co­
+bertura do solo da BHRI (Souza-Filho et al., 2016). A construção de estradas 
+não oficiais, para estabelecer assentamentos de reforma agrária e pastagens, 
+que também beneficiam a extração de madeira no sudeste da Amazônia, foi 
+Figura 1
+Área de estudo, bacia 
+hidrográfica do rio Itacaiúnas, 
+localizada no estado do Pará, 
+sudeste da Amazônia brasileira.
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+6
+a principal causa do avanço do desmatamento na região (Uhl & Buschbacher, 
+1985; Laurance et al., 2009). A bacia já perdeu 51% de suas florestas, originan­
+do um passivo ambiental de 328 mil hectares que precisam ser recuperados 
+por lei (Nunes et al., 2019a).
+2.2. Levantamento da situação do CAR e PRA na BHRI
+O levantamento dos cadastros CAR potencialmente aptos à adesão ao PRA 
+na BHRI ocorreu através da análise da base de CAR nos 10 municípios da 
+BHRI, pelo site do Serviço Florestal Brasileiro (SFB), com dados disponíveis 
+até dezembro de 2021. De acordo com a Instrução Normativa SEMAS nº 01, 
+2020, a adesão ao PRA só poderá ser realizada após a análise do CAR pelo 
+órgão ambiental responsável: se o imóvel estiver apto, o CAR apresentará a 
+situação cadastral de “analisado, aguardando regularização ambiental” (Lei 
+nº 12.651, 2012). Com isso, nos 10 municípios foram selecionados apenas os 
+cadastrados que se enquadram nesta situação. Em seguida, no portal do PRA 
+da Secretaria de Meio Ambiente e Sustentabilidade (SEMAS, 2022) foram 
+acessadas as informações de cada CAR selecionado e verificada a situação 
+em relação à regularização ambiental, às restrições ambientais dos imóveis 
+e à descrição das áreas a serem regularizadas – com os dados de até oito de 
+janeiro de 2022.
+2.3. Percepções de proprietários rurais e profissionais da área 
+ambiental sobre a implementação da regularização ambiental no Pará
+Foram realizadas entrevistas com detentores dos imóveis rurais da BHRI e 
+profissionais da área ambiental atuantes no estado com o objetivo de coletar 
+e sistematizar dados de suas percepções sobre o avanço do PRA no Pará, bem 
+como o que os atores identificam como os principais desafios e oportunidades 
+deste programa. Os dados foram coletados em cinco etapas:
+	 1)	realização de entrevistas estruturadas em 31 perguntas com proprietários 
+rurais nos municípios de Canaã de Carajás e Parauapebas (Material su­
+plementar 1);
+	 2)	formulário on-line com 15 perguntas para pessoas com formação profissio­
+nal relacionada ao meio ambiente ou com ocupação profissional na área 
+ambiental no Pará (Material suplementar 2);
+	 3)	formulário on-line com 20 perguntas para técnicos da SEMAS (Material 
+suplementar 3);
+	 4)	tabulação e formação de banco de dados; e
+	 5)	análise estatística descritiva dos dados coletados, com base na frequência 
+das respostas.
+A amostragem das entrevistas e formulários foram realizadas pelo método não 
+probabilístico (Santos, 2007). A coleta de dados foi reduzida devido à pande­
+mia da COVID-19 e consequentes restrições de viagens a campo.
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+7
+As entrevistas com proprietários rurais foram realizadas durante uma vi­
+sita em campo nos municípios de Canaã de Carajás e Parauapebas nos dias 
+05 e 06 de outubro de 2021, com 19 proprietários participantes de um evento 
+sobre sistemas agroflorestais. Foram coletados dados de caracterização do 
+proprietário do imóvel, conhecimento sobre a legislação ambiental e regula­
+rização ambiental, implementação da regularização ambiental no Pará e nos 
+municípios de Canaã de Carajás e Parauapebas e as percepções sobre atuação 
+dos órgãos ambientais municipais e estaduais.
+O formulário para profissionais da área ambiental foi encaminhado por 
+e-mail e via plataforma LinkedIn, e foi preenchido por 30 profissionais no 
+período de 16 de novembro a 28 de dezembro de 2021. O formulário para 
+técnicos da SEMAS foi respondido por 16 profissionais no período de 02 a 
+05 de fevereiro de 2022. Estas questões abordaram o perfil dos entrevista­
+dos e área de atuação, percepção sobre o comportamento dos proprietários 
+na implementação da Regularização Ambiental no Pará, ações, recursos e 
+acessibilidade dos sistemas do CAR e PRA, capacitações e desafios para a 
+implementação do PRA no Pará.
+3. Resultados e discussão
+3.1. Situação do CAR na BHRI
+A área total cadastrável nos 10 municípios da BHRI abrange 3,65 milhões de 
+ha, com um total de 26.703 propriedades registradas no CAR até dezembro 
+de 2021 (Figura 2). A alta taxa de cadastramento (91% da área total cadastrá­
+vel) reflete a efetividade de iniciativas do governo, que, em colaboração com 
+instituições como a EMATER e concessão de autorizações às Secretarias de 
+Meio Ambiente municipais para conduzirem as análises do CAR, têm im­
+pulsionado os registros desde 2015 (Lopes et al., 2024). O cadastramento no 
+CAR é um passo crucial para a regularização ambiental, considerando que 
+o cadastro é o primeiro requisito para a regularização das áreas de vegetação 
+nativa e um componente fundamental para a implementação do PRA.
+Apesar do elevado número de registros, apenas 46,3% desses cadastros 
+foram analisados até 2021. Todos os municípios da bacia foram habilitados 
+para análise e validação do CAR entre 2019 e 2022, no âmbito das ações 
+do Programa Regulariza Pará (Decreto nº 2.745, 2022) para acelerar a regu­
+larização ambiental, com exceção de Curionópolis. Quando comparado ao 
+estado do Pará, este número já em 2021 indica um bom desempenho, visto 
+que o estado possuía menos de 63 mil CARs analisados (SEMAS, 2023). Nos 
+anos seguintes o estado conseguiu avançar nas verificações, atingindo 56% 
+de análise dos 329.298 CARs inscritos em todo o Estado no final de 2024 
+(SEMAS, 2024).
+Dos cadastros analisados na bacia, a grande maioria (99%) apresenta pen­
+dências. Apenas 0,1% (n = 11) dos cadastros analisados estavam sem pendên­
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+8
+cias, e uma parcela também pequena de 0,9% (n = 107) está apta para aderir ao 
+Programa de Regularização Ambiental (PRA), com a condição de CAR “ana­
+lisado, aguardando regularização ambiental” (Tabela 1). É importante destacar 
+que grande parte das pendências resulta de cadastros mal elaborados, devido 
+à natureza declaratória dos registros, muitas vezes sem informações precisas 
+sobre a localização da propriedade (Lopes et al., 2024). Esses números ressal­
+tam a complexidade e a urgência da situação, demandando a implementação 
+de ações eficazes para resolver as pendências e promover a conformidade com 
+a legislação ambiental vigente.
+3.2. Situação de adesão ao PRA na BHRI
+A análise da adequação ao PRA revela um cenário preocupante em relação 
+à adesão e implementação dos processos de regularização ambiental BHRI. 
+Embora o CAR tenha sido amplamente implementado, a adesão efetiva ao 
+PRA ainda é muito baixa. Das 107 propriedades aptas para adesão ao PRA 
+(as quais compreendem 200.217,83 hectares), 78% dos proprietários ainda 
+não iniciaram o processo de regularização ambiental, indicando uma resis­
+tência ou falta de motivação para a implementação das ações necessárias para 
+Figura 2
+Localização dos CARs inscritos 
+nos municípios da BHRI.
+FONTE: Autores (modificado de 
+Serviço Florestal Brasileiro, 2021).
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+9
+a recuperação da vegetação nativa (Figura 3; Tabela 1). Desse total, a maior 
+parte é composta por grandes propriedades rurais (90%; > 10 módulos fiscais 
+(MF)), 8% por médias propriedades (> 4 e < 10 MF) e apenas 1% por pequenas 
+propriedades (< 4 MF).
+Na BHRI, o município de Marabá apresenta o maior número de proprie­
+dades aptas para adesão ao PRA (33%; Tabela 1), enquanto Canaã dos Carajás 
+é o município com menor número de propriedades aptas para adesão, com 
+apenas 2% das propriedades analisadas na bacia. Além da disparidade signifi­
+cativa entre a ampla cobertura do CAR nos municípios analisados e o número 
+relativamente baixo de propriedades aptas à adesão ao PRA, um número ain­
+da menor de proprietários efetivamente implementou os PRAs. Apenas 10% 
+dos proprietários aptos tomaram iniciativas concretas para a regularização 
+ambiental, como a contratação de um responsável técnico para o desenvolvi­
+mento do projeto de recomposição de áreas degradadas (PRADA), refletindo 
+um baixo nível de engajamento com as políticas públicas de regularização. A 
+falta de conhecimento sobre a legislação ambiental vigente, somada à ausên­
+cia de incentivos econômicos, parece ser um dos principais obstáculos que os 
+proprietários enfrentam para implementar as ações de regularização. Nunes 
+et al. (2016) ressaltam que a compensação de áreas desmatadas por meio de 
+incentivos financeiros, como os pagamentos por serviços ambientais (PSA), 
+poderia desempenhar um papel fundamental na superação desses desafios, 
+incentivando a adesão ao PRA.
+Além disso, o processo de assinatura do Termo de Compromisso (TC), que 
+é essencial para formalizar a recuperação dos passivos ambientais, apresenta 
+uma baixa adesão, com apenas 20% dos cadastros já validados avançando para 
+essa etapa (Lopes et al., 2024). Isso mostra que, embora os proprietários reco­
+nheçam a importância da regularização, as barreiras estruturais e econômicas 
+Tabela 1 Número de registros e status do CAR nos municípios da BHRI.
+Municípios
+Total de CARs
+Aguardando 
+análise
+Analisado com 
+pendências
+Analisado sem 
+pendências
+Analisado, 
+aguardando 
+regularização 
+ambiental
+Em 
+Análise Cancelado
+Água Azul do Norte
+2.575 (10%)
+1.907
+622
+1
+11 (0,4%)*
+6
+28
+Canaã dos Carajás
+1.444 (5%)
+347
+954
+-
+2 (0,1%)
+7
+134
+Curionópolis
+561 (2%)
+343
+185
+-
+19 (3,4%)
+1
+13
+Eldorado dos Carajás
+4.897 (18%)
+2.363
+2.516
+-
+3 (0,1%)
+3
+12
+Marabá
+8.659 (32%)
+3.742
+4.734
+7
+35 (0,4%)
+29
+112
+Parauapebas
+1.021 (4%)
+620
+372
+1
+5 (0,5%)
+13
+10
+Piçarra
+2.845 (11%)
+1.411
+1.398
+-
+12 (0,4%)
+6
+18
+São Geraldo do Araguaia
+2.708 (10%)
+1.721
+980
+-
+4 (0,1%)
+-
+3
+Sapucaia
+205 (1%)
+156
+40
+-
+4 (2,0%)
+-
+5
+Xinguara
+1.788 (7%)
+1.255
+450
+2
+12 (0,7%)
+2
+67
+Total
+26.703 
+13.865
+12.251
+11
+107 
+67
+402
+* Percentual em relação ao número total de registros no CAR por munícipio.
+FONTE: Serviço Florestal Brasileiro, 2021.
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+10
+impedem a efetivação dessas ações. A falta de regulamentações claras, de um 
+sistema de gestão eficiente e de recursos tecnológicas tecnológicos também 
+agrava a situação, impedindo que o PRA seja uma solução viável para grande 
+parte dos proprietários (Reis et al., 2017, Pacheco et al., 2021).
+3.3. Situação do passivo ambiental dos imóveis aptos ao PRA na BHRI
+A análise das 107 propriedades aptas para aderirem ao PRA revelou um passi­
+vo ambiental de 15.993 hectares, o que representa 8% da área total das proprie­
+dades analisadas. A maior parte desse passivo está concentrada em Áreas de 
+APP, com 60,5% (9.673,6 ha), enquanto a RL representa 39,5% (6.319,40 ha). 
+O maior passivo ambiental (57,2%; 9.154,1 ha) está localizado em APP desma­
+tada antes de 2008, representando desmatamento ilegal antigo (Figura 4). Isso 
+ocorre porque a maior parte das propriedades são maiores do que 10 MF (54 
+propriedades, que representam 90% da área analisada), e para essa classe há 
+uma maior exigência de restauração de APP em relação a propriedades de pe­
+queno e médio porte. Essa predominância pode ser atribuída, em grande parte, 
+à necessidade histórica e cultural de acesso do gado e das pessoas aos corpos 
+d’água, resultando na degradação das APPs ripárias, que correspondem a à 
+maior parte das APPs da região (Nunes et al., 2019b). Esses dados corroboram 
+Figura 3
+Localização dos CARs “analisado, 
+aguardando regularização 
+ambiental (Lei 12.651/12)” 
+até dezembro de 2021.
+FONTE: Autores (modificado de 
+Serviço Florestal Brasileiro, 2021).
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+11
+resultados de estudos anteriores que evidenciam que as APPs no estado do 
+Pará e na bacia do Itacaiúnas são mais impactadas do que as RL, mesmo com 
+uma legislação mais restritiva de uso (Nunes et al., 2015; Nunes et al., 2019b).
+Outro ponto importante a ser destacado é que, embora a RL represente 
+80% da área das propriedades na Amazônia, para fins de restauração, a RL 
+pode ser reduzida para 50% nos municípios da bacia, considerando o per­
+centual de unidades de conservação e o zoneamento ecológico-econômico 
+(Decreto nº 7.830, 2012: Art. 4,5 e 13). Além disso, em pequenas propriedades, 
+o RL corresponde à área de vegetação nativa em 22 de julho de 2008 (Decreto 
+nº 7.830, 2012: Art. 67). Essa possibilidade de redução tem um impacto direto 
+no processo de recuperação das áreas, já que a RL pode ser compensada com 
+áreas de vegetação nativa ou em regeneração natural, o que oferece uma al­
+ternativa viável para a restauração (Nunes et al., 2019a).
+No entanto, mesmo com essa possibilidade de redução da área de RL a 
+ser restaurada, as ações de recomposição ainda não foram implementadas 
+na maioria das propriedades, o que evidencia uma lacuna crítica na imple­
+mentação das políticas de regularização. A falta de ações efetivas pode estar 
+relacionada a uma combinação de fatores, como a ausência de incentivos 
+econômicos, o desconhecimento sobre os benefícios da recomposição e a ine­
+xistência de apoio técnico para os pequenos proprietários, que representam 
+uma grande parte das propriedades na bacia. Como apontado por Nunes et 
+al. (2015), o desenvolvimento de informações detalhadas sobre a dinâmica 
+do desmatamento em APPs e o fortalecimento dos incentivos financeiros são 
+passos cruciais para impulsionar a implementação de ações de restauração 
+em larga escala.
+3.4. Percepções de proprietários ou posseiros rurais, 
+profissionais da área ambiental e técnicos da SEMAS 
+sobre a implementação da regularização ambiental no Pará
+As entrevistas foram realizadas com 19 proprietários ou posseiros rurais, 
+30 profissionais da área e 16 técnicos da SEMAS. O perfil completo destes 
+atores (e.g. gênero, localidade, profissão, atuação, município) está em MS 1,2,3. 
+A maioria dos proprietários entrevistados, 94,7%, possui pequenos imóveis 
+Figura 4
+Área de passivo ambiental 
+em APP e RL em hectares dos 
+imóveis inscritos no CAR com 
+status “Analisado, aguardando 
+regularização ambiental 
+(Lei 12.651/12)” dos municípios 
+localizados na BHRI.
+FONTE: SEMAS, 2022.
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+12
+rurais (até 4 módulos fiscais), visto que este era o foco do público do evento 
+em que as entrevistas foram feitas; e 47,4% estão localizados dentro de Área de 
+Preservação Ambiental ou assentamento. A principal fonte de renda de 79% 
+dos entrevistados provém das atividades desenvolvidas em suas propriedades, 
+e 57,9% ainda não possuem o título definitivo da terra, sendo classificados 
+como posseiros rurais.
+No que se refere ao conhecimento sobre a regularização ambiental, 84,2% 
+dos entrevistados reconhecem a importância do CAR, mas 79% ainda não 
+estão cientes do PRA, um componente essencial para efetivar a regularização 
+do passivo ambiental. Este dado sugere que, embora haja um reconhecimento 
+das leis voltadas para a proteção das florestas e vegetação nativa (94,7% dos 
+entrevistados), a comunicação e o conhecimento sobre os programas de regu­
+larização e recuperação ambiental ainda são limitados. Pacheco et al. (2021) 
+ressaltam que a falta de conhecimento sobre a legislação e a burocracia as­
+sociada à adesão ao PRA representam barreiras significativas. Muitas vezes, 
+especialistas em geoprocessamento e funcionários de sindicatos rurais ou or­
+ganizações não governamentais preenchem os formulários do CAR em nome 
+dos agricultores, o que pode indicar uma falta de conhecimento dos próprios 
+agricultores sobre o processo e suas implicações. Esse cenário destaca a ne­
+cessidade de um maior engajamento dos proprietários rurais no processo de 
+regularização, com mais transparência e disseminação de informações, para 
+garantir a efetividade das políticas públicas e a real implementação das ações 
+de restauração e recomposição ambiental.
+O percentual de agricultores com conhecimento sobre o CAR foi muito 
+próximo ao percentual que relatou ter CAR de sua propriedade obtido em 
+outro estudo no Pará (Castro & Ramos, 2023), com maior número de entre­
+vistados. Embora o conhecimento sobre o PRA não tenha sido analisado, o 
+estudo mostrou que as informações sobre a função e utilização do cadastro 
+para as propriedades rurais ainda não estão claras entre os produtores.
+Notavelmente, todos os entrevistados afirmam não possuir passivos am­
+bientais em RL. Em relação ao desmatamento em APP, apenas 10,5% (n = 2) 
+admitem ter realizado tais atividades, e 15,8% (n = 3) indicam ter pagado mul­
+tas relacionadas a áreas desmatadas. A maior parte dos entrevistados (84,2%; 
+n = 16) aponta os elevados custos associados à recuperação das áreas desma­
+tadas como um dos maiores obstáculos à implementação da regularização 
+ambiental nos municípios. Entretanto, ressalte-se que as respostas podem ser 
+influenciadas pela não compreensão dos termos “Reserva Legal” e “Área de 
+Preservação Permanente”.
+A falta de conhecimento sobre o PRA pode ser um entrave para sua imple­
+mentação, especialmente considerando que os órgãos ambientais federais e es­
+taduais deram pouca prioridade à regulamentação, implantação e divulgação 
+das informações sobre o programa. A atenção dos proprietários se concentrou 
+principalmente no CAR, pois este é necessário para o acesso ao crédito rural, 
+sendo o primeiro passo para a regularização, mas não garante a execução das 
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+13
+ações de recomposição (Celio et al., 2014). Para reverter esse cenário, é im­
+perativo que os órgãos ambientais intensifiquem esforços na divulgação ativa 
+e efetiva do PRA, destacando suas vantagens e importância desse programa 
+para a regularização ambiental (Pacheco et al., 2021). Além disso, é necessá­
+rio ampliar os incentivos para a recomposição florestal (ex.: pagamentos por 
+serviços ambientais, créditos de carbono), facilitar o acesso a créditos para a 
+recomposição, investir em iniciativas de conscientização ambiental direciona­
+das aos responsáveis pelos imóveis, visando alterar sua percepção e incentivar 
+a adesão a políticas ambientais mais abrangentes (Celio et al., 2014, Nunes 
+et al., 2019a).
+Em relação à percepção dos entrevistados sobre a implementação da re­
+gularização ambiental no Pará, os três principais motivos identificados para 
+o cadastro do imóvel no CAR, avaliados por todos os grupos de atores, foram:
+	 (i)	a obtenção de vantagens como acesso a crédito rural e outros financia-
+mentos,
+	 (ii)	a obrigatoriedade legal e
+	(iii)	a exigência do mercado como critério para a comercialização da produção.
+Em contrapartida, a propaganda e os noticiários sobre os prazos do CAR fo­
+ram considerados de menor influência por todos os participantes (Figura 5). 
+Este resultado era esperado, pois no Pará as principais motivações para a re­
+gularização parecem ser de ordem econômica (acesso a crédito rural e exigên­
+Figura 5
+Motivos que influenciam os 
+proprietários ou posseiros rurais 
+a cadastrar um imóvel rural 
+no CAR (nível de importância 
+1 a 6), a partir das percepções 
+dos proprietários e posseiros 
+rurais, profissionais da área 
+ambiental e técnicos da SEMAS.
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+14
+cias do mercado) e legal. Isso sugere que, além de uma legislação ampla, são 
+necessárias motivações adicionais para que os proprietários implementem as 
+ações de recomposição da vegetação. O plantio de sistemas agroflorestais sur­
+ge como uma opção economicamente viável para a regularização ambiental, 
+especialmente para pequenos produtores, com retornos médios estimados em 
+R$ 2 mil por hectare (Nunes et al., 2017).
+Em relação à percepção sobre a adesão dos proprietários ao PRA, os 
+principais motivos para adesão que levam esses proprietários a aderirem, de 
+acordo com quem foi entrevistado, foram: identificados entre os perfis entre­
+vistados foram:
+	 (i)	obter vantagens econômicas, como acesso a crédito rural, suspensão de 
+multas e sanções administrativas, continuidade das atividades econômi­
+cas em APP e RL; e
+	 (ii)	a exigência do mercado, como critério para comercialização da produção.
+Esses resultados evidenciam que, para todos os grupos analisados, o principal 
+motivador para a adesão ao PRA está relacionado a incentivos econômicos e 
+à pressão do mercado. Contudo, o motivo de menor influência varia entre os 
+perfis dos entrevistados. Para os profissionais da área ambiental e os técnicos 
+da SEMAS, o motivo de menor relevância foi a “consciência da importância 
+da recuperação de áreas degradadas”, enquanto para os proprietários e possei­
+ros rurais, a menor influência foi atribuída à “propaganda e noticiários sobre 
+os prazos do PRA” (Figura 6).
+Durante as entrevistas realizadas nos municípios de Canaã de Carajás e 
+Parauapebas, os entrevistados destacaram como um dos principais obstácu­
+los à regularização ambiental os elevados custos associados à recuperação de 
+passivos ambientais. A não regularização ambiental das propriedades rurais 
+pode resultar em riscos substanciais, pois a pressão sobre os recursos natu­
+rais e os serviços ecossistêmicos podem comprometer a atividade produtiva, 
+com impactos negativos na rentabilidade e no acesso a mercados (Federação 
+Brasileira de Bancos [Febraban], 2017). Apesar de a regeneração natural da 
+floresta amazônica ser uma alternativa viável para reduzir esses custos (Pinto 
+et al., 2021a), ainda há uma necessidade significativa de aportes de recursos 
+para o financiamento do passivo ambiental a ser recomposto.
+Nesse contexto, Silva et al. (2020) indicam que os custos médios de imple­
+mentação da recomposição florestal no Sudeste do Pará variam entre R$ 4.810 
+e R$ 26.845 por hectare, dependendo do método de recuperação adotado. 
+Esses valores representam um grande desafio, especialmente para peque­
+nos e médios produtores rurais, que frequentemente enfrentam limitações 
+financeiras significativas para investir na recomposição de áreas degradadas 
+(Soares-Filho, 2013). No entanto, o setor público, por si só, não possui recursos 
+suficientes para financiar toda a demanda necessária, o que implica na neces­
+sidade de um maior envolvimento do setor privado (Febraban, 2017; World 
+Business Council for Sustainable Development [WBCSD], 2024).
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+15
+Nesse sentido, o aumento do fluxo de capitais destinados à recomposição 
+florestal em larga escala no Brasil pode beneficiar tanto o setor privado, que 
+tem a oportunidade de reduzir seus riscos ao contribuir para a manutenção da 
+capacidade produtiva da terra no longo prazo, por meio dos serviços de regu­
+lação do clima, controle da erosão do solo, da perda de nutrientes e provisão 
+de água, quanto os produtores familiares, que podem acessar financiamento 
+para implementar as ações de recomposição (Nasi et al., 2002; Grimaldi et al., 
+2014; Food and Agriculture Organization [FAO], 2017). O desafio, portanto, 
+é criar as condições que viabilizem operações financeiras tanto para os pro­
+dutores quanto para o setor privado, contribuindo para o desenvolvimento de 
+um modelo de produção sustentável no Brasil, alinhado aos princípios da sus­
+tentabilidade e da conservação ambiental (Pinto et al., 2021b; WBCSD, 2024).
+É importante ressaltar que a implementação de incentivos econômicos, 
+como pagamento por serviços ambientais (PSA), pode desempenhar um papel 
+fundamental na mudança de comportamento de proprietários e posseiros ru­
+rais. Tais incentivos podem reduzir ou eliminar ações de degradação florestal 
+(Nogueira & Borges, 2012). Um exemplo bem-sucedido de programa de PSA é 
+o “Conservador das Águas”, criado em 2005 no município de Extrema, Minas 
+Gerais, que tem como objetivo preservar a qualidade dos mananciais de água 
+Figura 6
+Motivos que influenciam os 
+proprietários ou posseiros 
+rurais à adesão ao PRA (nível 
+de importância 1 a 5), a partir 
+das percepções dos proprietários 
+e posseiros rurais, técnicos da 
+SEMAS e profissionais da área 
+ambiental.
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+16
+e promover a adequação ambiental, servindo como um modelo que pode ser 
+replicado em outras regiões.
+Além disso, os entrevistados indicaram que a EMATER (47,4% dos pro­
+prietários e 25% dos técnicos da SEMAS) é o principal local ondem buscam 
+informações sobre regularização ambiental. Para 30% dos profissionais da 
+área ambiental, os órgãos ambientais governamentais federais, estaduais ou 
+municipais são os principais pontos de consulta (Figura 7). O destaque dado à 
+EMATER reflete sua presença com escritórios locais nos municípios do Pará, 
+o que facilita o atendimento direto aos pequenos produtores rurais. Esse cená­
+rio reforça a necessidade de descentralizar as ações de restauração dos órgãos 
+estaduais para os municípios, que possuem uma maior proximidade com os 
+proprietários. A descentralização da gestão ambiental favorece a democra­
+tização da política ambiental, amplia a participação da sociedade e acelera 
+a resposta às demandas locais (Guimarães et al., 2013, Pacheco et al., 2021).
+A percepção sobre a atuação da SEMAS na implementação de ações de 
+regularização ambiental no Pará varia amplamente entre os diferentes grupos 
+entrevistados. Grande parte dos proprietários e posseiros rurais (42,1%), ava­
+liou como ruim ou péssima a atuação da SEMAS, enquanto os profissionais 
+da área ambiental (40%) classificaram como boa. Por outro lado, a maioria 
+dos técnicos da SEMAS (56,3%;) considerou a atuação como excelente ou boa 
+(Figura 8). Essa divergência nas percepções provavelmente está relacionada 
+à localização dos respondentes, já que a maioria (73,3%) dos profissionais e 
+todos os técnicos da SEMAS residem na região metropolitana de Belém, o 
+que lhes permite um maior contato com a sede central da Secretaria. Por ou­
+tro lado, os proprietários e posseiros rurais, que residem em municípios mais 
+distantes, como Canaã de Carajás e Parauapebas, têm contato mais direto com 
+as Secretarias Municipais de Meio Ambiente, que frequentemente apresentam 
+mais limitações de recursos e estrutura (Reis et al., 2017).
+Figura 7
+Locais onde os proprietários 
+ou posseiros rurais procuram 
+informações sobre regularização 
+ambiental no Pará, a partir da 
+percepção dos proprietários 
+e posseiros rurais, técnicos da 
+SEMAS e profissionais da área 
+ambiental.
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+17
+Em relação à atuação das Secretarias Municipais de Meio Ambiente no 
+Pará, também foram observadas divergências nas percepções entre os perfis 
+entrevistados. Para 47,4% dos proprietários e posseiros rurais, as atuações das 
+Secretarias Municipais foram avaliadas como excelentes ou boas. No entan­
+to, 60% dos profissionais da área ambiental e 68,8% dos técnicos da SEMAS 
+consideraram as atuações regulares (Figura 9). Esse resultado pode ser expli­
+cado pela proximidade dos proprietários e posseiros rurais com as Secretarias 
+Municipais, que, devido à sua maior acessibilidade, são vistas de forma mais 
+positiva pelos atores locais. Por outro lado, profissionais e técnicos, com uma 
+visão mais crítica das limitações operacionais e estruturais das secretarias mu­
+nicipais, tendem a avaliar o desempenho dessas instituições de maneira me­
+nos otimista. Essa diferença de percepção entre os grupos entrevistados des­
+taca a relevância da descentralização da gestão ambiental para os municípios.
+Figura 8
+Percepções dos proprietários e 
+posseiros rurais, profissionais 
+da área ambiental e técnicos 
+da SEMAS sobre a atuação da 
+SEMAS na implementação da 
+regularização ambiental nos 
+municípios e no Pará.
+Figura 9
+Percepções dos proprietários e 
+posseiros rurais, profissionais 
+da área ambiental e técnicos 
+da SEMAS sobre a atuação das 
+Secretarias Municipais de Meio 
+Ambiente na implementação 
+da regularização ambiental nos 
+municípios e no Pará.
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+18
+A descentralização da gestão ambiental é um processo importante, pois 
+permite que os governos locais, que têm um melhor conhecimento das ne­
+cessidades da sociedade e das características ambientais específicas de suas 
+regiões, possam elaborar e implementar políticas mais adequadas e eficazes 
+(Andersson et al., 2006; Reis et al., 2017). No Pará, nos últimos anos, houve 
+um aumento significativo no processo de descentralização ambiental, com 
+políticas públicas que subsidiaram a estruturação e fortalecimento dos sis­
+temas ambientais municipais (Silva et al., 2019). A gestão ambiental local 
+se beneficiaria da utilização de práticas sustentáveis e tecnológicas, além de 
+um planejamento ambiental adequado, segurança da posse da terra e recu­
+peração das áreas desmatadas. No entanto, regimes descentralizados devem 
+ser apoiados por condições institucionais adequadas, capacidades e recursos 
+(Reis et al., 2017). Deixar os governos locais desamparados, sem incentivos 
+para economias sustentáveis, pode ser ainda mais prejudicial.
+Os entrevistados indicaram diversos fatores que dificultam ou impedem 
+a implementação do PRA no Pará. Entre os proprietários e posseiros rurais, 
+os três principais motivos foram:
+	 (i)	falta de ações e investimentos do Governo do Pará (22,8%),
+	 (ii)	a dificuldade de acesso à SEMAS e Secretarias Municipais para esclare­
+cimento de dúvidas e orientações (15,8%),
+	(iii)	os altos custos para implementação das iniciativas de regularização am­
+biental nos imóveis rurais (14%) e
+	(iv)	falta de regulamentação e instruções claras (14%).
+Estes fatores refletem a percepção dos proprietários sobre a falta de suporte e 
+a complexidade envolvida no processo de regularização.
+Entre os profissionais da área ambiental, os motivos mais menciona­
+dos foram:
+	 (i)	falta de mais funcionários na SEMAS para avançar na análise do CAR e 
+implementação do PRA (23,6%),
+	 (ii)	a falta de interesse do proprietário ou posseiro em regularização ambiental 
+(16,7%) e
+	(iii)	a falta de articulação entre os órgãos estaduais e municipais para apoio às 
+atividades de implementação nos municípios do Pará (16,7%).
+Esses fatores revelam uma visão crítica das limitações operacionais e da falta de 
+incentivo para que os proprietários se envolvam ativamente na regularização.
+Por fim, os técnicos da SEMAS destacaram motivos semelhantes, com
+	 (i)	a falta de interesse do proprietário ou posseiro em regularização ambiental 
+(25%) como o principal obstáculo, seguido pela,
+	 (ii)	falta de mais funcionários na SEMAS para avançar na análise do CAR e 
+implementação do PRA (16,7%).
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+19
+	(iii)	os altos custos para implementação das iniciativas de regularização am­
+biental nos imóveis rurais (16,7%) e
+	(iv)	a falta de regulamentação e instruções claras (16,7%) (Figura 10).
+Estes dados indicam que, embora haja uma percepção geral de que os custos e 
+a falta de regulamentação são barreiras significativas, a ausência de interesse 
+dos proprietários e a escassez de recursos humanos nos órgãos ambientais 
+também são desafios recorrentes. Estes resultados são consistentes com ou­
+tras pesquisas que indicam que, sem incentivos externos como multas ou 
+exigências do mercado, muitos proprietários não demonstram motivação para 
+a recomposição florestal (Azevedo et al., 2017). Além disso, a carência de téc­
+nicos nos órgãos ambientais é um dos principais desafios para implementação 
+e eficiência do CAR e PRA (Igari et al., 2021, Lopes et al., 2024). A imple­
+mentação de sistemas automatizados para pré-análise são soluções que têm 
+auxiliado a enfrentar essa limitação (Lopes et al., 2024). A automação reduziu 
+significativamente o volume de trabalho manual dos técnicos, facilitando a 
+análise e garantindo maior agilidade na análise dos cadastros
+A avaliação dos meios de comunicação disponibilizados pela SEMAS re­
+vela uma discrepância entre os profissionais da área ambiental e os técnicos 
+da Semas. A maior parte dos profissionais da área ambiental consideraram os 
+meios de comunicação regulares (53,3%), enquanto uma parcela significativa 
+os julgaram ruins (20%) e 13,3% os consideraram péssimos, e apenas 13,3% os 
+classificaram como bons. Por outro lado, os técnicos da SEMAS apresentam 
+uma visão mais favorável, com 68,7% classificando os meios de comunicação 
+como excelentes, 25% como bons e apenas 6,3% consideram regulares e ruins 
+(Figura 11). A comunicação entre a SEMAS e os proprietários e posseiros 
+rurais é apontada como um grande desafio a ser superado, especialmente 
+Figura 10
+Problemas que impedem 
+os avanços ou dificultam a 
+implementação do PRA no 
+Pará a partir das percepções 
+dos proprietários ou posseiros 
+rurais (n = 57 respostas), 
+profissionais da área ambiental 
+(n = 72 respostas) e Técnicos 
+SEMAS (n = 48 respostas), a partir 
+da seleção de até 3 itens mais 
+importantes.
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+20
+em relação à notificação e engajamento dos proprietários nas etapas neces­
+sárias da regularização ambiental (Lopes et al., 2024). O sistema exige que o 
+produtor seja notificado para ações como a retificação do cadastro, comple­
+mentação de informações, e adesão ao PRA ou proposição de um PRADA. 
+Para contornar essa dificuldade, o estado do Pará iniciou mutirões regionais 
+com técnicos da SEMAS, que vão a campo contatar os responsáveis técnicos 
+e solicitar que as notificações sejam atendidas de forma mais ágil (Lopes et 
+al.,2024). Essas ações regionais refletem um esforço importante para superar 
+as barreiras de comunicação e garantir a efetiva implementação das políticas 
+de regularização ambiental.
+Os resultados indicam que, em relação à acessibilidade aos sistemas 
+SICAR/PA, a maior parte dos entrevistados consideram o sistema acessível, 
+tanto entre os profissionais da área ambiental (83,3%) quanto entre os técnicos 
+da SEMAS (93,7%) (indicar a percentagem, como feito no grupo anterior. E 
+padronizar a sigla). O portal do PRA também é considerado acessível pela 
+maioria dos entrevistados, com 60% dos profissionais da área ambiental e 75% 
+dos técnicos da SEMAS expressando essa percepção. Além disso, o tema do 
+PRA tem sido integrado nas pautas de discussões e capacitações promovidas 
+pela SEMAS no Pará, embora ainda seja considerado um assunto relativa­
+mente novo.
+Em relação às capacitações, todos os técnicos da SEMAS entrevistados 
+confirmaram que a Secretaria oferece treinamentos para a elaboração e aná­
+lise do CAR. Além disso, 93,7% dos entrevistados mencionaram que há ca­
+pacitações voltadas ao PRA. O único técnico (3,7%) que desconhecia a reali­
+zação dessas capacitações declarou que não atua nas atividades relacionadas 
+à regularização ambiental. No entanto, uma das questões que emergiu das 
+entrevistas foi a percepção de que o número de funcionários da SEMAS não 
+é suficiente para atender às crescentes demandas de regularização ambiental 
+nos imóveis rurais, com 75% dos entrevistados expressando essa opinião. Isso 
+sugere que o principal desafio enfrentado pela SEMAS pode não ser a falta 
+Figura 11
+Percepções dos profissionais 
+da área ambiental e técnicos da 
+SEMAS sobre os meios de 
+comunicação da SEMAS.
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+21
+de capacitação, mas sim a escassez de recursos humanos, o que compromete 
+a eficácia da implementação das políticas de regularização ambiental.
+Diante disso, a descentralização das análises dos PRADAs para as 
+Secretarias Municipais de Meio Ambiente surge como uma medida importan­
+te para aumentar a eficiência da regularização ambiental. A descentralização 
+permitiria que as atividades nos municípios habilitados para análise do CAR 
+fossem iniciadas com maior celeridade, otimizando os processos e contribuin­
+do para uma resposta mais ágil às necessidades locais.
+4. Conclusão
+Este estudo analisou a implementação do Cadastro Ambiental Rural e a ade­
+são ao Programa de Regularização Ambiental em 10 municípios da região 
+sudeste do Pará, destacando os desafios e oportunidades para a regularização 
+ambiental no estado. Os resultados mostraram que, embora o CAR tenha 
+avançado significativamente, a adesão ao PRA ainda enfrenta desafios impor­
+tantes, principalmente devido ao desconhecimento sobre o programa e à falta 
+de engajamento dos proprietários rurais. A pesquisa revelou que, apesar de a 
+maioria dos proprietários e posseiros rurais reconhecerem a importância do 
+CAR, grande parte deles ainda não estão cientes do PRA, o que indica que a 
+comunicação sobre os programas de regularização ambiental é limitada. Além 
+disso, embora haja um reconhecimento das leis voltadas para a proteção das 
+florestas e vegetação nativa, o conhecimento sobre como essas leis se tradu­
+zem em ações práticas, como o PRA, continua restrito.
+Em relação às percepções sobre as motivações para o cadastro no CAR, 
+os dados indicaram que a principal motivação dos proprietários rurais está 
+relacionada aos incentivos econômicos, como o acesso a crédito rural, exi­
+gências legais e pressões do mercado. Esses resultados sugerem que, além da 
+existência de uma legislação ambiental abrangente, é fundamental fornecer 
+incentivos adicionais para que os proprietários implementem ações de recom­
+posição, com destaque para sistemas agroflorestais, que se mostrem viáveis 
+economicamente, especialmente para pequenos produtores. Os resultados das 
+entrevistas também destacaram como desafio os elevados custos envolvidos 
+na recomposição florestal, o que representa um grande desafio para os peque­
+nos produtores rurais. Embora a regeneração natural da floresta amazônica 
+seja uma opção viável para reduzir esses custos, a necessidade de recursos 
+para financiar a recomposição é um desafio que exige o envolvimento do setor 
+privado e a criação de mecanismos de financiamento sustentáveis.
+A descentralização da gestão ambiental foi identificada como uma estra­
+tégia-chave para melhorar a eficiência do processo de regularização no Pará. 
+A maior proximidade entre os órgãos municipais e os proprietários rurais 
+facilita o acesso à informação e o engajamento dos produtores no processo de 
+regularização. No entanto, a falta de recursos humanos nos órgãos ambientais 
+estaduais e municipais é uma barreira importante que compromete a capaci­
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+22
+dade de implementar as políticas de forma eficaz. A ampliação do quadro de 
+funcionários, o uso de tecnologias como sistemas automatizados e a descen­
+tralização das análises do CAR e do PRA para as Secretarias Municipais de 
+Meio Ambiente são medidas essenciais para melhorar a eficiência do processo 
+de regularização.
+Apesar dos desafios impostos pela pandemia, que resultaram em um nú­
+mero reduzido de entrevistados, a sistematização dos dados e análise dos ca­
+dastros do CAR e do PRA contribuem para a compreensão dos principais 
+desafios e oportunidades para ampliar a regularização ambiental no Pará. As 
+informações obtidas são representativas no nível estadual e estão alinhadas 
+com outros estudos publicados sobre os desafios da restauração florestal na 
+Amazônia. No entanto, para pesquisas futuras, recomendamos a ampliação 
+do número de entrevistados, abrangendo um maior número de proprietários 
+rurais de diferentes portes de tamanho, e atores locais em diferentes regiões. 
+Estas informações podem orientar políticas e práticas de regularização am­
+biental alinhadas às necessidades e realidades locais, promovendo o desenvol­
+vimento sustentável e a conservação ambiental de forma eficaz.
+Referências
+Andersson, K. P., Gibson, C. C., & Lehoucq, F. (2006). Municipal politics and forest 
+governance: Comparative analysis of decentralization in Bolivia and Guatemala. 
+World Development, 34(3), 576–595. https://doi.org/10.1016/j.worlddev.2005.08.009
+Aronson, J., Blignaut, J. N., Milton, S. J., Le Maitre, D., Esler, K. J., Limouzin, A., 
+Fontaine, C., de Wit, M. P., Mugido, W., Prinsloo, P., van der Elst, L., & Lederer, N. 
+(2010). Are socioeconomic benefits of restoration adequately quantified? A meta-
+analysis of recent papers (2000–2008). Restoration Ecology, 18(2), 143–154. https://doi.
+org/10.1111/j.1526-100X.2009.00638.x
+Azevedo, A. A., Rajão, R., Costa, M. A., Stabile, M. C. C., Macedo, M. N., Reis, T. N. P. dos, 
+Alencar, A., Soares-Filho, B. S., & Pacheco, R. (2017). Limits of Brazil’s Forest Code as 
+a means to end illegal deforestation. Proceedings of the National Academy of Sciences, 
+114(29), 7653–7658. https://doi.org/10.1073/pnas.1604768114
+Bennett, N. J. (2016). Using perceptions as evidence to improve conservation and 
+environmental management. Conservation Biology, 30(3), 582–592. https://doi.
+org/10.1111/cobi.12681
+Brancalion, P. H. S., Garcia, L. C., Loyola, R., Rodrigues, R. R., Pillar, V. D., & Lewinsohn, 
+T. M. (2016). A critical analysis of the Native Vegetation Protection Law of Brazil 
+(2012): Updates and ongoing initiatives. Natureza & Conservação, 14(1), e1–e16. https://
+doi.org/10.1016/j.ncon.2016.03.004
+Castro, J. A., & Ramos, P. (2023). Percepção sobre a implementação do Cadastro 
+Ambiental Rural (CAR) no P.A. Tabajara e P.A. Manah no município de Canabrava do 
+Norte-MT. Revista PesquisAgro, 7(1), 1–12. https://doi.org/10.33912/pagro.v7i1.675
+Celio, E., Flint, C. G., Schoch, P., & Grêt-Regamey, A. (2014). Farmers’ perception of their 
+decision-making in relation to policy schemes: A comparison of case studies from 
+Switzerland and the United States. Land Use Policy, 41, 163–171. https://doi.org/10.1016/j.
+landusepol.2014.04.005
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+23
+Chiavari, J., & Lopes, C. L. (2015). Resumo para política pública: Novo Código Florestal. 
+Parte II: Caminhos e desafios para regularização ambiental. Climate Policy Initiative. 
+https://climatepolicyinitiative.org/wp-content/uploads/2015/11/Resumo-para-Pol%C3%ADtica-
+P%C3%BAblica-Parte-II-Caminhos-e-Desafios-para-a-Regulariza%C3%A7%C3%A3o-
+Ambiental-1.pdf
+Costa, R. P. (2020). Déficit estimado de reserva legal: Reconhecimento, disposição e 
+alternativas de regularização (Tese de doutorado, Universidade Federal de Minas 
+Gerais). Repositório Institucional da UFMG. https://hdl.handle.net/1843/55231
+Decreto nº 941, de 3 de agosto de 2020. (2020b, 04 agosto). Institui o Plano Estadual 
+Amazônia Agora (PEAA), cria o Comitê Científico do Plano e o Núcleo Permanente 
+de Acompanhamento do Plano e dá outras providências. DOE-PA. https://www.semas.
+pa.gov.br/legislacao/files/pdf/192188.pdf
+Decreto nº 2.745, de 9 de novembro de 2022. (2022, 10 novembro). Dispõe sobre 
+o Programa Regulariza Pará. DOE-PA. https://semas.pa.gov.br/legislacao/normas/
+view/192140
+Decreto nº 7.830, de 17 de outubro de 2012. (2012b, 18 outubro). Dispõe sobre o Sistema 
+de Cadastro Ambiental Rural, o Cadastro Ambiental Rural, estabelece normas de 
+caráter geral aos Programas de Regularização Ambiental, de que trata a Lei nº 12.651, 
+de 25 de maio de 2012, e dá outras providências. Diário Oficial da União.
+Federação Brasileira de Bancos. (2017). Financiamento da recomposição florestal. GVces/
+FGV-EAESP
+Fernandes, A. A., Adams, C., Peña-Claros, M., Salk, C., Bongers, F., Brancalion, P. 
+H. S., & Rodrigues, R. R. (2025). Determinants of farm-level land use decisions 
+and perceptions of associated ecosystem services in the Brazilian Atlantic Forest. 
+Restoration Ecology, 33(8), e70089. https://doi.org/10.1111/rec.70089
+Food and Agriculture Organization of the United Nations (2017). Sustainable financing 
+for forest and landscape restoration. FAO. https://openknowledge.fao.org/server/api/core/
+bitstreams/7c620a4a-aa85-46f2-b565-cc8a6024a233/content
+Government of Brazil. (2015). Intended nationally determined contribution (INDC) of 
+Brazil to the United Nations Framework Convention on Climate Change. Government 
+of Brazil. https://www4.unfccc.int/sites/ndcstaging/PublishedDocuments/Brazil%20First/
+BRAZIL%20iNDC%20english%20FINAL.pdf
+Grimaldi, M., Oszwald, J., Dolédec, S., Hurtado, M. del P., Miranda, I. de S., Sartre, X. 
+A. de, Assis, W. S. de, Castañeda, E., Desjardins, T., Dubs, F., Guevara, E., Gond, V., 
+Lima, T. T. S., Marichal, R., Michelotti, F., Mitja, D., Notonha, N. C., Oliveira, M. N. 
+D., Ramirez, B.… Lavelle, P. (2014). Ecosystem services of regulation and support in 
+Amazonian pioneer fronts: Searching for landscape drivers. Landscape Ecology, 29, 
+311–328. https://doi.org/10.1007/s10980-013-9981-y
+Guimarães, J., Veríssimo, A., Amaral, P., Pinto, A., & Demachki, A. (2013). Municípios 
+verdes: Caminhos para a sustentabilidade (2ª ed.). Imazon.
+Igari, A., Brites, A., Valdiones, A. P., Junior, B., Salgado, B., Vello, B. G., Pinto, E., Martins 
+Neto, F. L., Prioste, F. G., Sousa, F. das C., Machado, F., Sparovek, G., Cruz, I. P. C. S. 
+da, Timmers, J., Pereira, J. da S., Mello, K. de, Harfuch, L., Sobral, L. M., Barcellos, 
+L. M. de,… Reis, T. (2021). Código Florestal: Avaliação 2017/2020. Observatório do 
+Código Florestal, Instituto de Pesquisa Ambiental da Amazônia.
+Instituto Brasileiro de Geografia e Estatística. (2019). Produto Interno Bruto (PIB). https://
+www.ibge.gov.br/explica/pib.php
+Instituto Nacional de Pesquisas Espaciais. (2024). Monitoramento do desmatamento da 
+floresta amazônica brasileira por satélite. http://www.obt.inpe.br/prodes/
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+24
+Instrução Normativa SEMAS nº 01, de 8 de outubro de 2020. (2020, 09 outubro). 
+Estabelece os procedimentos e critérios para adesão ao Programa de Regularização 
+Ambiental do Pará – PRA no âmbito da Secretaria de Estado de Meio Ambiente e 
+Sustentabilidade – SEMAS e dá outras providências. DOE-PA. https://www.legisweb.
+com.br/legislacao/?id=402545
+Laurance, W. F., Goosem, M., & Laurance, S. G. W. (2009). Impacts of roads and linear 
+clearings on tropical forests. Trends in Ecology & Evolution, 24(12), 659–669. https://doi.
+org/10.1016/j.tree.2009.06.009
+Lei nº 12.651, de 25 de maio de 2012. (2012a, 28 maio). Dispõe sobre a proteção da 
+vegetação nativa; altera as Leis nºs 6.938, de 31 de agosto de 1981, 9.393, de 19 de 
+dezembro de 1996, e 11.428, de 22 de dezembro de 2006; revoga as Leis nºs 4.771, de 15 
+de setembro de 1965, e 7.754, de 14 de abril de 1989, e a Medida Provisória nº 2.166-67, 
+de 24 de agosto de 2001; e dá outras providências. Diário Oficial da União. http://www.
+planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651.htm
+Lopes, C. L. de, Didonet, N. A., Corleto, A. F., & Chiavari, J. Onde estamos na 
+implementação do Código Florestal? Radiografia do CAR e do PRA nos estados 
+brasileiros. Climate Policy Iniciative, PUC Rio. https://www.climatepolicyinitiative.org/
+wp-content/uploads/2024/12/REL-Onde-Estamos-na-Implementacao-do-Codigo-Florestal-
+Radiografia-do-CAR-e-do-PRA-nos-Estados-Brasileiros-Edicao-2024.pdf
+Nasi, R., Wunder, S., & Campos, J. J. (2002). Forest ecosystem services: Can they pay our 
+way out of deforestation? CIFOR for the Global Environmental Facility. https://cgspace.
+cgiar.org/items/5f644a15-f05f-476c-8839-02f4b4cc8762
+Nogueira, J. M., & Borges, L. H. (2012). Incentivos positivos de controle do desmatamento 
+no Brasil. Secretaria de Mudanças Climáticas e Qualidade Ambiental.
+Nunes, S. S., Barlow, J. O. S., Gardner, T. A., Siqueira, J. V., Sales, M. R., & Souza, C. M. 
+(2015). A 22-year assessment of deforestation and restoration in riparian forests in 
+the eastern Brazilian Amazon. Environmental Conservation, 42(3), 193–203. https://doi.
+org/10.1017/S0376892914000356
+Nunes, S., Gardner, T., Barlow, J., Martins, H., Salomão, R., Monteiro, D., & Souza Júnior, 
+C. (2016). Compensating for past deforestation: Assessing the legal forest surplus and 
+deficit of the state of Pará, eastern Amazonia. Land Use Policy, 57, 749–758. https://doi.
+org/10.1016/j.landusepol.2016.04.022
+Nunes, S., Gatti, G., Diederichsen, A., Silva, D., & Pinto, A. (2017). Oportunidades para 
+restauração florestal no estado do Pará. Imazon.
+Nunes, S., Cavalcante, R. B. L., Nascimento Junior, W. R., Souza-Filho, P. W. M., & Santos, 
+D. (2019a). Potential for forest restoration and deficit compensation in the Itacaiúnas 
+watershed, southeastern Brazilian Amazon. Forests, 10(5), 439. https://doi.org/10.3390/
+f10050439
+Nunes, S., Barlow, J., Gardner, T., Sales, M., Monteiro, D., & Souza Junior, C. (2019b). 
+Uncertainties in assessing the extent and legal compliance status of riparian forests 
+in the eastern Brazilian Amazon. Land Use Policy, 82, 37–47. https://doi.org/10.1016/j.
+landusepol.2018.11.051
+Pacheco, R., Rajão, R., Van der Hoff, R., & Soares-Filho, B. (2021). Will farmers seek 
+environmental regularization in the Amazon and how? Insights from the Rural 
+Environmental Registry (CAR) questionnaires. Journal of Environmental Management, 
+284, 112010. https://doi.org/10.1016/j.jenvman.2021.112010
+Pinto, A., Amaral, P., Salomão, R., Oliveira Junior, L., Cunha, C. A. da, & Figueiredo, L. 
+(2021a). Restauração florestal em larga escala na Amazônia: O potencial da vegetação 
+secundária. Imazon.
+Pinto, P., Braga, L., Stabile, M., & Gomes, J. (2021b). Incentivos econômicos para a 
+adequação ambiental dos imóveis rurais dos estados amazônicos. Instituto de Pesquisa 
+Ambiental da Amazônia.
+
+
+Gomes, I. da P., et al.
+Desafios e oportunidades para a regularização ambiental no sudeste do Pará, Amazônia, baseado na…
+Desenvolvimento e Meio Ambiente, v. 67, p. 1-25, jan./jun. 2026
+25
+Reis, T., Guimarães, A., & Pantoja, E. (2017). O futuro do Código Florestal. In J. Gesisky 
+(Org.), Código Florestal brasileiro: Haverá futuro? (pp. 88–95). WWF-Brasil.
+Rodrigues, A. do R., & Matavelli, C. J. (2020). As principais alterações do Código 
+Florestal Brasileiro. Revista Brasileira de Criminalística, 9(1), 28–35. https://doi.
+org/10.15260/rbc.v9i1.300
+Santos, C. (2007). Estatística descritiva: Manual de autoaprendizagem (3ª ed.). Sílabo.
+Secretaria de Estado de Meio Ambiente e Sustentabilidade. (2022). Programa de 
+Regularização Ambiental (PRA): Consulta pública. Governo do Estado do Pará. http://
+sistemas.semas.pa.gov.br/pra/consultaPublica/#/
+Secretaria de Estado de Meio Ambiente e Sustentabilidade. (2023). Relatório de 
+gestão 2023. Governo do Estado do Pará. https://www.semas.pa.gov.br/wp-content/
+uploads/2022/02/Relat%C3%B3rio_Gest%C3%A3o_SEMAS-2023..pdf
+Secretaria de Estado de Meio Ambiente e Sustentabilidade. (2024). Relatório de gestão 
+2024. SEMAS.
+Serviço Florestal Brasileiro. (2021). Dados do Cadastro Ambiental Rural (CAR) extraídos 
+do Sistema Nacional de Cadastro Ambiental Rural (SICAR). Ministério do Meio 
+Ambiente. https://www.car.gov.br
+Silva, B. E. B. da, Azevedo-Ramos, C., & Farias, H. A. B. (2019). The impact of 
+decentralization policies: The environmental performance applied to municipalities of 
+the Amazon. Desenvolvimento e Meio Ambiente, 51, 202–223. https://doi.org/10.5380/dma.
+v51i0.61705
+Silva, D., Nunes, S., Crepaldi, M. O., & Ortega, V. (2020). Custos de restauração florestal 
+para a bacia do rio Itacaiúnas e estrada de ferro de Carajás. ITV.
+Silva, J. C., Almada, H. K., Marques, E. Q., Emmert, F., & Silvério, D. V. (2025). The 
+role of land use and rural property characteristics to forest integrity in a fragmented 
+landscape in the eastern Amazon. Environmental Monitoring and Assessment, 197, 953. 
+https://doi.org/10.1007/s10661-025-14397-5
+Soares-Filho, B. S. (2013). Impacto da revisão do Código Florestal: Como viabilizar o 
+grande desafio adiante? Secretaria de Assuntos Estratégicos.
+Souza-Filho, P. W. M., Souza, E. B. de, Silva Júnior, R. O., Nascimento Júnior, W. R., 
+Mendonça, B. R. V. de, Guimarães, J. T. F., Dall’Agnol, R., & Siqueira, J. O. (2016). 
+Four decades of land-cover, land-use and hydroclimatology changes in the Itacaiúnas 
+River watershed, southeastern Amazon. Journal of Environmental Management, 167, 
+175–184. https://doi.org/10.1016/j.jenvman.2015.11.039
+Sparovek, G., Reydon, B. P., Pinto, L. F. G., Faria, V., Freitas, F. L. M. de, Azevedo-Ramos, 
+C., Gardner, T., Hamamura, C., Rajão, R., Cerignoni, F., Siqueira, G. P., Carvalho, 
+T., Alencar, A., & Ribeiro, V. (2019). Who owns Brazilian lands? Land Use Policy, 87, 
+104062. https://doi.org/10.1016/j.landusepol.2019.104062
+Thompson, A., Reimer, A., & Prokopy, L. (2015). Farmers’ views of the environment: The 
+influence of competing attitude frames on landscape conservation efforts. Agriculture 
+and Human Values, 32(3), 385–399. https://doi.org/10.1007/s10460-014-9555-x
+Uhl, C., & Buschbacher, R. (1985). A disturbing synergism between cattle ranch burning 
+practices and selective tree harvesting in the eastern Amazon. Biotropica, 17(4), 
+265–268. https://doi.org/10.2307/2388588
+World Business Council for Sustainable Development. (2024). Enabling private sector 
+finance at scale for the transition to sustainable agriculture and food systems: Brief for 
+policymakers. WBCSD.

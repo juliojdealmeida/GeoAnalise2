@@ -1,0 +1,1339 @@
+95
+capítulo
+05
+MACROECONOMIA 
+BRASILEIRA E AS INDÚSTRIAS 
+CUL TURAIS E CRIATIVAS
+Marcelo Milan
+96
+97
+FUNDAMENTOS TEÓRICOS DA 
+ABORDAGEM MACROECONÔMICA 
+E APLICAÇÃO AO ESTUDO DAS 
+INDÚSTRIAS CRIATIVAS
+Diferente da microeconomia, que em geral aborda as transações e principalmen -
+te os comportamentos como sendo isolados ou parciais, com a determinação de 
+quantidades a partir de informações sobre os preços de bens e serviços específicos, 
+a macroeconomia estuda os fenômenos econômicos como um todo, isto é, con -
+siderando toda a atividade econômica em um determinado território (como por 
+exemplo o Brasil) e período de tempo (uma década, um ano ou um trimestre por 
+exemplo). Assim, considera-se o valor total de todos os bens e serviços e o nível 
+geral de preços. Esta subárea da economia é mais recente e surgiu nos anos 1930, 
+em uma época de longa e profunda crise econômica, conhecida como a Grande 
+Depressão do século XX (1929-1939)1. 
+Do ponto de vista das quantidades, o volume total de bens e serviços produ-
+zidos foi fortemente reduzido durante este colapso econômico. Com a queda nas 
+vendas, aumentos nos estoques e perdas na produção, o nível de emprego também 
+foi duramente afetado, ao mesmo tempo em que parte significativa das máquinas e 
+instalações ficaram ociosas. O elevado desemprego e a alta ociosidade econômica, 
+ao reduzirem a produção, reduziram concomitantemente a renda total dos agentes 
+econômicos (salários, lucros, alugueis e juros). Esse paralelismo tornou necessário 
+olhar para a economia como um todo, não identificando apenas problemas em 
+mercados isolados ou de transbordamento limitado entre um mercado e outro 
+(Blanchard, 2018).
+Além das quantidades (de produtos, de insumos intermediários, de emprego 
+etc.), em um contexto de crise muitas vezes as empresas cortam seus preços para 
+tentar evitar quedas mais profundas nas vendas. Porém, nem mesmo a chamada 
+1 Houve uma outra Grande Depressão no século XIX (1873-1896), conhecida também como Longa Depressão.
+98
+deflação2, quando os preços em média ficam menores, foi suficiente para estimu-
+lar vendas e a retomada da produção e do emprego. Pelo contrário, contribuiu 
+para piorar as expectativas dos empresários (pessimismo sobre novas quedas nas 
+receitas ou vendas), que seguiam reduzindo a produção, demitindo trabalhado -
+res e liquidando contratos com fornecedores, e muitas vezes mesmo fechando as 
+portas em processos de falência. Além disso, o investimento, isto é, a ampliação 
+da capacidade produtiva por meio da compra de novas máquinas, equipamentos e 
+construção de novas instalações, sofreu forte queda, pois a capacidade produtiva 
+já instalada se mostrou excessiva para a demanda existente e em declínio, com ele-
+vada ociosidade. E o investimento das empresas é um dos principais componentes 
+da despesa agregada na economia como se argumenta a seguir.
+As fortes quedas na produção de bens e serviços e nos preços, e logo na 
+renda, além das elevadas taxas de desemprego, durante um período prolongado, 
+deixava claro que os mercados não se autorregulavam, como suponha a teoria 
+microeconômica baseada apenas no modelo concorrencial de oferta e demanda. 
+Assumia-se que o todo (a então desconhecida macroeconomia) é apenas a soma 
+das partes (microeconômicas, consideradas as únicas análises possíveis) que o 
+compõem (falácia da composição). Os preços não se ajustavam na velocidade ne-
+cessária para evitar fortes consequências negativas para a sociedade em termos de 
+perda de bem-estar material (emprego, renda, consumo) e bem-estar psicológico 
+(motivação, confiança, autoestima etc.). Pelo contrário, a queda nos preços tornava 
+a situação pior, ao contrário do que suponha a microeconomia. A instabilidade  
+prolongada e suas consequências econômicas e sociais se mostravam muito cus -
+tosas para simplesmente aguardar passivamente a autocorreção dos mercados, se 
+tanto, a qual ocorreria apenas no momento em que os preços, baixos o bastante, 
+criassem oportunidades para compras pelos consumidores e logo a retomada das 
+vendas e da produção. 
+O mecanismo de preços se mostrava assim insuficiente para coordenar a 
+atividade econômica, pois apontava para um círculo vicioso em que a queda na 
+2 A deflação é o contrário de inflação, sendo que a última representa um aumento médio nos preços gerais da eco -
+nomia e que hoje é o fenômeno mais comum. Existe ainda a desinflação, que é a passagem de uma inflação maior 
+para uma menor. 
+99
+produção e nos preços acontecia em sucessivas rodadas, deteriorando as expec -
+tativas empresariais e levando a novos cortes. O elevado desemprego não permi-
+tia aos consumidores manterem os seus fluxos programados de despesas, mesmo 
+com a queda nos preços, e o padrão de vida sofreu forte impacto. Portanto, outras 
+medidas de estabilização, ajuste ou correção, baseadas na retomada das compras, 
+deveriam ser adotadas para recuperar a economia e colocá-la em uma trajetória de 
+prosperidade e pleno-emprego, isto é, com o menor nível possível de desemprego 
+e ociosidade da capacidade produtiva instalada (estoque de capital).
+A Grande Depressão deixava claro que nenhuma análise baseada na mi -
+croeconomia poderia dar respostas intelectualmente aceitáveis para a crise. Isso 
+motivou a busca por uma melhor compreensão dos fenômenos que estavam acon-
+tecendo, revelando um descontentamento com as explicações insatisfatórias ad -
+vindas da microeconomia (as principais abordagens microeconômicas foram dis-
+cutidas nos capítulos 1 e 2)3. Por exemplo, segundo a perspectiva microeconômica, 
+o desemprego seria um fenômeno restrito a um mercado específico ou parcial: 
+o mercado de trabalho (Mitchell, Wray e Watts, 2019). A existência de pessoas 
+desocupadas resultaria de forças extraeconômicas que impediriam os salários de 
+caírem. A desocupação da força de trabalho poderia então ser resolvida com base 
+na queda da remuneração ou renda do trabalho, dado que o desemprego só po -
+deria ser causado por salários elevados (pois o desemprego seria um desequilíbrio 
+entre oferta e demanda, com salários elevados estimulando a oferta e restringindo 
+a demanda por trabalho). 
+Assim, sendo o salário o preço dos serviços do trabalho, se o mesmo está 
+acima do preço de equilíbrio, a oferta é maior que a demanda, havendo desempre-
+gados, e o preço deveria cair para restaurar o equilíbrio de mercado, isto é, o mais 
+alto nível possível de emprego. Se os salários pudessem cair livremente até o salário 
+3 Desde os anos 1970 alguns economistas têm tentado retomar a centralidade da microeconomia para discutir pro -
+blemas macroeconômicos. Acreditam que a macroeconomia não pode ser entendida por si, sendo preciso reduzi-la 
+ao comportamento dos agentes e dos mercados que a compõem, sendo mero ato de agregação destes comporta-
+mentos e mercados. Emprega-se então a abordagem do equilíbrio geral, segundo a qual todos os mercados estão 
+conectados a partir de suas ofertas e demandas. Contrapõe-se portanto ao chamado equilíbrio parcial de cada 
+mercado que só é válido sob o pressuposto de ceteris paribus (tudo mais constante, isto é, todos os outros mercados 
+em equilíbrio).
+100
+de equilíbrio, definido como aquele salário que permite a toda oferta voluntária de 
+trabalho ser absorvida pela demanda, as empresas teriam interesse em contratar 
+todos os desempregados que quisessem trabalhar, posto que seria mais barato e 
+logo potencialmente mais lucrativo fazê-lo. Não haveria desemprego duradouro 
+que não fosse opção dos próprios trabalhadores, isto é, desemprego voluntário 4 
+(Mitchell, Wray e Watts, 2019). Se o mecanismo de preços funcionasse, a economia 
+seguiria uma trajetória estável de expansão, isto é, sem períodos de crise, como as 
+recessões ou depressões, pois os preços se ajustariam rapidamente para evitar este 
+resultado o desemprego seria baixo, restrito àqueles que não querem trabalhar por 
+alguma razão. 
+Contudo, ao mesmo tempo em que os salários representam custos para os 
+empregadores, de uma perspectiva microeconômica, representam poder de com-
+pra, ou fonte de demanda ou de consumo para quem recebe. Isto é, para os tra -
+balhadores assalariados de uma perspectiva mais ampla. Essa demanda se reflete 
+na receita das empresas que produzem ou comercializam bens consumidos por 
+estes trabalhadores. Ou seja, reduzir salários significa reduzir demanda por bens e 
+serviços. Redução esta que se processa pela queda da parte do consumo que é paga 
+pela renda do trabalho5. Logo, se os cortes de salários são generalizados na econo-
+mia, muitas empresas se deparariam com queda nas vendas, elevação indesejada de 
+seus estoques, sendo então obrigadas a efetuar cortes na produção, nas compras de 
+fornecedores, inclusive de bens de capital, e no emprego. 
+Portanto, o desemprego não poderia ser considerado apenas como fenôme-
+no microeconômico pertencente ao mercado de trabalho. A demanda por trabalho 
+é uma demanda derivada, dependendo da demanda por bens e serviços que são 
+produzidos por meio deste trabalho. Ou seja, a demanda por bens e serviços é 
+uma demanda indireta pelo trabalho necessário para produzi-los. Se a demanda 
+4 Algumas abordagens microeconômicas consideram que o lazer se torna preferível ao trabalho a partir de determi-
+nados níveis de salário, e a opção por permanecer desempregados é uma decisão dos próprios trabalhadores, que 
+consideram ou os salários muito baixos ou muito altos, substituindo trabalho por lazer. Assume-se no primeiro caso 
+(salários considerados baixos) que o lazer é gratuito e que não precisa da renda do trabalho, ou de qualquer outra 
+renda, para ser consumido. 
+5 Além disso, reduções salariais podem levar a perda de motivação por parte dos trabalhadores, ou uma maior rota-
+tividade de pessoal nas empresas, com elevado fluxo de saída, o que afeta a produtividade, isto é, a produção por 
+trabalhador. Este efeito é chamado de salário-eficiência (Blanchard, 2018).
+101
+agregada é insuficiente, haverá pessoas desempregadas de forma involuntária, ou 
+seja, que gostariam de trabalhar mesmo recebendo salários iguais aos vigentes 
+ou até mesmo menores, mas não encontram empresas dispostas a contratar. E as 
+empresas não contratam porque não estão vendendo a sua produção corrente na 
+velocidade necessária. Mesmo se houvesse disposição dos trabalhadores de traba-
+lharem de graça, não faria sentido contratá-los para aumentar a produção se a ex-
+pectativa é que nem mesmo a atual produção pode ser vendida. Assim, a demanda 
+ou despesa agregada por bens e serviços se tornou a principal foco de preocupação 
+para entender as oscilações na atividade econômica agregada.
+A reação de alguns economistas à inadequação da análise microeconômica 
+existente e à falácia da composição, entre os quais John Maynard Keynes na In -
+glaterra e Michal Kalecki, inicialmente na Polônia e em seguida também na Ingla-
+terra, se dava sobretudo contra as previsões baseadas nas abordagens do mercado 
+de trabalho e do desemprego voluntário. A solução para a Grande Depressão não 
+passava pela redução salarial ou por mudanças no mercado de trabalho, conforme 
+pregava a teoria microeconômica. Era preciso uma nova teoria econômica, mais 
+ampla, que considerasse também, simultaneamente, o mercado de bens e serviços 
+finais, bem como fontes adicionais de demanda para além do setor privado, abrin-
+do espaço para as políticas de estabilização (discutidas na quarta seção) (Blan -
+chard, 2017). Essa visão mais ampla é justamente a abordagem macroeconômica, 
+que enfatiza os agregados, isto é, os resultados totais, não apenas setoriais 6 da 
+economia, apontando para a falácia da composição da microeconomia. 
+Na próxima seção a apresentação do circuito do fluxo da renda mostra essas 
+relações macroeconômicas de forma clara. A variável agregada mais importante 
+para a atividade econômica é portanto a demanda, despesa, dispêndio ou gastos de 
+todos os setores institucionais da economia (famílias, empresas, governo e resto 
+do mundo). (Mitchell, Wray e Watts, 2019). Com base nestes aspectos, esta aborda-
+gem permitiu analisar de forma profunda os fenômenos da deflação (e seu oposto, 
+a inflação), o desemprego, a persistência de níveis elevados de capacidade ociosa, 
+6 Recentemente uma maior ênfase tem sido dada em um nível intermediário de agregação entre a microeconomia e 
+a macroeconomia, a mesoeconomia. V er por exemplo Bêrni e Lautert (2011).
+102
+recessões e crises, introduzindo a importância da formação das expectativas para 
+as decisões de gasto, em particular do investimento. O pleno emprego 7 passou a 
+ser um parâmetro para avaliar o desempenho das economias. Assim, as princi -
+pais preocupações da macroeconomia envolvem a produção agregada de bens e 
+serviços e o ritmo de sua evolução ao longo do tempo, os períodos de expansão e 
+declínio, o desemprego do trabalho, a ociosidade do capital (grau de utilização das 
+máquinas, equipamentos e instalações existentes) e de outros recursos produtivos, 
+o nível dos preços na economia e as relações com o resto do mundo.
+Além dos mercados de trabalho e de bens e serviços, um importante seg -
+mento do mercado financeiro, o mercado monetário, ganhou centralidade na 
+macroeconomia Keynesiana. As modernas economias capitalistas são economias 
+monetárias, isto é, funcionam com base no dinheiro. A circulação monetária entre 
+os diferentes ramos econômicos e a taxa de juros cobrada nos diferentes emprés-
+timos bancários e nas diferentes transações financeiras, passaram a ser pensadas 
+de forma integrada ao resto da economia, isto é, aos demais mercados, pois a ma-
+croeconomia deve olhar para todos os mercados da economia simultaneamente, 
+observando suas inter-relações, e além, considerando também os elementos não 
+mercantis e políticos. 
+A visão monetária anterior, conhecida como teoria quantitativa da moeda, se 
+mostrou equivocada assim como a abordagem microeconômica do desemprego. 
+Segundo a primeira, as variações na quantidade de moeda emitida pelo sistema 
+monetário (banco central mais bancos que recebem depósitos e fazem emprésti -
+mos) poderiam afetar apenas os preços gerais da economia no longo prazo, quan-
+do nada mais poderia ser modificado por definição. Isto é, n ão teriam nenhum 
+impacto na produção e no emprego, pois, adotando a perspectiva microeconômica 
+já discutida, assumia-se que os preços e salários se adequariam à oferta e à demanda, 
+garantindo o pleno emprego e o nível de produção correspondente a este emprego 
+de forma praticamente automática no longo prazo. Como a demanda por moeda 
+era considerada estável e previsível, mudanças na quantidade de moeda afetariam 
+7 Algumas abordagens denominam ‘produto potencial’ a produção máxima que pode ser obtida com o nível mínimo 
+de desemprego dos recursos disponíveis que não gera inflação, dada a presente tecnologia (Blanchard, 2017). 
+103
+apenas os preços no longo prazo. A moeda seria, desta forma, neutra em relação às 
+variáveis reais (produção, emprego, tecnologia etc.). 
+Keynes (1983) argumentou que o dinheiro era também uma forma de rique-
+za substituta dos bens de capital em situação de elevada incerteza e expectativas 
+pessimistas sobre o futuro. Ao reter dinheiro, preferindo manter a liquidez, e não 
+investir, as empresas contribuem para reduzir a demanda por bens de capital e logo 
+a produção dos mesmos e a cadeia produtiva de fornecedores, gerando desempre-
+go. A moeda não é e não pode ser neutra, pelo contrário.
+As flutuações periódicas na atividade econômica explicitavam a natureza 
+instável das economias capitalistas, que por sua vez estimulara o desenvolvimento 
+da macroeconomia. Esta instabilidade pode ser entendida a partir de dois ele -
+mentos. O primeiro é a demanda ou despesa agregada, como já mencionado. Do 
+ponto de vista macroeconômico, a despesa pode ser dividida entre o componente 
+doméstico e o componente externo, isto é, a demanda do resto do mundo pela 
+produção doméstica, ou exportações, subtraindo a demanda doméstica pela pro-
+dução externa, ou importações. O componente doméstico se divide entre gastos 
+de consumo e investimento, pelo setor privado e pelo setor público. Os gastos de 
+investimento, por refletirem expectativas sobre um futuro incerto que portanto 
+não se pode prever ou antecipar, são voláteis, isto é, instáveis, apresentando um 
+padrão de flutuações ao longo do tempo, com períodos de redução da liquidez 
+para aumentar o investimento e períodos em que as empresas preferem manter 
+a liquidez e não investir. Este é o principal, embora não único, determinante da 
+instabilidade macroeconômica.
+Contudo, o investimento não representa, em geral, a maior parcela da despe-
+sa agregada. Como então é possível que possua a capacidade de proporcionar tanta 
+instabilidade e crises de tempos em tempos? A resposta está no segundo elemento. 
+Para entendê-lo, é preciso notar que a macroeconomia pode ser observada a partir 
+de uma visão panorâmica de todos os seus encadeamentos produtivos, comerciais, 
+monetários, técnicos etc. A economia é formada não por mercados, indústrias e 
+ramos de atividade autossuficientes, como se fossem ilhas, mas por complexas 
+cadeias fortemente integradas de produção, comercialização e financiamento que 
+envolvem redes de fornecedores, colaboradores, financiadores ou credores e clien-
+104
+tes, no varejo e no atacado, domésticos e externos, além de governos que regulam 
+e tributam os componentes destas cadeias e redes, além de também efetuar gastos 
+que as movimentam. Uma decisão de gasto ou despesa em qualquer ponto da ca-
+deia gera renda e gastos adicionais que se espraiam por outros pontos interligados 
+da rede, afetando toda a cadeia ou mesmo outras cadeias interligadas. 
+Este segundo elemento é conhecido como efeito multiplicador. Ele está por 
+trás da ideia de que uma determinada atividade econômica gera empregos e renda 
+primários (no próprio setor que inicia os gastos, para ajustar a produção e a renda a 
+estas despesas) e empregos secundários (que são gerados exclusivamente para dar 
+suporte às atividades responsáveis pela geração direta de empregos e renda, isto é, 
+emprego e renda gerados de forma derivada ao longo das cadeias de produção e 
+distribuição, e que não existiriam sem aquele gasto inicial responsável pelo empre-
+go e renda primários). Portanto, uma mudança na despesa agregada é magnificada 
+pelo efeito multiplicador, que depende da disposição média a gastar dos agentes 
+econômicos. Quando maior a disposição secundária a gastar a renda gerada ini -
+cialmente pelo gasto primário, ajustada pelos tributos, pelas importações e pela 
+acumulação de ativos financeiros, maior o efeito multiplicador. O multiplicador 
+tem portanto a capacidade de ampliar a renda e logo as despesas induzidas por esta 
+variação na renda, isto é, despesas de consumo, vendas externas e investimentos, 
+gerando uma trajetória de instabilidade a partir do primeiro elemento da despesa8. 
+Assim, mesmo que o investimento não perfaça a maior parte da despesa agregada, 
+suas flutuações são amplificadas pelo efeito multiplicador.
+A macroeconomia mostra que o funcionamento do todo é diferente do fun-
+cionamento das partes que perfazem este todo, mostrando a falácia da composição 
+(Mitchell, Wray e Watts, 2019). Para ilustrar esse resultado de uma outra forma, 
+é importante notar que existe uma importante igualdade contábil, isto é, uma 
+igualdade que é sempre verdadeira por definição, na macroeconomia: a igualdade 
+8 Existem também fatores econômicos que contribuem para amortecer os efeitos das despesas no sistema econômi-
+co: são os chamados estabilizadores automáticos. Estes incluem impostos e tributação em geral, despesas com bens 
+importados e aquisição de ativos financeiros. 
+105
+entre investimento (gasto com máquinas, equipamentos, instalações e estoques 9) 
+e poupança macroeconômica (a parte da renda que não é destinada aos bens de 
+consumo e que portanto só pode ser destinada aos bens de capital e aos bens não 
+vendidos ou estoques)10. Essa igualdade se verifica de forma contábil apenas no 
+plano macroeconômico, isto é, ao observar o resultado final de todas as decisões 
+dos agentes econômicos em termos de gastos ou despesas (a poupança é decisão de 
+não gastar em bens de consumo), sendo que para um conjunto de pessoas os gastos 
+excedem as receitas e para outros se dá o contrário. Para cada agente, mercado ou 
+setor tomados individualmente não há igualdade. Pelo contrário, a desigualdade 
+entre decisões de gasto em bens de capital e acumulação de ativos financeiros é a 
+regra no plano meso ou microeconômico. 
+Considerando os setores culturais e criativos, a ênfase na compreensão do 
+bom ou mal funcionamento da economia como um todo proporciona instru -
+mentos que podem ser aplicados para estes segmentos específicos. No caso das 
+atividades econômicas associadas à cultura e também no caso das chamadas in -
+dústrias criativas, os elementos acima podem ser aplicados como desdobramentos 
+setoriais. Por exemplo, pode-se calcular o valor monetário da produção nestes 
+setores em um dado período de tempo: da produção de novos filmes em um ano, 
+da produção envolvida nas novas peças de teatro em cartaz no trimestre, novos 
+lançamentos de livros, produção de novos espetáculos de música etc.). Pode-se 
+estimar o volume total de emprego e renda gerados em cada uma destas atividades, 
+e também os empregos e rendas indiretos gerados ao longo da cadeia de produção 
+e distribuição. E também os impactos econômicos destas atividades sobre o resto 
+da economia na forma de despesas com aquisição de insumos ou vendas para 
+segmentos que utilizam estes produtos como insumos (ver a este respeito a última 
+seção deste capítulo). 
+9 Estoques aqui são a parte da produção não vendida no período de mensuração. A contabilidade social força o 
+registro da venda destes estoques, assumindo que as empresas que os produziram são os compradores finais.
+10 Diferencia-se, assim, o investimento financeiro, que são apenas aplicações de renda monetária em ativos financeiros, 
+do investimento macroeconômico, que trata da aquisição de bens de capital. E a poupança macroeconômica difere 
+da caderneta de poupança, que é um produto bancário disponível para os clientes com poupança, isto é, trata-se de 
+uma aplicação financeira possível da poupança, mas não a única (a poupança poderia ser aplicada em Certificados 
+de Depósitos Bancários (CDB), por exemplo. Ou mantida como depósito à vista em uma conta corrente.
+106
+Tudo isso remete a uma outra questão central: como mensurar ou contabili-
+zar o valor da produção da economia? Este é justamente o papel de um importante 
+instrumento auxiliar da macroeconomia: a contabilidade social ou o sistema de 
+contas nacionais, tópico da próxima seção.
+107
+FUNDAMENTOS DE 
+CONTABILIDADE SOCIAL
+A discussão na seção anterior remete à necessidade de se produzir indicadores ou 
+medidas precisas que sintetizem a atividade econômica agregada sem a necessidade 
+de um elevado número de indicadores setoriais ou microeconômicos dispersos e 
+desarticulados. Isto é, com a necessidade de se desenvolver uma nova forma de en-
+tender o funcionamento da economia surgiu também a necessidade de instrumen-
+tos e métodos sistemáticos de mensuração da atividade econômica agregada. Como 
+a atividade econômica está baseada em transações de distintas naturezas, mas, dada 
+a natureza da sociedade capitalista, monetárias 11, os valores correspondentes po-
+dem ser classificados, mensurados, registrados, e somados ou contabilizados para 
+se alcançar um totalizador ou um conjunto reduzido de dados que reflita de forma 
+sintética as condições econômicas agregadas. Neste contexto foi desenvolvida a 
+contabilidade social ou nacional para proporcionar conhecimento empírico siste-
+matizado sobre a atividade macroeconômica. 
+Diferente da contabilidade empresarial, a contabilidade social estrutura e or-
+ganiza as contas da nação, desenvolvendo e aperfeiçoando metodologias próprias 
+para este fim, ainda que mantendo a necessidade da consistência entre as contas 
+pelo método das partidas dobradas12. Este método procura dotar as mensurações 
+de maior acurácia. É possível assim conhecer o volume e o valor da produção, da 
+renda associada a esta produção, e das despesas que validam parcial ou totalmente 
+as decisões de produção. Por exemplo, a centralidade da despesa agregada para o 
+desempenho da economia, em particular dos gastos com investimento, sugere que 
+as contas nacionais devem ser estruturadas de forma a identificar a natureza dos 
+gastos e seus principais componentes, para que não se confunda a aquisição de um 
+bem durável de consumo com uma despesa de investimento. As regras contábeis 
+11 A centralidade do dinheiro é tão importante que mesmo as atividades não mercantis, a produção para autoconsumo 
+ou os serviços providos pelo setor público têm valores monetários imputados de forma estimada (ou com base no 
+custo monetário das mesmas) para inclusão nas contas nacionais.  V er Feijó et al. (2013).
+12 Este método contábil requer que toda transação seja contabilizada de forma dobrada, como entrada e saída, débito 
+e crédito ou, mais em sintonia com o sistema de contas nacionais moderno, recursos e usos, de forma que sejam 
+sempre iguais com sinal trocado para que a soma seja zero, a condição que garante a consistência.
+108
+seguidas pela contabilidade social são padronizadas e sistematizadas internacio -
+nalmente por meio do Sistema de Contas Nacionais (SCN) da Organização das 
+Nações Unidas (ONU), cuja última revisão foi feita em 2008. No Brasil, desde 
+1985 o IBGE publica informações sobre as contas nacionais, com dados de fre -
+quência anual e trimestral (contas nacionais trimestrais).
+Os dois principais instrumentos contábeis do sistema de contas nacionais 
+são as Contas Econômicas Integradas (CEI) e Tabelas de Recursos e Usos (TRU). 
+As CEI são estruturadas em termos de grandes setores institucionais (empresas 
+financeiras e não financeiras, famílias, administrações públicas, instituições sem 
+fins lucrativos a serviço das famílias e resto do mundo) e três contas (corren -
+tes, acumulação e patrimônio). O adjetivo “integradas” remete à macroeconomia, 
+pois os valores mensurados só fazem sentido quando entendidos em conjunto, 
+como dimensões pertencentes à mesma realidade econômica. As TRU mensuram 
+os resultados da produção e a utilização da renda considerando vários setores de 
+atividade. Ambos os instrumentos devem estar conceitualmente articulados para 
+garantir a consistência dos resultados (Feijó et al., 2013).
+ Sem estender muito a discussão para evitar os seus aspectos mais téc -
+nicos, com relação às CEI, as contas correntes registram o valor das transações 
+de produção de bens e serviços (conta de produção), e geração, distribuição (ren-
+dimentos, como salários, renda mista – não atribuída nem ao trabalho nem ao 
+capital – e  lucros, também chamados de excedente operacional bruto) e utilização 
+da renda para fins de consumo ou poupança (conta de renda). Na macroeconomia, 
+como já mencionado, a poupança é a parcela da renda monetária não consumida, 
+que então só pode ser acumulada na forma de ativos financeiros, em um primeiro 
+momento, ou de ativos reais ou bens de capital em seguida. As contas de acumu-
+lação partem do saldo de poupança disponível nas contas correntes e adicionam 
+as transações efetuadas, que distribuem os novos fluxos entre os estoques existen-
+tes13, e também as mudanças no valor dos estoques que não dependem das tran -
+sações. Por exemplo, a poupança, a parte da renda monetária que foi inicialmente 
+13 As definições de fluxo e estoque são aprofundadas a seguir. É importante entender bem a diferença entre os dois 
+conceitos. Segundo Michal Kalecki, a economia é a arte de confundir fluxos e estoques.
+109
+adicionada ao estoque de dinheiro ou ao estoque de depósitos bancários, pode ser 
+utilizada para adquirir imóveis antigos, que são estoques. Mas o valor destes imó-
+veis pode mudar em função de eventos no mercado imobiliário mesmo antes de 
+a poupança ser transformada em valor imobiliário. Ambos os efeitos contribuem 
+para modificar o valor total do estoque ou da riqueza. As contas de acumulação 
+incluem as subcontas de capital, financeira, de outras variações no volume dos 
+ativos e conta de reavaliação. As duas primeiras indicam a capacidade ou necessi-
+dade de financiamento da economia. O saldo da conta de acumulação é o ponto 
+de partida para a conta de patrimônio, que trata apenas de estoques. Esta conta 
+está subdividida em conta de patrimônio inicial, conta de variação de patrimônio 
+e conta de patrimônio final. Para tanto são apurados os valores derivados de va -
+riação dos ativos não financeiros, variação dos ativos financeiros, variação dos 
+passivos financeiros e variação do patrimônio líquido, que é a medida mais recente 
+da riqueza líquida da economia (Feijó et al., 2013).
+Diferente das CEI, as TRU abordam as transações não por setores insti -
+tucionais, mas por ramos de atividade. Os fluxos intersetoriais assim registrados 
+permitem mensurar a atividade econômica de forma desagregada, indicando 
+como a produção, a renda e a despesa se distribuem na economia. As tabelas são 
+decompostas em recursos (produção e importação de bens e serviços, incluindo 
+impostos indiretos ou sobre produtos, subtraídos de subsídios), usos (consumo 
+intermediário e despesa final em termos de consumo, formação bruta de capital 
+fixo ou investimento e exportações) e valor adicionado, que nada mais é que o 
+novo valor pago na forma de renda, que é gerada em cada etapa da produção. Os 
+empregos por setor também são contabilizados nas TRU. Os resultados são então 
+agregados em 12 grupos de atividades: Agropecuária; Indústria extrativa; Indús -
+tria de transformação; Produção e distribuição de eletricidade, gás, água, esgoto e 
+limpeza urbana; Construção civil; Comércio; Transporte, armazenagem e correio; 
+Serviços de informação; Intermediação financeira, seguros e previdência com -
+plementar; Atividades imobiliárias e aluguéis; Outros serviços; e Administração, 
+saúde e educação públicas e seguridade social. As atividades culturais e criativas 
+ficam inseridas em algumas destas classes agregadas.
+110
+A principal medida da atividade econômica agregada proporcionada pelas 
+contas nacionais é o Produto Interno Bruto (PIB) (Mitchell, Wray e Watts, 2019). 
+Este valor pode ser medido segundo três óticas equivalentes captadas nas CEI e 
+TRU, isto é, óticas que geram necessariamente um valor idêntico: produção, ren-
+da e despesa. Pela ótica da produção, o PIB é definido como a soma dos valores 
+monetários dos bens e serviços finais novos, isto é, produzidos formalmente e 
+legalmente para venda ou para a provisão de necessidades em um determinado 
+período de tempo. Nesta ótica o valor do PIB possibilita vários recortes possíveis. 
+Por exemplo, PIB pode ser decomposto como a soma do valor da nova produção 
+primária agregada (agropecuária), do valor da nova produção industrial agregada e 
+do valor da nova produção agregada de serviços.
+O PIB pode ser calculado como agregado de bens e serviços finais muito 
+diversos (incluindo, por exemplo, automóveis, espetáculos teatrais, livros, serviços 
+veterinários, sacas de café, cortes de frango congelado etc.) porque mensura a pro-
+dução a partir de uma medida comum: o valor monetário. Não é possível somar 
+quantidades ou volumes produzidos de bens e serviços com unidades de medida 
+distintas (toneladas, metros cúbicos, gigawatts, número de consultas, horas de aula 
+etc.), mas como são geradas para a venda, isto é, para serem transformados em di-
+nheiro, ou já são computadas com um valor monetário imputado por metodologia 
+própria no caso das atividades de autoconsumo ou não mercantis, este valor pode 
+ser somado e contabilizado de forma agregada. 
+Para evitar dupla contagem (duplicação indevida), apenas o valor dos bens 
+e serviços finais é considerado, embora as TRU explicitem o consumo interme -
+diário que compõe o valor bruto da produção, isto é, o valor calculado com du -
+pla, tripla etc. contagem. Os bens intermediários e os insumos têm seus valores 
+incorporados no valor dos produtos finais. Para se isolar o valor dos bens finais 
+dos bens intermediários, se calcula o valor adicionado em cada etapa da produção. 
+O valor adicionado é basicamente a remuneração do trabalho, capital (ativos reais 
+ou financeiros) ou do uso da propriedade de recursos naturais, e portanto o valor 
+da produção é necessariamente igual ao valor da renda paga e recebida durante o 
+processo produtivo. Ainda, apenas a produção formal e legal pode ser mensurada 
+111
+diretamente. A produção informal e ilegal pode ser estimada por outros métodos 
+indiretos (Feijó et al. 2013). 
+A produção enquanto fluxo significa criação de algo novo durante um inter-
+valo de tempo (bens e serviços ou renda gerada na produção destes bens e servi-
+ços). Os bens duráveis usados (segunda mão) não são computados no PIB quando 
+são vendidos. Eles foram calculados no PIB do ano em que foram produzidos, isto 
+é, quando eram novos. Nos próximos períodos eles passam a fazer parte do esto-
+que ou riqueza da economia14. Mas se a venda envolver alguma comissão, essa ren-
+da entra no cálculo do PIB (remuneração por um novo serviço prestado na venda 
+de um bem usado). Por fim, o PIB é mensurado trimestralmente ou anualmente. 
+Isso reforça o conceito de fluxo, ou seja, uma medida que acontece continuamente 
+e que só pode ser medida se for fixado um intervalo para demarcar o início e o fim 
+do período de mensuração. O PIB anual é calculado de primeiro de Janeiro a trinta 
+e um de dezembro de cada ano (ano calendário). 
+Alguns aspectos envolvidos no cálculo do PIB permitem aprofundar o en -
+tendimento acerca desta variável. O adjetivo “interno” se refere aos limites territo-
+riais da produção, que se confundem com as fronteiras nacionais. Toda a produção 
+nova que ocorre dentro destas fronteiras é incluída no cálculo do PIB. A presença 
+de empresas multinacionais com sede em países estrangeiros, assim com os traba-
+lhadores destes países, não muda o cálculo do PIB. Porém, as empresas brasileiras 
+operando em outros países ou os trabalhadores brasileiros trabalhando e receben-
+do salários em outros países não entram no cálculo do PIB do Brasil. Isto remete 
+a um outro adjetivo utilizado para qualificar a produção: “nacional”. O PNB é o 
+Produto Nacional Bruto, que considera apenas a produção efetuada por empresas 
+e trabalhadores brasileiros, não importa se no Brasil ou em qualquer outro país. 
+14 Portanto, é incorreto identificar o PIB com riqueza. A riqueza é um estoque, ou seja, uma variável que se acumula 
+ao longo do tempo e que pode ter seu valor mensurado a qualquer momento, sem a necessidade de se fixar um 
+intervalo com início e fim. Diferente da riqueza, o PIB não é cumulativo ao longo dos anos, pois seu prazo mais longo 
+convencionalmente é o de um ano. A cada dia primeiro do ano o cálculo do PIB começa do zero novamente. O PIB é 
+um fluxo, uma fonte de riqueza que se incorpora a ela quando não é consumido integralmente, mas não se confunde 
+conceitualmente e contabilmente com ela. Assim, o investimento ou formação bruta de capital fixo faz parte do 
+PIB no ano em que ocorre, mas o capital fixo acumulado faz parte da riqueza nos anos seguintes enquanto não se 
+depreciar. A contabilidade social dispõe também de métodos específicos para calcular a riqueza financeira, como as 
+matrizes de fluxos de fundos das contas monetárias e financeiras e a própria conta de patrimônio (Feijó et al., 2013).
+112
+Portanto, a diferença entre PIB e PNB é justamente a renda enviada ao exterior 
+para remunerar as empresas e trabalhadores estrangeiros que operam no Brasil, 
+ajustada pela renda de empresas e trabalhadores brasileiros recebida do exterior. 
+Por fim, o adjetivo “bruto” diz respeito ao fato de que o produto não foi ajustado 
+pelo desgaste ou depreciação do estoque de capital instalado no país. Como parte 
+da produção deve necessariamente ser destinada para a reposição da parte desgas-
+tada das máquinas, equipamentos e construções, então ela não está disponível para 
+utilização para outros fins. Se a depreciação é considerada no cálculo, então tem-se 
+o produto interno (ou nacional) líquido. 
+Como os valores são calculados em termos monetários, utilizando preços 
+de mercado apurados ou imputados, ou ainda custos monetários de produção, 
+surge o problema das variações nos preços. O PIB é a soma de valores monetários, 
+definidos como quantidades físicas ou reais multiplicadas pelos preços monetários 
+praticados/imputados no período de apuração. Se os preços monetários mudam, 
+o valor monetário do PIB muda automaticamente. Isso dificulta comparações ao 
+longo do tempo, pois no limite o PIB poderia aumentar apenas com a elevação 
+dos preços, isto é, com a inflação. O PIB calculado utilizando preços monetários 
+variáveis ou correntes é chamado de PIB nominal. Importa notar que, como a 
+inflação tem sido uma característica perene das economias capitalistas desde a 
+década de 1950, o PIB nominal sempre cresce, e pode não permitir observar a 
+existência de ciclos, quando o PIB real pode encolher (ver discussão sobre ciclos 
+neste capítulo). 
+Para eliminar este problema, é preciso deflacionar (tirar a inflação) o PIB 
+nominal utilizando um índice geral de preços (IGP) como deflator. O objetivo 
+por trás do deflator é eliminar a variação nos preços monetários (em geral positiva) 
+como fonte de variação no PIB, criando a ilusão de crescimento na produção ou 
+na renda. Esse ajuste é alcançado ao se calcular o PIB utilizando preços mone -
+tários constantes. Neste caso, qualquer variação no PIB será devida a variações 
+na produção gerada, isto é, no volume total de bens e serviços. Esta medida do 
+PIB ajustada pela inflação é conhecida como PIB real. Em economia, toda variá-
+vel nominal pode ser corrigida para expurgar os efeitos da inflação, sendo assim 
+transformadas em variável real (Blanchard, 2018). As variáveis reais proporcionam 
+113
+uma apreciação mais efetiva dos impactos, e muitas vezes estão diretamente rela-
+cionadas com o padrão de vida ou nível de bem-estar. 
+De forma mais geral, os índices de preços são calculados por meio de pes -
+quisas frequentes com painéis fixos mas ajustáveis de produtores, comerciantes no 
+atacado e comerciantes no varejo, além de painéis de produtos, considerando uma 
+quantidade fixa cujo valor se modifica com a mudança nos preços. Assim é possí-
+vel pesquisar os preços gerais da economia, bem como os preços aos produtores, 
+preços no atacado, preços aos consumidores, preços da construção civil, núcleo de 
+preços (expurgando preços mais voláteis) etc. No caso dos preços aos consumido-
+res, é possível mensurar os preços pagos por consumidores em diferentes grupos 
+de renda, por meio de pesquisas de orçamento familiar (POF). Estas mostram 
+como as famílias gastam sua renda monetária em diferentes grupos de bens de 
+consumo e serviços. 
+As duas outras óticas para o cálculo do PIB são a da renda e a da despesa, 
+ambas obtidas por meio das CEI. Considerando a renda, o PIB ou RIB (Renda 
+Interna Bruta) é a soma dos valores pagos em salários e ordenados (W), lucros 
+(P), juros (R) e alugueis (A). Assim, PIB = RIB = W + P + R + A. Pela ótica da 
+despesa,  o PIB ou DIB (Despesa Interna Bruta) é a soma dos valores dos gastos 
+com consumo e investimento, podendo ser diferenciada entre público e privado, 
+e exportações líquidas (exportações menos importações). Assim, PIB = RIB = 
+DIB = C + I + G + X – M. A equivalência entre as três óticas pode ser ilustrada 
+por meio do fluxo circular da renda disposto na figura 1. O diagrama mostra o 
+circuito de renda real e monetária entre dois setores institucionais: as empresas 
+(não financeiras ou apenas empresas, operando no mercado de bens e serviços de 
+consumo e de investimento e financeiras, dentro da caixa do mercado financeiro) 
+e as famílias. Trata-se de um fluxo circular simplificado, restrito ao setor privado 
+doméstico. O setor governo e o setor externo poderiam ser inseridos para comple-
+tar o circuito para a economia como um todo, tornando o diagrama mais realista, 
+mas também mais complicado. A ideia básica, contudo, pode ser compreendida 
+com o fluxo simplificado.
+114
+FIGURA 1 – FLUXO CIRCULAR DO PIB PARA UMA 
+ECONOMIA FECHADA E SEM GOVERNO
+Mercado de 
+bens de 
+investimento
+Mercado de 
+bens e 
+serviços
+E mpr esas F amí liasM er cado 
+ﬁnanceir o
+M er cado de 
+tr ab alho
+D emanda de 
+máq. e equip .
+R eceita de v endas 
+de bens de 
+inv estimento
+R emuner ação do 
+f ator tr ab alho
+R eceita de v endas e 
+de bens e ser viços de 
+consumo ﬁnal
+D espesas com a 
+compr a de bens e 
+ser viços de 
+consumo ﬁnal
+O ferta de tr ab alho
+D emanda de fundos O ferta de fundos
+Fonte: Feijó et al., 2013, p. 10.
+Visualizando o fluxo circular pelo lado da produção, as empresas produzem 
+bens e serviços de consumo final para as famílias e bens de investimento para as 
+próprias empresas. A soma do valor destes dois conjuntos de bens fornece o PIB. 
+Pelo diagrama não é possível visualizar as diferentes etapas da produção e logo o 
+consumo intermediário ou a adição de valor em cada estágio. Porém, as empresas 
+utilizam trabalho, o remuneram com o pagamento de salários e ordenados. As 
+empresas demandam fundos do sistema financeiro, e remuneram estes serviços 
+com juros (pagam os fundos mais juros, não identificados no diagrama). As má -
+quinas e equipamentos (bens de investimento) e as instalações podem ser arren -
+dadas, gerando pagamento de alugueis (não identificados no diagrama). Por fim, 
+as empresas recebem a diferença entre as receitas das vendas de bens e serviços 
+115
+(de consumo e de investimento) e seus pagamentos, sendo esta diferença o lucro 
+(também não identificados no diagrama). 
+Portanto, em contrapartida aos fluxos reais do trabalho, capital (real e finan-
+ceiro) e propriedades, há pagamentos monetários. Estes pagamentos constituem 
+a renda monetária da economia, permitindo identificar o resultado pela segunda 
+ótica. Por fim, as famílias compram bens e serviços finais de consumo, e as em -
+presas compram máquinas e equipamentos (ou alugam seus serviços). Neste cir -
+cuito, as famílias podem não gastar a totalidade da sua renda monetária com bens 
+e serviços de consumo, poupando a diferença. Essa poupança é canalizada para 
+o sistema financeiro e proporciona renda de juros. E o valor da poupança é con-
+tabilmente igual ao valor da produção de bens de investimento. A soma das duas 
+despesas representa o gasto agregado desta economia, concluindo a apresentação 
+do circuito pela terceira ótica. 
+Se o fluxo circular fosse completo, o setor governo entraria no fluxo tri -
+butando (e às vezes subsidiando) a produção, a renda e as despesas, produzindo 
+bens e serviços por uma lógica não mercantil, e ao mesmo tempo também realiza 
+despesas ao comprar bens e serviços de consumo ou bens de investimento para 
+inversões públicas (estradas, escolas, hospitais etc.) junto ao setor privado. Se o 
+governo possui dívida interna, ele também efetua pagamentos de juros para as em-
+presas e famílias detentoras de títulos públicos. O setor externo entraria no circui-
+to por meio de despesas junto às empresas exportadoras e por meio da provisão de 
+bens importados, que complementam a produção das empresas domésticas para 
+satisfazer as despesas agregadas. As especificidades do setor externo são tratadas 
+no capítulo 7 deste livro.
+O fluxo circular da renda e a equivalência das três óticas pode ser utilizado 
+para reforçar a importância do raciocínio macroeconômico. Retomando a discus-
+são da seção anterior, pelo fluxo circular da renda se pode notar como a remune-
+ração do fator trabalho (salários) pelas empresas, sendo um custo ao se abordar 
+apenas o mercado de trabalho, se transforma em despesas com a compra de bens 
+e serviços de consumo final pelas famílias trabalhadoras no mercado de bens e 
+serviços. Sendo a macroeconomia o estudo do fluxo circular como um todo, e não 
+apenas dos fluxos no mercado de trabalho, a questão da relação custo-rendimen-
+116
+to-despesa fica clara. A microeconomia considera apenas o salário como custo 
+pelas empresas e a oferta dos serviços do trabalho como um elemento necessário 
+para produzir os bens e serviços. Mas nesta abordagem não é possível responder 
+às questões: quem vai adquirir estes bens e serviços? Isto é, como esta produção 
+será comprada?15
+Por fim, é importante notar que a contabilidade não explica o comporta -
+mento macroeconômico. As variáveis calculadas são medidas a partir de uma de-
+finição, e as relações contábeis são assim sempre verdadeiras, gerando identidades 
+que se verificam com a totalização das transações econômicas já feitas e classifica-
+das e organizadas com base nas próprias definições. Mas é preciso explicar como 
+o resultado contábil foi alcançado a partir da atuação dos diversos agentes econô-
+micos operando na economia. Esta abordagem é desenvolvida na próxima seção.
+ 
+15 A teoria pré-Keynesiana (e também muita teoria mais recente) respondia a esta questão assumindo a chamada Lei 
+de Say, formulada pelo economista francês Jean-Baptiste Say. Segundo Say, a oferta cria sua própria demanda. Ou 
+seja, a produção gera a renda que é utilizada automaticamente para aquirir a produção. Na verdade a renda é real, 
+isto é, medida em termos de bens e serviços. É uma visão mecânica e primitiva do fluxo circular. T odo ato de venda 
+da produção é automaticamente um ato de compra desta mesma produção, e não existe a possibilidade lógica de 
+insuficiência de demanda na economia. Este resultado é alcançado a partir do pressuposto de que as trocas econô-
+micas seguem um arranjo do tipo escambo, em que bens e serviços são trocados por outros bens e serviços sem a 
+necessidade do uso do dinheiro, bancos ou crédito. Quando as vendas e as compras podem acontecer em períodos 
+distintos em função da existência do dinheiro como meio de troca, a visão de Say se mostra inválida. A renda mone-
+tária gerada pela produção pode não ser gasta imediatamente. Se há poupança, então as compras são menores que 
+as vendas, pois mesmo que a poupança se transforme em investimento pela queda na taxa de juros, o processo de 
+investimento leva tempo para se materializar. Ainda, a produção corrente depende dos investimentos (demanda) 
+feitos no passado, que respondem a expectativas de vendas que podem não ser validadas pelos consumidores no 
+período recente, porque eles poupam em vez de consumir.
+117
+DETERMINAÇÃO DA 
+RENDA E EMPREGO
+A contabilidade social mensura os valores monetários e reais de um conjunto de 
+atividades econômicas. Contudo, ela apenas registra contabilmente estes valores 
+após as transações terem ocorrido. Pelo fluxo circular, não importa o ponto de 
+partida, o ponto de chegada tem de ser sempre o mesmo, por uma necessidade de 
+consistência contábil. As contas nacionais não explicam as razões que orientam 
+estas transações, isto é, a complexa cadeia de decisões, ações e reações que fizeram 
+com que os valores fossem aqueles e não outros. Por exemplo, por que o PIB no 
+Brasil em 2019 foi de R$ 7,4 trilhões e não de R$ 8,1 trilhões? A contabilidade social 
+permite chegar um valor muito preciso do PIB para um determinado período, de-
+compondo-o em termos de seus componentes da produção, da renda e da despesa. 
+Mas não permite explicar como se chegou àquele valor a partir das consequências 
+produzidas pelo comportamento econômico. Para explicar este conjunto de causas 
+e efeitos que levam a um determinado valor do PIB, é preciso considerar os fatores 
+que condicionam o comportamento agregado da economia a partir das múltiplas 
+interações econômicas que ocorrem continuamente, sejam as decisões de produção 
+das empresas, o dispêndio dos diferentes setores institucionais, e a renda recebida 
+por capitalistas, trabalhadores ou rentistas. Busca-se, assim, responder à questão: 
+Quais os mecanismos por trás da geração de valor econômico? Em particular, 
+como a renda (PIB) e o nível de emprego são determinados?
+Na macroeconomia existe uma diferença no tratamento da determinação da 
+renda. Alguns economistas diferenciam a determinação da renda no curto prazo 
+da determinação da renda no longo prazo. Em geral, acredita-se que no curto 
+prazo a renda é determinada pela demanda. De qualquer forma, a determinação 
+da renda é um processo que se desenrola continuamente no tempo. Por isso a 
+contabilidade mensura a atividade macroeconômica a partir de períodos padroni-
+zados. Várias transações econômicas acontecem simultaneamente e também em 
+sequência. Toda venda gera uma receita ou renda, que por sua vez pode ser gasta 
+ou poupada. Toda despesa representa um uso de renda presente ou futura (caso 
+seja financiada por dívida). Portanto, as despesas geram simultaneamente renda 
+118
+para quem vende. Mas a partir do momento em que a renda é gerada no processo 
+de produção e circulação, ela proporciona uma nova rodada de gastos na sequên-
+cia. A partir do momento em que a despesa é feita pelas empresas, pelas famílias, 
+pelo governo ou pelo setor externo, as empresas domésticas respondem por meio 
+da produção ou de novas despesas de investimento, gerando nova renda e novas 
+despesas desta renda. O processo parece não ter início ou fim, tal qual o fluxo cir-
+cular. Assim, é preciso diferenciar as despesas induzidas e as despesas autônomas, 
+isto é, que não dependem da renda corrente gerada com a produção, mas de renda 
+acumulada na forma de riqueza ou de rendimentos esperados no futuro (expec -
+tativas), que podem ser antecipadas na forma de empréstimos bancários ou outra 
+forma de financiamento. 
+O ponto de partida para a determinação da renda é a decisão de injetar gas-
+to novo autônomo no fluxo circular. É importante enfatizar que este gasto não 
+depende da renda corrente e que ele pode ser feito a partir da transformação de 
+parte da riqueza existente em ativos líquidos, isto é, dinheiro. Ou a partir de em -
+préstimos bancários ou crédito16. Neste caso, a expectativa é que o gasto produzirá 
+renda suficiente no futuro para pagar os empréstimos. As expectativas sobre o 
+futuro são aqui fundamentais. Depois de efetuada a despesa autônoma, retoma-se 
+a sequência gasto, produção nova, nova renda, novos gastos induzidos pela nova 
+renda e assim por diante. 
+Da discussão anterior fica claro que o ponto de partida para se determinar o 
+ponto de chegada, ou PIB, é uma despesa autônoma qualquer. A partir da opera-
+ção do efeito multiplicador, uma despesa autônoma gera novas rodadas de produ-
+ção, renda e despesa induzida. Portanto, a renda é determinada pelo gasto inicial e 
+pelas rodadas de gastos induzidos pela geração de renda associada à produção para 
+atender a cada aumento nos gastos, sendo que o multiplicador nada mais é que o 
+16 O crédito não precisa da existência de fundos prévios, ou um estoque financeiro advindo de decisões passadas de 
+poupança, como implicado na figura 1. Os bancos têm o poder de criar dinheiro, isto é, depósitos à vista que podem 
+ser utilizados para pagamentos, a partir de escriturações contábeis. A palavra crédito vem do Latim credere, ou 
+acreditar, confiar. Os bancos fazem empréstimos com base na confiança na capacidade de pagamento do tomador, 
+e se esta confiança existir, criam poder de compra novo se necessário, simplesmente debitando e creditando contas 
+em seu balanço. 
+119
+resumo destas rodadas17. Esta despesa autônoma pode assumir a forma de gastos 
+de consumo, públicos ou privados, gastos de investimento, públicos ou privados, 
+e gastos do resto do mundo. Estes últimos são a forma mais autônoma de gastos, 
+pois são determinados em grande parte por decisões de agentes de fora do país. 
+Portanto, apesar da equivalência contábil, os fluxos de produção, renda e despesa 
+não são equivalentes do ponto de vista da dinâmica macroeconômica. Eles são 
+hierarquizados em termos de sua autonomia e capacidade de ampliar os fluxos 
+econômicos. 
+Para entender o porquê desta diferenciação entre as óticas do fluxo circular, 
+isto é, para dar uma resposta à questão de se seria o gasto o único ponto de partida 
+para determinar a renda e a produção, considere-se o seguinte. Pode-se iniciar o 
+circuito com uma decisão autônoma de produzir? Neste caso a produção deveria 
+ser independente das decisões de gasto e da renda sendo simultaneamente gera -
+da. Mas em uma economia capitalista, toda produção feita pelas empresas é uma 
+produção para venda (com lucro). Não existe produção por produção, pelo ato de 
+criar algo, pela sensação de ser produtivo, pelo desejo de mobilizar trabalho, capi-
+tal, recursos naturais e tecnologia pela mobilização em si. As empresas produzem 
+com o objetivo de lucrar com a produção. Mas o lucro só acontece se a produção 
+for vendida a um preço superior ao custo. As vendas são necessárias para o lucro 
+das empresas. Nenhuma empresa inicia a produção sem considerar a capacidade 
+de vendê-la. Isso só seria possível no mundo alternativo da Lei de Say, no qual as 
+vendas são determinadas automaticamente pela renda e pela produção. Tudo o 
+que é produzido é vendido. As empresas trabalham com expectativas, e mesmo as 
+mais otimistas são sobre o ritmo de vendas, isto é, despesas de clientes. Portanto, 
+a produção é dependente dos gastos18. 
+Seria então possível começar o circuito por um pagamento autônomo de 
+renda monetária, isto é, independente da produção e do gasto correntes? Esse 
+17 Uma parte dos gastos pode se refletir em queda nos estoques acumulados em períodos anteriores. Portanto, é 
+possível gerar renda sem produção corrente. Mas há um limite para este efeito, dado pela gestão estratégica de 
+estoques pelas empresas.
+18 Isso vale para a maior parte da produção. Não se considera a produção de serviços por voluntários, a atuação de ins-
+tituições sem fins lucrativos que prestam serviços para famílias, a própria produção para autoconsumo, a produção 
+de serviços individuais etc. T oda esta produção é pré-capitalista em sua essência.
+120
+pagamento representaria uma antecipação, pois não haveria produção corrente, e 
+seria preciso desacumular ativos existentes para efetuá-la, o que significa vender 
+ativos e portanto um tipo específico de gasto pelos compradores. Mas porque em 
+uma economia capitalista as empresas pagariam salários aos trabalhadores, juros 
+aos bancos ou credores, dividendos aos acionistas, aluguéis aos proprietários sem 
+iniciar a produção ou sem vender uma produção anterior? O pagamento de remu-
+neração está vinculado a uma contrapartida, sendo em geral feita após iniciada a 
+execução do serviço contratado. Se é feita antes, ela exige que se tenha expectativa 
+de que o serviço será executado e o que o produto do mesmo será vendido para 
+recuperar a despesa antecipada. Há portanto dois graus de incerteza: cumprimento 
+do contrato implícito de prestação do serviço e capacidade de vender o produto do 
+serviço realizado com lucro. Na verdade o sistema financeiro, por trabalhar com 
+a transformação de vencimento das operações de ativos e passivos, e logo com 
+antecipações e, menos comum, prorrogações, pode reduzir o segundo tipo de in-
+certeza. Mas as empresas não podem antecipar despesas sem expectativa de receita 
+como prática regular, isto é, esta prática seria esporádica, incapaz de proporcionar 
+fluxos suficientemente impulsionadores da circulação ampliada da produção. E 
+ela está de qualquer forma vinculada a uma despesa, ainda que despesa futura. 
+Assim, a decisão de produzir vincula e subordina os pagamentos a serem feitos. 
+E como a produção depende das vendas (gastos), a geração de renda também é 
+consequência, e não causa, da despesa. Portanto, a despesa autônoma tem primazia 
+na capacidade de iniciar os fluxos que movem a economia.  
+Com relação à determinação do emprego, ele ocorre simultaneamente à pro-
+dução. Os planos de produção como resposta à expectativa de vendas só podem se 
+concretizar pela mobilização efetiva do trabalho, do capital, dos recursos naturais, 
+dos bens intermediários e da tecnologia. Keynes (1983) mostrou que esta produção 
+poderia não empregar toda a força de trabalho disponível, pois a produção depen-
+de da expectativa de venda da produção feita com base no trabalho empregado. 
+Se as expectativas são pessimistas, as empresas seguram o dinheiro e não contra-
+tam e não compram insumos dos fornecedores, mantendo possivelmente parte 
+da capacidade instalada ociosa. Portanto, o nível de emprego assim determinado 
+será compatível com desemprego de parte da força de trabalho. Como então au -
+121
+mentar o nível de emprego ou mesmo alcançar o pleno emprego, isto é, a situação 
+em todos os trabalhadores disponíveis para o trabalho ao nível salarial existente 
+conseguem emprego? 
+A resposta à primeira questão é relativamente simples. Para aumentar o nível 
+de emprego, é preciso aumentar o nível de produção, desde que não haja mudanças 
+na produtividade (já que uma maior produtividade permite aumentar a produção 
+sem uma variação proporcional no nível de emprego). E para aumentar o nível de 
+produção, assumindo que não há outros gargalos produtivos como disponibili -
+dade de insumos e infraestrutura, é preciso modificar as expectativas de vendas. 
+As expectativas de vendas dependem da evolução dos gastos. Portanto, o nível 
+de emprego, para uma dada estrutura produtiva, também depende das despesas 
+agregadas. A resposta à segunda questão é mais difícil. Keynes considerava que o 
+pleno emprego é um nível difícil de alcançar e, uma vez atingido, é improvável que 
+a economia permaneça neste ponto. As razões incluem por um lado a inércia do 
+desemprego, com a economia podendo permanecer abaixo do pleno emprego por 
+longos períodos, sem tendência de se mover nesta direção. Seria apenas por coin-
+cidência que a economia alcançaria este nível. E por outro a instabilidade crônica 
+do capitalismo, com a despesa de investimento sendo volátil e com o multiplicador 
+ampliando as variações nestas despesas, fazendo o desemprego variar com a pro-
+dução e com as despesas. 
+É importante aqui diferenciar entre variações no nível de emprego e varia -
+ções na composição do emprego. O emprego potencial é dado pelo tamanho da 
+força de trabalho, que se divide entre empregados e desempregados19. A resposta 
+da produção às despesas pode ser feita utilizando a força de trabalho existente, 
+aumentando as horas extras. A partir de determinado ponto, mantendo a expan -
+são das vendas, haveria necessidade de novas contratações. Se o desemprego fosse 
+muito baixo, seria difícil atrair novos trabalhadores sem aumentos consideráveis 
+dos salários e necessidade de praticar preços mais altos. O pleno emprego aumenta 
+19 A taxa de desemprego é calculada como a proporção de desempregados na força de trabalho. No caso do capital, 
+a utilização parcial da capacidade produtiva instalada ou ociosidade é medida como a diferença entre a produção 
+possível quando toda a capacidade instalada é utilizada e a produção corrente. Assim, o nível de utilização da 
+capacidade instalada também depende do nível de emprego, de produção e de vendas.
+122
+o poder de barganha dos trabalhadores, sendo esta outra razão para a dificuldade 
+de se manter esta situação por muito tempo. 
+ Quando um setor expande sua produção atraindo força de trabalho em-
+pregada em outros setores (a partir de melhores propostas salariais, mudança de 
+funções, ou condições de trabalho), não há efeitos sobre o nível de emprego, ape-
+nas sua composição em termos de unidades produtivas ou de setores. Se houver 
+desemprego elevado, estas novas contratações podem ser feitas a partir da força 
+de trabalho desempregada, assumindo que a mesma está apta a desenvolver as 
+funções demandadas. Se não houver demissões compensatórias em outras em -
+presas e setores com menor dinamismo, o desemprego é reduzido. Como a força 
+de trabalho tende a crescer, mesmo com aposentadorias, as despesas precisam ser 
+tais que estimulem a contratação contínua pelas empresas existentes ou por novas 
+empresas. O emprego é determinado portanto pelo comportamento presente e 
+esperado das vendas, isto é, das despesas agregadas. 
+Para finalizar, é importante notar que os níveis de renda e emprego determi-
+nados conforme a discussão anterior podem variar. Ou seja, a renda e o emprego 
+não estão sempre em processo de expansão. Quando a despesa agregada é redu -
+zida, o nível de renda e emprego caem em decorrência, e proporcionalmente mais 
+se considerado o multiplicador. Neste caso, a economia experimenta alternância 
+entre períodos de expansão da renda e do emprego e períodos de declínio destas 
+variáveis. Embora possa parecer que apenas o segundo tipo de flutuação é indese-
+jável, o primeiro também pode apresentar problemas. Para entendê-los, e avaliar 
+como se pode responder a estes desafios, é preciso introduzir o conceito de ciclo 
+econômico e as políticas de estabilização, objetos da próxima seção.
+123
+CICLOS E POLÍTICAS DE 
+ESTABILIZAÇÃO
+A Grande Depressão mencionada na primeira seção foi assim chamada para di -
+ferenciá-la de outros momentos de crise econômica, dada sua gravidade. As crises 
+econômicas são recorrentes nas economias capitalistas, mas nem todas alcançam 
+a severidade de uma depressão. Elas são então definidas em termos da duração 
+e da magnitude da queda na atividade econômica ou da renda real (ajustada pela 
+inflação para poder observá-la). As depressões são recessões longas (perdurando 
+por muitos anos) e profundas (com forte queda nos indicadores econômicos como 
+renda e emprego). A recorrência das crises levou os estudiosos da economia a con-
+siderá-las fenômenos cíclicos, embora irregulares em sua frequência e na amplitude 
+das ‘ondas’ ou flutuações. 
+Ou seja, o nível de atividade econômica evolui ao longo do tempo por meio 
+de movimentos repetitivos: a fase de prosperidade sempre termina, após alcançar 
+um auge ou pico. A próxima fase é de desaceleração. A economia entra em reces-
+são após o contínuo declínio frente ao ponto de pico, ficando abaixo da trajetória 
+recente de expansão. Contudo, a recessão atinge um vale ou ponto mínimo, para 
+então iniciar uma fase de recuperação. Quando a trajetória recente de expansão 
+é superada no momento de recuperação, a economia entre novamente em uma 
+fase de prosperidade. Assim, um ciclo típico apresenta as fases de prosperidade, 
+desaceleração, recessão e recuperação ou retomada, com dois pontos de inflexão: 
+o pico ou auge cíclico ao fim da fase de prosperidade e o fundo do poço ao fim da 
+recessão. A sequência das fases é sempre a mesma, não importa por qual fase se 
+começa a observação do ciclo.
+O ciclo se dá ao redor de uma trajetória de expansão do PIB real, que reflete 
+o crescimento econômico, discutido na próxima seção. Para entender a existência 
+das crises, todavia, é preciso entender o conceito de crescimento econômico, pois 
+as primeiras representam a interrupção do segundo. As economias capitalistas 
+são caracterizadas pelo crescimento cíclico, e não por um crescimento contínuo, 
+estável e regular. O crescimento remete a uma discussão do ritmo de expansão, 
+medido por uma taxa, geralmente considerando também a expansão populacional 
+124
+por meio do conceito de PIB per capita ou por habitante. O ciclo econômico trata 
+das oscilações no nível do PIB, medido em termos monetários constantes, isto 
+é, ajustado pela inflação. Portanto, é importante diferenciar entre o nível de uma 
+variável em um dado período e a taxa de mudança desta variável para períodos 
+mais longos.
+O ciclo econômico pode ser entendido a partir da seguinte questão: por que 
+o nível do PIB se distancia, em termos absolutos, da sua trajetória recente? Por que 
+a economia oscila e não consegue manter uma trajetória de expansão constante, 
+apresentando períodos de crise? A resposta vem da discussão anterior sobre a de-
+terminação da renda e do emprego. O nível de renda (PIB) e de emprego oscilam 
+porque as economias capitalistas são instáveis. E esta instabilidade está associada 
+às flutuações nas despesas agregadas, principalmente de investimento, magnifica-
+das pelo efeito multiplicador. E as despesas flutuam em função de incertezas com 
+relação ao futuro, à volatilidade das expectativas, ao humor do empresariado, por 
+vezes otimista, às vezes pessimista, ao comportamento dos bancos e instituições 
+financeiras com relação aos fluxos de crédito (que refletem as características em-
+presariais listadas). Outros fatores também podem influenciar os níveis de ativi -
+dade econômica no curto prazo, como guerras, crises políticas, greves, locautes, 
+catástrofes naturais, gargalos na infraestrutura, distúrbios ao longo das cadeias 
+produtivas etc. O objetivo das políticas macroeconômicas de estabilização é justa-
+mente minimizar os efeitos do ciclo econômico. Estabilizar significa interromper 
+ou enfraquecer a instabilidade. Se o ciclo representa instabilidade, a estabilidade 
+se torna um desiderato social, buscado por mecanismos políticos (por isso política 
+macroeconômica) que não estão sujeitos aos efeitos do próprio ciclo. 
+O ciclo econômico pode ser descrito da seguinte forma em termos dos seus 
+efeitos e das medidas políticas necessárias para mitigá-los. Como mencionado na 
+seção anterior, os fluxos monetários associados à despesa agregada podem não ser 
+suficientes para garantir que o PIB alcance o valor máximo possível e que logo o 
+nível de emprego esteja no máximo que se pode atingir (pleno emprego). Conside-
+rando o diagrama do fluxo circular da renda, isto é, em uma economia fechada e 
+sem governo, os gastos de consumo e principalmente de investimento podem não 
+garantir que o PIB seja de pleno emprego. Mesmo a inclusão do setor externo, com 
+125
+a despesa externa pelas exportações aumentando os fluxos de produção e renda e 
+o valor das importações muitas vezes concorrendo com o valor da produção in -
+terna para satisfazer a despesa interna, pode ser insuficiente. Estando a economia 
+abaixo do seu nível considerado normal ou tendencial, a diferença entre os níveis 
+de produto ou renda efetivo e tendencial representa desemprego e estagnação ou 
+recessão do ponto de vista do ciclo econômico (a não ser que a norma ou tendência 
+seja de estagnação de longo prazo, fazendo com que o pleno emprego seja desta 
+forma o melhor parâmetro). A existência desta diferença representa a existência 
+dos ciclos econômicos, sendo a forma como eles se manifestam. Assim, para ate-
+nuar ou eliminar a insuficiência de demanda, é preciso considerar uma injeção 
+(entrada) líquida de despesa no fluxo circular para expandir o nível de renda e 
+emprego no sentido do pleno emprego. 
+Da mesma forma, os fluxos de despesa agregada interna e externa podem 
+estar acima do que seria institucionalmente necessário em uma economia capi -
+talista para expandir a atividade econômica sem aumentar o poder de barganha 
+dos trabalhadores em função do baixo nível de desemprego, e criar pressões de 
+custos que são repassados aos preços e geram inflação. Isto é, durante uma fase de 
+expansão acelerada, característica da prosperidade, a economia pode crescer acima 
+da trajetória recente, e o reduzido desemprego pode proporcionar ganhos salariais 
+que são repassados aos preços para manter as margens de lucro das empresas, ge-
+rando inflação. Isto pode parecer sem sentido, pois o crescimento da produção, o 
+elevado nível de emprego, o crescimento dos salários (renda do trabalho) poderia 
+parecer desejável. Afinal, esta seria a forma como a prosperidade se manifestaria 
+no padrão de vida dos trabalhadores. Mas esta prosperidade gera efeitos indese -
+jáveis na forma de inflação e deve ser revertida, não por uma questão moral, mas 
+por uma questão de interesses econômicos institucionalizados. Assim, estando a 
+economia acima do seu nível institucional máximo, a diferença entre este nível e 
+o nível efetivo ou corrente representa risco de inflação ou inflação de fato, que é 
+a manifestação de um dos efeitos da fase de prosperidade ou boom do ciclo eco-
+nômico. Ou seja, esta conjuntura é paradoxalmente alcançada durante a fase de 
+prosperidade, sugerindo que este estágio não pode ser duradouro, pelo menos não 
+para os trabalhadores. Neste caso seria preciso um vazamento (saída ou retirada) 
+126
+líquido do excesso de despesa do fluxo circular para tentar aproximá-la dos níveis 
+institucionalmente aceitáveis de expansão. 
+Portanto, as economias capitalistas estão continuamente oscilando ciclica -
+mente entre situações de desemprego (recessão) ou risco de inflação (prosperida-
+de), refletidas em oscilações nos níveis do PIB em comparação com sua tendência 
+recente ou com um parâmetro mais apropriado, como o pleno emprego20. Essa é a 
+natureza intrinsecamente instável destas economias. Se as injeções e os vazamen-
+tos forem efetivos em redirecionar a despesa, modificando os fluxos e suavizando 
+a trajetória da produção, da renda e do emprego, então os efeitos da instabilidade 
+macroeconômica sobre a inflação e o emprego são minimizados ou  até possivel-
+mente eliminados. O objetivo da política macroeconômica é justamente ajustar 
+estes fluxos e proporcionar uma trajetória de crescimento com menos oscilações. 
+Portanto, um fluxo circular de renda completo deve incluir o setor externo e prin-
+cipalmente o setor público, pois este administra a política macroeconômica que 
+influencia diretamente os fluxos (e os estoques).
+Considerando primeiramente a injeção líquida, ela pode diminuir a dife -
+rença entre o nível atual de renda, reduzido, e o nível de renda associado ao ple -
+no emprego, sendo conduzida de duas formas. Ela pode ser executada de forma 
+indireta por meio da política monetária operacionalizada pelo Banco Central ou 
+Autoridade Monetária. A política monetária consiste em modificar uma taxa de 
+juros de curto prazo para que as despesas financiadas por crédito respondam a 
+esta mudança na direção pretendia pelo Banco Central (Blanchard, 2018). No caso 
+da injeção líquida, o Banco Central reduz a taxa de juros21. Com o menor custo do 
+20 Aqui se considera apenas o problema de instabilidade na despesa agregada. Pode ocorrer também restrições no 
+fluxo circular a partir de instabilidade na produção e na renda, por diversas razões já apontadas. Instabilidade na 
+disponibilidade de insumos importantes, como o petróleo ou outras fontes energéticas. Reduzida capacidade de 
+inovação tecnológica por parte dos empresários. Guerras ou crises políticas, intervenções militares, greves traba -
+lhistas, locautes, suscetibilidade a desastres naturais, pandemias etc. Neste caso, seria possível que o desemprego e 
+a inflação se manifestassem simultaneamente, causando a chamada estagflação. 
+21 No Brasil a política monetária segue o chamado Regime de Metas de Inflação desde 1999. Neste caso, o Banco 
+Central modifica as taxas de juros com base nas expectativas inflacionárias principalmente das instituições financei-
+ras. Assume-se que a inflação decorre não apenas de um excesso de despesa sobre capacidade produtiva em aten-
+dê-la, mas a diversas fontes de instabilidade, inclusive flutuações abruptas na produção (safra agrícola ou preços 
+do petróleo, por exemplo), passando pela taxa de câmbio e a situação fiscal dos governos (identificada como uma 
+fonte importante de gasto no fluxo circular).
+127
+crédito, famílias podem financiar mais bens de consumo e as empresas podem ob-
+ter capital de giro para ampliar a produção ou mesmo iniciar projetos de ampliação 
+da capacidade produtiva instalada. Caso a queda na taxa de juros provoque uma 
+saída de capitais de curto prazo do país, a taxa de câmbio pode subir, aumentando 
+as receitas dos exportadores em moeda doméstica, o que pode induzir um aumen-
+to na produção para exportação. 
+O Banco Central pode também proporcionar estímulos à expansão do vo -
+lume de crédito disponibilizado pelos bancos, reduzindo o recolhimento compul-
+sório, isto é, o volume de recursos que as instituições financeiras mantêm tempo-
+rariamente indisponível para empréstimos ou outras operações ativas. Ainda, a 
+injeção indireta por ser induzida pela política monetária ao induzir uma transfor-
+mação de ativos financeiros pouco líquidos em ativos líquidos disponíveis para 
+gastos. Na medida em que a taxa de juros que remunera parte dos ativos varia 
+com a taxa de juros almejada pelo Banco Central, estes ativos podem se tornar 
+pouco atrativos, sendo então vendidos e o dinheiro pode ser injetado de volta no 
+fluxo, como investimento ou consumo. A injeção líquida também pode ser feita 
+de forma indireta via tributos, que constituem uma parte da política fiscal opera -
+cionalizada pelo Tesouro Nacional (Blanchard, 2018). Neste caso o governo reduz 
+os impostos, proporcionando maior disponibilidade de renda privada para o fluxo 
+de despesas. 
+Por fim, a injeção líquida também pode ser implementada de forma direta, 
+novamente pela outra parte da política fiscal, os gastos do governo com consumo 
+e/ou investimento. Por exemplo, foi a política fiscal expansionista proporciona -
+da pelos gastos militares de II Guerra Mundial que contribuíram para superar a 
+Grande Depressão. As injeções líquidas de natureza fiscal sempre aumentam o 
+déficit orçamentário22. Por outro lado, a política fiscal também pode incidir dire-
+22 O déficit orçamentário é a diferença entre receitas e despesas orçadas. A apresentação ENAP (2017) mostra os 
+detalhes sobre a formulação do orçamento público no Brasil. Silva e Freitas Filho (2015) mostram as dificuldades 
+associadas à programação e execução orçamentária na área da cultura, enfatizando algumas políticas como a Cul-
+tura Viva e o Vale Cultura. Os autores afirmam que (p. 28) “O conhecimento do orçamento e de seus processos 
+é fundamental para a compreensão da atuação estatal.” Silva (2017) apresenta os modelos de financiamento da 
+cultura no Brasil, permitindo avaliar o papel da política fiscal no âmbito mais específico da cultura.
+128
+tamente sobre os fluxos de produção sem passar diretamente pelas despesas, por 
+meio de subsídios, isenções etc.
+Com relação aos vazamentos líquidos necessários para reduzir o nível atual  
+da renda, considerado elevado pelas restrições institucionais frente os níveis asso-
+ciados ao pleno emprego, eles também podem se dar de forma indireta, pela ele -
+vação da taxa de juros de curto prazo pelo Banco Central, encarecendo o crédito 
+e desestimulando novos fluxos de despesa financiada, estimulando a aquisição de 
+ativos financeiros que ficaram mais atrativos pela maior remuneração, isto é, de 
+maior poupança, ou pela apreciação da moeda doméstica, estimulando as impor-
+tações e desestimulando as exportações. Com relação à política fiscal, a redução 
+indireta dos fluxos de despesas se daria pelo aumento dos impostos, reduzindo a 
+renda privada disponível. E a redução direta se daria por cortes nas despesas do 
+governo com consumo e investimento. Estas políticas fiscais tendem a diminuir 
+os déficits orçamentários chamados de primários, já que a elevação das taxas de ju-
+ros pelo Banco Central pode aumentar as despesas financeiras do Tesouro, elevan-
+do o chamado déficit operacional. Tanto as injeções como os vazamentos líquidos 
+devem ser planejados tendo em mente um efeito multiplicador, de forma que a 
+variação desejada na renda seja igual à variação no fluxo multiplicada por aquele.
+É importante enfatizar o emprego do adjetivo ‘líquido’ na discussão an -
+terior. Embora tenham sido considerados de forma isolada, os instrumentos de 
+política macroeconômica podem ser implementados de forma simultânea e nem 
+sempre de forma coordenada para evitar efeitos contraditórios. Por exemplo, o 
+Banco Central pode aumentar a taxa de juros quando a economia está desacelerada 
+ou estagnada com receito de um aumento na inflação em função de problemas nas 
+contas externas. O governo pode estar aumentando seus gastos para estimular a 
+atividade econômica deprimida e aumentando um pouco os impostos para não 
+aumentar demais o déficit orçamentário e logo sua dívida. O resultado final de to-
+dos estes movimentos é incerto, podendo representar uma injeção líquida pequena 
+ou mesmo um grande vazamento líquido de despesas do fluxo circular, afetando 
+produção e preços de formas contrárias.
+As políticas discutidas anteriormente são chamadas de políticas macroeco -
+nômicas expansionistas quando objetivam expandir o fluxo de despesa (injeção) 
+129
+e logo a produção e a renda. As políticas que procuram aumentar os vazamentos 
+são denominadas políticas contracionistas, pois o objetivo é contrair o fluxo de 
+despesas e logo a produção e a renda. Como a instabilidade macroeconômica se 
+observa a partir de movimentos de expansão e contração no nível do PIB, as polí-
+ticas fiscal e monetária devem ser idealmente anticíclicas ou contracíclicas, ou seja, 
+que atuam no sentido contrário do movimento cíclico da economia, para fins de 
+estabilização. O objetivo é proporcionar uma trajetória de expansão mais estável, 
+sem inflação e sem períodos de alto desemprego. Contudo, muitas vezes as polí-
+ticas, por incompetência, má-fé ou ideologia, são pró-cíclicas, ou descoordenadas, 
+reforçando a instabilidade, principalmente durante períodos recessivos. 
+Como o ciclo se define em termos de um parâmetro fixo para o nível de 
+renda real, é preciso considerar qual seria o melhor parâmetro. Na discussão aci -
+ma se sugeriu o nível de renda associado ao pleno emprego. Mas também se fez 
+referência à trajetória recente de crescimento econômico, sem defini-la. Esse é o 
+assunto da próxima seção.
+
+131
+CRESCIMENTO ECONÔMICO
+Enquanto o ciclo econômico é considerado um fenômeno de curto prazo, entre 
+um e dois anos, principalmente o período de desaceleração e contração da atividade 
+econômica e o aumento do desemprego causado por esta queda na atividade, ou 
+por uma recessão, o crescimento é uma característica observável em períodos mais 
+longos. Para que haja crescimento, a fase de prosperidade precisa durar mais e de 
+forma mais intensa que a fase recessiva em média, de forma que a produção cumu-
+lativa está em expansão contínua. Assim, se o intervalo de tempo considerado para 
+um país qualquer for longo o suficiente, a produção per capita no período final será 
+maior que no período inicial, caso o país não esteja enfrentando alguma catástrofe 
+ambiental, conflitos civis, guerra prolongada ou estagnação secular, isto é, uma 
+incapacidade crônica de expandir a produção per capita. 
+Uma outra preocupação importante da macroeconomia no que se refere 
+ao crescimento é o ritmo desta expansão da produção no longo prazo (acima de 
+dez anos)23. A ênfase no ritmo de crescimento é relevante, por outro lado, pois 
+proporciona uma avaliação do dinamismo econômico. Uma trajetória de maior 
+crescimento é preferível a uma trajetória de menor crescimento24. Outras aborda-
+gens macroeconômicas consideram a trajetória ou tendência como um indicador 
+23 A diferenciação entre curto e longo prazo é arbitrária na teoria econômica. Como já mencionado, a Grande De -
+pressão do século XX durou mais de 10 anos, um período longo o suficiente para caracterizar o longo prazo, mas 
+sem expansão sustentada da produção. Muitas vezes os economistas utilizam um conceito de tempo lógico (prazo 
+determinado por determinadas configurações econômicas, sendo que não há unidade de medida do tempo neste 
+caso, como dias, semanas, meses ou anos), e não cronológico (segundo o calendário Gregoriano ou solar). Neste 
+caso, o curto prazo lógico (ao se assumir, por exemplo, que é o período de tempo em que a capacidade produtiva 
+da economia não muda) pode ser tão curto quanto um dia no prazo cronológico, pois a indústria de bens de capital, 
+cuja produção se volta para a ampliação da capacidade produtiva da economia, pode não ter intervalos discretos e 
+curtos de tempo sem novas ordens ou pedidos, como uma semana ou mesmo um dia. 
+24 Atualmente o crescimento rápido deve ser avaliado também do ponto de vista dos impactos ambientais, dado que 
+um ritmo de expansão mais acelerado implica maior consumo de recursos naturais, incluindo recursos não-reno -
+váveis, e um maior volume de emissão de poluentes e dejetos. Mesmo que as diferentes tecnologias de produção 
+tenham se tornado mais eficientes do ponto de vista do consumo de recursos e emissão de dejetos, os impactos 
+negativos sobre o meio ambiente são preocupantes, proporcionando mudanças climáticas com implicações signifi-
+cativas sobre as economias. 
+132
+do nível normal de expansão da produção, ou seja, aquele que a economia pode 
+alcançar sem gerar inflação e sem manter um nível de ociosidade não planejado25. 
+A medida desta expansão da produção é a taxa de crescimento (Blanchard, 
+2018). Como esta última varia ao longo do tempo, de forma cíclica e com flutua-
+ções bem pronunciadas marcando períodos de rápido crescimento ou crescimento 
+lento, considera-se a média. Isso cria um problema para definir o período recente 
+para o qual a trajetória, que nada mais é que esta taxa média, deve ser calculada. 
+Isto porque o período considerado para calcular a média, que deve ser sempre 
+explicitado, define a trajetória de longo prazo. Porém, como há vários recortes 
+temporais possíveis para se calcular esta trajetória, desde milênios,  séculos até 
+décadas ou apenas anos, dependendo da disponibilidade de dados, sem um critério 
+bem definido na literatura, é preciso adotar um (Blanchard, 2018). Assume-se aqui 
+como trajetória recente aquela que perpassa pelo menos dois ciclos econômicos 
+completos. Isso proporciona um intervalo entre 10 e 14 anos. Caso haja algum ano 
+atípico ele tende a ter seu impacto sobre a média diluído. Mas se houver intervalos 
+maiores de muita turbulência, a trajetória recente poderá ser de crise e estagnação, 
+não de crescimento. Neste caso é preciso utilizar períodos mais longos. Para pe -
+ríodos muito longos, porém, a economia pode sofrer transformações estruturais 
+significativas, e a taxa média de crescimento pode refletir duas trajetórias distintas 
+(antes e depois da mudança estrutural), não sendo a média representativa nem de 
+um nem do outro período. Mesmo uma média móvel não resolveria o problema.
+O crescimento econômico é um fenômeno complexo, pois depende da 
+mobilização de uma ampla constelação de recursos econômicos, de natureza 
+quantitativa e qualitativa, como a disponibilidade de trabalhadores, a qualifica -
+ção profissional dos mesmos, o ritmo de produção de máquinas, equipamentos, 
+e instalações, assim como a sofisticação das mesmas, a acessibilidade técnica e 
+econômica a recursos naturais e energéticos, infraestrutura de transportes e co -
+municação, o progresso científico e tecnológico, o conhecimento, a educação, os 
+avanços médicos, a organização empresarial e a estrutura das cadeias produtivas, 
+25 Algumas empresas mantêm capacidade ociosa para se proteger de possíveis novos concorrentes ou para responder 
+de forma rápida a aumentos imprevistos nas vendas.
+133
+a qualidade dos executivos (que se reflete na qualidade das instituições de ensino 
+superior) e dos proprietários, disponibilidade, prazo e custo dos financiamentos, 
+refletidos na estrutura do sistema financeiro, inovações de diversos tipos, pesquisa 
+e desenvolvimento, criatividade, cultura 26, hábitos mentais, regras, normas, leis, 
+políticas econômicas, qualidade da burocracia, relações diplomáticas, modo de in-
+serção na economia mundial, entre várias outras. Portanto, há muitos elementos 
+quantitativos e qualitativos que condicionam a capacidade de crescimento de um 
+país. Neste sentido mais amplo aqui empregado muitas vezes o crescimento se 
+confunde com o próprio desenvolvimento econômico. Quando a dimensão quan-
+titativa é enfatizada, apenas o crescimento é considerado.
+Como os elementos qualitativos são por definição difíceis de se mensurar, 
+exigindo estimativas feitas muitas vezes a partir de pressupostos nem sempre ra -
+zoáveis, a discussão sobre o crescimento econômico enfatiza os elementos quan-
+titativos e mensuráveis, em particular a disponibilidade de trabalho e trabalho 
+qualificado, capital, recursos naturais e as diferentes formas de combiná-los, isto é, 
+a tecnologia. Contudo, os fatores qualitativos por trás do crescimento econômico 
+acabam se refletindo em uma característica quantitativa importante: a produtivi -
+dade. Esta medida de desempenho é a produção por unidade empregada na sua 
+realização. Assim, a produtividade do trabalho é a produção por pessoa emprega-
+da ou produção por tempo de trabalho dispendido na produção. 
+Importa notar que uma parte relevante dos determinantes mais dinâmicos 
+para o crescimento está associada às despesas de investimento (acumulação de 
+capital e o consequente progresso tecnológico, a introdução de inovações, as inver-
+sões em P&D etc.) (Blanchard, 2018). Se por um lado no curto prazo o investimen-
+to é despesa, no longo prazo ele se transforma em capacidade produtiva, muitas 
+vezes afetando a própria qualidade do crescimento (ambientalmente sustentável 
+por exemplo). Por isso é considerada a despesa macroeconômica mais importante. 
+Portanto, uma política monetária expansionista que estimula o investimento não 
+é apenas uma política de estabilização dos níveis de renda e emprego ao longo de 
+26 A literatura aponta a economia cultural e criativa como um vetor que pode contribuir para o crescimento ao facilitar 
+a adoção e a difusão de inovações na economia (ver por exemplo o Proyeto Sostenuto, s. d.). 
+134
+um ciclo, isto é, de expansão de curto prazo, mas uma política de promoção do 
+crescimento, dado o prazo de imobilização do capital e a sua natureza praticamen-
+te irreversível.
+Por outro lado, o próprio progresso tecnológico incorporado na acumulação 
+de capital acaba por se refletir em demanda por trabalho qualificado. A base de 
+conhecimento necessária para operar níveis mais sofisticados de equipamentos e 
+máquinas se modifica no processo. E a qualidade e qualificação dos trabalhadores 
+em termos destas capacitações depende da disponibilidade e qualidade das insti -
+tuições educacionais e de treinamento profissional, como universidades, faculda-
+des, institutos e escolas técnicas. Mas estas instituições requerem investimento 
+não apenas em instalações para ensino, como também em laboratórios, centros de 
+pesquisa, acervos bibliográficos etc. Existe uma forte complementariedade aqui, 
+já que o investimento também requer trabalho qualificado para qualificar a força 
+de trabalho. Ainda, parte desta qualidade educacional depende da própria política 
+fiscal, principalmente dos gastos do governo em educação, tanto consumo (gas -
+tos com pessoal) como investimento (instalações e bens de capital). A questão 
+da quantidade de trabalhadores é menos complicada e depende da dinâmica de -
+mográfica. Para avaliar como o crescimento afeta o bem-estar da população em 
+termos de maior disponibilidade de bens e serviços, essenciais e não essenciais, 
+é preciso considerar também o crescimento populacional. A situação desejável é 
+uma em que a economia cresce mais rápido que a população, proporcionando ele-
+vações na renda per capita. Mas o crescimento populacional é fundamental tanto 
+para a produção como para as despesas, pois uma população maior representa um 
+mercado consumidor potencialmente maior. 
+Portanto, em grande medida os fatores que afetam a capacidade de cresci -
+mento de uma economia são os mesmos que compõem a evolução da conjuntura 
+de curto prazo, estando a diferença na intensidade com que estes elementos são 
+necessários. O longo prazo se torna assim uma sequência de curtos prazos articu-
+lados, sendo que a natureza de uma flutuação acaba influenciando a natureza do 
+próximo ciclo, tornando a trajetória futura dependente da trajetória passada. Do 
+ponto de vista cronológico, a economia está sempre no curto prazo e no longo 
+prazo histórico. Neste sentido, a trajetória recente de crescimento ou tendência é 
+135
+apenas uma estimativa imposta aos dados para tentar visualizar o que aconteceria 
+se não houvesse ciclos. A tendência é o ciclo suavizado por métodos estatísticos. 
+Mas a tendência e o ciclo se confundem, pois o ciclo evolui na direção de expan-
+são, que pode ser maior ou menor dependendo da combinação de todos os fatores 
+mencionados acima. Ou seja, as economias capitalistas tendem intrinsecamente a 
+crescer, umas mais outras menos, mas esse crescimento é irregular, não contínuo, 
+em resumo, cíclico.
+
+137
+IMPACTOS MACROECONÔMICOS: 
+OS EFEITOS ECONÔMICOS DA 
+ATIVIDADE CULTURAL E CRIATIVA 
+EM TERMOS DOS IMPACTOS SOBRE 
+A GERAÇÃO DE RENDA E EMPREGO
+A discussão efetuada acima pode auxiliar no entendimento da contribuição das 
+atividades culturais e criativas para a atividade econômica. Uma questão que vem 
+sendo perseguida pelos pesquisadores no Brasil e no exterior é a participação da 
+economia cultural e criativa no PIB. Embora o Brasil tenha avançado, pelo menos 
+até certa conjuntura histórica, no sentido de proporcionar dados e informações 
+estatísticas sobre a economia da cultura (ver por exemplo o documento Ministério 
+da Cultura, 2010), estas estão mais bem desenvolvidas nos países e regiões avan -
+çadas, como EUA e Europa. Como ilustração, em 2015 o setor artístico e cultural 
+contribuiu com 4,2% do PIB dos EUA (ou se apropriou de 4,2% da renda naquele 
+país, ou ainda as despesas com as artes e a cultura representaram 4,2% da despesa 
+total), mais do que os setores da construção civil, transporte e estocagem, turismo 
+e agricultura, respondendo por quase 5 milhões de empregos diretos  (Americans 
+for the Arts, 2017). Os estados de Nova York e Califórnia estão entre os que mais 
+empregam e ofertam algumas das maiores remunerações para os trabalhadores 
+culturais (Art Works, 2016). Bowitz e Ibenholt (2009) estimam que o patrimônio 
+cultural responde por 7% do emprego total da cidade norueguesa de Røros. Herre-
+ro et al. (2006) estimam os impactos econômicos diretos e indiretos da escolha de 
+Salamanca em 2002 como a capital cultural da Europa. Um aspecto fundamental 
+neste caso particular (macrofestival) é o impacto proporcionado pelo turismo. A 
+metodologia deste estudo é bem fundamentada, estimando o impacto do gasto 
+público e do gasto privado com a cultura e também os gastos com equipamentos e 
+espaços culturais e turismo. Os multiplicadores obtidos foram todos superiores a 1, 
+ou seja, o gasto econômico cultural gera um gasto econômico global ainda maior, 
+com uma característica singular de que o impacto nacional foi maior que o impacto 
+138
+local. No capítulo 4 de Valiati et al. (2017) foi feita uma estimativa para o impacto 
+econômico do setor audiovisual no Brasil.
+Como a macroeconomia pode ser decomposta, pela ótica da produção, em 
+diferentes setores produtivos, com já visto na abordagem das TRU, é possível 
+identificar a contribuição específica de cada um deles, além da estrutura e fun -
+cionamento do setor em termos de vendas, renda, empregos etc. Como já visto, a 
+atividade econômica cultural e criativa se distribui entre os macrossetores da in -
+dústria e dos serviços nas TRU. Para estudos setoriais mais detalhados, ver Cunha 
+et al., (2020a) e os capítulos 4 e 20 de Guinsburgh e Throsby (2014) sobre o setor 
+musical, capítulo 19 desta obra e Valiati et al. (2017) sobre o audiovisual, capítulo 
+21 de Guinsburgh e Throsby (2014) sobre o mercado editorial e capítulos 28 e 29 
+sobre patrimônio histórico-cultural e os museus, e Cunha et al. (2020b) sobre o 
+setor de artes cênicas).27 
+Em geral, os impactos econômicos dizem respeito aos efeitos de uma despe-
+sa no setor cultural sobre a renda, o emprego, a arrecadação, a geração de divisas 
+etc. Existem diversas metodologias de cálculo de impacto, que não são abordadas 
+neste capítulo. O relatório UNESCO (2012) apresenta uma discussão detalhada 
+sobre as metodologias disponíveis para se estimar o impacto econômico das in -
+dústrias culturais. Para apresentar apenas uma ilustração, tome-se como exemplo a 
+abertura de uma nova sala de cinema em uma cidade (fora de um shopping center). 
+O espaço precisa de uma nova construção (investimento) ou despesas de adapta-
+ção. O impacto com a construção é maior, pois envolve mais gastos e estímulo de 
+vários segmentos da cadeia produtiva. Isto é, teria um efeito multiplicador maior. 
+Para acessar as salas, é preciso de infraestrutura envolvendo bilheteria operada por 
+funcionários ou máquinas automatizadas, a disponibilidade de bens complemen-
+tares, conforme capítulo 1 (alimentação), água, eletricidade, rede de comunicação 
+etc. Na sala de exibição são necessários assentos, tapeçaria, extintores de incêndio 
+27 Um detalhamento maior, contudo, dependeria de adaptações na metodologia do IBGE para captar as especi -
+ficidades dos setores culturais e criativos, com a criação de uma conta satélite da cultura. A conta satélite é um 
+subconjunto das contas nacionais voltada para um setor específico, que passa a ter uma desagregação maior para 
+uma melhor compreensão da estrutura e dinâmica do mesmo. Um exemplo de dados culturais obtidos por meio das 
+contas satélites pode ser consultado para o caso dos EUA em Art Works (2016).
+139
+(e uma brigada anti-incêndio em muitos casos), a tela, a sala de projeção com equi-
+pamentos, o pagamento pela licença para exibir o filme etc. Calcula-se então o 
+valor econômico gerado em cada uma destas atividades, assim como o emprego, a 
+remuneração e outras despesas.
+Ainda há poucos estudos de impacto econômico da atividade cultural e 
+criativa, pois os dados para períodos longos não existem. As estatísticas sobre a 
+atividade econômica cultural e criativa são recentes porque o próprio campo de 
+pesquisa é novo. Existem também debates sobre a necessidade de definir melhor 
+o escopo destas atividades, diferenciando entre os setores culturais e os criativos, 
+que são ainda mais recentes28. Em 2009 a UNESCO propôs um novo arcabouço 
+com o objetivo de delimitar estas áreas e que tem servido como base para circuns-
+crevê-las para fins de análise econômica (UNESCO 2009). 
+Finalmente, é importante enfatizar que os setores culturais e criativos são  
+importantes áreas de atividade econômica. Os elementos discutidos neste capítulo 
+(fundamentos macroeconômicos, o papel do multiplicador de gastos e empregos, a 
+equivalência contábil entre produção, renda e gasto, as flutuações no nível de ren-
+da e emprego, as políticas macroeconômicas de estabilização, o crescimento eco-
+nômico) podem ser instrumentos de entendimento desta importância econômica 
+da cultura. É necessário ressaltar assim que a atividade cultural não é uma ativi -
+dade econômica isolada. A análise microeconômica permite entender apenas suas 
+características específicas. Contudo, a atividade cultural ocorre em um contexto 
+econômico, social e político mais amplo, fornecendo e recebendo fluxos para e 
+de outros setores, acumulando estoques tangíveis e intangíveis e proporcionando 
+emprego e renda que, para além da dimensão quantitativa (a remuneração no setor 
+cultural tende a ser maior que a remuneração média da economia), proporciona 
+benefícios intangíveis pela própria natureza da sua produção e disseminação. Essa 
+visão mais ampla é justamente a aplicação da abordagem macroeconômica à cultu-
+ra, qualificada pelos inseparáveis elementos não econômicos.
+28 Para uma discussão introdutória sobre economia criativa, ver Newbingin (2010). Para o caso da economia criativa 
+no Brasil, consultar Nyko e Zendron (2018). A UNCTAD elabora relatórios frequentes sobre o panorama da eco -
+nomia criativa no mundo. V er UNCTAD (2010) e (2018).
+140
+141
+REFERÊNCIAS BIBLIOGRÁFICAS
+Bibliografia Básica:
+Blanchard, O. Macroeconomia, 7ª edição. Pearson Universidades, 2018.
+Feijó, C.; R. L. O. Ramos (orgs.) Contabilidade Social: Referência Atualizada das Contas Nacionais 
+do Brasil. 4ª edição. Rio de Janeiro: Elsevier, 2013. 
+Mitchell, W., Wray, L. R., Watts, M. Macroeconomics 1st ed. Red Globe Press, 2019.
+Bibliografia Complementar
+Americans for the Arts. Arts Facts: Arts and Cultural Production Contribution to GDP, 2017. Dis-
+ponível em: https://www.americansforthearts.org/sites/default/files/BEA2015data.pdf
+Art Works (National Endowment for the Arts). Arts Data Profile: State‐Level Estimates of Arts 
+and Cultural Employment: 2001‐2014, 2016. Disponível em:  https://www.arts.gov/sites/default/
+files/Brief1Access-highlights-arts-and-cultural-employment.pdf 
+Bêrni, D. de Á. e V. Lautert (orgs.) (2011) Mesoeconomia - Lições de Contabilidade Social: A Men-
+suração do Esforço Produtivo da Sociedade. Porto Alegre: Bookman.
+Bowitz, E.; K. Ibenholt. Economic impacts of cultural heritage – Research and perspectives. Journal 
+of Cultural Heritage, Vol. 10, Issue 1, January–March, pp 1-8, 2009.
+Cunha, A. et al. (Orgs.) Música: Estudos Setoriais. Porto Alegre: Editora da UFRGS/CEGOV, 
+2020a.
+142
+Cunha, A. et al. (Orgs.) Artes Cênicas: Estudos Setoriais. Porto Alegre: Editora da UFRGS/CE-
+GOV, 2020b.
+ENAP – Escola Nacional de Administração Pública. Introdução ao Orçamento Público. Módu -
+lo 1:Entendendo o Orçamento Público, 2017. Disponível em: http://repositorio.enap.gov.br/bit -
+stream/1/3167/1/Modulo%201%20-%20Entendendo%20o%20Orcamento%20Publico.pdf 
+Ginsburgh, V.; D. Throsby. Handbook of the Economics of Art and Culture. Amsterdã, North-Hol-
+land, 2014.
+Herrero, L. C.; J. Á. Sanz; M. Devesa; A. Bedate; M. J. del Barrio. The Economic Impact of Cultur-
+al Events – A Case-Study of Salamanca 2002, European Capital of Culture. European Urban and 
+Regional Studies, 13(1): 41–57, 2006.
+Keynes, J. M. A Teoria Geral do Emprego, do Juro e da Moeda. São Paulo: Abril Cultural, 1983.
+Ministério da Cultura. Cultura em Números. 2ª edição, 2010. Disponível em: http://culturadigital.
+br/ecocultminc/files/2010/06/Cultura-em-N%C3%BAmeros-web.pdf 
+Newbingin, J. A Economia Criativa – Um Guia Introdutório. British Council, 2010. Disponível em: 
+https://creativeconomy.britishcouncil.org/media/uploads/files/Intro_guide_-_Portuguese.pdf 
+Nyko, D.; Zendron, P. Economia Criativa, in: Puga, F.; Barros de Castro, L. (Orgs.), Visão 2035: 
+Brasil, país desenvolvido – Agendas setoriais para alcance da meta, p. 259-288, 1ª ed. Rio de Janei-
+ro: BNDES, 2018.
+Proyecto Sostenuto. La cultura como factor de Innovación económica y social. Unidad de Investi-
+gación en Economía de la Cultura y Turismo (Econcult) – Instituto Interuniversitario de Desarrollo 
+Local (IIDL) – Universitat de València, s. d.
+Silva, F. A. B. Financiamento Cultural no Brasil Contemporâneo. IPEA. Texto para Discussão, 
+2280, 2017. Disponível em: http://ipea.gov.br/agencia/images/stories/PDFs/TDs/td_2280.pdf 
+143
+Silva, F. A. B.; R. Freitas Filho. Financiamento Cultural. Uma Visão de Princípios. IPEA, Texto 
+para Discussão 2083, 2015. Disponível em: http://repositorio.ipea.gov.br/bitstream/11058/4220/1/
+td_2083.pdf
+UNESCO. Institute for Statistics. The 2009 UNESCO framework for Cultural Statistics. Genebra, 
+2009. Disponível em: https://unesdoc.unesco.org/ark:/48223/pf0000191061 
+UNESCO. Measuring the economic contribution of cultural industries - A review and assessment 
+of current methodological approaches, Montreal: Institute for Statistics, 2012. Disponível em: 
+http://uis.unesco.org/sites/default/files/documents/measuring-the-economic-contribution-of-cul-
+tural-industries-a-review-and-assessment-of-current-methodological-approaches-en_1.pdf
+UNCTAD. Creative Economy Report 2010. Geneva, 2010. Disponível em: https://unctad.org/
+system/files/official-document/ditctab20103_en.pdf 
+UNCTAD. Creative Economy Outlook: Trends in international trade in creative industries 
+2002-2015. Geneva, 2018. Disponível em: https://unctad.org/system/files/official-document/
+ditcted2018d3_en.pdf 
+Valiati, L.; A. M. Cunha, C. L. Cauzzi, e G. Möller (Orgs.). Consumo de Audiovisual no Brasil. 1ª 
+ed. Porto Alegre: Editora da UFRGS, 2017.

@@ -1,0 +1,1517 @@
+ 
+ Financial Stability  
+Institute 
+  FSI Insights 
+on policy implementation 
+No 42 
+ 
+ 
+Diversity and inclusion – 
+embracing the true colours 
+in financial supervision 
+By Nompumelelo Simelane and Jeffery Yong 
+ 
+ 
+May 2022 
+  
+JEL classification: G20, G28, G30, G38 
+ 
+Keywords: Corporate governance, conduct of business, 
+disclosure, diversity and inclusion 
+  
+ 
+ 
+FSI Insights are written by members of the Financial Stability Institute (FSI) of the Bank for International 
+Settlements (BIS), often in collaboration with staff from supervisory agencies and central banks. The papers 
+aim to contribute to international discussions on a range of contemporary regulatory and supervisory 
+policy issues and implementation challenges faced by financial se ctor authorities. The views expressed in 
+them are solely those of the authors and do not necessarily reflect those of the BIS or the Basel- based 
+committees. 
+Authorised by the Chair of the FSI, Fernando Restoy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This publication is available  on the BIS website ( www.bis.org). To contact the BIS Media and Public 
+Relations team, please email press@bis.org. You can sign up for email alerts at 
+www.bis.org/emailalerts.htm. 
+ 
+ 
+ 
+© Bank for International Settlements 2022. All rights reserved. Brief excerpts may be reproduced or 
+translated provided the source is stated. 
+ 
+ 
+ 
+ 
+ISSN 2522-249X (online) 
+ISBN 978-92-9259-561-6 (online) 
+ 
+  
+ 
+Diversity and inclusion – embracing the true colours in financial supervision iii 
+ 
+ 
+Contents 
+Executive summary ........................................................................................................................................................................... 4 
+Section 1 – Introduction ................................................................................................................................................................. 6 
+Section 2 – Conceptual background of D&I and its prudential relevance ................................................................. 7 
+Section 3 – Governing legislation ............................................................................................................................................. 12 
+Section 4 – Corporate governance ........................................................................................................................................... 15 
+Suitability assessments .................................................................................................................................................................. 16 
+Board composition ................................................................................................................................................................ 16 
+Other governance-related requirements ...................................................................................................................... 17 
+Supervisory reviews ............................................................................................................................................................... 17 
+Gender diversity ...................................................................................................................................................................... 18 
+Section 5 – Conduct of business ............................................................................................................................................... 21 
+Section 6 – Disclosure.................................................................................................................................................................... 23 
+Section 7 – Proportionate application of D&I regulatory approaches ...................................................................... 25 
+Section 8 – Concluding remarks ................................................................................................................................................ 25 
+References .......................................................................................................................................................................................... 27 
+ 
+ 
+  
+ 
+4 Diversity and inclusion – embracing the true colours in financial supervision 
+ 
+ 
+Diversity and inclusion – embracing the true colours in financial 
+supervision1 
+Executive summary 
+In the financial sector , “diversity” often refers to having staff or customers with different 
+dimensions such as gender, ethnici ty, sexual orientation, age , social background  and physical  or 
+mental ability, while “inclusion” means valuing and accepting people for who they are and 
+providing them with equal and fair opportunities.  Diversity and inclusion (D&I) can be considered 
+internally in a financial institution in terms of the composition of its board of directors, management and 
+staff members, or externally in terms of its dealings with customers and the public. One of the main focus 
+of diversity has been on gender, but the scope is expanding to cover other diversity dimensions, including 
+age, disability, race and ethnicity. 
+Sound D&I practices by financial institutions can support the core prudential objective of 
+promoting the safety and soundness of the financial sector. D&I can support prudential objectives by 
+improving the quality of corporate governance of regulated financial institution s. It is observed that a 
+commonly desired regulatory outcome of D&I is to avoid groupthink by including people with  different 
+lived experiences at all levels within a financial institution.  Diverse teams that are inclusive  also perform 
+better because they are more likely to re- examine facts, encourage greater scrutiny, become more aware 
+of bias and minimise the risk of blindness to information. In addition, in promoting the fair and equitable 
+treatment of customers, D&I requirements contribute to the mitigation of reputational and legal risks. 
+Therefore, even without a specific mandate to advance the D&I agenda, prudential supervisors may 
+introduce D&I requirements to achieve their fundamental safety and soundness objectives.  
+Overarching legislation on social justice typically underpins specific regulatory instruments 
+that elaborate how laws related to D&I are to be implemented in the financial s ector. This is unlike 
+other areas of prudential supervision in which regulatory requirements or guidance are issued on the basis 
+of legal powers accorded to a prudential supervisor under relevant financial sector supervisory legislation. 
+The underlying leg islation provides the force of law from different angles, ranging from the public 
+accountability of financial sector regulators to D&I objectives to financial sector-specific requirements . 
+Nonetheless, there are conduct and prudential justifications for regulatory interest in D&I, as set out above. 
+D&I regulatory approaches vary significantly across jurisdictions. In certain jurisdictions, the 
+emphasis is very much on the diversity of decision-makers within firms in order to promote sound business 
+strategies. In other jurisdictions, the focus is on advancing broader social justice policies aimed at the 
+inclusion of underrepresented groups of the population in the workforce. In addition, some jurisdictions 
+focus mainly on customer -related issues from the pers pective of the accessibility of financial services. It 
+might be worthwhile for financial regulators to consider consolidating these disparate regulatory 
+issuances, to have a coherent regulatory framework covering all D&I aspects that matter for financial 
+institutions. Firms themselves would benefit from such a holistic approach to D&I. 
+International regulatory standards call for banks to establish  a sound corporate 
+governance framework that is underpinned by well qualified board members not only individually 
+but also collectively.  Some regulators implement these standards from a broader diversity perspective, 
+for example, by requiring diversity of board members in terms of an underrepresented gender. One of the 
+ 
+1  By Nompumelelo Simelane , Central Bank of Eswatini ( nompumelelos@centralbank.org.sz); and Jeffery Yong, Bank for 
+International Settlements (jeffery.yong@bis.org). The authors are grateful to Varshaa Kutik and Ruth Walters for their valuable 
+input on this paper and to Esther Künzi for administrative support. 
+  
+ 
+Diversity and inclusion – embracing the true colours in financial supervision 5 
+ 
+ 
+main regulatory objectives relevant  to D&I is for boards of directors as a whole to possess “ collective 
+suitability”, which can be measured from various diversity perspectives, including gender and ethnicity. In 
+practice, D&I regulations aiming to achieve this objective establish minimum re quirements on suitability 
+assessments, board composition , succession planning , and remuneration and recruitment practices . To 
+make further progress in this area, supervisory review processes  need to embed such requirements in 
+order to facilitate proper implementation. 
+From a conduct of business perspective, unfair business practices typically impact the 
+“inclusion” more than  the “diversity” of customers. Financial consumers have the right, as in any 
+consumer relationship, to equitable and dignified treatment conditions. Discriminatory and exclusionary 
+business practices can have prudential implications for firms, for example through reputational risk, 
+lawsuits or regulatory fines. As such, sound D&I conduct by firms is not only relevant for authorities with 
+a conduct of business mandate, but also for prudential authorities more generally. 
+Market discipline is another key component t hat fosters sound D&I practices. Accordingly, 
+D&I regulation often requires banks to disclose their  D&I policies or strategies, the objectives of those 
+policies and the measurement of progress.  Indeed, m ajor financial institutions , especially listed firms,  
+typically publicly disclose their internal D&I policies, initia tives and in some cases, targets. Disclosure of 
+the appointment of members of the board of directors is particularly important to support the overarching 
+D&I objective of diversity of thought (or cognitive diversity) for better decision -making. However, it is 
+uncommon to find disclosure of customer-related D&I policies. 
+While there has been noticeable progress in improving firms’ D&I, especially in the area of 
+gender, the pace needs to accelerate and the scope to be broadened to other dimensions. 
+Specifically, a gender -balanced target for boards of directors, senior management and firms as a whole 
+remains elusive. The gender pay gap has not narrowed, partly due to men holding more higher-paid senior 
+level positions in firms. Other areas of diversity should also be considered – including age, ethnicity, sexual 
+orientation and socio -economic background , amongst others  – to promote diversity of thought and , 
+ultimately, the financial safety and soundness of firms. Nevertheless, it should be recognised that some 
+cultural and societal issues, which go beyond the regulatory remit, need to be addressed first before any 
+meaningful change can be introduced in the financial sector. 
+International standards and guidance on D &I might be helpful to prompt progress in 
+improving the quality of corporate governance of regulated financial institutions, thus enhancing 
+the safety and soundness of firms , and of the financial sector. While existing international standards 
+and guidance do cover corporate governance from a diversity angle, they could be more explicit in 
+articulating expectations on D&I more specifically. Financial sector supervisors would benefit from clear 
+guidance on the extent of their regulatory remit s in promoting D& I in support of their core prudential 
+objectives. Nevertheless, it should also be acknowledged that D&I is not a silver bullet to address corporate 
+governance deficiencies in firms.  In other words, D&I is a necessary but not a sufficient condition to 
+promote sound corporate governance practices.  
+  
+  
+ 
+6 Diversity and inclusion – embracing the true colours in financial supervision 
+ 
+ 
+Section 1 – Introduction 
+1. Since the dawn of time, humans have lived and developed in groups . These groups can be 
+defined in different ways – geographically, biologically, demographically, economically  etc. We are used 
+to putting people into different boxes according to those dimensions, for example, west/east, male/female, 
+black/white, poor/rich, old/young or non-disabled/disabled. This is, to a certain extent, understandable 
+given the visible traits of such characterisations. Yet, increasingly, many parts of society reject such an 
+over-simplified, binary way of thinking and the negative consequences it entails in terms of stereotyping , 
+discrimination, exclusion and bias.  
+2. Many societies today are a melting po t of people from different backgrounds, culture s, 
+ethnicities, political ideologies, ways of thinking, religious beliefs and nationalities, amongst other 
+dimensions. Societal norms are being redefined, for example, the role of women, “traditional” family units 
+and gender identit ies, to name a few. Recent tragic high -profile racial discrimination cases 2 have 
+galvanised global movements and put diversity and inclusion (D&I ) under an intense media spotlight. As 
+a result, there are growing societal expectation s and pressure s on industries, including the financial 
+services industry, to act on D&I issues.  In broad terms, “ diversity” is generally understood to mean 
+reflecting the broader societal make-up, while “inclusion” means accepting people for their true selves and 
+being given a “seat at the table”.  
+3. D&I is not a new issue in the financial sector.  Traditionally, financial supervisory frameworks 
+view D&I mainly from the perspective of the suitability of persons. A clas sic example is  regulatory 
+requirements for financial institutions to appoint diverse  memberships of boards of directors in terms of 
+gender, professional background, knowledge and skills etc. The prudential aim of such requirements is to 
+establish checks and balances by avoiding groupthink so that decisions taken and strategies pursued are 
+in line with a firm’s interest and not that of any particular dominant individuals. Increasingly, D&I is being 
+considered in a more explicit and holistic manner by financial supervisors ,3 covering aspects beyond 
+corporate governance such as conduct of business and disclosure requirements.  
+4. From a private sector perspective, financial institutions are paying greater attention t o 
+environmental, social and governance (ESG) is sues. Shareholders and customers expect financial 
+institutions to observe high ESG standards. Failure to do so can expose firms to significant reputational 
+risk. This could explain why, even without specific D&I international regulatory standards or explicit 
+jurisdictional regulatory requirements, many financial institutions have taken steps to improve their ESG 
+practices. Increasing regulatory scrutiny  on climate and environmental issues  (the “E” of ESG 4) is also 
+attracting greater supervisory attention to governance (the “G” issues) including D&I matters.  
+5. In this paper, we examine emerging regulatory approaches 5 to the D&I practices of 
+financial institutions. Through desktop reviews and surveys covering six6 financial regulatory authorities, 
+we outline the range of D&I regulatory practices. In Section 2, we explain what D&I means and why it is a 
+ 
+2  For example, the murder of George Floyd that prompted the global Black Lives Matter movement.  
+3  In this paper, the terms “regulation” and “supervision”; and “regulators” and “supervisors” are used interchangeably.  
+4  Ehlers et al (2022) outlines how the “S” and “G” components cover D&I of a firm. Conceptually, this means that financial 
+regulators can review the “S” and “G” components of ESG scores as one source of input in assessing firms’ diversity and inclusion 
+practices. However, the study found that currently, ESG ratings should be used with caution as they lack transparency in terms 
+of the underlying rating methodologies. The ratings may provide inconsistent and divergent results and are open to con flicts 
+of interests on the part of the ESG ratings business.  
+5  This paper is not focused on financial inclusion issues. Rather, it covers financial inclusion from a narrow perspective of inclusive 
+customer policies that firms may adopt or regulators may require.  
+6  We would like to thank colleagues from the Central Bank of Argentina, Bank of England, European Central Bank, Hong Kong 
+Monetary Authority, South African Reserve Bank and the Office of the Comptroller of the Currency, United States for providing 
+input for the paper. 
+  
+ 
+Diversity and inclusion – embracing the true colours in financial supervision 7 
+ 
+ 
+prudential issue. Section 3 outlines the form of the enabling legislation that underlies regulatory action in 
+this area. Sections 4 to 6 explain  the substance of D&I regulatory approaches, covering corporate 
+governance, conduct of business and disclosure aspects , respectively. Se ction 7 briefly explains how 
+proportionate D&I requirements can be put in place and Section 8 concludes.  
+Section 2 – Conceptual background of D&I and its prudential relevance 
+6.  “Diversity” in the context of financial institutions  can be defined as having board 
+members, employees or customers with  different dimensions such as  gender, educational 
+background, ethnicity, sexual orientation , age  and physical ability , while “inclusion” means 
+accepting people for who they are and providing equal and fair opportunities for them. Concretely, 
+a manifestation of “ diversity” within a financial institution is to have a workforce that reflects a society’s 
+composition. “Inclusion”, on the other hand, means all employees can bring their “ whole selves” to work 
+without hiding any aspects of their personal background , although this may be regarded as unrealistic in 
+practice. An alternative formulation of “ inclusion” is for all employees to have acces s to physical and 
+psychological safe sp aces so that they are able to contribute their full potential.  In terms of a firm’s 
+customer base, diversity means acknowledging the different profiles of its customers and striving to cater 
+to their financial needs. To be inclusive, firms need to avoid business processes (for example underwriting 
+or pricing) that could exclude certain segments of society or treat certain demographics unfairly due to 
+their personal traits. Figure 1 provides non-exhaustive examples to d escribe how D&I manifests within a 
+financial institution’s organisational structure and, externally, in their interactions with customers. 
+Figure 1: Illustration of manifestation of D&I touchpoints of a financial institution 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7. In some regulatory frameworks, in addition to “ diversity” and “inclusion”, “equity” or 
+“equality” are explicitly considered, expanding the acronym to “DE&I”.  These concepts are not 
+mutually exclusive or independent. “Equity” and “equality” can be viewed as the desirable outcomes of 
+D&I. Equity is generally understood to mean treat ing people fairly , recognising the ir different personal 
+circumstances. Equality implies treating people in the same way, which does not necessarily result in equity 
+given the different situations people can be in  and the different starting points . While there are benefits 
+ 
+Dimensions 
+• Gender 
+• Sexual orientation 
+• Ethnicity/race/religion 
+• Disability 
+• Age 
+• Educational/ 
+professional 
+background 
+• Political beliefs 
+• Language 
+• Geographical location 
+• Social 
+status/background 
+• Wealth/income 
+ 
+ 
+Diversity 
+Inclusion 
+Internal manifestation within firms 
+• Board membership composition 
+• Gender target for senior managers 
+• Recognition of same-sex unions in 
+compensation packages 
+• Accessibility of office space and 
+equipment 
+• Turnover rates of staff 
+  
+External manifestation – dealings with 
+customers 
+• Advertisements using diverse sets of 
+people or types of family units 
+• Non-discriminatory underwriting 
+criteria 
+• Accessibility of products and services 
+  
+ 
+8 Diversity and inclusion – embracing the true colours in financial supervision 
+ 
+ 
+to explicitly mentioning the “E” when discussing D&I issues, for simplicity this paper considers “equity” as 
+being included in the concept of D&I.  
+8. There is currently no globally accepted definition of “ diversity” and “inclusion” in the 
+context of financial sector supervision.  Table 1 highlights definitions  stated in or  implied by the 
+documents reviewed. 
+Definitions of diversity and inclusion in different jurisdictions Table 1 
+Jurisdiction Diversity Inclusion 
+Argentina7 Promotion of inclusive and diverse work environments in terms of gender, geographic origin, age, 
+ethnic profile, professional experience, family composition and caregiving responsibilities. 
+Republic of Ireland8 Diversity refers to the existence and acceptance of 
+differences between people in whatever form they 
+take. 
+Inclusion is about helping people feel 
+involved and valued regardless of their 
+difference and making the best use of 
+diverse talent. 
+European Union9 Diversity means the situation whereby the 
+characteristics of the members of the 
+management body – including their ages, genders, 
+geographical provenances, and educational and 
+professional backgrounds – are different to an 
+extent that allows a variety of views within the 
+management body. 
+- 
+Hong Kong SAR - Financial inclusion refers to efforts to 
+remove barriers that hinder access to basic 
+banking services and to promote access to 
+basic banking services by different 
+segments of the society to meet the basic 
+daily needs of the public and the 
+operational needs of legitimate businesses. 
+South Africa10 Diversity should be understood as the varied 
+perspectives and approaches offered by members 
+of different identity groups. For the purposes of 
+the King Code on Corporate Governance for South 
+Africa, it includes diversity in the field of 
+knowledge, skills and experience in addition to 
+age, culture, race and gender. 
+- 
+United Kingdom11 Diversity of thought means bringing together a 
+range of different styles of thinking among 
+members of a group. Factors that could lead to 
+diverse thinking could include, but are not limited 
+to, different perspectives, abilities, knowledge, 
+attitudes, information styles and demographic 
+characteristics, or any combination of these. 
+Inclusion means that everyone feels 
+involved, valued, respected and treated 
+fairly, and that these elements are 
+embedded into a firm’s culture. Inclusion 
+can be defined as the practice or policy of 
+providing equal access to opportunities and 
+resources for people who might otherwise 
+be excluded or marginalised, for example 
+due to demographic characteristics. 
+  
+ 
+7  See Central Bank of Argentina (2020a). 
+8  See Central Bank of Ireland (2020). 
+9  See European Union (2013b).  
+10  See Institute of Directors Southern Africa (2016) for King IV Code, an industry code of governance for listed companies. 
+11  See Bank of England and Financial Conduct Authority (2021). 
+  
+ 
+Diversity and inclusion – embracing the true colours in financial supervision 9 
+ 
+ 
+United States12 Diversity is defined as “minorities and women” 
+where “minorities” are defined as Black Americans, 
+Native Americans, Hispanic Americans and Asian 
+Americans. Regulated financial institutions can 
+adopt a broader definition to include people with 
+disabilities, veterans, LGBTQI+ (lesbian, gay, 
+bisexual, transgender, queer and intersex). 
+Inclusion is a process to create and 
+maintain a positive work environment that 
+values individual similarities and 
+differences, so that all can reach their 
+potential and maximise their contributions 
+to an organisation. 
+Source: FSI staff. 
+ 
+9. The main focus of diversity has been on gender, but the scope is expanding to cover other 
+diversity dimensions.  In some cases, specific dimensions of “ diversity” are defined in overarching 
+legislation, for example the Equality Act 2010 that applies in Great Britain  sets out “protected 
+characteristics” for the purposes of anti -discrimination law.13  In other cases, the definitions of “diversity” 
+and “inclusion” are context-specific, such as in the financial regulatory standards in the United States , as 
+shown in Table 1 above. In South Africa, the ethnicity dimension is emphasised. Republic of South Africa 
+(2004) defines “broad-based black economic empowerment” to mean the economic empowerment of all 
+black people including women, workers, youth, people with disabilities and people living in rural areas . It 
+sets out a number of other objectives including  achieving equitable representation in all occupational 
+categories and levels in the workforce.  Table 2 shows the range of diversity dimensions covered or 
+mentioned in the different regulatory frameworks or consultation papers. 
+Dimensions of diversity and inclusion covered in the different jurisdictions Table 2 
+ Gender Age Ethnicity/ 
+race/religion 
+Sexual 
+orientation Disability 
+Educational/ 
+professional 
+background 
+Others 
+Argentina       
+Geographic origin, 
+nationality, family 
+composition, caring 
+responsibilities, 
+ideology, political or 
+trade union opinion, 
+economic status. 
+European Union        Geographical 
+provenance. 
+Hong Kong SAR       
+Marital status, 
+pregnancy, 
+breastfeeding, family 
+status.  
+South Africa        
+United Kingdom14        
+United States        
+Source: FSI staff. 
+10. Sound D&I practices by financial institutions can support the core prudential objective of 
+promoting the safety and soundness of the financial sector. One way in which D&I can support 
+prudential objectives is by improving the  quality of corporate governanc e of a regulated financial 
+ 
+12  See Office of the Comptroller of the Currency et al (2015). These standards were issued under section 342(g)(3) of the Dodd-
+Frank Wall Street Reform and Consumer Protection Act. 
+13  See definition of “protected characteristics” from the Human Rights Commission. 
+14  Based on the Equality Act 2010 – see United Kingdom (2010). A broader set of characteristics were considered in the discussion 
+paper published by the Financial Conduct Authority and the Prudential Regulation Authority.  
+  
+ 
+10 Diversity and inclusion – embracing the true colours in financial supervision 
+ 
+ 
+institution. It is observed that a common desired regulatory outcome of D&I is to avoid groupthink at all 
+levels within a financial institution.  European Central Bank (2021 a,b) describe how diversity in leadership 
+can improve the corporate governance of financial institutions  through effective challeng ing, better 
+decision-making and minimisation of potential conflicts of interest. This idea is enshrined in legislation, as 
+in European Union (2013a), that states that a lack of diversity can lead to groupthink, which can result in a 
+lack of monitoring of management decisions by management bodies.  Visco (2021) and European Central 
+Bank (2021b)  added that diversity can also minimise concentrations of power within a firm  and avoid 
+decision-making by dominant personalities. Central Bank of Ireland (2018) further elaborated that D&I can 
+reduce overconfidence by decision-makers, improve risk management and reduce excessive resistance to 
+external challenges. From a supervisory perspective, the Central Bank of Ireland (2018) found that a lack 
+of D&I at the board and senior management levels of a financial institution is a leading indicator of 
+heightened behaviour and culture risks. Haldane (2016) attributed most bank failures in the Great Financial 
+Crisis to groupthink that was brought about by lack of diversity within those firms. Besides corporate 
+governance, D&I can contribute to better conduct relating to business practices, for example through 
+reduced reputational and legal risk exposures, which in turn support prudential objectives. D&I disclosure, 
+for example on the gender compositions of boards, can also reinforce prudential objectives through the 
+self-accountability of firms.  
+11. Nevertheless, pure D&I obj ectives may sometimes conflict with other prudential 
+objectives. In particular, c ertain suitability of person requirements could inhibit progress in D&I within 
+firms. For example, European Central Bank ( 2021b) highlighted  that requirements regarding minimum 
+levels of experience may make it difficult for positions to be filled by women. This can be the case due to 
+prolonged absence from work due to childbirth and caregiving responsibilities. As such, there could be 
+cases in which D&I objectives cannot be achieved because of other competing fit and proper assessment  
+criteria. It is challenging for supervisors to balance such trade-offs. Having a clear regulatory statement on 
+such trade-offs can be helpful for firms. For example, European Banking Authority and European Securities 
+and Markets Authority (20 21) states institutions should not recruit members of the management body 
+with the sole purpose of increasing diversity to the detriment of the functioning and suitability of the 
+management body collectively, or at the expense of the suitability of individual members o f the 
+management body . Ultimately, the litmus test is to assess whether an individual contributes  to the 
+collective suitability of the board as a whole. 
+12. From a business perspective, studies have found that firms with more diverse workforce s 
+tend to have be tter financial performance.  Garcia-Meca et al (2015) outlined empirical evidence from 
+a study of over 150 bank s in  nine countries showing that gender diversity tends to increase the  
+performance of banks. Conceptually, checks and balances that are in place through constructive challenges 
+to business decisions , together with strategies devised by decision -makers who come from diverse 
+backgrounds, should lower operational and reputational risks, thus improving financial performance. It is 
+reasonable to expect that a more diverse and inclusive firm should be able to generate more stable and 
+sustainable returns and be able to adapt its business model  to better cope with changes in its business 
+environment. The World Economic Forum 15 found that diverse and inclusive workforce s can increase 
+innovation and economic competitiveness. Nevertheless, there are countervailing studies that have found 
+that diverse boards can “ backfire” by increasing the number of unproductive conflicts . Indeed this could 
+negate the whole purpose of D&I. Figure 2 summarises how good D&I practices can support prudential 
+objectives. 
+ 
+15  See World Economic Forum (2019). World Economic Forum (2020b) states that improving diversity, equity and inclusion across 
+the entire innovation chain will be fundamental to broadening the pool of potential talent, improving the capacity of new 
+solutions to reflect the needs of society and making sure that all segments of society participate fairly in the economic benefits 
+generated through innovation. 
+  
+ 
+Diversity and inclusion – embracing the true colours in financial supervision 11 
+ 
+ 
+Figure 2: Prudential relevance of sound D&I policies and practices by financial institutions 
+ 
+13. Some financial regulatory agencies may have specific mandates to promote D&I. Kirakul et 
+al (2021) found that supervisory authorities that are also central banks tend to have broader developmental 
+mandates than standalone prudential authorities. Such  mandates may include financial sector 
+development and financial inclusion, which may prompt those authorities to take a more proactive role in 
+promoting a n inclusive financial sector for underserved segments of the p opulation. In Argentina, the 
+central bank, which is also the prudential authority, has a mandate 16 to promote economic development 
+with social equality  – a key objective of D&I measures. In  May 2020, the central bank created a specific 
+Department for the Promotion of Gender Policies, Respect and Workplace Coexistence, with the aim of 
+promoting, developing and implementing policies to support the preservation of gender rights, diversity 
+and equality within the organisation and the financial system in general. 
+14. Some regulatory standards on D&I seem to go beyond prudential objectives, to address 
+other market developmental and  socio-political objectives.  In the United States ,17 financial 
+regulators18 encourage regulated fir ms to assess whether their  supplier diversity polic ies provide fair 
+opportunities for minority -owned and women- owned businesses. Other regulators with market 
+development, financial inclusion and competition objectives may also introduce regulatory requirem ents 
+on D&I to support these objectives. In particular, with some regulators increasingly focused on promoting 
+innovation in the financial sector ,19 improving D&I in financial institutions can directly contribute to this 
+broader mandate by breaking silo or  historical inertia, and encouraging experimentation with new ideas. 
+In South Africa, the Prudential Authority collaborates with the Competition Commission in order to grant 
+approvals for certain transactions involving financial institutions, such as merge rs and acquisitions. This 
+collaboration aims to achieve several policy objective s including promoting employment and advanc ing 
+the social and economic welfare of South Africans; ensur ing that small- and medium-sized enterprises 
+ 
+16  See www.bcra.gob.ar/Institucional/BCRALaw.asp. 
+17  See Office of the Comptroller of the Currency et al (2015). 
+18  The Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit 
+Insurance Corporation, the National Credit Union Administration, the Bureau of Consumer Financial Protection, and the 
+Securities and Exchange Commission. 
+19  Kirakul et al (2021) lays out selected financial regulatory authorities with fintech and innovation mandates. 
+Diversity and inclusion
+Improve diversity of 
+thought (avoid groupthink)
+Positive challenge
+Speaking up
+Fairer treatment of 
+customers
+Enhanced internal 
+governance
+Better decision-making
+Improved risk 
+management
+Better culture
+Reduced reputational and 
+legal risks
+Support safety and 
+soundness of firms
+Greater innovation and 
+better products
+Sustainable growth
+Financial stability
+  
+ 
+12 Diversity and inclusion – embracing the true colours in financial supervision 
+ 
+ 
+have equitable opportunities to participate in the economy; and promoting a greater spread of ownership, 
+in particular to increase the ownership stakes of historically disadvantaged persons.  
+Section 3 – Governing legislation 
+15. In the sampled jurisdictions, overarching legislation on social justice typically underpins 
+specific regulatory instruments that elaborate how laws related to D&I are to be implemented in 
+the financial sector. This is probably because D&I issues  are not specific to the financial sector but cut 
+across different industries and the competencies of different public sector authorities. Having a legislative 
+foundation to support financial regulatory actions on D&I is important in order to provide regul atory 
+requirements or expectations  with the force of law. A lack of explicit legislation or clear D&I regulatory 
+communications, such as supervisory expectations, may hinder progress in this area. Without the force of 
+law, it is difficult for supervisors t o take action against firms that are found to have gaps in their D&I 
+policies and practices. In addition, a lack of awareness or understanding within supervisory authorities of 
+the prudential relevance of D&I can be a challenge. Table 3 shows the range of legislation that support 
+regulatory approaches on D&I in selected jurisdictions.  
+  
+List of legislation underpinning D&I regulatory issuances  Table 3 
+Jurisdiction Legislation Coverage of legislation on D&I issues 
+Argentina  Law No 23.592 (1988): Anti-
+discriminatory practices 
+Law No 5261 (2015): Law against 
+discrimination 
+Laws No 26.485 (2009) and No 27.533 
+(2019): Comprehensive Women's 
+Protection Act 
+Law No 26.743 (2012): Gender Identity 
+ 
+Law No 24.240: Consumer Defence 
+Enshrines fundamental rights and guarantees, as 
+recognised in the National Constitution. 
+Guarantees and promotes the principle of equality and 
+prevents discrimination through inclusive public policies. 
+Contains legal provisions to prevent, prosecute and 
+eradicate violence against women. 
+ 
+Allows transgender people to be registered in personal 
+documents with the name and gender of their choice. 
+Sets out standards to preserve respect for consumer 
+rights. It requires companies to respect consumers’ rights 
+to protection and safety, education, decent treatment and 
+to provide offers and advertising and that are relevant to 
+the economic interests of the consumer. 
+European Union Treaty on the Functioning of the 
+European Union 
+ 
+Directive 2019/878 
+ 
+ 
+Directive 2013/36/EU 
+ 
+ 
+ 
+Regulation (EU) No 575/2013 
+ 
+National laws of member states 
+Sets out overarching aim to eliminate inequalities, and to 
+promote equality between men and women including in 
+the labour market and treatment at work. 
+Requires firms to observe gender neutral remuneration 
+policies and sets out the role of competent authorities in 
+issuing guidelines.  
+Sets out governance-related requirements on firms and 
+establishes the role of competent authorities. Requires 
+institutions to have diversity policies in place, including 
+targets for the representation of the “underrepresented 
+gender” in the management bodies. 
+Requires institutions to disclose information regarding 
+their policy and targets on diversity. 
+Includes governance and diversity related requirements in 
+line with the abovementioned European Union legal 
+framework. 
+  
+ 
+Diversity and inclusion – embracing the true colours in financial supervision 13 
+ 
+ 
+Hong Kong SAR Sex Discrimination Ordinance 
+ 
+ 
+ 
+Disability Discrimination Ordinance 
+ 
+ 
+Family Status Discrimination Ordinance 
+ 
+ 
+ 
+Race Discrimination Ordinance 
+Prohibits discrimination against a person on grounds of 
+sex, marital status, pregnancy or breastfeeding, in 
+prescribed activities including employment and the 
+provision of services. 
+Outlaws certain acts that discriminate against a person on 
+the basis of disability in relation to prescribed activities 
+including employment and provision of services. 
+Prohibits discrimination against a person on the grounds 
+on grounds of “family status", defined as having a 
+responsibility for the care of an immediate family member 
+in relation to prescribed activities including employment 
+and the provision of services. 
+Protects people against discrimination, harassment and 
+vilification in relation to prescribed activities, including 
+employment and the provision of services, on the basis of 
+their race. This includes the colour, descent, and national 
+or ethnic origin of a person. 
+South Africa Broad-based Black Economic 
+Empowerment Act 53 of 2003  
+ 
+ 
+ 
+ 
+ 
+Employment Equity Act 55 of 1998 
+ 
+ 
+ 
+ 
+ 
+Insurance Act 18 of 2018 
+ 
+ 
+ 
+ 
+Financial Sector Regulation Act 9 of 
+2019  
+Commits parties including financial authorities to actively 
+promote a globally competitive financial sector that 
+reflects the demographics of South Africa, and contribute 
+to the establishment of an equitable society by effectively 
+providing accessible financial services to black people and 
+by directing investment into targeted sectors of the 
+economy. 
+Promotes equal opportunity and fair treatment in 
+employment by eliminating unfair discrimination and 
+implementation of affirmative action measures to redress 
+the disadvantages in employment experienced by 
+different groups in order to ensure equitable 
+representation in all occupational categories and levels in 
+the workforce. 
+Specifies that one of the objectives of insurance 
+supervision is to promote broad-based transformation of 
+the insurance sector as envisaged under the Broad-based 
+Black Economic Empowerment Act. Requires a licensee to 
+have a plan to meet its stated commitments in terms of 
+transformation in the aforementioned Act. 
+Sets transformation of the financial sector as envisaged 
+under the Broad-based Black Economic Empowerment Act 
+as one of the objectives for financial regulators in South 
+Africa.  
+United Kingdom Equality Act 2010 
+ 
+ 
+ 
+ 
+Sets out “protected characteristics” and the law on equal 
+pay. Places public sector equality duty on financial 
+authorities when making decisions and setting policies. 
+Sets out objectives to eliminate discrimination, advance 
+equality of opportunity and foster good relations among 
+different groups of people. 
+United States Dodd-Frank Act Establishes an Office of Minority and Women Inclusion 
+(OMWI) within each of several agencies to be responsible 
+for all of the agency’s matters relating to diversity in 
+management, employment and business activities. 
+Requires the OMWI director of each agency to develop 
+standards for assessing the diversity policies and practices 
+of entities regulated by the agency. 
+Source: FSI staff. 
+  
+ 
+14 Diversity and inclusion – embracing the true colours in financial supervision 
+ 
+ 
+16. The underlying legislation provides the force of law from different angles , ranging from 
+public accountability of financial sector regulators in relation to D&I objectives, to financial sector- 
+specific requirements.20  For example, in the United Kingdom, the P rudential Regulation Authority and 
+the Financial Conduct Authority are subject to the public sector equality duty21 that sets out how these 
+authorities need to fulfil D&I objectives when exercising their functions . In Hong Kong  SAR, the general 
+legislation on sex and disability discrimination, while not specifically targeted at the financial services 
+sector, has been transposed into  provisions in the industry code for banking institutions in Hong Kong  
+SAR (the Code of Banking Practice). In the United States, the Dodd-Frank Act puts in place an accountability 
+mechanism through the establishment of the Office of Minority and Women Inclusion in each of several 
+financial sector regulators . The offices are  required to provide an annual report to the U nited States 
+Congress on actions taken by the relevant financial sector regulators 22 with respect to D&I requirements. 
+Unlike these jurisdictions, the European Union has specific legislative requirements in the capital rules, for 
+financial institutions to have diverse management bodies. In particular, European Union (2013a) empowers 
+the European Banking Authority to issue guidelines on diversity and  requires the authority  to regularly 
+report to the European Commission on the outcomes of its benchmarking studies 23 of gender diversity 
+practices of banks in the European Union. 
+17. Financial authorities typically need to collaborate with other government and public sector 
+agencies in introducing D&I requirements in the financial sector.  For example, in Argentina, the 
+Central Bank of Argentina and the Ministry of Women, Gender and  Diversity established a Promotion of 
+Gender Policies, Respect and Appropriate Workplace Behavio ur Management Office to contribute to the 
+removal of gender inequality within the central bank  and in the broader financial system. The Ministry of 
+Women, Gender  and Diversity  is responsible for the  overall design, implementation and evaluation of 
+national public policies on gender, equality and diversity.  The central bank also collaborates with the  
+National Securities Commission and the Ministry of Economy  to develo p a Financial Education 
+Programme24 with a gender perspective aimed at different audiences, and with the objective of promoting 
+social inclusion.  In some jurisdictions such as  Hong Kong  SAR, South Africa and the United Kingdom, 
+industry-led codes of conduct specify D&I-related expectations for firms. To support regulatory guidelines 
+on D&I in Hong Kong  SAR, the banking industry provides implementation details in the form of specific 
+industry codes of conduct and guidelines.25  In Hong Kong  SAR, the Equal Opportunities Commission is 
+responsible for the enforcement of the four anti-discrimination laws that also apply to the financial sector. 
+The Institute of Directors in Southern Africa established the King Code on Corporate Governance for South 
+Africa that requires governing bodies of firms to set targets for race and gender representation in its 
+membership, amongst other D&I requirements.  Regulators in the United Kingdom collaborate with 
+government departments such as HM Treasury, Department of Business, Energy and Industrial Strategy 
+and the Government Equalities Office on D&I issues. In addition, the regulators also work with the Equality 
+ 
+20  Some regulatory frameworks are becoming more explicitly inclusive in terms of language used in regulatory issuances . For 
+example, in the United Kingdom, the Prudential Regulation Authority and Financial Conduct Aut hority have reviewed their 
+policy documents to ensure more inclusive language and will continue doing so for new policies. In Hong Kong  SAR, the 
+supervisory manual defines “he/his” as covering all genders including neuter genders. 
+21  The public sector equality duty requires public authorities in the United Kingdom to have due regard to the need to achieve 
+the objectives under the Equality Act 2010 including eliminating discrimination and advancing equality of opportunity for 
+various groups of people. For more information see www.gov.uk/government/publications/public-sector-equality-duty.  
+22  These include Office of the Comptroller of the Currency; Board of Governors of the Federal Reserve System; each of the Federal 
+reserve banks; Federal Deposit Insurance Corporation; National Credit Union Administration; Bureau of Consumer Financial 
+Protection; the Securities and Exchange Commission;  the Departmental Offices of the Department of the Treasury ; and the 
+Federal Housing Finance Agency. 
+23  See here for the visualisation tool of the benchmarking study conducted in 2019.  
+24  See www.bcra.gov.ar/BCRAyVos/Programas-Educacion-Financiera-bcra.asp.  
+25  See the Hong Kong Association of Banks (2018), (2020) and (2021). 
+  
+ 
+Diversity and inclusion – embracing the true colours in financial supervision 15 
+ 
+ 
+and Human Rights Commission26 in the discharge of their public sector equality duty and with the Financial 
+Reporting Council on D&I disclosures for listed firms.  
+Section 4 – Corporate governance 
+18. International regulatory standards call for banks to establish a sound corporate 
+governance framework that is underpinned by well qualified board members not only individually 
+but also collectively. Basel Committee on Banking Supervision (2015) includes a requirement that the 
+board of directors of a bank comprise individuals with a balance of skills, diversity and expertise . Board 
+members should collectively possess the necessary qualifications commensurate with the size, complexity 
+and risk profile of the bank.  The principles introduce the concept of  collective suitability of the board,  
+whereby board members as a whole should possess a range of knowledge and experience and have varied 
+backgrounds to promote a diversity of views. Although the international guidelines describe diversity of 
+thought mainly from the perspective of knowledge and expertise, some regulatory authorities have taken 
+a broader view to deal with other dimensions of diversity, including gender (see Table 2). 
+19. In the area of corporate governance, D&I regulations cover four  main aspects – suitability 
+assessments, board composition, remuneration and recruitment practices . The main prudential 
+objective of promoting diversity within a firm is to encourage constructive challenge s and avoid 
+groupthink, thus contributing to sound business decisions. Table 4  provides a summary of the range of 
+D&I aspects in publicly available regulatory requirements in selected jurisdictions.  
+20. Supervisors can adapt existing corporate governance requirements to cover D&I issues . In 
+other words, regulators may already have the relevant corporate governance-related requirements in place 
+that can be applied in the context of D&I. For example, Central Bank of Argentina (2020a)  adjusts the 
+existing guidelines on corporate governance to cover gender equity in managerial positions, staff training, 
+the promotion of inclusive and gender -diverse workplaces, as well as gender  equitable management  
+frameworks. Uniquely, it considers it good practice for financial institutions to use a gender parity criterion 
+in determining the composition of the audit committee . The regulatory approach in the United Kingdom 
+also places many of the D&I policies in the context of corporate governance and effective decision-making. 
+ 
+26  Equality and Human Rights Commission (2019 ) outlines its Gender Equality Duty C ode of P ractice that states that “a public 
+authority may have functions which have the potential to address the gender pay gap in a wider policy sense”, and if so, “the 
+public authority should also be considering whether it can address the causes of the gender pay gap within that wider remit 
+where appropriate.” 
+Overview of D&I-related governance standards or issuances Table 4 
+Jurisdiction Suitability Board composition Remuneration Recruitment 
+Argentina      
+European Union     
+South Africa     
+United Kingdom     
+United States     
+Source: FSI staff. 
+  
+ 
+16 Diversity and inclusion – embracing the true colours in financial supervision 
+ 
+ 
+Suitability assessments 
+21. As boards of directors are the main decision -making bodies within financial institutions, 
+they can have a profound impact on the financial performance and soundness of those firms.  
+European Central Bank (2021b) emphasises the importance of diversity amongst board members in 
+achieving the “independence of mind” criterion, which it considers critical in safeguarding a firm’s safety 
+and soundness , and in promoting public trust in the institution. As such, governance requirements 
+surrounding the selection of people who sit on boards are critically important in preserving the safety and 
+soundness of financial institutions and financial systems. Central Bank of Argentina (2020a) specifically 
+emphasises gender equality at board level as a  good practice which enhances discussion and enrich es 
+decision-making with regard to strategies, policies and risk-taking in financial institutions. 
+22. One of the main regulatory objectives relevant to D&I is for boards of directors as a whole 
+to possess “collective suitability ”. In the European Union 27 supervisors assess whether managemen t 
+bodies are “collectively suitable” by considering the knowledge and skills of each individual member in 
+the assessment of board members’ suitability. Some European Union countries further tackle other 
+diversity aspects in this assessment. In the United Kingdom,28 supervisors assess the “collective suitability” 
+of board members, including from a diversity perspective, before approving board member appointments. 
+The Prudential Authority in South Africa considers gender and race diversity when undertaking su itability 
+assessments of insurers. I n the suitability assessment of board members of significant institutions, the 
+European Central Bank  assesses knowledge diversity as a component of collective suitability in line with  
+the provisions of  European Union (2013a) , as implemented in national legislation.  Gender is also 
+considered in such assessment s if specified in  national legislatio n. During supervisory interviews with 
+appointees, supervisors may pose any questions that could help determine the appointee’s knowledge or 
+future plans in relation to the supervised entity . The questions may  include diversity-related topics, for 
+example succession planning, current and future composition of the board  or the firm’s diversity policy. 
+Regulators in the United  Kingdom are considering clarifying suitability assessment criteria to  explicitly 
+make reference to non-financial misconduct in relation to D&I. 
+Board composition 
+23. D&I governance requirements relating to board composition typically cover t he 
+appointment process of board members and regular reviews of board effectiveness . In practice, 
+board member  nominations are usually  overseen by a board -level nominations committee.  European 
+Union (2013 a) requires significant firms’ nominations committees to establish a policy to promote the 
+diversity of their management bod ies and to assess the diversity of such bodies.  In the United Kingdom, 
+nominations committees in regulated financial institutions  must set gender targets for the board so that 
+it is not dominated by  a small group of board members. Central Bank of Argentina (2020a) provides 
+guidance on how b oards can approve staff sel ection policies that promote inclusive and diverse work 
+environments for the appointment of senior management and other staff. Regulators in the United 
+Kingdom are considering clarifying their licensing or threshold conditions such that firms proven to 
+engage in discriminatory practices may be prohibited from carrying out regulated business. Effectively, a 
+firm’s D&I track record may become a consideration before being granted a licen ce to operate. 
+ 
+27  See European Central Bank (2021b). 
+28  See Bank of England and Financial Conduct Authority (2021). 
+  
+ 
+Diversity and inclusion – embracing the true colours in financial supervision 17 
+ 
+ 
+Other governance-related requirements 
+24. Diversity-related governance requirements may cover aspects beyond board composition, 
+such as requirements for firms to establish policies on D&I, recruitment, retention and promotion, 
+and management reporting and training. This is the case in  Argentina and  the United States. T he 
+prudential and conduct regulators in the United Kingdom plan to cover similar areas such as succession 
+planning, the establishment of a D&I policy and training. European Banking Authority and European 
+Securities and Markets Authorit y (2021) provides guidelines for banks to have a diversity policy in place  
+that covers at least the following dimensions: educational and professional background, gender, age and 
+geographical provenance. Central Bank of Ireland (2020) considers it particul arly important for firms to 
+establish a D&I strategy that is aligned to their strategic objectives. Its thematic reviews of the insurance 
+industry in Ireland identified the lack of such a strategy as a clear inhibitor to making progress in D&I. In 
+South Africa, the Johannesburg Stock Exchange 29 requires boards of directors or nomination committees 
+of listed firms, including financial institutions, to establish policies to promote gender and racial diversity 
+at the board level.  Nevertheless, it is acknowledg ed that firms may face challenges in achieving their 
+diversity recruitment targets. In the United States ,30 a common challenge faced by the largest banks is 
+competition for diverse talent with science, technology, engineering, maths and finance-related expertise. 
+Some supervisors may take a more sceptical approach and consider “lack of capable candidates ” to be 
+more of an excuse than a real challenge. 
+25. Like other governance-related requirements, boards of directors of firms can be assigned 
+specific D&I oversight responsibilities.  Central Bank of Argentina (202 0a) recommends that boards of 
+financial institutions establish policies for recruitment and succession planning for key executives and that 
+they approve, monitor and review the design and operation of the firms’  remuneration system . 
+Recruitment policies related to the appointment of senior management and other staff may consider not 
+only gender equality but also the promotion of  an inclusive work environment in terms of gender, 
+geographic origin, age, ethnic profile, professional experience, family composition and care 
+responsibilities. Boards are also expecte d to establish policies for staff education and training on gender 
+and gender-based violence. The joint inter -agency standard in the United States also recommends that 
+certain regulated firms appoint a dedicated executive-level D&I officer. Regulators in the United Kingdom 
+anticipate expanding the existing senior managers regime to capture accountability for D&I as part of the 
+culture responsibilities of the relevant senior managers. 
+Supervisory reviews 
+26. In order to ascertain that regulatory requirements translate into concrete D&I outcomes , 
+supervisory review assessments are  an important complement to governance-related D&I  
+requirements. The Central Bank of Argentina has incorporated  D&I governance aspects  in its internal 
+supervisory procedures  so that  supervisors consider these issues when assessing firms’ corporate 
+governance. The European Central Bank assesses gaps or weaknesses related to diversity, where possible, 
+as part of its  fit and proper assessments of board members , which consider the  collective suitability 
+criterion, and via ongoing supervision as part of the Supervisory Review and Evaluation P rocess (SREP).31 
+It should be noted that inclusion is not assessed in this cont ext, as it goes beyond the European Central 
+Bank’s remit. Depending on the outcomes of the assessments, it may impose ancillary provisions in fit and 
+proper decisions and remind banks of the need to comply with the  regulatory framework in order to 
+improve diversity of  management bodies . Slow progress in pursuing diversity of expertise may pose 
+ 
+29  See Johannesburg Stock Exchange (2019).  
+30  See United States House of Representatives (2000).  
+31  See European Central Bank (2021d). 
+  
+ 
+18 Diversity and inclusion – embracing the true colours in financial supervision 
+ 
+ 
+challenges to banks in driving strategic and sustainable business model transformation in key areas such 
+as digitalisation. In some agencies, there might not be  an explicit supervisory review process focusing on 
+D&I aspects specifically. Nevertheless, supervisors might still indirectly capture some D&I aspects when 
+assessing the quality of communication within the institution and the challeng e role of the control 
+functions. Supervisors may also review publicly available information such as firms’ annual reports.  
+27. Supervisory reviews of a firm’s D&I policies and practices can be undertaken as part of a 
+broader review of its culture. Regulators in the United Kingdom have proposed more explicitly 
+considering D&I aspects when assessing a firm’s culture, which is already the case in South Africa . This 
+may take the form of asking board members to explain their leadership role in promoting D&I, assessing 
+the existence of relevant policies such as speaking up, or more generally, reviewing how D&I is embedded 
+within a firm, its  strategy, products  and services. To supplement supervisor y reviews, D&I audits, as 
+contemplated in the United Kingdom, can be helpful in assessing organisational risks arising from poor 
+D&I within firms. Industry-wide thematic reviews can also be useful in benchmarking firms and identifying 
+outliers, to encourage laggards to improve their D&I practices.  
+Gender diversity 
+28. Certain regulatory regimes have a specific focus on improving gender diversity in financial 
+institutions. European Banking Authority and European Securities and Markets Authority (2021) provide 
+guidelines to the largest institutions to set targets for the underrepresented gender32 in their management 
+bodies. In the European Union, 33 supervisors assess banks’ self -imposed or nationally required gender 
+targets as part of the collective suitability assessment of the board , whenever national laws so provide . 
+The fit and proper template 34 questionnaire used to gather information to assess  an appointee includes 
+specific questions on gender diversity and targets. Following its 2021 SREP ,35 the European Central Bank 
+expressed concerns regarding the effectiveness of management bodies in terms of their composition and 
+collective suitability, as well as a lack of progress in meeting quantitative gender targets. Other regulatory 
+regimes like in Hong Kong SAR rely on broader public listing rules to set gender targets. Hong Kong  SAR 
+securities issuers (including banks) are required to step up their efforts on board gender diversity. Effective 
+1 January 2022, 36 issuers with a single gender board have a three -year transition period within which to  
+appoint at least one director of a different gender.  
+29. D&I gender-related policies work hand  in hand to support the broader D&I objectives of 
+firms. For example, to attract more female applicants , firms need to demonstrate fair, gender -neutral 
+remuneration packages. Recruitment practices should be de -biased as much as possible, to provide fair 
+opportunities for women to enter the financial services workforce.  Over the period 2022 to 2024, 37 the 
+European Central Bank will enhance its focus on diversity as part of its work related to management bodies’ 
+effectiveness and sound decision -making in order to further  improve diversity in significant institutions. 
+The supervisory activities include data collection, targeted reviews of banks with deficiencies in the 
+composition and functioning of their management bodies, on-site inspections and targeted risk-based fit 
+and proper (re)assessments. In addition to the actions already undertaken, further initiatives are planned 
+to address the lack of gender balance. The European Central Bank also plans to assess how gender diversity 
+ 
+32  Underrepresented gender can be male or female, though in most cases women are underrepresented. 
+33  See European Central Bank (2021a). 
+34  See European Central Bank (2021c).  
+35  See European Central Bank (2022b). 
+36  See The Stock Exchange of Hong Kong Limited (2021). 
+37  See European Central Bank (2021d). 
+  
+ 
+Diversity and inclusion – embracing the true colours in financial supervision 19 
+ 
+ 
+is captured in banks’ diversity and suitabi lity policies and practices, including those related to 
+remuneration. 
+30. Besides board composition, gender diversity features in regulatory requirements relating 
+to firm’s policies on remuneration, recruitment, career development and succession  policies. The 
+European Central Bank expects the succession policies of banks to aim to increase the representation of 
+women in the management body . In a similar vein, Central Bank of Argentina (202 0a) recommends that 
+financial institutions consider the progressive appointment of women in new vacancies or renewals of 
+terms until gender parity is achieved. European Union legislation38 and guidelines39 require remuneration 
+policies to be gender-neutral. Institutions are expected to monitor the development o f the gender pay 
+gap separately for identified staff and members of management bodies  and disclose information on the 
+gender pay gap. Financial Conduct Authority (2015) requires conduct and prudential regulated firms in 
+the United Kingdom to establish gend er neutral remuneration policies that do not discriminate against 
+any staff member, specifically during performance reviews and when determining variable remuneration. 
+Regulators in the United Kingdom may introduce guidance on how firms can use D&I metrics  as part of 
+non‑financial criteria when setting variable remuneration awards. Building on the Equalities Act 2010, they 
+may also issue rules to prohibit discriminatory pay practices. 
+ 
+38  See European Union (2013a).  
+39  See European Banking Authority (2021b). 
+Box 1 
+Gender diversity in the financial sector – too little but not too late 
+The most prominent aspect of D&I initiatives in the financial sector is gender diversity. This can be attributed to 
+legislation on gender equality, in some cases, requiring corporations including financial institutions to set gender 
+targets in the ir workforce. Moreover, the efforts of financial institutions to improve gender diversity, especially at 
+management level, are becoming increasingly visible. These developments are not a coincidence, as various studies 
+have found that more gender -diverse financial institutions are better managed. For example, Arnaboldi et al (2020) 
+examines the impact of governance reforms related to board diversity on the performance of E uropean Union banks 
+and concludes that a greater presence of female directors on a board, when this is legally reinforced, reduces a bank’s 
+risk. Harvard Business Review (2019) found that ”having  a diverse workforce helps companies acquire and retain the 
+best talent, build employee engagement, increase innovation, and improve business performance”. 
+While progress has been observed over the years, the pace of progress remains slow. International La bor 
+Organization (2022) reported that the share of women  in managerial positions worldwide increased only slightly 
+between 2000 and 2019 – from 25.3% to 28.3%. Remarkably, it estimates that at the current rate of progress, it will 
+take more than 140 years to achieve gender parity in managerial positions. 
+Gender composition 
+In the European Union, nine countries (Austria, Belgium, France, Germany, Greece, Italy, the Netherlands, Portugal and 
+Spain) have national gender quotas applicable to management bodies.  The scope and application of the quotas differ 
+according to national legislation (often applicable beyond financial institutions, for instance to listed companies). In 
+addition, the national quotas are not always mandatory. The highest female quota is 40% (France, Italy and Spain), 
+followed by 33% (Belgium  and Portugal), 30% (Austria, Germany  and the Netherlands) and 25% (Greece). The 
+European Central Bank’s stocktake in 2021 found that the actual average female composition amongst 91 significant 
+institutions in five of these countries remain s below the target (by between 3 and 12 percentage points). On a 
+positive note, average female composition of the sampled significant institutions in four countries (Greece, Italy, the 
+Netherlands and Spain) exceeded the gender quotas. In the Africa region, the International Finance Corporation found 
+in a 2019 study that in Ghana only 6% of organisations had minimum thresholds for women on their board, 76% did 
+not have minimum thresholds and 18%  failed to provide valid responses. In Nigeria, fewer  than 30% of companies 
+have women in senior positions.  
+  
+ 
+20 Diversity and inclusion – embracing the true colours in financial supervision 
+ 
+ 
+United States regulators recommend that certain banks  monitor their D&I targets. The main indicator 
+tracked is the number of female executives or female directors in an institution. They also focus on the number of 
+women in mid-level management and working at a professional level. It is worth noting that the  United States Equal 
+Employment Opportunity Commission requires workforce disclosure to be further disaggregated and reported by 
+race. In Argentina, banks are not required to set gender targets. Nevertheless, Central Bank of Argentina (2020a) 
+considers it good practice for financial institutions to have a b oard of d irectors composed on the basis of gender 
+parity.  
+Gender pay gap 
+Not only is female representation low at banks’ management levels and within the overall workforce, women are also 
+paid less than men. According to a report by United Nations Women, in 2017, women only made 77 cents for every 
+dollar earned by men, thereby limiting their ability to build wealth and experience a fully inclusive workspace. In order 
+to narrow the gender pay gap, the Equ ality Act 2010 (Gender Pay Gap Information) Regulations 2017 were 
+implemented in Great Britain . These Regulations impose obligations on institutions with 250 or more employees to 
+publish information relating to the gender pay gap in their organisations. Thus, all global systemically important banks 
+(G-SIBs) with operations in the United Kingdom and domestic systemically important banks (D -SIBs) publish gender 
+pay gap reports annually as a matter of compliance, including information that covers the median an d mean hourly 
+pay gap, the quartile range of mean and median gaps, and proportions of female to male employees. 
+Measures to improve D&I in financial institutions 
+Organisation for Economic Co -operation and Development (2015) recommends the adoption of measu res such as 
+voluntary targets, disclosure requirements, boardroom quotas and private initiatives that enhance gender diversity on 
+boards and in senior management.  
+In the context of financial services, G -SIBs have made considerable efforts in improving div ersity in their 
+firms through more focus on gender initiatives. A majority of the firms are signatories to the United Kingdom women 
+in finance charter, which sets out targets to achieve at least 30% of women in senior roles by the year 2025. Some of 
+the firms such as Barclays, M izuho Financial Group and Royal Bank of Canada, to name a few, are recognised in the 
+Bloomberg Gender Equality Index (GEI) for their contribution s. The GEI tracks the performance of public companies 
+committed to disclosing their ef forts to support gender equality through policy development, representation and 
+transparency. The most common practices to improve gender diversity by G-SIBs are:  
+• recruiting gender-diverse talent;  
+• promoting education, training and professional developmen t for current female employees and future 
+recruits, including through mentorships and women empowerment workshops;  
+• connecting with diverse communities and promoting equality through community initiatives and advocacy; 
+• creating means for collecting and publicly reporting data on diversity; and 
+• ensuring a high level of health, safety and well-being of workers including supporting human rights and non-
+discriminatory practices as well as establishing employee resource groups.  
+  See European Parliament (2021).      See European Central Bank (2022a, b).      All banks supervised under the Single Supervisory 
+Mechanism (SSM) are classified as significant institutions or less significant institutions. This classification subsequently determines who is 
+their direct supervisor – the ECB for significant banks or the national competent authorities (NCAs) for less significant banks. In both cases, 
+the ECB oversees the system in accordance with the responsibilities and procedures outlined in the SSM Regulation. Article 6(4) of the 
+Regulation sets out specific rules for identifying significance status. Some refer to thresholds related to a bank’s size, national economic 
+importance or cross-border activities.      See International Finance Corporation (2019).      See  Office of the Comptroller of the 
+Currency et al (2015).      See International Labor Organization (2016). 
+ 
+  
+ 
+Diversity and inclusion – embracing the true colours in financial supervision 21 
+ 
+ 
+Section 5 – Conduct of business  
+31. As f inancial service s are  people-centric, financial institutions are  exposed to  risks of 
+engaging in potentially discriminatory practices that can go against D&I objectives. Unfair business 
+practices typically impact “inclusion” more than “ diversity” in relation to customers.  Central Bank of 
+Argentina (2013) states that users of financial services have the right, like in any consumer relationship s, 
+to equitable and dignified t reatment conditions. The Treat customers fairly charter,40 developed by the 
+Hong Kong Monetary Authority and the banking industry, specifies that banks in Hong Kong  SAR that 
+engage in mass retail market activities should provide the public with reasonable access to basic banking 
+services, paying special attention to the needs of vulnerable groups.  It is useful to identify customer 
+touchpoints within a financial institution to understand areas in which customer D&I matters . Table 5  
+provides an illustrative example of how customer D&I issues may arise throughout a ll stages of the 
+customer relationship. This matches the approach taken by the Financial Sector Conduct Authority in South 
+Africa that requires regulated entities to deliver “ treating customers fairly ” outcomes to their customers 
+throughout a product’s life cycle, from product design and promotion, through to advice and servicing to 
+complaints and claims handling. 
+32. Discriminatory and exclusionary  business practices can have prudential implications for 
+firms. The most obvious link between poor conduct of firms and their financial soundness is through 
+reputational risk. Mass customer withdrawals or boycott can severely impact a firm’s business operations 
+and financial position. In the worst case  scenario, lawsuits or regulatory fines for discriminatory practices 
+can impair a firm’s financial position. As such, sound D&I conduct by firms is not only relevant for 
+authorities with a conduct of business mandate, but also prudential authorities more generally. However , 
+detecting discriminatory practices may be challenging. One way is for financial authorities to monitor 
+consumer complaints to detect mistreatment by firms. This approach may also reveal reputational risks for 
+ 
+40  See Hong Kong Monetary Authority (2013).  
+41  Citizens Advice (2022) found that people of colour in England generally pay hundreds of pounds more than white people for 
+their car insurance, a phenomenon they termed the “ethnicity penalty”. 
+Examples of potentially adverse impacts on customers Table 5 
+Customer journey 
+stage Gender Ethnicity Disability 
+Sales and marketing  Targeted advertisements for 
+women based on traditional 
+family unit assumption (eg 
+stay-at-home housewives). 
+Favourable offers to consumers 
+living in certain postcodes that 
+are predominantly white. 
+Marketing materials 
+containing crucial 
+information not accessible to 
+blind consumers. 
+Underwriting Additional underwriting 
+criteria or information 
+requests for women or non-
+binary genders. 
+Systemic rejection of consumers 
+from a certain ethnic group. 
+Additional underwriting 
+criteria or information 
+requests for people with 
+disabilities. 
+Pricing Discriminatory pricing 
+against women that is not 
+based on risk profiles. 
+Discriminatory pricing against 
+ethnic minorities that is not 
+based on risk profiles.41 
+Discriminatory pricing 
+against people with 
+disabilities that is not based 
+on risk profiles. 
+Ongoing customer 
+servicing 
+Biased service levels from 
+customer support staff eg in 
+terms of courtesy or 
+responsiveness. 
+Biased service levels from 
+customer support staff eg in 
+terms of courtesy, respect or 
+responsiveness.  
+Difficulty in accessing full 
+range of services (eg ATM) 
+that require full sight, 
+mobility, speech or hearing.  
+Source: FSI staff. 
+  
+ 
+22 Diversity and inclusion – embracing the true colours in financial supervision 
+ 
+ 
+firms arising from poor D&I practices. This approach is utilised by the Prudential Authority in South Africa 
+and the Hong Kong Monetary Authority  – they focus on individual cases with  consumer protection and  
+financial inclusion implications. 
+33. Major D&I regulatory issuance s typically focus on governanc e-related aspects , and  
+customer-related D&I issues are not usually covered . Customer-related D&I issues may be covered in 
+other regulatory guidelines or issuances such as those relating to risk management practices of firms.  
+Prenio et al  (2021) described regulatory frameworks on the use of artificial intelligence by financial 
+institutions and highlighted “ fairness” as one of the common elements in these frameworks. They found 
+that fairness-related issues covered in AI  regulatory issuances are mainly from the perspective of  
+addressing or preventing biases in AI algorithms that could lead to discriminatory outcomes . Some 
+supervisory expectations in this area are more concrete than those specified for governance -related D&I 
+aspects. For example, firms may be requir ed to establish an ethical code of conduct to promote non -
+discriminatory practices; to seek diversity in input data  used in AI models; and to constantly monitor the 
+performance of the model to identify unintentional bias or to ascertain that it behaves as intended. “Ethics” 
+is another common principle in AI issuances and the authors found that supervisory  expectations in this 
+regard are broader than “fairness”. Ethics relate to ascertaining that customers will not be exploited or 
+harmed through bias, discrimination or other causes. 
+34. There is a fine line between  risk-based underwriting and pricing  versus discriminating 
+against certain segments of the population . In other words, there is a difference between segmenting 
+customers for underwriting or pricing purposes based on their true risk profiles versus discriminating 
+against customers based on their personal traits.  Financial Conduct Authority (2018) found that pricing 
+practices of certain insurers in the United Kingdom risked discriminating against consumers through the 
+use of rating factors based (directly or indirectly) on data derived from protected characteristics including 
+ethnicity. Put simply, for example, when pricing a motor insurance policy, an insurer needs to acknowledge 
+that being Asian or black or white does not make someone a better or worse driver. 
+35. Conduct of business is an area in which “ inclusion” particularly matters, arguably even 
+more than “diversity”. To treat customers fairly – the raison d’être of conduct of business regulations  – 
+a core aspect is to avoid discriminatory business practices that can disadvantage consumers or exclude 
+them from certain services.  In Hong Kong  SAR, the Code of Banking Practice, 42 issued by the banking 
+industry and endorsed by the Hong Kong Monetary Authority, commits banks not to discriminate against 
+any customers on the ground of family status (for example single parents), sexuality, age or race in the 
+provision of banking services and in the quality and terms of services provided. Banks are required to 
+provide appropriate assista nce to, and adopt appropriate measures for , customers with impairments to 
+facilitate access to banking services .43  They are also expected to  give due consideration to the 
+community’s need for banking services and the impact on customers in the vicinity, in particular the elderly 
+and those with impairments. Banks should also provide suitable training to frontline staff to raise their 
+awareness of the principles and guidelines in relation to equal opportunity and the provision of assistance 
+to customers with  any impairment. 44  Central Bank of Argentina (20 13) sets out requirements on how 
+banks must offer accessible banking services to people with disabilities. This includes not requiring people 
+with reduced mobility to queue for banking services or ATMs and p roviding text-to-speech options in 
+ATMs for visually impaired customers.  
+ 
+42  See Hong Kong Monetary Authority (2021). Banks in Hong Kong SAR must conduct annual self-assessments of their compliance 
+with the Code of Banking Practice. 
+43  For example, The Hong Kong Associatio n of Banks (2018) provides guidance on physical dimensions to enable barrier -free 
+access in bank branches as well as colour contrast and voice navigation of ATMs. B anks were required to report on their  
+implementation progress of the guidelines on a half-yearly basis until 2021. 
+44  The Hong Kong Association of Banks (2021) and (2020) provide guidance on how to treat customers with dementia and 
+intellectual disabilities respectively. 
+  
+ 
+Diversity and inclusion – embracing the true colours in financial supervision 23 
+ 
+ 
+36. Fair treatment of customers  means recognising not only visually identifiable differences  
+like gender or ethnicity , but also personal circumstances of customers. Financial Conduct Aut hority 
+(2021) outlines how firms should deal with vulnerable customers, which are defined as those who, due to 
+their personal circumstances, are especially susceptible to harm, particularly when a firm is not acting with 
+appropriate levels of care. It identifies four key drivers of vulnerability –  health (eg physical disability), life 
+events (income shock), resilience (eg over-indebtedness) and capability (eg low literacy levels). In support 
+of recognising gender identities of financial consume rs, Central Bank of Argentina (2015) sets out 
+procedures to be followed in the event of rectification of identity documents such as change of sex and/or 
+first name in the framework of the gender identity law. 
+37. Certain regulatory issuances may go beyond the t ypical areas of regulatory focus.  For 
+example, Central Bank of Argentina (2020b) aims  to eradicate gender-based violence and discrimination 
+in advertising in print and digital media. It requires financial institutions to avoid practices or actions that 
+reflect or promote stereotyped views of gender, use of sexist language and portray violence against 
+women and LGBTQI+ people. These  include, for example, avoiding “mansplaining” behaviour or using 
+images of women as objects that are unrelated to the product that is being promoted.  
+Section 6 – Disclosure 
+38. Major financial institutions typically publicly disclose their internal human resource-related 
+D&I policies, initiatives and , in some cases, targets. However, it is uncommon to find disclosure of 
+customer-related D&I policies. A comprehensive disclosure of the entire D&I focus of a firm both internal 
+(human resource-related) and external (customer-related issues) can reinforce public trust and confidence, 
+and serve as  a self-accountability mechanism. Regulators in the United Kingdom acknowledge the 
+importance of data  and disclosure to understanding the D&I situation of firms, to monitoring progress 
+and to holding relevant individuals and firms to account . In the United States, the Office of Minority and 
+Women Inclusion (2022) provides useful benchmarking of aggregated publicly available D&I information 
+about 270 regulated financial entities. This helped to outline best practice recommendations on D&I public 
+disclosure. Nevertheless, the United States House of Representatives (2000) noted that there are 
+challenges relating to voluntary public D&I disclosure as financial institutions may not be incentivised to  
+make such disclosures . It called for new legislation to make such  disclosures mandatory in the United 
+States. 
+39. The three common items in D&I disclosure requirements are D&I policies or strategies, the 
+objectives of those policies and measurement of progress. In the European Union,45 and in the United 
+Kingdom, banks must disclose , at least annually , their policies o n diversity with regard s to selection of 
+members of the management body, the objectives of such policies and any relevant targets set out in 
+those policies. Listed firms in the United Kingdom,46 are also expected to include a section in their annual 
+reports on the board’s policy on diversity including gender, measurable objectives of the policy and 
+progress in achieving them. In Argentina, financial institutions  are expected to disclose on their public 
+websites and in notes to financial statements or other periodic disclosures , information on their gender 
+policies and practices. In the United States,47 regulated entities are expected to disclose annually their D&I 
+strategic plan, metrics to measure success in achieving diversity of their workforce and procurement 
+ 
+45  See European Union (2013b) and European Banking Authority (2016). 
+46  See Financial Reporting Council (2016). Financial Conduct Authority (2022) sets out requirements for listed firms in the United 
+Kingdom to disclose information in their annual financial statements relating to the following targets: at least 40% of  the 
+individuals on its board of directors should be  women; at least one of the specified  senior positions (chair, chief executive 
+officer etc) on its board of directors should be a woman. Firms are required to explain when those targets are not met. 
+47  See Office of the Comptroller of the Currency et al (2015). 
+  
+ 
+24 Diversity and inclusion – embracing the true colours in financial supervision 
+ 
+ 
+activities, as well as current and future employment and procurement opportunities . Firms should also 
+undertake self-assessments at least annually on their diversity policies and practices.  
+40. Publicly-listed financial institutions are subject to listing rules that include disclosure of 
+diversity-related policies. The Hong Kong Stock Exchange,48 requires securities issuers (including banks) 
+to disclose their policy on board diversity, including any measurable objectives and progress towards 
+achieving those objectives. Specifically, listed firms are required to disclose numerical targets and timelines 
+for achieving gender diversity within the board and in their workforce. In addition, listed firms are subject 
+to ESG disclosure rules that include disclos ure of  information relating to compensation and dismissal, 
+recruitment and promotion, working hours, rest periods, equal opportunity, diversity, anti -discrimination 
+and other benefits and welfare .49  The Johannesburg Stock Exchange, 50 requires listed companies to 
+disclose in their annual reports how the board of directors or the nomination committee have considered 
+and applied the ir policy on gender and racial diversity in the nomination and appointment of directors . 
+Progress in meeting any voluntary gender or racial targets must also be disclosed.  
+41. Disclosure of the appointment of members of the board of directors  is important to 
+support the overarching D&I objective of diversity of thought for better decision -making. Basel 
+Committee on Banking Supervision (2015) specifies that, at a minimum, banks should annually disclose 
+information on the selection of members of the board. The European Union 51 has adopted this principle 
+and, in addition, requires banking groups to disclose 52 the gender and duration of appointment of each 
+member of the management body of each group entity.  Central Bank of Argentina (202 0a) recommends 
+reporting of the percentage of gender representation in the board of d irectors, the audit body, senior 
+management and the firm overall. In addition, firms are expected to disclose the selection process of board 
+members, qualifications and gender parity criteria. The application of these recommendations consider s 
+the principle of proportionality based on the size, complexity, ownership structure, economic importance 
+and risk profile of a financial institution. 
+42. It is not common for regulators to define specific D&I metrics that firms must disclose to 
+track progress. Yet, most regulators acknowledge that disclosure of such metrics is important to sustain 
+momentum for firms to make progress in achieving their D&I o bjectives. Public disclosure of data allows 
+firms to target their D&I interventions and assess whether these are working as intended.  Voluntary D&I 
+disclosure can leave firms complacent, thus perpetuating the lack of progress.  However, it may not be 
+necessary to specify the metrics to disclose because the policy intent in this regard is not to obtain 
+standardised, comparable information. Rather, it is to motivate firms to make progress to improve their 
+D&I practices. World Economic Forum (2020 a) provides ex amples of some D&I metrics that firms can 
+disclose including the: (i) percentage of employees per employee category, by age group, gender and 
+other indicators of diversity (eg ethnicity) and (ii) ratio of the basic salary and remuneration for women to 
+men, and for minor to major ethnic groups . Financial Conduct Authority (2022) specifies two tables with 
+specific metrics for public disclosure by listed financial institutions covering gender and ethnicity 
+separately.  
+43. In some jurisdictions, D&I disclosures ar e required by non -financial authorities.  For 
+example, in South Africa, all employers (including financial institutions) with over 50 employees are 
+required to submit employment equity plans to the Department of Labour. These statistics are collated 
+and are used to monitor progress made on employment equity in various sectors in South Africa. South 
+African insurers are required to submit transformation plans to the Prudential Authority , in line with the 
+ 
+48  See The Stock Exchange of Hong Kong Limited (2021). 
+49  See The Stock Exchange of Hong Kong Limited (2019). 
+50  See Johannesburg Stock Exchange (2019).  
+51  See European Union (2013b). 
+52  See European Banking Authority (2021a). 
+  
+ 
+Diversity and inclusion – embracing the true colours in financial supervision 25 
+ 
+ 
+Broad-based Black Economic Empowerment Act, outlining how they are performing against the Financial 
+sector charter targets and their own employment equity plans. In addition to recommendations to report 
+to federal financial regulatory authorities, firms in the United States are also subject to requirements issued 
+by the Equal Employment Opportunity Commission and the Office of Federal Contract Compliance 
+Programs.  
+Section 7 – Proportionate application of D&I regulatory approaches 
+44. Like most prudential requirements, regulatory approaches on D&I allow firms to apply the 
+principle of proportionality in tailoring application of the rules to the specific nature and risk profile 
+of individual firms. For example, European Banking Authority and European Securities and Markets 
+Authority (2021) requires only “significant institutions” to have a gender target for the management body 
+and to set out a deadline to achieve the target. Only such  firms must conduct  an annual review of the 
+composition of their management bod ies, diversity targets and objectives . Fi rms with fewer than five 
+members of their management body can express the target qualitatively. The general proportionality 
+criteria in European Union (2013a ,b) that distinguish between significant and other institutions are also 
+applicable to D&I requirements. In the United States, the joint standards53 mainly apply to regulated firms 
+with more than 100 employees. Micro-enterprises in South Africa, defined as entities with annual revenue 
+of less than ZAR 10 million, are exempted from the Broad-based Black Economic Empowerment Act . In 
+the United Kingdom, regulators are considering how any future policies on D&I could be implemented in 
+a proportionate way. In addition to the size and complexity of firms, other criteria that may be considered 
+include business volume and number of employees. Central Bank of Argentina (2020a) tailors D&I 
+disclosure requirements based on a firm’s size, complexity, ownership structure, economic importance and 
+risk profile. Requirements for listed and unlisted firms are also different.  
+45. Achieving D&I is more challenging for smaller firms , for example, firms with two or three 
+board members. Financial authorities in the United States recognise that smaller firms or firms located in 
+remote areas may face challenges  in implementing the standards.54  Smaller firms may be constrained in 
+terms of using the personal data of their staff members to advance D&I objectives as their smaller data 
+set may more easily reveal personally identifiable traits. Lar ger firms may have the advantage of more 
+resources to employ dedicated personnel to specifically deal with D&I issues, such as the appointment of 
+a dedicated D&I officer. Regulatory frameworks seeking to introduce explicit D&I guidance or 
+requirements may consider adopting  a proportionate approach, given these practical implementation 
+challenges and associated costs.  
+Section 8 – Concluding remarks 
+46. Even with the small sample of jurisdictions covered in th is paper, we observed different  
+areas of focus or aspects of emphasis in the different D&I regulatory approaches. These differences 
+in focus can be attributed to a jurisdiction’s history, culture and social disposition. Certain jurisdictions are 
+primarily concerned with treating ethnic minorities more fairly, while others are mainly concerned with the 
+accessibility of banking services by disabled customers. As a result, regulatory issuances on D&I tend to 
+cover specific aspects relating to corporate governance, disclosure or conduct of business  that are driven 
+by these jurisdiction-specific considerations. Typically, regulatory coverage of D&I aspects relate only to 
+ 
+53  See Office of the Comptroller of the Currency et al (2015). 
+54  Visco (2021) outlined how smaller firms might need more time to close the gender gap. 
+  
+ 
+26 Diversity and inclusion – embracing the true colours in financial supervision 
+ 
+ 
+corporate governance, specifically to the gender diversity of board members. It might be worthwhile  for 
+jurisdictions to consolidate these disparate regulatory issuances in order to have a coherent regulatory 
+framework covering all D&I aspects that matter for financial institutions.  
+47. While there has been noticeable progress in improving firms’ D&I, especially in the area of 
+gender, the pace needs to accelerate and the scope broadened to other dimensions. One way to 
+accelerate progress is to consider requiring  mandatory disclosure and regular supervisory reporting of 
+D&I metrics. D&I data is important to provide objective evidence of the true picture at a firm. There are 
+low hanging fruit that can make a significant difference, for example disclosure of gender-related metrics 
+to accelerate gender diversity. Efforts should be made to consider other D&I dimensions beyond gender, 
+which are likely to be pursued by certain regulatory authorities. It is  expected that regulatory frameworks 
+will expand to require banks to be more inclusive of underrepresented population segments, for example 
+transgender people, in the provision of financial services. Authorities could also consider setting the 
+duration of board members’ appointments to lower the average age of boards, thus contributing to 
+stimulating debate in decision-making processes and avoiding groupthink and concentrations of power. 
+48. D&I regulatory development is a marathon, not a sprint.  There is a continuous  cycle of  
+learning, improvement and enhancement to integrate D&I issues into regu latory frameworks. As part of 
+this process, close engagement with supervised entities will be crucial to ascertain the “implementability” 
+of any new policies. Insights gained from ongoing supervisory activities should flow through to enhancing 
+policy and supervisory expectations. It is important to recognise and tackle longstanding c ultural and 
+historical norms that are  inhibiting progress in D&I. Certain D&I dimensions, such as matters relating to 
+LGBTQI+ communities, may confront cultural taboos. In certain regions, firms may prefer longer -serving 
+employees and typically this means men as women tend to retire earlier. These issues go beyon d the 
+regulatory remit but must be addressed more fundamentally at the broader societal level before any 
+meaningful change can be introduced in the financial sector. In addition, institutions can consider their 
+own roles in building up a diverse pipeline and developing an inclusive environment – both internally and 
+towards their customer base. 
+49. Financial regulators can lead by example in demonstrating the importance of D&I.  As 
+financial regulators are typically held in high regard, they can drive positive change in firms even indirectly 
+through various actions such as having senior officials speak about D&I issues or participating in D&I 
+events to show support. Establishing and publishing their own D&I policies could also send a strong signal 
+about their commitment to D&I in support of broader , sound governance objectives. This may translate 
+into internal regulatory processes such as using inclusive language in issuances.  
+50. International standards and guidance on D&I might be helpful  to prompt progress in 
+improving the quality of corporate governance of regulated financial institutions, thus enhancing 
+the safety and soundness of firms and of the financial sector. A consistent or harmonised international 
+approach on D&I regulation can improve the operational effi ciencies of cross -border or internationally 
+active firms in particular. Nevertheless, any such global standards should cast D&I as one of several 
+important components of banks’ corporate governance and culture. The broader prudential objectives of 
+preserving the safety and soundness of banks should be borne in mind.  
+  
+  
+ 
+Diversity and inclusion – embracing the true colours in financial supervision 27 
+ 
+ 
+References 
+Arnaboldi, F, B Casu, E Kalotychou and A Sarkisyan (2020): Board Diversity Reforms: Do They Matter for EU 
+Bank Performance?, May. 
+Bank of England and Financial Conduct Authority (2021): “ Diversity and inclusion in the financial sector – 
+working together to drive change”, D iscussion Paper , DP21/2, July. 
+Basel Committee on Banking Supervision (2015): Corporate governance principles for banks, July. 
+Central Bank of Argentina (2013): “Protection of users of financial services: c onsolidated text”, 
+Communication A 5388, January. 
+——— (2015): “Rectification of identity documents. Law 26,743, Law 18,248, cases of recovery of identity 
+and modification of the national identity document number – valid identification documents ”, 
+Communication A 5709, February. 
+——— (2020a): “Corporate governance guidelines for financial institutions’ adjustments“, Communication 
+A 7100, September. 
+——— (2020b): “Policies against violence and discrimination based on gender in graphic and digital media 
+advertising”,  Communication A 7162, November. 
+Central Bank of Ireland (2018): Behaviour and culture of the Irish retail banks, July. 
+——— (2020): Thematic assessment of diversity & inclusion in insurance firms, July. 
+Citizens Advice (2022): Citizens Advice sounds the alarm on £280 car insurance ethnicity penalty, March. 
+Consumer Financial Protection Bureau (2022): CFPB report on diversity and i nclusion within financial 
+services, January. 
+Ehlers, T, U Elsenhuber, A Jegarasasingam and E Jondeau (2022): “Deconstructing ESG scores: How to invest 
+with your own criteria”, B IS Working Papers , No 1008, March. 
+European Banking Authority (2016): Guidelines on disclosure requirements under Part Eight of Regulation 
+(EU) No 575/2013, December. 
+——— (2021a): Guidelines on internal governance under Directive 2013/36/EU, September. 
+——— (2021b): Guidelines on sound remuneration policies under Directive 2013/36/EU, July. 
+European Banking Authority and European Securities and Markets Authority (20 21): Guidelines on the 
+assessment of the suitability of members of the management body and key function holders under Directive 
+2013/36/EU and Directive 2014/65/EU, J uly . 
+European Central Bank (2021a): ECB Banking supervision seeking greater diversity within banks, June. 
+——— (2021b): Guide to fit and proper assessments, December. 
+——— (2021c): Updated fit and proper questionnaire – ECB template, December. 
+——— (2021d): ECB banking supervision: SSM supervisory priorities for 2022-2024, December. 
+——— (2022a): SREP 2021 press conference, February. 
+——— (2022b): Speech by Andrea Enria, Chair of the Supervisory Board of the ECB, at the press conference 
+on the results of the 2021 SREP cycle, February. 
+European Parliament (2021): Women on boards policies in m ember states and the e ffects on c orporate 
+governance, December. 
+  
+ 
+28 Diversity and inclusion – embracing the true colours in financial supervision 
+ 
+ 
+European Union (2013a): Directive 2013/36/EU of the European Parliament and of the Council of 26 June 
+2013 on access to the activity of credit institutions and the prudential supervisi on of credit institutions and 
+investment firms, June. 
+——— (2013b): Regulation (EU) No 575/2013 of the European P arliament and of the C ouncil of 26 June 
+2013 on prudential requirements for credit institutions and investment firms, June. 
+Equality and Human Rights Commission (2019): Financial services inquiry: sex discrimination and gender 
+pay gap report of the Equality and Human Rights Commission, September. 
+Financial Conduct Authority (2015): Dual-regulated firms Remuneration Code (SYSC 19D), June. 
+—— (2018): Pricing practices in the retail general insurance sector: household insurance, October. 
+—— (2019): The senior managers and certification regime: guide for FCA solo-regulated firms, July. 
+—— (2021): Guidance for firms on the fair treatment of vulnerable customers, February. 
+—— (2022): Diversity and inclusion on company boards and executive management, April. 
+Financial Reporting Council (2016): The UK Corporate Governance Code, April. 
+Garcia-Meca, E, I Garcia -Sanchez and J Martinez -Ferrero (2015): Board diversity and its effects  on bank 
+performance: an international analysis, April. 
+Haldane, A (2016): “The diversity project”, opening remarks given at the Investment Association launch of 
+the Diversity Project, 8 November. 
+Harvard Business Review (2019): “ Survey: What Diversity and Inclusion Policies Do Employees Actually 
+Want?”, February. 
+Hong Kong Monetary Authority (2013): Treat customers fairly charter, October. 
+—— (2021): Code of Banking Practice, December. 
+International Finance Corporation (2019): Women on boards in Nigeria, 2019. 
+International Labor Organization (2022): Covid-19 and the sustainable d evelopment goals: reversing 
+progress towards decent work for all, March.  
+—— (2016): Women at work trends 2016, March. 
+Institute of Directors Southern Africa (2016): King IV report on corporate governance for South Africa 2016, 
+November. 
+Johannesburg Stock Exchange (2019): JSE Limited listing requirements, April. 
+Kirakul, S, J Yong and R Zamil (2021):  “The universe of supervisory mandates - total eclipse of the core? ”, 
+FSI Insights on policy implementation, no 30, March. 
+Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the 
+Federal Deposit Insurance Corporation, the National Credit Union Administration, the Bureau of Consumer 
+Financial Protection and the Securities and Exchange Commission (2015): Final interagency policy 
+statement establishing joint standards for assessing the diversity policies and practices of entities regulated 
+by the agencies, June. 
+Organisation for Economic Co -operation and Development  (2015): G20/OECD principles of c orporate 
+governance, N ovember . 
+Prenio, J, J Yong (2021): “Humans keeping AI in check – emerging regulatory expectations in the financial 
+sector”, FSI Insights on policy implementation, no 35, August. 
+Republic of South Africa (2004): Broad-based Black Economic Empowerment Act 2003, January. 
+  
+ 
+Diversity and inclusion – embracing the true colours in financial supervision 29 
+ 
+ 
+—— (2017): Financial Sector Regulation Act 2017, August. 
+The Hong Kong Association of Banks (2018): Practical guideline on barrier-free banking services, March. 
+—— (2020): Guideline on banking services for persons with intellectual disabilities, December. 
+—— (2021): Guideline on banking services for persons with dementia, December. 
+The Stock Exchange of Hong  Kong Limited (2019): Rules governing the l isting of s ecurities on the stock 
+exchange of Hong Kong Limited, December. 
+—— (2021): Rules governing the listing of securities on the stock exchange of Hong Kong Limited, December. 
+United Kingdom (2010): Equality Act 2010. 
+United Kingdom HM Treasury (2016): Women in Finance Charter, March. 
+United States House of Representatives (2000): Diversity and inclusion: holding America’s large banks 
+accountable, February. 
+Visco, I (2021): “Ignazio Visco: speech”, remarks at the Annual Meeting of the Italian Banking Association, 
+July. 
+World Economic Forum (2019): The global competitiveness report 2019, October. 
+—— (2020a): Measuring s takeholder capitalism: t owards common metrics and consistent reporting of 
+sustainable value creation white paper, September. 
+—— (2020b): Global competitiveness report special edition 2020: how countries are performing on the road 
+to recovery, December. 

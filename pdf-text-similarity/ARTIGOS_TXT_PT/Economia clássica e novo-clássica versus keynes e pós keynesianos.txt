@@ -1,0 +1,740 @@
+79Economia clássica e nova-clássica "versus" Keynes e pós-keynesianos: um debate ontológico
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+Economia clássica e novo-clássica versus
+Keynes e pós-keynesianos: um debate
+ontológico*
+Bruno Moretti**                                 Doutorando do Programa de Pós-Graduação
+                                                                                        do Departamento de Sociologia da
+                                                                                                           Universidade de Brasília
+Marcos T. C. Lélis***                                 Doutorando do Programa de Pós-Graduação
+                                                                                em Economia da Universidade Federal
+                                                                                                                do Rio Grande do Sul
+Resumo
+Neste artigo, tem-se por objetivo defender o argumento de que o debate Keynes
+e pós-keynesianos “versus” (neo)clássicos e novos-clássicos remete a
+considerações ontológicas, isto é, à convenção sobre qual a natureza do sistema
+econômico a analisar, ainda que tal comprometimento não seja explícito, mas
+resulte do modo como é formulada a teoria econômica. De um ponto de vista
+mais geral, afirma-se que todo método da ciência pressupõe uma ontologia e
+que, portanto, a ciência deve afirmá-la  explicitamente — uma investigação a
+respeito da natureza de seu objeto, para a qual se valerá do realismo crítico,
+corrente que afirma uma ontologia específica para o domínio social, esboçando
+suas relações com Keynes e os pós-keynesianos.
+Palavras-chave
+Keynes; novo-clássica; ontologia.
+   * Artigo recebido em 18 out. 2004 e aceito para publicação em dez. 2006.
+  ** E-mail: bmoretti@domain.com.br
+*** E-mail: mcaputi@uol.com.br
+    Os autores agradecem ao colega Carlos Aguedo Nagel Paiva os comentários apresenta-
+  dos com respeito a este trabalho. Valem as observações habituais quanto a erros e pro-
+  blemas que porventura persistam, os quais são de inteira responsabilidade dos autores.
+80 Bruno Moretti; Marcos T. C. Lélis
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+Abstract
+The purpose of the paper is to defend the argument that the controversy Keynes
+and pós-keynesian versus (neo)classical and new classical goes by in ontology’s
+foreword, that is, the convention about the nature of the economic system in
+analysis. Notwithstanding this committal doesn’t be explicit, it comes from the
+way the economic theory is formulated. From a more general point of view, all
+science method predicate one ontology and, therefore, the science must include
+clearly one ontology — investigation about the object’s nature, for this we utilize
+the critical realism, school that expose the specific ontology for the social
+dominion, sketching its relation with Keynes and the pós-keynesian.
+Key words
+Keynes; new classical; ontology.
+Classificação JEL: E12, B41.
+Introdução
+Não constitui qualquer novidade a hegemonia de que desfrutam as teorias
+de inspiração neoclássica no interior da Economia. Se os economistas
+heterodoxos são aqueles que buscam construções teóricas, fundadas em outros
+princípios — que não os do mainstream — que possibilitem explicações diversas
+para as causas dos fenômenos econômicos —, se esperam que suas críticas
+possuam alguma validade cognitiva, então, necessariamente, eles têm que
+pretender que estas sejam mais realistas, isto é, que representem a realida-
+de — o sistema econômico — de modo mais acurado. Entretanto, se esse é o
+caso, o debate entre economistas ortodoxos e heterodoxos deve, em certa
+medida, migrar para o campo da ontologia, isto é, para o debate sobre as
+propriedades dos sistemas econômicos, seus modos de ser e de se reproduzir,
+bem como sobre o papel dos agires e das escolhas humanas. Em outros termos,
+deve estar subjacente às análises heterodoxas o fato de que seu objeto de
+estudo — categorias, conexões, elementos, etc. econômicos — possui existência
+objetiva, independente das teorias que buscam sua apreensão. Dessa maneira,
+81Economia clássica e nova-clássica "versus" Keynes e pós-keynesianos: um debate ontológico
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+indagar sobre tais propriedades parece uma condição de possibilidade para as
+construções teóricas heterodoxas. No caso da Economia, essas indagações
+são ainda mais relevantes: se as tradições teóricas subentendem determinado
+método e formato para as leis científicas, então é porque se vindica, embora
+implicitamente, que o objeto possua determinadas propriedades, em razão das
+quais são cognoscíveis ao modo requerido. Isto é, toda tradição teórica pressupõe
+um método; todo método requer uma ontologia. No caso da Economia, a ontologia
+subentendida ampara construções teóricas em nome das quais se aplicam
+políticas, se reproduzem instituições, etc., com efeitos sobre a vida econômica
+e social. Logo, se a hegemonia de determinada tradição teórica implica a
+predominância de determinada ontologia, à qual estão predicados, por exemplo,
+resultados, predições, explicações e, conseqüentemente, derivações políticas
+das teorias, então, negligenciar a ontologia constitui grave equívoco para aqueles
+que pretendem formular construções teóricas alternativas.
+Nessa perspectiva, procurar-se-á apresentar o realismo crítico, corrente da
+filosofia da ciência que busca oferecer uma ontologia para as ciências que
+investigam objetos do domínio social (inclusive do domínio econômico). Nesse
+sentido, investigar-se-ão as conexões entre uma construção teórica particular
+no interior da heterodoxia econômica — a de Keynes e dos pós-keynesianos —
+e o realismo crítico. Antes, entretanto, será elaborada uma síntese da Economia
+novo-clássica, bem como de seus pressupostos ontológicos, com base na qual
+se demonstrará que o debate entre pós-keynesianos e a Economia novo-clássica,
+assim como entre Keynes e a Economia clássica 1, se desloca para o campo
+ontológico. Finalmente, deve-se salientar que, visto que o interesse aqui reside
+na afirmação da necessidade do debate ontológico para a ciência econômica,
+não há, no artigo, uma caracterização completa sobre as escolas de pensamento
+da Economia mencionadas. Apenas interessa sua caracterização em seus traços
+mais gerais, para que se demonstre como o debate remete necessariamente às
+considerações ontológicas.
+1 Desde já, deve-se salientar que Keynes (1973) entende como Economia clássica a produção
+teórica de um conjunto de autores, que, segundo o próprio, investigam a economia enquanto
+um sistema no qual não existe o fenômeno do desemprego involuntário. Contudo é evidente
+que há diferenças substantivas entre os autores que Keynes designa como clássicos,
+como, por exemplo, Pigou e Ricardo.
+82 Bruno Moretti; Marcos T. C. Lélis
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+O sistema econômico da Economia novo-
+-clássica
+A teoria novo-clássica surge no cenário do debate macroeconômico, na
+década de 70, na busca pela racionalização teórica do fenômeno, que data dessa
+mesma época, da coexistência de inflação e estagnação em algumas economias.2
+Segundo os formuladores da teoria, a racionalização teórica da referida
+coexistência, se admitido o paradigma keynesiano, seria impossível, já que
+este pressuporia uma Curva de Phillips negativamente inclinada a curto e a
+longo prazos, isto é, com um trade-off permanente entre inflação e desemprego.
+Por outro lado, ainda segundo a perspectiva novo-clássica, a teoria de formação
+de expectativas do monetarismo de Friedman (1968) deveria ser descartada e
+substituída por outra supostamente mais consistente, a hipótese das expectativas
+racionais (HER), segundo a qual, em sua versão fraca, na formação de
+expectativas sobre o futuro de uma variável, agentes econômicos racionais
+farão o melhor uso possível de toda informação disponível sobre os fatores que,
+em sua concepção, a determinam, de maneira que o valor esperado de uma
+variável não necessariamente seja função estável de seus valores pretéritos,
+como quer a teoria das expectativas adaptativas. Já a versão forte da HER,
+além de admitir a proposição anterior (a versão fraca), afirma que as expectativas
+subjetivas das variáveis econômicas coincidirão com suas expectativas
+condicionais objetivas (Snowdon, 1994, p. 190). Convém salientar que, subjacente
+à HER, em qualquer das duas versões, se encontra a definição sobre o que são
+os sujeitos da economia: agentes maximizadores de funções-objetivo, que
+respondem, de forma ótima, às informações extraídas, do mundo. 3 Assim, a
+HER pode ser apresentada de modo formal como segue:
+onde             é a expectativa da taxa de inflação de t; e                         represen-
+ta a esperança da taxa de inflação condicionada a um conjunto de informações
+disponíveis ao agente no tempo t - 1.
+2 Para uma síntese teórica do debate macroeconômico no interior do qual emerge a economia
+novo-clássica, ver Ferrari (2003).
+3 Adiante, será fundamental levar em consideração esse fato.
+
+
+
+
+
+=
+−1t
+te
+t
+I
+PEP (1)
+() 1−tt IPER
+ztP )(
+83Economia clássica e nova-clássica "versus" Keynes e pós-keynesianos: um debate ontológico
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+Há ainda mais duas hipóteses que caracterizam a teoria novo-clássica:
+(a) a economia está em contínuo market clearing, o que representa a vindicação
+de que os preços se ajustam instantaneamente, garantindo o contínuo equilíbrio
+do mercado, resultado, por sua vez, do comportamento dos agentes, mais
+precisamente, da resposta ótima às suas percepções dos preços; e (b) as decisões
+racionais tomadas pelos empresários e pelos trabalhadores refletem o
+comportamento otimizador de sua parte, podendo ainda levar em conta o fato
+de que a oferta de trabalho (produção) pelos trabalhadores (empresários) é
+realizada com base em preços relativos. Por exemplo, se o salário real se encontra
+maior do que aquele compatível com o equilíbrio, trabalhadores ofertarão mais
+trabalho. Isto é, mudanças no nível de emprego são uma função da resposta
+dos trabalhadores a variações no salário real. A segunda versão da hipótese (b)
+requer que, se agentes erram suas expectativas de preços, o salário real varia,
+do que resulta mudança no nível de emprego e, conseqüentemente, de produto.
+Logo, diferenças entre o produto potencial e o efetivo são uma função da
+discrepância entre o nível de preços efetivos e o esperado. Compreende-se
+essa construção, alternativamente, como apresentada a seguir:4
+Sendo         o preço relativo da firma z no tempo t,a expressão
+derivada da equação (1), especificada para z;      é o produto dessa firma;
+      , definido como o produto natural ou potencial da firma z (em equilíbrio ge-
+ral); e, por fim,      é um parâmetro que relaciona variações nos preços e sua
+resposta na produção. Com efeito, a equação (2) deriva da idéia já caracterizada
+de que os agentes econômicos reagem a variações dos preços relativos. Além
+disso, transpondo a concepção da firma individual para a economia como um
+todo, nota-se que, se o preço geral da economia for igual ao preço esperado
+pelos agentes econômicos, o produto total será igual ao produto potencial. Des-
+se modo, a Economia novo-clássica, embora incorpore a noção de que proces-
+sos econômicos são estocásticos, não se desvincula da estrutura determinística
+oriunda do que Keynes (1973) denominava Economia clássica.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−=−
+)(
+)()( .
+zt
+t
+ztntzt
+I
+PEPYY γ   (2)
+R
+ztP )( 
+
+
+
+
+
+)(zt
+t
+I
+PE
+4 Não é o escopo deste trabalho uma exposição completa da concepção novo-clássica sobre
+o comportamento da curva de oferta da economia. Para uma melhor compreensão dessa
+mecânica, ver Lucas (1973).
+5 Logo, as críticas que Keynes dirige à Economia clássica podem ser estendidas às constru-
+ções teóricas dos economistas novo-clássicos.
+)(ztY
+ntY
+γ
+84 Bruno Moretti; Marcos T. C. Lélis
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+Portanto, caracteriza-se, com as observações até aqui feitas, a teoria
+novo-clássica em seus traços gerais. Contudo há que se salientar que essa
+teoria subentende definições sobre o que são sistema econômico e seus agentes
+e sobre como estes tomam decisões, etc. Nessa perspectiva, a economia, em
+essência, consistiria em indivíduos atômicos que respondem a estímulos
+otimizando uma função-utilidade com base em suas expectativas racionais,
+motivados pelas suas percepções do movimento das variáveis. Logo, agentes
+econômicos são definidos como seres que processam informações, e não como
+agentes que produzem os eventos, bem como suas funções de distribuição, do
+que se deriva que à ciência cabe produzir descrições, sob bases lógico-deduti-
+vas, dos comportamentos dos agentes como meros processadores de estímu-
+los. A rigor, o próprio sistema econômico não consistiria na ação intencional de
+indivíduos econômicos, mas na reação a condições, cuja produção não caberia
+à Economia indagar. Com isso, o sistema econômico perde a característica
+distintiva dos sistemas sociais: o fato de serem produzidos pelo ser humano e
+por suas escolhas, razão pela qual a subjetividade (e, com ela, as crenças, os
+juízos de valor, etc. que informam as escolhas) fica velada.
+Intensifica-se o banimento do papel do sujeito na construção do mundo
+social, na Economia novo-clássica, com a admissão da validade da HER en-
+quanto teoria geral para a formulação de expectativas sobre as variáveis
+econômicas. Na interpretação de Davidson (1982), agentes só acertam (na média)
+as distribuições de probabilidade objetivas dos eventos se essas mesmas dis-
+tribuições são ergódicas, o que pressuporia sua estacionariedade. Em outros
+termos, a condição de possibilidade para que expectativas subjetivas sobre
+eventos coincidam com suas distribuições efetivas é que o conjunto de informa-
+ções disponíveis até o momento seja um “bom guia” para as distribuições futu-
+ras. Isto é, o presente deve ser uma representação razoável do futuro. Com isso,
+agentes econômicos não são os responsáveis pela produção do mundo social.
+Ao contrário, os agentes processam estímulos emanados pelo sistema
+econômico, aos quais respondem maximizando uma função-utilidade. As distri-
+buições de probabilidade do sistema econômico são exógenas aos agentes,
+tendo, em relação a eles, “vida própria”. O resultado, se o futuro jamais difere
+qualitativamente do presente, é sempre a reprodução das distribuições vigentes
+dos eventos. O mundo social é imutável. A ação humana é sempre aquela que
+reproduz o existente, sendo o domínio social caracterizado pela ubiqüidade de
+regularidades empíricas, razão pela qual fica suprimida, a priori, a escolha
+humana.
+Em conseqüência, um traço fundamental da Economia novo-clássica, ain-
+da que não definido explicitamente por seus formuladores, é a representação do
+sistema econômico subjacente a suas hipóteses, a seus resultados e a suas
+85Economia clássica e nova-clássica "versus" Keynes e pós-keynesianos: um debate ontológico
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+leis. Se realmente a vida econômica para os novos-clássicos é caracterizada
+pela ausência do poder real de escolha, de subjetividade, pela repetição inces-
+sante do presente, etc., então, a crítica heterodoxa deve salientar não apenas
+métodos, leis e resultados alternativos, mas, fundamentalmente, uma represen-
+tação mais realista do sistema econômico, que contemple a abertura do mundo
+social, isto é, o fato de que, se o mundo social é produzido por sujeitos com
+poder real de escolha, então, o futuro, em geral, traz o “novo” como resultado
+das ações,   restituindo-se aos agentes a “competência” pela produção do sistema
+econômico. Se os críticos da Economia ortodoxa (aqui, em particular, da Eco-
+nomia novo-clássica) realmente devem se ater a uma ciência que subentenda
+uma outra visão do que seja a vida econômica, então, são fundamentais para o
+desenvolvimento da Economia heterodoxa as perspectivas teóricas que bus-
+cam indagar sobre as características dos sistemas sociais, seu modo de fun-
+cionamento, seus elementos, bem como sobre sua articulação. E justamente
+nesse aspecto reside a vindicação da importância do realismo crítico, corrente
+da filosofia da ciência, para os debates entre os economistas heterodoxos. O
+que segue é uma síntese do realismo crítico, sucedida da sua relevância, em
+particular, para Keynes e para os pós-keynesianos (Lawson, 2003).
+O realismo crítico e a crítica ontológica
+O realismo crítico6 constitui-se fundamentalmente pela proposição de uma
+ontologia (uma definição sobre o modo de ser, para os propósitos deste trabalho,
+do domínio social, em particular do econômico) sobre a qual a ciência
+(econômica) deve ser construída. Em outros termos, pode-se dizer que toda
+ciência envolve um método e uma concepção de como são as leis científicas.
+Por outro lado, afirmar que leis têm determinada forma requer uma admissão,
+ainda que implícita, de que o objeto da ciência é de determinada natureza, de
+modo que pode ser conhecido à maneira requerida. A investigação sobre a natu-
+reza do objeto da ciência é designada, conforme afirmado, como ontologia.
+O realismo crítico, por um lado, envolve “o desvelar” de qual mundo social
+é pressuposto para que leis da ciência tenham a forma de regularidades empíricas,
+antiga demanda dos lógico-positivistas. Por outro, apresenta-se como uma
+ontologia (tanto para o domínio natural quanto para o social) radicalmente opos-
+6 Há muitos autores que vêm tratando do tema com variações, algumas vezes, substantivas.
+Salvo quando são dos outros autores, está-se aludindo basicamente aos escritos de Tony
+Lawson (2003).  Além disso, para uma síntese teórica do realismo crítico, ver Baert (1996).
+86 Bruno Moretti; Marcos T. C. Lélis
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+ta àquela pressuposta pelos mesmos. Na primeira dimensão — a crítica —, ele
+se debruça sobre a vindicação de que leis da ciência têm a forma “uma vez
+evento x, então, evento y”, proposição interpretada da forma mais ampla: x pode
+ser um ou mais eventos, enquanto a relação entre x e y pode ser determinística
+ou probabilística. Se leis têm a forma de regularidades empíricas, então, a cau-
+sa dos fenômenos iguala-se à sucessão de eventos no tempo, motivo pelo qual
+o mundo (se se está tratando de leis da economia, pode-se dizer o sistema
+econômico) é entendido como um conjunto de eventos atomísticos, uma di-
+mensão plana na qual eventos ocorrem uns após os outros. No caso das ciências
+da sociedade, em particular a Economia, o acordo com a tese das regularidades
+empíricas envolve ainda uma teoria social sobre o agir e a escolha humanos: se
+regularidades empíricas ocorrem na economia, isto é, se são válidas leis que
+postulam determinada sucessão de eventos, então, os sujeitos devem agir para
+validar as leis. Sob condições x, os agentes necessariamente reagem com y, o
+que implica o compromisso com a tese de que os sujeitos são processadores
+de estímulos, reproduzindo as regularidades empíricas que vigem no sistema
+econômico. Decorre disso, ainda por conta da admissão de leis como regularida-
+des empíricas, que o sistema econômico é imutável, já que os agentes jamais
+o transformam, antes o ratificando pelas suas ações. Com isso, dá-se uma
+espécie de independência do sistema econômico frente aos agentes, que ape-
+nas reagem às condições por aquele postas.
+Segundo Lawson (2003), o acordo com a tese das regularidades empíricas
+é generalizado na ciência econômica ortodoxa. Nesta, proposições da ciência
+só podem ser de dois tipos: ou são empíricas, ou são tautológicas. A rigor, a
+teoria consistiria na dedução de determinados resultados, uma vez estabelecidas
+(ao menos) uma lei geral (por exemplo, agentes maximizam sua utilidade) e
+determinadas condições iniciais. Para se tomar a Economia novo-clássica, sen-
+do os agentes substantivamente racionais e valendo algumas condições iniciais
+(como a existência de informação imperfeita e aquelas já referidas, como market
+clearing e a HER), a teoria deduz que, se os agentes são induzidos ao erro, por
+exemplo, sobre a inflação, haverá variação da oferta de trabalho numa
+determinada direção; isto é, sob determinadas condições, deduzem-se, em bases
+lógico-dedutivas, o comportamento dos agentes e o resultado de sua interação.
+As teorias, “impregnadas” do empirismo do positivismo lógico, estão circunscri-
+tas a proposições tautológicas (deduções lógico-dedutivas) e empíricas (sobre
+comportamentos dos agentes).7
+ 7 Para maiores detalhes, ver Duayer, Medeiros e Painceira (2001).
+87Economia clássica e nova-clássica "versus" Keynes e pós-keynesianos: um debate ontológico
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+O realismo crítico apresenta uma ontologia em tudo oposta à subjacente
+ao positivismo lógico. Para o realismo crítico, o mundo social, em particular, é
+estruturado e não plano. A dimensão do empírico não pode esgotar o mundo. Há
+ainda o domínio do efetivo (o dos eventos, independentemente de sua percep-
+ção) e o real, conjunto de estruturas, mecanismos, tendências e poderes so-
+ciais (transempíricos) generativos dos eventos. A especificidade dos sistemas
+sociais reside em que os domínios da realidade não podem existir senão pela
+ação humana. Por outro lado, essa ação pressupõe a existência objetiva desse
+domínio, razão pela qual o conjunto de mecanismos, estruturas, etc. pode ser
+interpretado como possuindo o poder de favorecer determinados fenômenos.
+Entretanto, dada a complexidade do mundo social, a existência de múltiplas
+forças torna o mundo aberto, isto é, sem resultados determinísticos, razão sufi-
+ciente para que se recuse a existência de regularidades empíricas. Leis na ciên-
+cia seriam proposições sobre o poder de determinados mecanismos e estrutu-
+ras causarem efeitos, que podem, ou não, se efetivar, já que a multiplicidade de
+forças pode cancelar determinados eventos.
+Resulta dessa concepção que teorias da Economia não devem ser descar-
+tadas por testes empíricos. Se leis denotam a existência real de determinadas
+estruturas, não necessariamente estas se manifestam a todo tempo, já que a
+economia é compreendida como uma totalidade complexa, composta de tantos
+outros complexos, muitas vezes antitéticos. O resultado da interação desses
+complexos é sempre indeterminado, ainda que seja possível à Economia desig-
+nar tendências. A reprodução desses complexos não pode ser independente
+dos atos humanos e de suas escolhas, amparadas nesses mesmos comple-
+xos. Para dar exemplos triviais, não pode haver troca sem um sistema monetá-
+rio, não pode haver produção sem relações de produção, bem como não se fala
+na ausência de uma linguagem. Entretanto deve-se observar que a fala, a troca,
+a produção, etc. não são estabelecidas a priori, em razão de sua possibilidade
+dever-se à existência de determinados mecanismos e estruturas. Estes apenas
+as possibilitam, entretanto a escolha dos agentes é sempre real; isto é, em
+geral, há sempre múltiplas possibilidades que se põem aos agentes. Suas esco-
+lhas, por sua vez, repercutem sobre a reprodução dos complexos sociais, moti-
+vo pelo qual podem transformá-los. Logo, a Economia é composta de ações
+humanas que reproduzem e transformam mecanismos, estruturas e poderes
+econômicos transempíricos; por outro lado, esses mesmos mecanismos, estru-
+turas e poderes são as condições reais das ações. Sua existência real não
+implica uma economia estática, dada de uma vez por todas. Pelo contrário,
+como sua existência pressupõe a ação e a escolha humanas, então, sua repro-
+dução é sempre processual, com mutações ao longo do tempo, razão pela qual
+88 Bruno Moretti; Marcos T. C. Lélis
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+jamais o conhecimento do presente pode representar uma condição suficiente
+para previsões sobre o futuro econômico.
+Os pós-keynesianos, Keynes e o realismo
+crítico
+Por mais evidentes que sejam as relações entre o realismo crítico e a
+Economia heterodoxa, é preciso explicitá-las. Em particular, tratar-se-á dos pós-
+-keynesianos e do próprio Keynes, ainda que algumas das vindicações dos
+autores contemplados possam coincidir com as de outras correntes da Econo-
+mia heterodoxa.
+Logo no primeiro capítulo da Teoria Geral, Keynes (1985), referindo-se
+aos dois postulados fundamentais da teoria clássica do emprego — (a) o salário
+é igual ao produto marginal do trabalho e (b) a utilidade do salário, quando se
+emprega determinado volume de trabalho, é igual à desutilidade marginal do
+trabalho —, questiona:
+Será verdade que as categorias anteriores abrangem todo o problema,
+considerando que, de modo geral, a população raramente encontra tanto
+emprego quanto desejaria ao salário corrente? Deve-se, pois, admitir que,
+se fosse maior a procura de mão-de-obra, maior quantidade de trabalho
+seria oferecida ao nível do salário nominal vigente. A escola clássica concilia
+este fenômeno com seu segundo postulado, argumentando que, se a
+procura de mão-de-obra ao salário nominal vigente se acha satisfeita antes
+de estarem empregadas todas as pessoas desejosas de trabalhar em
+troca dele, isso se deve a um acordo declarado ou tácito entre os operários
+de não trabalharem por menos, e que, se todos eles admitissem uma
+redução dos salários nominais, maior seria o volume de emprego atendido.
+Sendo este o caso, tal desemprego, embora aparentemente involuntário,
+não o seria estritamente falando, devendo incluir-se na categoria do
+desemprego “voluntário”, em virtude dos efeitos dos contratos coletivos
+de trabalho, etc. (Keynes, 1985, p. 19).
+Sob tal ótica, o desemprego involuntário não é um fenômeno típico das
+economias com propriedade privada. O desemprego só pode existir devido à
+disposição dos trabalhadores de só trabalharem por um salário maior. Portanto,
+só pode ser desemprego voluntário.8 É justamente contra essa concepção que
+Keynes (1973) dirige suas críticas. Para a teoria clássica, empresários e traba-
+8 É claro que a teoria clássica chega a esse resultado pressupondo preços e salários flexíveis.
+89Economia clássica e nova-clássica "versus" Keynes e pós-keynesianos: um debate ontológico
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+lhadores, ao decidirem, respectivamente, quanto investem e quanto oferecem
+de trabalho, estão olhando para a quantidade de bens que recebem em troca. No
+caso do trabalho, sua remuneração deve equivaler à desutilidade marginal do
+trabalho. Com preços plenamente flexíveis, os salários sempre se ajustam de
+forma a se manterem no nível de equilíbrio, que preenche as condições para que
+haja pleno emprego de fatores.
+Então, a teoria clássica pressupõe uma economia na qual o nível de em-
+prego é definido no mercado de trabalho. Se o salário real está no nível de
+equilíbrio, então, oferta e demanda de trabalho são iguais, com conseqüente
+equilíbrio no mercado de bens. Isto é, a um determinado salário real, os empre-
+sários contratam certa quantidade de mão-de-obra, gerando um nível de produ-
+ção que iguala oferta e demanda de bens. Como conciliar esse modo de operar
+descrito pela teoria clássica, que, salvo rigidez nos preços, resulta em equilíbrio
+e pleno emprego de fatores, com a constatação de que, nessa economia, as
+decisões são tomadas de maneira não planejada? O modo de conciliar os dois
+passa pelo estabelecimento de uma economia que Keynes (1973) denomina
+empresarial neutra9, na qual as decisões são tomadas de forma privada, mas há
+um mecanismo que garante, no agregado, a equivalência entre o valor de troca
+das rendas monetárias dos fatores de produção e a proporção da produção
+agregada relativa ao fator, no caso de ser esta uma economia que opere de
+forma centralizada, isto é, uma economia cooperativa. Destarte, haveria igual-
+dade entre a renda auferida pelos fatores de produção e os custos da produção.
+Portanto, a oferta agregada determinaria a demanda agregada. Para Keynes
+(1973), esse seria um caso limite da economia, que verdadeiramente funciona
+por decisões privadas de empresários que investem determinada soma monetá-
+ria em busca, ao fim do processo, de uma soma maior de dinheiro. No entanto,
+“[…] a teoria clássica, como exemplificado na tradição do professor Ricardo até
+Marshall e o professor Pigou, parece presumir que as condições para uma eco-
+nomia neutra são, em geral, substancialmente satisfeitas” (Keynes, 1973, p. 79).
+Com a premissa de que essas condições estão geralmente presentes, a econo-
+mia caracteriza-se pelo “axioma dos reais”, segundo o qual os agentes econômicos
+tomam suas decisões com base em bens, descanso, esforço, etc., e a moeda
+não importa (Davidson, 2003, p. 18). Os valores efetivamente importantes são
+os reais, por exemplo, a taxa de juros real (determinada pela tecnologia) e os
+salários reais (com base nestes, os trabalhadores tomam suas decisões de
+9 E aqui se salienta novamente que, na concepção de Keynes, a Economia clássica é consti-
+tuída por aqueles autores que compreendem a economia como economia empresarial neutra.
+90 Bruno Moretti; Marcos T. C. Lélis
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+oferta de trabalho). A moeda, pois, é neutra. Políticas de demanda não têm
+efeitos reais, apenas nominais.
+A crítica de Keynes (1973) às posições da teoria clássica necessaria-
+mente suscita indagações ontológicas, já que se dirige à visão de economia
+compartilhada pela teoria clássica. Keynes pretende demonstrar a absurdidade
+dessa concepção, substituindo-a por uma outra forma de entendimento dessa
+economia. A autoridade da crítica adviria do caráter mais realista de sua
+teorização.10 Esse caráter da crítica estaria indicado já quando Keynes (1973)
+aponta como ponto de partida da teoria clássica o entendimento da economia
+como empresarial neutra, na qual pressupostos válidos para um caso limite são
+generalizados. Para Keynes, tal generalização não procede, visto que, na eco-
+nomia “em que vivemos” — a economia monetária de produção —, as deci-
+sões de produção são tomadas de forma privada, não havendo qualquer meca-
+nismo que garanta automaticamente a determinação da demanda agregada pela
+oferta agregada. Portanto, o nível de produção não pode ser determinado no
+mercado de trabalho, mas através dos gastos que os capitalistas realizam, que,
+por sua vez, são uma função de suas expectativas em termos de possibilidades
+de realização da produção e de obtenção, ao fim do processo, de uma soma
+monetária superior à inicial. O nível de produto é determinado pela demanda
+efetiva, cuja magnitude de forma alguma equivale, a priori, ao produto potencial
+de pleno emprego.
+O princípio da demanda efetiva sustenta que o nível de emprego e renda
+da comunidade é determinado pelas decisões de gastos dos capitalistas,
+que (dado o estoque de equipamento) são tomadas a partir de avaliações
+efetuadas isoladamente por cada empresário sobre as quantidades que
+antecipam vender a um determinado preço (de oferta). O conjunto das
+decisões de gasto determina em cada momento qual será o nível de renda
+da comunidade. Portanto o que os empresários estão decidindo gastar
+agora na produção de bens de consumo e de bens de investimento será a
+renda da comunidade (Almeida; Belluzzo, 2002, p. 65).
+Nessa economia em que as decisões de produção têm de ser tomadas
+levando em conta um futuro estatisticamente imprevisível (futuro aberto e incer-
+to), é perfeitamente inteligível a posição de reter moeda, ao invés de investir em
+ativos reais, que resultaria em uma demanda efetiva inferior ao produto poten-
+cial (correspondente ao pleno emprego de fatores de produção). Logo, diante de
+um futuro incerto, os contratos emergem como redutores dessa incerteza, ser-
+vindo como base sobre a qual podem ser calculadas as rentabilidades futuras
+ 10 Ao longo do texto, ficará mais clara a relação da crítica de Keynes à teoria clássica com a
+reivindicação de um maior realismo nas construções teóricas keynesianas.
+91Economia clássica e nova-clássica "versus" Keynes e pós-keynesianos: um debate ontológico
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+(Carvalho, 1994, p. 42). E à moeda cabe o papel de unidade que possibilite os
+cálculos. Por conseguinte, no curto e no longo prazo, a moeda é essencial,
+diferentemente do que prescreve a teoria clássica (e, em particular, para a teoria
+novo-clássica). Keynes (1985) tentou estabelecer um vínculo entre o papel da
+moeda, a incerteza e o desemprego.11 Diante da incerteza, Keynes (1985) cita a
+possibilidade de se demandar moeda como reserva de valor, isto é, de os agen-
+tes exercerem sua preferência pela liquidez, que significa justamente a propen-
+são a reter ativos líquidos, sobretudo moeda. A demanda por segurança aumen-
+ta, na medida em que as expectativas com relação ao futuro se tornam piores.12
+A preferência por liquidez tem um papel importante na determinação da taxa de
+juros monetária, já que a demanda por moeda se altera em sua função. Porém,
+se a preferência pela liquidez altera a taxa de juros, ela pode repercutir também
+sobre o investimento e, portanto, sobre a demanda efetiva.
+Desaparece, dessa maneira, a dicotomia clássica entre o lado real e o
+monetário (e a causa não reside na rigidez de preços). Os dois pólos estão
+relacionados via taxa de juros e, em parte, pela preferência pela liquidez. A
+moeda não é neutra, bem como a economia não tende, no longo prazo, para um
+estado de equilíbrio walrasiano. A moeda não constitui mero meio de circulação
+de mercadorias. Pelo contrário, numa economia monetária de produção, ela ser-
+ve como reserva de valor, devido ao fato de que o futuro não pode ser previsto,
+isto é, de que há incerteza (irredutível a risco). Logo, se à moeda é conferido um
+outro papel, muda o significado da eficácia da política monetária. Na perspecti-
+va de Keynes, a política monetária expansiva busca fazer a riqueza deslocar-se
+da esfera financeira para a esfera real (Carvalho, 1994, p. 43). As variações no
+estoque de moeda têm efeitos sobre a taxa de juros dos ativos líquidos, produ-
+zindo mudanças nas carteiras dos investidores, que deslocarão parcela maior
+de sua demanda para ativos reprodutíveis, com efeitos sobre a renda e o empre-
+go. A eficácia da política monetária dependerá do comportamento dos bancos
+(sua preferência pela liquidez), que, com o aumento de suas reservas, podem
+comprar ativos do setor privado, consolidando a eficácia das políticas. Não há,
+11 Em outros termos, pode-se afirmar que Keynes busca conectar o lado real e o lado finan-
+ceiro da economia.
+12 “Preferência pela liquidez é sinônimo de propensão por reter ativos líquidos, especialmente
+a moeda. Keynes argumentou que o futuro econômico é incerto, no sentido que não pode
+ser conhecido com antecedência nem ser estatisticamente prognosticado por meio de
+tábulas de probabilidades. Quando as expectativas são pessimistas, os agentes deman-
+dam segurança no presente para enfrentar o futuro incerto. Keynes mostrou que a moeda
+é o ativo mais seguro, aquele capaz de acalmar nossas inquietudes em relação ao futuro
+desconhecido e imprevisível [...] quanto mais incerto é considerado o futuro, maior é a
+preferência pela liquidez no presente” (Sicsú, 1999, p. 93).
+92 Bruno Moretti; Marcos T. C. Lélis
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+nessa perspectiva, qualquer alusão à neutralidade da moeda, que só pode ser
+requerida numa economia centralizada ou numa economia com propriedade pri-
+vada, com um mecanismo de supressão da incerteza, mas não numa economia
+empresarial.
+Vê-se, pois, que o traço fundamental da economia empresarial diz respei-
+to ao caráter aberto do futuro e, portanto, à incerteza no que se refere aos
+acontecimentos que podem estar por vir. Desse modo, não há qualquer tendên-
+cia, seja no curto, seja no longo prazo, para um estado de equilíbrio walrasiano,
+no qual vale a neutralidade da moeda, a dicotomia monetário versus real, o
+pleno emprego, etc. Nessas condições, correspondentes ao equilíbrio geral
+walrasiano, não há a possibilidade de alguma função para moeda senão a de
+mera facilitadora de trocas. Não há, pois, possibilidade de retenção de moeda
+como comportamento derivado da incerteza com relação ao futuro. Em outras
+palavras, os agentes podem prever, de forma razoavelmente acurada, os
+fenômenos futuros. No entanto, se isso ocorre, necessariamente distribuições
+de probabilidade de eventos no presente constituem o guia adequado para a
+previsão das distribuições de probabilidade para o futuro — esse é o axioma da
+ergodicidade.
+Em um mundo ergódico, as observações de uma especificação de
+determinada série temporal, isto é, dados históricos, são informações úteis
+sobre a distribuição de probabilidades de um universo de especificações
+que existe em qualquer ponto de tempo, como hoje; e esses dados são,
+ainda, informações úteis sobre a futura distribuição de probabilidades dos
+eventos. Conseqüentemente, ao estudar cientificamente o passado como
+se tivesse sido gerado em condições ergódicas, os eventos presentes e
+futuros podem ser previstos em termos de probabilidade estatística.
+(Davidson, 2003, p. 22).
+Com essas observações, retorna-se ao objetivo último do tópico: as rela-
+ções entre realismo crítico e Keynes e os pós-keynesianos. Numa economia
+como a concebida (ainda que implicitamente) pela teoria que Keynes (1973)
+denomina “clássica” (e, é claro, tais críticas valem para os economistas novos-
+-clássicos), a ausência de incerteza leva a uma possibilidade de tratar o futuro
+nos moldes do presente. Torna-se nítida a relação entre essa teoria e a tese das
+regularidades empíricas. Num ambiente de incerteza, é claro que não valem leis
+que signifiquem conjunções constantes de eventos. Em outras palavras, uma
+vez que o futuro é aberto, existem várias possibilidades que, na terminologia
+dos realistas críticos, podem ser tomadas como tendências derivadas da parti-
+cular constituição estrutural da economia. O realismo crítico denomina retrodução
+o método segundo o qual, dos fenômenos observados, se descobrem condi-
+ções de possibilidades para que esses fenômenos existam; isto é, as estruturas
+e os mecanismos que devem existir para que determinados comportamentos
+93Economia clássica e nova-clássica "versus" Keynes e pós-keynesianos: um debate ontológico
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+sejam observados. Keynes (1973), ao tratar de uma economia na qual predo-
+mina a incerteza, isto é, a imprevisibilidade ontológica de determinados fenô-
+menos, com todas as repercussões relativas a políticas econômicas, de alguma
+forma, está utilizando-se do método em questão, já que busca explicar qual a
+“racionalidade” do comportamento baseado na incerteza, isto é, quais  mecanis-
+mos vigentes na economia (monetária de produção) possibilitam determinado
+tipo de comportamento (reter moeda como reserva de valor, em particular), que,
+por sua vez, repercute sobre o sistema econômico (a economia monetária de
+produção) e sobre seus mecanismos e estruturas. Tal comportamento só é pos-
+sível numa economia monetária de produção, forma particular de estruturação
+da economia, na qual, por conta de a produção social decorrer de ações priva-
+das movidas pelo lucro econômico, há incerteza relativa ao futuro, tendo como
+conseqüência a preferência pela liquidez, a não-neutralidade da moeda, a possi-
+bilidade de desemprego, a realização de políticas de demanda bem-sucedidas,
+etc. Porém leis são sempre tendências. Tendências, vale repetir, são possibilida-
+des que decorrem da existência de certos mecanismos e poderes sociais,
+irredutíveis ao empírico, às suas formas de manifestação. A questão é que tais
+mecanismos só se reproduzem pela atividade humana. Como esta não é prede-
+terminada, mudanças nas estruturas também são possíveis. Logo, a econo-
+mia — suas estruturas e poderes — deve ser entendida como um processo
+dinâmico, com tendências, porém sem uma direção prévia, ou, pode-se assim
+dizer, sem teleologia (por exemplo, uma tendência ao estado de pleno emprego).
+A tese de Shackle das decisões cruciais 13 está em pleno acordo com a
+noção realista crítica de escolha humana. Para Shackle (Crocco, 2002), decisões
+cruciais envolvem a mudança das distribuições de probabilidade existentes
+decorrentes da própria escolha, o que é perfeitamente compatível com a noção
+de ação humana como reprodutora e/ou transformadora de estruturas sociais.
+Se o que objetivamente existe pressupõe a atividade humana, então, pelo poder
+real de escolha, o existente tem caráter dinâmico — muda a todo tempo. A
+economia não é estática, não tende a um ponto no qual estaciona, também não
+possui um futuro dado a priori. O futuro (que, para os realistas críticos, se cons-
+titui no modo como as estruturas serão reproduzidas e/ou transformadas) é
+produto das escolhas realizadas pelos agentes econômicos. Com efeito, ela
+lhes é endógena. Uma tendência ao pleno emprego, ao equilíbrio geral walrasiano
+no longo prazo, implica uma economia exógena aos agentes, já que sua ação
+apenas leva a um futuro que já está dado. A rigor, não há escolhas. E é por essa
+razão que essa concepção é inconciliável com uma economia empresarial, na
+13 Para maiores detalhes, ver Davidson (1982).
+94 Bruno Moretti; Marcos T. C. Lélis
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+qual há incerteza quanto ao futuro. Se não existe incerteza com relação ao
+futuro, é porque é possível deduzi-lo a partir das distribuições de probabilidade
+dos eventos presentes, o que implica uma economia estática, isto é, com dis-
+tribuições de probabilidade que não mudam no tempo. Reforça-se o caráter
+exógeno da economia: a escolha humana não é efetiva, pois nada faz senão
+reproduzir um futuro dado. Em particular, pós-keynesianos consideram a possi-
+bilidade de várias taxas de desemprego associadas a vários estados de expec-
+tativas e de preferência pela liquidez. Por outro lado, as políticas de demanda
+buscam alterar esses estados de expectativa, com possibilidade (ou não) de
+sucesso. Não há qualquer determinismo, já que o futuro (incerto) resulta da
+objetivação das ações humanas. Cada ponto associado às expectativas e à
+preferência pela liquidez constitui uma possibilidade. É claro que o inverso
+ocorre, por exemplo, com os defensores da taxa natural de desemprego, pois,
+nesse caso, necessariamente as ações humanas resultam nesse ponto, salvo
+erros de expectativas, que, se admitida a hipótese de expectativas racionais,
+não ocorrem com freqüência.14
+Conclusão
+Dessa forma, realismo crítico e Economia pós-keynesiana parecem ter
+relações importantes. Talvez, o maior mérito do realismo crítico seja o de explicitar
+as conseqüências ontológicas (ainda que implicitamente pressupostas) da for-
+ma como os economistas do mainstream tratam a economia, inclusive suas
+contradições. Por exemplo, a aceitação da tese das regularidades empíricas, o
+caráter exógeno da economia e a necessidade, enquanto cientistas econômicos,
+de darem conta da escolha dos agentes. A partir da absurdidade desses pressu-
+postos, emerge o caráter propositivo do realismo crítico: leis como tendência,
+economia como conjunto de estruturas, mecanismos e poderes, agentes
+14 “Na visão de Keynes e dos pós-keynesianos, é a presença da moeda desempenhando o
+papel do ativo mais seguro em uma economia com incerteza knightiana que pode explicar
+a possibilidade de existência de diversos níveis de desemprego, cada um desses níveis
+sendo capaz de persistir por longos períodos, até que haja uma modificação no estado
+expectacional da economia e/ou uma intervenção governamental. Diferentemente da eco-
+nomia novo-clássica, para Keynes e os pós-keynesianos não existe uma taxa única de
+desemprego capaz de vigorar na ausência de erros expectacionais. A economia pode
+alcançar infinitas posições de desemprego, cada uma correspondente a um estado
+expectacional que, por sua vez, está associado a um determinado estado de preferência
+pela liquidez. A política monetária antidesemprego de inspiração keynesiana visa à altera-
+ção desses estados.” (Sicsú, 1997, p. 92).
+95Economia clássica e nova-clássica "versus" Keynes e pós-keynesianos: um debate ontológico
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+reprodutores das estruturas, futuro aberto, etc. Todos esses pontos parecem
+amparar uma visão de economia que considera o futuro incerto, um mundo não
+ergódico, a existência de decisões cruciais e de preferência pela liquidez, a
+não-neutralidade da moeda no curto e no longo prazo, a inexistência de
+dicotomia entre o lado real e o monetário, a incerteza, etc. Logo, o debate
+entre pós-keynesianos e novos-clássicos naturalmente se desloca para o plano
+ontológico. Neste, pós-keynesianos, críticos do irrealismo que caracteriza as
+teorias de inspiração neoclássica, podem sustentar (ontologicamente) suas pres-
+crições teóricas no realismo crítico, cujo foco reside em como caracterizar o
+objeto das Ciências Sociais, inclusive Economia, isto é, que propriedades as
+sociedades (e economias) possuem para que possam se tornar objeto de nosso
+conhecimento. Em outras palavras, o objeto de análise reside na forma mais
+acurada de apreender, no pensamento, aspectos da realidade econômica, isto
+é, momentos do modo de funcionamento do sistema econômico. O movimento
+inverso parece ser feito pelas teorias de inspiração neoclássica. A pergunta
+fundamental dessa tradição seria: que características podemos imprimir ao
+objeto para que ele se torne adequado às nossas teorias? Nesse particular, são
+relevantes as palavras de Carvalho (1994, p. 41):
+O debate em torno da eficácia de instrumentos de política econômica só
+tem sentido quando se explicita o modelo de economia — seus agentes,
+seus móveis, suas regras — com que se trabalha. Não é possível derivar
+conclusões de validade geral sobre resultados ou implicações de política
+senão em relação a uma concepção definida de como é, na sua essência,
+a economia objeto da política econômica. A nova economia clássica, por
+exemplo, deriva seus polêmicos resultados não de características da
+realidade, cuja descrição é inevitavelmente ambígua, mas da forma peculiar
+como interpreta os postulados que definem uma determinada visão de
+mundo e, em particular, de sua visão de que economias capitalistas podem
+ser concebidas como sistemas de equilíbrio geral, onde a posição de
+equilíbrio existe, é única e estável.
+Por fim, a passagem citada expressa que o debate Keynes e pós-
+-keynesianos versus clássicos e novos-clássicos não pode escapar às indaga-
+ções ontológicas, isto é, às reflexões sobre o modo como é tratada a natureza
+do objeto — a própria vida econômica (suas estruturas, seus mecanismos, suas
+relações, etc.) — fundamentalmente ligada a tomadas de posições no campo
+das políticas. Entretanto, assinalado o caráter ontológico da crítica keynesiana
+ao mainstream da Economia — verdadeira ilustração de como as questões
+ontológicas estão presentes nos debates da Economia —, não resulta daí o
+esgotamento do debate no interior da tradição heterodoxa, caracterizado por
+uma diversidade de posições, que não constitui o tema deste trabalho.
+96 Bruno Moretti; Marcos T. C. Lélis
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+Referências
+ALMEIDA, J. G.; BELLUZZO, L. G.  Depois da queda — A economia brasileira
+da crise da dívida aos impasses do Real.  Rio de Janeiro: Civilização Brasileira,
+2002.
+BAERT, P.  Realist philosophy of the social sciences and economics: a critique.
+Cambridge Journal of Economics, v. 20, n. 5, Sept 1996.
+CARVALHO, F. J. C. de. Temas de política monetária keynesiana.  Ensaios FEE,
+v.15, n.1, 1994.
+CROCCO, M. The concept of degress of uncertainty in Keynes, Shackle and
+Davidson. Nova Economia, Belo Horizonte, v. 12, n. 2, p. 11-28, jul./dez. 2002.
+DAVIDSON, P . Rational expectations: a fallacious foundation for studying crucial
+decision-making processes. Journal of Post-Keynesian Economics , v. 5,
+n. 2,1982.
+DAVIDSON, P . Resgatando a revolução keynesiana, In: LIMA, G. T.; SICSÚ, J.
+(Org.). Macroeconomia do emprego e da renda: Keynes e o keynesianismo.
+Rio de Janeiro: Manole, 2003.
+DUAYER, M.; MEDEIROS, J. L.; PAINCEIRA, J. P.  A miséria do instrumentalismo
+na tradição neoclássica.  Revista de Estudos Econômicos, v. 31, n. 4, 2001.
+FERRARI, F. F. Keynesianos, monetaristas, novos-clássicos e novos-
+-keynesianos: uma leitura pós-keynesiana.  In: LIMA, G. T.; SICSÚ, J. (Org.).
+Macroeconomia do emprego e da renda: Keynes e o keynesianismo. Rio de
+Janeiro: Manole, 2003.
+FRIEDMAN, M. The role of monetary policy.  American Economic Review,
+p. 1-17, Mar 1968.
+KEYNES, J. M. A monetary theory of production. London: MacMillan,1973.
+(The Collected Writings of John Maynard Keynes, v. 13).
+KEYNES, J. M. A teoria geral do emprego, do juro e da moeda. São Paulo:
+Nova Cultura, 1985.
+LAWSON, T.  The nature of post keynesianism and its links to other traditions:
+a realist perspective.  Journal of Post-Keynesian Economics , v. 16, n. 4,
+p. 503-538, 2003.
+LUCAS, R. Some international evidence on output-inflation trade-offs. American
+Economic Review, v. 63, June, 1973.
+97Economia clássica e nova-clássica "versus" Keynes e pós-keynesianos: um debate ontológico
+Ensaios FEE, Porto Alegre, v. 28, n. 1, p. 79-98, jul. 2007
+SICSÚ, J. A negação da ineficácia da política monetária: a alternativa de Keynes
+e dos pós-keynesianas.  Análise Econômica, v. 15, n. 28, 1977.
+SICSÚ, J. Keynes e os novos keynesianos.  Revista de Economia Política ,
+v. 19, n. 2 (74), abr./jun.1999.
+SNOWDON, B. A modern guide to macroeconomics. Cheltenhan: Edward
+Elgar, 1994.

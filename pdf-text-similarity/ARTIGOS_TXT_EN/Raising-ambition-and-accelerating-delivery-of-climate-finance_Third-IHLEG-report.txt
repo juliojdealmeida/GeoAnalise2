@@ -1,0 +1,2146 @@
+    
+Raising ambition 
+and accelerating 
+delivery of  
+climate finance
+Third report of  
+the Independent  
+High-Level Expert Group  
+on Climate Finance
+November 2024
+2 
+ 
+Preface and acknowledgements 
+The Independent High Level Expert Group (IHLEG) on Climate Finance has been supporting the 
+deliberations on the climate finance agenda under successive COP Presidencies since COP26. The 
+group is co-chaired by Amar Bhattacharya, Vera Songwe and Nicholas Stern. Eléonore Soubeyran 
+serves as the Secretariat. The full membership is provided at the end of the report. This independent 
+group was tasked to help develop and put forward policy options and recommendations to 
+encourage and enable the public and private investment and finance necessary for delivery of the 
+commitments, ambition, initiatives and targets of the UNFCCC Paris Agreement, reinforced by the 
+Glasgow Climate Pact, the Sharm el-Sheikh agenda, and the COP28 Global Climate Finance 
+Framework. 
+This third report of the IHLEG has benefited enormously from the active and high-quality 
+participation, guidance and input of the group’s members, and from feedback from a wide range 
+of stakeholders. The views expressed are the responsibility of Amar Bhattacharya, Vera Songwe, 
+Eléonore Soubeyran and Nicholas Stern, and are not necessarily those of individual members, nor 
+does the report claim to represent the views of the COP29 Presidencies or the Climate Champions.  
+The writing team was led by Amar Bhattacharya with Eléonore Soubeyran, with the guidance of 
+Vera Songwe and Nicholas Stern. The following people led on different sections: Amar Bhattacharya 
+(investment, financing pathways, multilateral development banks, country-led investments); 
+Eléonore Soubeyran (investment, climate finance landscape); Swati Ghosh (cost of capital); Homi 
+Kharas and Charlotte Rivard (debt); Katherine Stodulka, Mattia Romani and Zoe Greindl (private 
+finance); Marilou Uy (debt, domestic resource mobilisation, concessional climate finance, carbon 
+markets); Camilla Born, Annabel Mahgerefteh, Talia Smith, Harris Rahman, Jesse Hoffman 
+(tracking and monitoring). Georgina Kyriacou edited the report. 
+The authors would like to thank the participants at two roundtables that were co-hosted with the 
+UN Climate Change Executive Secretary on taking stock and setting the climate finance action 
+agenda and deliverables. They also thank participants at two roundtables held with the private 
+sector in New York and Washington in autumn 2024, co-hosted by GFANZ and the Blended Finance 
+Taskforce. Special thanks go to Baysa Naran and Dharshan Wignarajah at the Climate Policy 
+Initiative, Cecilia Tam, Lucila Arboleya Sarazola and Paul Grimal at the International Energy Agency, 
+and Paul Watkiss, Nella Canales and Dipesh Chapagain at the UN Environment Programme. 
+The estimates of investment needs for adaptation and resilience in 2030 for China and other 
+emerging markets and developing countries were provided by the Finance chapter team of the 
+UNEP Adaptation Gap Report (Nella Canales, Dipesh Chapagain and Paul Watkiss), based on 2024 
+analysis using data from updated 2022 analysis of modelled costs, finance needs and international 
+public adaptation finance flows. The data were produced with co-financing from: the 
+ECONOGENESIS project funded by UK aid from the UK government and by the International 
+Development Research Centre, Canada as part of the Climate Adaptation and Resilience (CLARE) 
+research programme; the Assessing Climate Change Risk in Europe project (ACCREU), funded by 
+the EU through the Horizon Europe Research and Innovation Action and UK Research and 
+Innovation under the UK Government’s Horizon Europe guarantee; and core funding to the 
+Stockholm Environment Institute from the Swedish International Development Cooperation Agency.  
+The work of the IHLEG is supported by the Brookings Institution, and the Grantham Research 
+Institute on Climate Change and the Environment at the London School of Economics and Political 
+Science. Both institutions would like to acknowledge support for this work and associated 
+engagement from the UK Department for Energy Security and Net Zero. Brookings acknowledges 
+support from the Bill & Melinda Gates Foundation and the Open Society Foundation; the Grantham 
+Research Institute acknowledges its funders including the Grantham Foundation for the Protection 
+of the Environment and Quadrature Climate Foundation. Support for the IHLEG/Systemiq Tracking 
+and Monitoring Framework was provided by the Children’s Investment Fund Foundation (CIFF). 
+The views in this report are those of the authors and do not necessarily represent those of any of the funding or 
+host institutions. Any errors and omissions remain the authors’ own.  
+Citation: Bhattacharya A, Songwe V, Soubeyran E and Stern N (2024) Raising Ambition and Accelerating 
+Delivery of Climate Finance. London: Grantham Research Institute on Climate Change and the Environment, 
+London School of Economics and Political Science. © The authors, 2024  
+3 
+ 
+Contents 
+Executive summary ................................ ................................ ................................ ..... 4 
+1. Investment imperative and opportunities ................................ ................................ .. 11 
+1.1. Understanding the investment needs for climate action ........................................ 11 
+1.2. Uneven gains for rapid cost reductions in clean technology .................................. 18 
+1.3. Unlocking savings and generating employment and economic   
+       growth opportunities ......................................................................................... 18 
+2. Financing pathways to achieve the Paris Agreement goals ................................ ........ 22 
+2.1. Where are we on climate finance? ...................................................................... 22 
+2.2. Pathways to scaling up climate finance in EMDCs other than China to 2030       
+       and beyond ....................................................................................................... 23 
+3. Accelerating delivery of the action agenda on climate finance ................................ .. 27 
+3.1. Key stakeholders in delivering the climate finance agenda .................................... 27 
+3.2. Unlocking climate investment at scale ................................................................ 28 
+3.3. Managing debt and fiscal space .........................................................................29  
+3.4. The imperative to boost domestic resource mobilisation ...................................... 31 
+3.5. Creating a new highway for private finance and tackling the cost of capital ......... 32 
+3.6. An MDB system that works for climate action .................................................... 36 
+3.7. Tapping the potential of carbon markets ........................................................... 38 
+3.8. Delivering and expanding options for concessional finance.................................. 39 
+4. Tracking and monitoring the delivery of the action agenda ................................ ....... 43 
+References ................................ ................................ ................................ ................ 44 
+IHLEG membership ................................ ................................ ................................ .... 49 
+ 
+  
+4 
+ 
+Executive summary 
+Investment imperative and opportunity 
+The world faces an unprecedented investment imperative and opportunity. The 
+transition to clean, low-carbon energy, building resilience to the impacts of climate 
+change, and protecting nature and biodiversity, require a rapid step-up in investment in all 
+countries. 
+The needs and opportunities are especially significant in emerging markets and 
+developing countries (EMDCs) other than China: they are the countries that will account 
+for the largest share of the increase in investments needed for a global energy transition, 
+they are the most vulnerable to climate impacts, and they are home to the vast 
+preponderance of the world’s nature and biodiversity resources.  
+We estimate that the global projected investment requirement for climate action is 
+around $6.3–6.7 trillion per year by 2030, of which $2.7–2.8 trillion is in advanced 
+economies, $1.3-$1.4 trillion in China, and $2.3–2.5 trillion in EMDCs other than China.1 
+These latter countries will account for almost 45% of the average incremental investment 
+needs from now to 2030 but they have been falling behind, especially Sub-Saharan Africa. 
+For 2035, we estimate global investment requirements for climate action to be around $7–
+8.1 trillion per year, with advanced economies needing $2.6–3.1 trillion, China $1.3–1.5 
+trillion, and EMDCs other than China requiring $3.1–3.5 trillion. These needs are our 
+estimations of what is required for delivery on the Paris Agreement, and the investments 
+will also make a vital contribution to sustainable growth and the achievement of the 
+Sustainable Development Goals. 
+Rapidly falling technology costs especially for solar power, and the huge expansion in 
+supply, notably from China, represent an unprecedented opportunity for developing 
+countries. Africa, for example, accounts for about 60% of the world’s best solar resources, 
+but received less than 2% of the investment in clean energy in 2023. 
+Ramping up climate investments in EMDCs is the only way to reach the Paris 
+Agreement goals of limiting the global temperature increase to well below 2 degrees 
+Celsius and adapting to climate change, and arrest the accelerating threat to nature 
+and biodiversity. Doing so also represents a huge growth and development opportunity 
+following the investment slowdown in the aftermath of the COVID-19 pandemic.  
+Our updated analysis indicates that of the projected investment needs of around $2.4 
+trillion per year in 2030 for EMDCs other than China, around $1.6 trillion is for the 
+clean energy transition, $0.25 trillion for adaptation and resilience, $0.25 trillion for 
+loss and damage, $0.3 trillion for natural capital and sustainable agriculture, and 
+$0.04 trillion for fostering a just transition. To emphasise, these are the investment 
+levels that are necessary for delivery on the Paris targets. They are analytical deductions in 
+relation to our estimates of what is needed, not a ‘first bid’ in a negotiation. 
+Any shortfall in investment before 2030 will place added pressure on the years that 
+follow, creating a steeper and potentially more costly path to climate stability. The 
+less the world achieves now, the more we will need to invest later. Delayed action means 
+we will need to mobilise even larger sums in shorter timeframes to catch up on critical 
+targets. Additionally, investment needs for adaptation and resilience, as well as loss and 
+damage and restoration of nature, will rise sharply as climate and nature risks escalate. 
+ 
+1 All figures are in US dollars. Numbers may not sum to totals due to rounding. 
+5 
+ 
+This ramp-up of investment can unlock the growth story of the 21st century and yield 
+huge avoided costs and co-benefits (versus the costs of inaction) while generating 
+very large savings. The avoided costs (such as adverse impacts on productivity and 
+health, damages to assets, and loss of biodiversity) and co-benefits of climate action 
+(such as increased productivity, improved ecosystem services and strengthened social 
+stability) could amount to about 15–18% of global GDP in 2030. In addition, financial 
+savings from a shift to a low-carbon economy could be as much as 11–18% of global GDP 
+(coming, for example, from reduced investments, consumption and imports of fossil fuels, 
+and fewer environmentally harmful subsidies). These benefits and savings will depend on 
+the pace of the transition and accrue over time. The challenge, therefore, is to foster the 
+enabling conditions for the ramp-up of investments and mobilise finance of the right 
+scale, of the right kind and at an affordable cost. 
+Criticality and structure of finance 
+Mobilising the necessary financing for EMDCs other than China  
+($ billion per year by 2030, increment from current in parentheses) 
+ 
+Notes: *Includes household savings. **A significant proportion of this private finance would be directly and indirectly 
+catalysed by MDBs, other development finance institutions and bilateral finance. ***Includes multilateral climate funds.  
+The large and rapid scale-up of finance to support a big investment push can only be 
+achieved by harnessing all pools of finance. For each strand, it is important to pursue 
+ambitious targets consistent with the investment goals but based on credible pathways to 
+delivery. The approach must utilise the comparative strengths of each strand in financing 
+the different types of investment. And it will be important to tap the synergies from the 
+different strands of finance to enhance leveraging power and bring down risks and the 
+cost of capital.   
+Domestic resources, which currently account for around 70% of climate finance, can 
+reasonably finance $1.4 trillion per year of the total investment need of $2.4 trillion by 
+2030 and $1.9 trillion of the total investment need of $3.2 trillion by 2035. The role of 
+the private sector will be much more important than in the past, given the changing 
+nature of investment.   
+External finance from all sources, international public and private along with others, 
+will need to cover $1 trillion per year of the total investment need by 2030 and around 
+$1.3 trillion by 2035. We argue that cross-border private finance can meet about half of 
+
+6 
+ 
+these needs given the changing nature of investment opportunities. This would imply a 15- 
+to 18-fold increase on current levels. Given their important direct and catalytic role, the 
+IHLEG and the G20-mandated Independent Expert Group (IEG) on multilateral 
+development bank (MDB) reform have argued that financing from MDBs needs to triple by 
+2030. Bilateral climate finance from advanced economies, which currently amounts to $43 
+billion per year, needs to double or more, given the central role that it plays in building 
+trust and financing the most difficult needs. 
+Building a climate finance system that meets the test of both scale and quality 
+requires shifting beyond a traditional focus on mobilising funding to prioritising 
+impact and systemic change. This means scaling up climate finance to be accessible, 
+predictable, affordable and transparent, rooted in justice and inclusion. Resources must be 
+distributed equitably, historical responsibilities acknowledged, and marginalised 
+communities included in decisions. Increased attention to gender equality is crucial for 
+climate finance that effectively addresses the differing constraints and opportunities for 
+men and women. Agreement and implementation of Article 2.1(c) of the Paris Agreement 
+can greatly bolster the effectiveness of the climate finance system. 
+Different sorts of investment need different sources of finance and thus the 
+composition of the different sources of the $1 trillion per year in external finance by 
+2030 is of great importance, and so too is the cost of capital. For example, private 
+finance will be the main source of investment in infrastructure for renewable energy 
+generation. Thus the $1 trillion in external finance for EMDCs other than China is much 
+broader in scope than the commitment by developed countries at COP16 in 2010 to 
+mobilise $100 billion per year by 2020 for developing countries. The figures presented in this 
+report imply a more than fourfold increase in total climate finance and a more than sixfold 
+increase in external finance by 2030. 
+Non-traditional financing sources can play an important role in closing the financing 
+gap.  There is tremendous potential for expanding South–South cooperation between 
+EMDCs on climate finance. Non-conventional sources of concessional finance will also 
+need to be pursued, including voluntary carbon markets, use of special drawing rights 
+(SDRs), solidarity levies on internationally-polluting activities, other international taxes, 
+debt swaps and private philanthropy. This could raise around $150 billion in additional 
+revenues by 2030. 
+A fit-for-purpose climate finance agenda has important implications for the New 
+Collective Quantified Goal on Climate Finance (NCQG). Agreement on the NCQG is a 
+matter for the Parties. With its overall external finance of $1 trillion per year to EMDCs 
+other than China by 2030, and its basic elements of private, MDB, bilateral and other 
+concessional flows, this framework provides the key conceptual and practical set 
+of numbers for climate finance, and can inform discussions about the NCQG. These 
+numbers come from a transparent and deductive analysis of the finance required for the 
+investments that will be necessary for delivery on the crucial temperature and climate-
+resilience targets of the Paris Agreement. Without these investments in EMDCs other than 
+China, the world will fail to achieve those goals. To deliver on the $1 trillion of external 
+finance, ambitious but credible targets will be required for the different strands, 
+recognising the need for synergies and leverage to achieve scale and effectiveness. The 
+tripling of MDB finance, for example, is crucial to scaling up private finance and reducing 
+the cost of capital. This framework and the key elements within it should be the main 
+focus of the NCQG. 
+Within this larger framework, advanced economies need to demonstrate a credible 
+commitment, including through the NCQG, to provide and mobilise the finance 
+needed for climate action in developing countries. This would entail a tripling of the 
+7 
+ 
+$100 billion annual commitment made at COP16 for 2020, and reaffirmed and extended to 
+2025 at COP21 in 2015. Other stakeholders also need to come forward with ambitious 
+commitments, including the MDBs, the private sector, and developing countries that are in 
+a position to provide support. Indeed, cooperation between developing countries (‘South–
+South cooperation’) is already making a significant contribution and there is great scope 
+for enhanced support and financing from leading developing countries. 
+Accelerating the delivery of the climate finance action agenda 
+Momentum has been building on the climate finance agenda since COP26. COP26, 
+COP27 and COP28 all made climate finance a central priority. The Global Climate 
+Finance Framework launched by the UAE COP28 Presidency in 2023 and supported by the 
+IHLEG set out an action agenda to deliver on adequate, accessible and affordable climate 
+finance that has been endorsed by an important coalition of world leaders. COP29 and 
+COP30 will be crucial in taking forward this climate finance agenda, with a need to agree 
+on the NCQG, launch a new round of ambitious nationally determined contributions 
+(NDCs) in 2025, and accelerate the implementation of the agenda set out in the Global 
+Climate Finance Framework. 
+Climate finance now features prominently in all key international discussions, 
+including the UN, the G20, the international finance institutions (IFIs) and the private 
+sector. The Brazilian G20 Presidency launched a special initiative this year, TF-Clima, to 
+bring together different stakeholders and build support for an action agenda on climate. 
+The Network for Greening the Financial System (NGFS), which has enlarged to 141 
+members comprising central banks and regulators, and the Coalition of Finance Ministers 
+for Climate Action, which now comprises finance ministries from 95 countries, have 
+become important networks to build consensus and ambition on the climate action 
+agenda. Several other coalitions have also emerged to identify and pursue priorities for 
+action, including the Bridgetown Initiative (with Bridgetown 3.0 launched in September 
+2024), the Paris Pact for People and the Planet (4P, with a permanent secretariat now 
+established at the OECD), the Nairobi Declaration of the Africa Climate Summit, and the 
+V20 with its action agenda.  
+COP29 in Baku and the G20 Summit in Rio de Janeiro provide an opportune moment to 
+take stock of the climate finance agenda, deliver an ambitious NCQG, and identify 
+priority actions for ramping up progress. In 2025, the Financing for Development 
+conference in June, the G20 agenda under the South African Presidency, and COP30 with 
+its priority goal of a new round of ambitious NDCs must all enable a big push on the 
+necessary investment and its financing.  
+A big push is required on three priorities: (i) to prepare and implement high-quality 
+investments; (ii) to put in place the necessary macroeconomic and sectoral policy and 
+institutional reforms and tackle the severe constraints facing many countries due to high 
+debt and limited fiscal space; and (iii) to mobilise finance at scale and improve access to 
+affordable capital. These priorities were confirmed at two roundtables convened by the UN 
+Climate Change Executive Secretary in partnership with the IHLEG in 2024, in Bonn and 
+New York, to take stock of and impart momentum to the climate finance action agenda.  
+The starting point is unlocking climate investment at scale. First, countries must set out 
+well-articulated strategies and transition plans to provide a clear source of direction, 
+including to the private sector. Second, countries must put in place and strengthen 
+institutional structures for translating strategies into tangible investment programmes and 
+project pipelines. Third, countries need to pursue sustained policy and institutional reforms 
+to tackle barriers to investment and incentivise the shift to low-carbon climate-resilient 
+development. Country platforms, led and owned by countries with the involvement of all 
+8 
+ 
+stakeholders including development finance institutions (DFIs) and the private sector, can 
+create the basis for more purposeful and accelerated action to unlock investments and 
+mobilise the financing that is needed. Encouragingly, there is growing momentum behind 
+the adoption and implementation of country platforms. This whole agenda will require 
+stronger and better coordinated efforts to build capacity across all levels of institutions. 
+Elevated debt and debt servicing burdens, and limited fiscal space, require urgent 
+action. Concerted and innovative approaches are needed, tailored to country 
+circumstances, including faster and better implementation of the Common Framework for 
+Debt Treatments and use of debt swaps where there is scope. Improved access to low-cost 
+finance and improving the terms of existing debt will be key. It is also essential to tackle 
+the vicious cycle between climate and debt vulnerability, particularly in low-income and 
+highly climate-vulnerable middle-income countries. Finally, Debt Sustainability 
+Assessments will need to consider how climate affects financial risks but also how to 
+incorporate the long-term growth and sustainability payoffs from climate action.  
+An integrated approach to climate finance is needed. While a very large proportion of 
+climate finance will be from the private sector, public domestic resource mobilisation will 
+be foundational. Increasing tax revenues must be the central pillar of domestic resource 
+mobilisation, and there is major scope to raise tax revenues in many EMDCs. Carbon 
+pricing provides tremendous potential to raise revenues during the transition while 
+efficiently providing incentives to reduce carbon emissions, as does the elimination of fossil 
+fuel and other damaging subsidies. All of these efforts to boost public domestic resources 
+will require strong international cooperation that ensures that developing countries get an 
+equitable share of tax revenues and are supported in enhancing their tax collection 
+capacities. 
+Despite growing momentum, volumes of private capital flowing to EMDCs are still far 
+too low: the challenge is to increase speed as well as scale. To meet this challenge, first, 
+the public and private sectors need to strengthen collaboration to develop sectoral 
+investment plans and co-create project pipelines. Second, scaling up and replicating more 
+effective risk-sharing mechanisms and credit enhancement can help improve the 
+availability and reduce the cost of capital in EMDCs. The cost of capital is significantly 
+higher in EMDCs than in advanced economies and is a significant impediment, especially 
+for clean energy projects. Reducing the cost of capital will require a combination of 
+measures at the international and country levels to reduce both actual and perceived risks. 
+Revamping the financial system can help create a virtuous cycle for private capital 
+mobilisation in EMDCs. Concerted efforts are needed to strengthen the domestic 
+financial sector in many EMDCs, including capital markets. Tackling supply-side regulatory 
+and incentive barriers to remove legal and organisational constraints to investing in 
+EMDCs, especially for clean energy and green industrialisation, is a priority task to unlock 
+institutional capital for EMDCs. 
+MDBs have embarked on a coordinated programme of reform to implement the 
+agenda of ‘better, bigger and more effective MDBs’. While all MDBs have made progress 
+on the reform agenda, the pace and ambition fall short of what is needed. From the 
+perspective of climate action, there are three areas where progress is not yet sufficient to 
+produce transformative change: systematic engagement on system reforms and scaling 
+up investment at the country level, including through more proactive engagement in 
+country platforms; expanding lending capacity; and catalysing private finance, including 
+through tapping long-term institutional capital. MDBs must work with host countries and 
+the private sector to reduce and manage risk and bring down the cost of capital. MDBs 
+should come forward with a commitment and plan to triple lending capacity by 2030 as 
+part of the NCQG, with each MDB doing its part, which will require shared commitment 
+9 
+ 
+and leadership from shareholders. Beyond MDBs, an integrated global network of public 
+development banks through the Finance in Common initiative could act as a powerful 
+force for more coherent and effective support for climate action and finance. 
+While bilateral contributions from developed countries are a small component of total 
+climate financing, they are critical to building trust, meeting some of the more 
+difficult needs, and leveraging other sources of finance. Securing an ambitious IDA21 
+(the forthcoming 21st replenishment process of the International Development 
+Association) will be vital to supporting climate action in low-income and climate-
+vulnerable countries. Multilateral climate funds play an important catalytic role in 
+advancing systemic change through partnerships with MDBs, mobilising financing aligned 
+with the Paris Agreement, and building markets. There is an urgent need to secure 
+adequate funding for the Loss and Damage Fund. 
+The voluntary carbon market (VCM) also has the potential to generate much-needed 
+revenues for priority elements of the transition in EMDCs. The VCM has suffered from 
+major setbacks and poor market sentiment. There are important efforts to provide greater 
+assurance of credit integrity. Parties reached consensus at COP29 on the standards for 
+Article 6.4 of the Paris Agreement, which can generate new momentum. Further steps 
+being undertaken include creating clearer operational guidelines for the use of carbon 
+credit regulations that support high quality carbon credits and boost voluntary demand; 
+and enabling EMDCs to develop and manage their use of carbon markets. Developing a 
+programmatic approach beyond project-by-project is important for integration into 
+development finance and action. 
+Given the very large needs for concessional finance, non-conventional sources must 
+be actively pursued. The G20 and the IMF should explore how to tap the substantial 
+potential for voluntary rechannelling from the existing pool of SDRs and modernise the 
+framework to make it less rigid and costly. The IMF and the G20 should also initiate 
+discussions on the next cycle of SDR issuance as part of a system of regular issuance. There 
+is scope for private philanthropy to further augment the scale of its financing and leverage 
+its strengths to deliver much-needed grant financing with flexibility and agility. 
+These efforts, however, are unlikely to be sufficient to fill the concessional financing 
+gap, and innovative solutions need to be pursued actively. One such solution is 
+international taxation of high-emitting sectors, which has the potential to raise significant 
+amounts of revenue that could be used to fill the climate financing gap. At COP28, the 
+Global Solidarity Levies Task Force was launched to explore new avenues for international 
+taxation to finance climate action and sustainable development, including the taxation of 
+international shipping, aviation, fossil-fuel levies and a financial transactions tax. It will be 
+important to broaden the coalition of countries and build consensus on proposals that can 
+attract support by COP30. 
+Tracking and monitoring the delivery of the climate action agenda 
+As the climate finance agenda shifts from outlining the need and pathways for 
+climate finance into delivery, tracking and monitoring systems are critical to 
+accelerating implementation of the climate finance agenda. Tracking and monitoring 
+foster accountability both by shining a spotlight where progress is being made and by 
+highlighting gaps and opportunities to aid prioritisation of future actions. 
+There is now a reasonably comprehensive structure for tracking climate finance flows, 
+including the UNFCCC’s biennial assessment of flows, the OECD’s tracking of the delivery 
+of the $100 billion commitment, and Climate Policy Initiative’s (CPI’s) Global Landscape on 
+Climate Finance. MDBs also issue an annual joint report on their delivery of climate 
+10 
+ 
+finance. However, tracking continues to suffer from a lack of a full consensus on what 
+constitutes climate finance and robust data and systematic measurement mechanisms 
+for tracking the action agenda on climate finance have also been scarce. Here, an 
+important new initiative is CPI’s Climate Finance Reform Compass, which assesses 
+implementation against milestones. 
+The IHLEG has prepared two complementary instruments to support improved 
+monitoring in partnership with CPI: a summary of the action agenda priorities, actions 
+and deliverables leading up to COP30 and a State of Delivery report that provides  
+a more rigorous assessment of progress against a composite set of indicators. 
+  
+11 
+ 
+1. Investment imperative and opportunities 
+The world faces an unprecedented investment imperative as the window for 
+meaningful action on climate change narrows rapidly. To meet the Paris Agreement 
+goals, have a chance of mitigating the worst impacts of climate change, build resilience 
+and protect nature and biodiversity, transformative investments are essential, particularly 
+in emerging markets and developing countries (EMDCs). Rapidly falling technology costs 
+and the huge expansion of renewables supply, notably from China, are reducing overall 
+investment needs for clean energy – but solutions must be found, too, to address the gaps 
+in funding for adaptation and resilience, loss and damage, natural capital and the just 
+transition. The ramp-up of investment can also yield huge avoided costs and co-benefits 
+while generating very large savings – returns that far outweigh the investment 
+requirements and present significant opportunities.  
+In this third report of the IHLEG on Climate Finance we update the estimates of 
+investment requirements for climate action and set out the action agenda to deliver 
+the necessary finance for investment in EMDCs other than China.  
+This chapter provides an overview of the investment needs across key areas, from 
+clean energy to just transition, and describes the enduring value of investing in climate 
+action: to drive economic resilience and equitable growth across regions. 
+1.1. Understanding the investment needs for climate action  
+Greenhouse gas emissions continue to rise and the world is faced with the critical risk 
+of exceeding the 1.5°C threshold of temperature rise and the consequential severe 
+climate impacts. Global emissions reached a record 57.1 GtCO₂e in 2023, up 1.3% from 
+2022 (UNEP, 2024a). Under current policies, global warming is projected to reach 
+approximately 3.1°C by the end of the century, far exceeding the Paris Agreement’s 1.5°C 
+target (ibid.). Failing to meet the Paris goals would have devastating consequences, with 
+even the half-degree difference between 1.5°C and 2°C posing severe risks, particularly 
+given that on-the-ground adaptation efforts remain insufficient (UNEP, 2024b). Exceeding 
+1.5°C could push the world past tipping points in critical ecosystems, such as the 
+Greenland and Antarctic ice sheets, coral reefs and permafrost, triggering feedback loops 
+that accelerate warming (Armstrong McKay et al., 2022). At 2°C, the likelihood of 
+Key findings 
+• Investments in all areas of climate action must increase across all 
+economies: $6.5 trillion is needed on average per year by 2030 to meet 
+climate targets in advanced economies, China, and EMDCs other than China. 
+• The largest increase in investment is required in EMDCs other than China: 
+these regions currently have low investment levels, significant development 
+needs, and are projected to contribute over 50% of global emissions by 2030. 
+• Investment needs are most clearly defined in the energy transition sector: 
+while other areas have more uncertainty, sufficient data exists to provide 
+directional estimates that can guide financing pathways across regions. 
+• Any shortfall in investment before 2030 will place added pressure on the 
+years that follow, creating a steeper and potentially more costly path to 
+climate stability. The less the world achieves now, the more we will need to 
+invest later. 
+ 
+12 
+ 
+irreversible damage to ecosystems including the Amazon Rainforest and global oceans 
+rises sharply, leading to severe sea level rise, species extinction, and large-scale carbon 
+release. Such impacts would threaten millions of human lives, displace hundreds of 
+millions, and fuel resource conflicts. 
+Meanwhile, EMDCs other than China face significant financial shortfalls amid 
+unfulfilled Sustainable Development Goals. Since 2019, the combined impacts of COVID-
+19, conflicts, climate-related disruptions and inequality have pushed an additional 23 
+million people into extreme poverty and over 100 million into hunger (UN, 2024). Economic 
+growth per capita in half of the world’s most vulnerable nations lags behind advanced 
+economies, reversing earlier progress (ibid.). Furthermore, unprecedented levels of external 
+debt in low- and middle-income countries limit their capacity to invest in crucial climate 
+and development measures. The needs and opportunities are especially significant in these 
+countries: they are the countries that will account for the largest share of the increase in 
+investments needed for a global energy transition, they are the most vulnerable to climate 
+impacts, and they are home to the vast preponderance of the world’s nature and 
+biodiversity resources. 
+Global climate investment to align temperature trajectories with the Paris Agreement 
+goals, foster development and address the needs of the most vulnerable currently falls 
+short of what is required. Insufficient funding is directed towards mitigation, adaptation 
+and nature-based solutions, whereas substantial investments continue to flow into fossil 
+fuel industries and environmentally harmful activities. Although existing economic and 
+political structures have not delivered sustainable or equitable outcomes, climate action 
+offers an opportunity to unlock new, more inclusive and sustainable economic pathways. 
+Developing countries’ latest nationally determined contributions (NDCs) estimate 
+annual financial needs between $455 billion and $584 billion by 2030 (UNFCCC 
+Standing Committee on Finance, 2024). However, these figures likely fall short of the true 
+requirements: they only encompass NDCs with specific costings, which cover around half 
+of the 5,760 costed and non-costed needs to address climate change identified by 98 
+developing countries, plus few current NDCs comprehensively cost the investment needs 
+for accelerated energy transition, planned adaptation actions, loss and damage efforts, 
+nature protection and conservation, or the just transition. 
+In this report, refining the approach used in our previous report, we provide updated 
+estimates of investment needs of what is required for delivery on the Paris Agreement, 
+across five key areas:  
+• Clean energy transition  
+• Adaptation and resilience 
+• Loss and damage 
+• Natural capital  
+• Just transition  
+Our analysis confirms that annual investment of $2.4 trillion per year by 2030 is 
+essential for EMDCs other than China to meet climate goals, more than quadrupling 
+2022 spending.2 By 2035, these investments will need to rise further to $3.1–3.5 trillion 
+annually to maintain the momentum needed – though the pace of increase will be less 
+steep than needed by 2030. Although these targets are ambitious, we believe they are 
+achievable through the steps outlined in Chapter 3. 
+ 
+2 ‘$’ indicates US dollars throughout the report. All figures are in 2023 prices.  
+13 
+ 
+The global landscape of climate investment has seen a substantial uptick in the past 
+three to four years, driven largely by a surge in financing for the energy transition, 
+reflecting promising progress overall (Naran et al., 2024). However, this momentum has 
+been concentrated in advanced economies and China. Despite recent progress, EMDCs 
+other than China accounted for only 8% of the increase in clean energy investment from 
+2019 to 2023 (IEA, 2024a). The gap in adaptation and resilience funding is widening, and 
+EMDCs face significant funding shortfalls, especially in critical areas like sustainable 
+agriculture and biodiversity conservation. Furthermore, aggregate climate investment 
+needs remain vast and require urgent, frontloaded action, particularly in the crucial period 
+between now and 2030, if we are to meet global climate and development goals.  
+We estimate that the global projected investment requirement for climate action is 
+approximately $6.3–6.7 trillion per year by 2030, including $2.7–2.8 trillion in advanced 
+economies, $1.3–1.4 trillion in China, and $2.3–2.5 trillion in EMDCs other than China.3 
+These latter countries will account for almost 45% of the average incremental investment 
+needs from now to 2030 but they have been falling behind, especially Sub-Saharan Africa. 
+This momentum for climate investment must be sustained beyond 2030. Our 
+assessment suggests that the pace of investment growth could moderate after 2030 – if 
+we are able to meet the urgent, frontloaded investment needs of the coming decade. 
+Achieving the required $6.3–6.7 trillion in climate investments per year by 2030 will be 
+critical to setting the foundation for a more stable, manageable trajectory afterwards.  
+The global projected need could reach approximately $7–8.1 trillion per year by 2035, 
+reflecting a plateauing of investments needed in advanced economies and China, and a 
+slower pace of increase in other EMDCs (see Figure 1.1). The balance of investments tilts 
+further to EMDCs, with advanced economies needing $2.6–3.1 trillion, China $1.3–1.5 
+trillion, and EMDCs other than China requiring $3.1–3.5 trillion. These needs are our 
+estimations of what is required for delivery on the Paris Agreement, and the investments 
+will also make a vital contribution to sustainable growth and the achievement of the 
+Sustainable Development Goals. 
+The delay in action to date means we will need to mobilise even larger sums in shorter 
+timeframes to catch up on critical targets. Additionally, investment needs for 
+adaptation and resilience, as well as loss and damage, will rise sharply as climate risks 
+escalate. Closing the gap by 2030 is essential, not only to reduce future financial demands 
+but also to ensure a just and manageable transition towards global climate and 
+development goals. 
+  
+ 
+3 Numbers may not sum to totals due to rounding. 
+14 
+ 
+Figure 1.1. Total climate investment needs by economic regions for 2030 and 2035 
+ 
+ 
+Clean energy transition 
+Achieving a global clean energy transition requires a major step up in investment 
+across advanced economies, China, and EMDCs other than China, reaching around 
+$4.8 trillion per year by 2030 and $5.3 trillion per year by 2035, compared with $1.88 trillion 
+in 2023 and $1.25 trillion in 2019 (IEA, 2024a). Investments in the clean energy transition 
+represent the largest portion of total capital needed for climate action in both 2030 and 
+2035. In contrast with their low share in investment in the past five years, EMDCs other 
+than China will account for almost 50% of the increase in needed clean energy 
+investments in 2035 to meet global climate goals. They will be the driving force of the 
+clean energy transformation. These countries, driven by demographic growth and 
+economic expansion, face rising energy demand and must build energy infrastructure from 
+the ground up to support sustainable development. As such, the commitments made at 
+COP28 to triple global renewable energy capacity and double the rate of energy efficiency 
+improvements by 2030 will require significantly greater investment increases in EMDCs 
+other than China than in both advanced economies and China (IEA, 2024a). 
+ 
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+2022 2030 2035 2022 2030 2035 2022 2030 2035
+Advanced economies China EMDCs other than China
+US$ billion (2023)
+Clean energy transition Adaptation and resilience Loss and damage
+Natural capital Just transition
+15 
+ 
+Figure 1.2. Clean energy investment needs by economic regions for 2030 and 2035 
+ 
+Note: Clean energy investment needs are estimated based on IEA projections, supplemented with additional 
+figures to account for early coal phase-out and just transition-related costs. 
+To stay on track with climate goals, clean energy investment in EMDCs other than 
+China must increase almost fivefold from 2022 to reach $1.6 trillion per year by 2030, 
+rising to between $2.1 trillion per year by 2035 (see Figure 1.2). These targets are based 
+on the projections made by the International Energy Agency (IEA, 2024b) but are slightly 
+higher, as our estimates also cover the costs of early phase-out of coal and other just 
+transition related costs. Currently, much of the investment is concentrated in a few large 
+economies including India and Brazil, while many developing nations and regions face 
+limited investment in clean energy projects due to challenging policy environments, high 
+costs of capital, and lower returns compared with fossil fuel investments. Sub-Saharan 
+Africa receives the least investment despite its vast potential for renewable energy, 
+attracting only $12 per capita in energy transition investments in 2023 – 40 times less than 
+the global average (IRENA, 2024a). Indeed, EMDCs are rich in renewable resources, 
+holding 70% of global solar and wind resources and 50% of critical minerals. This presents 
+an opportunity to build resilient, low-emission power systems and leapfrog traditional 
+energy models (Singh and Bond, 2024). 
+Investment needs vary across regions, with the Middle East requiring up to a 15-fold 
+increase in clean energy spending per year by 2035 from 2022 levels. Despite having 
+some of the highest solar potential globally, the Middle East accounted for around only 1% 
+of clean energy investment in 2023 (IEA, 2024a). Similarly, in Africa, where around 80% of 
+the global population without access to electricity live, clean energy investment increased 
+by only $11 billion from 2019 to 2023. In 2023, the continent attracted just 2% of global 
+clean energy investment (ibid.), highlighting a significant funding gap that demands a 
+sevenfold increase in spending by 2030 and a ninefold increase by 2035. Closing this 
+investment gap could not only drive sustainable development and accelerate the clean 
+
+16 
+ 
+energy transition in these regions but also create a powerful engine for global transition 
+efforts by enabling substantial clean energy exports.  
+A renewables revolution holds the potential to transform regions that have historically 
+lagged behind, especially in Sub-Saharan Africa, where energy transformation could 
+lay the foundation for green industrialisation (G20 TF-CLIMA Group of Experts, 2024; 
+UNECA, 2024). Yet, to truly realise these benefits, the clean energy transition must extend 
+beyond simply replacing fossil fuels. It needs to drive a ’whole-of-economy’ transformation 
+by establishing new industries and value chains that support sustainable, inclusive growth 
+across all sectors. Without this kind of economy-wide shift, the renewable energy 
+transition may fall short of delivering on the broader development goals essential for 
+meaningful progress. 
+Adaptation and resilience 
+Adaptation and resilience remain critically underfunded. As climate impacts intensify, 
+the need for adaptation investment becomes urgent, especially in vulnerable regions 
+already facing high poverty, limited services and governance challenges. Without 
+adequate adaptation investment, these communities risk losing decades of development 
+progress. Despite this urgency, global adaptation finance in 2022 reached only $76 billion – 
+just 5% of total climate finance flows (Naran et al., 2024). Current funding in EMDCs 
+other than China is far below the $200–300 billion needed annually by 2030 and the 
+further $300–400 billion per year by 2035. Adaptation investment must grow and shift 
+from a reactive, incremental, project-based approach to anticipatory, strategic and 
+transformational action, especially in vulnerable and non-market sectors (UNEP, 2024b). 
+Focusing only on technical or easily funded solutions, as in mitigation, will not achieve the 
+needed scale or type of adaptation (ibid.). 
+Loss and damage 
+Loss and damage from climate change are escalating, but estimating the full costs is 
+challenging due to the lack of a universally agreed definition, limited data, and the 
+difficulty in predicting future adverse climate events. In 2022, EMDCs suffered over $109 
+billion in economic losses from major climate events, excluding non-economic impacts like 
+health and cultural heritage losses (Richards et al., 2023). Between 2000 and 2019, 
+Vulnerable Twenty (V20) economies lost around $525 billion due to climate change, 
+averaging $143 billion annually in extreme weather-related costs (V20, 2022). While 
+progress has been made with the creation of the Fund for Responding to Loss and 
+Damage at COP27, which received initial pledges of nearly $700 million at COP28, this 
+funding falls short of the needs of EMDCs other than China, which we estimate to be at 
+least $250 billion per year by 2030 and upwards of $400 billion per year by 2035. 
+Natural capital 
+Investing in nature not only supports climate and development goals but also yields 
+significant economic payoffs. Nature-based solutions such as conservation and 
+sustainable land management could cut emissions by 11.3 billion tonnes of CO₂-equivalent 
+by 2030, comparable to putting a stop to burning oil globally (Griscom et al., 2017) and 
+offering a cost-effective approach that also supports jobs, poverty reduction and food 
+security. In addition, every $1 invested in ecosystem restoration can yield returns of $7–30 
+(Verdone and Seidl, 2017). Sustainable agriculture is particularly critical to simultaneously 
+advance mitigation, adaptation and development objectives. However, funding is 
+insufficient and biased towards advanced economies, despite more than 70% of the 
+investment needs in natural capital being concentrated in EMDCs other than China. To 
+tackle climate change, global investments in natural capital must increase from $46 billion 
+in 2022 (Naran et al., 2024) to $400 billion per year by 2030 and $480–580 billion per year 
+17 
+ 
+by 2035, of which the predominant share must be in EMDCs. Recent international 
+commitments, including the Kunming-Montreal Biodiversity Framework, highlight 
+progress, but accelerated funding and action are critical to protect ecosystems and foster 
+resilience against climate impacts. 
+Just transition 
+A just transition is crucial for an equitable shift to a low-carbon economy, especially in 
+EMDCs, where the impacts of this shift will be felt most acutely. While the transition 
+unlocks significant social and economic opportunities (see section 1.4), it also demands 
+fundamental economic restructuring – disrupting jobs, shifting prices and introducing new 
+standards and regulations. Managing these disruptions is essential to ensure equity, 
+sustain public support, and secure the political commitment needed to reach net zero 
+goals. Achieving a just transition requires investment in people, communities and, in some 
+cases, direct income support. Effective climate finance must prioritise justice and inclusion, 
+ensuring fair resource distribution, addressing historical inequities and engaging 
+marginalised communities. We estimate that global financing needs for the just transition 
+will reach at least $70 billion per year by 2030 and $95 billion per year by 2035.4 Only a few 
+country-specific assessments exist on the investment needed to ensure a just transition. 
+For example, South Africa is estimated to require $10 billion by 2050 to support 
+communities affected by this shift (Blended Finance Taskforce and Centre for 
+Sustainability Transitions, 2022).  
+Figure 1.3 presents our revised assessment of investment requirements in EMDCs other 
+than China, which has been updated further to our 2023 report based on the latest 
+data and a new series of studies. We provide a comprehensive representation of 
+investment needs, both in total and by investment areas, with the energy transition 
+remaining the main component of the investment needs.  
+Figure 1.3. Investment/spending requirements for climate and sustainable 
+development in EMDCs other than China (US$ billion per year by 2030, increment from 
+current in parentheses)
+ 
+ 
+ 
+4 These figures exclude the costs specific to the energy transition (early phase-out of coal and just 
+transition-related costs), which are included in our estimates of clean energy investment needs.  
+
+18 
+ 
+Our estimates of climate investment requirements differ from some other 
+assessments mainly due to variations in sectoral coverage and methodological 
+approaches. For the energy transition, we have based our assessment on the International 
+Energy Agency’s (IEA’s) recent estimates and projections which provide granular 
+information on the financing requirements both for the energy supply and decarbonisation 
+of energy demand. Estimates provided by the Energy Transitions Commission (ETC, 2024) 
+are lower, principally because of differences in coverage. Similarly, the Climate Policy 
+Initiative’s (CPI’s) assessment draws on the available range of studies for key elements of 
+the energy transition (Strinati et al., 2024; UNEP, 2024a), some of which have higher 
+estimates than the IEA, especially for industry.  
+1.2. Uneven gains for rapid cost reductions in clean technology  
+Dramatic declines in clean technology costs are reshaping the global energy 
+landscape. Between 2010 and 2023, the cost of clean energy technologies dropped 
+sharply, establishing renewables as the most cost-effective choice for new power 
+generation in many regions (IRENA, 2024b). Solar photovoltaic (PV) technology, for 
+instance, saw costs fall by 90% from $0.460/kWh in 2010 to just $0.044/kWh in 2023 
+(ibid.). Onshore wind also saw a 70% drop over the same period, making it significantly 
+cheaper than fossil fuels at $0.033/kWh, while offshore wind costs fell by 63%, driven by 
+advances in turbine technology and supply chain efficiencies (ibid.). With China’s rapid 
+expansion in renewable energy capacity, prices (notably of solar panels) continue to 
+decline, with projections suggesting they may soon reach record lows. This downward 
+trend is expected to persist as China’s large-scale capacity growth and strong competition 
+among providers drive further cost reductions, making renewables even more accessible 
+on a global scale. 
+These cost reductions position renewables as a strategic tool for energy security, price 
+stability and sustainability. With renewables now frequently undercutting fossil fuels on 
+costs, investing in solar and wind is not only environmentally sound but also economically 
+wise. This moment provides a unique opportunity for developing countries to bypass 
+traditional energy models and capitalise on the advantages of clean technology. 
+Realising these benefits requires fully tackling integration challenges. Grid upgrades 
+and regulatory reforms are essential to leveraging renewables’ full potential, enhancing 
+energy resilience and reducing dependence on costly and volatile fossil fuels. 
+While global cost reductions in clean technologies are promising, they do not appear 
+to be reaching all regions equally. Weaknesses in supply chains, distribution networks 
+and technical expertise contribute to this disparity, and these challenges are compounded 
+by variations in the cost of capital, which further raise project costs. Limited access to 
+infrastructure like grid systems also slows down the adoption of lower-cost solar and wind 
+technologies. To bridge this gap, targeted financial support and capacity-building 
+initiatives are essential to make clean energy both affordable and accessible where it is 
+needed most. 
+1.3. Unlocking savings and generating employment and economic  
+growth opportunities  
+Robust climate action presents not only an opportunity to mitigate climate risks but 
+also a pathway to significant economic, financial and social benefits, from 
+accelerating growth to fostering resilience and stability. Climate investments can drive 
+powerful multiplier effects through various channels, especially in today’s context of weak 
+global investment demand. Increasing climate-focused investments stimulates 
+19 
+ 
+productivity gains and innovation in critical areas such as energy, cities, land use and 
+transport. Transitioning to a low-carbon, climate-resilient economy further promises 
+significant savings and avoided costs related to environmentally harmful activities. Yet, 
+the long-term benefits of these investments remain under-quantified, even as they 
+contribute directly to a more sustainable economic future. 
+The clean energy transition brings substantial direct economic and financial benefits. 
+Moving to a net zero scenario could save around $500 billion annually by 2030 by reducing 
+fossil fuel investments (IEA, 2023). Additionally, shifting from fossil fuels lowers fuel import 
+and consumption costs – renewable energy additions since 2000 alone saved $409 billion 
+globally in 2023 (IRENA, 2024). Renewable energy also offers vast efficiency gains: nearly 
+two-thirds of fossil fuel energy is lost in production and delivery, costing $4.6 trillion per 
+year (Walter et al., 2024). Renewables reduce this waste, eliminate the need for fossil fuel 
+subsidies – currently $1.5 trillion explicitly and $5.7 trillion implicitly (Black et al., 2023; IISD 
+and OECD, 2024) – and make funds available for sustainable investments.  
+Investing in natural ecosystems also yields direct economic and financial benefits. 
+Harmful subsidies for agriculture, fisheries and forestry drive environmental degradation, 
+costing $1.63 trillion annually (Koplow and Steenblik, 2024). Redirecting these funds could 
+support sustainable practices and ecosystem protection. Sustainable practices also reduce 
+input costs: for instance, the fertilizer markets are projected to reach $241.87 billion by 
+2030 (Statista, 2024). Nature-positive practices such as regenerative agriculture reduce 
+dependency on these inputs, bringing down costs and improving food security. 
+Beyond direct economic and financial savings, all climate investment avoid immense 
+economic and social costs from climate inaction. Economies face mounting climate 
+impacts and insufficient resilience, with social and economic losses from inaction projected 
+to reach at least $1,266 trillion between 2025 and 2100 (Alberti, 2024). Investing in climate 
+adaptation is essential to prevent the economic toll of climate-related disasters, which 
+amounted to $270 billion in losses in 2022 alone (Munich RE, 2024). Strategic adaptation 
+measures, such as climate-resilient infrastructure and early warning systems, offer 
+significant returns, with $1.8 trillion in adaptation investments from 2020–2030 estimated 
+to yield $7.1 trillion in net benefits (Global Commission on Adaptation, 2021). While the 
+magnitude of these avoided costs is large, they are not always fully quantified. The health-
+related savings in particular could be sizeable: air pollution from fossil fuel combustion cost 
+$4.95 trillion in healthcare expenses in 2021 alone (Romanello et al., 2024). Furthermore, 
+clean energy helps avoid stranded assets, preventing unproductive investments in fossil 
+fuel infrastructure. While the size of these stranded assets is difficult to estimate because 
+it depends on different future scenarios and how they would affect the value of the 
+underlying assets, potential stranded fossil fuel assets amount to at least $1 trillion 
+(Semieniuk et al., 2022). 
+As well as reducing losses from climate change, climate investments deliver 
+significant co-benefits, including increased productivity and strengthened social 
+stability. Addressing climate change boosts productivity through the replacement of 
+outdated technologies and practices with cleaner and more efficient technologies and 
+practices. Resilience investments also open up opportunities in high-risk areas: London’s 
+Canary Wharf financial district, for example, depends on flood protection from the 
+Thames Barrier. In low- and middle-income countries, every dollar invested in 
+infrastructure resilience generates $4 in economic returns, highlighting the high value of 
+adaptation investments in vulnerable regions (Hallegatte et al., 2019). Climate action also 
+strengthens social stability by mitigating displacement and economic insecurity driven by 
+climate-related disruptions and biodiversity loss. 
+20 
+ 
+Employment gains from climate action can be transformative. Climate investments 
+generate more jobs per dollar invested than unsustainable alternatives, with net gains 
+potentially reaching 27 million jobs by 2030 (New Climate Economy, 2018). Nature-based 
+solutions, such as ecosystem restoration, can also yield high returns, generating jobs in 
+sustainable tourism and conservation. To ensure these gains reach the most vulnerable, 
+policymakers must prioritise job quality, regional access and gender inclusivity (Lankes et 
+al., 2023). Skills training and support for disadvantaged communities, particularly women, 
+are critical to a fair transition. 
+Climate action is a growth catalyst and can unlock the growth story of the 21st 
+century. Strong climate policies and investment can boost global output, adding as much 
+as $26 trillion to the global economy by 2030 (New Climate Economy, 2018). In Africa 
+alone, the shift to clean energy could increase output by 6.4% between 2021 and 2050 
+(IRENA and AfDB, 2022). While impacts vary by region, climate-focused investments 
+consistently stimulate growth, especially in developing regions, where clean infrastructure 
+investments generate strong multiplier effects across industries. 
+While climate action and poverty reduction often reinforce each other, ensuring that 
+climate benefits reach the most vulnerable requires an integrated policy approach. 
+Effective strategies must catalyse investments in human, natural, physical and social 
+capital to support an inclusive, equitable transition and align climate goals with poverty 
+alleviation efforts (Lankes et al., 2023). 
+The direct savings from clean energy and nature investments could reach 11–18% of 
+global GDP under a conservative estimate, while the savings arising from avoided 
+costs and co-benefits of all climate investments could amount to at least 15–18% of 
+global GDP (Figure 1.4). This transformation carries enormous macroeconomic 
+implications, positioning climate action as a key driver of global economic stability and 
+growth. These benefits and savings will depend on the pace of the transition and accrue 
+over time. The challenge, therefore, is to foster the enabling conditions for the ramp-up  
+of investments and mobilise finance of the right scale, of the right kind and at an 
+affordable cost. 
+ 
+21 
+ 
+Figure 1.4. Potential savings from the shift to a low-carbon, climate-resilient economy 
+per year in 2030 
+ 
+ 
+ 
+0 2 4 6 8 10 12 14 16 18
+Avoided costs and co-benefits (all climate
+investments)
+Direct savings from nature protection and
+conservation
+Direct savings from the shift to low-carbon
+energy in production and use
+US$ trillion
+Low range Upper range
+22 
+ 
+2. Financing pathways to achieve the Paris 
+Agreement goals 
+This chapter examines the current state of global climate finance and the necessary 
+pathways to achieve the Paris Agreement goals. Section 2.1 assesses recent trends, 
+highlighting the growth in climate finance but underscoring the persistent shortfall and 
+imbalances across regions and sectors, particularly for EMDCs. Section 2.2 outlines 
+strategies to scale up financing gap to 2030 and beyond, proposing a coordinated 
+approach that leverages domestic and international sources of finance, mobilises private 
+sector participation, and taps into innovative funding sources to meet the urgent 
+investment needs of a low-carbon, climate-resilient future. 
+2.1. Where are we on climate finance?  
+Global climate finance flows have grown significantly but remain insufficient. Annual 
+investments crossed the trillion-dollar threshold in 2021/22, a milestone attributed to 
+intensified commitments to the low-carbon transition (Naran et al., 2024). However, early 
+estimates for 2023 suggest that while climate finance has continued to increase, it may 
+reach only $1.5–1.6 trillion per year – still far below the levels necessary to meet climate 
+goals (ibid.). This shortfall is further highlighted by the surge in explicit fossil fuel subsidies, 
+which reached $1.5 trillion in 2022 (IISD and OECD, 2024), reflecting a persistent 
+misallocation of resources that hinders sustainable progress. 
+Regional and sectoral imbalances in climate finance allocation reveal serious 
+disparities, in particular from the perspective of EMDCs other than China. In 2022, 
+EMDCs other than China (including least developed countries [LDCs]) attracted only 17% 
+of global climate finance, amounting to $244 billion, while the LDCs on their own received 
+just 3% of total flows (Naran et al., 2024). The predominance of mitigation funding leaves 
+adaptation finance at a mere 5% share, despite notable growth since 2018. Additionally, 
+most investments are concentrated in energy and transport – sectors that together 
+attracted 68% of funding in 2022 – while the agriculture, forestry and other land use 
+(AFOLU) sector remains critically underfunded at only 3%, despite its importance for 
+climate mitigation and biodiversity (ibid.). The focus of finance on traditionally male-
+dominated sectors such as energy and transport means that women-dominated sectors 
+like small-scale agriculture generally lack the finance needed for adaptation and 
+investment in clean technologies.  
+Private sector contributions to climate finance are increasing but remain 
+geographically concentrated. In 2021/22, the private sector accounted for 50% of total 
+climate finance, although most of this was directed to advanced economies, with only 7% 
+benefitting EMDCs other than China (Naran et al., 2024). Additionally, private climate 
+finance mobilised through official development finance is focused on developing countries 
+with higher income levels and mitigation outcomes, similarly to climate finance overall 
+(Taskin et al., 2024). The majority of climate finance is still delivered as debt (60% of total 
+flows), and grants remain limited to just 6% (ibid.). This raises particular concerns for 
+EMDCs that are experiencing high debt stress, as loan-based climate finance can intensify 
+fiscal burdens. Moreover, this approach disproportionately affects women, who face 
+greater barriers to accessing loans (Seema et al., 2021) and bear the brunt of fiscal 
+adjustments (Ghosh, 2021), ultimately limiting their ability to adapt to climate change 
+and engage in the new green economy.  
+Transparency and accountability issues continue to undermine trust in climate finance 
+commitments. Although advanced economies achieved, in 2022, the goal set at COP16 in 
+23 
+ 
+2010 of mobilising $100 billion annually for developing countries (OECD, 2024a), significant 
+concerns remain regarding the transparency of reported versus delivered finance. This lack 
+of clarity complicates the alignment of funds with local priorities and weakens trust in 
+international climate commitments, creating challenges for effective climate action on 
+the ground. Negotiations are underway on the New Collective Quantified Goal (NCQG) on 
+Climate Finance to establish a new, post-2025 climate finance target, with a focus on 
+improving transparency, accountability and responsiveness to the financial needs of 
+developing countries. However, reaching consensus on the scale, timeframe and reporting 
+standards of the NCQG remains a complex task that will be critical to restoring confidence 
+in climate finance systems. 
+The UN-led climate negotiations have made important strides but highlight persistent 
+funding gaps. Since the Paris Agreement, these negotiations have underscored the urgent 
+need to address the financing imperatives of developing nations. Frameworks like the 
+Glasgow Climate Pact and Sharm el-Sheikh Implementation Plan have amplified calls for 
+support. These agreements advocate a reformed and inclusive climate finance system, 
+including operational guidance under Article 2.1(c) to align financial flows with climate 
+goals. The establishment of the Fund for Responding to Loss and Damage at COP27 in 
+2022 marked a major achievement, but significant challenges remain in fully 
+operationalising finance mechanisms to support EMDCs effectively. 
+2.2. Pathways to scaling up climate finance in EMDCs other than China to 
+2030 and beyond 
+EMDCs will face the greatest challenges in mobilising finance at the scale and pace 
+needed. While ramping up climate finance is needed in both advanced economies and 
+EMDCs, the task is much harder in EMDCs. China has considerable investment needs but 
+also a well-developed system of public and private finance to be able to respond. At the 
+same time, LDCs attract the lowest levels of private climate finance and generally have 
+less developed financial systems (Taskin et al., 2024). There is a clear correlation between 
+levels of private climate finance mobilised, financial system development and country 
+income level (ibid.). Our focus, therefore, is on how to meet the financing needs of EMDCs 
+other than China. 
+The large and rapid scale-up of finance to support a big investment push can only be 
+achieved by harnessing all pools of finance.  
+• First, for each strand of finance, it is important to explore ambitious targets consistent 
+with the investment goals but based on credible pathways to deliver the financing.  
+• Second, the approach must utilise the comparative strengths of each strand in 
+financing the different types of investment. Thus, private financing will be well suited 
+to investments with well identified revenue streams such as renewables, multilateral 
+development bank (MDB) finance for long-dated public infrastructure, and highly 
+concessional or debt-free finance for loss and damage or sectors and countries at very 
+high risk.  
+• Third, it will be important to tap the synergies from the different strands of finance to 
+enhance leverage and bring down risks and the cost of capital. MDB finance, financing 
+from multilateral climate funds and bilateral climate finance all play a role in 
+leveraging other sources including private finance, use different types of leveraging 
+instruments with different risk characteristics, and focus on private finance 
+mobilisation in different sectors. There is scope to expand new sources of climate 
+finance, including through South–South cooperation and new ways of mobilising 
+concessional climate finance, in addition to the traditional sources of climate finance 
+24 
+ 
+in the form of bilateral finance from advanced economies, MDB finance and private 
+finance.  
+• Fourth, the full toolbox of financial instruments needs to be used: grants, concessional, 
+debt, guarantees, equity and local currency products. 
+Figure 2.1 presents the mix and scale of domestic and external financing to meet the 
+climate investment goal by 2030 in EMDCs other than China and Figure 2.2 shows the 
+potential mix of financing to meet different investment requirements in these countries. 
+Figure 2.1. Financing climate action in EMDCs other than China by 2030 – matching 
+sources to needs 
+ 
+Figure 2.2. Mobilising the necessary financing for EMDCs other than China ($ billion 
+per year by 2030, increment from current in parentheses)
+ 
+Notes: *Includes household savings. **A significant proportion of this private finance would be directly and 
+indirectly catalysed by MDBs, other development finance institutions and bilateral finance. ***Includes 
+multilateral climate funds. 
+0
+200
+400
+600
+800
+1,000
+1,200
+1,400
+1,600
+Energy transition Adaptation and
+resilience
+Loss and damage Natural capital Just transition
+US$ billion
+Domestic public Domestic private International private MDBs
+Bilateral South South Other concessional
+
+25 
+ 
+Domestic resources, which currently account for around 70% of climate finance, can 
+reasonably finance $1.4 trillion of the total investment need of $2.4 trillion by 2030 and 
+$1.9 trillion of the total investment need of $3.2 trillion by 2035. Of this, around 60% 
+would be domestic public resource mobilisation and around 40% private, including from 
+households and companies. The role of the private sector will be much more important 
+than in the past given the changing nature of investment. Investments in the clean energy 
+transition are now predominantly private and there are greater opportunities even in 
+adaptation and natural capital. Domestic private finance has a leading role to play given 
+the proximity to local project developers and companies, with households also playing a 
+key role. Local development finance institutions (DFIs) also have a critical role in scaling up 
+and crowding in private finance. As shown in Figure 2.2, public resource mobilisation would 
+need to increase by almost three times by 2030 and domestic private finance by seven to 
+eight times. 
+External finance from all sources, international public and private as well as other 
+sources, needs to cover $1 trillion of the total investment need by 2030 and around 
+$1.3 trillion by 2035. As the most rapidly growing component of climate finance over the 
+last five years, MDBs account for about half of international climate finance, and mobilise 
+the vast majority of private climate finance. Given the important direct and catalytic role 
+that MDBs play, the IHLEG and the G20-mandated Independent Expert Group (IEG) on 
+MDB Reform have both argued that financing by the MDBs needs to triple by 2030.  
+There is a credible path to achieve such a tripling. External private finance to EMDCs 
+other than China at present is only around $30 billion. It can and must reach $450–500 
+billion by 2030, an increase of 15 to 18 times. This is the most important task in reaching 
+the $1 trillion needed in external finance and will require a major revamp in approach and 
+partnerships. In particular, the amount of external finance directly and indirectly mobilised 
+by MDBs and bilateral climate finance will have to increase many fold. Bilateral climate 
+finance, which was around $41 billion in 2022, needs to at least double by 2030 given the 
+central role that it plays in supporting priority needs of developing countries and in 
+anchoring the NCQG. The amount of concessional finance within this must more than 
+double given the priority needs. The increased integration of climate action into 
+development finance is a welcome development in this regard (OECD, 2024b). There is 
+also great scope for expanding bilateral DFI lending and export credits. 
+Non-traditional financing sources can play an important role in closing the financing 
+gap. There is tremendous potential for expanding South–South cooperation on climate 
+finance. The comparative advantage and huge capacity of China on clean energy, and the 
+greening of the Belt and Road Initiative (BRI), position China well to provide developing 
+countries with critically needed support in deploying the lowest cost of available 
+technologies and at a reasonable cost of finance. Some other emerging market leaders 
+such as India and Brazil can also make an important contribution. High-income and 
+upper-middle-income countries should also contribute to expanding low-cost climate 
+finance, including through the MDBs and the multilateral climate funds. Finally, the larger 
+DFIs such as the Brazilian development bank BNDES and the Development Bank of South 
+Africa can expand financing in their own regions. 
+New sources of concessional finance will need to be pursued given the large 
+prospective needs. Bilateral climate finance will not be sufficient to meet the total need 
+for concessional finance. These prospective sources include voluntary carbon markets, use 
+of special drawing rights (SDRs), solidarity levies on internationally polluting activities, 
+other international taxes, debt swaps and private philanthropy. This could raise around 
+$150 billion in additional revenues by 2030, an increase of 10 to 15 times from current levels 
+(see further Section 3.7). 
+26 
+ 
+Building a climate finance system that meets the test of both scale and quality 
+requires shifting beyond a traditional focus on mobilising funding to prioritising 
+impact and systemic change. This approach calls for climate finance that is not only 
+scaled up but also accessible, predictable, affordable and transparent, to drive meaningful 
+outcomes. In addition, this framework must be rooted in the principles of justice and 
+inclusion, ensuring that resources are equitably distributed, historical responsibilities are 
+acknowledged, and diverse stakeholders, particularly marginalised communities, are 
+included in decision-making. Increased attention to gender equality is crucial for climate 
+finance that effectively addresses the different constraints, challenges and opportunities 
+for men and women. Agreement and implementation of Article 2.1(c) of the Paris 
+Agreement, which requires “finance flows [to be] consistent with a pathway towards low 
+greenhouse gas emissions and climate-resilient development”, can give powerful impetus 
+to making the climate finance architecture more effective.  
+A fit-for-purpose climate finance agenda has important implications for the New 
+Collective Quantified Goal on Climate Finance. As set out here, such a framework must 
+bring together the different strands of finance to deliver on the Paris Agreement and 
+related Sustainable Development Goals. In terms of the scale of ambition, per year, 
+around $2.4 trillion of climate finance will be needed by 2030 and around $3.3 trillion by 
+2035. With a major push on domestic resource mobilisation, per year, at least $1 trillion of 
+external finance must be mobilised by 2030 and around $1.3 trillion by 2035. To deliver on 
+this, ambitious but credible targets will be needed for private cross-border finance, 
+multilateral climate finance including from MDBs, and especially for bilateral climate 
+finance. There must also be an explicit recognition of the need to mobilise other sources of 
+concessional finance. These targets should foster synergies and incentives to leverage 
+private finance especially, in order to achieve scale and effectiveness. The target for 
+finance to be provided and mobilised by developed countries should be consistent with the 
+larger goals. It too should be based on principles of accountability and transparency.  
+Agreement on the NCQG is a matter for the Parties. This framework provides the key 
+conceptual and practical set of numbers for climate finance and can inform discussions 
+about the NCQG, with its overall external finance of $1 trillion per year to EMDCs other 
+than China by 2030, and its basic elements of private, MDB, bilateral and other 
+concessional flows. These numbers come from a transparent and deductive analysis of the 
+finance required for the investments that will be necessary for delivery of the Paris 
+Agreement targets. Without these investments in EMDCs other than China, the world will 
+fail to achieve those goals. To deliver the $1 trillion of external finance, ambitious but 
+credible targets will be required for the different strands, recognising the need for synergies 
+and leveraging power to achieve scale and effectiveness. The tripling of MDB finance, for 
+example, is crucial to scaling up private finance and reducing the cost of capital. This 
+framework and the key elements within it should be the main focus of the NCQG. 
+Within this larger framework, advanced economies need to demonstrate a credible 
+commitment, including through the NCQG, to provide and mobilise the finance 
+needed for climate action in developing countries. This would entail a tripling of the 
+$100 billion annual commitment made at COP16 for 2020, and reaffirmed and extended to 
+2025 at COP21 in 2015. Other stakeholders also need to come forward with ambitious 
+commitments, including the MDBs, the private sector, and developing countries that are in 
+a position to provide support. Indeed, South–South cooperation between EMDCs is already 
+making a significant contribution and there is great scope for enhanced support and 
+financing from leading developing countries. All commitments should be based on 
+accountability and transparency, with clear objectives on both the quantity and quality of 
+the finance to be provided. 
+27 
+ 
+3. Accelerating delivery of the action agenda on 
+climate finance 
+Momentum has been building on the climate finance agenda since COP26. COP26, 
+COP27 and COP28 all made climate finance a central priority, with the IHLEG providing 
+independent input on the climate finance agenda. The Global Climate Finance Framework 
+launched by the UAE COP28 Presidency in 2023 and supported by the IHLEG set out an 
+action agenda to deliver adequate, accessible and affordable climate finance that has 
+been endorsed by an important coalition of world leaders. Since then, the COP28 
+Presidency has convened key stakeholders on the implementation of the agenda in 
+partnership with the IHLEG.  
+COP29 and COP30 will be crucial in taking forward this climate finance agenda with 
+the need to agree on the New Collective Quantified Goal, launch a new round of 
+ambitious NDCs in 2025, and accelerate the implementation of the agenda set out in the 
+Global Climate Finance Framework. Other opportunities in 2025 include the Financing for 
+Development conference in June, and the G20 agenda under the South African Presidency 
+with its summit in Rio de Janeiro.  
+A big push is required on three priorities: (i) to prepare and implement high-quality 
+investments; (ii) to put in place the necessary macroeconomic and sectoral policy and 
+institutional reforms and tackle the severe constraints facing many countries due to high 
+debt and limited fiscal space; and (iii) to mobilise finance at scale and improve access to 
+affordable capital. This chapter reviews the key elements of this action agenda after first 
+setting out some of the main stakeholder groups. 
+3.1. Key stakeholders in delivering the climate finance agenda 
+Climate finance now features prominently in all key international discussions, 
+including the UN, the G20 the international finance institutions (IFIs) and the  
+private sector. 
+The G20 has put climate and climate finance at the centre of its agenda. The Brazilian 
+G20 Presidency launched a Task Force for the Global Mobilization Against Climate 
+Change (‘TF-Clima’) to promote a high-level dialogue among governments, financial 
+institutions and international organisms to enhance global macroeconomic and financial 
+alignment to implement the goals of the Paris Agreement. An important aspect was 
+bringing together Ministries of Environment, Finance and Foreign Affairs with a wide range 
+of stakeholders. An action agenda emerging from TF-Clima will be adopted by G20 
+Leaders in November 2024. The Brazilian G20 Presidency also commissioned an expert 
+group that published its report A Green and Just Planet in October 2024 (G20 TF-Clima 
+Group of Experts, 2024). 
+Central banks, regulators and finance ministries have also come together strongly on 
+the climate action agenda. The Network for Greening the Financial System (NGFS), 
+which has enlarged to 141 members comprising central banks and regulators, and the 
+Coalition of Finance Ministers for Climate Action (CFMCA), which now comprises finance 
+ministries from 95 countries, have become important networks to build consensus and 
+ambition on the climate action agenda. The CFMCA presented its second joint Climate 
+Action Statement (CAS) at its October Ministerial, with over 60 members setting out 
+nearly 500 climate actions covering climate policy coordination and strategic economic 
+planning, the scaling-up of green finance, implementing carbon pricing, phasing out 
+28 
+ 
+inefficient subsidies, and addressing macroeconomic climate and nature risks and 
+financing gaps. 
+Several other important coalitions have also emerged to identify and pursue priorities 
+for action. These include the Bridgetown Initiative, with Bridgetown 3.0 launched in 
+September 2024, the Paris Pact for People and the Planet (4P) with a permanent 
+secretariat now established at the Organisation for Economic Co-operation and 
+Development (OECD), the Nairobi Declaration of the Africa Climate Summit, and the V20 
+action agenda. These have led to some other initiatives such as the Expert Review on Debt, 
+Nature and Climate launched by Colombia, Kenya, France and Germany, and the Global 
+Solidarity Levies Task Force led by Barbados, France and Kenya.  
+Further key stakeholders, including the MDBs and public development banks more 
+broadly, the private sector and private philanthropy, are all engaged in ramping up 
+progress on the climate finance agenda. In addition to the UNFCCC, other parts of the 
+UN and the international finance institutions (IFIs) have a crucial role to play in advancing 
+the climate finance agenda. There is a big push underway on MDB reform with support for 
+climate action and finance at the centre. The Finance in Common Summit that brings 
+together all public development banks has also made climate finance a central priority.  
+The International Monetary Fund (IMF) and the OECD are also playing major roles in 
+advancing the climate finance agenda in their respective spheres. Several private sector 
+coalitions and institutions are engaged on how to bolster private sector engagement and 
+mobilise private finance for climate action, especially in EMDCs; these include the Glasgow 
+Financial Alliance for Net Zero (GFANZ), Global Investors for Sustainable Development 
+(GISD) Alliance, Sustainable Markets Initiative (SMI), Investor Leadership Network (ILN) 
+and the World Economic Forum (WEF). Other initiatives include the Green Guarantee 
+Group launched by the German government at COP28 to better understand and promote 
+the use of guarantees. Private philanthropy is also now much more systematically 
+engaged on climate finance and its own role. Finally, think tanks, academic institutions 
+and civil society organisations across the world are contributing to the assessment of 
+progress and the agenda for further action. 
+Recognising the need to bring together these different strands and stakeholders 
+around a shared and ambitious agenda, the UN Climate Change Executive Secretary 
+in partnership with the IHLEG convened two roundtables to take stock of and impart 
+momentum on the climate finance action agenda. Taking place in June 2024 in Bonn 
+and in September in New York, an important outcome was an integrated action agenda to 
+provide the basis for continued engagement with key stakeholders on progress and 
+priorities for action with a focus on upcoming deliverables. As described in Chapter 4, it is 
+complemented by a more systematic monitoring and tracking effort in partnership with 
+the Climate Policy Initiative (CPI). 
+3.2. Unlocking climate investment at scale 
+All EMDCs need to foster and scale up climate investments. As our last report 
+underlined, scaling up climate finance cannot happen without ramping up investment 
+programmes and projects, and this requires concerted actions on three fronts:  
+• First, countries must set out well articulated strategies and transition plans to provide 
+clear direction, including to the private sector. The upcoming round of NDCs provides 
+an excellent opportunity to set out well defined investment and financing plans that 
+can deliver on climate goals and are anchored in national development strategies and 
+plans. Countries must take a holistic approach that considers the links between 
+29 
+ 
+climate and development and sets out clear implementation strategies and monitoring 
+systems. This must include strong understanding of and plans for a just transition. 
+• Second, countries must put in place and strengthen institutional structures for 
+translating strategies into tangible investment programmes and project pipelines.  
+EMDC governments should lead on co-creation of investment programmes in key 
+sectors with the private sector and development finance institutions. Emerging good 
+practice such as the GFANZ-BNDES partnership in Brazil needs to be replicated. Project 
+preparation facilities should be scaled up by expanding the Global Infrastructure 
+Facility and harnessing new private sector initiatives. One-stop-shop facilities and 
+initiatives to connect project opportunities with investors can help unlock private 
+finance. 
+• Third, countries need to pursue sustained policy and institutional reforms to tackle 
+barriers to investment and incentivise the shift to low-carbon climate-resilient 
+development. In partnership with DFIs and the private sector, countries must identify 
+and tackle binding constraints focused on priority sectors such as the expansion of 
+renewables. They must deploy a mix of policies to accelerate transitions in critical 
+systems such as energy and food, including carbon pricing, labelling, regulations, feed-
+in tariffs, subsidies and direct investments. They must streamline planning and 
+permitting while adhering to strong environmental and social safeguards. While many 
+EMDCs have started along this path, deploying explicit carbon taxes and emissions 
+trading schemes, coverage and prices vary widely and must be strengthened to 
+maximise the level and impact of investments. 
+Country platforms, led and owned by countries with the involvement of all 
+stakeholders including DFIs and the private sector, can create the basis to unlock 
+investments and to accelerate and scale up climate finance with transformational 
+impact. There is a growing momentum on the adoption and implementation of country 
+platforms. The Brazilian G20 Presidency has put particular emphasis on country platforms 
+as a powerful instrument to enhance collaboration and attract private investment and 
+finance, with Brazil launching its own country platform supporting its Ecological Transition 
+Plan in October 2024. There are now several countries with ongoing platforms focused on 
+sector transitions and climate resilience, including Egypt, Indonesia, Senegal, South Africa 
+and Vietnam. Lessons from these country platforms can help the development of a new 
+generation of country/sector platforms. Strong involvement and support from the MDBs 
+and development partners, combined with the early engagement of the private sector, is 
+of vital importance. Robust financing packages including sufficient concessional financing 
+and predictable long-term financing are crucial to implementing ambitious investment 
+and transition plans.  
+This whole agenda will require stronger and better coordinated efforts to build capacity 
+across all levels of institutions. 
+3.3. Managing debt and fiscal space 
+Public debt in EMDCs has risen following the sharp currency depreciations and modest 
+increase in fiscal deficits as governments responded to COVID-19 and concurrent 
+energy and food crises. At the same time, the creditworthiness of many developing 
+countries declined in 2023 and 2024, when their ability to refinance bunched maturity 
+repayments on private bonds and loans became more difficult. No developing country 
+issued a new bond on global markets in 2023. There are 117 EMDCs with readily available or 
+inferable public long-term credit ratings, all but 12 of which have credit ratings that are 
+worse than investment grade. These countries have faced tighter global capital markets in 
+30 
+ 
+the last two years with higher interest rates, lower risk tolerance and a flight to quality 
+(Kharas and Rivard, 2024). Many low-income countries are particularly vulnerable to being 
+shut out or priced out of global capital markets (Mawejje, 2024). 
+Elevated debt burden presents finance ministers with a dilemma – retrench fiscally or 
+increase mitigation and adaptation spending. Retrenching fiscally is the typical 
+recommendation of international financial institutions on how to manage debt distress. 
+But they would then not have the fiscal space to invest in the green transition and a 
+pathway to growth, nor in adaptation and resilience measures that could reduce the 
+damage done by climate change. A climate-induced natural disaster would leave them 
+vulnerable to further debt distress. The alternative, to scale up mitigation and adaptation 
+spending, could increase debt risks.  
+Between these two extremes are many possible pathways. Strong institutional 
+structures for managing public debt can create the pre-conditions for moving forward 
+with a debt-financed investment push. Countries with well-prepared investment 
+programmes and a capacity for effective implementation can more readily pursue an 
+investment push while managing debt burdens in the long run. When the investments 
+enjoy a sound financial rate of return, as in many renewable energy generation projects, 
+creditworthiness is improved even if indebtedness is temporarily raised. This effect is 
+amplified if countries can access low-cost, long-term financing for such projects, for 
+example from multilateral or other official financial institutions. Kharas and Rivard (2022) 
+show scenarios in which countries with access to such financing for scaled-up climate-
+positive investments achieve stronger growth paths and better creditworthiness compared 
+with ‘business as usual’ scenarios. According to the interim report of the Independent 
+Expert Group on Debt, Nature and Climate (2024), a green growth model is feasible and 
+sustainable, but achieving this virtuous circle will require a step change in financing. 
+Reaching agreement with international financial institutions on affordable medium-term 
+expenditure frameworks that incorporate sound growth, investment and transformation 
+programmes is critical. 
+A structured approach to providing financing solutions to countries with different 
+circumstances will be needed. One such approach that is gathering support is the so-
+called ‘bridge’ proposal (see also Diwan et al., 2024). Under this approach, countries 
+would prepare and implement sound, bankable projects and enact strong policy and 
+regulatory reforms to ensure high financial and economic rates of return. International 
+financial institutions would provide scaled-up access to affordable, long-term finance to 
+support such proposals and would mobilise private finance where appropriate. The 
+approach would require a strengthening of the MDBs, a process that is underway based on 
+a series of recommendations and Roadmap of reform endorsed by the G20.  
+Higher levels of project finance will, however, leave a country more exposed to 
+liquidity risk in the event of a sudden shock. Automatic mechanisms to provide 
+temporary debt relief in circumstances such as a large natural disaster, for example, are 
+therefore valuable buffers to strengthen the approach. Encouragingly, state-contingent 
+debt clauses are already being used more widely, including by multilateral financial 
+institutions.  
+Some countries may not have the capacity for a large scale-up of project 
+identification and implementation. Where these countries also have crushing debt 
+burdens, there is a need for an orderly resolution of the debt, to maintain political and 
+social stability. The Global Sovereign Debt Roundtable has taken steps to shorten the time 
+to resolve debt negotiations within the Common Framework for Debt Treatments, with 
+some positive results so far. Expeditious support from the IMF, such as from the Poverty 
+Reduction and Growth Trust (PRGT) and Resilience and Sustainability Trust (RST) (see 
+31 
+ 
+Section 3.8), including measures to protect investment programmes from fiscal austerity, 
+and access to International Development Association (IDA) and other concessional 
+resources, are important elements of the financing solutions to restore debt sustainability 
+in some low-income countries.  
+It is also essential to tackle the vicious cycle between climate and debt vulnerability, 
+particularly in low-income countries. Streamlining the G20 Common Framework for debt 
+treatments (CF) will make debt restructuring easier for countries that need it. Bilateral 
+donors and IFIs could scale up concessional financing to enable climate-vulnerable 
+countries to invest in adaptation, offset loss and damage, and restore nature loss. 
+Innovative solutions to provide debt relief and release fiscal space, beyond the 
+restructuring process, provide additional support. Debt to support high-growth 
+investments can improve creditworthiness over time and should be built into fiscally 
+responsible IMF programmes. The IMF could also provide enhanced financial safety nets to 
+climate-vulnerable countries.  
+Finally, Debt Sustainability Assessments (DSAs) will need to consider how climate 
+affects financial risks – the potential for damage as well as the returns from adaptation 
+investments that improve future opportunities and growth prospects for developing 
+countries. Climate risks span physical and transition risks. Investing in climate action 
+enables economic transformation, reduces the impact of climate risks and generates 
+savings from reduced loss and damage and restoration of natural capital. Extending DSAs 
+to cover longer-term scenarios could better reflect these growth multipliers. DSAs can then 
+highlight the value of mobilising affordable finance, which will require international 
+support, to better assist an investment push consistent with achieving long-term fiscal 
+sustainability.  
+3.4. The imperative to boost domestic resource mobilisation 
+While a very large proportion of climate finance will be from the private sector, public 
+domestic resource mobilisation (DRM) will be foundational. More than one-third of the 
+incremental financing for climate action in EMDCs (other than China) is expected to come 
+from public DRM. The World Bank (2023a) estimates that an additional 2.7 percentage 
+points of GDP will need to be mobilised domestically to meet the required level of climate 
+financing by 2030: this would create significant fiscal space to boost investment in climate 
+action. To do so will require tapping the significant scope for DRM through taxation and 
+public spending reforms, making greater use of carbon pricing and more effective 
+international tax cooperation to contain tax base erosion and profit-shifting. 
+Increasing tax revenues must be the central pillar of DRM, and there is major scope to 
+raise tax revenues in many EMDCs. The IMF (2024) estimates that developing countries 
+have an average tax gap of 9% of GDP, so that intensified domestic taxation reforms 
+would have a high upside potential. Common measures include broadening tax bases, 
+improving the progressivity of taxation, and raising tax compliance through administrative 
+reforms and digitalisation of tax and customs administration. In addition, more should be 
+done to improve the efficiency of public spending management. In this context, the IMF 
+and World Bank Group (2024) jointly launched an initiative to provide systemic capacity-
+building support to developing countries to strengthen tax capacity and improve public 
+expenditure management. 
+Carbon pricing provides tremendous potential to raise revenues during the transition 
+while efficiently providing incentives to reduce emissions. Its implementation will require 
+addressing distributional concerns, however. Explicit carbon taxes and emissions trading 
+systems (ETS) are the two most common forms of carbon pricing. Between 2015 and 2023, 
+their coverage of global greenhouse gas emissions doubled to 23%, and the average price 
+32 
+ 
+across carbon pricing instruments increased from $7 to $20 per tonne, but coverage and 
+prices vary widely across jurisdictions. There is significant scope for countries to improve 
+the coverage and price of carbon pricing instruments to address climate change. Carbon 
+pricing can generate potentially high revenues: middle-income countries can raise 
+revenues of 0.5–1.5% of GDP with a $50 carbon price and low-income/lower-middle-
+income countries revenues can raise around 1–1.5% of GDP with a $25 carbon price (IMF, 
+2024). Globally, potential annual revenue would be around $1.4 trillion by 2030. 
+In addition, the elimination of harmful subsidies has huge payoffs in reducing 
+environmental damage and mobilising public revenues. The IMF estimates that fossil 
+fuel subsidies amounted to 7% of global GDP in 2022 (Black et al., 2023). The World Bank 
+also documents the high levels of environmentally harmful subsidies to the fisheries and 
+agricultural sectors. Phasing out harmful subsidies should be pursued, but this will have to 
+be accompanied by compensation and social protection measures for vulnerable groups 
+affected by increased energy prices and loss of subsidies. 
+All of these measures will require strong international tax cooperation. Cooperating on 
+tax measures globally will also need to give greater consideration to raising the revenues 
+accruing to developing countries, which have so far been relatively modest. Recent 
+initiatives led by the OECD on country-by-country reporting and automatic exchange of 
+information, and the introduction of the global minimum tax of 15%, are significant efforts 
+to tax multinationals more effectively and have led to the decline of offshore tax evasion 
+and profit-shifting. More could be done, however, to improve their revenue-raising 
+potential for developing countries, including through increasing the global minimum tax. 
+Ongoing discussion topics at the G20 include globally coordinated taxation of the super-
+rich (G20, 2024). If implemented, revenue-sharing agreements will be needed to support 
+developing countries to achieve their climate and development objectives. The ongoing 
+effort to put in place a UN Tax Convention (UN, 2024) promises to provide a forum in 
+which greater consideration can be given to enhancing the revenues that could accrue to 
+developing countries.  
+3.5. Creating a new highway for private finance and tackling the cost  
+of capital 
+Reducing the cost of capital 
+The cost of capital is significantly higher in EMDCs than in advanced economies. In 
+2022, in a sample of countries, the weighted cost of capital for solar PV investments, for 
+example, was at least twice as high in EMDCs (other than China), averaging 9–12% 
+compared with 5–6% in advanced economies (IEA, 2024c). Economy-wide estimates of 
+the cost of capital show similar magnitudes of difference between advanced economies 
+and EMDCs. For some low-income countries the cost of capital can be five times that of 
+advanced economies.  
+The cost of capital is especially important for clean energy projects. These projects are 
+generally capital-intensive and/or require significant upfront capital outlays; thus, the cost 
+of capital is a key factor in these investments. Utility-scale solar and wind investments are 
+very capital-intensive although they have low operating costs. Moreover, these 
+investments are up to 75% debt-financed. Investments in transmission and distribution 
+grids are also very capital-intensive. For independent power transmission projects in the 
+form of public–private partnerships, the cost of capital can be of particular importance 
+since the remuneration is fixed by the regulators. Battery storage is a third category of 
+investment that is both highly capital-intensive and also highly leveraged. In fact, the cost 
+of capital plays a very significant role in almost 40% of the investments in clean energy 
+33 
+ 
+needed in EMDCs during the next 10 years to achieve the IEA’s net zero emissions by 2050 
+(NZE) scenario, and a relatively significant role in another 17% of the investments needed 
+(IEA, 2024c).  
+The higher risk premium in EMDCs reflects investors’ assessments of two broad sets of 
+risks: the first is country-level or macroeconomic risks that apply to any investment in a 
+particular jurisdiction, and the second is sector- or project-specific risks that are an add-on 
+to any country-level risks. A 2023 survey undertaken by the IEA on investor concerns in 
+investing in clean energy projects in a sample of EMDCs identified political, currency, 
+regulatory, off-taker and transmission risks (the latter two types being sector-specific) as 
+the five key elements that need to be addressed to reduce the cost of capital in EMDCs. 
+Among these, macroeconomic risks, namely sovereign, political and currency risks, were 
+stated most frequently as being the top three types of risk. A separate analysis that breaks 
+down the required rate of return for equity and debt, and estimates a “climate investment 
+rate risk premium” for solar projects in a wide sample of advanced economies and EMDCs, 
+finds that the average required cost of debt is around 6% in advanced economies, 
+compared with 21% in EMDCs, while the average required rate of return to equity is 12% in 
+advanced economies and 27% in EMDCs (Gautam et al., 2023). The estimated “climate 
+investment risk premium” averages only 4.6% in advanced economies, while in EMDCs the 
+corresponding average is 15% (ibid.). 
+Reducing the costs of capital will require a combination of measures at the 
+international and country levels to reduce both actual and perceived risks. The 
+provision, composition and structure of blended finance and other de-risking mechanisms 
+will depend on factors such as the phase of project development, project scale, the 
+maturity and nature of the technology, the level of capital market development and 
+macroeconomic conditions and their attendant risks. At the same time, policies and 
+measures are needed at the country level to strengthen the macroeconomic conditions 
+and the investment climate, develop domestic capital markets and adopt appropriate 
+regulatory and legal frameworks. By reducing the risk premium required by investors, these 
+measures would help lower the cost of capital.  
+Data- and information-sharing is another important element in reducing the cost of 
+capital as investors’ perceived risks of investing in EMDCs are often higher than the 
+actual realised risks of projects. Data-sharing by project operators on project 
+performance, for instance, can help lower these perceived risks; so too can providing credit 
+information (such as default and recovery rates) on sovereign, semi-sovereign and private 
+loans in emerging markets (such as the information provided through the Global Emerging 
+Markets Risk database [GEMs]). 
+A lower cost of capital in EMDCs will be key to enabling the requisite climate 
+investments and facilitating the global energy transition. The IEA has calculated that a 
+1-percentage point reduction in the cost of capital would result in reducing average clean 
+energy financing costs by $150 billion per year. In turn this reduction would represent a 10–
+20% decrease in the cost of capital across sectors compared with current values. In part, 
+this large impact is due to the large weight the cost of capital has on solar PV and wind 
+energy production and the fact that these two sources of energy represent 15% of the 
+investment needs in the NZE scenario. A 2-percentage point reduction could double this 
+reduction to $300 billion.  
+Mobilising private finance at scale 
+Mobilising at least $1 trillion a year of private capital for climate action in EMDCs by 
+2030 is a critical lever to drive global growth and sustainable development. Action to 
+unlock this volume of private capital – both domestic and external – has gained 
+34 
+ 
+momentum in recent years, especially since COP26, and there are many good examples of 
+progress. Climate and transition finance opportunities in EMDCs are becoming increasingly 
+attractive to the private sector as technology tipping points reduce the cost of low-
+carbon, nature-positive solutions and the scale of the opportunity becomes clearer. This  
+is especially true in the power system. Over the next 10 years, EMDCs should account for 
+over 60% of the absolute increase in clean energy, creating outsized opportunities for 
+private finance.  
+Despite growing momentum, volumes of private capital flowing to EMDCs are still far 
+too low: the challenge is one of both speed and scale. In 2021–22, only $15 billion of 
+international private investment went to climate action in EMDCs, less than 5% of what is 
+needed (Buchner et al., 2023). Rising interest rates in the large economies and a stronger 
+dollar have also driven significant capital outflows from EMDC stocks and bonds in recent 
+years, leading to low portfolio allocations from institutional investors. Where they are 
+investing, it is often not in green: environment, social and governance (ESG)-focused 
+funds allocate significantly fewer resources to EMDC assets, often comprising only 6% of 
+their portfolios as these tend to have lower ESG scores (IMF, 2022). Meanwhile, less than 
+1% of domestic private capital is invested in climate action due to a range of policy and 
+capacity barriers. Increasing the breadth and depth of private capital is one of the most 
+important, but hardest, actions for climate finance.   
+These numbers are even poorer when disaggregating for Least Developed Countries 
+(LDCs): private capital represents less than 10% of total climate finance in LDCs, 
+compared with 50% for other EMDCs (Naran et al., 2024). Mobilisation rates in low-
+income and lower-middle-income countries are also very low – in 2023 only $8 billion of 
+direct private capital was mobilised out of total MDB lending of $75 billion. LDCs also 
+accounted for less than 10% of private climate finance mobilised through official 
+development finance interventions, compared with 57% for upper-middle-income 
+countries and 34% for lower-middle-income countries (Taskin et al., 2024). For a majority 
+of EMDCs – including LDCs – a lack of an investable pipeline, the high cost and limited 
+availability of capital, low levels of financial sector development and regulatory barriers 
+remain significant impediments to unlocking more private investment.  
+Urgent, coordinated action is needed to tackle these impediments.  
+Firstly, the public and private sector need to strengthen collaboration to develop 
+sectoral investment plans and co-create project pipelines. The adoption of transition 
+finance frameworks and NDC investment plans offers an opportunity to collaborate and 
+tackle policy bottlenecks; they are an important way to signal investment opportunities 
+and policy priorities to the private sector and give certainty around critical issues like 
+planning, permitting and procurement. Country platforms are also a powerful way to 
+engage investors around sectoral planning. With the early involvement of the private 
+sector, country platforms have already helped update local content rules and prioritise grid 
+finance solutions. Refreshing the institutional architecture for project preparation is also 
+critical. Project preparation funding can typically leverage 20 to 50 times the initial 
+investment and existing facilities should be scaled up urgently, alongside greater 
+engagement with national and regional development banks which are important project 
+originators. Accelerating partnerships between private and philanthropic organisations to 
+take on some of the early development costs can also help increase the number of 
+bankable climate deals which get to close.  
+Secondly, scaling up and replicating more effective risk-sharing mechanisms and 
+credit enhancement can help improve the availability and reduce the cost of capital in 
+EMDCs. Addressing foreign exchange risk is particularly important to mobilise international 
+capital for renewables where investment is typically in dollars but revenues are in local 
+35 
+ 
+currency. Expanding local currency lending can also help manage FX exposure. However, 
+local currency offerings remain modest, representing less than 5% of total development 
+finance, so scaling up affordable hedging solutions and other innovative mechanisms to 
+manage currency risk remains crucial. Increasing the use of green guarantees and first loss 
+equity can also help address investor risks (both macro and micro), providing the credit 
+enhancement needed to unlock private capital for EMDC transactions; these are an 
+important part of the toolkit to reduce the cost of capital. On average, guarantees 
+mobilise five to six times more private finance than traditional loans, which explains why 
+they have received growing attention in the climate space.  
+The World Bank has committed to triple its guarantee capacity by increasing the size 
+of the Multilateral Investment Guarantee Agency (MIGA) to $20 billion by 2030. 
+Furthermore, several new guarantee companies have been launched, many in local 
+currency, which demonstrates the demand for catalytic instruments that can tackle 
+certain macro risks, and the growing focus on mobilising domestic capital. These 
+guarantees, along with other blended finance tools, should be targeted to mitigate 
+specific risks across the investment lifecycle, from early-stage project development to the 
+secondaries market. There has been some progress on ensuring that the treatment of risk-
+sharing products (especially guarantees) is compliant with Basel III capital adequacy 
+requirements and other regulations; this must be standardised to ensure these de-risking 
+mechanisms provide the appropriate credit enhancement. Proposals to turn MDB A/B 
+loans into a recognised asset class should also be explored. Standardising and scaling up 
+insurance mechanisms can help unlock investment in adaptation projects, which usually 
+generate savings rather than revenue and are chronically underfunded. 
+It will also be important to take into account the lower risks associated with MDB 
+lending and guarantees. At present, the de-risking effect of MDB guarantees is not taken 
+into account by credit rating agencies as MDBs have a probability of default roughly three 
+times lower than commercial lenders from the same borrowers (0.37% compared with 
+1.13% for bank loans and 1.37% for sovereign bonds [Paris Pact for People and the Planet 
+/4P, 2024]). Political momentum on this issue is growing, and in September 2023 16 heads 
+of states committed in a joint 4P Leaders Communiqué to establish a roadmap and 
+constructive dialogue with credit rating agencies, regulators, governments, investors and 
+other relevant stakeholders to enhance the transparency and accuracy of credit ratings 
+and country risks assessments. 4P is now establishing a coalition to implement this 
+commitment.  
+Along with the use of de-risking and credit enhancement mechanisms like first loss, 
+liquidity facilities, guarantees and hedging, MDBs can play an outsized role in 
+unlocking institutional capital by securitising assets off their balance sheets (originate-
+to-share) and developing large-ticket, long-term, liquid/investment grade products in risk-
+diversified portfolios for pension funds. Sharing the historical performance and default 
+rates of these assets/portfolios can help demonstrate that the perceived risk of EMDCs is 
+typically much higher than actual risk, reinforcing the importance of transparent, timely 
+and shared data. More broadly, different blended finance instruments and approaches  
+can play complementary roles in mobilising private finance towards climate action. In  
+the context of the high adaptation financing needs, blended finance can be particularly 
+promising in driving private finance towards key adaptation areas, based on the 
+specificities of the respective sectors, and the financing and development context  
+(OECD, 2024c). 
+Thirdly, revamping the financial system can help create a virtuous cycle for private 
+capital mobilisation in EMDCs. The most immediate priority is to shift domestic financial 
+systems to support green investments, encouraging local banks to work in partnership 
+36 
+ 
+with MDBs and DFIs to unlock larger lending volumes, especially for renewables, and then 
+develop the right financing structures to aggregate projects and access capital markets. 
+Clean energy transitions require leadership from governments and state-owned enterprises 
+to attract private capital that can complement public funding. Domestic banks should 
+establish partnerships with international and development banks to significantly increase 
+financing for renewable energy projects, looking at countries such as India for successful 
+models to replicate. Increasing cross-border flows is also critical to achieving the scale of 
+private finance needed. Altérra, the $30 billion catalytic climate finance vehicle launched 
+by the UAE at COP28, can provide important insights on how to attract and deploy 
+institutional capital for climate investments in emerging markets that are not able to 
+attract such finance.  
+Finally, tackling supply-side regulatory and incentive barriers to remove legal and 
+organisational constraints to investing in EMDCs, especially for clean energy and 
+green industrialisation, is another important way to unlock institutional capital for 
+EMDCs. Reforming the policies of regulatory and rating agencies can help achieve 
+consistency in capital treatment of transactions across jurisdictions, along with 
+recognition of the risk-mitigating features of blended finance and other strategies such as 
+A/B loan structures, updating prudential capital requirements for banks, insurance 
+companies and pension funds to reflect the actual risk of investment in EMDCs, updating 
+external ratings methodologies by adjusting subjective risk premiums assigned to EMDCs, 
+and incorporating climate risk parameters into credit rating assessments. While supply-
+side regulation like the prudential regime for insurance and reinsurance undertakings in the 
+EU, Solvency II, is still a critical barrier to insurers, pension funds arguably do not have the 
+same legal or fiduciary constraints. For instance, for infrastructure projects, Solvency II 
+introduces a capital buffer for insurers of 25% for projects in OECD countries and of almost 
+double that at 49% for non-OECD countries, but this is not a risked-based criterion and 
+increases the cost of investments in non-OECD countries with a penalising effect (4P, 
+2024). As part of the 4P Coalition on Realigning Real and Perceived Investment Risks, 4P is 
+establishing an Eminent Group of Experts to review the impacts of prudential regulations 
+on investments in developing countries, with a view to revising these regulations by the 
+relevant bodies if necessary. Education and guidance on the interpretation of climate in 
+fiduciary duty and the scale of the investment opportunities can address behavioural and 
+cultural barriers to investing in EMDCs. Clear, forward-looking commitments from asset 
+owners to EMDC portfolio allocations and climate finance deployment targets (aligned 
+within their relevant risk frameworks and associated fiduciary and legal obligations and in 
+adherence to their respective business models) would have an outsized impact across the 
+whole market, giving asset managers and developers a runway to structure products that 
+can absorb large-scale institutional allocations. 
+3.6. An MDB system that works for climate action 
+Multilateral development banks (MDBs) have been at the forefront of the expansion in 
+international climate finance. MDBs’ climate finance commitments to low- and middle-
+income countries increased from $41.5 billion in 2019 to $74.7 billion in 2023 (EIB, 2024). In 
+addition, MDBs expanded their climate finance commitments to high-income countries 
+from $20.1 billion in 2019 to $50.3 billion in 2023, mainly to Europe through the European 
+Investment Bank. The World Bank has had the highest growth rate in climate finance, 
+accounting for one-third of the scale-up in international climate finance and half of all 
+climate finance from MDBs in 2023. Two-thirds of the climate finance from MDBs has been 
+for mitigation and one-third for adaptation. 
+37 
+ 
+MDBs have also embarked on a coordinated programme of reform to implement the 
+agenda of “better, bigger and more effective MDBs” (Heads of MDBs, 2024). Ten MDB 
+Heads have set out their vision for what the MDBs should do, individually and collectively, 
+under five areas: 1. scaling up MDB financing capacity; 2. boosting joint action on climate; 
+3. strengthening country-level collaboration and co-financing; 4. catalysing private sector 
+mobilisation; and 5. enhancing development effectiveness and impact (ibid.). These areas 
+correspond closely with the vision laid out by the G20 Independent Expert Group to triple 
+annual sustainable lending levels, add global public goods including climate to the 
+mandate, co-create multi-year country platform programmes, bring engagement with the 
+private sector to the centre, sharpen analytical support and speed up business processes 
+for enhanced impact. The G20 Brazilian Presidency has developed a G20 Roadmap on 
+MDB reform for approval by G20 Finance Ministers and Leaders (G20, 2024). The roadmap 
+sets out a detailed blueprint and specific recommendations on how the MDBs can 
+implement the vision of better, bigger and more effective MDBs. The shared understanding 
+on this agenda will be invaluable in giving impetus to reform and tracking progress.  
+While all MDBs have made progress to implement the reform agenda, the pace and 
+ambition fall short of what is needed. This is underscored by the October 2024 IEG 
+Update (Mishra et al., 2024) and the latest update of the Center for Global Development’s 
+MDB Reform Tracker shows that progress has been uneven across the MDBs (CGD, 2024). 
+However, the Viewpoint Note of the MDB Heads records progress across MDBs on the 
+reform agenda (Heads of MDBs, 2024). In our assessment, there are three areas where 
+progress is not yet enough to produce transformative change: there has been a lack of 
+systematic engagement on system reforms and scaling up investment at the country level, 
+including through more proactive engagement in country platforms; insufficient expansion 
+of lending capacity at the scale and pace needed; and insufficient catalysing of private 
+finance, including through tapping long-term institutional capital, as discussed above. 
+These efforts can be supported by rewiring MDBs from being just financiers to mobilisers 
+and co-creators, driven by the integration of mobilisation and climate into mandates, 
+incentive systems and targets (OECD, 2021). 
+Much greater expansion in lending capacity will be needed to meet the investment 
+goals to deliver on the Paris Agreement. Several MDBs have been making progress to 
+implement recommendations made in the G20 Independent Review of Multilateral Banks’ 
+Capital Adequacy Frameworks (G20 Expert Group on Capital Adequacy Framework, 2022), 
+including lowering equity/debt leverage ratios and other measures to optimise balance 
+sheets. Several are also exploring the use of guarantees and hybrid capital to boost lending 
+capacity. While there has been some positive response, both options could be significantly 
+expanded with support from shareholders and buy-in from investors such as sovereign 
+wealth funds. This should be a priority for the coming year. New capital has been injected 
+into the European Bank for Reconstruction and Development and IDB Invest, the private 
+sector arm of the Inter-American Development Bank. The International Bank for 
+Reconstruction and Development is receiving the last instalments of its 2018 capital 
+package and has called for a shareholder review of its capital adequacy in 2025. The Asian 
+Development Bank has approved capital management reforms to unlock $100 billion in 
+new funding capacity over the next decade to address the region’s overlapping, 
+simultaneous crises. Making capital contributions to the MDBs remains one of the most 
+effective ways to expand climate finance at low cost and long maturities and provide the 
+risk capital to catalyse private finance.  
+MDBs should come forward with a commitment and plan to triple lending capacity by 
+2030 as part of the NCQG. To date, identified measures have raised the lending 
+headroom of the MDBs by $357 billion, implying an increase in sustainable lending of 
+38 
+ 
+approximately $30 billion per year, a 30% increase over 2019 levels (G20 IEG, 2024). This is 
+far short of the tripling in sustainable annual lending levels by MDBs that is needed to 
+deliver on the investment needed by developing countries. MDBs have a unique 
+opportunity to support the clean energy revolution in developing countries and meet the 
+urgent need for funding for climate resilience and natural capital. They can only do this 
+with adequate and predictable long-term financing. All options therefore must be 
+vigorously pursued, including proactive capital increases. Major shareholders must 
+overcome their differences and give full support to the scale and urgency of the task. 
+Beyond the MDBs, an integrated global network of public development banks (PDBs) 
+through the Finance in Common Summit (FiCS) initiative, can be a powerful force for 
+more coherent and effective support for climate action and finance. The FiCS coalition 
+manages $23 trillion in assets and about $2.5 trillion in annual investments, more than 
+10% of total investment flows. Given the ability of PDBs to develop and support 
+investment and scale up and crowd in financing, they can play a central role in a global 
+framework for sustainable investment. The last Summit in Cartagena in September 2023 
+agreed on a work programme to align finance with the SDGs, Paris Agreement and Global 
+Biodiversity Framework, further increase cooperation between all PDBs by deploying 
+innovative tools, and mobilise and join forces with other willing stakeholders. 
+3.7. Tapping the potential of carbon markets 
+Carbon markets have an important potential role to play in financing the climate 
+transition which is as yet largely untapped. Compliance markets through which firms 
+pay government-mandated carbon pricing are central to the sovereign policy toolkit to 
+provide incentives for the climate transition and raise public revenues. More countries are 
+implementing carbon taxes and emissions trading systems, and these raised $100 billion in 
+2022 (World Bank, 2023b). Yet, the average level of carbon pricing globally at $5 per tonne 
+(across priced and unpriced emissions) is too low, and the coverage at 25% of global 
+emissions too limited. More countries should expand compliance markets by 2030 to raise 
+revenues, including for global climate finance.  
+The voluntary carbon market (VCM) – which differs from compliance markets by 
+trading verified emission reductions or removal – also has the potential to generate 
+much-needed revenues for priority elements of the transition in EMDCs. Proceeds can 
+be used to support a just transition around the world and initiatives to protect and restore 
+nature, for which funding has not been readily available to date. Voluntary carbon credit 
+markets raise additional financing for developing countries, as private companies and 
+other actors seek to purchase carbon credits to align themselves with a 1.5°C pathway. 
+The expansion of voluntary markets could potentially provide up to $50 billion in the 
+medium term (to 2030) (TSVCM, 2021; Trove Research, 2021). 
+However, the VCM has suffered from major setbacks and poor market sentiment. In 
+2023 the voluntary market saw a significant drop in the market value of traded carbon 
+credits, from $1.87 billion to $723 million (World Bank, 2024). Whether and how much the 
+VCM grows will depend on the confidence in its integrity and the robustness of the 
+governance architecture of the market. There have been important efforts to build market 
+credibility, but bolstering market trust and confidence has been difficult, in part because 
+of the uncertain regulatory landscape. This includes the slow negotiation and 
+implementation of the mechanisms created by Article 6 of the Paris Agreement. Efforts to 
+improve methodologies and safeguards will lead to better alignment with the Paris 
+Agreement and promote greater interoperability with public oversight of carbon markets.  
+The consensus reached on the standards for Article 6.4 and a mechanism to update 
+them was a welcome early development at COP29. The endorsement by the COP of the 
+39 
+ 
+recommendations put forth by the Supervisory Body will pave the way for fully 
+operationalising Article 6 and for global standards to underpin key elements of a robust 
+architecture for market integrity.   
+Further steps are being undertaken to provide greater assurance of credit integrity. 
+The Integrity Council for the Voluntary Carbon Market (ICVCM) introduced a Core Carbon 
+Principles Framework in 2023. Having made its first set of assessments of credits eligible 
+using this framework, the ICVCM is currently in the process of strengthening the 
+framework to provide clear and comprehensive guidance to promote good understanding 
+among market players of the quality of the credits assessed. These efforts, along with the 
+consensus reached on Article 6, will facilitate convergence to a stronger architecture to 
+build credit integrity. 
+Clear and operational guidelines for the use of carbon credits by buyers in their 
+decarbonisation strategies is core to the integrity architecture. At this time, companies 
+that have met the criteria established by the Voluntary Carbon Markets Integrity Initiative 
+(VCMI) have not been able to use the carbon credits. The VCMI is currently going through 
+an important public consultation process to finalise its framework for high-integrity 
+demand, including outlining the role of carbon credits in compensating for part of Scope 3 
+emissions that allows the pricing of emissions that might otherwise not be covered by  
+such policy, enabling investment in critical climate-positive activities. Additionally,  
+public authorities can take supportive regulatory actions to boost demand for high 
+integrity credits. 
+Advanced economies can also work together to develop regulations that support high 
+quality carbon credits and boost voluntary demand. They could increase finance to 
+EMDCs by promoting integration between compliance and carbon credit markets. This will 
+require monitoring and reporting systems on both the demand and supply sides, including 
+interoperable carbon registers, to implement such integration. 
+Finally, enabling EMDCs to develop and manage their use of carbon markets is an 
+additional pillar in the pursuit of greater integrity and scale of carbon credit markets. 
+EMDCs must develop a pipeline of projects that can generate high-quality credits and 
+ensure that these issuances align with their climate commitments and development plans. 
+They will need to build institutional capacity, including to integrate the use of carbon 
+credits into their NDCs, build capacity for monitoring, reporting and verification of 
+emissions reductions, track issued credits in registries that are interoperable with global 
+registries, define who will obtain legal rights in key sectors, with due regard to the laws of 
+local communities, set social and environmental standards, and signal to buyers their 
+strong expectations for high levels of market integrity. International technical and 
+financial support for EMDCs will be required to address the institutional challenge of 
+building carbon markets and tap the potential of compliance and voluntary markets. 
+Development financial institutions such as the World Bank and other MDBs can play an 
+important supportive role.  
+3.8. Delivering and expanding options for concessional finance 
+An inclusive architecture for climate finance will require access to concessional and 
+debt-free financing for investments in priority needs to address climate change in 
+EMDCs – from adaptation and resilience-building to addressing loss and damage, restoring 
+nature and supporting a just transition. Many of these investments do not yield the 
+revenue streams necessary to attract private financing and in some instances they can 
+only be supported by highly concessional finance. Concessional financing of $200–300 
+billion annually will be needed by 2030. Delayed action and worsening climate impacts are 
+only widening this financing gap.  
+40 
+ 
+Mobilising the concessional financing needed can only be delivered by tapping all 
+available pools of concessional finance, including innovative options. More ambitious 
+contributions from advanced economies will be foundational to raising significant levels of 
+predictable concessional climate financing but will not be sufficient. Other options should 
+be explored, such as expanding the voluntary rechannelling of special drawing rights 
+(SDRs), scaling up private philanthropy, and introducing international taxation of high-
+emitting sectors.  
+Bilateral contributions from advanced economy partners may be a small component 
+of total climate financing but they are critical to fostering trust, meeting urgent 
+needs and leveraging other sources of finance. Bilateral contributions from advanced 
+economy partners grew from an average of $32 billion in 2019–20 to $43 billion in 2022 
+(OECD, 2024a), but more should be done to increase their scale. We calculate that 
+bilateral finance should double by 2030 and triple by 2035. Grant financing, which 
+amounted to $25.6 billion in 2022, should more than double by 2030. The quality of 
+financing should be improved by doubling financing for adaptation immediately and 
+through measures to enhance transparency and ease access to financing.  
+Critical to supporting climate action in low-income and climate-vulnerable countries 
+will be securing an ambitious IDA21 – the forthcoming 21st replenishment process of the 
+International Development Association. More than 40% of IDA’s annual lending supports 
+climate action. Donor contributions to the 21st replenishment, which concludes in 
+December 2024, must be increased to at least $28–30 billion, which will only enable IDA 
+lending of $100 billion.  
+Multilateral climate funds play an important catalytic role in advancing systemic 
+change through partnerships with MDBs, mobilising financing aligned with the Paris 
+Agreement, and building markets. Enhancing their financing capacity, which now stands 
+at $4–5 billion of commitment annually, will build on their strengths which is essential 
+given the scarcity of concessional financing. The recently completed report by the 
+Independent High-Level Expert Group to review the vertical climate and environmental 
+funds, mandated by the G20, recommended building on work to date to enhance 
+efficiency, including in accreditation processes, project approval times, and accelerated 
+disbursements (G20 IHLEG, 2024). Other notable recommendations include collaborating 
+to harmonise procedures, working together to leverage existing sources of public and 
+private financing, and working as a system in support of country-led investment 
+platforms.  
+There is great urgency to secure adequate funding for the Fund for Responding to Loss 
+and Damage. Advanced economies must take the lead in mobilising the necessary 
+financing for the Fund, which was operationalised at COP28. Nineteen nations have 
+pledged a combined total of $792 million, including a $100 million contribution from the 
+UAE. While this is a first step, it is less than 0.3% of the expected loss and damage costs 
+by 2030.  
+Following the historic SDR allocation of $650 billion in 2021, the delivery of the G7’s 
+pledge to voluntarily rechannel $100 billion of SDRs to countries in need of financing 
+has been a welcome development. The IMF’s Poverty Reduction and Growth Trust (PRGT) 
+and the Resilience and Sustainability Trust (RST) are currently the lending vehicles for the 
+rechannelled SDRs. The PRGT has now received $56 billion of SDRs to provide liquidity 
+support to low-income countries, and the RST $49 billion. While the US and Germany were 
+unable to rechannel SDRs, they have notably found alternative means to contribute 
+financing.  
+41 
+ 
+The IMF will need to address impediments to accelerating RST lending given the strong 
+demand. The RST has now committed about $10 billion, about one-third of its loan 
+resources by September 2024, and $3 billion has been disbursed. To continue its growth 
+over the longer term, it will need to expand its access limits, simplify requirements, and 
+reduce the high cost of rechannelling SDRs.  
+Rechannelling SDRs through MDBs can potentially be a significant means to expand 
+the lending of MDBs, and it is important to tackle remaining obstacles. The Executive 
+Board of the IMF reached a decision in May 2024 to authorise its member countries to use 
+SDRs to acquire hybrid capital issued by prescribed SDR holders, though only after 
+protracted discussions. Despite this approval, the African Development Bank (AfDB) and 
+InterAmerican Development Bank (IDB) have not yet been able to implement their joint 
+hybrid capital initiative in the absence of the critical mass of SDR providers that need to 
+participate in the liquidity support arrangement necessary to preserve the reserve asset 
+character of the SDR. Additionally, increasing the volume of SDRs rechannelled through 
+MDBs is constrained by the stance of the European Central Bank, which precludes the 
+participation of EU countries, which hold many SDRs, in this rechannelling.  
+The G20 and the IMF should explore how to tap the substantial potential for voluntary 
+rechannelling from the existing pool of SDRs and agree on the regular issuance of 
+SDRs. The IMF and member countries should take steps to improve the effectiveness of 
+SDR rechannelling by modernising the framework for the use of SDRs, including the 
+preservation of their reserve asset characteristic, to make it less rigid and costly. The IMF 
+and the G20 should also initiate discussions on the next cycle of SDR issuance as part of a 
+regular system to boost global liquidity in response to macro-critical shocks.  
+There is scope for private philanthropy to further augment the scale of financing and 
+leverage its strengths. Philanthropy can use its financing strengths to support country-led 
+climate and development progress, and support activities where concessional finance is 
+critically needed. It can build partnerships with MDBs, including through subscribing to 
+their new hybrid capital and/or systematically co-financing activities by supporting 
+capacity-building, research, and bringing down the cost of capital for investments. There 
+is also scope for enhancing the role of corporate responsibility in increasing concessional 
+financing in areas that typically need but do not receive adequate levels of grant 
+financing.  
+The efforts above, however, will not be sufficient to fill the concessional financing gap, 
+and innovative solutions need to be actively pursued – such as international taxation 
+of high-emitting sectors. This form of taxation has the potential to raise significant 
+amounts of revenue that could be used to fill the climate financing gap (Macron et al., 
+2024). International aviation and shipping have largely escaped taxation to address their 
+environmental impacts and corporate taxation: redressing this situation could generate as 
+much as $200 billion a year by 2035 (Black et al., 2024), which would make a huge 
+contribution to global climate finance. Taxing emissions from these sectors would also 
+induce much-needed decarbonisation: international aviation and shipping contribute 1.5% 
+and 2% of global CO2 emissions from fossil fuel combustion, respectively, which will rapidly 
+increase under a business-as-usual scenario. Similarly, the global taxation of fossil fuel 
+consumption and production would yield large revenues and strong incentives to 
+decarbonise. A fee of $5/tCO2e on the extraction of fossil fuels in 2024 would generate an 
+estimated $216.2 billion per year (Sharma and Hillman, 2024). There have been calls to 
+introduce these tax measures from coalitions of countries, including through the 
+Bridgetown Agenda, Paris Global Financing Pact and Africa Climate Summit. As part of a 
+package of initiatives for COP29, Azerbaijan recently announced the Climate Finance 
+Action Fund to invest in climate action in developing countries. Financing for the Fund will 
+42 
+ 
+come from annual contributions from fossil fuel producing countries and companies, and 
+Azerbaijan will be a founding contributor.  
+At COP28, France, Kenya, Barbados, Antigua and Barbuda and Spain jointly launched 
+a Global Solidarity Levies Task Force to explore new avenues for international taxation 
+to finance climate action and sustainable development. The Task Force is examining 
+feasible options across a range of options including the taxation of international shipping 
+and aviation, fossil fuel levies and a financial transactions tax (FTT). Several of these 
+measures embody the ‘polluter pay principle’, whereby levies or taxes are imposed on 
+presently untaxed or under-taxed international carbon-polluting activities and the 
+revenues can compensate the climate-vulnerable. Other options such as the FTT could 
+provide opportunities to generate large revenues with little negative market impact. A 
+0.1% rate on stocks and bonds instruments and a 0.01% rate on transactions of derivatives 
+globally would generate an estimated $237.9–418.8 billion per year, depending on the  
+level of market reaction and evasion (Pekanov and Schratzenstaller, 2019). The Task  
+Force is conducting discussions to expand the coalition of willing countries that will support 
+this effort. 
+ 
+  
+43 
+ 
+4. Tracking and monitoring the delivery of the 
+action agenda 
+As the climate finance agenda shifts from outlining the need and pathways for 
+climate finance into delivery, tracking and monitoring systems are critical to 
+accelerating implementation. Tracking and monitoring foster accountability across the 
+climate finance agenda by both shining a spotlight where progress is being made and 
+highlighting gaps and opportunities to aid prioritisation of future actions. The tracking of 
+climate finance has historically focused on tracking flows but given the time-sensitive 
+nature of climate change and the emergence of major reform agendas, the tracking of 
+actors and actions has also gained momentum. 
+Long-standing climate finance flow trackers include: the UNFCCC’s biennial 
+assessment of flows prepared by the Standing Committee on Finance; the OECD’s tracking 
+of the delivery of the US$ 100 billion commitment, which publishes updates to inform the 
+UNFCCC’s COP deliberations; the CPI Global Landscape on Climate Finance; and the IEA 
+World Energy Investment. More recently, the ONE Campaign published its ‘Trillions 
+Tracker’, which tracks the total public spending gap to finance the transition.5  
+Issues associated with the measurement and transparency of climate finance remain. 
+Tracking of climate finance continues to be hampered by a lack of consensus on what 
+constitutes climate finance and a dearth of robust data, especially on domestic and 
+private climate finance. However, recent OECD analysis (2024b) can serve as a starting 
+point to better understand how support for climate is interlinked with development 
+finance, and how the different yet interlinked underlying data is being reported.  
+Systematic measurement mechanisms for tracking the action agenda on climate 
+finance have historically been lacking. However, some are beginning to emerge, 
+including CPI’s Climate Finance Reform Compass,6 which assesses implementation across 
+the climate finance landscape, as framed by the COP28 Global Climate Finance 
+Framework. The Compass outlines the required milestones for reform which together could 
+drive the required increases to climate finance. The IHLEG’s forthcoming action agenda 
+will complement the Compass, outlining critical actions to COP30, underpinned by a 
+‘State of Delivery’ assessment across the six pillars of the IHLEG framework to be launched 
+at COP29. This work is being taken forward in stages, as better information on key 
+elements and indicators becomes available. Other more specific trackers are also being 
+developed, including the Center for Global Development’s MDB Reform Tracker7 and the 
+Paris Pact for People and the Planet’s (4P) report assessing delivery (4P, 2023). 
+  
+ 
+5 See https://unfccc.int/topics/climate-finance/resources/biennial-assessment-and-overview-of-
+climate-finance-flows; www.oecd.org/en/topics/sub-issues/climate-finance-and-the-usd-100-
+billion-goal.html; www.climatepolicyinitiative.org/publication/global-landscape-of-climate-finance-
+2023/; www.iea.org/reports/world-energy-investment-2024; and 
+https://data.one.org/trillionstracker/ respectively. 
+6 www.climatepolicyinitiative.org/climate-finance-reform-compass/  
+7 www.cgdev.org/media/mdb-reform-tracker  
+44 
+ 
+References 
+4P (2023) Implementation of the Paris Pact for People and the Planet. 
+https://pactedeparis.org/pdf/Bilan_4P_COP28_ENG_VF.pdf  
+Alberti C (2024) The cost of inaction. Climate Policy Initiative (CPI). 
+https://www.climatepolicyinitiative.org/the-cost-of-inaction  
+Armstrong McKay DI, Staal A, Abrams JF, Winkelmann R, Sakschewski B, Loriani S, et al. (2022) 
+Exceeding 1.5°C global warming could trigger multiple climate tipping points. Science 
+(American Association for the Advancement of Science), 377(6611). 
+https://doi.org/10.1126/science.abn7950  
+Black S, Parry I, Singh S, Vernon N (2024) Destination Net Zero: The Urgent Need for Global Carbon 
+Tax in Aviation and Shipping. IMF Staff Climate Notes 2024/003. 
+https://www.imf.org/en/Publications/staff-climate-notes/Issues/2024/10/01/Destination-
+Net-Zero-The-Urgent-Need-for-a-Global-Carbon-Tax-on-Aviation-and-Shipping-555090 
+Black S, Liu A, Parry I, Vernon N (2023) IMF Fossil Fuel Subsidies Data: 2023 Update. Working paper, 
+IMF, Washington, DC. https://www.imf.org/en/Publications/WP/Issues/2023/08/22/IMF-
+Fossil-Fuel-Subsidies-Data-2023-Update-537281  
+Blended Finance Taskforce and Centre for Sustainability Transitions (2022) Making Climate Capital 
+work: Unlocking $8.5bn for South Africa’s Just Energy Transition. 
+https://www.blendedfinance.earth/making-climate-capital-work  
+Buchner B, Naran B, Padmanabhi R, Stout S, Strinati C, et al. (2023) Global Landscape of Climate 
+Finance 2023. Climate Policy Initiative. 
+https://www.climatepolicyinitiative.org/publication/global-landscape-of-climate-finance-
+2023/ 
+Center for Global Development (2024) Multilateral Development Bank Reform Tracker. 
+https://www.cgdev.org/media/mdb-reform-tracker  
+Diwan I, Kessler M, Songwe V (2024) A bridge to climate action: A Tripartite deal for times of 
+illiquidity. Policy Note 14. Finance for Development Lab. 
+Gautam K, Purkayastha D, Widge V (2023) Cost of Capital for Renewable Energy Investments in 
+Developing Economies. Climate Policy Initiative (CPI) 
+https://www.climatepolicyinitiative.org/publication/cost-of-capital-for-renewable-energy-
+investments-in-developing-economies/  
+Energy Transitions Commission [ETC] (2024) Credible Contributions: Bolder Plans for Higher Climate 
+Ambition in the Next Round of NDCs. Version 1. Insights Briefing. https://www.energy-
+transitions.org/publications/credible-contributions-bolder-plans-for-ndcs/#download-form  
+European Investment Bank [EIB] (2024) 2023 Joint Report on Multilateral Development Banks’ 
+Climate Finance.  
+Ghosh J (2021) Gender concerns in debt relief. IIED, London. http://pubs.iied.org/20691IIED  
+Global Commission on Adaptation [GCA] (2021) Adapt Now: A global call for leadership on climate 
+resilience. https://gca.org/reports/adapt-now-a-global-call-for-leadership-on-climate-
+resilience/  
+Griscom BW, Adams J, Ellis PW, Houghton RA, Lomax G, et al. (2017) Natural climate solutions. 
+Proceedings of the National Academy of Sciences - PNAS, 114(44): 11645–11650. 
+https://doi.org/10.1073/pnas.1710465114 
+G20 (2024) G20 Roadmap Towards Better, Bigger And More Effective MDBs. 4th Finance Ministers 
+and Central Bank Governors (FMCBG) Meeting. https://www.g20.org/pt-br/sobre-o-
+g20/trilhas/trilha-de-financas/arquitetura-financeira-internacional/7-g20-roadmap-
+towards-better-bigger-and-more-effective-mdbs.pdf/@@download/file  
+45 
+ 
+G20 Expert Group on Capital Adequacy Framework (2022) Boosting MDBs’ investing capacity: an 
+Independent Review of Multilateral Development Banks’ Capital Adequacy Frameworks. 
+https://www.dt.mef.gov.it/export/sites/sitodt/modules/documenti_it/news/news/CAF-
+Review-Report.pdf  
+G20 Independent Expert Group [IEG] (2024) The G20 Independent Expert Group Report Card On 
+Strengthening Multilateral Development Banks: An Incomplete Grade. 
+https://www.cgdev.org/sites/default/files/2024-10/IEG-report-triple-agenda-report-card-
+oct2024.pdf  
+G20 IHLEG (2024) Accelerating Sustainable Finance for Emerging Markets and Developing 
+Economies: Independent Review of the Vertical Climate and Environmental Funds. G20 
+Independent High-Level Expert Group. https://g20sfwg.org/wp-
+content/uploads/2024/10/G20-IHLEG-VCEF-Review.pdf  
+G20 TF-CLIMA Group of Experts (2024) A Green and Just Planet: The 1.5°C Agenda for Governing 
+Global Industrial and Financial Policies in the G20. Independent Report of the G20 TF-CLIMA 
+Group of Experts. https://www.g20.org/en/tracks/sherpa-track/climate-change/the-g20-
+taskforce-on-a-global-mobilization-against-climate-change-tf-clima/independent-report-
+tfclima-group-of-experts.pdf  
+Hallegatte S, Rentschler J, Rozenberg J (2019) Lifelines: The Resilient Infrastructure 
+Opportunity. Sustainable Infrastructure. Washington, DC: World 
+Bank. http://hdl.handle.net/10986/31805  
+Heads of MDBs (2024) Viewpoint Note: MDBs Working as a System for Impact and Scale.  
+Independent Expert Group on Debt, Nature and Climate (2024) Tackling the Vicious Circle. Interim 
+Report of the Expert Review on Debt, Nature and Climate. 
+https://d1leqfwiwfltz5.cloudfront.net/documents/Tackling_the_Vicious_Circle.pdf  
+International Energy Agency [IEA] (2024a) World Energy Investment 2024. IEA, Paris. 
+https://www.iea.org/reports/world-energy-investment-2024 
+IEA (2024b) World Energy Outlook 2024. IEA, Paris. https://www.iea.org/reports/world-energy-
+outlook-2024 
+IEA (2024c) Reducing the Cost of Capital. IEA, Paris. https://www.iea.org/reports/reducing-the-
+cost-of-capital 
+IEA (2023) World Energy Investment 2023. IEA, Paris. https://www.iea.org/reports/world-energy-
+investment-2023 
+International Monetary Fund (2024) G20 Note on Alternative Options for Revenue Mobilization. 
+https://www.imf.org/external/np/g20/pdf/2024/062424.pdf 
+International Monetary Fund (2022) Global Financial Stability Report—Navigating the High-Inflation 
+Environment. Washington, DC, October. 
+International Monetary Fund and World Bank (2024) Stepping Up Domestic Resource Mobilization: 
+A new Joint Initiative for the IMF and the World Bank. https://www.imf.org/-
+/media/Files/Research/imf-and-g20/2024/domestic-resource-mobilization.ashx  
+International Institute for Sustainable Development and Organisation for Economic Co-operation 
+and Development [IISD and OECD] (2024) Fossil fuel subsidy tracker. 
+https://fossilfuelsubsidytracker.org/ 
+International Renewable Energy Agency [IRENA] (2024a) A just and inclusive energy transition in 
+emerging markets and developing economies: Energy planning, financing, sustainable fuels 
+and social dimensions. IRENA, Abu Dhabi. 
+IRENA (2024b) Renewable power generation costs in 2023. IRENA, Abu Dhabi. 
+IRENA and African Development Bank [IRENA and AfDB] (2022) Renewable Energy Market Analysis: 
+Africa and Its Regions. International Renewable Energy Agency, Abu Dhabi, and African 
+Development Bank, Abidjan. 
+46 
+ 
+Ishii N, Al-Mubarak R, Songwe V, Léautier F, Pangestu M, Teixeira I (2023) Financing nature: a 
+transformative action agenda. Center for Global Commons. 
+Kharas H, Rivard C (2024) Unpacking developing country debt problems: Selected reforms to the 
+international financial architecture. Working Paper 186. Center for Sustainable 
+Development, Brookings. https://www.brookings.edu/wp-
+content/uploads/2024/04/Unpacking-developing-country-debt-service-problems.pdf 
+Kharas H, Rivard C (2022) Debt, Creditworthiness, and Climate: A New Development Dilemma. 
+Brookings Institution Working Paper. https://www.brookings.edu/wp-
+content/uploads/2022/12/Debt-creditworthiness-and-climate-1.pdf 
+Koplow D, Steenblik R (2024) Protecting Nature by Reforming Environmentally Harmful Subsidies: 
+An Update. Earth Track. 
+https://www.earthtrack.net/sites/default/files/documents/ehs_report_september-2024-
+update_final.pdf  
+Lankes HP, Macquarie R, Soubeyran E, Stern N (2023) The Relationship between Climate Action and 
+Poverty Reduction. The World Bank Research Observer, 39(1): 1–46, 
+https://doi.org/10.1093/wbro/lkad011 
+Macron E, Mottley M, Ruto W (2024) The Case for Solidarity Levies. Project Syndicate. 
+Mawejje J (2024) Fiscal Vulnerabilities in Low-Income Countries: Evolution, Drivers, and Policies. 
+Washington, DC: World Bank. 
+Mishra D, Goyal T, Puri H (2024) MDB Reforms in the Slow Lane: Findings from a Global Survey of 
+Experts, 2024. Delhi: Indian Council for Research on International Economic Relations 
+(ICRIER). 
+Munich RE (2024) Natural disaster risks: Rising trend in losses. 
+https://www.munichre.com/en/risks/natural-disasters.html  
+Naran B, Buchner B, Price M, Stout S, Taylor M, Zabeida D (2024) Global Landscape of Climate 
+Finance 2024: Insights for COP29. Climate Policy Initiative (CPI). 
+New Climate Economy [NCE] (2018) Unlocking the Inclusive Growth Story of the 21st Century: 
+Accelerating Climate Action in Urgent Times. Global Commission on the Economy and 
+Climate. 
+Organisation for Economic Co-operation and Development [OECD] (2024a) Climate Finance 
+Provided and Mobilised by Developed Countries in 2013-2022, Climate Finance and the USD 
+100 Billion Goal. OECD Publishing, Paris. https://doi.org/10.1787/19150727-en 
+OECD (2024b) Climate-related Development Finance (dataset), https://webfs.oecd.org/climate/  
+OECD (2024c) Development Co-operation Report 2024: Tackling Poverty and Inequalities through 
+the Green Transition. OECD Publishing, Paris, https://doi.org/10.1787/357b63f7-en. 
+OECD (2021) Financing the Climate Transition: The Role of Development Banks, Development 
+Finance Institutions and their Shareholders. OECD Development Co-operation Policy Papers. 
+OECD Publishing, Paris.   
+Pekanov A, Schratzenstaller M (2019) A Global Financial Transaction Tax—Theory, Practice and 
+Potential Revenues. Österreichisches Institut für Wirtschaftsforschung working paper. 
+Richards JA, Schalatek L, Achampong L, White H (2023) The Loss and Damage Finance Landscape: 
+A discussion paper for the Loss and Damage community on the questions to be resolved in 
+2023 for ambitious progress on the Loss and Damage Fund. Heinrich Böll Stiftung. 
+https://us.boell.org/sites/default/files/2023-
+05/the_loss_and_damage_finance_landscape_hbf_ldc_15052023.pdf 
+Romanello M, Walawender M, Hsu S-C, Moskeland A, Palmeiro-Silva Y, Scamman D, et al. 
+(2024) The 2024 report of the Lancet Countdown on health and climate change: facing 
+record-breaking threats from delayed action. 
+47 
+ 
+Seema N, Seyyed FJ, Shehzad CT (2021) Impact of gender on access to finance in developing 
+countries. Applied Economics, 53(57): 6582–6610. 
+https://doi.org/10.1080/00036846.2021.1947958  
+Semieniuk G, Holden PB, Mercure J-F, Salas P, Pollitt H, Jobson K, et al. (2022) Stranded fossil-fuel 
+assets translate to major losses for investors in advanced economies. Nature Climate 
+Change, 12(6), 532–538. https://doi.org/10.1038/s41558-022-01356-y  
+Sharma S, Hillman D (2024) The Climate Damages Tax: A guide to what it is and how it works. 
+Stamp Out Poverty. 
+Singh V, Bond K (2024) Powering up the Global South: The cleantech path to growth. RMI. 
+https://rmi.org/wp-
+content/uploads/dlm_uploads/2024/10/Powering_up_the_global_south.pdf  
+Songwe V, Stern N, Bhattacharya A (2022) Finance for climate action: Scaling up investment for 
+climate and development. Grantham Research Institute on Climate Change and the 
+Environment, London School of Economics and Political Science. 
+https://www.lse.ac.uk/granthaminstitute/publication/finance-for-climate-action-scaling-
+up-investment-for-climate-and-development/  
+Statista (2024) Global fertilizer market size in 2020 and 2021, with a forecast for 2030. 
+https://www.statista.com/statistics/1266004/global-fertilizer-market-size/  
+Strinati C, Alberti C, Melling B, Baudry C (2024) Top-down Climate Finance Needs. Climate Policy 
+Initiative (CPI). https://www.climatepolicyinitiative.org/publication/top-down-climate-
+finance-needs/  
+Taskin Ö, Fortemps M, Sedemund S (2024) Private climate finance mobilised for developing 
+countries through official development finance interventions: 2016 to 2022. OECD 
+Development Co-operation Working Papers, OECD Publishing, Paris.  
+Trove Research (2021) Future Size of the Voluntary Carbon Market. https://trove-
+research.com/report/future-size-of-the-voluntary-carbon-market 
+TSVCM [Taskforce on Scaling Voluntary Carbon Markets] (2021) Final Report. Institute for 
+International Finance. https://www.iif.com/tsvcm 
+United Nations (2024) The Sustainable Development Goals Report 2024. 
+https://unstats.un.org/sdgs/report/2024/The-Sustainable-Development-Goals-Report-
+2024.pdf  
+United Nations Economic Commission for Africa [UNECA] (2024) Economic Report on Africa 2024: 
+Investing in a just and sustainable transition in Africa. 
+https://repository.uneca.org/handle/10855/50162  
+United Nations Environment Programme [UNEP] (2024a) Emissions Gap Report 2024: No more hot 
+air … please! With a massive gap between rhetoric and reality, countries draft new climate 
+commitments. Nairobi. https://doi.org/10.59117/20.500.11822/46404  
+UNEP (2024b) Adaptation Gap Report 2024: Come hell and high water — As fires and floods hit the 
+poor hardest, it is time for the world to step up adaptation actions. Nairobi. 
+https://doi.org/10.59117 /20.500.11822/46497  
+United Nations Framework Convention on Climate Change Standing Committee on Finance 
+[UNFCCC SCF] (2024) Second report on the determination of the needs of developing 
+country parties related to implementing the convention and the Paris Agreement. Annex 1, 
+unedited version. https://unfccc.int/sites/default/files/resource/ 
+2ndNDR_ES_SCF35_unedited%20version_0.pdf    
+Verdone M, Seidl A (2017) Time, space, place, and the Bonn Challenge global forest restoration 
+target. Restoration Ecology, 25(6): 903–911. https://doi.org/10.1111/rec.12512  
+48 
+ 
+V20 (2022) Climate vulnerable economies loss report: economic losses attributable to climate 
+change in V20 economies over the last two decades (2000-2019). https://www.v-
+20.org/resources/publications/climate-vulnerable-economies-loss-report  
+Walter D, Bond K, Lovins A, Speelman L, Gulli C, Butler-Sloss S (2024) The Incredible Inefficiency of 
+the Fossil Energy System. RMI. https://rmi.org/the-incredible-inefficiency-of-the-fossil-
+energy-system/     
+World Bank (2024) State and Trends of Carbon Pricing: International Carbon Markets 2024. 
+Washington, DC: World Bank. http://hdl.handle.net/10986/41544   
+World Bank Group (2023a) The Big Push for Transformation through Climate and Development—
+Recommendations of the High Level Advisory Group on Sustainable and Inclusive Recovery 
+and Growth. Washington, DC: World Bank. 
+World Bank (2023b) State and Trends of Carbon Pricing 2023. Washington, DC: World Bank. 
+https://openknowledge.worldbank.org/items/58f2a409-9bb7-4ee6-899d-be47835c838f   
+Independent High-Level Expert Group on Climate Finance
+Co-chairs
+Members
+Mr Jean-Paul Adam Mr Monktek Singh 
+Ahluwahlia
+Ms Sara Jane 
+Ahmed
+Dr Amal-Lee Amin Mr Christoph Bals
+Dr Muhamad  
+Chatib Basri
+Dr Mohamed  
+Farid Saleh
+Dr Frannie Léautier
+Dr Mattia Romani
+Dr Barbara  
+Buchner
+Professor Richard 
+Calland
+Mr Alain Ebobissé Dr Omar El-Arini
+Professor  
+Naoko Ishii
+Dr Ma Jun Mr Homi Kharas
+Dr Mahmoud 
+Mohieldin
+Mr Joaquim Levy
+ Mr Hamza Ali Malik
+ Dr Hanan Morsy
+ Professor Avinash 
+Persaud 
+Mr Frédéric Samama Mr Todd Stern Dr Josué Tanaka Dr Izabella Teixeira
+Dr Vera Songwe
+ Professor Lord 
+Nicholas Stern
+Mr Amar  
+Bhattacharya
+Secretariat
+Ms Eléonore 
+Soubeyran
+49
+Mr Daniel Titelman Ms Laurence Tubiana Ms Marilou Uy
+Mr Nigel Topping

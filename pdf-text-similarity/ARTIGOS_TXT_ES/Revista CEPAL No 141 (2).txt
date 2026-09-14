@@ -1,0 +1,552 @@
+Globalización dislocada: 
+Prebisch, desbalances 
+comerciales y el futuro  
+de la economía global1
+Rebeca Grynspan
+Recibido: 09/01/2024
+Aceptado: 10/01/2024
+Resumen
+Este artículo analiza el proceso actual de globalización desde la crisis mundial 
+de 2008. En un contexto mundial caracterizado por un menor dinamismo del 
+crecimiento y del comercio mundial de bienes en relación con el auge que alcanzó 
+la hiperglobalización en las décadas de 1990 y 2000, se plantea que, más que a 
+un proceso de desglobalización, la economía internacional asiste a un proceso de 
+poliglobalización, caracterizado por una mayor descentralización de la gobernanza 
+de la economía mundial, la multipolaridad y la geoeconomía y el retorno de la 
+política industrial. En este sentido, se reivindica el legado de Prebisch en torno a 
+la centralidad que esta política tuvo en casos exitosos de desarrollo como el de la 
+República de Corea. Se sostiene que una política industrial exitosa debe dinamizar 
+las exportaciones así como armonizar las relaciones Estado-mercado en términos 
+de autonomía e integración público-privada. 
+Palabras clave
+Globalización, crisis económica, desindustrialización, comercio internacional, 
+multilateralismo, Prebisch, Raúl, política industrial, relación de intercambio, 
+cooperación económica entre países en desarrollo
+Clasificación JEL
+F61, F62, F64, F65
+Autora
+Rebeca Grynspan es Secretaria General de la Conferencia de las Naciones Unidas sobre 
+Comercio y Desarrollo (UNCTAD). Correo electrónico: rebeca.grynspan@unctad.org.
+1 Este artículo está basado en la presentación realizada por la autora con ocasión de la XVII Cátedra Raúl Prebisch, en la sede 
+de la CEPAL en Santiago, el 30 de octubre de 2023.
+46
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Globalización dislocada: Prebisch, desbalances comerciales y el futuro de la economía global
+I. Introducción
+La Conferencia de las Naciones Unidas sobre Comercio y Desarrollo (UNCTAD) y la Comisión Económica 
+para América Latina y el Caribe (CEPAL) son instituciones hermanas, porque son hijas del mismo padre: 
+Raúl Prebisch. Una de las cosas que deja la CEPAL en todos los economistas que pasamos por ella es 
+una sana y permanente dosis de heterodoxia, una heterodoxia que me sirvió de vacuna ante muchos 
+de los excesos de la política pública, tan marcada por el consenso de Washington, la búsqueda de 
+modelos económicos cada vez más matemáticos y el mesianismo del libre mercado.
+Lo cierto es que, como decía Edith Hamilton, la heterodoxia de una generación es la ortodoxia de 
+la siguiente (Hamilton, 1930). Ahora, que el reduccionismo del consenso de Washington se ha reconocido, 
+el mundo ha vivido la crisis de 2008 y se han visto los enormes retrocesos que produjo la pandemia de 
+enfermedad por coronavirus (COVID-19), finalmente vemos el retorno de la política industrial en occidente: 
+la heterodoxia está de nuevo en boga. Esto es un llamado a la CEPAL y a la UNCTAD y, por supuesto, 
+nos remite a Raúl Prebisch. En 2023, la CEPAL celebra 75 años de vida y la UNCTAD celebrará sus 
+60 años en 2024. Es un momento propicio para reflexionar sobre preguntas que siguen abiertas.
+Este es el objetivo principal de estas palabras: hablar de este cambio generacional en el pensamiento 
+económico, que responde a un cambio tectónico en el terreno de la globalización y que describo como 
+un paso entre un período de “hiperglobalización” (como lo llamó Rodrik) (Rodrik, 2011), a un período 
+que denomino “poliglobalización”.
+Este análisis se divide en tres partes, además de la Introducción. En primer lugar, me referiré 
+a la hiperglobalización; en segundo lugar, plantearé algunas ideas sobre este período de posible 
+poliglobalización que está surgiendo, y, por último, reflexionaré sobre el legado de Rául Prebisch en 
+el contexto del trabajo que la CEPAL, la UNCTAD y las Naciones Unidas en general están llamadas a 
+realizar en este nuevo paradigma.
+Es importante reflexionar sobre un aspecto muy importante: millones de personas están sufriendo. 
+Las crisis económicas en cascada, que incluyen el COVID-19, los implacables desastres climáticos, 
+la guerra, la geopolítica y las insoportables cargas de la deuda están cuestionando el tejido mismo 
+de nuestra sociedad global. Las agendas comunes que elaboramos juntos en 2015, convencidos de 
+que nuestro destino y nuestra humanidad estaban unidos, corren peligro. A este ritmo, solo el 15% 
+de los Objetivos de Desarrollo Sostenible (ODS) se cumplirán en 2030 y hemos visto regresiones en 
+los indicadores de pobreza, hambre e igualdad de género (Naciones Unidas, 2023a). 
+La inversión extranjera directa, por tanto tiempo un motor de crecimiento y desarrollo, sigue 
+estancada desde la crisis de 2008 en la gran mayoría de países en desarrollo. Hay una brecha de 
+4.000 millones de dólares de financiamiento de los ODS en el Sur Global, una brecha que solo ha crecido, 
+ya que en 2015 se estimaba en 2.500 millones de dólares (UNCTAD, 2023a). A su vez, 3.300 millones 
+de personas viven en países que gastan más en el pago de intereses de la deuda que en salud o en 
+educación (UNCTAD, 2023b). Nos encontramos en un paradigma en que los ODS y el Acuerdo de 
+París son muy difíciles de cumplir, y esto es enormemente peligroso porque los ODS son demasiado 
+importantes como para que fracasen. Los ODS son mucho más que un conjunto de Objetivos. Son 
+nuestra agenda común fundamental en un mundo más polarizado que nunca, un mundo que necesita 
+desesperadamente solidaridad, fraternidad y multilateralismo.
+El sufrimiento que estamos viendo a nuestro alrededor es un recordatorio de lo que está en 
+juego cuando perdemos de vista el largo plazo, cuando dejamos atrás a la gente, cuando perdemos la 
+capacidad de ponernos en los zapatos del otro. Lo que vemos es un aviso de lo que podría ser el mundo 
+en 2030 si fracasan los ODS. Por eso, los planteos que aquí se hacen sobre un cambio de modelo de 
+globalización, no son un mero análisis académico. Constituyen un esfuerzo de visión y de esperanza 
+para tratar de imaginar maneras en las que podemos trabajar para crear un paradigma distinto antes 
+de que sea demasiado tarde.
+47
+Revista de la CEPAL N° 141 • diciembre de 2023
+Rebeca Grynspan
+II. La hiperglobalización
+No hay consenso sobre cuándo empezó ni cuándo terminó la hiperglobalización. Sin embargo, no hay 
+duda de que su zénit son las dos décadas que van de 1990 a 2010. En esos años se encuentran los 
+tres grandes factores positivos que marcan el período en términos macroeconómicos: crecimiento de la 
+inversión extranjera, crecimiento del comercio internacional y crecimiento del uso de las tecnologías de 
+la información y las comunicaciones (Subramanian y Kessler, 2013) (UIT, 2022). Para América Latina, la 
+primera década y media del siglo XXI fue una época de gran crecimiento, con disminución de la pobreza 
+y la desigualdad gracias al viento de cola del superciclo de las materias primas. Por otra parte, hay 
+quienes dicen que la hiperglobalización no terminó en 2010 con la crisis financiera, sino en 2016 con 
+el brexit y el Gobierno del Presidente Donald Trump o, incluso, en 2020 con la pandemia de COVID-19 
+(Subramanian, Kessler y Properzi, 2023). Suelo estar de acuerdo con quienes ubican ese fin en la fecha 
+más reciente, pero lo que está claro es que desde 1980 hasta 2020 podemos ver gráficamente de 
+manera clara una “campana” con dos “colas” en la primera y la última década. 
+Ahora bien, ¿qué pasó en estos años? Sin duda alguna, hubo mucho crecimiento y, sobre todo, 
+una enorme reducción en la pobreza global, especialmente en China. Entre 1990 y 2010, la pobreza 
+extrema en el mundo se redujo a la mitad —casi 800 millones de personas, más de la mitad de ellas 
+en China, salieron de la pobreza extrema— (Olinto y otros, 2013). Esto supuso que de los Objetivos 
+de Desarrollo del Milenio, el relacionado con la reducción de la pobreza se cumplió 5 años antes de lo 
+esperado. Además, hubo convergencia entre el Sur Global y el Norte Global. 
+Sin embargo, bajo la superficie, tres factores negativos se expandieron durante este período. El 
+primero fue la desigualdad. Según Oxfam, el 1% más rico del mundo recibió el 54% de toda la creación 
+de riqueza de la década de 2010 (Oxfam, 2023).
+El segundo fue la desindustrialización prematura en muchos países. Según datos de Rodrik 
+(Rodrik, 2015), el Brasil alcanzó su punto más alto en términos de empleo en el sector manufacturero 
+en 1986; la India en 2002; México en 1980; Indonesia, en 2001; Ghana en 1978, y Nigeria en 1982. El 
+índice de capacidades productivas de la UNCTAD muestra lo mismo a nivel global: un estancamiento 
+de 20 años y un aumento de los países dependientes de las materias primas 2. Actualmente, el 76% 
+de los países menos adelantados dependen de las materias primas (es decir, que más de un 60% de 
+sus ingresos provienen de su exportación) (UNCTAD, 2023c). Hace 15 años, 15 países menos lo eran. 
+La desindustrialización ha sido un fenómeno particularmente dañino ya que, como bien 
+argumentaba Prebisch, no hay desarrollo sin industria. Hablamos aquí, por supuesto, de industria en un 
+sentido amplio. En el siglo XXI, con la importancia de la economía digital y la creciente robotización de 
+la llamada industria 4.0, no podemos reducir el pensamiento industrial a lo meramente manufacturero. 
+La evidencia es rotunda en este aspecto. Con excepción de algunos países ricos en productos básicos, 
+especialmente los países del Golfo, no ha habido prácticamente ningún país del mundo que haya 
+escapado de la trampa de los ingresos medios sin un sector manufacturero fuerte o una diversificación 
+productiva que permita una estructura económica compleja. Una de las consecuencias de esta 
+desindustrialización prematura fue el crecimiento de las economías duales o de la heterogeneidad 
+productiva que tanto han analizado la CEPAL y la UNCTAD, y que caracterizan a buena parte de los 
+países de ingreso medio del mundo.
+Por un lado, existe un sector exportador fuerte, con empresas grandes y formales que pagan 
+buenos salarios. Por otro lado, existe una economía local de servicios, marcada por la informalidad, el 
+autoempleo y el bajo valor agregado. En resumen, existe más desigualdad, esta vez en el seno de la 
+propia estructura económica. Como bien analizaron los expertos sobre este período, fue particularmente 
+2 Véanse más datos en [en línea] https://unctadstat.unctad.org/EN/Pci.html.
+48
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Globalización dislocada: Prebisch, desbalances comerciales y el futuro de la economía global
+de este segundo sector de la economía de la cual surgieron las clases medias vulnerables que luego 
+volvieron a caer en la pobreza con la pandemia de COVID-19 (Messina y Silva, 2018; López-Calva 
+y Lustig, 2011). 
+Esto nos lleva al tercer factor negativo de la hiperglobalización: la falta de resiliencia en el 
+sistema internacional. Todo estuvo bien con la hiperglobalización mientras duró el auge del superciclo 
+de las materias primas, que terminó en 2015. Finalizado este auge, salieron a relucir nítidamente las 
+vulnerabilidades. Desde 2015, América Latina se encuentra transitando otra década perdida, como 
+bien ha documentado la CEPAL (CEPAL, 2023a). A causa de la pandemia de COVID-19 la región perdió 
+décadas de progreso social en apenas meses y quedó claro que estábamos llamando “desarrollo” a 
+algo que no lo era, ya que el PIB per cápita ocultaba más de lo que revelaba. 
+Esta falta de resiliencia es producto de varios factores. Uno de ellos es de la carencia de estructuras 
+económicas diversificadas en los países en desarrollo. Otro, es la dinámica comercial que algunos 
+llaman “todo va al ganador” (winner takes all ): la concentración de cadenas de valor en pocos focos 
+industriales con mayor productividad y menores costos, especialmente en Asia (Gros, 2018). El tercer 
+factor, decisivo desde mi punto de vista, es el debilitamiento de las capacidades públicas tanto a nivel 
+nacional como internacional, especialmente el debilitamiento del sistema financiero para el desarrollo. 
+La hiperglobalización no solo implicó una retirada del Estado de los asuntos de política pública, sino 
+que implicó también una retirada del sistema financiero para el desarrollo y de las instituciones de 
+Bretton Woods.
+Como ejemplo cabe mencionar que la contribución del Banco Mundial a las políticas de desarrollo 
+es ahora menos de una quinta de parte de lo que era en los años sesenta (Naciones Unidas, 2023b). 
+Asimismo, la liquidez que el Fondo Monetario pone a disposición de los países en desarrollo en un 
+año, equivale a lo que la Reserva Federal de los Estados Unidos puede imprimir de acuerdo con una 
+política de expansión cuantitativa (quantitative easing) en apenas un mes (Cachanosky y otros, 2021; 
+Georgieva, 2023). A pesar de la crisis de deuda de los años ochenta, en el mundo no contamos todavía 
+con un sistema multilateral de restructuración de la deuda. Ahora lo necesitamos con urgencia. En 
+el informe de las Naciones Unidas A World of Debt (UNCTAD, 2023b), se señala que 3.300 millones 
+de personas viven en países que gastan más en pago de intereses de la deuda que en salud o en 
+educación. Además, como bien se argumenta en el informe de la CEPAL Deuda pública y restricciones 
+para el desarrollo en América Latina y el Caribe (CEPAL, 2023b), esta crisis no es una crisis de deuda, 
+es una crisis de desarrollo.
+La falta de inversión de la banca multilateral, la falta de inversión privada y el crecimiento de 
+los costos de capital, la falta de acceso a liquidez en el Fondo Monetario a la escala necesaria ante 
+los choques externos, ha implicado que, crisis tras crisis, los países solo puedan recurrir a deudas 
+cada vez más caras, por lo que ahora la deuda está ocupando cada vez mayores espacios en la 
+fiscalidad, lo que implica menos inversión social, menos inversión en infraestructura y menos inversión 
+en desarrollo sostenible.
+La desigualdad, la desindustrialización y la fragilidad tuvieron repercusiones profundas en el 
+mundo, primero políticas y después geopolíticas. Cabe señalar que las áreas con más votos en favor 
+de Trump y del brexit fueron precisamente las que más sufrieron la desindustrialización de la oleada de 
+deslocalización (offshoring) de las décadas de 1990 y 2000 (Inglehart y Norris, 2016).
+Por otra parte, como bien se ha dicho, los países del Sur Global se han sentido agudamente 
+abandonados ( acutely abandoned ) con las promesas incumplidas de financiamiento climático, la 
+falta de solidaridad respecto de las vacunas durante la pandemia de COVID-19 y el crecimiento de 
+brechas de inversión para el desarrollo, lo cual los ha llevado a tomar una postura geopolítica más 
+escéptica. Además, las nuevas generaciones, ante el aumento de la desigualdad y la falta notable de 
+acción climática durante el período de la hiperglobalización, han quedado desencantadas. Por último, 
+49
+Revista de la CEPAL N° 141 • diciembre de 2023
+Rebeca Grynspan
+el aumento de las tensiones comerciales ha generado cierta parálisis en el sistema multilateral y, muy 
+especialmente, en el área comercial, con la Organización Mundial de Comercio (OMC) sin órgano de 
+apelación desde finales de 2019.
+Jake Sullivan, Consejero de Seguridad Nacional del Presidente Biden, capturó bien, en mi opinión, 
+este nuevo espíritu de la época, cuando en abril de 2023 hizo una presentación ante el Brookings Institute 
+sobre la nueva política industrial de los Estados Unidos, en el que empezó agradeciendo la indulgencia 
+de recibir a un Consejero de Seguridad Nacional para hablar de economía. En ese discurso, Sullivan 
+dijo que la premisa era que el crecimiento por la vía del comercio sería inclusivo, que sus beneficios 
+serían ampliamente compartidos por todas las naciones, pero que en los hechos esos beneficios no 
+habían llegado a muchas de las personas trabajadoras (Sullivan, 2023). 
+No hay consenso sobre cuál es la fecha del fin de la hiperglobalización. Ese discurso de Sullivan 
+es bueno para señalarla, ya que es la primera vez que un líder de la política pública distingue en voz alta 
+la principal diferencia entre la vieja globalización y la nueva globalización: la subordinación del comercio 
+a los intereses geopolíticos, en vez de a los intereses meramente económicos.
+En todo caso, la pregunta ahora es qué va a suceder a este período. Con esto paso a la segunda 
+parte de mi análisis: el auge de lo que llamo la posible poliglobalización. 
+III. La poliglobalización
+La realidad es que estamos en un período de transición y el problema de las transiciones es que es fácil 
+perderse en ellas porque, como decía Gramsci, el viejo mundo no ha terminado de morir y el nuevo 
+mundo no ha terminado de nacer. 
+El camino parece bifurcarse entre, por un lado, la desconexión comercial total (o decoupling, 
+como le llaman algunos en referencia al comercio con China), que el Fondo Monetario y la Organización 
+Mundial del Comercio estiman que implicaría una caída del PIB global del 5% al 7%, equivalente a dos 
+pandemias (Georgieva y Okonjo-Iweala, 2023) y, por otro lado, las estrategias de reducción del riesgo 
+(derisking), con la diversificación de las cadenas de valor que, al querer remediar los excesos de la 
+hiperglobalización, buscan nuevos socios comerciales, en pro de la diversificación de proveedores y 
+de mercados mediante la relocalización ( reshoring) y la deslocalización cercana ( nearshoring); como 
+dato recordemos que el 85% del refinamiento de baterías y el 50% del procesamiento del litio, cobalto 
+y grafito se realizan en China (AIE, 2022). Se reviven los regionalismos y se retoma el proteccionismo 
+limitado a ciertos sectores (se alzan vallas altas en terrenos pequeños ( a small yard and high fence ), 
+como dice Sullivan en su discurso) (Sullivan, 2023). 
+Está claro que estamos en un contexto donde el péndulo ha cambiado de dirección, nos 
+encontramos sin duda ante una globalización distinta y el debate es de si además de distinta es menor. 
+Hay elementos para pensar que nos estamos “desglobalizando”, ya que el comercio internacional 
+está creciendo menos que la economía global y hay una desaceleración del comercio desde la crisis 
+de 2008 (Subramanian, Kessler y Properzi, 2023). Es importante matizar que, si bien hay caídas en el 
+comercio de bienes, el comercio de servicios ha mostrado más resiliencia y el comercio digital sigue 
+creciendo, algo que algunos llaman la “desmaterialización” del comercio. 
+Vislumbro aquí tres grandes factores.
+El primer factor es que estamos ante una globalización más descentralizada. Estamos pasando 
+de un sistema dominado por unas pocas potencias globales a una red de polos regionales, grandes 
+economías de dimensiones “continentales” del Sur, y el auge de distintos foros plurinacionales. Esto 
+implica que se hace más política en el Grupo de los Siete (G7), el Grupo de los 20 (G20) o los BRICS 
+(Brasil, Federación de Rusia, India, China y Sudáfrica), que en los foros multilaterales. Esto implica 
+50
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Globalización dislocada: Prebisch, desbalances comerciales y el futuro de la economía global
+que hay menos tratados que pasan por la OMC, pero se redactan más tratados a nivel regional, ya 
+sea el Tratado de Libre Comercio Africano (AfCFTA) o el nuevo Acuerdo Transpacífico, o los esfuerzos 
+del Mercado Común del Sur (MERCOSUR) para llegar a un tratado con Europa. Esto implica que 
+el Banco Mundial ha perdido peso, pero que bancos regionales como el Banco de Desarrollo de 
+América Latina y el Caribe (CAF), el Banco Africano de Desarrollo o el Nuevo Banco de Desarrollo de 
+los BRICS, están buscando repoblar los espacios vacíos. Nos enfrentamos, como mencionaré luego, 
+a un multilateralismo competitivo, no universal.
+El segundo factor, que procede del anterior, es la multipolaridad y la geoeconomía. A comienzos 
+de este milenio nos preguntábamos si la multipolaridad nos haría más multilaterales. La pregunta sigue 
+abierta. Pero está claro que están surgiendo importantes polos políticos en Asia, África, Europa, el 
+mundo árabe y, en menor medida, América Latina. 
+De momento, sin embargo, la geopolítica de la multipolaridad nos está dejando sin espacios 
+libres. Las Naciones Unidas por años han tratado, por ejemplo, que lo humanitario no dependa de 
+intereses políticos o geopolíticos, sino de la propia ley humanitaria. Lo mismo hemos dicho sobre la 
+cooperación internacional. En el multilateralismo debe haber espacios independientes, pero hoy en día 
+pareciera que todo (tecnología, relaciones internacionales, lo humanitario, la cooperación y el comercio) 
+están sujetos a la geopolítica. Entre los bloques no vemos solo una competencia económica y militar, 
+sino una diferencia de visiones de mundo. Este es otro aspecto de la multipolaridad, muy relevante para 
+el debate ético, el fin de un único modelo político y cultural de desarrollo, la caducidad de la idea del 
+fin de la historia que postulaba que la democracia liberal era la continuación lógica de la economía de 
+mercado. Como vengo diciendo desde hace algunos años, le fue mejor al mercado que a la democracia.
+Hay quienes describen este cambio como una dicotomía de democracias versus autocracias. Creo 
+que esta es una lectura demasiado simplista. La palabra no es bifurcación, es fragmentación. Incluso 
+entre las democracias, en un contexto de polarización, estamos viendo una fragmentación de valores 
+importante. Y esto, a su vez, está llevando a una fluidez y una volatilidad de alianzas internacionales 
+que es importante también resaltar.
+En todo caso, la consecuencia comercial de este choque entre polos es la intención de llevar 
+las cadenas de valor a los países “aliados” o “amigos” (friend-shoring). Está por verse cuánto de esto 
+terminará materializándose, ya que muchos países del Sur Global no están interesados en esta nueva 
+manera de ver las cosas. A la hora de elegir polos, muchos países lo que buscan, después de tantas 
+promesas sin cumplir, son resultados. 
+Esto es algo que la Brookings Institution llama el “multilateralismo competitivo” (Jones, Feltman 
+y Moreland, 2019), es decir una competencia entre los polos para ver quién ofrece mejores resultados. 
+Esto es el algo que en buena medida ya estamos viendo, con la Iniciativa de la Franja y la Ruta de China, 
+la Global Gateway3 de la Unión Europea y la Build Back Better World (B3W) Partnership4 de Biden, entre 
+otros. Pero hay un hecho alternativo, que es del maniqueísmo de buenos contra malos que se extiende 
+a los pueblos, que alimenta el racismo, que penaliza al otro, al distinto, y no ofrece una alternativa moral. 
+El tercer factor de la poliglobalización es el retorno de la política industrial, que es el que más nos 
+conecta con Prebisch. En su discurso, Sullivan buscaba justificar dos grandes políticas industriales de 
+Biden, las derivadas de la Inflation Reduction Act (IRA) 5 y la CHIPS Act6. La primera es un programa 
+3 La Comisión Europea y el alto representante de la Unión Europea han creado la Global Gateway, una nueva estrategia europea 
+para impulsar vínculos inteligentes, limpios y seguros en los sectores digital, energético y del transporte, así como para potenciar 
+los sistemas de salud, educación e investigación en todo el mundo.
+4 Iniciativa del G7 lanzada en junio de 2021 para el desarrollo de infraestructura en los países de ingresos medianos y bajos.
+5 Promulgada por el Presidente Biden en agosto de 2022, esta ley prevé un conjunto de ayudas públicas con las que se busca 
+estimular el consumo, la producción y la inversión ambientalmente sostenible.
+6 Promulgada por el Presidente Biden en agosto de 2022, esta ley prevé la inversión de los Estados Unidos en la fabricación, la 
+investigación y el desarrollo y la fuerza de trabajo en el área de los semiconductores. 
+51
+Revista de la CEPAL N° 141 • diciembre de 2023
+Rebeca Grynspan
+para fomentar las energías renovables, basado en buena parte en subsidios sumamente generosos, lo 
+cual ha despertado quejas de algunos países, especialmente en Europa. La segunda es un programa de 
+política industrial, pero de índole más proteccionista, basado en sanciones al sector de semiconductores 
+de algunos países, especialmente dirigido a China.
+Este tipo de políticas son reflejo de programas similares en el resto del mundo, como NextGenerationEU7 
+en Europa y Visión 2030 en la Arabia Saudita. China, el Japón y la República de Corea —que nunca 
+se desentendieron de la política industrial— han redoblado sus apuestas, con especial énfasis en las 
+áreas de semiconductores y energías renovables. En África, los líderes políticos hablan abiertamente 
+del Tratado de Libre Comercio Africano como un vehículo para la reindustrialización del continente. En 
+Indonesia, con miras a promover la diversificación a partir de sus productos básicos, se promulgó en 
+2019 una ley en contra de la exportación del níquel en bruto. En América Latina, en países como la 
+Argentina, Bolivia (Estado Plurinacional de), Chile y el Perú, se busca generar políticas similares para 
+fomentar una industria local del litio.
+Es importante resaltar la ironía de que muy poco de esto sería posible si la OMC tuviera un 
+órgano de apelación en funciones. Este punto pone de relieve la ambigüedad del nuevo sistema. 
+El mundo no cuenta con una estructura comercial adaptada a un contexto en que todos los polos 
+están haciendo política industrial, y esto, en el largo plazo, puede ser un peligro, en especial para los 
+países pequeños, que dependen de un comercio internacional basado en reglas. Es difícil pensar que 
+Costa Rica o Chile puedan tener una estrategia exitosa en un contexto donde los grandes polos y 
+especialmente las grandes potencias industriales, luchan en una guerra de subsidios, si bien creemos 
+que la política industrial, bien aprovechada, puede ser muy positiva a nivel nacional e internacional 
+cuando está basada en acuerdos multilaterales. 
+A nivel nacional, existe el potencial de reducir las brechas económicas que abrió la hiperglobalización, 
+de revertir la desindustrialización y de promover la diversificación y la transformación productiva de 
+los países del Sur. África, por ejemplo, tiene el 48% de las reservas de cobalto y manganeso, el 80% 
+del fosfato de roca y el 92% metales del grupo del platino (UNCTAD, 2023d). La transición energética 
+puede ser una gran oportunidad para la diversificación.
+Esta fue precisamente la premisa del Acuerdo General sobre Aranceles Aduaneros y Comercio (GATT), 
+uno de los grandes legados del pensamiento de Prebisch. Está bien que ideemos un comercio distinto, 
+más favorable a la transformación productiva de los países del Sur, más orientado a la transición 
+energética y al desarrollo, pero no tiremos al bebé con el agua de la bañera. Esto hay que hacerlo de 
+forma multilateral, negociada, transparente y justa. Un efecto dominó de medidas unilaterales, lideradas 
+además por una geopolítica polarizante nos llevará a un mundo que será peor para todos.
+Otro tema importante en la diversificación productiva es qué pasará con la digitalización. De 
+hecho, la principal transformación de las cadenas de valor de los últimos años es la intangibilidad 
+de las cadenas de valor. El comercio de bienes en términos de volumen cayó en 2022; el comercio de 
+servicios creció. Entre los servicios, a su vez, lo que más crece es el intercambio de propiedad intelectual 
+y, sobre todo, de datos. Todo esto llevado, por supuesto, por el crecimiento de la economía digital. 
+Ahora bien, es sabido que nuestro sistema comercial ya tenía un enorme vacío regulatorio en el ámbito 
+digital. La pregunta ahora es cómo afectará la política industrial a todo esto. La India ha demostrado 
+que se puede hacer política industrial para un desarrollo impulsado por la digitalización. Aquellos que 
+crean que la política industrial del siglo XXI es un tema solo de manufacturas, se equivocan. 
+No ahondaremos en el tema, pero es importante destacar que la inteligencia artificial nos traerá 
+importantes retos en un mundo poliglobalizado. El principal, en mi opinión, es el de cuestionarnos la 
+pregunta más básica y fundamental que tenemos: ¿cómo saber qué es la verdad? ¿qué es lo real? 
+Gracias a la inteligencia artificial ahora las “noticias falsas” son menos significativas: ahora tenemos 
+7 Plan de recuperación tras la pandemia de COVID-19.
+52
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Globalización dislocada: Prebisch, desbalances comerciales y el futuro de la economía global
+“fotos falsas”, “vídeos falsos”, “notas de voz falsas”, que esconden la falsedad en copias casi exactas 
+de la realidad. Nos enfrentamos a esta cuestión en una época en la que la información abunda, pero en 
+que la verdad es esquiva. Hemos visto las consecuencias: campañas de desinformación que afectan 
+los procesos democráticos, exacerban guerras y conflictos y socavan los esfuerzos de salud pública. 
+Están en juego la integridad de nuestras instituciones, la confianza en nuestros gobiernos y organismos 
+internacionales y la cohesión social de nuestras comunidades. La respuesta a esta pregunta no es 
+tecnológica: es ética. Cuando perdemos nuestra ética, perdemos nuestra humanidad y ya nada puede 
+guiarnos hacia un lugar mejor.
+IV. El legado de Prebisch  
+y el rol de las Naciones Unidas
+Debemos empezar por una verdad incontestable: Prebisch tenía razón. 
+Si miramos hacia atrás y vemos qué países lograron mayores niveles de desarrollo en los últimos 
+70 años, no hay duda de que los claros ganadores fueron aquellos que supieron implementar buenas 
+políticas de estrategia industrial. 
+La República de Corea es, quizás el caso paradigmático de país que siguió a Prebisch a 
+conciencia y triunfó. Dicho esto, es importante matizar. La política de la República de Corea fue de 
+industrialización con miras al comercio. Fue una política industrial aperturista, de cara y no de espaldas 
+al comercio mundial. El caso coreano también nos recuerda que la pregunta fundamental de la política 
+industrial es cuál es la mejor manera de implementarla. La República de Corea y, en mayor medida, 
+China demostraron que la política industrial es, sobre todo, un ejercicio de prueba y error, de voluntad 
+de innovar con métodos distintos. Asia no generó modelos económicos en un pizarrón y luego vio si 
+funcionaban o no; Asia empezó en el terreno, dejó morir lo que fracasó y replicó lo que triunfó. Por eso 
+la buena política industrial debe venir acompañada de una cultura industrial, estratégica e innovadora. 
+Sobre esto Mariana Mazzucato ha escrito mucho y dictó una Cátedra Prébisch hace unos años 
+(Mazzucato y Rodrik, 2023).
+También hay mucha literatura en los últimos años sobre cómo evitar el problema de la captura 
+del Estado, algo que sin duda padecimos en América Latina, y que la República de Corea supo resolver 
+disciplinando a sus grandes conglomerados empresariales (chaebol ), sus gigantes privados, a través 
+de lo que Peter Evans llamó autonomía integrada ( embedded autonomy) (Evans, 1995), es decir un 
+sistema donde el sector privado y el sector público trabajan de forma muy cercana, pero cada uno con 
+autonomía. El argumento de Evans es que en la relación público-privada de la política industrial hay 
+dos variables: autonomía e integración (embeddedness). Estas, a su vez, generan cuatro posibilidades: 
+baja autonomía y baja integración (Estado predatorio), baja autonomía y alta integración (Estado 
+clientelista), alta autonomía y baja integración (Estado regulatorio weberiano (Unión Europea)), y alta 
+autonomía y alta integración (Estado desarrollista (República de Corea)). Es importante revisitar esta 
+literatura y mirarla con nuevos ojos. Juhasz, Lane y Rodrik publicaron un estudio en agosto de 2023, 
+The New Economics of Industrial Policy, que contiene un recorrido antológico de la literatura reciente 
+de la política industrial (Juhász, Lane y Rodrik, 2023).
+En otros aspectos, el legado de Prebisch ha resultado aún más incontestable. La dependencia 
+de las materias primas es un caso bastante claro. Políticas como las que ha aplicado Indonesia con 
+respecto al níquel o las que están empezando a buscarse en el Cono Sur con respecto al litio tienen 
+un claro signo prebischiano. 
+Sin embargo, hay cosas que Prebisch no pudo prever.
+53
+Revista de la CEPAL N° 141 • diciembre de 2023
+Rebeca Grynspan
+La principal, quizás, es el surgimiento de “centros” dentro de la periferia. El caso de China puede 
+ser el más obvio. Prebisch pensaba que los países industrializados no querrían nunca perder la ventaja 
+que les daba su poderío manufacturero. La consecuencia principal de lo ocurrido es que la teoría de la 
+interdependencia asimétrica ahora va para los dos lados. Se podría decir que hay países avanzados 
+que dependen de países como China más que viceversa. El caso de la industria automotriz alemana 
+es un claro ejemplo.
+En el mundo de la poliglobalización, lo que estamos presenciando es una multiplicidad de centros 
+y periferias. Países como China o la India no reproducen exactamente las características del centro 
+histórico que Prebisch describió, sino que presentan una mezcla única de características de centro y 
+periferia, un híbrido que desafía la dinámica tradicional. Esto, de cara a negociaciones multilaterales 
+tanto dentro de las Naciones Unidas como fuera, en el G20 y en la OMC, entre otros ámbitos, tiene 
+implicaciones importantes, ya que estos nuevos centros tienen un signo claramente poscolonial y sus 
+simpatías naturales están en el Sur Global. El rol que jugó la India en incorporar a la Unión Africana en 
+el G20 es un ejemplo de esto.
+En todo caso, no hay duda de que aún dentro los múltiples centros, habrá dinámicas también 
+de periferia. Esto es algo que hemos empezado a ver en los datos económicos. En la última edición 
+de Trade and Development Report (UNCTAD, 2023e), hablamos de un crecimiento económico 
+en 2023 marcado por una doble divergencia: una divergencia en el Norte Global —entre Europa y los 
+Estados Unidos, con la primera en recesión y los segundos en un “aterrizaje suave” (soft landing)—, 
+y una divergencia en el Sur Global —los BRICS crecen rápidamente y el resto de los países están en 
+desarrollo, mientras que las economías frontera (frontier market economies) tienen importantes retos, 
+en particular el de deuda—. Las economías de frontera se encuentran entre los grandes mercados 
+emergentes y los países menos adelantados que, en la mayoría de los casos, son países pequeños 
+de renta media como Viet Nam, Senegal o Ghana (UNCTAD, 2023e). 
+Otra hipótesis de Prebisch que es importante revisitar es la del deterioro de los términos de 
+intercambio, la famosa hipótesis Prebisch-Singer, particularmente su pertinencia respecto de la nueva 
+economía digital y de los datos. Concretamente, en la economía moderna, los datos son comparables 
+a un recurso natural crudo. Son extraídos en vastas cantidades, a menudo con poco o ningún costo 
+para las empresas que los recopilan. Sin embargo, en forma similar a lo que ocurre con los recursos 
+naturales, los datos en sí mismos requieren procesamiento (mediante análisis y aprendizaje automático, 
+por ejemplo) para producir algo útil, como información procesable o productos de inteligencia artificial. 
+Esto es algo que hemos mostrado en el informe Digital Economy Report 2021, el más reciente 
+de la UNCTAD sobre economía digital. Solo dos países, China y los Estados Unidos, representan el 
+50% de los centros de datos de hiperescala, el 94% del capital inicial (startup capital ), el 70% de los 
+investigadores de inteligencia artificial y el 90% de la capitalización de las principales plataformas digitales 
+(Amazon, Alphabet, Google, Alibaba y Tencent) (UNCTAD, 2021). Lo cierto es que esta transferencia 
+desigual de valor puede perpetuar un ciclo de dependencia, una situación que tiene ecos claros del 
+deterioro de los términos de intercambio en el comercio tradicional de materias primas.
+Una importante omisión de Prebisch que hay que considerar es la ausencia de la perspectiva 
+de género en su análisis, algo muy propio de su época. La CEPAL ha hecho una enorme contribución 
+para demostrar cómo el comercio puede acentuar las desigualdades mediante diversos mecanismos: 
+el mercado laboral, la concentración productiva, la sobrerrepresentación de mujeres en sectores 
+precarios y de bajo valor agregado, la exacerbación de la injusta distribución del trabajo de cuidados 
+no remunerado en las sociedades y la brecha salarial en contra de las mujeres. De allí la relevancia de 
+emprender y proseguir iniciativas para analizar y actuar contra el impacto diferenciado del comercio 
+internacional en las mujeres. En la Undécima Conferencia Ministerial de la Organización Mundial del 
+Comercio, celebrada en Buenos Aires en diciembre 2017, se aprobó la Declaración Conjunta sobre 
+54
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Globalización dislocada: Prebisch, desbalances comerciales y el futuro de la economía global
+Comercio y Empoderamiento Económico de las Mujeres, que fue suscrita por 117 países8. Además, 
+hubo una iniciativa en ese sentido de Chile y el Uruguay en 20169. La declaración mencionada ha ido 
+adquiriendo un mayor respaldo de los países, en el Parlamento Europeo y a nivel regional y, conforme 
+han avanzado los años, aparecen cada vez más cláusulas con disposiciones de género en los acuerdos 
+regionales comerciales. Los principales propulsores en este tema han sido la Unión Europea, Chile y 
+el Canadá. 
+Por último, quisiera rescatar del legado de Prebisch, la idea original que llevó a la creación de 
+nuestras dos instituciones, la UNCTAD y la CEPAL: la firme creencia en la cooperación multilateral y 
+regional como herramienta esencial para el desarrollo económico, la justicia social y la resolución de 
+las tensiones entre los países desarrollados y en desarrollo.
+La visión de Prebisch no era simplemente diagnosticar los problemas inherentes a las estructuras 
+económicas globales, sino también fomentar una acción colectiva para abordar estas desigualdades. 
+Comprendía que las economías periféricas no solo enfrentaban desafíos en cuanto a términos de 
+intercambio, sino también a su capacidad para influir en las políticas y decisiones que afectaban su 
+futuro. La cooperación multilateral, en este sentido, significa dar voz a los países que históricamente 
+han sido marginados en la toma de decisiones global. Nuestras instituciones, en su longevidad, han 
+hecho mucho por dar esta voz, cerrar esta brecha y proveer soluciones justas para el mundo. 
+Pero nuestra mayor tarea apenas empieza. Destaco tres grandes labores a las que estamos llamados.
+La primera de esas labores es la de dar orden al caos. Somos instituciones heterodoxas, pero al 
+fin y al cabo somos instituciones. Es importante mantenernos funcionando como tales. Que nuestras 
+conferencias convoquen. Que no perdamos espacios. Que nuestras investigaciones no pierdan la 
+confianza de la gente. Esto es algo cada vez más difícil en la poliglobalización. Algunos polos querrán 
+que digamos una cosa, otros querrán que callemos. Mantener la ecuanimidad, la transparencia y la 
+confianza es un desafío cada vez mayor, pero también cada vez más importante. 
+Otra cosa importante en este aspecto es mitigar los daños colaterales de la disrupción de las 
+cadenas de valor, tema en que la UNCTAD ha abordado en concreto. Un ejemplo es la disrupción del 
+comercio de granos del Mar Negro, para lo que se trabajó en la Iniciativa del Mar Negro y el memorando 
+de las Naciones Unidas con la Federación de Rusia. 
+La segunda labor es la de investigar los fenómenos emergentes. Hay muchas cosas nuevas 
+que pasan en el mundo y estamos llamados a ser punteros. Cuando empezó la guerra en Ucrania, 
+por ejemplo, en la UNCTAD se hizo una evaluación rápida en apenas tres semanas de los efectos de 
+la guerra en las cadenas de valor de alimentos y energía (UNCTAD, 2022). Una investigación similar 
+es la que estamos haciendo sobre el impacto de la regulación climática de los países avanzados en 
+los países menos adelantados.
+La tercera labor es promover activamente la cooperación Sur-Sur y la integración regional para 
+adaptarnos y aprovechar mejor la poliglobalización. Como polo, América Latina es quizá la menos 
+cohesionada de todas las regiones. Esto responde, en parte, a la falta de integración, una tarea pendiente 
+de nuestra generación, que es fundamental retomar con fuerza. Si América Latina no se une hoy, no 
+sabrá mañana danzar con los elefantes. 
+En resumen, estamos en un período de transición, un cambio de dirección de péndulo en la 
+profundidad de la globalización. La poliglobalización puede ser una promesa de convergencia entre 
+diversidad y unidad, un camino hacia un futuro más incierto, pero posiblemente también más inclusivo. 
+Pero esta transición no está exenta de riesgos. Nos enfrentamos a la resistencia de viejas estructuras, a  
+ 
+8 Véase [en línea] https://www.wto.org/spanish/thewto_s/minist_s/mc11_s/mc11_s.htm. 
+9 Véase [en línea] https://conexionintal.iadb.org/2017/09/01/analisis-del-tlc-chile-uruguay/.
+55
+Revista de la CEPAL N° 141 • diciembre de 2023
+Rebeca Grynspan
+la inercia de las prácticas obsoletas y, lo más crítico, al riesgo real de no entendernos. Somos testigos 
+de un aumento descorazonador de los conflictos humanos, del espectro real de una nueva guerra 
+global y de que la Agenda 2030 para el Desarrollo Sostenible, la única agenda común que nos queda, 
+está en la trayectoria equivocada. 
+Por eso, quiero invitar a cada uno de ustedes a ser parte de esta transición. A aportar desde sus 
+trincheras, a construir puentes, a escuchar y aprender de la diversidad que nos rodea. La poliglobalización 
+con multilateralismo es una invitación a expandir nuestros horizontes y a practicar la empatía y la 
+colaboración. Es una versión más compleja, pero más rica, de la aldea global. Y como digo siempre, 
+en estos tiempos complejos solo la complejidad puede salvarnos.
+Bibliografía 
+AIE (Agencia Internacional de Energía) (2022), Securing Clean Energy Technology Supply Chains [en línea] 
+https://www.iea.org/reports/securing-clean-energy-technology-supply-chains.
+Cachanosky, N. y otros (2021), “The Federal Reserve’s response to the COVID-19 contraction: An initial 
+appraisal”, Southern Economic Journal, vol. 87, Nº 4. 
+CEPAL (Comisión Económica para América Latina y el Caribe) (2023a), Estudio Económico de América Latina 
+y el Caribe, 2023 (LC/PUB.2023/11-P/Rev.1), Santiago.
+(2023b), Deuda pública y restricciones para el desarrollo en América Latina y el Caribe   
+(LC/TS.2023/20), Santiago.
+Evans, P . (1995), Embedded Autonomy: States and Industrial Transformation, Princeton University Press. 
+Georgieva, K. (2023), “The Path to Growth”, Fondo Monetario Internacional (FMI) [en línea] https://www.imf.
+org/en/News/Articles/2023/04/13/sp-041323-md-the-path-to-growth.
+Georgieva, K. y N. Okonjo-Iweala (2023), World Trade Can Still Drive Prosperity, Fondo Monetario Internacional 
+(FMI)/Organización Mundial del Comercio (OMC) [en línea] https://www.imf.org/en/Publications/fandd/
+issues/2023/06/world-trade-can-still-drive-prosperity-georgieva-okonjo-iweala.
+Gros, D. (2018), “Trade wars in a winner-take-all world”, Project Syndicate [en línea] https://www.project-
+syndicate.org/commentary/trade-wars-monopoly-rents-by-daniel-gros-2018-04.
+Hamilton, E. (1930), The Greek Way, Paperback.
+Inglehart, R. y P . Norris (2016), “Trump, Brexit, and the Rise of Populism: Economic Have-Nots and Cultural 
+Backlash”, HKS Faculty Research Working Paper Series , Nº RWP16-026 [en línea] http://www.hks.
+harvard.edu/publications/trump-brexit-and-rise-populism-economic-have-nots-and-cultural-backlash.
+Jones, B., J. Feltman y W. Moreland (2019), Competitive Multilateralism: Adapting Institutions to Meet the 
+New Geopolitical Environment, Brookings Institution [en línea] https://www.brookings.edu/wp-content/
+uploads/2019/09/FP_20190920_competitive_multilateralism_FINAL.pdf.
+Juhász, R., N. Lane y D. Rodrik (2023), The New Economics of Industrial Policy  [en línea] https://drodrik.
+scholar.harvard.edu/sites/scholar.harvard.edu/files/dani-rodrik/files/the_new_economics_of_ip_080123.pdf.
+Lopez-Calva, L. F. y N. Lustig (2011), La disminución de la desigualdad en América Latina: un decenio de 
+progreso, Fondo de Cultura Económica.
+Mazzucato, M. y D. Rodrik (2023), “Industrial policy with conditionalities: a taxonomy and sample cases”, 
+Working Paper, Nº WP 2023/07, University College London, Institute for Innovation and Public Purpose. 
+Messina, J. y J. Silva (2018), Desigualdad del Ingreso en América Latina: comprendiendo el pasado para 
+preparar el futuro, Banco Mundial. 
+Naciones Unidas (2023a), Informe de los Objetivos de Desarrollo Sostenible. Edición especial. 
+(2023b), Informe de políticas de Nuestra Agenda Común 6: reformas de la arquitectura financiera 
+internacional  [en línea] https://www.un.org/sites/un2.un.org/files/our-common-agenda-policy-brief-
+international-finance-architecture-es.pdf.
+Olinto, P y otros. (2013), “The State of the poor: where are the poor, where is extreme poverty harder to end, 
+and what is the current profile of the world’s poor?”, Economic Premise, Nº 81801, Banco Mundial, octubre. 
+Oxfam (2023), “Survival of the richest” [en línea] https://www.oxfam.org/en/research/survival-richest.
+56
+Revista de la CEPAL N° 141 • diciembre de 2023 
+Globalización dislocada: Prebisch, desbalances comerciales y el futuro de la economía global
+Rodrik, D. (2015), “Premature Industrialization” [en línea] https://drodrik.scholar.harvard.edu/files/dani-rodrik/
+files/premature_deindustrialization_revised2.pdf.
+(2011), The globalization paradox: democracy and the future of the world economy , Nueva York,  
+W. W. Norton y Co.
+Subramanian, A. y M. Kessler (2013), “The hyperglobalization of trade and its future”, Peterson Institute for 
+International Economics Working Paper, Nº 13-6.
+Subramanian, A., M. Kessler y E. Properzi (2023), “Trade hyperglobalization is dead. Long live…?”, 
+Working Papers, Nº 23-11, Peterson Institute for International Economics (PIIE). 
+Sullivan, J. (2023), “Remarks by National Security Advisor Jake Sullivan on renewing American economic 
+leadership at the Brookings Institution”, The White House [en línea] https://www.whitehouse.gov/briefing-
+room/speeches-remarks/2023/04/27/remarks-by-national-security-advisor-jake-sullivan-on-renewing-
+american-economic-leadership-at-the-brookings-institution/.
+UIT (Unión Internacional de Telecomunicaciones) (2022), Global Connectivity Report 2022  [en línea]  
+https://www.itu.int/itu-d/reports/statistics/global-connectivity-report-2022/.
+UNCTAD (Conferencia de las Naciones Unidas sobre Comercio y Desarrollo) (2023a), World Investment 
+Report 2023 [en línea] https://unctad.org/system/files/official-document/wir2023_en.pdf.
+(2023b), A World of Debt [en línea] https://unctad.org/publication/world-of-debt.
+(2023c), Commodities and Development Report 2023: Inclusive Diversification and Energy Transition   
+[en línea] https://unctad.org/publication/commodities-and-development-report-2023.
+(2023d), Economic Development in Africa Report 2023 [en línea] https://unctad.org/publication/economic-
+development-africa-report-2023.
+(2023e), Trade and Development Report 2023  [en línea] https://unctad.org/publication/trade-and-
+development-report-2023.
+(2022), The Impact on Trade and Development of the War in Ukraine  [en línea] https://unctad.org/
+publication/impact-trade-and-development-war-ukraine.
+(2021), Digital Economy Report 2021 [en línea] https://unctad.org/publication/digital-economy-report-2021.

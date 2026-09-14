@@ -1,0 +1,2756 @@
+RELATÓRIO SOBRE A ESTRATÉGIA DO BNDES
+UM NOVO 
+BNDES PARA  
+OS NOVOS  
+TEMPOS
+ÍNDICE
+1. INTRODUÇÃO: VISÃO GERAL DA NOV A ESTRATÉGIA DO BNDES ..................................3
+2. AMEAÇAS E OPOR TUNIDADES VINDAS DOS CONTEXTOS GLOBAL E BRASILEIRO .......4
+2.1. A emergência climática .............................................................................................4
+2.2. As novas tecnologias .................................................................................................8
+2.3. A nova geopolítica mundial ....................................................................................10
+2.4. A economia internacional .......................................................................................11
+2.5. O desempenho econômico e social brasileiro ........................................................15
+2.6. O financiamento dos investimentos em infraestrutura ........................................19
+3. AS NOV AS ESTRATÉGIAS NO MUNDO E NO BRASIL  ......................................................23
+3.1. As novas estratégias mundiais ................................................................................23
+3.2. O novo impulso aos bancos de desenvolvimento no mundo ...............................26
+3.3. As novas políticas públicas no Brasil .......................................................................31
+4. A ESTRA TÉGIA DE LONGO PRAZO DO BNDES  ...............................................................35
+4.1. Histórico recente do BNDES ....................................................................................35
+4.2. A nova orientação estratégica ................................................................................45
+4.3. Os objetivos estratégicos (OE) ................................................................................52
+5. CONCLUSÃO.....................................................................................................................54
+6. BIBLIOGRAFIA ..................................................................................................................56
+7. ANEXO 1: DIRETRIZES ESTRA TÉGICAS ............................................................................60
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+3
+1. INTRODUÇÃO: VISÃO GERAL DA NOV A 
+ESTRATÉGIA DO BNDES
+O Brasil tem vários desafios à frente: ampliar seu patamar de investimentos, reverter a queda da 
+participação da indústria na economia, aumentar o esforço de investimento em pesquisa, desen -
+volvimento e inovação, remover gargalos na infraestrutura, bem como promover inserção interna-
+cional e as agendas de inclusão social, redução de desigualdades e valorização da diversidade. Esse 
+desenvolvimento precisa ser sustentável, com o enfrentamento da crise climática.
+A implementação dessas diferentes iniciativas requer a mobilização de diversos atores, a recupe -
+ração do investimento público e a realização de parcerias entre as esferas pública e privada. Nesse 
+contexto, a revalorização das instituições brasileiras, como o Banco Nacional de Desenvolvimento 
+Econômico e Social (BNDES), e o planejamento estratégico ganham muita importância. É necessá-
+rio potencializar a efetividade e a eficácia das ações, a coordenação de esforços e a troca de expe-
+riências para identificar as melhores formas de atuação, assim como mobilizar funding adequado 
+para que o BNDES desempenhe suas funções.
+As instituições financeiras públicas de desenvolvimento têm suma relevância nas estratégias nacio-
+nais de desenvolvimento. Contudo, foi observado no país, na segunda metade da década de 2010 
+e nos dois primeiros anos de 2020, um movimento na direção contrária da seguida por grandes 
+bancos de desenvolvimento de outros países, com diminuição da carteira de crédito e das partici-
+pações acionárias do BNDES. Nesse sentido, é crucial planejar a retomada e o aprimoramento da 
+atuação do Banco para o desenvolvimento sustentável do país.
+No primeiro semestre de 2023, diante da nova gestão na instituição, o BNDES reformulou sua 
+estratégia de longo prazo, com foco no referido ano. Passado esse primeiro momento, a etapa 
+seguinte foi o aprofundamento dos pontos principais do ajuste de rumos pretendido para a insti -
+tuição nos próximos anos. O resultado foi a elaboração da “Estratégia de longo prazo 2024-2028”, 
+doravante chamada de “Estratégia do BNDES”, que envolveu as diferentes áreas do Banco, utili-
+zando os conhecimentos acumulados, entrevistas com membros da alta administração e conversas 
+com especialistas externos. Durante as discussões, buscou-se a identificação dos grandes traços da 
+evolução da economia global, bem como das possibilidades e perspectivas da economia nacional.
+O objetivo deste trabalho é, inicialmente, aprofundar a visão das características e tendências das 
+economias mundiais e brasileira, as quais serviram de orientação para identificar as ameaças e 
+oportunidades para a Estratégia do BNDES. Ainda, busca-se mostrar as políticas públicas que vêm 
+sendo adotadas em outros países e no Brasil para lidar com os desafios atuais. Por fim, procura-se 
+apresentar a Estratégia do BNDES, com destaque para seus objetivos estratégicos.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+4
+O estudo está segmentado em cinco capítulos, incluindo este, de introdução, e um anexo. O Capí-
+tulo 2 trata das ameaças e oportunidades à Estratégia do BNDES, considerando a preocupação com 
+o aquecimento global, as megatendências mundiais em tecnologia digital, a geopolítica global, os 
+panoramas da economia internacional e a situação do Brasil e do financiamento à infraestrutura 
+nacional. O Capítulo 3 traz um panorama das políticas de desenvolvimento, da relevância dos ban-
+cos de desenvolvimento no mundo, bem como destaca três das principais políticas públicas inicia-
+das pelo Governo Federal em 2023. O Capítulo 4 mostra o desempenho recente do BNDES, seguido 
+pela identidade institucional e apresentação da nova orientação estratégica do Banco. O Capítulo 
+5 apresenta as considerações finais, e, no Anexo, é detalhada a Estratégia do BNDES. 
+2. AMEAÇAS E OPOR TUNIDADES VINDAS DOS 
+CONTEXTOS GLOBAL E BRASILEIRO
+Desde a crise financeira de 2008, o cenário mundial tem sido de instabilidade no crescimento 
+econômico, agravado pela pandemia de Covid-19 em 2020. A concentração de renda se acentuou, 
+o movimento de globalização econômica recuou e, simultaneamente, a crise climática piorou.  
+No campo das novas tecnologias, o desenvolvimento da inteligência artificial (IA) traz promessa de 
+ganhos de produtividade, mas ameaça empregos, inclusive aqueles que requerem alta qualificação 
+de mão de obra.
+Este capítulo trata dos grandes acontecimentos e megatendências mundiais e no Brasil. E, ao fim 
+de cada seção, são apresentadas as ameaças e oportunidades priorizadas no tema tratado para fins 
+da elaboração da Estratégia do BNDES.1
+2.1.  A emergência climática
+A emergência climática é, reconhecidamente, um dos maiores desafios globais. O Programa das 
+Nações Unidas para o Meio Ambiente (PNUMA) aponta que a média global das temperaturas em 
+setembro de 2023 ficou 1,8°C acima do nível pré-industrial (UNEP, 2023). Embora isso não signifi-
+que que o mundo tenha ultrapassado a marca de 1,5°C, especificada no Acordo de Paris, o relatório 
+considera que estamos nos aproximando desse nível. O Fórum Econômico Mundial (FEM), por 
+1 A análise de riscos e oportunidades é exigida pela Lei 13.303, de 30 de junho de 2016 (Lei das Estatais), que, em 
+seu art. 23, § 1º, II, define que compete ao Conselho de Administração a aprovação da “estratégia de longo prazo 
+atualizada com análise de riscos e oportunidades para, no mínimo, os próximos 5 (cinco) anos”. Para cada ameaça 
+e oportunidade mapeada, nesse horizonte de cinco anos, foram avaliados os graus de probabilidade de ocorrência 
+e impacto na estratégia, categorizados em: baixo (1), médio (2) e alto (3). Foram priorizados itens que atenderam a 
+qualquer um dos critérios: i) impacto 3, independentemente da probabilidade; e ii) impacto 2 e probabilidade 2 ou 3. 
+Para fins da estratégia, os temas foram reagrupados nas dimensões: política/legal; econômica; sociocultural; tecnoló-
+gica; e ambiental e climática.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+5
+sua vez, elenca que, no horizonte de dez anos, os quatro maiores riscos globais estão associados 
+a temas do meio ambiente (Gráfico 1). 2 Os riscos compreendem: (i) eventos climáticos extremos; 
+(ii) mudanças nos sistemas do planeta (tais como elevação do nível dos oceanos e mudanças nas 
+correntes marítimas); (iii) perda de ecossistemas; e (iv) escassez de recursos naturais (WEF, 2024).3
+GRÁFICO 1. RISCOS GLOBAIS E SEUS IMPACTOS DOIS E DEZ ANOS À FRENTE NO CURTO E LONGO PRAZO*
+ 
+Eventos climáticos extremos Mudança nos sistemas do planeta
+Perda de ecossistemas 
+Escassez de recursos naturais 
+Fake newsEfeitos adversos da inteligência arti/f_icial
+Imigração involuntária
+Insegurança
+cibernética
+Polarização social
+Poluição
+Falta de oportunidades econômicas
+Concentração de 
+poder tecnológico 
+Concentração de recursos estratégicos
+Vigilância de informação Con/f_litos armados entre países
+Confrontos geoeconômicos
+Dívida
+Erosão de direitos humanos
+Doenças infecciosas
+Doenças crônicas Infra precária
+Violência
+Falha em infraestruturas críticas D
+isrupção cadeias produtivas
+Ameaça nuclear e bio.
+Desemprego RecessãoFalta de
+trabalhadores 
+Bolha de ativos
+Atividades ilícitas 
+In/f_lação
+Terrorismo
+3,5
+4,0
+4,5
+5,0
+5,5
+6,0
+2,5 3,0 3,5 4,0 4,5 5,0
+Impacto 10 anos à frente
+Impacto 2 anos à frente
+Desastres naturais não
+associados ao clima
+Efeitos adversos das
+novas tecnologias 
+Fonte: Elaboração própria, com base em dados de WEF (2024).
+* O grau de impacto foi avaliado na escala de 1 (baixo impacto) a 7 (alto impacto).
+Em termos globais, o setor de energia é responsável por cerca de três quartos das emissões atuais 
+de gases de efeito estufa, e sua reestruturação é fundamental para evitar os piores efeitos das 
+mudanças climáticas (IEA, 2023a, p. 13). A Agência Internacional de Energia (IEA), de forma con-
+gruente aos esforços do Acordo de Paris, considera a necessidade de limitar o aumento da tempe-
+ratura global em 1,5°C até 2050 (em relação ao nível pré-industrial), procurando zerar as emissões 
+líquidas de dióxido de carbono (CO2) até 2050 (cenário net zero emissions [NZE]).
+2 O Gráfico 1 mostra os riscos apontados como mais severos nos horizontes de dois e dez anos. A pesquisa foi feita 
+com 1.490 especialistas da academia, do meio empresarial, do governo, da comunidade internacional e da sociedade 
+civil. As respostas foram coletadas entre 4 de setembro e 9 de outubro de 2023.
+3 IPCC (2023) analisa os impactos observados e riscos das mudanças climáticas, bem como o andamento das 
+medidas de mitigação e adaptação.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+6
+O Gráfico 2 mostra que isso implicará profunda transformação na matriz energética mundial em 
+direção a fontes renováveis (bioenergia, eólica, solar, hídrica e geotérmica), que passarão a suprir 
+dois terços da oferta de energia em 2050. 4 A participação de combustíveis fósseis (carvão, gás 
+natural e petróleo) na matriz energética mundial cairia de 80%, em 2020, para 16%, em 2050. O uso 
+desses combustíveis ficaria restrito, principalmente, a plantas industriais com capacidade de cap-
+tura, aproveitamento e armazenagem das emissões (CCUS – do original carbon capture, utilization 
+and storage) e a setores com dificuldade de reduzir emissões, como indústria pesada e transporte 
+de longa distância.
+GRÁFICO 2. CENÁRIO NZE DE OFERTA MUNDIAL DE ENERGIA, POR FONTE (EJ*)
+54
+88
+385
+87
+137
+32
+28
+29
+67
+97
+154
+15
+154
+173
+42
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+1990 2000 2010 2020 2030 2040 2050
+Renováveis Gás natural Nuclear Carvão Petróleo
+Fonte: Elaboração própria, com base em dados da IEA (2023b).
+* EJ: exajoules.
+A IEA (2021) aponta que deveriam ser alcançados alguns marcos mundiais relativos à transição 
+energética para o NZE, dos quais destacam-se:
+i. até 2025: não haver novas vendas de aquecedores a partir de combustíveis fósseis;
+ii. até 2030: 60% dos carros vendidos serem elétricos e todos os novos edifícios serem de alta 
+eficiência energética (zero-carbon-ready);
+iii. até 2040: fim de todas as termelétricas a base de petróleo ou de carvão sem controle de 
+emissões (unabated coal); e
+iv. até 2050: mais de 90% da produção da indústria pesada ser de baixa emissão e quase 70% da 
+geração global de eletricidade ser de fontes renováveis (solar ou eólica) ou biomassa.
+4 Nesse cenário da IEA, a oferta mundial de energia cai de 581 exajoules (EJ), em 2020, para 571 EJ, em 2030, e 
+541 EJ, em 2050.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+7
+De acordo com o Network for Greening the Financial System (NGFS, 2022), um cenário em que 
+o NZE é alcançado de forma ordenada (orderly scenario), com políticas climáticas cada vez mais 
+rigorosas até 2050, resultaria, ao fim deste século, em aumento da temperatura inferior a 2°C em 
+relação ao nível pré-industrial, e em um Produto Interno Bruto (PIB) mundial cerca de 2% menor 
+em relação ao PIB de referência (projetado sem considerar os efeitos da mudança no clima). Em 
+contraste, no cenário em que apenas as políticas existentes são implementadas (hot house world 
+scenario), o aumento da temperatura global ficaria acima de 3°C ao fim do século, com impactos 
+severos e irreversíveis. Nesse caso, a NGFS apresenta estimativa de que o PIB global ficaria mais 
+de 10% abaixo do PIB de referência, com o limite superior do intervalo de confiança, o qual tem 
+impacto de 18%, atingindo mais os países tropicais, como o Brasil.
+As medidas adotadas por diferentes países relacionadas à transição climática abrangem, entre 
+outros, créditos tributários e subsídios maciços para tecnologias limpas selecionadas – captura 
+de carbono, hidrogênio verde, energia solar e eólica (onshore e offshore), eficiência energética e 
+veículos elétricos.5 Avanços relevantes já foram alcançados com as tecnologias verdes, ainda que 
+longe de representar uma solução global e para todos.
+O relatório da IEA (2023a) traz boa notícia quanto aos investimentos mundiais em energia limpa. 
+Em meio às tensões geopolíticas (como o conflito na Ucrânia, que tem levado países da União 
+Europeia (UE) a buscarem segurança energética), esses investimentos avançaram 24%, bem mais 
+rápido do que os 15% em combustíveis fósseis, considerando 2022 e a estimativa para 2023 (IEA, 
+2023a, p. 12). Contudo, mais de 90% do aumento dos investimentos em energia limpa tem ocorrido 
+em países desenvolvidos e na China. 6 Após longo período de queda ininterrupta, houve alta de 
+custos com energias limpas, em 2021 e 2022, devido ao aumento dos preços de matérias-primas 
+e componentes como minerais críticos, aço, cimento e semicondutores. O lucro antes de juros e 
+impostos (LAJIR ou EBIT – do original earnings before interest and taxes) médio no setor de energia 
+eólica, dos produtores de turbinas na UE e nos Estados Unidos da América (EUA), tem sido ínfimo, 
+se não negativo (IEA, 2023a, p. 39). 
+Diante desse contexto, é necessária atenção aos efeitos sociais e aos avanços diferenciados entre 
+os países no enfrentamento da emergência climática. Como transitar de uma indústria quintessen-
+cial ao próprio capitalismo do século XX para uma com neutralidade na emissão de carbono? Entre 
+os desafios, está a substituição dos empregos intensivos em carbono. Países que tiverem melhores 
+estruturas de incentivos tenderão a capturar parcelas maiores das oportunidades associadas à 
+transição climática, com impactos na criação de empregos, além de reduzirem perdas associadas a 
+desastres climáticos e custos públicos com saúde.
+5 A seção 3.1 trata das políticas públicas dos países, nas quais se destacam medidas para a transição climática.
+6 A IEA (2023a) destaca alguns “pontos brilhantes” (bright spots) fora desses países – entre os quais está o Brasil –, 
+com uma inclinação firme para cima na curva de investimentos em energias limpas.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+8
+No Brasil, a principal causa das emissões de gases de efeito estufa está no uso do solo, sendo 
+necessário, além da transição energética, coibir o desmatamento e intensificar as práticas agrope-
+cuárias de baixo carbono. Nesse sentido, são consideradas como ameaças à estratégia do BNDES:
+• o impacto socioeconômico das mudanças climáticas;
+• os efeitos do desmatamento; e
+• os efeitos da perda de biodiversidade.
+Tais ameaças têm impactos globais e no Brasil e prejudicam a imagem do país, dificultando a atra-
+ção de investidores e a inserção competitiva dos produtos brasileiros em um mercado internacio-
+nal cada vez mais restritivo.7
+No âmbito das oportunidades identificadas, estão: 
+• a transição para energias renováveis e a descarbonização das indústrias e cadeias de valor; 
+• as medidas de mitigação e de adaptação aos efeitos das mudanças climáticas; 
+• as regulamentações ambientais e climáticas mais restritivas; 
+• os efeitos dos compromissos internacionais de redução das emissões; e 
+• a regulamentação do mercado de carbono.
+As regulamentações, medidas e compromissos citados podem gerar oportunidades para o 
+Banco, tanto de acesso a recursos como de apoio a iniciativas de mitigação e adaptação às 
+mudanças climáticas.
+2.2. As novas tecnologias
+Entre as megatendências mundiais,8 está a transformação digital, que envolve os processos de auto-
+mação e, sobretudo, o uso de IA. A inteligência artificial generativa ( gen-AI) refere-se à chamada 
+aprendizagem de máquina (machine learning), que consiste na capacidade da IA de aprender a 
+partir de comportamentos dos usuários e do acesso a múltiplas bases de dados.
+Tais avanços tecnológicos abrem possibilidades de incremento da produtividade da economia e 
+de desenvolvimento de cidades inteligentes, com o uso de IA na melhoria da prestação de serviços 
+7 Entre as restrições, o Carbon Border Adjustment Mechanism (CBAM), instituído pela UE, coloca um custo adicional 
+às importações de determinados bens pela UE, correspondente às emissões de carbono na produção desses bens. 
+Esse custo é pago por meio da compra de certificados CBAM, precificados com base no EU Emissions Trading System 
+(ETS). Caso os importadores comprovem que o produtor já pagou algo pela emissão de carbono, esse pagamento 
+pode ser deduzido do gasto com o certificado. O CBAM entrou em vigor em 1º de outubro de 2023, sendo aplicado 
+inicialmente aos segmentos de cimento, ferro e aço, alumínio, fertilizantes, eletricidade e carbono. Outra restrição da 
+UE é o Regulation on Deforestation Free Products (EUDR), com previsão de início em 30 de dezembro de 2024, que 
+requer que os comerciantes coletem as coordenadas geográficas de onde os bens foram produzidos. No âmbito dessa 
+iniciativa está a construção de um observatório com mapas e informações sobre as cadeias de produção livres de 
+desmatamento, com a proibição de comercialização de produtos (não inclui material reciclado) que não estejam com 
+a localização registrada.
+8 Marcial e Pio (2023) analisam as megatendências mundiais.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+9
+públicos. Contudo, aumentam a preocupação com o crescimento do desemprego. Ao fim de 2022 
+e início de 2023, o lançamento de chatbots com IA, capazes de gerar textos complexos e sugerir 
+ideias novas, trouxe a possibilidade concreta de máquinas substituírem humanos, mesmo em ati-
+vidades com maior exigência de mão de obra qualificada. Villafuerte (2023), por sua vez, considera 
+que países com maiores investimentos em educação e novas tecnologias estarão em vantagem no 
+desenvolvimento industrial e na atração de empresas estrangeiras. Em contraste, o autor argu -
+menta que países que não conseguirem adotar uma política econômica e social com vistas a ciência 
+e tecnologia tornar-se-ão arenas ou satélites das potências tecnológicas.
+Em estudo recente do Fundo Monetário Internacional (FMI), Cazzaniga et al. (2024) calculam que 60% 
+dos empregos em países desenvolvidos tendem a ser impactados por IA, com 27% sendo beneficiados 
+pelo aumento de produtividade. Para os 33% restantes, é esperado que a IA resulte em automação de 
+atividades, reduzindo a demanda de trabalho e, até mesmo, tornando alguns empregos obsoletos. Em 
+países em desenvolvimento, o percentual de impactados cai para 40%, com efeitos positivos e negati-
+vos, respectivamente, em 16% e 24% dos empregos. Para o Brasil, a estimativa é de 41% dos empregos 
+impactados pela adoção da IA, com percentual ligeiramente maior de negativamente afetados. Em que 
+pese essas estimativas sugerirem maiores mudanças nos mercados de trabalho em países desenvolvi-
+dos, os aumentos de produtividade também devem ser maiores nessas economias, que tendem a estar 
+mais bem posicionadas para alavancar os ganhos trazidos pelas novas tecnologias. A adoção da IA tam-
+bém deve aumentar as desigualdades de renda dentro de cada país, com os empregos mais afetados 
+negativamente devendo ser os de apoio administrativo, em contraste com a expectativa de impacto 
+positivo nas ocupações com exigência de maior nível de instrução e gerenciais.
+Outra grande preocupação tem sido com o uso crescente das novas tecnologias na manipulação de 
+informações, sendo as fake news consideradas a maior ameaça global no horizonte de dois anos (WEF, 
+2024). De acordo com esse relatório, a utilização dos avanços tecnológicos na propagação de conteúdo 
+falso pode impactar os processos de eleição de governantes de países, vindo a favorecer sistemas polí-
+ticos autoritários. Outro efeito das novas tecnologias é acelerar a corrida armamentista, ao elevar a 
+inteligência e a precisão dos arsenais militares. Como resultado, a IA levanta questões éticas ligadas à 
+necessidade de definir códigos de conduta para os softwares e de impedir eventual desumanização das 
+decisões em conflitos armados, com implicações para a sobrevivência da espécie humana.
+No âmbito específico do BNDES, as novas tecnologias na automação de operações financeiras e 
+gen-AI têm impacto direto no processo de concessão de crédito. O open banking, ao ampliar o 
+acesso a informações dos clientes em diferentes instituições financeiras, contribui para precifica-
+ção dos riscos.
+As novas tecnologias também abrem possibilidades de novas frentes de negócios e de parcerias 
+com outras instituições financeiras. Entre tais oportunidades, estão as de promover tecnologias 
+limpas e a transformação digital dos setores produtivos. Com base em pesquisa realizada em 2021, a 
+Confederação Nacional da Indústria (CNI, 2023) aponta que 31% das empresas industriais do país 
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+10
+não utilizam sequer uma tecnologia digital, em uma lista de 18 tipos, ao passo que 26% utilizam 
+somente de uma a três tecnologias. Os percentuais de empresas que não adotam qualquer um 
+desses tipos são menores entre as grandes (14%), aumentando para 36% e 58%, respectivamente, 
+para as médias e pequenas empresas.
+2.3. A nova geopolítica mundial
+A nova geopolítica tem como uma de suas principais características a fragmentação das relações 
+de poder entre os atores globais, ou seja, um mundo multipolar. Disso resulta um sistema interna-
+cional de maior complexidade e dificuldade para a solução de conflitos por meio dos canais políti-
+cos e institucionais tradicionais. Esse cenário requer, por sua vez, a construção de novas formas de 
+diálogo e cooperação na diplomacia internacional.
+Nessa nova geopolítica mundial, as instituições multilaterais enfrentam dificuldades para admi-
+nistrar crises e promover a paz (Conferência de Segurança Internacional do Forte, 2023). Os ins -
+trumentos existentes, como o uso de sanções econômicas, têm sido pouco eficazes para evitar 
+conflitos armados, vide Rússia e Ucrânia.
+Uma das consequências desse mundo multipolar tem sido o aumento do protecionismo, em 
+paralelo ao esvaziamento da Organização Mundial do Comércio (OMC) como fórum de solu-
+ção de disputas comerciais (Ramalho, 2023). A pandemia de Covid-19 intensificou a busca por 
+autossuficiência, ao desorganizar cadeias produtivas globais, e o movimento de reshoring (vol -
+tar a produzir no país) nos EUA acentuou o processo. O conflito na Ucrânia tem pressionado 
+países da UE a aumentarem a geração própria de energia, visando reduzir a dependência de 
+gás da Rússia. No momento da elaboração deste documento, havia o temor de escalada do 
+conflito entre Israel e Hamas para outros atores, afetando o mercado de petróleo e o fluxo de 
+mercadorias pelo Mar Vermelho.
+Em meio à acirrada competição pela liderança mundial em tecnologia da informação (TI), China 
+e EUA têm buscado autossuficiência no setor e, sobretudo, acabar com a dependência de insu -
+mos críticos produzidos por países mais afastados do seu polo de influência. Atualmente, os mais 
+variados produtos e sistemas operam através de semicondutores, de aparelhos de micro-ondas a 
+mísseis, de smartphones ao mercado de ações (Miller, 2022). No entanto, a produção desses dispo-
+sitivos é extremamente concentrada em poucos países e empresas, elevando os riscos associados 
+à dependência de poucos fornecedores.9
+Existe forte receio quanto à utilização de TI para fins militares, em espionagem ou campo de bata-
+lha. Eichengreen (2023) aponta que, alegando questões de segurança nacional, os EUA têm adotado 
+medidas de restrição de comércio e investimentos estrangeiros em relação à China, que incluem 
+9 Miller (2022, p. XXV) aponta que os chips produzidos em Taiwan são responsáveis por 37% da adição de capacidade 
+computacional mundial a cada ano. A empresa holandesa ASML, por sua vez, fabrica 100% das máquinas mundiais de 
+litografia com luz ultravioleta extrema, sem as quais não seria possível produzir os mais modernos chips atuais.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+11
+proibição à importação de determinados equipamentos de comunicação, bem como a suspensão de 
+licenças para empresas americanas exportarem produtos para correspondentes chinesas. A China, 
+por sua vez, passou a restringir a exportação de minerais amplamente usados na fabricação de semi-
+condutores e veículos elétricos, além de proibir algumas empresas americanas de atuarem no país.
+A nova geopolítica mundial traz ameaças, mas também oportunidades, para o Brasil. Como ameaça, 
+destaca-se a eventual adoção de políticas industriais e de incentivos econômicos nos demais paí -
+ses que afete negativamente o comércio exterior ou a entrada de capitais no Brasil.
+No âmbito das oportunidades, estão os chamados powershoring e nearshoring. O primeiro tem 
+relação com a vantagem absoluta10 brasileira na produção de energia limpa e renovável, associada 
+a potencial hidrelétrico, capacidade de produção de biomassa, incidência solar e de ventos. Essa 
+vantagem abre oportunidade para o país atrair projetos em setores intensivos em energia, assim 
+como na exploração de novas tecnologias, como a do hidrogênio verde e a do combustível sus-
+tentável de aviação (SAF – do original sustainable aviation fuel ). O hidrogênio verde pode vir a 
+ser usado tanto para a exportação de energia como para uso industrial na produção de amônia e 
+fertilizantes, reduzindo a dependência de importações nesse segmento.
+O nearshoring (ou friendshoring), por sua vez, tem relação direta com o contexto de acirramento 
+da polarização global, que tem levado países a considerarem questões geopolíticas em suas deci -
+sões de comércio e de parcerias com outras economias. Nesse contexto, o interesse pelo Brasil 
+aumenta, em virtude do bom relacionamento com os demais países, abrindo maiores oportunida-
+des de comércio, atração de capital e parcerias estratégicas com outras economias.
+2.4. A economia inter nacional
+Um breve panorama da economia internacional nos últimos anos mostra que, após três décadas de 
+crescimento sustentado com inflação sob controle em meio a um processo de crescente globaliza-
+ção, o mundo passou a enfrentar grandes crises a partir de 2008. A crise financeira global de 2008 
+provocou forte recessão mundial, seguida pela persistência de um nível de atividade econômica 
+abaixo do desempenho nos anos pré-crise.
+Em 2020, além da crise de saúde e da inestimável perda de vidas humanas, a pandemia de Covid-19 
+voltou a colocar o mundo em recessão (Box 1). Chancel et al. (2021, p. 46) observaram que a pande-
+mia exacerbou as desigualdades sociais dentro dos países. O relatório aponta que em economias 
+de alta renda, como as do EUA e da Europa, foram adotadas políticas públicas cruciais para conter 
+o aumento das desigualdades. Em contraste, em economias emergentes e de baixa renda, com 
+10 A literatura costuma usar o conceito de vantagem comparativa, usualmente aplicado em comparações setoriais. 
+Ter vantagem comparativa em energia significa que, em relação a outros setores, o país tem maior aptidão para 
+atividades mais associadas ao uso de energia. Neste documento, preferiu-se o conceito de “vantagem absoluta”, pelo 
+fato de o Brasil reunir condições peculiares em termos de rios, ventos, incidência solar e biomassa para a geração de 
+energia, as quais não são facilmente encontradas em outros países.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+12
+sistemas de proteção social pouco desenvolvidos ou quase inexistentes, os efeitos da pandemia 
+foram mais severos.
+Ao olhar para o futuro, as ameaças apresentadas pelo aquecimento global às condições de vida no 
+planeta afetam de maneira desigual grande parte da população mundial. O Painel Intergoverna -
+mental sobre Mudanças Climáticas (IPCC, 2022, p.  1227) destaca que as mudanças climáticas têm 
+consequências adversas severas sobre as populações mais pobres, que são, em geral, mais depen-
+dentes de ecossistemas vulneráveis.
+BOX 1
+O CRESCIMENTO DA ECONOMIA MUNDIAL NO SÉCULO XXI
+Dados do Banco Mundial (2024a) e FMI (2024) mostram que a economia mundial apresenta cresci-
+mento acumulado de 92% (2,9% ao ano) no século XXI (de 2001 a 2023). O Gráfico 3 mostra as duas 
+recessões do século na economia mundial, em 2008 e 2020. Ambas resultaram em perda de PIB, 
+uma vez que não foram seguidas por desempenhos econômicos mais robustos nos anos seguintes, 
+capazes de compensar as retrações ocorridas. De 2001 a 2007, a economia mundial cresceu 3,5% ao 
+ano. Caso fosse mantida essa taxa ao longo de todo o período de 2001 a 2023, o crescimento acu-
+mulado teria sido de 122%, e não de 92%, uma diferença de 30 pontos percentuais. O Brasil cresceu 
+acima da média mundial entre 2008 e 2014, conseguindo ser menos afetado pela crise financeira 
+global de 2008, mas passou a ficar muito abaixo dessa média nos anos seguintes.
+GRÁFICO 3. TAXAS DE CRESCIMENTO DO MUNDO E DO BRASIL (% AO ANO)
+Mundo Brasil Países da OCDE*
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Fonte: Elaboração própria, com base em dados Banco Mundial (2024a) e FMI (2024).
+* Dados de 2023 vieram de FMI (2024), considerando economias avançadas como proxy para países da Organização 
+para a Cooperação e Desenvolvimento Econômico (OCDE).
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+13
+No conjunto, as tendências econômicas gestadas no século XXI, juntamente com os desafios cli-
+máticos e na área de saúde, reforçaram a importância de se implementar estratégias (explícitas 
+ou implícitas) de desenvolvimento. Outro determinante da mudança para o maior ativismo das 
+políticas públicas foi a crescente emergência da China como grande potência no cenário mundial. 
+Nesse sentido, os relacionamentos e atritos entre as principais potências têm adicionado um risco 
+geopolítico relevante ao panorama global, abordado na seção anterior.
+As estratégias que têm sido adotadas conjugam políticas macroeconômicas, de inclusão e setoriais 
+(políticas financeiras, comerciais e industriais). Há um reconhecimento crescente que os estados 
+nacionais devem saber utilizar uma variedade de instrumentos para atingir seus objetivos, espe-
+cialmente no tocante ao estímulo da demanda doméstica (Calcagno et al., 2015, p. 4). 
+No contexto macroeconômico de mais curto e médio prazo, o destaque tem sido a persistência da infla-
+ção elevada e de políticas monetárias contracionistas nas principais economias mundiais, trazendo essa 
+alta de preços para um patamar razoável. Tomando como exemplo os EUA, de 2012 até 2020 a inflação 
+ao consumidor (consumer price index) oscilou em torno de 1,6% ao ano, ficando sempre próxima da meta 
+anual implícita ou explícita de 2% praticada pelo Federal Open Market Committee (FOMC).11 Essa con-
+juntura mudou no início de 2021. Inicialmente visto como um movimento transitório pelo Federal Reserve 
+Bank (FED), relacionado a problemas de suprimento em cadeias produtivas globais,12 a inflação acumu-
+lada em doze meses saltou para 7,2% em dezembro de 2021, e atingiu o recorde de 8,9%, em junho de 
+2022 (Ihrig, Kliesen e Wolla, 2023). Diante dessa aceleração, o FOMC aumentou a taxa de juros básica (FED 
+Funds rate) do nível quase zero de 0-0,125%, em março de 2022, para 5,25-5,5%, em julho de 2023. Após o 
+pico de junho, a inflação americana recuou para 6,5%, em 2022, e 3,4%, em 2023.13
+No momento da elaboração deste documento, as estimativas do FMI (2024) eram de estabilização 
+do crescimento da economia mundial em 3,2%, em 2024 e 2025 (Tabela 1). De acordo com o FMI, 
+trata-se da sustentação de um ritmo mais modesto comparado com padrões históricos. Os moti -
+vos apontados para o menor vigor no crescimento incluem as consequências de longo prazo da 
+pandemia de Covid-19, o conflito entre Rússia e Ucrânia, o fraco crescimento da produtividade e a 
+crescente fragmentação geoeconômica.
+O relatório do FMI (2024) destacou algumas ameaças e oportunidades ao desempenho da econo-
+mia mundial. Como ameaças, foram apontadas as possibilidades de: 
+• novos saltos nos preços de commodities em meio a conflitos regionais; 
+11 “Since the mid-1990s, the Federal Open Market Committee (FOMC) has had an implicit or explicit annual 
+inflation target of 2%. In August, the FOMC revised its monetary policy framework to say that the Fed would seek an 
+average inflation target of 2% over the long run” (Federal Reserve Bank of St. Louis, 2021). O FOMC, assim como o 
+Comitê de Política Monetária (Copom) no Brasil, tem a responsabilidade de definir a taxa de juros básica da economia.
+12 Na reunião de abril de 2021, o FOMC apontou que a inflação tinha subido, sobretudo, por eventos transitórios 
+(“inflation has risen, largely reflecting transitory facts”, Federal Reserve Bank of St. Louis, 2021), associados à desorga-
+nização das cadeias produtivas globais. Essa desorganização teve relação com a pandemia de Covid-19, que, ao elevar 
+abruptamente a demanda de semicondutores para uso em computadores pessoais e modem, por conta de home 
+office, afetou o suprimento desses componentes para variados setores da economia, gerando pressão inflacionária.
+13 Dados do U.S. Bureau of Labor Statistics. Disponível em: https://www.bls.gov/news.release/cpi.nr0.htm.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+14
+• persistência de inflação elevada e estresse financeiro; 
+• frustração na recuperação da economia chinesa; 
+• ajustes fiscais disruptivos e estresse de endividamento; 
+• falta de confiança nos governos erodindo o andamento de reformas; e 
+• aumento na fragmentação geoeconômica. 
+Já como oportunidades, foram destacados pelo FMI:
+• impulsos fiscais de curto prazo no contexto de eleições;
+• queda inesperada nas expectativas de inflação, permitindo maior abrandamento nas políti -
+cas monetárias;
+• aumento na produtividade decorrente de inteligência artificial; e
+• aceleração na implementação de reformas estruturais que impulsionem a produtividade da 
+economia, melhorem o ambiente de negócios, entre outros efeitos.
+TABELA 1. PROJEÇÕES DO FMI PARA A ECONOMIA MUNDIAL
+Projeções
+2023 2024 2025
+Crescimento mundial (%) 3,2 3,2 3,2
+Economias avançadas 1,6 1,7 1,8
+Estados Unidos 2,5 2,7 1,9
+Zona do Euro 0,4 0,8 1,5
+Alemanha -0,3 0,2 1,3
+Japão 1,9 0,9 1,0
+Mercados emergentes e economias em desenvolvimento 4,3 4,2 4,2
+China 5,2 4,6 4,1
+Índia 7,8 6,8 6,5
+America Latina e Caribe 2,3 2,0 2,5
+Brasil 2,9 2,2 2,1
+México 3,2 2,4 1,4
+Crescimento do comércio mundial: bens e serviços (volume, %) 0,3 3,0 3,3
+Inflação mundial (consumidor, %) 6,8 5,9 4,5
+Fonte: FMI (2024).
+Uma recessão global ou uma eventual instabilidade da economia mundial ou em países-chave para o 
+Brasil influenciam a estratégia do BNDES. Outro risco é um evento de cauda, como uma nova pandemia 
+mundial ou uma crise bancária sistêmica.14 Tais riscos tendem a ter impacto negativo na economia bra-
+sileira, ao elevar as taxas de juros internacionais e comprometer a entrada de capital no país, afetando 
+investimentos. Como oportunidades associadas à economia internacional, são identificadas: 
+• a atuação na reestruturação do sistema público de apoio às exportações; e 
+• o apoio à inserção das empresas brasileiras nas cadeias de valor.
+14 No momento da elaboração deste documento, a avaliação do mercado financeiro era de que os problemas 
+ocorridos no início de 2023 em bancos regionais dos EUA foram devidos à adoção de modelos de negócios não 
+sustentáveis nessas instituições, em vez de fatores mais estruturais.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+15
+2.5. O desempenho econômico e social brasileir o
+Após um período de crescimento e inclusão social no início do século XXI, a economia brasileira 
+presenciou, de 2015 a 2022, um quadro de estagnação e instabilidade no crescimento (Tabela 2). 
+Nesses oito anos, o Brasil teve crescimento acumulado de 1,8%, com desempenho médio anual de 
+apenas 0,2%, bem abaixo da média anual mundial de 2,7% e dos desempenhos da América Latina 
+e Caribe (1,1%, incluindo o Brasil) e dos países da OCDE (1,8%). Em 2023, o Brasil cresceu 2,9%, 
+superando performances da América Latina e Caribe e de economias avançadas, mas ficando um 
+pouco abaixo da média mundial.
+TABELA 2. CRESCIMENTO MÉDIO ANUAL DO PIB NO MUNDO E NO BRASIL (% AO ANO)
+  2001-2007 2008-2014 2015-2022 2023* 2001-2023
+Brasil 3,5 3,1 0,2 2,9 2,2
+América Latina e Caribe 3,3 2,7 1,1 2,5 2,3
+Países da OCDE 2,4 1,0 1,8 1,6 1,7
+Mundo 3,5 2,4 2,7 3,2 2,9
+Fonte: Elaboração própria com base nos dados do Banco Mundial (2024a) e FMI (2024).
+* Dados do FMI (2024) para 2023, considerando economias avançadas como proxy para países da OCDE.
+De particular importância para o BNDES é a taxa de investimento, medida pela relação entre a 
+formação bruta de capital fixo e o PIB (FBCF/PIB). De 2016 a 2020, a taxa média foi de 15,4%, per -
+centual insuficiente para expansão da capacidade produtiva, o que resultou em uma taxa média de 
+investimento líquida de capital fixo negativa (Gráfico 4).15
+GRÁFICO 4. TAXAS DE INVESTIMENTO BRUTA E LÍQUIDA (% PIB)
+18,3
+16,6 17,3 17,1
+19,4 19,1
+20,5 20,9
+14,6
+17,9
+16,5
+6,7
+3,6 4,6 4,0
+7,0
+5,9
+7,8 6,7
+-0,9
+0,4
+-0,4
+1,6
+-5
+0
+5
+10
+15
+20
+25
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+ Taxa de investimento bruta  Taxa de investimento líquida
+Fonte: Elaboração própria, com bases nos dados do Ipeadata.16
+15 O investimento líquido é a parcela dos investimentos que aumenta a capacidade produtiva da economia, ou seja, 
+desconsidera os investimentos feitos para a reposição do capital depreciado. Souza Jr. e Cornelio (2020) calculam esses 
+valores a partir da diferença entre as estimativas do estoque de capital da economia no ano presente e no anterior.
+16 Disponível em: http://ipeadata.gov.br/Default.aspx.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+16
+Em meio ao baixo patamar dos investimentos, a produtividade da economia pouco evoluiu. De 
+2001 a 2022, o PIB per capita teve aumento real de 1,3% ao ano, e ficou sem crescimento entre 2015 
+e 2022. A indústria de transformação, setor com produtividade mais elevada, trabalhadores com 
+maior escolaridade e salário médio maior, apresentou, em 2023, a mesma participação no PIB, 15%, 
+que tinha em 2000 (Tabela 3). O peso da construção civil caiu para a metade no período.
+TABELA 3. COMPOSIÇÃO SETORIAL DO PIB DO BRASIL (% PIB)
+2000 2005 2010 2015 2020 2021 2022 2023
+Agropecuária 5,5 5,5 4,8 5,0 6,6 7,7 6,7 7,1 
+Indústria 26,7 28,5 27,4 22,5 22,5 25,8 26,3 25,5 
+Extrativa 1,4 3,1 3,3 2,1 2,9 5,5 5,5 4,2 
+Transformação 15,3 17,4 15,0 12,2 12,3 13,9 15,1 15,3 
+SIUP* 3,1 3,4 2,8 2,4 3,2 2,9 2,4 2,6 
+Construção Civil 7,0 4,6 6,3 5,7 4,1 3,6 3,4 3,5 
+Serviços 67,7 66,0 67,8 72,5 70,9 66,5 67,0 67,4 
+Total 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 
+Fonte: Instituto Brasileiro de Geografia e Estatística (IBGE).17
+*Serviços industriais de utilidade pública (eletricidade e gás, água, esgoto e limpeza urbana).
+No que tange ao setor externo, a participação do Brasil nas exportações mundiais aumentou de 0,85%, 
+em 2000, para 1,34%, em 2022. Contudo, ao excluir os produtos agroindustriais, minerais e combus-
+tíveis e o grupo “demais produtos”, houve queda na participação brasileira na exportação mundial dos 
+demais produtos industriais, de 0,67% para 0,54%, no período.18 Tais produtos industriais representa-
+vam 57% das exportações totais brasileiras em 2000, passando a responder por apenas 25% em 2022.19 
+O saldo da balança comercial tem sido elevado. Em 2023, o superávit nessa conta ficou em US$ 98,8 
+bilhões, ante US$ 61,5 bilhões no ano anterior. 20 Porém o saldo tem sido positivo apenas no setor 
+agropecuário e na indústria extrativa, com valores, respectivamente, de US$ 77,0 bilhões e US$ 62,9 
+bilhões, em 2023. Já o saldo comercial da indústria de transformação tem sido deficitário desde 
+2008. Em 2023, o déficit no setor diminuiu para US$ 41,3 bilhões, ante o saldo negativo de US$ 61,1 
+bilhões no ano anterior.
+17 Disponível em: https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9300-contas-nacionais-
+trimestrais.html?=&t=resultados.
+18 Dados da OMC, na classificação Standard International Trade Classification – Revisão 3 (SITC-Revision 3), 
+disponíveis em https://stats.wto.org/. Os produtos agroindustriais incluem alimentos e bebidas; fumo; e celulose 
+da indústria de transformação. Os “demais produtos” compreendem a seção 9 (bens não classificados nas demais 
+seções, tais como pacotes postais sem classificação de produto) e o grupo 891 (armas e munições) da SITC. Os 
+demais produtos industriais correspondem às seções 5 (químicos e produtos relacionados), 6 (bens manufaturados 
+classificados por tipo de material, tais como têxteis, papel, aço e produtos de metal), 7 (máquinas e equipamentos de 
+transporte) e 8 (artigos manufaturados diversos), menos a divisão 68 (metais não ferrosos) e o grupo 891.
+19 As outras mudanças de participação foram em: produtos agroindustriais, de 28%, em 2000, para 44%, em 2022; 
+minerais e combustíveis, de 12% para 29%; e demais produtos, de 3% para 2%, nos respectivos anos.
+20 Dados do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), Secretaria de Comércio Exterior 
+(SECEX) e Coordenação Geral de Estatísticas. Disponível em: https://balanca.economia.gov.br/balanca/publicacoes_
+dados_consolidados/nota.html.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+17
+Nesse contexto de baixo dinamismo e lento crescimento da produtividade, o rendimento médio 
+real do trabalho caiu 4,0%, na comparação entre 2014 e 2022, porém aumentou 5,3% em 2023. 21 
+A taxa de desocupação (desemprego), medida pelo IBGE, chegou a 15% ao fim de 2020 e início de 
+2021, mas caiu para 7,4% ao fim de 2023. A fragilidade financeira das famílias aumentou. O compro-
+metimento da renda das famílias com serviço da dívida, partindo da média mensal de 18% em 2005, 
+ficou em 26% em dezembro de 2023.22
+O quadro das desigualdades é outro desempenho a ser lamentado. O indicador mais usual para medir 
+o grau de concentração de renda em um país é o Índice de Gini, que varia de 0 (renda do país igual-
+mente distribuída entre os indivíduos) a 1 (renda concentrada em um único indivíduo). O Gráfico 5 
+mostra a evolução do Índice de Gini no Brasil entre 2001 e 2022. Até 2011, o indicador foi extraído 
+da Pesquisa Nacional por Amostra de Domicílios (Pnad) do IBGE. Em 2012, o IBGE implantou a Pnad 
+Contínua (PNADC), passando a calcular o indicador por meio dessa pesquisa, que abrange maior 
+número de municípios e domicílios investigados, sendo a Pnad interrompida em 2014.
+Os dados mostram significativa melhora na distribuição de renda entre 2001 e 2015. Em contraste, 
+de 2015 indo direto para 2022, a desigualdade pouco se modificou, com melhora no indicador que 
+inclui as transferências de renda associadas a programas sociais, mas piora no indicador na simu-
+lação da PNADC do índice sem esses programas.
+GRÁFICO 5. ÍNDICE DE GINI DO BRASIL
+0,596
+0,543
+0,530
+0,540
+0,524
+0,545
+0,524
+0,518
+0,555
+0,540
+0,562
+0,573
+0,548
+0,50
+0,52
+0,54
+0,56
+0,58
+0,60
+0,62
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+usando a Pnad* usando a PNADC usando a PNADC sem programas
+Fonte: Ipeadata23 e IBGE (2023).
+* A Pnad era interrompida em anos de Censo Demográfico, não havendo dados para 2000 e 2010.
+21 Nos anos anteriores, de 2012 (início da base de dados em fevereiro de 2012) a 2014, o rendimento aumentou 
+6,3%. Foram consideradas as médias dos rendimentos mensais médios reais efetivos de todos os trabalhos. Os dados 
+são do site do Banco Central do Brasil referentes à PNADC, disponíveis em: https://www3.bcb.gov.br/sgspub/
+localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries.
+22 Disponível em: https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries. 
+Os dados do Banco Central do Brasil de comprometimento da renda começam em março de 2005.
+23 Disponível em: http://ipeadata.gov.br/Default.aspx
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+18
+Outras desigualdades importantes são a racial e a de gênero. Em 2022, a população ocupada clas-
+sificada como de cor ou raça branca teve rendimento médio por hora trabalhada 61% acima da 
+classificada como de cor ou raça preta ou parda, enquanto homens ganharam 13% a mais que as 
+mulheres. Estudo do IBGE (2023) aponta para uma “desigualdade estrutural”, dado que os diferen-
+ciais de rendimento foram semelhantes em todos os anos da série, iniciada em 2012. As desigual-
+dades de rendimento do trabalho ocorreram em todos os níveis de instrução, sendo maior entre 
+pessoas ocupadas com superior completo, com uma diferença racial de 37% a favor da população 
+branca; e de gênero, de 43% a favor de homens.
+A fome aumentou consideravelmente em 2021 e 2022, como mostram dados da Organização das Nações 
+Unidas para Alimentação e Agricultura (ONU/FAO). Entram no mapa da fome países com mais de 2,5% 
+da população subnutrida, ou seja, com consumo de alimentos insuficiente para manter uma vida ativa 
+e saudável (FAO, 2023).24 Em 2002 (início dos dados), o Brasil tinha 10,7% da população nessa situação. 
+O percentual caiu continuamente até que, em 2016, o país saiu do mapa da fome. Contudo, em 2021, o 
+Brasil voltou, com 3,7% da população em situação de subnutrição. Em 2022, esse percentual aumentou 
+para 4,7%, com 10,1 milhões de brasileiros nessa situação. Outros 21,1 milhões estavam em condições de 
+insegurança alimentar grave, ou seja, quando pode faltar comida por um ou mais dias.
+Em suma, o Brasil apresentou, nos últimos anos, um cenário de produtividade e participação da 
+indústria de transformação no PIB estagnadas e de falta de investimentos estruturantes. Esse com-
+portamento tem reflexos no restante da economia, uma vez que a indústria transmite ganhos de 
+produtividade a outros setores e gera empregos de boa qualidade. Outros desempenhos preocu -
+pantes foram: a interrupção do processo de desconcentração de renda, que o Brasil estava viven -
+ciando no início do século XXI; a manutenção do quadro estrutural de fortes desigualdades de 
+gênero e racial; e a volta do Brasil ao mapa da fome da ONU/FAO.
+No início de 2024, as projeções para o Brasil, apresentadas no Boletim Focus do Banco Central do 
+Brasil (em 3 de janeiro de 2024) eram de crescimento do PIB de 1,5%, em 2024; 2,0% ao ano, entre 
+2025 e 2027; e 2,2%, em 2028. A expectativa era de queda gradual da inflação: de 3,9%, em 2024, 
+para 3,0%, em 2028. Para a taxa de juros (Selic, fim de período), o cenário era de 9,0%, em 2024, 
+estabilizando em 8,5%, entre 2025 e 2028.
+A perspectiva é de que novas políticas públicas levem a um crescimento mais vigoroso da economia, 
+sem perder o controle da inflação, sendo esse movimento acompanhado por uma queda real da taxa 
+de juros básica. Nesse sentido, são consideradas como oportunidades para a Estratégia do BNDES 
+a aceleração do crescimento econômico brasileiro e a queda da taxa básica de juros da economia 
+(Selic). Em contraste, uma eventual aceleração da inflação é considerada ameaça, ao contribuir para 
+a instabilidade da economia e pressionar os juros para cima, afetando os investimentos.
+24 O levantamento considera a situação no ano e nos dois anteriores para definição dos indicadores. Assim, o desem-
+penho de 2002 considera o período 2000 a 2002.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+19
+O crescimento econômico tem de ser sustentável. Nesse sentido, um tema de suma importância é 
+a questão climática, tratada na seção 2.1. Outra dimensão relevante é a sociocultural. Como opor-
+tunidades estão: 
+• o aumento da renda per capita brasileira; 
+• a ampliação da oferta de serviços públicos nas áreas de saúde, educação e segurança pública; e 
+• a valorização da diversidade sociocultural.
+As ameaças, que elevam os desafios do BNDES de promover desenvolvimento sustentável, compreendem: 
+• eventual aumento da desigualdade e da pobreza extrema;
+• polarização e erosão do tecido social; 
+• mudanças no mercado de trabalho, com destaque para a informalidade; e 
+• alterações na estrutura etária da população brasileira.25
+2.6. O financiamento dos investimentos em infraestrutura26
+O Brasil apresenta gargalos ao seu crescimento associados a baixos investimentos em infraestru -
+tura, necessitando sair de um contexto no qual as inversões do setor público foram drasticamente 
+reduzidas. O investimento em infraestrutura recuou da média de 2,3% do PIB, entre 2009 e 2013, 
+para 1,7%, entre 2019 e 2023. A redução foi bem maior no investimento realizado pelo setor público, 
+de 1,1% para 0,6% do PIB (Gráfico 6). Em 2023 os investimentos em infraestrutura ficaram em 1,8% 
+do PIB, com inversões dos setores público e privado de, respectivamente, 0,6% e 1,2% do PIB.
+GRÁFICO 6. INVESTIMENTO EM INFRAESTRUTURA: TOTAL, PÚBLICO E PRIVADO (% DO PIB)
+2,21
+0,86
+1,12
+1,42 1,26 1,29
+1,07 1,21 1,07 1,16 1,19
+0,96
+0,61
+0,97
+0,79
+1,27
+0,95 0,63 0,49
+0,68 0,60
+3,18
+1,47
+2,02
+1,79
+2,38 2,30
+1,61
+1,84 1,79
+0
+1
+1
+2
+2
+3
+3
+4
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Total Privado Público
+Fonte: Elaboração própria, com base nos dados de Inter.B, Carta de Infraestrutura (anos diversos).27 
+25 Em 2021, o número de nascimentos por mulher no Brasil estava em 1,64 (Banco Mundial, 2024a), abaixo dos 
+2,1, que corresponde ao nível de estabilidade da população. Essa baixa taxa de fertilidade tem implicações sobre 
+a estrutura etária da população e leva à redução no ingresso de jovens no mercado de trabalho, implicando a 
+necessidade de maiores esforços para aumentar a produtividade e acelerar o crescimento da economia.
+26 Em que pese a importância do financiamento a investimentos nos diferentes setores e segmentos da economia, 
+devido à disponibilidade de informações, o foco ficou na infraestrutura. O Banco Central do Brasil disponibiliza o 
+saldo do estoque de crédito por setor da economia e porte das empresas, mas não os fluxos de concessões com esse 
+detalhamento. Para comparar com os fluxos de investimentos, seriam necessários dados detalhados de concessões.
+27 Disponível em: https://interb.com.br/cartas-de-infra/.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+20
+A análise por setor mostra um desempenho mais pautado por ciclos de investimentos em infraes-
+trutura do que de sustentação de tendências de crescimento de mais longo prazo (Gráfico 7). Em 
+2001 houve o término do forte ciclo de investimentos em telecomunicações, associado à universa-
+lização da telefonia fixa e à implantação da telefonia móvel. Desde então, os projetos no setor têm 
+sido mais intensivos em tecnologia do que em capital. Em logística, ocorreu um expressivo ciclo de 
+meados da década de 2000 a meados da década de 2010, impulsionado pelo Programa de Investi -
+mentos em Logística (PIL) e pelo Programa de Aceleração do Crescimento (PAC). Em energia elé-
+trica, houve um grande ciclo entre 2008 e 2011, associado à implantação de grandes hidrelétricas 
+na Região Norte, e um aumento significativo em 2021 e 2023, referente a projetos em energia eólica 
+e solar. Em saneamento, houve forte aumento em 2004, mas, entre 2005 e 2020, o investimento no 
+setor cresceu pouco, com aumento médio anual, em termos reais, de apenas 0,8%. O desempenho 
+mudou muito entre 2021 e 2023, com crescimento médio anual de 10,2%.
+GRÁFICO 7. INVESTIMENTOS EM INFRAESTRUTURA POR SETOR (R$ BILHÕES, PREÇOS DE 2022)*
+37
+63
+73 76
+91
+59
+31
+45
+35 29
+23
+35
+74
+86
+50
+62 65
+10
+16
+10
+19
+22
+21
+24
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Energia elétrica Telecomunicações Logística Saneamento
+Fonte: Elaboração própria, com base nos dados de Inter.B – Carta de Infraestrutura (anos diversos), Ipeadata e IBGE.28
+* Dados deflacionados pelo deflator implícito da FBCF em infraestrutura, calculado pelo IPEA, até 2020, e pelo Índice 
+de Preços ao Produtor (IPP) de bens de capital do IBGE, após essa data.
+Em termos de padrão de financiamento, o mercado de dívida (empréstimos bancários e instrumentos 
+de renda fixa do mercado de capitais) é fundamental como fonte de recursos para os investimentos 
+em infraestrutura e, portanto, para o desenvolvimento econômico. O Gráfico 8 compara o padrão de 
+financiamento da infraestrutura com participação privada, em países com renda média alta (catego-
+ria do Brasil), entre 2012 e 2023. Em média, 67% dos valores totais dos projetos foram financiados com 
+28 Disponíveis, respectivamente, em: https://interb.com.br/cartas-de-infra/, http://ipeadata.gov.br/Default.aspx e 
+https://sidra.ibge.gov.br/pesquisa/cna/tabelas.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+21
+dívida (crédito); 29% com equity (ações, aportes de capital do controlador ou lucros retidos); e os 4% 
+restantes com apoio direto do setor público, na forma de subsídios.29 No Brasil, a participação dos 
+subsídios nos investimentos com participação privada foi ligeiramente menor (3%).
+GRÁFICO 8. PADRÃO DE FINANCIAMENTO DE PROJETOS GREENFIELD DE INFRAESTRUTURA COM 
+PARTICIPAÇÃO PRIVADA, EM PAÍSES COM RENDA MÉDIA ALTA (2012 A 2023)
+53,3%
+66,7% 67,0% 67,5% 70,1% 72,0% 77,7%
+43,3%
+29,1% 27,2% 29,1% 29,7% 26,2%
+21,6%
+3,4% 4,1% 5,8% 3,4% 0,3% 1,8% 0,7%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Leste Asiático
+e Pací/f_ico
+Total América Latina
+e Caribe
+Brasil Oriente Médio
+e Norte da África
+Europa e
+Ásia Central
+África
+Subsaariana
+Dívida Equity Apoio público direto (subsídio)*
+Fonte: Elaboração própria, com base nos dados do Banco Mundial (2022 e 2024b). Total de 1.153 projetos, sendo Brasil, 
+com 340; Leste Asiático e Pacífico, 216; Europa e Ásia Central, 176; América Latina e Caribe (inclui Brasil), 623; Oriente 
+Médio e Norte da África, 42; África Subsaariana, 95; e Sul da Ásia (não destacado no gráfico), 1.
+* Os subsídios considerados são aqueles que envolvem pagamento em dinheiro ou em espécie (terreno).
+O Gráfico 9 mostra o padrão de financiamento dos investimentos em infraestrutura no Brasil, 
+destacando os percentuais financiados pelo BNDES (evidenciando a parte realizada via debêntu -
+res), os financiados por meio dos demais lançamentos de debêntures (sem BNDES) e as emissões 
+de ações.30 Em média, o Banco (incluindo debêntures e demais instrumentos) financiou 30% dos 
+investimentos em infraestrutura no período 2012 a 2023. A participação foi bem maior (49%) entre 
+2012 e 2015, com contração para 22% entre 2016 e 2023. Em contraste, a participação das debên-
+tures (sem BNDES) no financiamento da infraestrutura aumentou de 6% para 22%, nos respectivos 
+períodos. A participação das emissões de ações foi de apenas 1%, em média, entre 2012 e 2021.
+29 Os subsídios referem-se a pagamentos em dinheiro ou em terreno para a construção de infraestrutura.
+30 As debêntures compreendem as corporativas e as debêntures de infraestrutura. WEF e IADB (2019) trazem maior 
+detalhamento do financiamento à infraestrutura no Brasil, mas com dados restritos ao período de 2012 a 2016. Em 
+média, a composição foi: equity, 24%, e dívida, 76%; sendo que, dentre os 76% financiados através de dívida, as 
+participações foram: BNDES, com 43%; Caixa Econômica Federal (CEF), 12%; debêntures, 8,5%; bancos comerciais 
+e outros, 7,7%; Instituições Financeiras de Desenvolvimento (IFDs) multilaterais, 2,8%; e Fundo de Investimento do 
+Fundo de Garantia por Tempo de Serviço (FI-FGTS), 2,4%. Os percentuais de BNDES e debêntures diferem um pouco 
+dos obtidos no mesmo período a partir do Gráfico 9, de 40% e 6,8%, respectivamente. 
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+22
+Uma análise interessante é a das correlações entre as taxas de variação dos valores dos finan-
+ciamentos por meio do BNDES (incluindo aquisições de debêntures), emissões de debêntures 
+(sem BNDES: adquiridas por outros investidores) e demais fontes de recursos (exclui ações) dos 
+investimentos em infraestrutura. 31 As emissões de debêntures (sem BNDES) tiveram correlação 
+ligeiramente positiva (+0,13) com o BNDES, mas bem negativa (-0,70) com as demais fontes. Tais 
+desempenhos indicam ausência de substituição, ou mesmo complementariedade, entre as emis -
+sões de debêntures (sem BNDES) e o financiamento do BNDES, em contraste com uma substituição 
+entre as debêntures (sem BNDES) e as demais fontes.
+GRÁFICO 9. INVESTIMENTO EM INFRAESTRUTURA E COMPOSIÇÃO DO FUNDING NO BRASIL (% PIB)
+0,15
+1,06 1,14 1,14
+0,90
+0,40 0,40 0,43 0,32 0,32 0,28
+0,38 0,29
+0,11
+0,17 0,12
+0,14
+0,09 0,13
+0,36
+0,41
+0,22
+0,67 0,50 0,52
+0,08
+1,00
+0,95 0,98
+1,01
+1,45 1,29
+0,94
+0,87 0,99
+0,69 0,92 0,83
+2,21
+2,30 2,29
+2,07
+1,96
+1,83
+1,74
+1,61 1,62 1,69
+1,84 1,79
+0
+1
+1
+2
+2
+3
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+BNDES (debêntures) BNDES (crédito) Debêntures (sem BNDES) Ações Demais
+Fonte: Elaboração própria, a partir de dados da Anbima, BNDES e Inter.B.32
+A ausência de substituição ou a complementariedade observada nos dados do mercado de capitais 
+e do BNDES desautoriza a tese, usualmente ventilada no debate público, de que a ação do Banco 
+inibe o desenvolvimento de outras fontes de financiamento. Nesse sentido, cabe destacar que o 
+BNDES tem atuado tanto como investidor quanto coordenador (mais recentemente) de ofertas 
+públicas no mercado de títulos corporativos, com o objetivo de ampliar as fontes de financiamento 
+de investimentos na economia. A instituição atua também no investimento e seleção de gestores 
+para fundos de investimento, que adquirem participações acionárias, debêntures ou direitos credi-
+tórios, visando desenvolver empresas inovadoras e estimular o empreendedorismo e investimentos  
+31 As emissões de ações tiveram baixa correlação com outras fontes de recursos. O reduzido número de observa-
+ções (apenas 11) prejudica uma análise econométrica das relações de causalidade entre os dados.
+32 Dados da Anbima, BNDES e Frischtak disponíveis, respectivamente, em https://data.anbima.com.br/publicacoes/
+boletim-de-mercado-de-capitais, https://www.bndes.gov.br/wps/portal/site/home/bndes-data/bndes-data-dados-series-
+temporais e https://interb.com.br/cartas-de-infra/. 
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+23
+em infraestrutura e cadeias produtivas. Além disso, as condições de financiamento e políticas de 
+crédito contemplam formas de fomentar a originação de debêntures, destacando-se o comparti -
+lhamento de garantias entre o financiamento e as debêntures de mercado.
+Para fins da formulação da Estratégia do BNDES, foi identificada a oportunidade de ampliar o fun-
+ding da própria instituição para ampliar sua atuação no financiamento de investimentos, tanto em 
+infraestrutura quanto em outros setores e segmentos da economia. Cabe observar que a Estratégia 
+foi elaborada em meio à discussão e ao lançamento de novas políticas públicas para o Brasil. Entre 
+estas, algumas estão relacionadas ao acesso do BNDES a mercados de crédito e capitais, para 
+ampliação de seu funding (seção 3.3). Assim, foram identificadas como oportunidades a capacidade 
+de obtenção de novas fontes, domésticas e internacionais, de funding, bem como eventuais ado-
+ções de medidas que destinem novos recursos para o BNDES para temas específicos.
+3. AS NOV AS ESTRATÉGIAS  
+NO MUNDO E NO BRASIL
+As atuais políticas de desenvolvimento produtivo, adotadas em diversos países, têm em comum a 
+promoção da competitividade e do crescimento de suas indústrias no sentido de maior agregação 
+de valor, mas também a transição para uma economia verde e a busca de uma posição de liderança 
+no mundo digital. Diante das mudanças na geopolítica mundial, há também a estratégia de maior 
+autonomia das economias, voltada a reduzir a dependência de matérias-primas e insumos críticos a 
+suas indústrias, assim como de alimentos e de infraestrutura. Nesse contexto, observa-se a retomada 
+do ativismo das políticas industriais e o surgimento de novos bancos de desenvolvimento (BD).
+3.1. As novas estratégias mundiais
+A Alemanha foi uma das pioneiras na implementação de política industrial alinhada ao desenvol-
+vimento de tecnologias disruptivas de manufatura avançada, com a iniciativa Plataforma Indústria 
+4.0, em 2015. Em maio do mesmo ano, o governo chinês anunciou o plano Made in China 2025, com 
+foco mais protecionista, buscando reduzir a dependência de importações para o desenvolvimento 
+do país nos setores de alta tecnologia. Entre outros objetivos, a iniciativa visou aumentar o con -
+teúdo doméstico de componentes críticos e insumos básicos para esses setores para 40% até 2020, 
+e 70% até 2025 (Marcato, 2022).
+As políticas chinesas e a questão climática impulsionaram o Ocidente, no sentido de promover 
+desenvolvimento em alta tecnologia, assegurando também autossuficiência no setor, e de impulsio-
+nar investimentos associados à transição energética. Uma das respostas mais relevantes foi a nova 
+orientação da política econômica nos EUA, consubstanciada no Inflation Reduction Act (IRA) (The 
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+24
+White House, 2023). A lei visou catalisar investimentos na capacidade de manufatura doméstica, 
+incentivar a aquisição de suprimentos críticos no mercado interno e impulsionar pesquisa e desen-
+volvimento (P&D) e a comercialização de tecnologias de ponta em segmentos como o de captura e 
+armazenamento de carbono e hidrogênio verde. Ao optar por uma retomada do nacionalismo tecno-
+lógico e da ascendência americana no contexto da crise climática global, o IRA pode ser considerado 
+uma mudança de paradigma em termos de políticas públicas tecnológicas e industriais.
+A Comissão Europeia (CE), por sua vez, havia lançado sua nova estratégia industrial em março de 
+2020 (atualizada em maio de 2021),33 com três grandes focos: (i) aumentar a resiliência do Mercado 
+Comum; (ii) lidar com as dependências estratégicas da UE; e (iii) acelerar as transições verde e 
+digital. Em fevereiro de 2023, a CE reforçou seus objetivos de acelerar o direcionamento para a 
+neutralidade climática, anunciando o Green Deal Industrial Plan, com quatro pilares:
+• simplificar a regulamentação para o desenvolvimento de projetos estratégicos e facilitar o 
+acesso a insumos críticos, como “terras raras”, para produção de tecnologias-chave;
+• agilizar o acesso a recursos financeiros privados e a fundos da UE para produção e desenvol-
+vimento de tecnologias limpas;
+• aprimorar a qualificação das pessoas para o trabalho em indústrias estratégicas para a tran-
+sição verde; e
+• promover o livre comércio, coibindo práticas desleais, nos setores de tecnologias limpas 
+(European Commission, 2023).
+De acordo com a CNI (2023), desde 2014 o volume de recursos alocado em iniciativas e políticas 
+de estímulo econômico pelas economias analisadas no estudo (Alemanha, China, Coreia do Sul, 
+EUA, Japão, Reino Unido e UE), incluindo ações voltadas para o desenvolvimento produtivo e tec-
+nológico, somam, pelo menos,34 US$ 12 trilhões. As cifras chegam a comprometer de 8% a 10% do 
+orçamento público de alguns países. A Tabela 4, montada a partir de dados apresentados no estudo 
+da CNI, apresenta os programas e respectivos valores.
+TABELA 4. POLÍTICAS INDUSTRIAIS NO MUNDO
+Programas Focos Valores
+Alemanha* US$ 45 bilhões
+Made in Germany 2030 (2019) Novas tecnologias para a indústria,  
+células de bateria e infraestrutura digital
+Mais de  
+€ 10,6 bilhões
+National Hydrogen  
+Strategy (jun., 2020) Viabilizar a tecnologia do hidrogênio € 9 bilhões
+Industrie 4.0 (2011) Sistemas produtivos ciberfísicos € 200 milhões
+Energiewende (2010) Reduzir a emissão de gases de efeito estufa  
+e aumentar o uso de energias renováveis € 3,2 bilhões
+(Continua...)
+33 A estratégia foi atualizada diante das lições aprendidas em meio à pandemia de Covid-19.
+34 Em nota, o estudo da CNI aponta que os valores podem estar subestimados devido à ausência de informações, 
+em especial nos casos da Alemanha, Coreia do Sul e China.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+25
+(Continuação...)
+Programas Focos Valores
+Digitale Agenda (2014) Infraestrutura digital e de telecomunicações € 4 bilhões
+High-Tech Strategy 2025 (2018) Tecnologia e mobilidade; Saúde e transformação;  
+e Sustentabilidade e meio ambiente
+Mais de  
+€ 15,8 bilhões
+China* US$ 810 bilhões
+14TH Five-Year Plan (2021) Desenvolvimento tecnológico e inovação; redução 
+da dependência de tecnologia estrangeira
+Mais de  
+¥ 1,2 trilhão
+Made in China 2025 (2015) TI, robôs, aeroespacial, biomedicina e novos materiais. US$ 632 bilhões
+China Standard 2035 (2018) 5G, IoT e IA. (n.d.)****
+Coreia do Sul* US$ 135 bilhões*****
+Industrial AI Internalization Strategy 
+(jan., 2023) IA (n.d.)**
+Korean New Deal 2.0 (2021) Aumenta a dotação do Korean New Deal ₩ 160 trilhões
+Korean New Deal (2020) Investimento público nas áreas digital,  
+verde e redes de segurança ₩ 114,1 trilhões
+Estados Unidos US$ 6 trilhões
+National Security Strategy  
+(out., 2022)
+Garantir liberdade, abertura, prosperidade  
+e segurança da ordem internacional US$ 22 bilhões
+Chip and Science Act (ago., 2022) Aumentar a competitividade dos EUA em  
+semicondutores e fortalecer a segurança nacional US$ 280 bilhões
+Inflation Reduction Act (ago., 2022) Segurança energética e mudanças climáticas US$ 437 bilhões
+National Strategy for Advanced 
+Manufacturing (out., 2022) Tecnologias de manufatura avançada (n.d.)**
+Infrastructure Investments  
+and Jobs Act (nov., 2021) Infraestrutura, com foco em logística US$ 1,2 trilhão
+American Rescue Plan Act (mar., 2021)Mitigar efeitos da Covid-19 US$ 1,9 trilhão
+American Jobs Plan (mar., 2021) Manufatura, pesquisa e desenvolvimento  
+e serviços de saúde US$ 2,3 trilhões
+Japão US$ 1,7 trilhão
+Basic Policy on Economic and  
+Fiscal Management and Reform 
+(jun., 2022)
+Capital humano, inovação, energia limpa  
+e economia digital ¥ 400 bilhões
+Defense Buildup Program (2022) Aeroespacial, cibernética e eletromagnética ¥ 43 trilhões
+Green Growth Strategy Towards 
+2050 Carbon Neutrality (2021) Descarbonização de produtos e processos ¥ 2 trilhões
+Science Technology and Innovation 
+Basic Plan (2021)
+Investimento em P&D para uma sociedade 
+sustentável e promotora do bem-estar ¥ 150 trilhões***
+Missões (2014)****
+Foram mapeadas 6 missões: 1) Neutralidade 
+de carbono; 2) Sociedade digital; 3) Segurança 
+econômica; 4) Sociedade saudável; 5) Resiliência a 
+Desastres Naturais; e 6) Biomanufatura.
+Mais de ¥ 24,1 trilhões
+Reino Unido US$ 1,8 trilhão
+Net Zero Strategy (out., 2021) Descarbonização £ 784 bilhões
+Industrial Descarbonization  
+Strategy (mar., 2021) Descarbonização £ 6,3 bilhões
+Build Back Better (mar., 2021) Infraestrutura, economia verde, inovação e 
+qualificação da mão de obra £ 600 bilhões
+UK Innovation Strategy (jun., 2021) Transformar a Inglaterra em um hub global de  
+inovação até 2035 £ 22,4 bilhões
+UK Industrial Strategy (jun., 2021) Investimento em P&D £ 55,4 bilhões
+(Continua...)
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+26
+(Continuação...)
+Programas Focos Valores
+União Europeia (UE) US$ 1,7 trilhão
+Next Generation EU (mai., 2021) Inovação e desenvolvimento tecnológico e ambiental € 806,9 bilhões
+Green Deal Industrial Plan  
+(fev., 2023) Investimentos para indústrias carbono-neutras € 662,4 bilhões
+Bioeconomy Strategy (2018) Bioeconomia € 3,85 bilhões
+Horizon Europe (2021 - 2027) Fundo da UE para pesquisa e inovação no período 
+2021 - 2027 € 95,5 bilhões
+Made in Europe Partnership (2021) Manufatura circular e neutra (n.d.)**
+Total US$ 12 trilhões
+Fonte: Elaboração própria, com base em dados do CNI (2023).
+* CNI (2023) aponta que os valores da Alemanha, Coreia do Sul e China podem estar subestimados diante da falta 
+de informação. 
+** Não disponível; 
+*** investimentos em P&D do Governo (¥ 30 trilhões) e em parceria público e privada (¥ 120 trilhões). 
+**** CNI (2023) aponta que o Japão começou a lançar políticas orientadas por missões por volta de 2014. 
+*****Foi considerado apenas o Korean New Deal 2.0, uma vez que seus valores incluem os do plano anterior.
+3.2. O novo impulso aos bancos de desenvolvimento no mundo
+A existência dos BDs costuma ser justificada por haver investimentos em setores ou projetos que 
+não são financiados no montante e nas condições adequadas pelo sistema financeiro privado, uma 
+vez considerados os seus retornos sociais. Entre esses investimentos, estão os projetos de infraes-
+trutura, P&D ou que envolvem o apoio a micro, pequenas e médias empresas (MPME), com impac-
+tos positivos na produtividade da economia, nas condições de vida da população e na geração de 
+emprego e renda. São projetos nos quais os retornos sociais prevalecem sobre os privados, ou seja, 
+geram externalidades positivas.
+Contudo, a importância dos BDs vai muito além dessa questão de “falha de mercado”, que aponta 
+lacunas no suprimento de crédito pelo sistema financeiro (sistema financeiro incompleto). Keynes 
+(1926 e 1936), Schumpeter (1934) e Minsky (1992 e 1993) têm sido referências nesse assunto. Keynes 
+elenca a necessidade de ações do Estado voltadas a estimular os investimentos públicos e privados. 
+Schumpeter questiona a visão liberal de um equilíbrio estático da economia, em desacordo com a 
+concepção de que intervenções do setor público deveriam corrigir falhas de mercado para trazer 
+a economia para esse equilíbrio. Minsky destaca a tendência dos sistemas financeiros de se move-
+rem para um quadro de instabilidade, especulativo e de volatilidade dos mercados.
+Inspirados na literatura acima, Além e Madeira (2024) apontam que, dependendo da preferência 
+pela liquidez, bancos privados podem não oferecer crédito, ainda que o sistema financeiro do país 
+seja plenamente desenvolvido. Mazzucato e Penna (2016), por sua vez, consideram que os BDs são 
+instrumentos poderosos das políticas públicas, ao direcionarem recursos para áreas estratégi -
+cas prioritárias para o desenvolvimento econômico. De forma análoga, Paula, Raccichini e Bastos 
+(2023) sustentam que o sistema financeiro privado não é capaz de mobilizar sozinho os recursos 
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+27
+em montantes e condições adequadas para promover a mudança estrutural rumo à sustentabili-
+dade socioambiental e econômica, sendo necessário, em particular, o envolvimento dos BDs.
+Os primeiros BDs surgiram na Europa no século XIX. O Caisse des Dépôts da França é o mais 
+antigo, criado em 1816 por Luís XVIII, seguido pelo Cassa Depositi e Prestiti (CDP), estabelecido em 
+1850 pela República da Sardenha e reestruturado em 1863 após a unificação da Itália. Contudo, a 
+criação dessas instituições ganhou ímpeto somente após a Segunda Guerra Mundial, em razão dos 
+esforços de reconstrução dos países ou da industrialização de nações em desenvolvimento.
+O Institute of New Structural Economics (INSE), da Universidade de Beijing, em parceria com a 
+Agence Française de Développement (AFD), montou uma base de dados ampla sobre os BDs, des-
+tinada a aumentar o conhecimento dessas instituições e contribuir para a política de desenvolvi-
+mento. Xu, Marodon e Ru (2021) elencam os cinco critérios definidos na montagem dessa base de 
+dados, os quais devem ser atendidos para classificar uma instituição como BD:35
+• ter um aparato legal apartado, que o torne distinto de uma repartição do governo;
+• utilizar instrumentos financeiros como seus principais produtos e serviços prestados, em 
+contraste com outros órgãos públicos, como os bancos centrais;
+• ter outras fontes de financiamento além de transferências dos orçamentos de governos, para 
+distinguir de agências de ajuda humanitária;
+• ter um mandato orientado para uma atuação proativa em políticas públicas, de modo a dis-
+tinguir de bancos públicos comerciais com determinadas funções públicas; e
+• os governos terem poder de decisão (steering role) no sentido de garantir que as instituições 
+irão perseguir objetivos de políticas públicas.
+A base de dados mostra que, em janeiro de 2024, existiam 533 BDs no mundo, com ativos somados 
+de US$ 23 trilhões e financiamentos anuais de até US$ 2,7 trilhões, equivalentes a entre 10% e 12% 
+dos investimentos anuais globais. O Gráfico 10 mostra os números de novos BDs a cada ano. Mais da 
+metade (52%, 274 BDs) das atuais instituições foi criada nas três últimas décadas (entre 1990 e 2019), 
+em meio ao colapso da União Soviética, em 1991, e às crises financeiras na Ásia (1997) e global (2008).
+Os BDs estão presentes em mais de 150 países, em diferentes estágios de desenvolvimento, com 
+certa predominância de instituições em países de alta renda. Dentre as 533 instituições mapea-
+das, 184 (35%) estão em países com alta renda; 142 (27%), com renda média-baixa; 128 (24%), com 
+renda média-alta; 24 (5%), com renda baixa; e as 55 (10%) restantes são compostas por institui-
+ções multilaterais. Os EUA, com 25 instituições (sendo 12 criadas depois de 2010), é o país com 
+maior número de BDs, seguido por Índia (23) e Brasil (22). Dentre as 22 instituições mapeadas 
+35 Na base de dados, são usados dois nomes, public development banks e development financial institutions, ou 
+seja, bancos de desenvolvimento públicos e instituições financeiras de desenvolvimento (PDB e DFI), ao invés de BDs. 
+Contudo, não é feita distinção entre os dois nomes. Xu, Marodon e Ru (2021) apontam que: “We use the terms ‘PDB’ 
+and ‘DFI’ in parallel, primarily with the same objective of designating all in the community, as PDBs are the main cate-
+gory in the DFI family”. FICS (2022) e o PNUD (2022) utilizam apenas o termo BDP , ao citarem a mesma base de da-
+dos. Neste estudo, é utilizado o termo BDs, empregado amplamente na literatura sobre bancos de desenvolvimento.  
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+28
+no Brasil, a maioria (15) foi criada depois de 1996, correspondendo, todas, a agências de fomento 
+subnacionais.
+Em termos de áreas de atuação, 196 BDs (37%) desempenham múltiplas atividades; 132 (25%) são 
+focadas em MPMEs; 54 (10%), em financiamento ao comércio exterior; 36 (7%), no setor imobiliário; 
+35 (7%), em desenvolvimento rural e agrícola; 32 (6%), em infraestrutura; 30 (6%), no financiamento 
+à internacionalização de empresas; e 17 (3%), no apoio a governos locais.
+GRÁFICO 10. NÚMERO DE NOVOS BDS A CADA ANO*
+9 6 11 11
+32
+43
+67
+47
+94 87 96
+30
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+até 1918 1919-28 1929-38 1939-45 1946-55 1956-65 1966-75 1976-85 1986-95 1996-05 2006-15 2016-21
+até 1918
+1919-28
+1929-38
+1939-45
+1946-55
+1956-65
+1966-75
+1976-85
+1986-95
+1996-05
+2006-15
+2016-21
+Total
+Países de  
+renda alta 5 6 4 6 11 9 22 17 39 22 27 16 184
+- Alemanha 0 1 0 1 5 1 1 0 4 4 2 0 19
+- EUA 0 1 2 0 2 0 2 1 3 0 8 6 25
+- Demais 5 4 2 5 4 8 19 16 32 18 17 10 140
+Países de 
+renda  
+média-alta
+2 0 6 2 7 11 11 5 22 41 20 1 128
+- Brasil 0 0 0 0 2 3 2 0 0 12 3 0 22
+- China 0 0 0 0 0 0 0 0 3 2 1 0 6
+- Demais 2 0 6 2 5 8 9 5 19 27 16 1 100
+Países de 
+renda  
+média-baixa
+1 0 0 2 14 15 15 15 21 15 36 8 142
+- Índia 0 0 0 0 6 6 4 2 5 0 0 0 23
+- Demais 1 0 0 2 8 9 11 13 16 15 36 8 119
+Países de 
+renda baixa 1 0 1 0 0 1 6 2 2 2 6 3 24
+Multilateral 0 0 0 1 0 7 13 8 10 7 7 2 55
+Total 9 6 11 11 32 43 67 47 94 87 96 30 533
+Fonte: Elaboração própria, com base em dados de INSE (2024).
+* inclui apenas instituições que continuavam em atividade até a data do levantamento, janeiro de 2024.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+29
+A Tabela 5 mostra os 25 maiores BDs, por valor do ativo, e suas áreas de atuação. As três primeiras 
+posições são ocupadas por Fannie Mae (ativos de US$ 4,2 trilhões), Freddie Mac (US$ 3 trilhões) e 
+China Development Bank (CDB, US$ 2,7 trilhões), sendo as duas primeiras dos EUA, com foco no 
+mercado secundário de hipotecas,36 e a terceira, da China, com mandato variado. O BNDES ocupa 
+a 11ª posição no ranking entre as instituições não multilaterais e com mandato variado (INSE, 2024).
+TABELA 5. LISTA DOS 25 MAIORES BD, POR TAMANHO DE ATIVO
+Nome País Ano de 
+criação Tipo Mandato 
+oficial
+Ativos 
+(US$ bi.)
+Posição no ranking
+Global Não multi., 
+M. variado
+Fannie Mae EUA 1938 Nacional Imob.* 4.229 1 -
+Freddie Mac EUA 1970 Nacional Imob.* 3.026 2 -
+China Development  
+Bank (CDB) China 1994 Nacional Variado 2.701 3 1
+Agricultural Development 
+Bank of China China 1994 Nacional Agric.* 1.256 4 -
+Caisse des Dépôts França 1816 Nacional Variado 1.213 5 2
+The Export-Import Bank 
+of China China 1994 Nacional EXIM 857 6 -
+European Investment  
+Bank (EIB) Multilateral 1958 Multilateral Variado 710 7 -
+Kreditanstalt für 
+Wiederaufbau (KfW) Alemanha 1948 Nacional Variado 627 8 3
+Cassa Depositi e Prestiti (CDP) Itália 1850 Nacional Variado 588 9 4
+U.S. Small Business 
+Administration EUA 1953 Nacional MPMEs 562 10 -
+Banco Mundial Multilateral 1944 Multilateral Variado 538 11 -
+Caisse de Dépôt et Placement 
+du Québec (CDPQ) Canadá 1965 Subnacional Variado 373 12 5
+Japan Finance  
+Corporation (JFC) Japão 2008 Nacional MPMEs 332 13 -
+Asian Development Bank Multilateral 1966 Multilateral Variado 282 14 -
+Korea Development  
+Bank (KDB)
+Coreia do 
+Sul 1954 Nacional Variado 280 15 6
+Canada Mortgage and 
+Housing Corporation Canadá 1945 Nacional Imob.* 237 16 -
+Japan Housing Finance Agency Japão 2007 Nacional Imob.* 237 17 -
+Development Bank  
+of Japan (DBJ) Japão 1951 Nacional Variado 187 18 7
+Promotional Bank  
+of North Rhine-Westphalia Alemanha 2002 Subnacional Variado 174 19 8
+Municipal Bank of Netherlands Holanda 1914 Nacional Variado 170 20 9
+Japan Bank for International 
+Cooperation (JBIC) Japão 1999 Nacional Variado 160 21 10
+(Continua...)
+36 A principal atividade das duas empresas consiste na compra de hipotecas dos financiadores da aquisição de imó-
+veis, para liberar recursos, visando aumentarem seus financiamentos. 
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+30
+(Continua...)
+Nome País Ano de 
+criação Tipo Mandato 
+oficial
+Ativos 
+(US$ bi.)
+Posição no ranking
+Global Não multi., 
+M. variado
+Inter-American  
+Development Bank Multilateral 1959 Multilateral Variado 152 22 -
+Korea Housing Finance 
+Corporation
+Coreia  
+do Sul 2004 Nacional Imob.* 147 23 -
+BNDES (Banco Nacional 
+de Desenvolvimento 
+Econômico e Social)
+Brasil 1952 Nacional Variado 132 24 11
+Japan International 
+Cooperation Agency Japão 1974 Nacional Variado 124 25 12
+Fonte: Elaboração própria, com base nos dados de INSE (2024).
+* Agric.: desenvolvimento rural e agrícola; Imob.: setor imobiliário.
+Além das áreas de atuação, os BDs diferem em estrutura de capital, funding, porte dos clientes, 
+instrumentos financeiros e serviços mais utilizados (oferta de financiamento, garantias, seguros, 
+participação acionária, fundos não reembolsáveis ou elaboração de projetos), governança corpora-
+tiva, regulação e supervisão. Em que pesem as diferenças, tais instituições tipicamente auxiliam na 
+implementação de políticas públicas, complementam as ofertas de crédito do sistema financeiro 
+privado e contribuem para que os setores privado e público assumam riscos e desafios em investi-
+mentos estratégicos de longo prazo (Além; Madeira, 2024).37 Em geral, contam com alguma forma 
+de apoio do governo: isenção de impostos, garantias da União, acesso a fundos constitucionais e 
+parafiscais ou subsídios para implementação de políticas públicas.38
+Atualmente, a estratégia de longo prazo dos BDs tem priorizado a transição para um modelo econômico 
+inclusivo, compatível com as mudanças climáticas e redutor de desigualdades de renda.39 Esse foco foi 
+consolidado pelo lançamento da Agenda 2030 pela ONU em 2015, com a definição dos 17 Objetivos de 
+Desenvolvimento Sustentável (ODS), que passaram a orientar investimentos na “nova economia”. Os 
+BDs também continuam a cumprir uma função anticíclica importante, atenuando a queda da oferta de 
+recursos privados e possibilitando uma recuperação econômica mais rápida. Essa atuação foi utilizada 
+para mitigar os efeitos negativos da pandemia de Covid-19 na economia, tanto na área de saúde quanto 
+no fornecimento de liquidez para empresas, visando manter negócios e empregos. 
+37 Além e Madeira (2024) analisam as características de BDs nacionais, que são a maioria das instituições financeiras 
+de desenvolvimento.
+38 Maciel (2023) aponta que os BDs japoneses têm acesso ao Fiscal Investment and Loan Program, com custo 
+equivalente às taxas dos títulos públicos federais. Outro exemplo citado é o da Coreia do Sul: em 2020, o governo 
+coreano lançou o plano Korean New Deal. Para financiar os projetos do plano, o governo expandiu o papel das 
+instituições financeiras estatais (incluindo o Korea Development Bank – KDB), fornecendo, ao longo de cinco anos, 
+KRW 100 trilhões (US$ 79 bilhões) em crédito por meio de empréstimos com taxas reduzidas e de garantias especiais.
+39 Em levantamento do PNUD (2022, p. 20), 25 (89%) dos 28 BDPs pesquisados declararam que o mandato de suas 
+instituições prioriza ações ligadas ao clima e ao atingimento dos ODS em todos os seus níveis.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+31
+3.3. As novas políticas públicas no Brasil
+O planejamento estratégico do BNDES mapeou 31 políticas públicas e diretrizes governamentais, 
+que têm relação com a atuação do Banco em prol do desenvolvimento sustentável brasileiro. Den-
+tre as 31, oito se destacam por fazerem menção explícita ao BNDES ou por preverem a contribuição 
+direta do Banco em seu planejamento e execução: (i) Estratégia Federal de Desenvolvimento (EFD); 
+(ii) Lei de Diretrizes Orçamentárias (LDO); (iii) Nova Indústria Brasil (NIB); (iv) Objetivos de Desen-
+volvimento Sustentável (ODS); (v) Plano de Transformação Ecológica (PTE); (vi) Plano Estratégico 
+do Fundo de Amparo do Trabalhador (FAT); (vii) Plano Plurianual (PPA); e (viii) Programa de Acele-
+ração do Crescimento (Novo PAC).
+A seguir, são destacadas as principais características de três dessas políticas, as quais foram lança-
+das ou anunciadas em 2023: o Novo PAC, focado na modernização da infraestrutura do país; a NIB, 
+voltada a estimular o desenvolvimento produtivo e tecnológico, atendendo a demandas sociais; e 
+o PTE, para estimular investimentos que melhorem o meio ambiente e reduzam desigualdades. As 
+três políticas têm em comum a preocupação com temas socioambientais e o desenvolvimento de 
+cadeias produtivas.
+O novo Programa de Aceleração do Crescimento (Novo PAC)
+O Novo PAC, lançado em 11 de agosto de 2023, consiste em um programa de investimentos e medi-
+das institucionais, coordenados pela Casa Civil, em parceria com o setor privado, estados, muni -
+cípios e movimentos sociais. O objetivo é “acelerar o crescimento econômico e a inclusão social, 
+gerando emprego e renda, e reduzindo desigualdades sociais e regionais” (Brasil, 2024).
+Os investimentos totais do programa alcançam cerca de R$  1,7 trilhão, sendo em torno de:  
+(i) R$  370 bilhões do Orçamento Geral da União; (ii) R$  610 bilhões do setor privado; (iii) R$  340 
+bilhões de empresas estatais, notadamente a Petrobrás; e (iv) R$ 440 bilhões de bancos públicos, 
+dos quais o BNDES deverá contribuir com R$ 270 bilhões. A maior parte dos investimentos (R$  1,3 
+trilhão) está prevista para o período de 2023 a 2026, sendo os cerca de R$  400 bilhões restantes 
+para 2027 em diante.
+O valor total dos investimentos do Novo PAC está distribuído em nove eixos: (i) Água para Todos; 
+(ii) Cidades Sustentáveis e Resilientes; (iii) Educação, Ciência e Tecnologia; (iv) Inclusão Digi-
+tal e Conectividade; (v) Inovação para Indústria da Defesa; (vi) Infraestrutura Social e Inclusiva;  
+(vii) Saúde; (viii) Transição e Segurança Energética; e (ix) Transporte Eficiente e Sustentável. A 
+Figura 1 mostra a distribuição dos investimentos em cada eixo, com a maior alocação de investi-
+mentos, R$ 608,6 bilhões, em Cidades Sustentáveis e Resilientes.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+32
+FIGURA 1. DISTRIBUIÇÃO DOS INVESTIMENTOS DO NOVO PAC POR EIXO
+investimento
+R$ tri1,7
+2023 a 2026
+R$ tri1,4
+pós 2026
+R$ tri0,3
+R$ 30,5 bi
+Saúde
+R$ 45,0 bi
+Educação, ciência
+e tecnologia
+R$ 52,8 bi
+Inovação para
+indústria da defesa
+R$ 540,3 bi
+Transição e 
+segurança energética
+R$ 609,7 bi
+Cidades sustentáveis
+e resilientes
+R$ 27,9 bi
+Inclusão digital
+e conectividade
+R$ 30,1 bi
+Água 
+para todos
+R$ 2,4 bi
+Infraestrutura
+social inclusiva
+Transporte e/f_iciente 
+e sustentável
+R$ 349,8 bi
+Fonte: Elaboração própria com base nos dados disponíveis em: https://www.gov.br/casacivil/pt-br/novopac.
+O Novo PAC também inclui 43 medidas institucionais, que visam contribuir para a expansão sus-
+tentada dos investimentos. As medidas estão agrupadas em cinco temas: (i) aperfeiçoamento do 
+ambiente regulatório e do licenciamento (13 medidas); (ii) expansão do crédito e incentivos econô-
+micos (11); (iii) aprimoramento dos mecanismos de concessão e PPPs (parcerias público-privadas) 
+(4); (iv) incentivos à transição ecológica (7); e (v) planejamento, gestão e compras públicas (8).
+A maioria das ações relacionadas ao BNDES está no tema “expansão do crédito e incentivos econô-
+micos”. Entre as medidas que já haviam sido aprovadas pelo Congresso no momento da elaboração 
+deste documento, destaca-se a aplicação do indexador Taxa Referencial (TR) nas operações de 
+crédito para inovação com recursos do FAT, operacionalizadas pelo BNDES, até o limite de 1,5% do 
+saldo dos recursos repassados pelo Fundo ao Banco.
+Outra medida do Novo PAC, no tema “aprimoramento do marco normativo de concessões e PPPs”, 
+é o reforço ao BNDES na estruturação de PPPs de infraestrutura social e ambiental, por meio da 
+simplificação para a contratação de estudos técnicos para a estruturação de concessões e PPPs, 
+possibilitando contratação por colação e remuneração do BNDES via ressarcimento automático 
+pelo Fundo Nacional de Desestatização (FND).
+A Nova Indústria Brasil (NIB)
+A NIB, lançada em janeiro de 2024, é uma política que visa promover a “neoindustrialização” do 
+Brasil, a ser implementada pelo Governo Federal nos próximos dez anos. Os três grandes objetivos 
+são: “(i) estimular o progresso técnico e, consequentemente, a produtividade e competitividade 
+nacionais, gerando empregos de qualidade; (ii) aproveitar melhor as vantagens competitivas do 
+país; e (iii) reposicionar o Brasil no comércio internacional” (MDIC, 2024a).40 A NIB tem também seis 
+missões, para as quais foram definidas “metas aspiracionais”, apresentadas na Tabela 6.
+40 A NIB foi elaborada por meio de um amplo diálogo nos grupos de trabalho do Conselho Nacional de Desenvolvi-
+mento Industrial (CNDI, 2024).
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+33
+Os recursos destinados à NIB totalizam R$  300 bilhões em financiamentos até 2026, que incluem 
+os R$  106 bilhões anunciados na primeira reunião do Conselho Nacional de Desenvolvimento 
+Industrial (CNDI), em julho de 2023 (MDIC, 2024b). Tais recursos serão “geridos por BNDES, Finep 
+[Financiadora de Estudos e Projetos] e Embrapii [Empresa Brasileira de Pesquisa e Inovação Indus-
+trial] e disponibilizados por meio de linhas específicas, não reembolsáveis ou reembolsáveis, e 
+recursos por meio de mercado de capitais” (MDIC, 2024b). “A política também lança mão de novos 
+instrumentos de captação, como a Letra de Crédito de Desenvolvimento (LCD), e um arcabouço de 
+novas políticas – como o mercado regulado de carbono e a taxonomia verde” (MDIC, 2024b).
+TABELA 6. MISSÕES E METAS ASPIRACIONAIS DA NIB
+Missões Metas aspiracionais
+1. Cadeias agroindustriais 
+sustentáveis e digitais para a 
+segurança alimentar, nutricional  
+e energética
+Aumentar a participação do setor agroindustrial no PIB agropecuário  
+de 23% para 50%
+Ampliar de 18% para 70% a mecanização dos estabelecimentos da 
+agricultura familiar
+Suprir pelo menos 95% do mercado de máquinas e equipamentos  
+para a agricultura familiar com produção nacional
+Garantir a sustrentabilidade ambiental na agroindústria
+2. Complexo econômico industrial 
+da saúde resiliente para reduzir as 
+vulnerabilidades do Sistema Único 
+de Saúde (SUS) e ampliar o acesso 
+à saúde
+Produzir no país 70% das necessidades nacionais em medicamentos, vacinas, 
+equipamentos e dispositivos médicos, materiais e outros insumos e tecnologias 
+em saúde.*
+3. Infraestrutura, saneamento, 
+moradia e mobilidade sustentáveis 
+para a integração produtiva e o 
+bem-estar nas cidades
+Reduzir em 20% o tempo de deslocamento de casa para o trabalho.**
+Aumentar em 25 pontos percentuais a participação da produção brasileira na 
+cadeia da indústria do transporte público sustentável.***
+4. Transformação digital 
+da indústria para ampliar a 
+produtividade
+Transformar digitalmente 90% das empresas industriais brasileiras, 
+assegurando que a participação da produção nacional triplique nos segmentos 
+de novas tecnologias.**** 
+5. Bioeconomia, descarbonização, 
+e transição e segurança 
+energéticas para garantir os 
+recursos para as futuras gerações
+Promover a indústria verde, reduzindo em 30% a emissão de CO2 por valor 
+adicionado da indústria, ampliando em 50% a participação dos biocombustíveis 
+na matriz energética de transportes e aumentando o uso tecnológico e 
+sustentável da biodiversidade pela indústria em 1% ao ano.*****
+6.Tecnologias de interesse para a 
+soberania e defesa nacionais
+Obter autonomia na produção de 50% das tecnologias críticas para a defesa, 
+a partir da elaboração da lista dessas tecnologias
+Fonte: MDIC (2024a).
+Em relação às referências da Tabela, no momento da elaboração do NIB, tem-se que: *o percentual estava em 42%;  
+**o tempo médio era de 4,8 horas semanais; ***o percentual era de 59% para ônibus elétricos; ****23,5% das empre-
+sas industriais eram digitalizadas, no que diz respeito ao uso ou adoção de novas tecnologias; *****as emissões estavam 
+em 107 milhões de tonelandas por trilhão de dólares e a participação dos biocombustíveis estava em 21,4% (CNDI, 2024).
+O Plano de Transformação Ecológica (PTE)
+O PTE tem o objetivo de proporcionar mudanças estruturantes na economia, que melhorem o meio 
+ambiente e reduzam desigualdades (Máximo, 2023). O Plano conta com envolvimento direto do 
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+34
+Ministério da Fazenda (MF) e do Ministério do Meio Ambiente e Mudança do Clima (MMA), além de 
+outros ministérios.
+Está estruturado em seis eixos: (i) Finanças sustentáveis; (ii) Adensamento tecnológico; (iii) Bioeco-
+nomia; (iv) Transição energética; (v) Economia circular; e (vi) Nova infraestrutura e adaptação. Na 
+agenda de ações, estão: a criação e regulamentação do Sistema Brasileiro de Comércio de Emissões 
+(SBCE) – mercado de carbono regulado; a criação de núcleos de inovação tecnológica nas universi-
+dades; a ampliação de áreas de concessões florestais; a eletrificação de frotas de ônibus; o estímulo 
+à reciclagem; e obras públicas de prevenção a desastres naturais.
+Uma das principais fontes de financiamento do Plano será o Fundo Nacional sobre Mudança Cli -
+mática, ou Fundo Clima (BNDES, 2024c). Criado em 2009 e vinculado ao MMA, tem o objetivo de 
+financiar projetos, estudos e empreendimentos que visem à redução de emissões de gases de efeito 
+estufa e à adaptação aos efeitos da mudança do clima. No fim de abril, o Governo Federal assinou 
+o repasse de R$ 10 bilhões para o Fundo Clima, com recursos provenientes da emissão de títulos 
+soberanos sustentáveis pelo Tesouro Nacional (BNDES, 2024b).41
+O BNDES atua como agente operador do Fundo Clima, na aplicação dos recursos reembolsáveis 
+(BNDES, 2024a). As áreas de atuação do Banco nas operações do Fundo são:
+• desenvolvimento urbano resiliente e sustentável, visando o enfrentamento e adaptação aos 
+efeitos das mudanças climáticas no espaço urbano;
+• indústria verde, apoiando a produção de bens e serviços de maneira ambientalmente susten-
+tável, incluindo a promoção da economia circular;
+• logística de transporte, transporte coletivo e mobilidade verdes, promovendo alternativas 
+mais sustentáveis;
+• transição energética, apoiando a adoção de fontes de energia limpa e o uso eficiente da 
+energia;
+• florestas nativas e recursos hídricos, apoiando a conservação, a recuperação e a gestão de 
+florestas, bem como promovendo o uso sustentável da biodiversidade; e
+• serviços e inovação verdes, apoiando o desenvolvimento de soluções que contribuam na 
+transição para uma economia mais sustentável e resiliente às mudanças climáticas.
+41 Em 20 de novembro de 2023, o Tesouro Nacional emitiu US$ 2 bilhões em títulos soberanos sustentáveis no mercado 
+internacional com prazo de sete anos: o Global 2031 ESG (BNDES, 2024b). Os R$ 10 bilhões de entrada de recursos 
+no Fundo Clima em 2024 são bem acima dos cerca de R$ 2 bilhões investidos por meio do Fundo (R$ 2,3 bilhões na 
+modalidade reembolsável e R$ 128 milhões na não reembolsável) entre 2009 e 2023.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+35
+4. A ESTRATÉGIA DE LONGO PRAZO DO BNDES
+O panorama esboçado na seção 2 mostra um passado recente brasileiro, até 2022, de aumento da 
+pobreza, ingresso do país no mapa da fome, desigualdade, estagnação dos rendimentos e desin -
+dustrialização. Esse contexto doméstico veio acompanhado por questões que o Brasil partilha com 
+o resto do mundo – a emergência climática, os conflitos armados, a ameaça de novas pandemias e 
+os desenvolvimentos das novas tecnologias de IA.
+A atuação pública precisou ser repensada com rapidez. Entre os grandes desafios da nova agenda 
+estão: a redução do hiato de investimentos em infraestrutura; a descarbonização das atividades pro-
+dutivas; a promoção de uma nova industrialização da economia, tornando-a mais verde, inovadora, 
+inclusiva e digital; e o fomento a projetos de inclusão e redução das desigualdades. O BNDES, em 
+particular, é um instrumento fundamental de que o país dispõe para a implementação dessa agenda.
+4.1. Histórico r ecente do BNDES
+O BNDES enfrentou, na segunda década do século XXI, uma reversão de sua participação na econo-
+mia brasileira que colocou em risco sua capacidade de contribuição para o desenvolvimento do país. 
+A combinação da contração da carteira de crédito, das devoluções de recursos ao Tesouro Nacional 
+e da política de desinvestimento das participações acionárias resultou na queda expressiva no total 
+dos ativos da instituição. Ao focar a análise em alguns dos segmentos das demonstrações financeiras, 
+na evolução dos desembolsos e na carteira de projetos em projetos em estruturação, tem-se:
+• Ativo total: o ativo total voltou a aumentar em 2023, com crescimento de 7,1%, a preços 
+correntes, atingindo R$ 732 bilhões ao fim do ano. O Gráfico 11 apresenta as mudanças de 
+tamanho e composição do ativo desde 2002, em percentual do PIB, destacando-se a forte 
+retração nas diferentes rubricas entre 2015 e 2022 e, praticamente, uma estabilização de 2022 
+para 2023.42 Na passagem de 2021 para 2022, em particular, chama atenção a forte contração 
+na disponibilidade de caixa e equivalentes, caindo de 1,1% do PIB (R$ 95,3 bilhões, a preços 
+correntes) para 0,4% do PIB (R$ 35,6 bilhões). Essa diminuição tornou mais desafiadora a 
+retomada das operações de crédito e repasse do Banco em 2023, analisadas no próximo item.
+42 Entre 2016 e 2022, o ativo total do BNDES, em reais a preços correntes, diminuiu em todos os anos, com exceção 
+de 2020, em meio à pandemia de Covid-19. Já em dólar, como mostra o Gráfico 12, a exceção foi o ano de 2017.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+36
+GRÁFICO 11. COMPOSIÇÃO DO ATIVO TOTAL DO BNDES (% PIB)
+10,1 
+8,9 
+8,4 8,1 7,8 7,4 
+8,9 
+11,6 
+14,1 14,3 
+14,9 14,7 
+15,2 15,5 
+14,0 
+13,2 
+11,5 
+9,9 10,2 
+8,2 
+6,8 6,7 
+0,0
+2,0
+4,0
+6,0
+8,0
+10,0
+12,0
+14,0
+16,0
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Caixa e equivalentes Títulos e valores mobiliários (TVM)* e investimentos
+Caixa e equivalentes
+Títulos e valores mobiliários (TVM)* 
+e investimentos
+Carteira de crédito Outros (inclui créditos perante o TN)
+Carteira de crédito
+Outros (inclui créditos perante o TN)
+% do PIB 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+0,0 0,0 0,0 0,0 0,0 0,0 0,2 0,1 0,3 0,1 0,2 0,1 0,1 0,6 0,9 1,7 1,2 0,7 1,3 1,1 0,4 0,3
+1,9 1,8 1,7 1,6 1,4 1,2 1,5 2,6 4,1 4,0 3,8 3,3 2,9 2,6 2,7 2,5 2,6 2,7 2,6 1,9 1,6 1,7
+7,7 6,6 6,3 6,1 6,1 6,0 6,9 8,5 9,3 9,7 10,2 10,6 11,3 11,6 9,7 8,3 7,1 6,0 5,9 4,9 4,6 4,5
+0,5 0,4 0,4 0,3 0,2 0,2 0,2 0,4 0,5 0,5 0,7 0,7 0,9 0,7 0,6 0,6 0,6 0,5 0,5 0,3 0,2 0,2
+Ativo Total 10,1 8,9 8,4 8,1 7,8 7,4 8,9 11,6 1 4,1 14,3 14,9 14,7 15,2 15,5 14,0 13,2 11,5 9,9 10,2 8,2 6,8 6,7
+Fonte: Elaboração própria, com base em dados do BNDES.43
+*Até 2009, as participações acionárias em empresas eram avaliadas a custo de aquisição. A partir de 2010, passaram 
+a ser avaliadas a valor justo.
+O Gráfico 12, por sua vez, compara a trajetória do ativo do BNDES com a de outros BDs entre 2012 
+e 2022, convertendo os valores em moeda local das diferentes instituições para bilhões de dólares. 
+Além do BNDES, foram considerados cinco entre os seis maiores BDs com atuação diversificada e 
+não multilaterais, apresentados na Tabela 5.44 Observa-se que a diminuição do tamanho do Banco 
+entre 2015 e 2022 caminhou na direção contrária da observada nos ativos totais do CDB da China 
+(aumento acumulado de 61%, em dólar), do Caisse de Dépôt et Placement du Québec (CDPQ) do 
+Canadá (+47%), do CDP da Itália (+8%) e do Korea Development Bank (KDB) da Coreia do Sul (+4%), 
+ao passo que houve queda no Kreditanstalt für Wiederaufbau (KfW) da Alemanha (-11%). Em nítido 
+contraste, o ativo total do BNDES contraiu 64%, em dólar, no período.
+43 Disponível na Central de Resultados – BNDES: https://ri.bndes.gov.br/informacoes-financeiras/central-de-
+resultados/bndes/.
+44 O Caisse des Depots da França é o segundo maior BD com tais características, mas não aparece no Gráfico 12. 
+Em 2020, no âmbito do esforço do governo da França de criar um importante hub financeiro público, houve profunda 
+reestruturação de instituições públicas francesas, com transferências de participação no capital, envolvendo governo 
+francês, Caisse des Depóts, La Poste, La Banque Postale e CNP Assurances. Como resultado, de 2019 para 2020, o 
+ativo total em dólar do Caisse Despots multiplicou por seis, o que distorce a comparação com outros BDs.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+37
+GRÁFICO 12. EVOLUÇÃO DO ATIVO TOTAL DO BNDES E DE BDS SEMELHANTES (US$ BILHÃO)*
+1.193 1.323
+1.679
+2.026 2.158
+2.361 2.446 2.389 2.479
+2.662 2.708
+654 617 650 558 561 533 573 566 624 651 584
+392 418 465 383 396 474 502 502 585 612 503
+214 233 247 227 238 260 270 296 307 377 364
+170 236 263 274 235 233 236 231 258 292 274
+366 363 373 280 251 272 220 185 151 137 132
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+CDB (China) KfW (Alemanha) CDP (Itália) CDPQ (Canadá) KDB (Coreia do Sul) BNDES (Brasil)
+Fonte: Elaboração própria, com base em balanços das instituições financeiras e Banco Mundial (2024, taxas de câmbio 
+médias anuais).
+*Pode haver diferenças entre os dados deste gráfico e os da Tabela 5, uma vez que na base de dados utilizada para 
+elaboração da tabela não aparece a data de referência do valor do ativo.
+• Carteira de crédito e repasses: ao fim de 2023, a carteira líquida de operações de crédito e 
+repasses interfinanceiros45 estava em R$  489 bilhões, com crescimento de 4,5% em relação 
+ao ano anterior. O valor corresponde a 4,5% do PIB de 2023, sendo bem distante ainda do 
+intervalo de flutuação desse percentual entre 2002 e 2015, com o mínimo de 6,0%, em 2007, 
+e o máximo de 11,6% do PIB, em 2015. Como resultado, o BNDES perdeu parte relevante de 
+sua capacidade de impactar a economia. O Box 2 ilustra essa perda, ao analisar a contração 
+de crédito a investimentos do Banco e a evolução do estoque de capital em máquinas e 
+equipamentos e infraestrutura no Brasil.
+45 O valor líquido corresponde à carteira bruta de operações de crédito e repasses de R$ 500,8 bilhões, líquida de 
+provisão para risco de crédito, no montante de R$ 11,1 bilhões.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+38
+BOX 2
+O BNDES E A ECONOMIA
+A forte retração da taxa de investimento entre 2016 e 2020, apontada na seção 2.5, guarda seme-
+lhança com a contração dos desembolsos do BNDES no período. Da mesma forma, o desempenho 
+do estoque de capital em máquinas e equipamentos e infraestrutura da economia tem correlação 
+com a evolução da carteira de crédito para investimentos do Banco.
+O Gráfico 13 mostra a variação, em bilhões de reais, dos valores anuais em relação a 2007, quando 
+os referidos estoques de capital e de crédito do BNDES estavam em R$ 6,5 trilhões e R$ 385 bilhões, 
+respectivamente, a preços de 2023. A correlação entre as taxas de variação dos valores, a preços de 
+2023, ficou em 0,88. Em que pese o reduzido número de observações, que prejudica uma avaliação 
+econométrica robusta, há evidências de relação de causalidade do estoque de crédito para o de 
+capital, mas também do estoque de capital para o de crédito.
+GRÁFICO 13. ESTOQUE DE CAPITAL EM MÁQUINAS, EQUIPAMENTOS E INFRAESTRUTURA E CARTEIRA 
+DE CRÉDITO A INVESTIMENTOS DO BNDES (VARIAÇÃO EM RELAÇÃO A 2007, R$ BILHÃO DE 2023)
+0
+1.145
+2.683 2.650
+2.162
+0
+344
+642 632
+94 24 5 -5
+-500
+0
+500
+1.000
+1.500
+2.000
+2.500
+3.000
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+ Estoque capital /f_ixo: máquinas e equipamentos + Infra
+ (variação em relação a 2007)
+ Cart. cred.: /f_inanc. a inv. BNDES
+ (variação em relação a 2007)
+Fonte: Elaboração própria, com base em dados do BNDES, Bacen e Ipeadata.46
+• Desembolsos: ficaram em R$ 114,4 bilhões em 2023, com crescimento de 17% em relação ao 
+ano anterior. Apesar do desempenho robusto, o valor, correspondente a 1,1% do PIB (Gráfico 
+14), está ainda abaixo das médias de 2,1% e 3,5% do PIB, respectivamente, nos cinco primeiros 
+anos das décadas de 2000 e 2010. A participação da indústria nos desembolsos totais ficou 
+46 Disponíveis, respectivamente, em https://www.bndes.gov.br/wps/portal/site/home/bndes-data/bndes-data-dados-
+series-temporais, https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries e 
+http://ipeadata.gov.br/Default.aspx.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+39
+em 19% em 2023, tendo chegado a ser 53% em 2006, e ficado em média em 35% entre 2000 
+e 2022. Os financiamentos a exportações passaram a ser residuais: de um máximo de US$ 11 
+bilhões em 2010, caíram para uma média de US$ 553 milhões em 2021 e 2022. Em 2023, os 
+desembolsos a exportações quase triplicaram (alta de 178%), totalizando US$ 1,2 bilhão, ante 
+US$ 626 milhões no ano anterior.
+GRÁFICO 14. DESEMBOLSOS DO BNDES (% PIB)
+0,2 0,2 0,3 0,3 0,4 0,2 0,1 0,2 0,2 0,2 0,3 0,2 0,2 0,4 0,3 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,3
+0,9
+1,0
+1,2
+0,9 0,8 1,1 1,1 1,0
+1,3
+1,9
+2,0
+1,0 1,0
+1,1
+0,9
+0,6 0,5
+0,2 0,2 0,1 0,2 0,1 0,2 0,2
+0,7 0,5
+0,9
+0,6 0,7 0,7 0,7 0,9
+1,1
+1,5
+1,3
+1,3 1,1
+1,2
+1,2
+0,9
+0,4
+0,4 0,4 0,3 0,3 0,3
+0,4 0,4
+0,2 0,2
+0,2
+0,2 0,1
+0,2 0,2
+0,3
+0,4
+0,5
+0,7
+0,7 0,9
+1,0
+0,9
+0,5
+0,3
+0,2 0,2
+0,1 0,1
+0,1
+0,1 0,2
+1,9 1,9
+2,5
+2,0 2,0
+2,2 2,1
+2,4
+2,9
+4,1
+4,3
+3,2 3,2
+3,6
+3,3
+2,3
+1,4
+1,1 1,0
+0,7 0,9
+0,7
+1,0 1,1
+0
+1
+1
+2
+2
+3
+3
+4
+4
+5
+5
+2000 2001 2002 2003 2004 2005 2006 2007 2 008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Agropecuária Indústria Infraestrutura Comércio e serviços
+Fonte: Elaboração própria, com base em dados do BNDES, IBGE e Banco Central do Brasil.47
+• Carteira em renda variável: ao fim de 2023, a carteira de renda variável (inclui ações, debên-
+tures e fundos de investimentos) estava em R$ 81,9 bilhões, no valor de mercado. No ano, 
+houve aumento no valor da carteira (estava em R$ 64,7 bilhões ao fim de 2022), explicado 
+principalmente pela valorização dos ativos. Em que pese essa valorização, o valor recente 
+é bem inferior aos R$ 130,4 bilhões registrados ao fim de 2019, com uma retração explicada 
+pelos desinvestimentos líquidos de R$ 73,1 bilhões realizados entre 2020 e 2023.
+• Estruturação de projetos: visa formular bons projetos com foco social, ambiental e em 
+infraestrutura. O Box 3 apresenta a carteira de projetos em estruturação.
+47 Disponíveis, respectivamente, em https://www.bndes.gov.br/wps/portal/site/home/bndes-data/bndes-
+data-dados-series-temporais, https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9300-contas-
+nacionais-trimestrais.html?=&t=resultados e https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.
+do?method=prepararTelaLocalizarSeries.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+40
+BOX 3
+CARTEIRA DE PROJETOS EM ESTRUTURAÇÃO PELO BNDES
+No início de 2024, o BNDES tinha 190 projetos para participação privada em carteira na instituição, 
+que totalizavam um potencial de R$ 601 bilhões de investimentos na economia ao longo do período 
+de concessão, incluindo pagamentos de outorga. Entre esses 190 projetos, 46 já haviam sido con -
+cluídos, 9 tinham sido leiloados, 79 estavam em estruturação e 56 em prospecção.
+No âmbito dessa atuação, o Banco:
+• participa das discussões preliminares do projeto e seu escopo;
+• promove a contratação dos estudos de estruturação e modelagem, que são apresentados em 
+audiência e/ou consultas públicas, para apreciação das partes interessadas ou impactadas 
+pelo projeto;
+• articula junto aos órgãos de controle e oferece apoio à elaboração e publicação das minutas 
+de edital e contratos entre o poder público e o parceiro privado;
+• presta apoio na atração de investidores e oferta de crédito, bem como na realização do pro-
+cesso licitatório do projeto; e
+• realizado o leilão de concessão ou de PPP, o BNDES presta apoio na verificação do cumpri -
+mento de condições para assinatura do contrato entre os entes público e privado.
+O Mapa 1 mostra a localização dos 190 pro-
+jetos, e se observa a atuação do BNDES em 
+todas as regiões do país e na grande maio-
+ria dos estados. Os setores, por sua vez, são: 
+parques (38 projetos), rodovias (28), sanea-
+mento (24), florestas (22), ativos imobiliários 
+(19), mobilidade urbana (13), educação (13), 
+iluminação pública (11), energia elétrica (6), 
+saúde (4), gás natural (3), portos (3), segu-
+rança pública (2), resíduos sólidos (2), abas-
+tecimento (2) e infraestrutura hídrica (2).
+• Passivo exigível: com as devoluções da grande maioria dos recursos captados junto ao 
+Tesouro Nacional (detalhadas adiante), o FAT voltou a ser a principal fonte de recursos do 
+Banco. Ao fim de 2023, 69% do funding do BNDES foi proveniente do FAT, ao passo que a 
+dívida junto ao Tesouro Nacional respondeu por apenas 7%. O Gráfico 15 mostra a grande 
+importância do FAT como fonte estável de funding para o BNDES, com valor aplicado no 
+Banco variando entre 3,3% e 4,2% do PIB, ante uma oscilação bem maior das demais fontes.
+
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+41
+GRÁFICO 15. COMPOSIÇÃO DO PASSIVO EXIGÍVEL DO BNDES (% DO PIB)
+FAT Fundo PIS/Pasep Captações externas Tesouro Nacional Outros passivos
+4,2 3,9 3,9 4,1 4,2 3,9 3,7 3,7 3,4 3,3 3,4 3,3 3,4 3,7 3,7 3,8 3,9 3,9 4,1 3,9 3,7 3,7
+1,3
+1,2 1,1 1,1 1,1 1,0 0,9 0,9
+0,8 0,7 0,7 0,6 0,6 0,6 0,6 0,4 0,3 0,3
+2,0
+1,4 1,1 0,7 0,6
+0,4 0,6 0,5
+0,5 0,5 0,5 0,6 0,7
+0,9 0,6 0,6 0,6 0,4 0,5
+0,4 0,3 0,2
+1,0
+1,1
+1,1 0,9 0,6
+0,5
+1,4
+4,3
+6,5 7,1 7,8 8,0
+8,8
+8,7
+7,0
+6,3
+4,4
+2,7 2,6
+1,4
+0,5 0,4
+0,7
+0,6
+0,5 0,5
+0,5
+0,7
+1,5
+1,4
+1,2
+1,2
+1,5 1,3
+1,2
+1,1
+1,2
+1,1
+1,2
+1,1 1,6
+1,2
+1,0 1,0
+ -
+ 2,0
+ 4,0
+ 6,0
+ 8,0
+ 10,0
+ 12,0
+ 14,0
+ 16,0
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2 014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+ FAT 46 48 51 56 60 60 46 34 27 26 24 24 23 25 28 31 38 47 47 57 67 69
+ Fundo PIS/Pasep 14 15 14 15 15 16 12 8 6 6 5 5 4 4 4 3 3 3 - - - -
+ Captações externas 22 18 14 10 8 7 7 5 4 4 3 4 5 6 5  5 5 5 5 5  5 4
+ Tesouro Nacional 11 13 14 12 9 8 17 40 52 55 57 58 60 58 54 52 42 32 29 20 9 7
+ Outros passivos 8 7 7 7 8 10 18 13 10 9 11 9 8 7 9 9 12 14 18 17 19 19
+% do Passivo Exigível
+Fonte: Elaboração própria, com base em dados do BNDES.48
+• Captações de recursos junto ao Tesouro Nacional (TN):  o TN repassou R$ 452,4 bilhões ao 
+BNDES entre 1997 e 2014 (sendo R$ 440,8 bilhões entre 2008 e 2014), quando foi interrompida 
+essa captação de recursos. Ao fim de 2023, a soma dos valores pagos pelo Banco referentes 
+a essas operações era R$ 692,8 bilhões, superando os repasses em R$ 240,4 bilhões. Sobre 
+o valor original dos repasses, houve incidência de juros e correções de R$ 282,9 bilhões, de 
+modo que, ao fim de 2023, o saldo devedor do BNDES junto ao TN estava em R$ 42,6 bilhões.
+• Mudanças no FAT e os aportes do fundo no BNDES: o Box 4 mostra a origem e as mudanças 
+recentes nas regras do Fundo, ao passo que a Tabela 7 detalha as contas do FAT com os valo-
+res de 2023 a preços correntes e os números entre 2015 e 2023, em percentual do PIB. Em 
+2023, o resultado nominal do FAT ficou em R$ 2,8 bilhões, que considera o aporte realizado 
+pelo TN no Fundo de R$ 7,5 bilhões.
+48 Disponível na Central de Resultados – BNDES: https://ri.bndes.gov.br/informacoes-financeiras/central-de-resultados/bndes/.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+42
+BOX 4
+O FUNDO DE AMPARO AO TRABALHADOR (FAT)
+O FAT tem sua origem na Constituição Federal de 1988, art. 239, que definiu que os recursos arre-
+cadados pelo Programa de Integração Social (PIS) e pelo Programa de Formação do Patrimônio do 
+Servidor Público (Pasep) custeariam os programas de seguro-desemprego e abono salarial, e que 
+pelo menos 40% dos valores seriam para o financiamento de programas de desenvolvimento eco-
+nômico do BNDES. Em 1990, a Lei 7.998/1990 formalizou a instituição do FAT, vinculado ao Minis-
+tério do Trabalho e Previdência, destinado a custear e financiar os programas acima, tendo como 
+principais fontes de recursos o PIS e o Pasep. Essa Lei instituiu também o Conselho Deliberativo do 
+Fundo de Amparo ao Trabalhador (Codefat), com representação de trabalhadores, empregadores e 
+do Governo Federal, tendo, entre suas funções, elaborar diretrizes para programas e para alocação 
+de recursos referentes ao FAT.
+Ao longo do tempo, foram executados diferentes mecanismos de desvinculação de contribuições 
+federais, que, na prática, acabaram reduzindo o percentual de repasse de recursos para o BNDES 
+de 40% para 28%. Em 2019, a Emenda Constitucional (EC) 103/2019 extinguiu as desvinculações 
+sobre os recursos do PIS/Pasep, mas cristalizou o menor percentual de repasse de 28% para o 
+Banco. A EC permitiu também o uso de recursos para o pagamento de gastos previdenciários. 
+Ao considerar o efeito líquido das mudanças trazidas pela EC, o resultado tem sido a diminuição 
+no repasse de recursos do FAT ao BNDES, além da redução na previsibilidade dos valores desses 
+repasses, que passaram a depender do montante destinado a gastos previdenciários.
+Outras mudanças relevantes vieram da Medida Provisória 665/2014 e da Lei 13.483/2017. A pri -
+meira tornou mais rígidas as regras para as concessões de seguro-desemprego e do abono salarial, 
+trazendo uma redução nessas despesas do FAT. A segunda modificou o custo financeiro de refe -
+rência49 dos empréstimos do Banco nas operações com recursos do FAT, passando da taxa de juros 
+de longo prazo (TJLP) para a taxa de longo prazo (TLP), a partir de 2018. A TJLP continuou a valer 
+apenas para contratos firmados antes de 2018, passando a ser calculada, conforme a Resolução 
+4.645/2018 do Conselho Monetário Nacional (CMN), com base na meta de inflação para os doze 
+meses seguintes, acrescida de um prêmio de risco baseado no rendimento real da Nota do Tesouro 
+Nacional série B (NTN-B – título público emitido pelo Tesouro Nacional) de três anos.50 A TLP, por 
+sua vez, foi constituída como uma taxa referenciada na variação do Índice Nacional de Preços ao 
+Consumidor Amplo (IPCA), acrescida dos juros reais da NTN-B de cinco anos.
+49 O custo financeiro de referência corresponde à taxa básica, a partir da qual são aplicados o custo de intermediação 
+dos recursos pelo BNDES (e pelos agentes financeiros do Banco, nas operações indiretas) e o spread de risco associado 
+ao tomador do empréstimo.
+50 A Resolução CMN 4.645 definiu também um limite superior ao valor da TJLP correspondente à meta para a taxa 
+Selic, definida pelo Comitê de Política Monetária, quando o valor dessa meta for igual ou superior a 8,5%.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+43
+Ao fim de 2023, o patrimônio do FAT estava em R$  489,9 bilhões (MTE, 2024). Desse total, 
+R$ 397,4 bilhões estavam aplicados em empréstimo constitucional através do BNDES (FAT Cons -
+titucional); R$ 5,1 bilhões em depósitos especiais no BNDES (R$ 4,7 bilhões) e no Banco do Brasil 
+(R$  331 milhões); R$  50,8 bilhões em títulos públicos em fundos extramercado no Banco do Brasil 
+(R$ 49,3 bilhão) e na Caixa Econômica Federal (R$ 1,5 bilhão); e R$ 36,6 bilhões contabilizados como 
+“outros valores” (imobilizado, caixa e créditos a receber, especialmente créditos tributários e dívida 
+ativa relacionados às contribuições do PIS/Pasep).51
+Ao analisar a evolução das rubricas do FAT em percentual do PIB de 2015 para 2023, observa-se 
+redução dos aportes do Fundo no BNDES no período. Em uma perspectiva de médio a longo prazo, 
+um componente crítico para a trajetória dos aportes do FAT no BNDES tende a ser os pagamentos 
+de gastos previdenciários. Borça Jr. e Horta (2023) apontam que, a depender da evolução desses 
+pagamentos, os cenários podem ser de resultados superavitários ou deficitários para as contas do 
+FAT, com implicações para o funding do BNDES.52
+TABELA 7. RECEITAS E DESPESAS DO FAT ENTRE 2015 E 2023
+2023 2015 2016 2017 2018 2019 2020 2021 2022 2023
+(R$ milhão) (% PIB)
+Receitas
+PIS/Pasep 83.138 0,882 0,850 0,900 0,922 0,874 0,812 0,833 0,786 0,766
+DRU - 0,176 0,253 0,267 0,274 0,218 - - - -
+Gastos  
+previdenciários 20.109 - - - - - - 0,109 0,175 0,185
+Receita líquida  
+com PIS/Pasep 63.028 0,706 0,597 0,633 0,648 0,657 0,812 0,724 0,611 0,581
+Receita financeira 27.136 0,234 0,307 0,267 0,264 0,244 0,182 0,177 0,269 0,250
+Outras 705 0,027 0,018 0,008 0,009 0,005 0,003 0,004 0,003 0,006
+Receita  
+líquida total 90.869 0,967 0,922 0,908 0,920 0,906 0,997 0,906 0,883 0,837
+(Continua...)
+51 A conta de depósitos especiais é originada a partir dos resultados financeiros do FAT, quando suas receitas supe -
+ram as obrigações, incluindo o atendimento da reserva mínima de liquidez, podendo esses recursos ser incorporados 
+ao patrimônio do Fundo. As reservas mínimas de liquidez (RML), por sua vez, são aplicadas nos fundos extramercado. 
+Na rubrica “outros” são contabilizados principalmente os créditos tributários a receber e em dívida ativa relacionados à 
+contribuição do PIS/Pasep, conforme Acórdão 978/2018 do Tribunal de Contas da União (TCU).
+52 Borça Jr. e Horta (2023) elaboraram seis cenários para as contas do FAT. Nos três primeiros, foram definidos os 
+cenários base, otimista e pessimista para as contas de PIS/Pasep, seguro-desemprego e abono salarial, considerando, em 
+todos, que os gastos previdenciários seriam zerados de 2024 em diante. Os outros três diferem dos primeiros ao consi-
+derar que esses gastos são corrigidos por projeções do mercado (Sistema Expectativas de Mercado do Banco Central do 
+Brasil) para o IPCA. Os resultados mostram que, sem gastos previdenciários, o FAT apresenta resultados superavitários 
+de 2024 a 2032. Os cenários com pagamentos desses gastos, com exceção do otimista, mostram resultados deficitários 
+para o FAT.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+44
+(Continuação...)
+2023 2015 2016 2017 2018 2019 2020 2021 2022 2023
+(R$ milhão) (% PIB)
+Despesas
+Seguro desemprego 47.714 0,636 0,605 0,579 0,518 0,506 0,527 0,402 0,418 0,440
+Abono 25.047 0,170 0,287 0,247 0,248 0,237 0,253 0,113 0,238 0,231
+Aporte BNDES 22.091 0,284 0,255 0,251 0,258 0,254 0,227 0,221 0,237 0,203
+Demais 673 0,006 0,005 0,006 0,008 0,006 0,005 0,003 0,003 0,006
+Despesa total 95.525 1,096 1,152 1,083 1,031 1,003 1,012 0,738 0,896 0,880
+Resultado -4.656 -0,129 -0,230 -0,176 -0,111 -0,098 -0,015 0,168 -0,013 -0,043
+Repasses do TN 7.499 0,123 0,200 0,209 0,002 0,002 0,000 0,004 0,023 0,069
+Resultado com  
+repasses TN 2.843 -0,006 -0,031 0,034 -0,109 -0,096 -0,015 0,171 0,011 0,026
+Fonte: Elaboração própria com base em dados do Ministério do Trabalho e Emprego (Boletim de Informações Financei-
+ras do FAT, edições de 2015 a 2023).
+Os indicadores de qualidade da carteira de crédito e repasse e o índice de Basileia, por sua vez, 
+mostram a solidez do balanço patrimonial da instituição. O percentual de inadimplência (90 dias) 
+do BNDES, de 0,01%, foi substancialmente inferior à média do Sistema Financeiro Nacional (SFN, 
+3,27%) e à média dos bancos de desenvolvimento internacionais (0,45%), em 2023. O índice de 
+Basileia do Banco no ano ficou em 31,5%, bem acima do patamar mínimo regulatório de 10,5%, 
+requerido pelo Bacen.53 Esse percentual ficou também bem acima da média de 20,7% de bancos de 
+desenvolvimento de outros países.54
+Ao longo de 2023, no âmbito das discussões visando ampliar a atuação da instituição, foi identi-
+ficada a necessidade de reestruturar o funding do BNDES, tanto em termos de diversificação das 
+fontes de recursos quanto nas suas características. Nesse sentido, tornam-se medidas importantes 
+reduzir a concentração no FAT, responsável por dois terços do passivo do Banco, bem como encon-
+trar e definir taxas de juros básicas adequadas ao perfil de atuação da instituição.
+Como banco de desenvolvimento, com foco maior no longo prazo e em atuação anticíclica, é dese-
+jável que suas taxas de juros não acompanhem, nas mesmas direção e intensidade, as mudanças 
+de curto prazo nas condições de crédito da economia. Em contraste, o uso da TLP como custo 
+financeiro das operações com recursos do FAT traz grande volatilidade às condições de crédito 
+53 Limite de capital definido segundo Resolução Bacen/Dereg 4783, de 16 de março de 2020, e Resoluções anteriores.
+54 Fontes: Relatório Bacen IF.data (Conglomerados financeiros e instituições independentes) e demonstrações finan-
+ceiras consolidadas de instituições internacionais. Foram considerados os quatro maiores bancos comerciais nacionais 
+por ativo total e os seguintes bancos de desenvolvimento internacionais: Banco Interamericano de Desenvolvimento 
+(BID), Banco Internacional para Reconstrução e Desenvolvimento (BIRD), KFW, CDB, European Investment Bank (EIB), 
+KDB e Development Bank of Japan (DBJ). Os índices de Basileia (capital adequacy ratio) do BID, KFW, CDB e EIB referem-
+-se à data-base de 31 de dezembro de 2022; KDB, a 31 de dezembro de 2021; DBJ, a 31 de março de 2022; e BIRD, a 
+30 de junho de 2022.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+45
+do BNDES. Como apresentado no Box 4, essa taxa varia conforme as variações da inflação e dos 
+juros reais da NTN-B de cinco anos. Em momentos de deterioração da economia, a aversão a risco 
+fica maior, e os juros da NTN-B e da TLP também aumentam. Como resultado, os empréstimos do 
+Banco ficam mais caros, dificultando a saída da crise.
+Entre as medidas implementadas pelo BNDES em 2023, no sentido de adequação das condições 
+financeiras, destaca-se o uso da TR para inovação e digitalização. Essa medida foi viabilizada pela 
+aprovação da Lei 14.592/2023, que permite ao Banco remunerar o FAT com TR para projetos de 
+inovação e digitalização.
+4.2. A nova orientação estratégica
+O novo BNDES tem como visão ser um banco de desenvolvimento verde, digital, inclusivo, inova-
+dor, industrializante e tecnológico. Para chegar lá, a missão é retomar o protagonismo da institui-
+ção no desenvolvimento econômico, social e ambiental brasileiro. Essa missão, por sua vez, deverá 
+ser realizada preservando os valores da instituição de compromisso com desenvolvimento, espírito 
+público, ética e excelência; bem como os princípios de agilidade, comprometimento, cooperação, 
+diversidade, efetividade, equidade, inovação e transparência. Como resultado, o BNDES irá cumprir 
+seu propósito de melhorar a vida de gerações. Tais atributos estratégicos (propósito, visão, missão, 
+valores e princípios) expressam a individualidade do Banco e constituem a identidade institucional 
+do Sistema BNDES.
+A Estratégia do BNDES alinha e direciona os esforços da instituição para o melhor atingimento do 
+propósito, da visão e da missão do BNDES. Por meio dela, são definidos os objetivos estratégicos 
+da instituição e é estabelecido um plano para alcançá-los. Para sua elaboração, são consideradas a 
+análise de ameaças e oportunidades (A&O)55 e as políticas públicas, tratadas, respectivamente, nos 
+Capítulo 2 e 3 deste estudo.
+A análise de A&Os abordou algumas das megatendências mundiais, a conjuntura e os cenários 
+para o Brasil e o padrão de financiamento dos investimentos. O mapeamento das políticas públicas 
+visou reforçar o alinhamento entre as ações do setor público, buscando sinergias. As identificações 
+das A&Os e das políticas públicas serviram de base para as definições dos temas estratégicos de 
+negócios, que, juntamente com os temas estratégicos de suporte ao negócio, são priorizados pela 
+Estratégia. A partir desses temas, foram definidas diretrizes estratégicas (DE) para o BNDES. A lista 
+completa de 44 DEs é apresentada no Anexo 1.
+Ao todo, foram estabelecidos 14 temas estratégicos de negócios, que abrangem necessidades de 
+atuação em diferentes dimensões do desenvolvimento econômico, social e ambiental brasileiro, 
+55 Em conformidade com o art. 23 da Lei 13.303/2016 (Lei das Estatais), a Estratégia é elaborada e atualizada com 
+base na análise de ameaças e oportunidades para, no mínimo, os próximos cinco anos.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+46
+em sintonia com a missão do BNDES. No que segue, apresenta-se uma breve explicação desses 
+temas, considerando as DEs associadas.
+• Infraestrutura resiliente sustentável: o BNDES deve contribuir para a redução do hiato de 
+investimentos em infraestrutura, promovendo resiliência e adaptação climática, transição ener-
+gética e ampliando o acesso a serviços de boa qualidade, com redução de desigualdades (DE03).
+• Energia sustentável e acessível: o BNDES deve atuar, entre outras questões, na estruturação 
+e financiamento de projetos para apoiar a transição energética, com destaque para o uso de 
+fontes renováveis, gás natural e novas rotas tecnológicas (DE04).
+• Serviços públicos essenciais: o BNDES deve apoiar, entre outros itens e de forma resumida, 
+investimentos em saúde, educação e cultura, bem como de defesa e segurança pública, em 
+especial para melhoria de gestão e prevenção (DE11).
+• Conservação e restauração de biomas:  o BNDES deve apoiar projetos de prevenção, moni-
+toramento e combate ao desmatamento, bem como a conservação, a restauração e o uso 
+sustentável dos biomas brasileiros (DE13).
+• Transição ecológica justa e descarbonização: o BNDES deve promover o alinhamento con-
+tínuo do portfólio e das atividades do Sistema BNDES à contribuição nacionalmente deter -
+minada (NDC) brasileira, potencializando investimentos para a transição climática justa no 
+país (DE14), bem como contribuir para a descarbonização da economia brasileira por meio do 
+apoio a projetos, parcerias e engajamento de clientes (DE12).
+• Desenvolvimento social e regional: o BNDES deve estruturar e apoiar projetos de desenvol-
+vimento e requalificação urbana e preservação do patrimônio histórico; inclusão produtiva 
+de populações vulneráveis; segurança alimentar e transição de sistemas alimentares susten-
+táveis; desenvolvimento urbano, com foco em favelas e periferias; economia do cuidado; e 
+investimentos em cultura e entretenimento (DE11).
+• Desenvolvimento produtivo: o BNDES deve estruturar e financiar projetos no âmbito das 
+seis missões da NIB, promovendo a cadeia agroindustrial sustentável, o complexo industrial 
+da saúde, a infraestrutura para a integração produtiva, a transformação digital da indústria, 
+a bioeconomia e as tecnologias de defesa (DE06). Também no âmbito dessa diretriz, deve 
+promover projetos de mineração sustentável e combustíveis estratégicos.
+• Agropecuária sustentável: o BNDES deve estruturar e financiar projetos para promoção de 
+cadeia agroindustrial sustentável e digital, de segurança alimentar, nutricional e energética 
+(DE06), bem como apoiar investimentos que promovam a agricultura familiar, agroecologia, 
+sistemas agroflorestais e a silvicultura de espécies nativas (DE08).
+• Gestão pública para a cidadania: o BNDES deve contribuir para aprimorar a gestão pública 
+para a oferta de serviços públicos essenciais e de promoção da cidadania (DE10).
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+47
+• Inovação e digitalização: o BNDES deve estruturar e financiar projetos vinculados às missões 
+industriais de transformação digital da estrutura produtiva, com apoio à expansão de conec-
+tividade, segurança cibernética, digitalização de processos e implantação de tecnologias da 
+indústria 4.0 (DE17).
+• Fomento ao mercado de capitais: o BNDES deve realizar iniciativas para desenvolver o mer-
+cado de capitais com o objetivo de contribuir para o desenvolvimento sustentável (DE20).
+• Trabalho decente e renda: o BNDES deve fomentar projetos e parcerias que estimulem o tra-
+balho decente e a qualificação profissional (DE26), assim como contribuir para o empreende-
+dorismo, em especial o feminino, o negro e o de grupos minorizados (DE27).
+• MPME, cooperativas e acesso ao crédito:  o BNDES deve ampliar o acesso a crédito, esti-
+mulando o cooperativismo e elevando a atuação no microcrédito (DE22), bem como ofer -
+tar soluções financeiras e não financeiras, inclusive via mercado de capitais, dedicadas às 
+MPMEs (DE23), acompanhadas de ampliação e diversificação dos canais de distribuição des-
+sas soluções (DE24).
+• Exportação: o BNDES deve promover a competitividade de empresas brasileiras em seus 
+diferentes mercados, com soluções financeiras para exportações compatíveis com as de 
+outras fontes de financiamento (DE19), bem como apoiar a diversificação da pauta expor -
+tadora, ampliando o apoio à exportação de bens e serviços de maior valor agregado (DE18).
+A Tabela 8 mostra a associação desses temas estratégicos de negócios com a análise das A&Os, 
+realizada no Capítulo 2. O tema “Desenvolvimento produtivo”, por exemplo, endereça todos os 
+tópicos abordados na análise das A&Os. Entre as oportunidades mapeadas no tópico “Novas tec-
+nologias”, está promover tecnologias limpas e a transformação digital dos setores produtivos. Essas 
+oportunidades são abordadas também no tema “Inovação e digitalização”. No tópico “Geopolítica 
+mundial”, foram mapeadas oportunidades associadas aos chamados powershoring e nearshoring, 
+endereçadas, respectivamente, nos temas “Energia sustentável e acessível” e “Exportação”, além de 
+“Desenvolvimento produtivo”. No tópico “Emergência climática”, foram elencadas oportunidades 
+relacionadas à transição para energia renováveis e à descarbonização de indústrias e cadeias de 
+valor, que também são consideradas nos temas “Energia sustentável e acessível” e “Desenvolvi -
+mento produtivo”.
+No âmbito das ameaças, eventual aumento da desigualdade e da pobreza extrema, apontado no 
+tópico “Desempenho econômico e social brasileiro”, foi considerado como risco que eleva os desa-
+fios do BNDES de promover desenvolvimento sustentável. Esse risco foi endereçado nos temas 
+“Desenvolvimento social e regional”, “Serviços públicos essenciais”, “Trabalho decente e renda” e 
+“MPME, cooperativas e acesso ao crédito”. Entre outras finalidades, tais temas visam reduzir desi-
+gualdades sociais e regionais, aumentar o acesso da população a serviços públicos, valorizar a 
+diversidade e promover inclusão financeira.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+48
+TABELA 8. TEMAS ESTRATÉGICOS DE NEGÓCIOS E SUAS ASSOCIAÇÕES COM A&OS
+Temas Estratégicos de Negócios Tópicos com identificação de A&Os* associados aos Temas 
+Infraestrutura resiliente e sustentável (1), (2), (5) e (6)
+Energia sustentável e acessível (1), (2), (3), (5) e (6)
+Serviços públicos essenciais (1), (2), (5) e (6)
+Conservação e restauração de biomas (1), (2) e (6)
+Transição ecológica justa e descarbonização (1), (2), (5) e (6)
+Desenvolvimento social e regional (5) e (6)
+Desenvolvimento produtivo Todos
+Agropecuária sustentável (1), (2), (5) e (6)
+Gestão pública para cidadania (5) e (6)
+Inovação e digitalização (2), (5) e (6)
+Fomento ao mercado de capitais (1), (2), (5) e (6)
+Trabalho decente e renda (2), (5) e (6)
+MPME, cooperativas e acesso ao crédito (2), (5) e (6)
+Exportação (3), (4), (5) e (6)
+Fonte: Elaboração própria, a partir de dados do BNDES.56
+* Os tópicos são: (1) Emergência climática; (2) Novas tecnologias; (3) Geopolítica mundial; (4) Economia internacional; 
+(5) Desempenho econômico e social brasileiro; e (6) Financiamento dos investimentos.
+BNDES (2023a) identifica 31 políticas públicas e diretrizes que têm relação com a atuação do Banco 
+e apresenta ligações dos temas e diretrizes estratégicas do BNDES com as oito políticas nortea-
+doras (com menção explícita ou contribuição direta do BNDES em seu planejamento e execução), 
+incluindo as elencadas na seção 3.3 deste estudo. O documento identifica, no total, 108 conexões 
+com essas políticas. Como exemplo, os objetivos estratégicos do FAT de “Fomentar a geração e a 
+manutenção de trabalho, emprego e renda” e de “Promover o desenvolvimento econômico e social 
+do País”57 têm forte ligação com os diferentes temas do BNDES, que visam a promoção de desen -
+volvimento sustentável, entre os quais estão incluídos “Trabalho decente e renda”; “MPME, coope-
+rativas e acesso ao crédito”; “Desenvolvimento produtivo”; e “Desenvolvimento social e regional”. O 
+documento apresenta ainda ligações dos temas estratégicos com as demais 23 políticas mapeadas.
+Como visto na seção 3.3, o Novo PAC apresenta 43 medidas voltadas à expansão sustentada dos 
+investimentos, que incluem iniciativas voltadas à melhoria nas operações de crédito para inovação 
+e ao aprimoramento do marco normativo de concessões e PPPs. Tais iniciativas estão relacionadas, 
+entre outros, aos temas “Inovação e digitalização”, “Infraestrutura resiliente e sustentável” e “Ener-
+gia sustentável e acessível”.
+56 Disponível em: https://www.bndes.gov.br/wps/portal/site/home/quem-somos/planejamento-estrategico.
+57 Respectivamente, Anexo I – Objetivo Estratégico 2.1.1 e Anexo I – Objetivo Estratégico 2.1.4, da Resolução 
+Codefat 960/2022, que aprova o Plano Estratégico do FAT para o período de 2022 a 2027 e o seu modelo de gestão.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+49
+A NIB tem relação direta, entre outras, com o tema “Desenvolvimento produtivo”, no âmbito do 
+qual são definidas DEs para a promoção da nova industrialização da economia, da bioeconomia, da 
+transformação digital, de cadeias estratégicas e da economia criativa. A relação completa de DEs é 
+apresentada no Anexo 1.
+A PTE tem forte conexão, entre outras, com os temas “Energia sustentável e acessível”, “Transição 
+ecológica justa e descarbonização” e “Conservação e restauração de biomas”. No âmbito desses 
+temas, são definidas DEs que direcionam a atuação do BNDES nos assuntos de: transição energé-
+tica; mitigação e adaptação a mudanças climáticas; gestão social, ambiental e climática; biodiversi-
+dade; e soluções baseadas na natureza (inclui, por exemplo, a estruturação de projetos de parques 
+e florestas).
+A Tabela 9 lista alguns dos indicadores de impactos econômico, social e ambiental da atuação do 
+BNDES que são monitorados pela instituição e expressam contribuições do Banco para as políticas 
+públicas. Como exemplo, a capacidade instalada de geração de energia por fontes renováveis é um 
+indicador que expressa a contribuição do Banco para cinco políticas públicas mapeadas. Um conjunto 
+mais amplo de indicadores está disponível no Relatório de Efetividade e no site do BNDES (2024b).
+TABELA 9. CONEXÕES DO BNDES COM AS POLÍTICAS PÚBLICAS – INDICADORES SELECIONADOS
+Indicador Políticas públicas relacionadas
+Capacidade instalada de geração de energia por  
+fontes renováveis (MW)
+Novo PAC
+Plano Decenal de Expansão de Energia – PDE
+PNMC (Política Nacional sobre Mudança do Clima)
+NDC (Contribuição Nacionalmente Determinada)
+PTE
+População que passa a ter acesso à rede coletora  
+de esgoto (número de pessoas)
+Novo PAC
+Plansab (Plano Nacional de Saneamento Básico)
+PPI (Programa de Parcerias de Investimentos)
+Implantação ou ampliação de sistemas de transporte 
+público de média e alta capacidades (km)
+§ Novo PAC
+§ Política Nacional de Mobilidade Urbana
+Emissões de gases de efeito estufa evitadas  
+(milhares de toneladas de CO2 equivalente)
+PTE
+PNMC
+NDC
+Restauração de áreas de floresta nativa (hectares)
+PNMC
+NDC
+Plano Nacional para Controle do Desmatamento Ilegal e 
+Recuperação da Vegetação Nativa  
+Conservação de áreas de florestas e parques (hectares)
+PNMC
+NDC
+Plano Nacional para Controle do Desmatamento Ilegal e 
+Recuperação da Vegetação Nativa
+PTE
+(Continua...)
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+50
+(Continuação...)
+Indicador Políticas públicas relacionadas
+Pessoas apoiadas em projetos não reembolsáveis  
+de geração de emprego e renda (número de pessoas) Estratégia Nacional de Economia de Impacto – ENIMPACTO
+Novos produtos/serviços desenvolvidos e/ou  
+lançados no mercado (número de produtos/serviços)
+NIB
+Política Nacional de Inovação – PNI
+Variação de emprego nas empresas apoiadas  
+(número de empregos) Plano Estratégico do FAT
+Empregos envolvidos na implantação dos  
+investimentos fixos (número de empregos)
+Plano Estratégico do FAT
+Novo PAC
+Municípios a que os recursos são destinados  
+(número de municípios)
+Novo PAC
+Novo Brasil Mais Produtivo
+Fonte: Elaboração própria, a partir de dados do BNDES.58
+A Estratégia elenca sete temas de suporte ao negócio, a partir dos quais foram também definidas DEs.
+• Sustentabilidade financeira: a instituição deve direcionar esforços da instituição para a amplia-
+ção e diversificação do funding do BNDES, com foco na redução do custo de captação (DE28).
+• Gestão integrada de riscos: deve ser assegurado que o BNDES opere com sustentabilidade 
+financeira, resiliência e segurança operacional (DE39). O Banco deve fortalecer a cultura 
+de riscos, integridade, segurança da informação e privacidade, visando maior segurança no 
+relacionamento com partes interessadas e viabilizando negócios (DE40).
+• Pessoas: deve ser promovido um ambiente de trabalho que valorize o respeito, a diversidade, 
+a equidade e a inclusão, a saúde mental e física e o desenvolvimento contínuo de compe -
+tências (DE31), bem como uma cultura organizacional que torne o BNDES mais colaborativo, 
+eficiente e inovativo (DE32).
+• Comunicação e relacionamento institucional: o BNDES deve: buscar aprofundar o conhe-
+cimento da sociedade acerca do impacto do Banco para o desenvolvimento sustentável e 
+suas práticas de transparência e integridade (DE33); aprimorar sua articulação com as partes 
+interessadas, em especial o poder público (DE34); e cooperar no aprimoramento de políticas 
+públicas e da regulação no âmbito da atuação do BNDES (DE36).
+• Tecnologia da informação:  deve ser promovida a transformação digital do BNDES, o que 
+envolve, entre outros aspectos, governança e uso de ativos e tecnologias que acelerem o 
+desenvolvimento de soluções e a inovação digital (DE38).
+• Uso de dados e inteligência artificial: deve ser promovido o uso adequado de inteligência 
+artificial (DE42), bem como difundido o uso de ciência de dados e aprimoradas a captura, a 
+análise e a governança de dados para potencializar a otimização e digitalização de processos 
+(DE43) e para melhorar a tomada de decisão pelo BNDES (DE44).
+58 Disponível em: https://www.bndes.gov.br/wps/portal/site/home/quem-somos/planejamento-estrategico.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+51
+• Processos, normas e governança:  devem ser promovidos a otimização de processos, a 
+simplificação e a padronização de normas, o aprimoramento da governança e a gestão do 
+conhecimento, visando reduzir custos de transação, melhorar a experiência de clientes e 
+parceiros, elevar a produtividade e compliance e reduzir o risco operacional (DE41).
+Os temas de suporte ao negócio apresentados foram definidos considerando, principalmente, dois 
+diagnósticos. O primeiro foi a necessidade de expandir a atuação do BNDES, assegurando a susten-
+tabilidade financeira da instituição e promovendo uma gestão integrada de riscos. A importância 
+de aumentar a atuação do Banco veio ao encontro das análises apresentadas nas seções 2.5, 3.1, 
+3.2 e 4.1 deste estudo. Tais seções mostraram, respectivamente, que: (i) o cenário brasileiro, no 
+passado recente, foi de produtividade estagnada e retrocesso em indicadores sociais; (ii) o mundo 
+tem alocado volumes de recursos expressivos em políticas de estímulo produtivo; (iii) no âmbito do 
+maior ativismo das políticas industriais, tem havido valorização da importância dos BDs, com mais 
+da metade das atuais instituições tendo sido criada nas três últimas décadas; e (iv) em contraste 
+com o observado nos maiores BDs mundiais com perfil semelhante, o BNDES reduziu substancial-
+mente sua atuação no passado recente. A seção 4.1 mostra também evidências de que o BNDES 
+tem efeito relevante no estoque de capital em máquinas e equipamentos e infraestrutura do país.
+O segundo diagnóstico foi baseado na avaliação do ambiente interno, na qual foi apontada a neces-
+sidade de avançar na automatização e digitalização dos sistemas operacionais, considerada na 
+identificação dos temas “Tecnologia da informação” e “Uso de dados e de inteligência artificial”. A 
+análise do ambiente interno também foi utilizada para a definição dos temas “Pessoas”, “Comuni -
+cação e relacionamento institucional” e “Processos, normas e governança”.
+Por fim, a Estratégia do BNDES define o modelo de negócios, composto pelas cinco formas de 
+atuação do Banco:
+• Crédito: concessão de financiamentos, limites de crédito, empréstimos e debêntures sim -
+ples (não conversíveis).
+• Recursos não reembolsáveis: apoios não reembolsáveis do BNDES e gestão de recursos de terceiros.
+• Garantias: provimento de fianças e garantias diretas ou indiretas – neste último caso, por 
+meio de fundos garantidores.
+• Serviços: estruturação de projetos e coordenação de ofertas públicas de distribuição de 
+títulos ou valores mobiliários de renda fixa, em mercado primário.
+• Participações e títulos:  realização de investimentos diretos e operações de mercado de 
+capitais voltadas para a gestão estratégica do portfólio, por meio de ações, debêntures con-
+versíveis, fundos de índice, fundos de investimento, bônus de subscrição e quaisquer outros 
+valores mobiliários admitidos pela legislação em vigor e negociados em mercado organizado.
+A partir da definição dos temas e das diretrizes estratégicas, foram ajustados os objetivos estraté-
+gicos do BNDES, apresentados e analisados na próxima seção.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+52
+4.3. Os objetivos estratégicos (OE)
+Os objetivos estratégicos constituem os resultados a serem alcançados com a implementação da 
+Estratégia. Ao todo, foram definidos 10 OEs para o BNDES.
+• OE01: “Expandir o desembolso e a carteira de crédito do Sistema BNDES, promovendo desen-
+volvimento sustentável alinhado às políticas públicas vigentes”
+As ações estratégicas deverão conduzir ao Novo BNDES, para o qual vislumbram-se maior par-
+ticipação do Banco na economia e aumento de sua contribuição para o desenvolvimento social 
+sustentável. Este objetivo está alinhado também às diretrizes “gerar emprego e renda no Brasil” 
+(DE01) e “reduzir desigualdades sociais e territoriais” (DE02).
+• OE02: “Garantir o equilíbrio financeiro das operações do BNDES”
+A ampliação da atuação do Banco demandará grande atenção a esse objetivo. As fontes de 
+funding irão aumentar, com maior acesso tanto ao mercado doméstico quanto ao de capitais 
+internacional. As iniciativas, muitas já em curso, permitirão diferenciação maior no custo de 
+captação e o uso de uma variedade maior de indexadores nas operações de crédito. O resultado 
+poderá ser a melhor adequação das condições financeiras ao perfil do cliente final, o que con-
+tribuirá para o atingimento dos diferentes OEs vislumbrados na Estratégia.
+• OE03: “Expandir o apoio a projetos de infraestrutura, reduzindo o hiato de investimentos no 
+setor e promovendo resiliência”
+O Brasil precisará mais do que dobrar suas taxas de investimentos em infraestrutura, como 
+proporção do PIB, dos últimos anos, relatadas neste documento. Para tanto, além do apoio ao 
+uso de fontes renováveis de energia, a atuação do BNDES deverá priorizar: modernização e 
+adaptação dos ativos do setor elétrico; logística e mobilidade urbana; universalização do acesso 
+a saneamento e gestão adequada dos resíduos sólidos urbanos; novas tecnologias para mitiga-
+ção de emissões de efeito estufa; telecomunicações com foco em banda larga; e infraestruturas 
+sociais de educação e saúde (DE04).
+• OE04: “Expandir o apoio ao desenvolvimento produtivo abrangendo inovação e digitalização”
+Há necessidade de retomada da participação da indústria nas operações de crédito do Banco. 
+O BNDES buscará ampliar o apoio à inovação e à digitalização, inclusive com parcerias com 
+outras instituições do Sistema Nacional de Inovação (DE16), o que poderá resultar em grande 
+aumento da competitividade da economia. Entre as outras frentes de atuação em linha com a 
+NIB, estão a promoção da cadeia agroindustrial sustentável, o complexo industrial da saúde, 
+a infraestrutura para a integração produtiva, a transformação digital da indústria, a bioeco-
+nomia, as tecnologias de defesa, bem como a mineração sustentável e os combustíveis estra-
+tégicos (DE06).
+• OE05: “Ampliar o apoio a projetos de inclusão social e gestão pública, buscando reduzir desi-
+gualdades e promovendo cidadania”
+Os projetos de inclusão social e gestão pública ganharão ainda mais importância diante do 
+retrocesso nos indicadores sociais nos últimos anos, e da necessidade do Brasil voltar a ficar 
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+53
+fora do mapa da fome da ONU e de promover igualdades de gênero e racial. O BNDES buscará 
+estruturar e apoiar projetos de: (i) desenvolvimento e requalificação urbana e preservação do 
+patrimônio histórico; (ii) modernização da administração pública; (iii) investimentos em saúde 
+e educação; (iv) defesa e segurança pública, em especial para melhoria de gestão e prevenção; 
+(v) inclusão produtiva, rural e urbana, focada em populações vulneráveis; (vi) segurança ali -
+mentar e transição de sistemas alimentares sustentáveis; (vii) aplicação de tecnologias sociais; 
+(viii) desenvolvimento urbano, com foco em favelas e periferias; (ix) capacitação de mão de 
+obra diante das novas tecnologias; (x) economia do cuidado; e (xi) investimentos em cultura e 
+entretenimento (DE11).
+• OE06: “Ampliar o apoio a projetos ambientais e climáticos, contribuindo para a transição 
+ecológica justa, a descarbonização e a conservação e restauração de biomas”
+Há necessidade de recuperar a reputação do Brasil perante o mundo no enfrentamento das 
+mudanças climáticas. A posse de um imenso ativo florestal impõe esforços voltados a sua pre-
+servação, ao passo que abre oportunidades de captação de recursos associados à agenda verde. 
+O desafio da transição climática tem uma vertente disruptiva no desenvolvimento econômico 
+e social. Ao responder a esse desafio, surgem novas fronteiras de produção, as quais, se bem 
+estruturadas e sem comprometer a preservação dos biomas brasileiros, permitem ao país avan-
+çar tecnologicamente enquanto se geram emprego e renda. O BNDES buscará estruturar e 
+apoiar projetos de conservação, restauração e uso sustentável da biodiversidade da Amazônia e 
+dos demais biomas brasileiros, incluindo a Amazônia Azul, bioeconomia, soluções baseadas na 
+natureza e turismo sustentável (DE13).
+• OE07: “Ampliar o apoio à exportação, promovendo maior inserção das empresas brasileiras 
+em mercados internacionais”
+Diante do enfraquecimento do sistema público de apoio à exportação de bens e serviços e da 
+forte contração das operações de financiamento do BNDES a essa atividade no passado recente, 
+há necessidade de uma reestruturação substancial da atuação do Banco no tema “comércio 
+exterior”. Os focos da atuação deverão ser: exportação de itens de média e alta intensidade tec-
+nológica e demais bens e serviços que contribuam para o adensamento da cadeia de produção 
+nacional (DE18) e o aumento da capacidade de exportação das MPMEs (DE25).
+• OE08: “Expandir crédito e garantias para MPMEs, promovendo o acesso a crédito, a agrope -
+cuária sustentável e cooperativismo”
+A atuação no financiamento a micro, pequenas e médias empresas (MPME) é importante forma 
+de promover inclusão social diante da relevância que tem para a geração de emprego e renda. 
+O BNDES buscar á estimular a agricultura familiar (DE08), o cooperativismo e o microcrédito 
+(DE22). O Banco pretende apoiar também a atuação sustentável das MPMEs, com foco na tran-
+sição ecológica justa e em soluções sociais (DE25).
+• OE09: “Fomentar o mercado de capitais para contribuir com o desenvolvimento sustentável”
+O mercado de capitais pode ser um instrumento importante de financiamento para promover 
+desenvolvimento sustentável, com investimentos substanciais em inovação e de ciclo longo.  
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+54
+A estratégia coloca, entre suas diretrizes, incrementar o uso de instrumentos inovadores de 
+mercado de capitais, incluindo blended finance, como forma de impulsionar impacto e desen-
+volver as finanças sustentáveis (DE21).
+• OE10: “Acelerar a transformação digital do BNDES, aumentando a eficiência operacional e 
+melhorando as experiências dos clientes”
+Há necessidade de promover a transformação digital do BNDES. Os avanços nas novas tecnolo-
+gias de automação, de orientação a dados e na inteligência artificial generativa terão impactos, 
+cada vez maiores na economia, inclusive no sistema financeiro. Entre as DEs do novo BNDES 
+estão promover segurança e resiliência cibernética (DE37) e acelerar o desenvolvimento de 
+soluções e a inovação digital (DE38). Outro foco da digitalização está na otimização, na simpli -
+ficação e na padronização de processos e normas (DE41).
+5. CONCLUSÃO
+Nos últimos anos, houve uma revitalização do reconhecimento mundial acerca da importância das 
+instituições financeiras de desenvolvimento (IFDs) para o desenvolvimento econômico e social, o 
+que tem levado à criação dessas instituições em diferentes países. As agendas são cada vez mais 
+desafiadoras. Não basta atuar de forma anticíclica e em prol do crescimento. É necessário que o 
+desenvolvimento seja sustentável em termos de impactos ambientais e climáticos, e também de 
+promoção de inclusão social e valorização da diversidade.
+O Brasil caminhou na direção contrária até 2022, com a contração das atividades do BNDES. É 
+necessário retomar o protagonismo da instituição. Ao longo de sua história, o Banco tem demons-
+trado ser uma instituição resiliente, com forte capacidade de antever e se adaptar a mudanças de 
+rumo. Essa resiliência será novamente necessária para o atingimento dos objetivos delineados pela 
+Estratégia do BNDES.
+As duas grandes incertezas críticas para o futuro do BNDES são o crescimento do PIB e a ampliação 
+do acesso a funding. Em um eventual cenário de frustrações no desempenho da economia brasi-
+leira, seja por fatores domésticos ou internacionais, o Banco poderá ser instado a atuar de forma 
+mais anticíclica. Em um contexto de dificuldade de ampliação do funding, os desafios do BNDES 
+para alcançar os diferentes objetivos estratégicos serão maiores. Em casos como esses, a Estraté-
+gia poderá ser ajustada em conformidade com as orientações das políticas públicas.
+Em 2023, o PIB brasileiro teve crescimento de 2,9%, com desempenho bem acima das previsões no 
+início do ano, que era de 0,8%. A inflação caiu de 5,8%, em 2022, para 4,6%, voltando a ficar dentro 
+do intervalo de flutuação da meta (1,75%-4,75%). A taxa média de desemprego ficou em 7,8%, ante 
+9,3% no ano anterior. As contas externas registraram saldo comercial recorde de US$ 98,8 bilhões. 
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+55
+Em um cenário de sustentação do crescimento econômico do país e ampliação do acesso a funding 
+pelo BNDES, a perspectiva com a implementação da estratégia de longo prazo é o aumento subs-
+tancial da carteira de crédito, com retomada progressiva dos desembolsos do Banco.
+O maior protagonismo será acompanhado por uma melhora qualitativa na atuação do BNDES. 
+Entre os grandes focos e instrumentos de atuação delineados, deverão estar:
+• Infraestrutura: promoção de infraestrutura resiliente e sustentável, ampliando o acesso da 
+população a serviços públicos, aumentando a competitividade do sistema produtivo e con -
+tribuindo para a transição energética;
+• Exportação: apoio à diversificação da pauta e voltado aos segmentos de bens e serviços de 
+maior valor agregado;
+• Inovação: apoio ao desenvolvimento e ao uso das novas tecnologias digitais pelos setores 
+produtivos, aumento da conectividade e integração econômica;
+• MPME e cooperativas: promoção de geração de trabalho decente e renda e diversificação 
+dos canais de acesso a crédito pelas empresas;
+• Estruturação de projetos: realização de parcerias com as diferentes esferas de governo para 
+estruturação, modelagem e viabilização de projetos de interesse da sociedade;
+• Não reembolsável: uso de recursos próprios, Fundo Amazônia e demais recursos de tercei-
+ros na promoção de agendas sociais, ambientais e climáticas; e
+• Mercado de capitais: gestão do portfólio e uso de instrumentos inovadores para o financia-
+mento de investimentos.
+O Banco buscará promover a nova industrialização da economia, alinhada a desenvolvimento sus-
+tentável. O apoio a projetos ambientais e climáticos deverá ser ampliado. O apoio a projetos de 
+inclusão social e gestão pública deverá ser outro grande foco de atuação, buscando reduzir desi -
+gualdades e promover a cidadania. No âmbito interno, a transformação digital deverá ser acele -
+rada, o que irá reduzir custos operacionais, diminuir o risco operacional, simplificar processos e 
+melhorar o relacionamento com clientes e parceiros do BNDES.
+O resultado esperado com a implementação da Estratégia será um BNDES ainda mais eficiente 
+no cumprimento de seu propósito de melhorar a vida de gerações, promovendo desenvolvimento 
+econômico, social e ambiental.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+56
+6. BIBLIOGRAFIA
+ALÉM, A. C.; MADEIRA, R. F. As instituições financeiras públicas de desenvolvimento e o 
+financiamento de longo prazo: revisitando o debate. Revista do BNDES, Rio de Janeiro,  
+v. 30, n. 59, p. 191-239, 2024.
+BANCO MUNDIAL. Private participation in infrastructure (PPI): 2022 Annual report. 2022. 
+Disponível em: https:/ /ppi.worldbank.org/content/dam/PPI/documents/PPI-2022-Annual-
+Report.pdf. Acesso em: 22 jul. 2024.
+BANCO MUNDIAL. World development indicators. 2024a. Disponível em: https:/ /databank.
+worldbank.org/source/world-development-indicators. Acesso em: 22 jul. 2024.
+BANCO MUNDIAL. Private participation in infrastructure (PPI): PPI Data. 2024b. Disponível em: 
+https:/ /ppi.worldbank.org/en/ppidata. Acesso em: 22 jul. 2024.
+BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL (BNDES). Conexões e 
+contribuições para políticas públicas. 2023a. Disponível em: https:/ /bit.ly/3y8Llww. Acesso em: 
+23. jul. 2024.
+BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL (BNDES). Fundo Clima. 
+Disponível em: https:/ /www.bndes.gov.br/wps/portal/site/home/financiamento/produto/
+fundo-clima. 2024a. Acesso em: 23 jul. 2024.
+BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL (BNDES). Entregas 
+associadas aos Objetivos de Desenvolvimento Sustentável da ONU (ODS). 2024b. Disponível em: 
+https:/ /www.bndes.gov.br/wps/portal/site/home/desenvolvimento-sustentavel/resultados/
+entregas-associadas-ods/entregas-associadas-ods/. Acesso em: 23 jul. 2024.
+BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL (BNDES) . O novo 
+Fundo Clima e o meio ambiente na nova política de desenvolvimento: funding mais estável e 
+novos eixos de atuação. Estudos Especiais do BNDES; n. 14. Rio de Janeiro: Banco Nacional de 
+Desenvolvimento Econômico e Social, 2024c. Disponível em: https:/ /web.bndes.gov.br/bib/
+jspui/bitstream/1408/24145/1/PRFol_216046_Novo%20Fundo%20Clima%20e%20o%20
+meio%20ambiente.pdf. Acesso em: 5 ago. 2024.
+BORÇA JR., G. R.; HORTA, G. T. L. Fundo de Amparo ao Trabalhador (FAT): resultados recentes e 
+perspectivas. Texto para Discussão, n. 158, Rio de Janeiro, BNDES, 2023.
+CALCAGNO, A.; DULLIEN, S.; MÁRQUEZ-VELÁZQUEZ, A.; MAYSTRE, N.; PRIEWE, J. Rethinking 
+development strategies after the financial crisis – vol. 1: Making the case for policy space. Nova 
+York; Genebra: United Nations Publication, 2015.
+BRASIL. Casa Civil. Conheça o Novo PAC. 2024. Disponível em: https:/ /www.gov.br/casacivil/
+pt-br/novopac/conheca-o-plano/conheca-o-plano. Acesso em: 2 ago. 2024.
+CAZZANIGA, M.; JAUMOTTE, F.; LI, L.; MELINA, G.; PANTON, A. J.; PIZZINELLI, C.; ROCKALL, E.; 
+TAVARES, M. M. Gen-AI: artificial intelligence and the future of work. IMF Staff Discussion Notes, 
+Washington, DC, n. 24/001, 2024.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+57
+CHANCEL, L.; PIKETTY, T.; SAEZ, E.; ZUCMAN, G. (coord.). World inequality report 2022. World 
+Inequality Lab, 2021. Disponível em: wir2022.wid.world. Acesso em: 22 jul. 2024.
+CONSELHO NACIONAL DE DESENVOLVIMENTO INDUSTRIAL (CNDI). Nova Indústria Brasil: 
+missões, metas e ações da política industrial. Brasília, DF: CNDI, 2024. Disponível em: https:/ /
+www.gov.br/mdic/pt-br/composicao/se/cndi/missoes. Acesso em: 25 jan. 2023.
+CONFEDERAÇÃO NACIONAL DA INDÚSTRIA (CNI). Plano de retomada da indústria: uma nova 
+estratégia, focada em inovação, competitividade, descarbonização, inclusão social e crescimento 
+sustentável. Brasília: CNI, 2023.
+CONFERÊNCIA DE SEGURANÇA INTERNACIONAL DO FORTE, 20, 2023, Rio de Janeiro. Policy 
+Papers 2023. Ordem global em transformação: diante da tempestade perfeita. Rio de Janeiro: 
+Fundação Konrad Adenauer, 2023.
+EICHENGREEN, B. Is this how globalisation ends?. Prospect Magazine, out. 2023. Disponível em: 
+https:/ /www.prospectmagazine.co.uk/world/globalisation/62824/is-this-how-globalisation-
+ends. Acesso em: 22 jul. 2024.
+EUROPEAN COMMISSION. The Green Deal Industrial Plan: putting Europe’s net-zero industry in 
+the lead. Bruxelas: 2023.
+FEDERAL RESERVE BANK OF ST. LOUIS. Evaluating two decades of inflation targeting. On 
+the Economy Blog, St. Louis, 7 abr. 2021. Disponível em: https:/ /www.stlouisfed.org/on-the-
+economy/2021/april/evaluating-two-decades-inflation-targeting. Acesso em: 22 jul. 2024.
+FINANCE IN COMMON (FICS). FICS Progress Report 2022. FICS, 2022.
+FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS (ONU/FAO). The state of 
+food security and nutrition in the world 2023: urbanization, agrifood systems transformation and 
+healthy diets across the rural–urban continuum. Roma: FAO, 2023. Disponível em: https:/ /doi.
+org/10.4060/cc3017en.
+FUNDO MONETÁRIO INTERNACIONAL (FMI). World economic outlook – steady but slow: 
+resilience amid divergence. Washington, DC: FMI, 2024.
+IHRIG, J.; KLIESEN, K. L.; WOLLA, S. A. The rise (and fall) of inflation during the early 2020s. Page 
+One Economics, St. Louis, ago. 2023.
+INSTITUTE OF NEW STRUCTURAL ECONOMICS (INSE). Public development banks and 
+development financing institutions database: the first global database on PDBs and DFIs worldwide. 
+Disponível em: http:/ /www.dfidatabase.pku.edu.cn/index.htm. Acesso em: 17 abr. 2024.
+INTER.B. Novas estimativas de investimento em infraestrutura em 2023 e primeiras projeções 
+para 2024. Carta de Infraestrutura, Rio de Janeiro, ano 11, n. 23, 31 jan. 2024.
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). Síntese de indicadores sociais: 
+uma análise das condições de vida da população brasileira – 2023. Rio de Janeiro: IBGE, 2023.
+INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE (IPCC). Climate change 2022: impacts, 
+adaptation and vulnerability. Contribution of Working Group II to the Sixth Assessment Report of 
+the Intergovernmental Panel on Climate Change. Nova York: Cambridge University Press, 2022. 
+Disponível em: https:/ /doi.org/10.1017/9781009325844.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+58
+INTERNATIONAL ENERGY AGENCY (IEA). Net zero by 2050: a roadmap for the global energy sector. 
+4ª rev. s.l.: IEA, 2021. Disponível em: https:/ /www.iea.org/reports/net-zero-by-2050. Acesso em: 
+22. jul. 2024.
+INTERNATIONAL ENERGY AGENCY (IEA). World energy investment 2023. 2023a. Disponível em: 
+https:/ /www.iea.org/reports/world-energy-investment-2023. Acesso em: 22. jul. 2024.
+INTERNATIONAL ENERGY AGENCY (IEA). World energy outlook 2023. 2023b. Disponível em: 
+https:/ /www.iea.org/reports/world-energy-outlook-2023. Acesso em: 22. jul. 2024.
+IPCC. Summary for policymakers. In: IPCC. Climate Change 2023: Synthesis report. Contribution 
+of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on 
+Climate Change. Geneva: IPCC, 2023. p. 1-34. Disponível em: https:/ /www.ipcc.ch/report/ar6/
+syr/downloads/report/IPCC_AR6_SYR_LongerReport.pdf. Acesso em: 5 ago. 2024.
+KEYNES, J. M. The end of laissez-faire: the economic consequences of the peace. Londres: 
+Prometheus, 1926.
+KEYNES, J. M. The general theory of employment, interest and money. Ghaziabad: Atlantic, 1936.
+MACIEL, F. G. Bancos de desenvolvimento e taxas de juros reduzidas. Análise Econômica AP/
+DEPEC, Rio de Janeiro, n. 113, Ano VIII, 4 jan. 2023.
+MARCATO, M. B. The Made in China 2025 amid hyperglobalization: upgrading, intangible assets, 
+and internationalization strategies. Economia e Sociedade, Campinas, v. 31, n. 2, p. 355-384, 2022.
+MARCIAL, E. C.; PIO, M. J. (orgs.). Megatendências mundiais 2040: contribuição para um debate 
+de longo prazo para o Brasil. Brasília: Universidade Católica de Brasília – Grupo de Pesquisa e 
+Estudos Prospectivos (NEP-UCB), 2023.
+MÁXIMO, W. Entenda o Plano de Transformação Ecológica lançado na COP28: documento 
+pretende promover desenvolvimento sustentável. Agência Brasil, Brasília, 7 dez. 2023. Disponível 
+em: https:/ /agenciabrasil.ebc.com.br/economia/noticia/2023-12/entenda-o-plano-de-
+transformacao-ecologica-lancado-na-cop28. Acesso em: 25 jan. 2023.
+MAZZUCATO, M.; PENNA, C. C. R. Beyond market failures: the market creating and shaping roles 
+of state investment banks. Journal of Economic Policy Reform, Londres, v. 19, n. 4, p. 305-326, 2016.
+MILLER, C. Chip war: the fight for the world’s most critical technology. Nova York: Scribner, 2022.
+MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS (MDIC). Nova 
+indústria Brasil – forte, transformadora e sustentável: Plano de ação para a neoindustrialização 
+2024-2026. Brasília: CNDI; MDIC, 2024a.
+MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS (MDIC). Brasil 
+ganha nova política industrial com metas e ações para o desenvolvimento até 2023. MDIC, 
+2024b. Disponível em: https:/ /www.gov.br/mdic/pt-br/assuntos/noticias/2024/janeiro/
+brasil-ganha-nova-politica-industrial-com-metas-e-acoes-para-o-desenvolvimento-ate-2033. 
+Acesso em: 25 jan. 2024.
+MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Boletim de informações financeiras do Fundo de 
+Amparo ao Trabalhador: VI bimestre do exercício de 2023. Brasília, DF: Departamento de Gestão 
+de Fundos, 2024.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+59
+MINSKY, H. P. The capital development of the economy and the structure of financial institutions. 
+Levy Institute Working Paper Series, Nova York, n. 72, 1992.
+MINSKY, H. P. Community development banks: an idea in search of substance. Hyman P. Minsky 
+Archive, n. 278, p. 33-41, 1993.
+NETWORK FOR GREENING THE FINANCIAL SYSTEM (NGFS). NGFS Scenarios for central banks 
+and supervisors. 2022. Disponível em: https:/ /www.ngfs.net/en/liste-chronologique/ngfs-
+publications. Acesso em: 10 out. 2023.
+PAULA, L. F.; RACCICHINI, A.; BASTOS, M. N. Papel dos bancos de desenvolvimento no 
+financiamento do desenvolvimento sustentável no Brasil. Texto para Discussão, Rio de Janeiro,  
+n. 34, 2023.
+PROGRAMA DAS NAÇÕES UNIDAS PARA O DESENVOLVIMENTO (PNUD). The role of public 
+development banks in scaling up sustainable finance. Nova York: UNDP, 2022.
+RAMALHO, A. J. Qual é o papel da América Latina e da Europa na ordem mundial em mudança?. 
+In: CONFERÊNCIA DE SEGURANÇA INTERNACIONAL DO FORTE, XX, Rio de Janeiro, 2023. Policy 
+Papers 2023. Rio de Janeiro: Fundação Konrad Adenauer, 2023, p. 39-55, 2023.
+SCHUMPETER, J. The theory of economic development: an inquiry into profits, capital, credit, 
+interest, and the business cycle. Cambridge, MA: Harvard University Press, 1934.
+SOUZA JR., J. R. C.; CORNELIO, F. M. Estoque de capital fixo no Brasil: séries desagregadas anuais, 
+trimestrais e mensais. Brasília; Rio de Janeiro: IPEA, 2020. DOI: 10.38116/td2580.
+THE WHITE HOUSE. Building a clean energy economy: a guidebook to the inflation reduction 
+act’s investments in clean energy and climate action. Washington, D.C.: The White House, 2023. 
+versão 2. Disponível em: https:/ /www.whitehouse.gov/cleanenergy/inflation-reduction-act-
+guidebook/. Acesso em: 17 dez. 2023.
+UNITED NATIONS ENVIRONMENT PROGRAMME (UNEP). Emissions gap report 2023: broken 
+record – temperatures hit new highs, yet world fails to cut emissions (again). Nairóbi: Pnuma, 
+2023. Disponível em: https:/ /doi.org/10.59117/20.500.11822/43922.
+VILLAFUERTE, K. A ordem mundial em transição na era da inteligência artificial: desafios e 
+perspectivas. In: CONFERÊNCIA DE SEGURANÇA INTERNACIONAL DO FORTE, XX, Rio de 
+Janeiro, 2023. Policy Papers 2023. Rio de Janeiro: Fundação Konrad Adenauer, 2023, p. 101-111.
+WORLD ECONOMIC FORUM (WEF). The global risks report 2024. 19ª ed. Genebra: Fórum 
+Econômico Mundial, 2024.
+WORLD ECONOMIC FORUM (WEF); INTER AMERICAN DEVELOPMENT BANK (IADB). Improving 
+infrastructure financing in Brazil. Genebra: WEF; IADB, 2019. Disponível em: https:/ /doi.
+org/10.18235/0001541.
+XU, J.; MARODON, R.; RU, X. Mapping 500+ development banks: qualification criteria, stylized 
+facts and development trends. NSE Development Financing Research Report, Beijing, n. 2, 2021.
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+60
+7. ANEXO 1: DIRETRIZES ESTRA TÉGICAS
+As diretrizes estratégicas (DE) são orientações norteadoras para a formulação da Estratégia do 
+BNDES. A Estratégia definiu 44 DEs para o BNDES:
+DE01 Gerar emprego e renda no Brasil 
+DE02 Reduzir desigualdades sociais e territoriais 
+DE03 Reduzir o hiato de investimentos em infraestrutura, promovendo resiliência e adaptação climática, 
+transição energética e ampliando o acesso a serviços de boa qualidade, com redução de desigualdades
+DE04 Estruturar e financiar projetos para apoiar: (i) transição energética, com destaque para o 
+uso de fontes renováveis, gás natural e novas rotas tecnológicas; (ii) modernização e adaptação 
+de ativos do setor elétrico (geração, transmissão e distribuição); (iii) logística (rodovias, ferrovias, 
+hidrovias, dutos, navegação, apoio marítimo e portuário, portos e aeroportos) e mobilidade urbana; 
+(iv) equipamentos e estruturas de apoio de infraestrutura; (v) indústria naval; (vi) universalização 
+do saneamento básico; (vii) gestão integrada adequada de resíduos sólidos urbanos; (viii) novas 
+tecnologias para a mitigação de emissões de gases de efeito estufa, tais como captura e armaze-
+namento de carbono (CCUS), hidrogênio de baixo carbono, novos combustíveis e eletrificação ou 
+hibridização de frotas; (ix) telecomunicações, com foco em banda larga; (x) infraestrutura educa-
+cional, com foco em educação básica; e (xi) infraestrutura de saúde, com foco em atenção primária 
+e atendimento hospitalar
+DE05 Promover a nova industrialização da economia brasileira, tornando-a mais verde, inovadora, inclu-
+siva e digital e ampliando a complexidade do tecido industrial (bens e serviços de maior valor agregado)
+DE06 Estruturar e financiar projetos para a promoção de: (i) cadeia agroindustrial sustentável e 
+digital para a segurança alimentar, nutricional e energética; (ii) complexo econômico industrial 
+da saúde resiliente para reduzir as vulnerabilidades do Sistema Único de Saúde (SUS) e ampliar o 
+acesso à saúde; (iii) infraestrutura, saneamento, moradia e mobilidade sustentáveis para a integra-
+ção produtiva e o bem-estar nas cidades; (iv) transformação digital da indústria para ampliar a pro-
+dutividade; (v) bioeconomia, economia circular, descarbonização, transição e segurança energética 
+para garantir recursos para as gerações futuras; (vi) tecnologias de interesse para a soberania e a 
+defesa nacionais; (vii) mineração sustentável, com foco nos minerais estratégicos; e (viii) combus-
+tíveis estratégicos, com destaque para o sustainable aviation fuel (SAF)
+DE07 Promover a agropecuária com foco em sustentabilidade
+DE08 Apoiar investimentos que promovam a agricultura familiar, agroecologia, sistemas agroflo-
+restais e a silvicultura de espécies nativas
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+61
+DE09 Fomentar projetos e parcerias que estimulem inclusão, redução de desigualdades, desenvol-
+vimento social e regional e justiça climática
+DE10 Aprimorar a gestão pública para a oferta de serviços públicos essenciais e promoção da cidadania
+DE11 Estruturar e apoiar projetos de: (i) desenvolvimento e requalificação urbana e preserva -
+ção do patrimônio histórico; (ii) modernização da administração pública municipal e estadual;  
+(iii) investimentos em saúde e educação; (iv) defesa e segurança pública, em especial para melhoria 
+de gestão e prevenção; (v) inclusão produtiva, rural e urbana, focada em populações vulneráveis; 
+(vi) segurança alimentar e transição de sistemas alimentares sustentáveis; (vii) aplicação de tecno-
+logias sociais; (viii) desenvolvimento urbano, com foco em favelas e periferias; (ix) capacitação de 
+mão de obra em função das novas tecnologias; (x) economia do cuidado; e (xi) investimentos em 
+cultura e entretenimento, incluindo o setor audiovisual
+DE12 Contribuir para a descarbonização da economia brasileira por meio do apoio a projetos, par-
+cerias e engajamento de clientes (e suas cadeias produtivas), e para apoio à adaptação às mudanças 
+climáticas e a situações emergenciais relacionadas a eventos climáticos extremos
+DE13 Estruturar e apoiar projetos de: (i) prevenção, monitoramento e combate ao desmatamento, 
+bem como de conservação, restauração e uso sustentável da biodiversidade da Amazônia e dos 
+demais biomas brasileiros, incluindo a Amazônia Azul; (ii) bioeconomia; (iii) soluções baseadas na 
+natureza; e (iv) turismo sustentável, principalmente em áreas públicas 
+DE14 Alinhamento contínuo do portfólio e das atividades do Sistema BNDES à NDC brasileira, 
+potencializando investimentos para a transição climática justa no país
+DE15 Aprimorar a gestão social, ambiental e climática do Sistema BNDES e induzir melhores práti-
+cas no âmbito de sua atuação
+DE16 Ampliar o apoio a projetos de inovação e digitalização, buscando parcerias com outras insti-
+tuições do Sistema Nacional de Inovação (SNI)
+DE17 Estruturar e financiar projetos vinculados a missões industriais de transformação digital da 
+estrutura produtiva, com apoio à expansão da conectividade, segurança cibernética, digitalização 
+de processos e implantação de tecnologias da indústria 4.0
+DE18 Ampliar o apoio à exportação de bens e serviços de maior valor agregado, contribuindo para 
+o aumento da participação de itens de média e alta intensidade tecnológica da pauta exportadora 
+brasileira e para o adensamento da cadeia de produção nacional
+DE19 Promover a competitividade das empresas brasileiras em seus diferentes mercados interna-
+cionais, oferecendo soluções financeiras para exportações em condições compatíveis com as de 
+seus concorrentes
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+62
+DE20 Realizar iniciativas para desenvolver o mercado de capitais com o objetivo de contribuir para 
+o desenvolvimento sustentável
+DE21 Incrementar o uso de instrumentos inovadores de mercado de capitais, incluindo blended 
+finance, como forma de impulsionar impacto e desenvolver as finanças sustentáveis
+DE22 Ampliar o acesso a crédito, estimulando o cooperativismo e elevando a atuação no microcrédito
+DE23 Ofertar soluções financeiras e não financeiras dedicadas a MPMEs, inclusive via mercado de 
+capitais, com foco na ampliação do número de MPMEs atendidas
+DE24 Promover ampliação, eficiência e diversificação dos canais de distribuição, contribuindo para 
+a desconcentração bancária, com atuação neutra 
+DE25 Apoiar a atuação sustentável das MPMEs, com foco na transição ecológica justa e soluções 
+sociais, contribuindo para a elevação da produtividade, inovação e geração de valor das MPMEs ao 
+longo das cadeias produtivas, incluindo a capacidade de exportação
+DE26 Fomentar projetos e parcerias que estimulem o trabalho decente e a qualificação profissional
+DE27 Contribuir para o empreendedorismo, em especial o feminino, o negro e o de grupos minorizados
+DE28 Buscar alternativas de ampliação e diversificação de funding, com foco na redução do custo 
+de captação, para o aumento da competitividade do Sistema BNDES
+DE29 Otimizar a gestão da carteira de participações com foco na sustentabilidade financeira do 
+Sistema BNDES
+DE30 Gerir estrategicamente e ampliar as fontes de recursos não reembolsáveis e orçamentárias
+DE31 Promover um ambiente de trabalho que valorize respeito, diversidade, equidade e inclusão, 
+saúde mental e física e desenvolvimento contínuo de competências
+DE32 Promover uma cultura organizacional que torne o Sistema BNDES mais colaborativo, efi-
+ciente e inovativo
+DE33 Ampliar e aprofundar o conhecimento e as associações de imagem positivas da sociedade 
+acerca do impacto do Sistema BNDES para o desenvolvimento sustentável e suas práticas de trans-
+parência e integridade
+DE34 Aprimorar a articulação do Sistema BNDES com as partes interessadas, em especial o poder público
+DE35 Aprimorar atividades de fomento para atrair novos clientes nos diversos segmentos de atua-
+ção do Sistema BNDES
+DE36 Cooperar no desenvolvimento e aprimoramento de políticas públicas e da regulação no 
+âmbito da atuação do Sistema BNDES
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+63
+DE37 Promover segurança e resiliência cibernética
+DE38 Aumentar a capacidade de entrega de TI, com governança e uso de ativos e tecnologias que 
+acelerem o desenvolvimento de soluções e a inovação digital
+DE39 Promover a gestão integrada de riscos, assegurando que o Sistema BNDES opere com sus-
+tentabilidade financeira, resiliência e segurança operacional
+DE40 Fortalecer a cultura de riscos, integridade, segurança da informação e privacidade, visando 
+maior segurança no relacionamento com partes interessadas e viabilizando negócios
+DE41 Otimizar processos, simplificar e padronizar normas, aprimorar a governança e promover a 
+gestão do conhecimento, visando reduzir custos de transação, melhorar a experiência de clientes 
+e parceiros, elevar a produtividade e compliance e reduzir o risco operacional
+DE42 Promover a transformação digital do Sistema BNDES por meio de tecnologias para digitaliza-
+ção, automatização e integração, bem como do uso adequado de inteligência artificial
+DE43 Difundir o uso de ciência de dados e aprimorar a captura, a análise e a governança de dados 
+para potencializar a otimização e digitalização de processos
+DE44 Fortalecer a acessibilidade de dados e a qualidade dos ativos de dados do BNDES para melho-
+rar a tomada de decisão
+FICHA TÉCNICA
+Presidente da República
+Luiz Inácio Lula da Silva
+Ministro do Desenvolvimento, Indústria, Comércio e Serviços
+Geraldo José Rodrigues Alckmin Filho
+Presidente do BNDES
+Aloizio Mercadante Oliva
+Diretoria
+Alexandre Correa Abreu
+Helena Tenorio Veiga de Almeida 
+José Luis Pinho Leite Gordon
+Luciana Aparecida da Costa
+Luiz Augusto Fraga Navarro de Britto Filho
+Maria Fernanda Ramos Coelho
+Nelson Henrique Barbosa Filho
+Tereza Helena Gabrielli Barreto Campello
+Walter Baère de Araújo Filho
+UM NOVO BNDES PARA OS NOVOS TEMPOS
+65
+Editado pelo Departamento de Comunicação  
+do Gabinete da Presidência do BNDES 
+Setembro 2024

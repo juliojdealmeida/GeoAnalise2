@@ -1,0 +1,783 @@
+ 
+Revista Brasileira de Gestão e Desenvolvimento Regional 
+ISSN: 1809-239X 
+ 
+http://www.rbgdr.net 
+O DISCURSO GLOBAL DA ECONOMIA CRIATIVA – FRAMEWORKS –  PARA O 
+DESENVOLVIMENTO ECONÔMICO  
+ 
+ 
+ 
+Adriano Pereira de Castro Pacheco1 
+Elcio Gustavo Benini2 
+Milton Augusto Pasquotto Mariani3 
+ 
+ 
+Resumo 
+Este a rtigo analisa os principais discursos dos organismos inter nacionais dedicados ao  
+desenvolvimento de platafo rmas de gestão e organização da  Indústria e Economia Criativa (EC) 
+bem como suas influências na agenda global de formulação de políticas públicas . O artigo traz à 
+baila a temática de uma nova economia intens iva em criatividade  e seus transbordamentos 
+estratégicos com a  inovação, com a sustentabilidade e com a diversidade cultural . Por meio da 
+Análise de Discurso (AD) da escola f rancesa, buscou -se caracterizar as diferentes abordagens 
+adotadas por esses organismos, especificamente a Conferência das Nações Unidas para o Comércio 
+e o Desenvolvimento (UNCTAD) e a Organização das Nações Unidas para a Educação, a Ciência e 
+a Cultura (Unesco). Identificadas as principais caraterísticas de cada relatório  – dimensão setorial 
+da indústria, os efeitos de sentido e as condições de produção do discurso da Economia Criativa em 
+cada organismo –, procedeu -se à comparação dos documentos com o Plano Brasil Criativo, do 
+Ministério da Cultura.  Os resultados apontam para o desenvol vimento de um constructo 
+multidimensional de instrumentos para a gestão estatal da  EC – apoiados em ativos simbólicos 
+específicos e singulares de cada país – conferindo à UNCTAD e à Unesco posição de vanguarda e 
+influência na elaboração de políticas  públicas para o setor criativo, inclusive no contexto Brasil. As 
+discussões em torno das transações de ativos intangíveis e simbólicos contribuem, ainda, na 
+geração de novos insights para a organização setorial da Economia Criativa nacional. 
+ 
+Palavras-chave: Economia Criativa . Indústria Criativa.  Ministério da Cultura . UNCTAD. Política 
+Pública. 
+ 
+ 
+ 
+THE GLOBAL DISCOURSE OF CREATIVE ECONOMY –  FRAMEWORKS – FOR 
+ECONOMIC DEVELOPMENT 
+ 
+ 
+Abstract 
+This paper analyze the main speeches of international organizations develop ing management, 
+organization of Industry and Creative Economy (CE) platforms, as well as their influence on the 
+global agenda of public policies. The paper brings up the subject of a new  intensive creativity 
+economy and strategic spillovers to innovation, sustainability and cultural diversity. Through the 
+French Discourse Analysis (DA) school, it was sought to characterize the different approaches 
+adopted by these organizations, specifically the United Nations Conference on Trade and 
+                                                           
+Recebimento: 15/10/2017 • Aceite: 30/5/2018 
+1 Doutorando em Administração pela Escola de Administração e Negócios da Universidade Federal de Mato Grosso do Sul, 
+Campo Grande, MS – Brasil. E-mail: adrianopcastro@gmail.com 
+2 Doutor em Educação. É professor Adjunto da Escola de Administração e Negócios (ESAN) da Universidade Federal de 
+Mato Grosso do Sul (UFMS), Campo Grande, MS – Brasil: elciobenini@yahoo.com.br 
+3 Doutor em Geografia (Geografia Humana) pela Universidade de São Paulo (2001). docente da Universidade Federal de 
+Mato Grosso do Sul, Campo Grande, MS – Brasil. E-mail: miltmari@terra.com.br 
+Revista Brasileira de Gestão e Desenvolvimento Regional 
+ 
+• G&DR • v. 14, n. 5, p. 134-147, set-dez/2018, Taubaté, SP, Brasil • 
+135 
+Development (UNCTAD) and the United Nations Educational, Scientific and Cultural Organization 
+(UNESCO). Identified the main features of each report - sectoral dimension of the industry, the 
+effects of meaning and speech production conditions of the Creative Economy in each organ ization 
+- proceeded to compare the documents with Brazil Creative Plan of the Ministry of Culture. The 
+results point to the development of a multidimensional instruments construct for the state 
+management of the CE - supported by specific and unique symbol ic assets of each country - giving 
+the UNCTAD and UNESCO leading position and influence on developing public policies to the 
+creative sector, including in the context of Brazil. Discussions around the transactions of intangible 
+and symbolic assets also con tribute to generate new insights into the trade group for the National 
+Creative Economy. 
+ 
+Keywords: Creative Economy. Creative Industry. Ministry of Culture. UNCTAD. Public Policy.  
+ 
+ 
+ 
+Introdução 
+A Economia Criativa  (EC) desponta no cenário das conhecidas e conomias de transição por 
+ser intensiva em um recurso intangível e abundante: a criatividade ( BENDASSOLI et al., 2000). 
+Por todo o mundo, um intenso debate teórico-conceitual tem ganhado profusão em uma complexa 
+plataforma de discursos e políticas sobre a compreensão e o estabelecimento da EC como 
+estratégia de desenvolvimento econômico.  
+A EC  compreende setores cuja origem da geração de valor econômico está na criatividade, no 
+conhecimento e no talento individual e coletivo que têm potencial para criação d e riqueza e 
+empregos por meio  da geração e da exploração de ativos criativos, à exemplo da propriedade 
+intelectual e dos direitos autorais ( HOWKINS, 2013; REIS,2008; CAVES, 2002; HARTLEY, 2005; 
+UNCTAD, 2010). 
+ As designações propaladas nos estudos iniciais  sobre a EC mostram que sua  estrutura é 
+capaz de deslocar a relação binomial demanda -oferta, cuja lógica de consumo é dada tão-somente 
+pela utilidade – características de uma economia intensiva em capital – para dinâmica de consumo, 
+cujo valor é gerado a p artir de um  ativo criativo (UNCTAD, 2010; OLIVEIRA et al., 2013) . As 
+informações de apoio à organização e à categorização das indústrias e setores intensivos em 
+criatividade – considerando as especificidades de cada nação – colocam em marcha as discussões 
+sobre a requalificação do papel do Estado em prover políticas públicas estratégicas a ess a nova 
+realidade ( MIGUEZ, 2009) bem como a regulação d e novos modelos de consumo baseados no 
+conhecimento e em novas tecnologias (REIS, 2008). 
+Para as mais diferentes áreas do conhecimento, o interesse intrí nseco do objeto transcende  
+questões relacionadas à homegen eização das formas culturais, antes, amplia -o para a possibilidade 
+de geração de novos insights que compreendem : a capilarização das indústrias criativas em 
+pequenas e médias empresas; a criação de estruturas e de processos organizacionais facilitadores 
+da atividade criativa; formação de novos arranjos organizacionais; as ambivalências criativas e 
+simbólicas e o apoio na qualificação do papel es tatal no desenvolvimento da EC (OLIVEIRA et al., 
+2013).  
+Estima-se que a Economia Criativa formal represente algo em torno de 2.84% (FIRJAN,  
+2012) do Produto Interno Bruto (PIB) brasileiro, correspondente a R$ 104,37 bilhões , segundo 
+dados do Instituto Brasileiro de Geogr afia e Estatística  (IBGE, 2010), e aproximadamente 2% da 
+mão de obra e 2,5% da massa salarial formal ( OLIVEIRA et al., 2013). Comparativamente , os 
+setores com atuação em Economia Criativa têm demonstrado grande dinamismo econômico , cuja 
+participação no PIB  supera alguns subsetores tradicionais de atividade econômica , a exemplo da  
+indústria extrativa (R$78,77 bilhões) e a produção e distribuição de eletricidade, gás, água, esgoto 
+e limpeza urbana (R$ 103,24 bilhões), segundo o sistema Firjan (2012). 
+O termo Indústria Criativa teve seu marco de reconhecimento durante a XI Conferência 
+Ministerial da UNCTAD, em 2004, quando um dos principais painéis da Conferência foi reservado 
+ao debate de um potencial desenvolvimento advindo da criatividade. A introdução de es tudos sobre 
+essas indústrias na agenda econômica e de desenvolvimento internacional ganhou profusão nas 
+demais edições do encontro, apoiada nos debates de ampliação do conceito de criatividade e das 
+atividades artístico-criativas 
+Revista Brasileira de Gestão e Desenvolvimento Regional 
+ 
+• G&DR • v. 14, n. 5, p. 134-147, set-dez/2018, Taubaté, SP, Brasil • 
+136 
+ De modo geral, os  relatórios da UNCTAD e da Unesco contribuíram para a formação de 
+uma memória discursiva fundamental no campo teórico da EC. Não como um discurso fundador 
+(ORLANDI, 2000), cuja origem transita no interior da literatura inglesa e australiana, mas um 
+discurso tradut or que produziu momentos fundantes e que  organizou espaços de uma memória 
+institucional relevante para os demais estudos organizacionais da EC. 
+ E, nessa confluência , o Brasil inicia,  em 2011, a primeira tentativa discursiva de  pactuação 
+da EC: o Plano da Secretaria da Economia Criativa  (SEC). Vale dizer, contudo, que outros esforços 
+institucionais locais também foram realizados  no contexto Brasil  – a exemplo do Termo de 
+Referência de atuação do Sistema Sebrae na EC e também o Mapeamento da Indústria Criati va no 
+Brasil, do sistema da Federação das Indústrias do Estado do Rio de Janeiro  (Firjan) –, que orbitam 
+conjuntamente no arcabouço teórico transdisciplinar de apoio à implementação de políticas e ao 
+desenvolvimento da EC brasileira. 
+ Isto posto, o presente artigo articula um dispositivo teórico-analítico à produção documental 
+institucional e seus reflexos na formulação de políticas públicas para EC no contexto Brasil, cuja 
+análise dá -se com base no discurso produzido pelo Ministério da Cultura  (MINC), por meio do 
+Plano da Secretaria da Economia Criativa (BRASIL, 2012). Com isto, o presente artigo teve como 
+objetivo verificar se os discursos institucionais dos relatórios da Unesco e UNCTAD foram levados 
+a efeito na formulação de  estruturas, processos organiz acionais e  políticas públicas em EC 
+adequadas ao contexto Brasil. Especificamente, a partir da caracterização dos discursos 
+materializados nos relatórios dos organismo s internacionais aludidos, procurou -se caracterizar os  
+reflexos na formulação de uma agen da pública estratégica  para o desenvolvimento da  EC no 
+Brasil, com base no Plano supracitado (BRASIL, 2012). 
+ Para responder as questões levantadas, a  primeira parte do trabalho apresenta algumas 
+reflexões e apontamentos  de natureza teórico -metodológicas – detalhadas ao longo do texto  – 
+seguidas de um estudo documental comparativo entre os principais relatórios publicados pela 
+UNCTAD e Unesco e MINC acerca das Indústrias Criativas e os setores que lhe s são relacionados. 
+Por fim, apresenta algumas notas de conclusão à luz do corpo discursivo documental analisado. 
+ 
+Políticas Públicas, Políticas Culturais e de Economia Criativa 
+O trabalho da cientista política Celina Souza (2006) traz algumas das primeiras defi nições 
+lançadas sobre o papel do Estado e de seus instrumentos de gestão : “[...] política pública é a soma 
+das atividades dos governos que agem diretamente ou através de delegação, e que influenciam a 
+vida dos cidadãos [...]”; “[...] o que o governo escolhe fazer ou não fazer  [...]” e “[...] quem ganha o 
+quê, por quê e que diferença faz .” (SOUZA, 2006, p.24) . Ainda no esforço de síntese da autora, o 
+papel da política pública na perspectiva da solução de problemas é recorrente, bem como seu  
+comportamento multidisciplinar.  
+Adensando o teor da discussão, é op ortuno mencionar o que diz Arretch e (2003) quanto ao 
+objeto de análise das políticas públicas , apresentando-o como “ [...] estudo de programas 
+governamentais, particularmente suas condições de emergência, seus mecanismos de operação e 
+seus prováveis impactos sobre a ordem social e econômica” ( ARRETCHE, 2003, p. 2). Por sua vez, 
+Reis (2003)  faz um importante adendo aos que se lançam a esse tipo de estudo , ponderando que 
+“qualquer que seja o ângulo da política pública contemplado por um pesquisador, as questõe s 
+morais, teóricas e técnicas encontram-se bastante interligadas” (REIS, 2003, p.12). 
+Para o debate em curso, Saravia e Ferrarezi (2006 , p.28 ) contribuem com o  conceito de 
+políticas públicas , postulando que a  “finalidade última de tal dinâmica – consolidação da 
+democracia, justiça social, manutenção do poder, felicidade das pessoas – constitui elemento 
+orientador geral das inúmeras ações que compõem determinada política ”.  
+Direcionando os desdobramentos da política pública para as particularidades das polít icas 
+culturais e, então, as de EC,  García Canclini (1987) resumiu sob a forma de um paradigma a 
+relação ideacional da cultura – entendida em sua dimensão simbólica – e sua reprodução social 
+implicada em uma democracia representativa ( GARCÍA CANCLINI, 1987, p. 50): “Esse paradigma 
+concebe a política cultural como um programa de distribuição e popularização da arte, do 
+conhecimento científico e das demais formas de alta cultura”. E acrescenta: “[...] a coexistência de 
+múltiplas culturas em uma mesma sociedade  propicia seu desenvolvimento autônomo e relações 
+igualitárias de participação de cada indivíduo em cada cultura e de cada cultura com relação aos 
+demais” (GARCÍA CANCLINI, 1987, p. 51). 
+Revista Brasileira de Gestão e Desenvolvimento Regional 
+ 
+• G&DR • v. 14, n. 5, p. 134-147, set-dez/2018, Taubaté, SP, Brasil • 
+137 
+O notório pesquisador brasileiro Albino Rubim (2007) apresenta um des enho cartográfico 
+elucidativo e suficiente para o entendimento das principais questões (co ) relacionadas às políticas 
+culturais no cenário brasileiro: o espectro de formulação de uma política pública que lance mão da 
+dimensão cultural como basilar precisa considerar componentes fundamentais para sua 
+caracterização: 
+Toda política cultural é composta por um conjunto de formulações e ações 
+desenvolvidas ou a serem implementadas. Investigar as formulações, 
+condensadas em planos, programas, projetos, etc .; as aç ões, pensadas e 
+realizadas, e, inclusive, as conexões e contradições entre elas é vital para o 
+conhecimento das políticas culturais (RUBIM, 2007, p. 150). 
+  
+Logo, em que pese m as interligações e implicações trazidas pelo corpo teórico até a qui 
+exposto, não seria possível esgotarmos as possibilidades de análise e de interpretação que o estudo 
+desta temática suscita, sobretudo pela complexidade que tece seu entendimento ( MORIN, 2011). 
+Assim, a narrativa laudatória aqui proposta contribui, em paralelo, com os demais esforços teórico-
+metodológicos propalados por aqueles que  se lançam ao estudo de políticas públicas e, em especial 
+e particularmente, na singularidade das políticas culturais e de EC. 
+Apropriar-se da contribuição seminal que vem sendo realizada no c ampo das proposições 
+metodológicas a respeito da formulação e da análise de políticas públicas é fundamental para o 
+estudo de qualquer política em particular. Nesse sentido, a particularidade do presente estudo é a 
+de construir uma base teórica, articuland o os pressupostos de um a política pública e, em 
+particular, das políticas públicas culturais para, então, lançar mão de uma base metodológica de 
+compreensão dos efeitos de sentido que os discursos -narrativas institucionais propaladas ao redor 
+do mundo prod uzem na construção de novas políticas públicas em EC, sobretudo para o contexto 
+Brasil. 
+ 
+Metodologia 
+Para, então, contribuir no alcance do objetivo de pesquisa lançado neste trabalho, adotou -se 
+o dispositivo teórico-analítico postulado no interior da escol a francesa: a Análise do Discurso (AD). 
+Isso pelas inúmeras possibilidades interp retativas viabilizadas por esse método,  distinguindo o 
+dispositivo teórico de interpretação – posto na produção bibliográfica existente –, do dispositivo 
+metodológico analítico – construído pelo analista em cada particularidade observada  –, a partir de 
+questões indutoras (LABREA, 2014). 
+Assim, para Labrea (2014): 
+[...] existe uma teoria do discurso cujo método e noções fazem a mediação 
+entre a descrição e a interpretação , mas n ão existe um dispositivo analítico 
+padrão, a priori , ele é construído pelo analista em interlocução com outras 
+disciplinas e campos do saber que o ajudem a compreender e responder sua 
+questão a partir do trabalho com o simbólico e a interpretação ( LABREA, 
+2014, p. 24). 
+ 
+O entendimento assumido neste estudo é o de que a AD pode figurar um a posição de análise 
+contributiva aos demais estudos já elaborados em EC  – considerando suas especificidades – com o 
+objetivo de se entender as relações entre Estado e socie dade, sob uma lógica que evidencia 
+elementos nem sempre verificados no espectro das reflexões sobre políticas públicas, a exemplo do 
+sujeito e as diferentes posições enunciativas que ele ocupa, os níveis de percepção de realidade – 
+fundamentais para entender a dimensão de aplicabilidade de uma política em contextos diferentes  
+– e também os efeitos de sentido de um texto/documento a partir de suas condições de produção 
+(LABREA, 2014).  
+Com efeito, a ideia de sujeito aqui adotada conota -se às organizações Unesco, UNCTAD e 
+MINC, e seus respectivos efeitos de sentido, produzidos a partir dos discursos apresentados em 
+seus relatórios de políticas públicas em EC. Assim, “ [...] ao invés de encarar o sujeito como uma 
+fonte que forneceria um significado ao mundo, vem os cada posição de sujeito ocupando locais 
+diferentes no interior de uma estrutura ”. E “[...] a essa estrutura damos o nome de discurso” 
+(LACLAU, 2013, p. 3). Do mesmo modo, as narrativas institucionais em an álise têm características 
+híbridas, que constroe m, descontroem e reconstroem outros discursos adequados a cada país. Tal 
+hibridação – cultural – é apresentada por García Canclini (2011) como “ [...] processos 
+Revista Brasileira de Gestão e Desenvolvimento Regional 
+ 
+• G&DR • v. 14, n. 5, p. 134-147, set-dez/2018, Taubaté, SP, Brasil • 
+138 
+socioculturais nos quais estruturas ou práticas discretas, que existiam de forma separada, se 
+combinam para gerar novas estruturas, objetos e práticas” (GARCÍA CANCLINI, 2011, p. 19). 
+Nesse contexto, o enredo teórico -metodológico em marcha traduz o recorte documental 
+proposto – entendido como discursos institucionais produzidos em condições de produç ão 
+diferentes – e encontra nos textos em análise a tessitura dos diversos recortes t extuais que 
+organiza as vozes dos  sujeitos-autores ( INDURSKY, 2001). Essa textualização produz outros 
+momentos de (re)contextualização que, ainda segundo o autor, produz um a heterogeneidade 
+provisoriamente estruturada. 
+Isso posto, a posição de enunciação do sujeito traduz o multiforme sentido que o discurso 
+pode produzir. Com efeito, a conjuntura de um discurso depende de sua condição de produção, por 
+meio da qual é possível  apontar, também, as contradições ( PÊCHEUX, 1997). Como unidade 
+empírica, estruturada em começo -meio-fim, o texto é seminal no corpo discursivo ao definir a 
+posição do sujeito-autor (GUIMARÃES, 1995).  
+Na construção da perspectiva teórica de interpretação,  buscou-se a construção de um corpo 
+discursivo, em que  a noção de arquivo é adotada como gesto interpretativo da totalidade dos 
+discursos institucionais recortados, analisados (ORLANDI, 2000, p. 32).  
+Para Foucault, a organização do arquivo busca “ [...] descrever a função enunciativa e a formação 
+discursiva a qual pertencem os discursos como práticas específicas no elemento do arquivo” 
+(FOUCAULT, 2000, p.  151). Dessa forma, entende -se o arquivo como um sistema de enunciados 
+que permite analisar as relações entre o discurso (verbal e não -verbal) e outros domínios 
+(FOUCAULT, 2000). 
+Por sua vez, a noção de recorte, entendido enquanto pedaço, é “ [...] um fragmento da 
+situação discursiva que pode apreender a incompletude como constitutiva do sentido e condição da  
+linguagem” ( ORLANDI, 2000, p.139-140). Assim, o corpo  discursivo visa à formação de uma 
+mostra representativa com resultados  considerados extensivos no campo discursivo de referência 
+(INDUSRKY,1997).  
+Nesse sentido, o trabalho d e seleção dos recortes que fizeram parte do arquivo, e, por sua 
+vez, do corpo discursivo objeto da análise, objetiva ram prover respostas às questões postas em 
+observação e descrever de que forma os discursos funcionam e influenciam a partir de diferentes 
+lugares sociais/geográficos e seus significados do ponto de vista da gestão de uma política pública 
+(ORLANDI, 2000). 
+Tão importante quanto é entender a função enunciativa trazida pela AD, cujo exercício é feito por 
+um sujeito em algum lugar institucional. É a organização de textos ou  imagens com determinadas 
+características que definem seu sistema de funcionamento. Em suma:  
+Entre a língua que define o sistema de construção das frases possíveis e o 
+corpus que recolhe as palavras pronunciadas, o arquivo define um nível 
+particular; o de uma prática que faz surgir uma multiplicidade de enunciados 
+[...]. Não tem o peso da tradição, não constitui uma biblioteca [...], entre a 
+tradição e o esquecimento, ele faz aparecerem as regras de uma prática que 
+permite aos enunciados subsistirem e, ao m esmo tempo, se modificarem 
+regularmente. É o sistema geral da formulação e da transformação de 
+enunciados (FOUCAULT, 2000, p. 150). 
+ 
+Em linhas gerais , o objeto teórico da AD é o próprio discurso ( PÊCHEUX, 1997). Por sua 
+vez, o s textos doravante expostos figuram a unidade de análise, pois, por meio dele s, a 
+materialidade é concebida (BARDIN, 2011). Assim, nesse enredo teórico-metodológico, estabelece-
+se o presente trabalho, considerando, sobretudo, as categorias e setores culturais de cada relatório.  
+ 
+O discurso da UNESCO: um framework para estatísticas culturais 
+Embora o discurso supragovernamental em EC mais propalado no mundo seja o da 
+UNCTAD – em seus diversos relatórios publicados  –, as informações de seu interior foram 
+mapeadas no Unesco Framework for C ultural Statistics (2009), realizado pelo Instituto Estatístico 
+da Unesco, e que figurou a principal base de dados em estudos culturais nos últimos anos. 
+Ademais, é oportuno mencionar que a Unesco já havia reconhecido a importância das ind ústrias 
+culturais e criativas no desenvolvimento econômico mundial em outras publicações, contudo a 
+pesquisa optou por trazer um recorte documental atual e mais adequado ao contexto da análise.  
+Revista Brasileira de Gestão e Desenvolvimento Regional 
+ 
+• G&DR • v. 14, n. 5, p. 134-147, set-dez/2018, Taubaté, SP, Brasil • 
+139 
+A caracterização qualitativa-quantitativa da EC, à luz do esforço de compilação  trazido pela 
+Unesco, deu o mote à maioria dos estudos de formulação de políticas públi cas, a partir de sua 
+publicação, a exemplo do estudo de análise do comércio internacional de bens e serviços culturais 
+(1994-2003), realizado pela organização em 2005 e que já constatava a potencialidade da cultura 
+enquanto ativo de valor econômico e de desenvolvimento mundial (UNESCO, 2005). 
+Torna-se, assim, seminal uma breve descrição do Framework da Unesco (2009) no tocante 
+ao escopo de classificação dos setores criativos, reveladas aqui como “domínios”: 
+ 
+Tabela 1: Estrutura de domínios de estatísticas culturais da Unesco 
+Fonte: Adaptado de Unesco (2009). 
+ 
+ 
+Na interpretação do Ministério da Cultura, a posição enunciativa da Unesco foi assim 
+traduzida: 
+A ideia principal da construção deste escopo foi a de criar e dispon ibilizar 
+para os diversos países uma ferramenta que permitisse a organização e a 
+comparabilidade de estatísticas nacionais e internacionais no âmbito das 
+expressões culturais, contemplando aspectos relacionados aos modos de 
+produção sociais e econômicos (BRASIL, 2012, p. 29). 
+ 
+Verdade é que o discurso fundante da Unesco nessa seara desenvolveu -se em 1986 com a 
+primeira publicação da Estrutura de estatísticas culturais (FCS) e, posteriormente, influenciou 
+muitos países à medida que eles desenvolveram estratégias para coleta de estatísticas culturais: 
+Sua estrutura original definiu nove categorias de atividades culturais: 
+patrimônio cultural, materiais impressos e literatura, música, artes cênicas, 
+Domínios culturais Atividades associadas 
+A. Patrimônio natural e cultural 
+• Museus 
+• Sítios históricos e arqueológicos 
+• Paisagens culturais 
+• Patrimônio natural 
+B. Espetáculos e celebrações 
+• Artes de espetáculo 
+• Festas e festivais 
+• Feiras 
+C. Artes visuais e artesanato 
+• Pintura 
+• Escultura 
+• Fotografia 
+• Artesanato 
+D. Livros e periódicos 
+• Livros 
+• Jornais e revistas 
+• Outros materiais impressos 
+• Bibliotecas (incluindo as virtuais) 
+• Feiras do livro 
+E. Audiovisual e mídias interativas 
+• Cinema e vídeo 
+• TV e rádio (incluindo internet) 
+• Internet podcasting 
+• Videogames (incluindo onlines) 
+F. Design e serviços criativos 
+• Design de moda 
+• Design gráfico 
+• Design de interiores 
+• Design paisagístico 
+• Serviços de arquitetura 
+• Serviços de publicidade 
+Revista Brasileira de Gestão e Desenvolvimento Regional 
+ 
+• G&DR • v. 14, n. 5, p. 134-147, set-dez/2018, Taubaté, SP, Brasil • 
+140 
+mídias de áudio, mídias audiovisuais, atividades socioculturai s, esportes e 
+jogos e meio ambiente e natureza (UNCTAD, 2010, p. 108). 
+ 
+Contudo, somente em 2009 uma estrutura mais robusta e ambiciosa para estatísticas 
+culturais foi efetivamente disponibilizada. A expectativa da Unesco era a de que tal estrutura se 
+tornasse um padrão internacional capaz de registrar todas as atividades culturais humanas 
+(UNCTAD, 2010). A estrutura atualizada articula cinco processos do ciclo cultural: criação, 
+produção, disseminação, exposição/recepção/transmissão e consumo/participação.   
+Além de reconhecer os domínios ou grupos já tradicionais da indústria cultural – como 
+patrimônio, artes e literatura –, o framework incorpora em seu escopo a indústria de novas mídias 
+e tecnologias bem como a de serviços criativos – moda, design, arquite tura entre outros. 
+Fundamental mencionar o surgimento de setores entendidos pela Unesco como (co)relacionados à 
+indústria cultural e criativa, a exemplo do turismo – e seus serviços; e os esportes. Todos os 
+domínios são apoiados pelos serviços de educação e treinamento, preservação e arquivamento, e 
+equipamentos e materiais de apoio. 
+Em termos de mensuração da EC , a estrutura da Unesco de 2009 mede o comércio 
+internacional de produtos e serviços culturais , adotando a classificação de produtos culturais do 
+Sistema harmonizado de codificação e descrição de commodities 2007 (HS 2007), ao passo que a 
+classificação de serviços culturais utiliza a versão seis da Balança de pagamentos (BPM6) e a 
+classificação Extended balance of payments (EBOPS). A nova estrutura d a Unesco correlaciona 85 
+dos códigos do HS 2007 com produtos culturais, categorizados em seis domínios. Ele define outros 
+84 códigos do HS 2007 como equipamentos e materiais d e apoio para produtos culturais.  Nesse 
+ponto, já é possível observar pequenas dif erenças metodológicas, embora Unesco e UNCTAD 
+compartilhem a maioria dos serviços criativos e culturais em seus relatórios.  
+A abordagem do Instituto do Estatística da Unesco tem duas carac terísticas: e m primeiro 
+lugar, ela explora a amplitude setorial e a  profundidade dos domínios culturais. A amplitude se 
+refere às atividades inclusas, ao passo que a profundidade lida com as fases de um ciclo cultural. A 
+segunda característica desse modelo é a noção de uma matriz aninhada , que aborda os diferentes 
+aspectos relacionados à cultura (UNCTAD, 2010). 
+Na Unesco, por exemplo, as indústrias culturais e criativas são apresentadas como aquelas 
+que combinam a criação, produção e comercialização de conteúdos intangíveis e culturais por 
+natureza, que inclui os produtos audiovisuais, o design, os novos meios de informação, as artes do 
+espetáculo, a produção editorial e as artes visuais – é um dos setores da economia de mais rápida 
+expansão mundialmente (UNESCO, 2009). Esses conteúdos são tipicamente protegidos por direito s 
+autorais e podem assumir a forma de produtos e serviços. Um aspecto importante das indústrias 
+culturais, de acordo com a Unesco, refere -se ao fato de que elas são centrais na promoção e na 
+manutenção da diversidade cultural e na garantia do acesso democrático à cultura. 
+Importante mencionar , ainda, que a organização foi a responsável em difundir os debates 
+sobre cidades criativas. Estabelecida em 2004, a rede de cidades criativas da Unesco reflete as 
+mudanças na percepção da cultura, além de sua função como parte da sociedade e da economia:  
+A ideia para a rede se baseou na observação de que, embora muitas cidades 
+ao redor do mundo percebam que as indústrias criativas estão começando a 
+desempenhar um papel muito maior em suas economias locais e esquemas de  
+desenvolvimento social, elas não enxergam claramente como aproveitar esse 
+potencial e como envolver os agentes apropriados nesse desenvolvimento 
+(UNCTAD, 2010 p. 15). 
+ 
+O discurso da UNCTAD: uma abordagem multidimensional 
+ A UNCTAD representa um dos mais i mportantes fóruns intergovernamentais para 
+discussões e deliberações sobre temas de desenvolvimento. Nesse organismo, a importância da 
+cultura enquanto ativo gerador de riqueza já era levado a efeito desde o final da década de 1990.  
+Por sua vez, o  relatório de EC apresentado pela UNCTAD (2010) é considerado um dos mais 
+importantes documentos que propalam o conceito da EC para o mundo. O esforço de síntese do 
+relatório perseguiu a trajetória de conjugar experiências inter e extragovernamentais com o 
+objetivo de se prover um modelo multidimensional de mensuração da economia, a partir da 
+criatividade, considerando as principais indústrias identificadas e classificadas como culturais e 
+criativas. 
+Revista Brasileira de Gestão e Desenvolvimento Regional 
+ 
+• G&DR • v. 14, n. 5, p. 134-147, set-dez/2018, Taubaté, SP, Brasil • 
+141 
+Nesse momento, lançou-se luz acerca do conceito  de EC adotado no âmbito da Conferência, 
+entendido como “qualquer atividade econômica que produza produtos simbólicos intensamente 
+dependentes da propriedade intelectual, visando ao maior mercado possível (UNCTAD, 2010, p. 7). 
+Diferenciador de atividades downstream com foco mais visível no mercado – publicidade, 
+editorial e mídias – e atividades upstream, essencialmente de artes tradicionais como teatro, dança, 
+visuais – o modelo formulado pela UNCTAD considera as indústrias culturais um subconjunto das 
+indústria criativa (UNCTAD, 2010). O grau de novidade aqui apresentado tem , no vasto escopo de 
+constituição do modelo , a possibilidade de integração das mais variadas atividades – produtos e 
+serviços – que percorrem o patrimônio cultural até novas tecnologias, indutores do 
+desenvolvimento econômico de diversos países. 
+Para a UNCTAD (2008, 2010 e 2013 ), a EC está apoiada em indústrias com recorte 
+multiconceitual. Assim, as indústria criativas: 
+• são os ciclos de criação, produção e distribuição de produtos e serviços que utilizam 
+criatividade e capital intelectual como insumos primários; 
+• constituem um conjunto de atividades baseadas em conhecimento, focadas, entre 
+outros, nas artes, que potencialmente geram receitas de vendas e direitos de propriedade 
+intelectual; 
+• constituem produto s tangíveis e serviços intelectuais ou artísticos intangíveis com 
+conteúdo criativo, valor econômico e objetivos de mercado; 
+• posicionam-se no cruzamento entre os setores artísticos, de serviços e industriais;  
+• constituem um novo setor dinâmico no comércio mundial. 
+Na proposição de um modelo multidimensional apresentado pela UNCTAD, é possível 
+identificar as indústrias ou setores criativos em quatro grandes grupos ( OLIVEIRA et al, 2013, p.  
+18): patrimônio, artes, mídia e criações funcionais. 
+Em sua primeira p arte, o relatório  2010 da UNCTAD apresenta um traçado conceitual de 
+todas as conexões possíveis da EC. Tão importante quanto é a caracterização dos países 
+desenvolvidos, ou cujas economias encontram -se em transição , e suas relações com a EC, 
+contemplando a  África, região Ásia -Pacífico, Ásia Central e Oriente Médio, além da América 
+Latina, Caribe e Europa Oriental. 
+Já na segunda parte, o discurso enunciativo da UNCTAD demonstra preocupação em 
+prover mecanismos de organização, estruturação, medição e análise da EC. Um comparativo de 
+instrumentos estatísticos é colocado em paralelo com o objetivo de se construir uma adequada base 
+metodológica para as formas de aferição da EC, quer seja na dimensão setorial, quer na 
+ocupacional (UNCTAD, 2010, p. 37) 
+A terceira p arte do relatório discorre acerca das dinâmicas introduzidas no comércio 
+mundial com o advento da EC; as tendências globais para o comércio de produtos e serviços 
+criativos bem como o peso dessas transações na balança comercial. Prospecções ousadas de 
+comércio são estimadas na relação dos países Norte -Sul e Sul -Sul, em razão da organização das 
+indústrias criativas desses países (UNCTAD, 2010, p. 168). 
+A característica fundamental, entretanto, do relatório aqui discutido tem sua materialidade 
+na quarta parte , em que  a função da propriedade intelectual e da tecnologia é elevada à posição 
+angular no desenvolvimento da EC em qualquer nação. As relações entre direitos autorais, cultura 
+tradicional e novas tecnologias são, no discurso da UNCTAD, convergentes na fo rmação de novos 
+modelos de negócios em EC (UNCTAD, 2010, p. 171). 
+Finalmente, um eixo de apoio ao desenvolvimento de políticas públicas é, então, 
+apresentado. Um debate sobre a função das políticas públicas, provisão de infraestrutura, finanças, 
+investimentos e mercados instituem o cenário de ambiência necessário para o estimulo do 
+empreendedorismo criativo e suas formas de aprimoramento. (UNCTAD, 2010). 
+O informe mais recente , por sua vez, do Relatório das Nações Unidas sobre a EC, intitulado 
+“Widening local development pathways ”, coeditado pela Unesco e o Programa das Nações Unidas 
+para o Desenvolvimento (PNUD) por meio do Escritório da ONU para a Cooperação Sul -Sul, traz 
+em seu prólogo  não apenas um esforço de definição e terminologias do universo discurs ivo da EC 
+mas, também, o desenvolvimento local por meio de cidades consideradas atores -chave, além  do 
+entendimento multidimensional de criação da ambiência propícia à EC num cenário que envolva 
+expressões culturais, patrimônio e arquitetura , nada significativamente diferente do já exposto na s 
+edições de 2008 e 2010.  
+Revista Brasileira de Gestão e Desenvolvimento Regional 
+ 
+• G&DR • v. 14, n. 5, p. 134-147, set-dez/2018, Taubaté, SP, Brasil • 
+142 
+Destarte, faz, também,  uma exposição da criatividade identificada em cada um dos 
+continentes, apontando fatores cruciais para a criação de novos mercados com foco nas indústrias 
+de direitos autorais e culturas tradicionais, além da estruturação de clusters e redes. Lança, ainda, 
+proposições que direcionam a construção de indicadores de EC , considerando recursos, 
+capacidades e resultados (social, econômico, cultural e ambiental). Por fim, sustent a o 
+posicionamento das Nações Unidas enquanto organismo cooperador para o desenvolvimento da EC, 
+apresentando uma análise de portfólio com o fundo internacional para a diversidade cultural e as 
+principais atividades priorizadas e respectivos impactos em te rmos de governa nça e políticas 
+públicas (UNESCO, 2013). 
+No campo da gestão pública, o modelo em discussão despontou como multidisciplinar – 
+supragovernamental e com mecanismos de regulação e organização que compreendem todas as 
+dimensões na busca pela form a de desenvolvimento aqui exposta. Multidimensional na medida em 
+que políticas econômicas, tecnológicas, culturais e sociais são observadas e conectadas. 
+Multidisciplinar por considerar as relações entre cultura, trabalho, com ércio, tecnologia, educação 
+e turismo como fundamentais no bojo do debate em pauta (UNCTAD, 2010). 
+ 
+O plano da Secretaria de economia criativa: agenda para um Brasil criativo  
+ 
+O intuito da apresentação de um Plano Nacional de EC convergiu na tentativa de se pactuar 
+uma política naciona l para o setor, aderente à multiplicidade de atividades culturais com 
+potencialidades econômicas aqui expostas e que considere elementos exclusivos na territorialidade 
+do país sob os princípios norteadores  da diversidade cultural, da sustentabilidade e da inovação. 
+Essa possibilidade surgiu a partir da implantação da Secretaria de economia criativa (SEC), no 
+âmbito do Ministério da Cultura, por meio do Decreto 7.743/2012 (BRASIL, 2012). 
+No âmbito da  SEC, a expressão  “indústria criativa ” é adaptada numa pers pectiva de 
+inclusão de características pertinentes ao território brasileiro em suas multidimensões, passando a 
+ser visto como “setores criativos”. Assim, a adaptação proposta – setores criativos – é adotada como 
+representante “[...] dos diversos conjuntos de empreendimentos que atuam no campo da Economia 
+Criativa” (BRASIL, 2012). 
+A proposição trazida pela SEC desconcentrou o debate pautado basicamente em torno de 
+uma economia cuja criatividade e o conhecimento sejam fundamentais, ainda que não obrigatórios,  
+e também nas relações de exploração da propriedade intelectual – porquanto restritas – ampliando-
+o para o entendimento: 
+Os setores criativos são aqueles cujas atividades produtivas têm como 
+processo principal um ato criativo gerador de um produto, bem ou serviço, 
+cuja dimensão simbólica é determinante do seu valor, resultando em 
+produção de riqueza cultural, econômica e social (BRASIL, 2012, p. 22). 
+ 
+Dessa forma, assim como as indústrias criativas são vistas como uma ampliação da 
+abordagem das indústrias culturais, os setores criativos ampliam, no momento em que também 
+aglutinam, os setores culturais – essencialmente ligados à produção artístico -cultural (música, 
+dança, teatro, ópera, circo, pintura, fotografia, cinema) – e somam-se às expressões e atividades de 
+setores até então deslocados do debate, ainda que transversalmente presentes, como o de novas 
+mídias, indústria de conteúdo, design, entre outros ( BRASIL, 2012). Para Bolaño (2011), um dos 
+experts participantes da construção do Plano: 
+O conceito de s etores criativos adotado pela SEC, na elaboração do seu 
+planejamento estratégico para o período de 2012 a 2015, é bom nesse sentido 
+porque, ao enfatizar a noção de riqueza cultural, vinculando -a a um processo 
+criativo, cujo resultado será ampliar o patrimô nio cultural, escapa do 
+economicismo das versões correntes da pura economia da cultura, 
+aproximando-se do pensamento crítico, mais complexo, da economia política 
+da comunicação e da cultura (BOLAÑO, 2011, p. 85). 
+ 
+Na metodologia de construção do Plano, alg uns estudiosos do tema foram reunidos para 
+contribuir e lançar suas bases reflexivas para a elaboração da política em EC no contexto Brasil. 
+Edna dos Santos -Duisenberg, chefe do Programa de economia criativa da Conferência das Nações 
+Unidas sobre Comércio e Desenvolvimento – UNCTAD, notabilizada por integrar os primeiros 
+estudos no âmbito internacional, defendeu em seu texto: 
+Revista Brasileira de Gestão e Desenvolvimento Regional 
+ 
+• G&DR • v. 14, n. 5, p. 134-147, set-dez/2018, Taubaté, SP, Brasil • 
+143 
+Fica latente que a economia criativa gera crescimento econômico, 
+empregos e divisas. Dada a sua característica multidisciplinar, a ec onomia 
+criativa potencialmente contribui para a redução da pobreza e a inserção de 
+excluídos e minorias, tais como mulheres e jovens talentosos que 
+desempenham informalmente atividades criativas (artesanato, festas 
+populares, dança, etc). A economia criati va também facilita interações 
+entre o setor público e o privado, associando negócios, fundações, ONGs e 
+filantropia. Portanto, é importante que haja um processo participativo e 
+esquemas flexíveis com parcerias em todos os níveis e articulações políticas 
+desde o nível comunitário, municipal, estadual até o âmbito federal. Isto 
+facilitará a elaboração e implementação de um plano de ação pragmático 
+para reforçar a economia criativa no Brasil ( SANTOS-DUISENBERG, 2011, 
+p. 77).  
+Sob esse prisma – o de inclusão de  um ativo criativo baseado em conteúdo intangível como 
+determinante de valor – a SEC ampliou o escopo dos setores criativos, até então restrito às 
+indústrias culturais tradicionais, incorporando outros, cuja dimensão e importância já eram 
+reconhecidas ao redor do mundo: 
+ 
+Tabela 2: Escopo dos setores criativos – Ministério da Cultura 2011 
+Categorias culturais Setores 
+No campo do patrimônio a) Patrimônio material 
+b) Patrimônio imaterial 
+c) Arquivos 
+d) Museus 
+No campo das expressões culturais e) Artesanato 
+f) Culturas populares 
+g) Culturas indígenas 
+h) Culturas afro-brasileiras 
+i) Artes visuais 
+j) Arte digital 
+No campo das artes de espetáculo k) Dança 
+l) Música 
+m) Circo 
+n) Teatro 
+No campo do audiovisual/ do livro, da 
+leitura e da literatura 
+o) Cinema e vídeo 
+p) Publicações e mídias impressas 
+No campo das criações culturais e 
+funcionais 
+q) Moda 
+r) Designe 
+s) Arquitetura 
+               Fonte: Adaptado do Plano da Secretaria de economia criativa (2012, p. 30). 
+ 
+Imprescindível na consolidação de um modelo aderente às especificidades do país, o 
+estabelecimento de “pr incípios norteadores” no processo de planejamento da SEC – para além das 
+definições econômica e setorial – refletiu na construção de cenários, capacidades e potencialidades, 
+balizando a construção da política em questão. Is so posto, seria necessário consid erar, em regime 
+de coexistência,  a diversidade cultural do país ; a percepção do conceito de sustentabilidade e o 
+fenômeno da inovação para, então, consagrar um planejamento considerado efetivamente pró -
+desenvolvimento econômico sustentável. 
+A proposição de  vetores de atuação da SEC também introduziu uma metodologia de 
+desenvolvimento da EC por meio da prospecção de territórios criativos, realização de estudos e 
+pesquisas, estabelecimento de marcos legais, empreendedorismo em setores criativos, formação 
+para competências criativas e apoio à criação de redes e coletivos. Importante no debate em curso, 
+Revista Brasileira de Gestão e Desenvolvimento Regional 
+ 
+• G&DR • v. 14, n. 5, p. 134-147, set-dez/2018, Taubaté, SP, Brasil • 
+144 
+frise-se, a ação focada no fomento aos territórios criativos, cujas ações previstas no Plano se 
+propunham a trabalhar: 
+[...] a concepção e a implementação de met odologias, ações, projetos e 
+programas que permitam o surgimento e a institucionalização de territórios 
+criativos (bairros, polos produtivos, cidades e bacias criativas). Serão 
+prospectados espaços que tenham potencial para serem considerados 
+territórios c riativos e, dessa forma, possam potencializar a geração de 
+trabalho, emprego e renda (BRASIL, 2012, p.42). 
+ 
+ 
+Conclusão 
+ Para a caracterização das abordagens propostas neste artigo , utilizou-se dos principais 
+documentos institucionais publicados pelos organ ismos que se lançaram ao estudo da EC no Brasil 
+e no mundo. Para tal, foram feitos alguns recortes principais para composição da análise, dad as a 
+profundidade e a complexidade dos documentos. Para isso, Foucault postula que os recortes são 
+“categorias refl exivas, princípios de classificação, regras normativas, tipos institucionalizados: 
+fatos de discurso que merecer ser analisados ao lado de outros que com eles mantém relações 
+complexas” (FOUCAULT, 2008, p. 25). 
+ Característica marcante dos relatórios, os i ndicadores econômicos da criatividade ao redor 
+do mundo produzem efeitos persuasivos em que são (re)produzidos. Unesco e UNCTAD trouxeram 
+à baila um desenvolvimento cuja composição central é dada pela  economia dos bens simbólicos , 
+intangíveis, intelectuais  e artísticos. Exportações de produtos e serviços criativos em franca 
+expansão, taxa de crescimento econômico do setor superior à 10% / ano  –  mesmo em tempos de 
+crise –, chegando a $ 227 bilhões em 2011 , são fatores que tornaram o discurso da UNCTAD (2010) 
+e da Unesco (2013) de fácil re(produção) e que, nas palavras de Eni Orlandi (2001), surgem como 
+novas formas históricas de existência na discursividade e novas formas históricas de 
+assujeitamento. 
+ Contudo, as mensurações produzidas por Unesco e UNCTAD são fruto da compilação de 
+dados agregados de diferentes países, sem considerar uma ces ta adequada de indicadores e  um 
+tratamento estatístico adequado ao contexto de cada continente -país, restando prejudicada a plena 
+aceitação do discurso (LEITÃO, 2015). Fragilizam, ainda, a grandeza dos dados apresentados o fato 
+de a metodologia adotada pelas organizações  analisadas captarem a produção de riqueza apenas no 
+nível das indústrias (culturais e criativas), por isso agregada, desprezando micro e pequenos 
+empreendedores culturais/criativos e, até mesmo, a riqueza criativa introjetada na imensidão da 
+informalidade ocupacional. 
+  Sob essa afirmação, os discursos produzidos p ela Unesco, pela UNCTAD e pelo MINC 
+nutrem características comuns na perspectiva do reconhecim ento da EC como a transição mais 
+significativa do momento atual. No entanto, não se pode perpetuar o teor discursivo produzido com 
+base nas experiências anglo-saxãs que, em quase nada, constituem a representatividade do cenário 
+latino-americano, em especial no contexto Brasil. Em tom inteligível, García Canclini (2003) alerta 
+para a chamada “americanização” do planeta, cujas influências se estendem à ONU, OEA, FMI , 
+entre outros: “A globalização cultural não é um ramo da engenharia genética, cuja finalidade seria 
+reproduzir em todos os países clones do american way of life”, finaliza (GARCÍA CANCLINI, 2003, 
+p. 30). 
+ Essa ambivalência do mundo globalizado, cuja fábula expoente é a de que seja possível 
+homogeneizar o planeta, traz em seu bojo uma vasta acentuaç ão de desigualdades locais (SANTOS, 
+2000). “ A globalização é, de certa forma, o ápice do processo de internacionalização do mundo 
+capitalista” (idem, p. 23) Para esse enfrentamento, o papel requalificado do Estado deveria ser o de 
+incentivar um desenvolvimento local amparado pela: 
+[...] implantação de um novo modelo econômico, social e político que, a 
+partir de uma nova distribuição dos bens e serviços, conduza à realização 
+de uma vida coletiva solidária e, passando da escala do lugar à escala do 
+planeta, a ssegure uma reforma do mundo, por intermédio de uma outra 
+maneira de realizar a globalização (SANTOS, 2000, p. 170). 
+  
+ Talvez por isso, o Plano Brasil Criativo  – embora tenha sofrido influências diretas dos 
+discursos dos relatórios dos organismos internac ionais integrantes da ONU  – tenha sido formulado 
+Revista Brasileira de Gestão e Desenvolvimento Regional 
+ 
+• G&DR • v. 14, n. 5, p. 134-147, set-dez/2018, Taubaté, SP, Brasil • 
+145 
+espelhando, ideologicamente, os fundamentos da Economia Solidária, cujas relações de 
+sociabilidade, cooperação e solidariedade dão o mote do processo de geração e distribuição da 
+riqueza produzida (SINGER, 2003). 
+ Com efeito, ainda que  os discursos produzidos em torno da EC tenham sido acolhidos e 
+festejados pelos países ricos como uma etapa sofisticada do capitalismo  (LEITÃO, 2015), 
+justamente por nutrir a ideia de “indústria” intensiva  em copyright e altamente concentradora, no 
+contexto Brasil, o discurso ganha contornos de economias intensivas em criatividade e simbologia, 
+com foco quase integral numa lógica de desenvolvimento que perpasse a cultura.  
+ Enquanto a Unesco e a UNCTAD elegeram eixos pautados na propriedade intelectual, 
+direitos autorais e novas mídias, o Plano da SEC priorizou a diversidade cultural do país como 
+estratégica para a produção de riqueza inclus iva e equitativa, o que não é plenamente assegurado  
+nos discursos dos organismos internacio nais. Em comum, o reconhecimento, ainda em estudo, das 
+conexões entre criatividade, inovação e sustentabilidade que abarcam objetivos de 
+desenvolvimento do milênio.  
+ Dessa forma, cumpre  registrar que o embate metodológico de desenvolvimento dos 
+relatórios apresentados constitui uma das principais complexidades da análise de discurso em tela, 
+uma vez que cada organismo realiza a adoção de técnicas de coleta e manipulação de  dados que 
+julga conveniente à sua realidade, colocando em debate suas influências na  elaboração de políticas 
+públicas para o setor. Sendo assim, os relatórios analisados suscitam indagações que motivam 
+outras pesquisas, com possibilidades de abordagens intensivas na agenda do conhecimento, da 
+ciência e da tecnologia. 
+ 
+Referências 
+ARRETCHE, M. Dossiê Agenda de Pesquisa em Pol íticas Públicas. Revista brasileira de Ciências 
+Sociais.  Vol. 18 nº. 51. São Paulo, 2003. 
+BARBOSA DA SILVA, F. A. B; CALABRE. L. (Org.). Pontos de cultura: olhares sobre o Programa 
+cultura viva. Brasília: IPEA, 2011. 
+BARDIN, L. Análise de conteúdo. São Paulo: Edições 70, 2011. 
+BENDASOLLI, P. F. et al.  Compreendendo as indústrias criativas. In: KIRSCHBAUM, C. et al. 
+(coord). Indústrias criativas no Brasil. São Paulo: Atlas, 2009, p. 24-35. 
+BOLAÑO, C. “Economia política,  indústrias criativas e pensamento brasileiro ”. In: BRASIL. 
+Ministério da Cultura. Plano da Secretaria da economia criativa: políticas, diretrizes e ações, 2011-
+2014. Brasília: Ministério da Cultura, 2011. 
+BRASIL. Plano da Secretaria da economia criativa: políticas, diretrizes e ações. 2012. Ministério 
+da Cultura. Disponível em: 
+<http://www.cultura.gov.br/documents/10913/636523/PLANO+DA+SECRETARIA+DA+ECONO
+MIA+CRIATIVA/81dd57b6-e43b-43ec-93cf-2a29be1dd071>. Acesso em: 10 jul. 2017. 
+CAVES, R. E. Creative indu stries – Contracts between art and commerce. Cambrigde: Harvard 
+University Press, 2002. 
+DUISENBERG, E. S. “Secretaria da economia criativa no Brasil”. 2011. In: BRASIL. Ministério da 
+Cultura. Plano da Secretaria da economia criativa: políticas, diretrizes e ações, 2011 -2014. 
+Brasília: Ministério da Cultura. 
+FIRJAN. Mapeamento da indústria criativa no Brasil . Federação das Indústrias do Estado do Rio 
+de Janeiro. Rio de Janeiro, 2012. 
+FOUCAULT, M. A ordem do discurso. São Paulo: Loyola, 2000. 
+______. Arqueologia do saber. 7ª ed. Rio de Janeiro: Forense Universitária, 2008. 
+GARCÍA CANCLINI, N. Polítcas Culturales y Crisis de Desarrollo: un balance latinoamericano. In: 
+GARCIA CANCLINI, N. (Org.). Políticas culturales em América Latina . México: Editorial 
+Grijalbo, 1987. 
+Revista Brasileira de Gestão e Desenvolvimento Regional 
+ 
+• G&DR • v. 14, n. 5, p. 134-147, set-dez/2018, Taubaté, SP, Brasil • 
+146 
+______. Culturas híbridas: estratégias para entrar e sair da modernidade. 5. ed. São Paulo: EDUSP, 
+2011. 
+GUIMARÃES, E. Os limites do sentido. Campinas: Pontes, 1995. 
+HARTLEY, J. (Ed.). Creative industries. Oxford: Blackwell Publishing, 2005. 
+HOWKINS, J. The creative economy – How people make money from ideas. London: Penguin 
+Books, 2013.  
+IBGE. Sistema de contas nacionais 2004-2008. Contas Nacionais nº 31. IBGE. Rio de 
+Janeiro-RJ, 2010.  
+INDURSKY, F. “Da heterogeneidade do discurso à heterogeneidade  do texto e suas implicações no 
+processo de leitura”. In: ERNEST-PEREIRA, A., FUNCK, S. B. A leitura e a escrita como práticas 
+discursivas. Pelotas: Educat, 2001. 
+LABREA, V. C. V. Redes híbridas de cultura : o imaginário no poder  – Cartografia do discurso d o 
+Programa Cultura Viva – 2004 a 2013. Brasília: Faculdade de Educação. Universidade de Brasília, 
+Tese de Doutorado, 2014. 
+LACLAU, E. A razão populista. 1ª ed. Rio de Janeiro: Três Estrelas, 2013. 
+LEITÃO, C. S. Economia criativa e desenvolvimento . Recife: Revista Será. Disponível em: 
+<http://revistasera.info/economia-criativa-e-desenvolvimento-claudia-leitao/>. Acesso em 05 jun. 
+2017.  
+MIGUEZ, P.  “Os estudos entre economia da cultura e economia criativa”. In: KIRSCHBAUM, C. et 
+al (coord). Indústrias criativas no Brasil. São Paulo: Atlas, 2009. 
+OLIVEIRA, J. M. de; ARAUJO, B.C. de; SILVA, L.V. Panorama da economia criativa no Brasil . 
+Texto para discussão. Rio de Janeiro: IPEA, 2013. 
+ORLANDI, E. P. Análise de discurso: princípios e procedimentos. Campinas: Pontes, 2000. 
+______. Discurso e texto: formulação e circulação dos sentidos. Campinas: Pontes, 2001. 
+PÊCHEUX, M. O discurso: estrutura ou acontecimento. São Paulo: Pontes, 1997. 
+REIS, E. P. Reflexões Leigas para a formulação de uma agenda de Pesquisa em Polí ticas Públicas. 
+Revista Brasileira de Ciências Sociais.  Vol. 18 nº. 51. São Paulo, 2003. 
+REIS, A. C. F (org.). Economia Criativa como estratégia de desenvolvimento: uma visão dos 
+países em desenvolvimento. Itaú Cultural: Garimpo de Soluções. São Paulo, 2008. 
+RUBIM, A. A. C. Políticas Culturais entre o possível e o impossível. In: NUSSBAUMER, G.M. 
+Teoria & políticas da cultura: visões multidisciplinares. Salvador: EDUFBA, 2007, p. 138-158. 
+SANTOS, M. Por uma outra globalização : do pensamento único à consciê ncia universal. 4ªed. Rio 
+de Janeiro: Record, 2000. 
+SARAVIA, E.; FERRAREZI, E. Políticas públicas. Brasília: ENAP, Volume 1, 2006. 
+SINGER, P. Economia Solidária: um modo de produção e distribuição. IN SINGER, P. e SOUZA, A. 
+R. de (orgs). A economia solidária no Brasil: a autogestão como resposta ao desemprego. 2.ed. São 
+Paulo: Contexto, 2003. 
+SOUZA, C. Políticas públicas: uma revisão da literatura. In: Sociologias -Scielo, Porto Alegre, n° 16, 
+2006, jul/dez, p. 20-45. 
+UNCTAD. Relatório de Economia Criativa. Economia Criativa: uma opção de desenvolvimento 
+viável. UNCTAD. Nações Unidas, 2010. 
+UNESCO. As indústrias criativas impulsam as economias e o desenvolvimento, segundo o 
+Relatório da ONU . Disponível em:<http://www.UNESCO.org/new/pt/brasilia/about -this-
+office/single-
+view/news/creative_industries_boost_economies_and_development_shows_un_report/#.Vi0 -
+_tKrTIU>. Acesso em: 05 maio 2017. 
+Revista Brasileira de Gestão e Desenvolvimento Regional 
+ 
+• G&DR • v. 14, n. 5, p. 134-147, set-dez/2018, Taubaté, SP, Brasil • 
+147 
+UNESCO. Global Alliance for Cultural Diversity. Understanding creative industries : cultural 
+statistics for public policy making. Paris: UNESCO, 2006. 
+UNESCO. The 2009 UNESCO framework for cultural statistics. Quebec: UNESCO, 2009. 
+UNESCO/UNDP. Creative Economy Report : widening local development pathways. United 
+Nations Development Programme (UNDP) and United Nations Educational, S cientific and Cultural 
+Organization (UNESCO). Paris, 2013. 
+UNESCO. International flows of selected cultural goods and services , 1994 -2003. Defining and 
+capturing the flows of global cultural trade. UNESCO. Disponível em: < 
+http://unesdoc.UNESCO.org/mwg-
+internal/de5fs23hu73ds/progress?id=VKUasEo0oL5XcYTX8H_4VPl9VXhL_f5OA2_T9WVXJoA,> 
+Acesso em: 05 maio 2017. 
